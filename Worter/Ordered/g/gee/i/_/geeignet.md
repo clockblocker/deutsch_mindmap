@@ -38,5 +38,5 @@ Feminine: [[geeignete]], [[geeignetere]], [[geeigneteste]]
 Neuter: [[geeignetes]], [[geeigneteres]], [[geeignetestes]]  
 Plural: [[geeigneten]], [[geeigneteren]], [[geeignetesten]]  
 
-[[Eignung]], [[Geeignetheit]], [[Tauglichkeit]], [[Qualifikation]], [[Fähig]]
+[[Eignung]], [[Geeignetheit]], [[Tauglichkeit]], [[Qualifikation]], [[fähig]]
 , [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]], [[einsatzfähig]], [[wünschenswert]], [[praktikabel]], [[veranlagt]], [[aneignen]], [[anwendbar]], [[adäquat]], [[zurecht]]

@@ -1,7 +1,7 @@
 DAS FESTGESCHENK (nach Hans Fallada)
 [[14 perfekt#^1|^]] Als das Schiff «[[Fröhlicher]] [[Neptun]]» nach fast einem Jahr [[Ostasienfahrt]] am 22. Dezember nach Hamburg kam, waren siebenunddreißig sehr fröhliche Männer am Bord - und ein sehr trauriger Mann, der zweite Offizier Hein Martens. ^1
 
-[[14 perfekt#^2|^]] Er war [[frisch]] [[verheiratet]] und er hat seine Frau lange nicht gesehen. Sie war eine [[ungewöhnliche]] Frau. Hein Martens vermisste sie sehr. Vor der Fahrt erzählte er ihr abends über die Länder und Städte im Ausland, über die Menschen und ihr Leben, über die [[fremden]] [[besonderen]] Sachen.  ^2
+[[14 perfekt#^2|^]] Er war [[frisch]] [[verheiratet]] und er hat seine Frau lange nicht gesehen. Sie war eine [[ungewöhnliche]] Frau. Hein Martens vermisste sie sehr. Vor der Fahrt erzählte er ihr abends über die Länder und Städte im Ausland, über die Menschen und ihr Leben, über die [[fremden]] [[besonderen]] Sachen. ^2
 
 Zusammen besuchten sie Museen und sahen die Sachen aus fremden Ländern an. In einem Museum hat seine Frau zum ersten Mal Buddhas gesehen. Es gab dort viele [[verschiedene]] Buddhas: so kleine, dass man sie in die [[Tasche]] stecken konnte und so große wie drei Männer. Und alle lächelten ein bisschen dumm, fand Hein Martens.
 
@@ -9,7 +9,7 @@ Zusammen besuchten sie Museen und sahen die Sachen aus fremden Ländern an. In e
 
 «Ach ja, ich habe so was in meinem Leben nie gesehen!»
 
-Als Hein Martens im Februar ins Ausland - nach Indien, Japan und China - fahren sollte, wusste er ganz genau, was er seiner Frau zu Weihnachten mitbringt. [[14 perfekt#^3|^]] Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet.  ^3
+Als Hein Martens im Februar ins Ausland - nach Indien, Japan und China - fahren sollte, wusste er ganz genau, was er seiner Frau zu Weihnachten mitbringt. [[14 perfekt#^3|^]] Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet. ^3
 
 Er hat ihn gefunden. Es war in Nagasaki, wo Herr Mikimoto ihm einen kleinen Buddha aus rotem Stein zum Dank für seine Hilfe schenkte. [[14 perfekt#^4|^]] Was für ein Glück! Aber dieses Glück [[dauerte]] nicht lange. ^4
 
@@ -23,15 +23,15 @@ Hein Martens war sehr traurig. [[14 perfekt#^6|^]] «Aber in Hamburg,» - dachte
 
 [[14 perfekt#^9|^]] «Ihr [[Pech]],» - sagte der Verkäufer und stellte seinen Buddha auf das Regal zurück. ^9
 
-Hein Martens wusste nicht, was er machen konnte. Es blieb nur eine Möglichkeit. Er ging sofort ins Museum. Es war kein Mensch dort. 
+Hein Martens wusste nicht, was er machen konnte. Es blieb nur eine Möglichkeit. Er ging sofort ins Museum. Es war kein Mensch dort.
 
 [[14 perfekt#^10|^]] Ohne [[Mühe]] fand er einen kleinen Buddha aus rotem Stein und steckte ihn in die Tasche. ^10
 
- [[14 perfekt#^11|^]] Alles ging schnell, und bald stand er schon wieder auf der Straße. Er ging langsam zur [[Haltestelle]].  ^11
+[[14 perfekt#^11|^]] Alles ging schnell, und bald stand er schon wieder auf der Straße. Er ging langsam zur [[Haltestelle]]. ^11
 
-Der Santaklaus fragte ihn nach der Zeit. Er sah auf die Uhr, es war schon drei. «Was habe ich gemacht?» dachte er plötzlich. 
+Der Santaklaus fragte ihn nach der Zeit. Er sah auf die Uhr, es war schon drei. «Was habe ich gemacht?» dachte er plötzlich.
 
-[[14 perfekt#^12|^]] «Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese [[Geschichte]] nie in meinem Leben!» Und er ging ins Museum zurück.  ^12
+[[14 perfekt#^12|^]] «Ich bin ein [[unehrlicher]] Mensch, ein [[Dieb]], ein [[Verbrecher]]! Ich vergesse diese [[Geschichte]] nie in meinem Leben!» Und er ging ins Museum zurück. ^12
 
 Aber die Tür war schon zu. Wer hatte den Schlüssel? Es gab ab jetzt wieder nur eine Möglichkeit: er sollte zur Polizei gehen.
 
@@ -58,7 +58,6 @@ Aber die Tür war schon zu. Wer hatte den Schlüssel? Es gab ab jetzt wieder nur
 In der kleinen Wohnung stand der Buddha ganz allein am [[Spiegel]] im [[Flur]]. Niemand brauchte ihn. Hein Martens und seine Frau spielten mit ihrem kleinen Sohn.
 
 «Hast du gerade gesehen, wie er lächelte?» fragte die Frau.
-
 
 Bord, e--борт Stein, e- -камень
 Weg, e--путь, дорога
@@ -97,13 +96,11 @@ ehrlich - честный
 Wendungen
 zum ersten Mal -впервый раз die Tür ist zu - дверь закрыта
 
-
-
 14.5 Образуйте Partizip II и проспрягайте в Perfekt следующие глаголы слабого спряжения (со вспомогат. глаголом haben):
 
 machen, lernen, sagen, fragen, hören, zeigen, spielen, kaufen, suchen, brauchen, schicken, planen, leben, wohnen, lieben, kochen, schenken, feiern, [[lachen]], [[lächeln]], antworten, arbeiten, warten
 
-14.6* Заполните пропуски соответствующими формами глаголов в Perfekt:
+14.6\* Заполните пропуски соответствующими формами глаголов в Perfekt:
 
 1. Ich habe heute Tennis gespielt (spielen).
 2. Was hast du gesagt ? (sagen).
@@ -123,13 +120,13 @@ machen, lernen, sagen, fragen, hören, zeigen, spielen, kaufen, suchen, brauchen
 16. Sie ... gestern sehr viel ... (arbeiten).
 17. Er hat mir noch nicht geantwortet (antworten).
 18. Wie lange ... du in diesem Haus ... ? (wohnen).
-14.7 Проспрягайте в Perfekt следующие глаголы. Обратите внимание, что форма Partizip II этих глаголов образуется без префикса ge-:
+    14.7 Проспрягайте в Perfekt следующие глаголы. Обратите внимание, что форма Partizip II этих глаголов образуется без префикса ge-:
 
 z. B. studieren - studiert
 
 studieren, gratulieren, erzählen, erklären, besuchen, untersuchen, bemerken, bestellen, bezahlen, entschuldigen.
 
-14.8* Заполните пропуски соответствующими формами глаголов в Perfekt:
+14.8\* Заполните пропуски соответствующими формами глаголов в Perfekt:
 
 19. Wo ... Sie .....? (studieren).
 20. Ich ... heute meinem Freund zum Geburtstag ..... (gratulieren).
@@ -142,7 +139,7 @@ studieren, gratulieren, erzählen, erklären, besuchen, untersuchen, bemerken, b
 27. Wer ... diese Karten .....? (bezahlen).
 28. Warum ... er das Kind nicht .....? (entschuldigen).
 
-14.12* Заполните пропуски Partizip II глаголов:
+14.12\* Заполните пропуски Partizip II глаголов:
 
 1. Sie hat mir ein schönes Foto gegeben (gegeben).
 2. Ich habe heute niemanden gesehen (gesehen).
@@ -194,7 +191,7 @@ studieren, gratulieren, erzählen, erklären, besuchen, untersuchen, bemerken, b
 45. Er hat .................. geschlafen.
 46. Ich habe .................. getragen.
 
-14.17* Заполните пропуски артиклями в соответствующем роде, числе и падеже:
+14.17\* Заполните пропуски артиклями в соответствующем роде, числе и падеже:
 
 1. Er hat den Weg nicht gefunden.
 2. Das Kind hat einen Bahnhof zum ersten Mal gesehen.
@@ -202,8 +199,8 @@ studieren, gratulieren, erzählen, erklären, besuchen, untersuchen, bemerken, b
 4. Wir haben die Schlüssel nicht mitgenommen.
 5. Sie hat den ganzen Tag heute vor dem Spiegel gesessen.
 6. Er hat den Stein leider nicht [[gekannt]].
-Er hat den Stein leider nicht gekannt.
-Note: "gekannt" should be "gekannt"
+   Er hat den Stein leider nicht gekannt.
+   Note: "gekannt" should be "gekannt"
 
 7. Die Polizisten haben ... Dieb noch nicht gefunden.
 8. Vor ... Fahrt ins Ausland ist er zu uns gekommen.
@@ -220,7 +217,7 @@ Note: "gekannt" should be "gekannt"
 19. Der Verkäufer hat ... Puppen auf ... Regal gestellt.
 20. ... Polizist antwortete ... Professor, dass ... Verbrecher sehr jung war.
 
-14.18* Заполните пропуски предлогами:
+14.18\* Заполните пропуски предлогами:
 
 1. Wir haben auf den Zug am Bahnhof sehr lange gewartet.
 2. Wir sind zum Bahnhof mit dem Taxi gekommen.
@@ -232,17 +229,9 @@ Note: "gekannt" should be "gekannt"
 8. ... dem Weg zurück sind wir ... unseren Freunden geblieben.
 9. ... dem Stein haben ...
 
+wir einen kleinen Zettel gefunden. 10. ... Weihnachten ist es sehr fröhlich ... Bord gewesen. 11. Die Katze hat ihr Bild ... Spiegel ... ersten Mal gesehen. 12. Er hat den Schlüssel gerade ... Schloss gesteckt. 13. Man kann ... Mühe nichts machen. 14. Was steht ... dem Regal ... Zimmer? 15. Hast du etwas ... der Tür gehört? 16. Wann fahren Sie ... Ausland?
 
-wir einen kleinen Zettel gefunden.
-10. ... Weihnachten ist es sehr fröhlich ... Bord gewesen.
-11. Die Katze hat ihr Bild ... Spiegel ... ersten Mal gesehen.
-12. Er hat den Schlüssel gerade ... Schloss gesteckt.
-13. Man kann ... Mühe nichts machen.
-14. Was steht ... dem Regal ... Zimmer?
-15. Hast du etwas ... der Tür gehört?
-16. Wann fahren Sie ... Ausland?
-
-14.19* Заполните пропуски прилагательными в соответствующем роде, числе и падеже:
+14.19\* Заполните пропуски прилагательными в соответствующем роде, числе и падеже:
 
 17. Sie hat es mir mit der ..... Stimme gerade gesagt (fröhlich).
 18. Wir haben über ..... Sachen gesprochen (verschieden).
@@ -254,9 +243,7 @@ wir einen kleinen Zettel gefunden.
 24. Unser Großvater hat drei ..... Sprachen gesprochen (fremd).
 25. In ..... Ländern sieht man das ..... Leben (fremd, besonder).
 
-
-
-14.29* Дополните следующие предложения соответствующими по смыслу глаголами в Perfekt:
+14.29\* Дополните следующие предложения соответствующими по смыслу глаголами в Perfekt:
 
 26. Sie ... die Wahrheit nicht ...
 27. Er ... die Frau lange nicht ...
@@ -284,7 +271,7 @@ wir einen kleinen Zettel gefunden.
 1. Мой коллега сегодня рано пришел на работу. Mein Kollege ist heute früh zur Arbeit gekommen.
 2. Ее друг поехал в Германию на поезде.
 3. Ты остался сегодня дома? Bist du heute zu Hause geblieben
-4. Ты встал в 5 часов утра? Gestanden du um 5 Uhr auf? 
+4. Ты встал в 5 часов утра? Gestanden du um 5 Uhr auf?
 5. Моя подруга поехала в магазин на машине. Meine Freundin ist mit dem Auto ins Geschäft gefahren
 6. Они пошли на работу пешком.
 7. Они приехали вместе.
@@ -296,7 +283,7 @@ wir einen kleinen Zettel gefunden.
 13. Мы поехали к нашим друзьям на метро.
 14. Как долго вы там оставались?
 15. Что упало? - На кухне упал нож со стола.
-16. Ее сын стал наконец специалистом. Он работает теперь инженером на хорошей фирме. 
+16. Ее сын стал наконец специалистом. Он работает теперь инженером на хорошей фирме.
 17. Когда приехали ваши коллеги из Германии? - Они приехали к нам неделю назад.
 
 14.10 Переведите следующие предложения:
@@ -321,18 +308,7 @@ wir einen kleinen Zettel gefunden.
 35. Ты сказал мне правду?
 36. Он показал мне ...
 
-свои фотографии.
-37. Она с ним не поздоровалась.
-38. Она все сделала неправильно.
-39. Она навестила дедушку.
-40. Она пришла домой поздно.
-41. Вы заказали для нас цветы?
-42. Вы сказали им, где мы живем?
-43. Вы заплатили за напитки?
-44. Вы поздоровались с этим господином?
-45. Вы показали ему свою работу?
-46. Вы поехали в театр на такси?
-47. Вы остались у друзей на выходных?
+свои фотографии. 37. Она с ним не поздоровалась. 38. Она все сделала неправильно. 39. Она навестила дедушку. 40. Она пришла домой поздно. 41. Вы заказали для нас цветы? 42. Вы сказали им, где мы живем? 43. Вы заплатили за напитки? 44. Вы поздоровались с этим господином? 45. Вы показали ему свою работу? 46. Вы поехали в театр на такси? 47. Вы остались у друзей на выходных?
 14.15 Переведите следующие предложения:
 
 1. Я совершенно забыл, как называется эта гостиница. Ich habe völlig vergessen, wie dieses Hotel heißt
@@ -340,7 +316,7 @@ wir einen kleinen Zettel gefunden.
 3. Он не думал, что я ему все расскажу.
 4. Они не поняли, что мой брат специалист по электронике.
 5. Мы никогда не видели, что она носит мини-юбки.
-6. Он никогда не ел рыбу с лимоном. Er hat niemals Fisch mit Zitronen [[gegessen]]  
+6. Он никогда не ел рыбу с лимоном. Er hat niemals Fisch mit Zitronen [[gegessen]]
 7. Она никогда не пила пиво с соком.
 8. Они никогда не находили деньги на улице.
 9. Мы никогда не звонили ему так поздно.
@@ -355,62 +331,61 @@ wir einen kleinen Zettel gefunden.
 18. Когда ты приехал?
 19. Почему ты сегодня остался дома?
 
-
 14.16 Переведите, обращая внимание на порядок слов в придаточном предложении:
 
 1. Могу ли я спросить, когда они уехали в Германию? Darf ich dich fragen, wann sie nach [[Deutschland]] gefahren haben?
 2. Ответьте мне пожалуйста, когда приехали специалисты? Bitte sagen Sie mir, wann die Fachkräfte angekommen sind?
-Bitte sagen Sie mir, wann die Fachkräfte angekommen sind?
-1. Я не верю, что вы встали сегодня в 6 часов утра.
- Ich glaube nicht, dass sie heute um 6 Uhr aufgestanden sind 
-2. Он не понимает, как я сделала эту работу
-3. Они знают, что мы уже все забыли. 
-4. Я думаю, что вы уже слышали эту новость.
-5. Я не думаю, что они нас ждали.
-6. Объясни мне, как твой друг стал психологом. Erzähle mir, wie dein Freund ein Psychologe wurde
-7. Они не верят, что ты ездила в Америку.
-8. Он не говорит, во сколько он вчера пришел домой. 
-Er sagt nicht, um wie viel Uhr er gestern nach Hause gekommen ist
-9. Мы рады, что все так хорошо получилось. 
-Wir *freuen* uns, dass alles so gut gelaufen ist
+   Bitte sagen Sie mir, wann die Fachkräfte angekommen sind?
+3. Я не верю, что вы встали сегодня в 6 часов утра.
+   Ich glaube nicht, dass sie heute um 6 Uhr aufgestanden sind
+4. Он не понимает, как я сделала эту работу
+5. Они знают, что мы уже все забыли.
+6. Я думаю, что вы уже слышали эту новость.
+7. Я не думаю, что они нас ждали.
+8. Объясни мне, как твой друг стал психологом. Erzähle mir, wie dein Freund ein Psychologe wurde
+9. Они не верят, что ты ездила в Америку.
+10. Он не говорит, во сколько он вчера пришел домой.
+    Er sagt nicht, um wie viel Uhr er gestern nach Hause gekommen ist
+11. Мы рады, что все так хорошо получилось.
+    Wir _freuen_ uns, dass alles so gut gelaufen ist
 
+    14.20 Переведите следующие предложения:
 
-14.20 Переведите следующие предложения:
-
-1. Она купила эту красивую куклу в особом магазине около вокзала.
- Sie hat diese schöne Puppe in einem besonderem Geschäft in der Nähe des Bahnhofs gekauft
-2. Я заметил, что он не хочет говорить правду.
- Ich habe bemerkt, dass er die Wahrheit nicht sagen will
-3. Я не знала, что вы никогда не ездили за границу
-Ich habe nicht gewusst, dass sie niemals ins Ausland  gefahren sind
-1. Мы долго ждали его на остановке около Университета, но он не пришел.
-2. Мои друзья ходили вчера в полицию и сказали, что видели преступника около вокзала
-Meine Freunde gingen gestern zur Polizei und sagten, dass sie den Verbrecher in der Nähe des Bahnhofs *gesehen haben*.
+12. Она купила эту красивую куклу в особом магазине около вокзала.
+    Sie hat diese schöne Puppe in einem besonderem Geschäft in der Nähe des Bahnhofs gekauft
+13. Я заметил, что он не хочет говорить правду.
+    Ich habe bemerkt, dass er die Wahrheit nicht sagen will
+14. Я не знала, что вы никогда не ездили за границу
+    Ich habe nicht gewusst, dass sie niemals ins Ausland gefahren sind
+15. Мы долго ждали его на остановке около Университета, но он не пришел.
+16. Мои друзья ходили вчера в полицию и сказали, что видели преступника около вокзала
+    Meine Freunde gingen gestern zur Polizei und sagten, dass sie den Verbrecher in der Nähe des Bahnhofs _gesehen haben_.
 
 [[Texte/Misc/GPT]]
 
 Meine Freunde sind gestern zur Polizei gegangen und haben dort gesagt, dass sie einen Verbrecher in der Nähe des Bahnhofs gesehen haben
-nicht [[genau]]: [[zu]] = [[Worter/P/Platzwechsel]], [[bei]] = [[Location]]
+nicht [[genau]]: [[zu]] = [[Platzwechsel]], [[bei]] = [[Location]]
+
 1. Она поставила полки около двери. На полки она положила журналы. Sie hat die Regale bei der Tür aufgestellt. Auf die Regale hat sie Zeitschriften gelegt.
 2. Нам нужен был их адрес, но мы не нашли его дома.
 3. Я забыл, какая у тебя была идея.
 4. В первый раз я увидел этого человека четыре года назад.
- Тогда я его еще не знал.  [[14 perfekt#^17|^]] Das erste Mal, dass ich diesen Menschen gesehen habe, war vor vier Jahren. [[Damals]] kannte ich ihn noch nicht ^17
+   Тогда я его еще не знал. [[14 perfekt#^17|^]] Das erste Mal, dass ich diesen Menschen gesehen habe, war vor vier Jahren. [[Damals]] kannte ich ihn noch nicht ^17
 
- 
- Das erste Mal, dass ich diesen Menschen gesehen habe, war vor fier Jahren.
+Das erste Mal, dass ich diesen Menschen gesehen habe, war vor fier Jahren.
+
 1. В нашей стране много семей с 3-4 детьми.
 2. Она не записала на листке его адрес и никто не мог к нему поехать.
 3. Без труда не выучишь ни один иностранный язык. Ohne [[Mühe]], lernt man keine [[Fremdsprache]]
 4. По дороге на вокзал мы разговаривали о нашей поездке за город
-[[Unterwegs]] zum Bahnhof haben wir über unseren [[Ausflug]] aufs Land gesprochen 
-1. Мой друг принес мне свежие цветы из своего сада. Это были особенные цветы
- Мой друг принес мне свежие цветы из своего сада Mein Freund hat mir frische Blumen aus seinem Garten gebracht. Das waren besonderen Blumen 
-2. Почему ты разговариваешь тихим голосом? Нас никто не слышит. Warum sprichst du mit leise Stimme? Niemand hört uns 
-3. Почему ты все еще стоишь перед зеркалом? Наши друзья уже приехали.
-4. Его жизнь в этой семье не была радостной.
-5. Я положила ключ в сумку, а теперь не могу найти его.
-6. Мы говорим о разных вещах. Ты не понял мою идею. Мне все равно! У тебя слишком много идей! Wir sprechen über [[verschiedene]] Sachen.
+   [[Unterwegs]] zum Bahnhof haben wir über unseren [[Ausflug]] aufs Land gesprochen
+5. Мой друг принес мне свежие цветы из своего сада. Это были особенные цветы
+   Мой друг принес мне свежие цветы из своего сада Mein Freund hat mir frische Blumen aus seinem Garten gebracht. Das waren besonderen Blumen
+6. Почему ты разговариваешь тихим голосом? Нас никто не слышит. Warum sprichst du mit leise Stimme? Niemand hört uns
+7. Почему ты все еще стоишь перед зеркалом? Наши друзья уже приехали.
+8. Его жизнь в этой семье не была радостной.
+9. Я положила ключ в сумку, а теперь не могу найти его.
+10. Мы говорим о разных вещах. Ты не понял мою идею. Мне все равно! У тебя слишком много идей! Wir sprechen über [[verschiedene]] Sachen.
 
 Мы говорим о разных вещах. Wir sprechen über [[verschiedene]] Sachen.
 
@@ -419,36 +394,36 @@ gefahren = einfach weggefahren, aber nicht [[unbedingt]] für immer.
 
 14.25 Переведите следующие предложения:
 
-1. Ее брат женился на моей сестре и они уехали за границу. Ihr Bruder hat meine Schwerster geheiratet und sie sind ins Ausland gefahren 
+1. Ее брат женился на моей сестре и они уехали за границу. Ihr Bruder hat meine Schwerster geheiratet und sie sind ins Ausland gefahren
 2. Они пообещали мне, что привезут подарок к рождеству: цветок из камня
-Sie haben mir versprochen, dass sie mir einen Geschenk zu [[Weihnachten]] mitzubringen werden: eine Blume aus Stein
-1. Их поездка длилась две недели. Ihre Reise [[dauerte]] zwei Wochen.
-Ihre Reise dauerte zwei Wochen 
-1. Мы очень по ним скучали.
-Wir haben sie sehr vermisst 
-1. В Японии они потеряли деньги.
-In Japan haben sie Geld *verloren*.
-In Japan haben sie Geld verloren
-in Japan haben sie Geld verloren
+   Sie haben mir versprochen, dass sie mir einen Geschenk zu [[Weihnachten]] mitzubringen werden: eine Blume aus Stein
+3. Их поездка длилась две недели. Ihre Reise [[dauerte]] zwei Wochen.
+   Ihre Reise dauerte zwei Wochen
+4. Мы очень по ним скучали.
+   Wir haben sie sehr vermisst
+5. В Японии они потеряли деньги.
+   In Japan haben sie Geld _verloren_.
+   In Japan haben sie Geld verloren
+   in Japan haben sie Geld verloren
 
 [[Texte/Misc/GPT]]
+
 1. Моя сестра положила деньги в сумку
-Meine Schwester hat *das* Geld in die Tasche gelegt.
-Meine Schwester hat das Geld in die Tasche gelegt 
+   Meine Schwester hat _das_ Geld in die Tasche gelegt.
+   Meine Schwester hat das Geld in die Tasche gelegt
 1. Когда они сидели в кафе, вор вынул деньги из ее сумки.
-Als sie im Cafe sassen, hat ein Dieb ihr Geld aus ihrer Tasche genommen
+   Als sie im Cafe sassen, hat ein Dieb ihr Geld aus ihrer Tasche genommen
 1. Моя сестра хотела позвать официанта, но вдруг потеряла голос. Тогда ее муж позвал его. Meine Schwester hat einen Ober anrufen wollen, dann hat sie ihr Stimme verloren.
-2. Официант позвонил в полицию, и полицейские приехали в кафе.
-3. Один полицейский остался с ними. Он нашел и арестовал преступника. 
-Ein Polizei ist bei ihnen geblieben. Er hat den Verbrecher gefunden und [[festgenommen]]  
+1. Официант позвонил в полицию, и полицейские приехали в кафе.
+1. Один полицейский остался с ними. Он нашел и арестовал преступника.
+   Ein Polizei ist bei ihnen geblieben. Er hat den Verbrecher gefunden und [[festgenommen]]
 
 1. Моя сестра и ее муж пригласили полицейского к столу и заказали для него пиво.
- Meine Schwester und ihr Mann haben einen Polizisten an ihren Tisch eingeladen und haben für ihn ein Bier bestellt. 
+   Meine Schwester und ihr Mann haben einen Polizisten an ihren Tisch eingeladen und haben für ihn ein Bier bestellt.
 
+1. Они долго разговаривали о жизни за границей.
 
-2. Они долго разговаривали о жизни за границей.
-
-14.26 Подберите антонимы к следующим прилагательным:
+   14.26 Подберите антонимы к следующим прилагательным:
 
 fröhlich -> traurig, [[richtig]] -> falsch, dumm -> klug , [[enttäuscht]] -> [[hoffnungsvoll]], schnell -> [[langsam]], [[laut]] -> [[leise]], kurz -> lang, [[neu]] -> bekannt, jung -> alt, klein -> gross, [[gewöhnlich]] -> [[besonders]], [[gesund]] -> krank, [[teuer]] -> [[billig]] , böse -> gut.
 
@@ -460,25 +435,25 @@ fröhlich -> traurig, [[richtig]] -> falsch, dumm -> klug , [[enttäuscht]] -> [
 
 1. Он никогда в жизни не видел этого человека. Но он слышал его голос. Er hat niemals in seinem Leben diesen Menschen gesehen. Aber er hat seine Stimme gehört
 2. Его поездка за границу длилась недолго, вскоре он приехал домой.
-Seine Auslandsreise hat nicht lange gedauert, bald ist er wieder nach Hause gekommen 
+   Seine Auslandsreise hat nicht lange gedauert, bald ist er wieder nach Hause gekommen
 
-Seine Auslandsreise war nicht von langer Dauer, bald kam er wieder *nach* Hause.
+Seine Auslandsreise war nicht von langer Dauer, bald kam er wieder _nach_ Hause.
 
 1. По дороге домой она потеряла сумку с деньгами. Это была лишь ее вина.
- Aus dem Weg nach Hause hat sie ihre Tasche mit dem Geld verloren. Es war allein ihre [[Schuld]] 
-2. Он без труда нашел ее дом, потому что он знал адрес. 
-Er hat ohne Mühe
-1. Мой друг спросил меня, который час, потому что он потерял свои часы.
-2. Фильм продлился 1 час 40 минут. Я посмотрел на часы и записал время на листке
-3. Когда я пришел вечером домой, дверь была закрыта. Я достал ключ, вставил его в замок и вошел в квартиру.
-4. В первый раз он сам пошел в полицию, потому что понял свою вину.
-5. По дороге в полицию ему вдруг в голову пришла другая идея.
-6. Я не верю, что он попросил тебя о помощи. Он всегда все делает сам.
-7. Она ответила мне тихим голосом, что очень по мне скучала.
-8. Когда преступник понял, что полицейские могут его арестовать, он поехал на вокзал. Но полицейские нашли его в поезде.
-9. Эта девушка недавно замужем, она только что уехала смужем за границу.
-10. Ее друг пообещал ей новую жизнь, но это было невозможно.
-11. Что он пообещал ей? Я не знаю. Мне все равно.
+   Aus dem Weg nach Hause hat sie ihre Tasche mit dem Geld verloren. Es war allein ihre [[Schuld]]
+2. Он без труда нашел ее дом, потому что он знал адрес.
+   Er hat ohne Mühe
+3. Мой друг спросил меня, который час, потому что он потерял свои часы.
+4. Фильм продлился 1 час 40 минут. Я посмотрел на часы и записал время на листке
+5. Когда я пришел вечером домой, дверь была закрыта. Я достал ключ, вставил его в замок и вошел в квартиру.
+6. В первый раз он сам пошел в полицию, потому что понял свою вину.
+7. По дороге в полицию ему вдруг в голову пришла другая идея.
+8. Я не верю, что он попросил тебя о помощи. Он всегда все делает сам.
+9. Она ответила мне тихим голосом, что очень по мне скучала.
+10. Когда преступник понял, что полицейские могут его арестовать, он поехал на вокзал. Но полицейские нашли его в поезде.
+11. Эта девушка недавно замужем, она только что уехала смужем за границу.
+12. Ее друг пообещал ей новую жизнь, но это было невозможно.
+13. Что он пообещал ей? Я не знаю. Мне все равно.
 
 14.33 Переведите следующий диалог:
 
@@ -498,7 +473,6 @@ Er hat ohne Mühe
 
 Дитер: Как жаль, что я тоже не стал морским офицером! Ты
 знаешь, что я теперь работаю полицейским?
-
 
 Хайн: Не может быть! В первый раз слышу. И давно ты работа-
 ешь в полиции?
@@ -530,5 +504,3 @@ Er hat ohne Mühe
 13. Niemand ist ohne [[Schuld]].
 14. Anderes Land, anderes [[Glück]].
 15. Ein Leben ohne Freund ist eine Welt ohne Sonne.
-
-

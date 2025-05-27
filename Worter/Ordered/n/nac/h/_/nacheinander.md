@@ -1,1 +1,1 @@
-, [[gleichzeitig]]
+, [[gleichzeitig]], [[reihenweise]]

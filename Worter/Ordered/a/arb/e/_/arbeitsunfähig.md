@@ -31,4 +31,4 @@ N: [[arbeitsunfähiges]], [[arbeitsunfähigeres]], [[arbeitsunfähigstes]]
 P: [[arbeitsunfähigen]], [[arbeitsunfähigeren]], [[arbeitsunfähigsten]]  
 
 ---
-[[Arbeitsunfähigkeit]], [[arbeiten]], [[Arbeit]], [[Fähigkeit]], [[unfähig]], [[Fähig]]
+[[Arbeitsunfähigkeit]], [[arbeiten]], [[Arbeit]], [[Fähigkeit]], [[unfähig]], [[fähig]]

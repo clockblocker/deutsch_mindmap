@@ -1,25 +1,25 @@
 https://www.youtube.com/watch?v=Bh0cmSzf7X8
 ![[Pasted image 20240815084827.png]]
 
-»Ob der _Philipp_ heute still  
-wohl bei Tische sitzen will?« 
-*Also sprach in ernstem Ton*  
-*der Papa zu seinem Sohn,*  
+»Ob der *Philipp* heute still  
+wohl bei Tische sitzen will?«
+_Also sprach in ernstem Ton_  
+_der Papa zu seinem Sohn,_
 
-Also [[Worter/S/sprechen|sprach]] in [[ernst|ernstem]] [[Ton]]
+Also [[sprechen|sprach]] in [[ernst|ernstem]] [[Ton]]
 der [[Papa]] zu seinem [[Sohn]],
 
-*und die Mutter blickte stumm*  
-*auf dem ganzen Tisch herum.*  
+_und die Mutter blickte stumm_  
+_auf dem ganzen Tisch herum._
 
 und die [[Mutter]] [[blicken|blickte]] [[stumm]] auf dem ganzen [[Tisch]] [[herum]].
 
 Doch der Philipp hörte nicht,  
 was zu ihm der Vater spricht.  
-*Er gaukelt*  
-*und schaukelt,*  
-*er trappelt*  
-*und zappelt*  
+_Er gaukelt_  
+_und schaukelt,_  
+_er trappelt_  
+_und zappelt_
 
 Er [[gaukeln|gaukelt]]
 und [[schaukeln|schaukelt]],
@@ -29,7 +29,6 @@ und [[zappeln|zappelt]],
 auf dem Stuhle hin und her.  
 »Philipp, das [[mißfällt]] mir sehr!«
 
-	
 ![[Pasted image 20240815084841.png]]
 
 Seht, ihr lieben Kinder, seht,  
@@ -38,15 +37,12 @@ Oben steht es auf dem Bild.
 Seht! er [[schaukeln|schaukelt]] gar zu [[wild]],  
 bis der Stuhl nach hinten fällt.  
 Da ist nichts mehr, was ihn hält.  
-*Nach dem Tischtuch greift er, schreit.*  
-*Doch was hilft’s? [[Zu gleicher Zeit*]]  
-*fallen Teller, Flasch und Brot.*  
+_Nach dem Tischtuch greift er, schreit._  
+_Doch was hilft’s? [[Zu gleicher Zeit_]]  
+_fallen Teller, Flasch und Brot._  
 Vater ist in großer Not,  
 und die Mutter blicket stumm  
 auf dem ganzen Tisch herum.
-
-
-
 
 ![[Pasted image 20240815084853.png]]
 
@@ -56,7 +52,7 @@ Was der Vater essen wollt,
 unten auf der Erde [[rollt]].  
 Suppe, Brot und alle [[Bissen]],  
 alles ist her[[abgerissen]].  
-[[Suppenschüssel]] ist [[entzwei]], 
+[[Suppenschüssel]] ist [[entzwei]],
 und die [[Eltern]] [[stehen|stehn]] dabei.
 Beide sind gar [[zornig]] sehr,  
 haben nichts zu essen mehr.

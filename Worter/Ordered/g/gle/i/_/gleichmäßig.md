@@ -26,4 +26,4 @@ even, uniform
 Adjektive: [[gleichmäßig]], [[gleichmäßiger]], [[gleichmäßigst]]
 
 ---
-[[gleichmäßiger]], [[gleichmäßiges]], [[gleichmäßige]], [[gleichmäßigen]], [[gleichmäßigem]], [[gleichmäßigerer]], [[gleichmäßigeres]], [[gleichmäßigere]], [[gleichmäßigeren]], [[gleichmäßigerem]], [[gleichmäßigster]], [[gleichmäßigstes]], [[gleichmäßigste]], [[gleichmäßigsten]], [[gleichmäßigstem]]
+[[gleichmäßiger]], [[gleichmäßiges]], [[gleichmäßige]], [[gleichmäßigen]], [[gleichmäßigem]], [[gleichmäßigerer]], [[gleichmäßigeres]], [[gleichmäßigere]], [[gleichmäßigeren]], [[gleichmäßigerem]], [[gleichmäßigster]], [[gleichmäßigstes]], [[gleichmäßigste]], [[gleichmäßigsten]], [[gleichmäßigstem]], [[stetig]]

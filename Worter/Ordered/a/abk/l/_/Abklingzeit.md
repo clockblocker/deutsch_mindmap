@@ -2,29 +2,34 @@
 die [[Abklingzeiten]]
 
 ---
+
 Danach gilt eine globale [[Abklingzeit]] von 15 Sek., bevor der Effekt [[erneut]] [[eintreten]] kann.
 
 ---
+
 = [[Zerfallszeit]]
-≈ [[Worter/Z/zeit]], [[Dauer]]
+≈ [[zeit]], [[Dauer]]
 ≠ [[keine]]
 
 ---
+
 decay time, decay period  
 время затухания
 
 ---
-[[abklingen]], [[Worter/Z/zeit]]
+
+[[abklingen]], [[zeit]]
 
 ---
-[[Ab]]|[[kling]]|[[Worter/Z/zeit]]
+
+[[Ab]]|[[kling]]|[[zeit]]
 [[Abklingzeit]]
 
-
 ---
+
 N: die [[Abklingzeit]], die [[Abklingzeiten]]
 A: die [[Abklingzeit]], die [[Abklingzeiten]]
 G: der [[Abklingzeit]], der [[Abklingzeiten]]
 D: der [[Abklingzeit]], den [[Abklingzeiten]]
 
-#Feminin 
+#Feminin

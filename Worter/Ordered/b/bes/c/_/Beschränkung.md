@@ -28,4 +28,4 @@ A: die [[Beschränkung]], die [[Beschränkungen]]
 G: der [[Beschränkung]], der [[Beschränkungen]]
 D: der [[Beschränkung]], den [[Beschränkungen]]
 
-#Feminin
+#Feminin, [[Anwerbeverbot]]

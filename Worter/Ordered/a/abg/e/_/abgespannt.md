@@ -1,1 +1,0 @@
-, [[ausgeruht]], [[erschöpft]], [[matt]]

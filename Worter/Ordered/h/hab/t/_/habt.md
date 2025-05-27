@@ -1,2 +1,2 @@
-, [[Worter/H/haben]], [[schleudern]]
+, [[haben]], [[schleudern]]
 , [[befreunden]], [[unterhalten]]

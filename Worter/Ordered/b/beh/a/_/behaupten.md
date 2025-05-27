@@ -41,4 +41,4 @@ Zu+infinitive: [[zu behaupten]]
 [[behaupten]] - [[be]] = [[haupten]] / to claim, to assert, to maintain
 
 ---
-[[Behauptungen]], [[Behaupter]], [[Behaupterin]], [[behauptbar]], [[unbehauptbar]], [[Behauptung]], [[besagen]], [[durchsetzen]]
+[[Behauptungen]], [[Behaupter]], [[Behaupterin]], [[behauptbar]], [[unbehauptbar]], [[Behauptung]], [[besagen]], [[durchsetzen]], [[einwenden]]

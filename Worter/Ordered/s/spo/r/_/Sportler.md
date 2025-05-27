@@ -1,1 +1,1 @@
-, [[Läufer]], [[Worter/S/Sport]], [[Ausdauersport]], [[Ausdauersportler]], [[Leistungssportler]]
+, [[Läufer]], [[Sport]], [[Ausdauersport]], [[Ausdauersportler]], [[Leistungssportler]]

@@ -1,1 +1,1 @@
-, [[Lernende]]
+, [[Lernende]], [[Praktikum]]

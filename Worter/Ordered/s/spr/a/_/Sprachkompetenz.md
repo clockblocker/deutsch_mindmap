@@ -1,1 +1,1 @@
-, [[Englischkenntnisse]]
+, [[Englischkenntnisse]], [[Sprachkenntnis]]

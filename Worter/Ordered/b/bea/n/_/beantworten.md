@@ -3,17 +3,21 @@
 ---
 
 ---
+
 = [[antworten]], [[erwidern]],[[entgegnen]]
 ≈ [[melden]], [[reden]], [[sagen]]
 ≠ [[schweigen]], [[ignorieren]], [[unterbrechen]]
 
 ---
+
 to answer, to reply
 
 ---
-[[be]]|[[ant]]|[[Worter/W/Wort]]|[[en]]
+
+[[be]]|[[ant]]|[[Wort]]|[[en]]
 
 ---
+
 ich: [[beantworte]], [[beantwortete]], –, [[beantworte]], [[beantwortete]]
 du: [[beantwortest]], [[beantwortetest]], [[beantworte]] | [[beantworte]], [[beantwortest]], [[beantworetest]]
 er/sie/es: [[beantwortet]], [[beantwortete]], –, [[beantworte]], [[beantwortete]]
@@ -23,8 +27,10 @@ ihr: [[beantwortet]], [[antwortetet]], [[antwortet]], [[antwortet]], [[antwortet
 PI: [[antwortend]], PII: [[beantwortet]], Zu+inf: [[zu beantworten]]
 
 ---
+
 [[beantworten]] - [[be]] = [[antworten]] / to answer, to reply
 
 ---
+
 [[Antwort]], [[Antworten]]
 [[Antwortbrief]], [[Antwortkarte]], [[Antwortschreiben]], [[Antwortformular]]

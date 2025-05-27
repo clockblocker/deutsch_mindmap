@@ -32,4 +32,4 @@ D: dem [[Arbeitnehmer]], den [[Arbeitnehmern]]
 [[Arbeitsverhältnis]], [[Rentner]], [[Arbeitswelt]], [[Gewerkschaft]]
 , [[Angestellte]], [[Erwerbstätige]], [[Belegschaft]], [[Erwerbstätigkeit]], [[Arbeitnehmerrecht]], [[Beschäftigte]], [[Pendler]]
 
-#Maskulin 
+#Maskulin , [[Arbeitskraft]]

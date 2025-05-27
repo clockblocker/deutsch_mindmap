@@ -2,26 +2,31 @@
 die [[Behördensprachen]]
 
 ---
+
 **Soll Englisch zweite [[Behördensprache]] in Deutschland werden?**
 
 ---
+
 = [[Amtsdeutsch]], [[Verwaltungssprache]]
 ≈ [[Fachsprache]], [[Juristendeutsch]]
 ≠ [[Umgangssprache]], [[Alltagssprache]]
 
 ---
+
 officialese, bureaucratic language  
 канцелярский язык
 
 ---
-[[Behörde]], [[Worter/S/Sprache]], [[amtlich]], [[bürokratisch]]
+
+[[Behörde]], [[Sprache]], [[amtlich]], [[bürokratisch]]
 
 ---
+
 [[Behörde]]|`n`|[[sprach]]|[[e]]
 [[Behördensprache]]
 
-
 ---
+
 N: die [[Behördensprache]], die [[Behördensprachen]]
 A: die [[Behördensprache]], die [[Behördensprachen]]
 G: der [[Behördensprache]], der [[Behördensprachen]]

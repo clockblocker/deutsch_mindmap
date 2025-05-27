@@ -1,15 +1,13 @@
 [[Grammatik/Morphem/Stamm/List/s/schmal (Stamm)|schmal]]
 
-
 ---
-- *Die* [[Worter/S/schmale.md|schmale]] *Mutter und ein* [[Worter/S/schmaler.md|schmaler]] *Sohn gaben* [[Worter/S/schmalem.md|schmalem]] *Vater ein* [[Worter/S/schmales.md|schmales]] *Geschenk* [[Worter/S/schmalen.md|schmalen]] *Onkels*
-- *Die* [[Worter/S/schmalere.md|schmalere]] *Mutter und ein* [[Worter/S/schmalerer.md|schmalerer]] *Sohn gaben* [[Worter/S/schmalerem.md|schmalerem]] *Vater ein* [[Worter/S/schmaleres.md|schmaleres]] *Geschenk* [[Worter/S/schmaleren.md|schmaleren]] *Onkels*
-- *Die* [[Worter/Flexion/Adjektiv/s/c/schmalste|schmalste]] *Mutter und ein* [[Worter/S/schmalster.md|schmalster]] *Sohn gaben* [[Worter/Flexion/Adjektiv/s/c/schmalstem|schmalstem]] *Vater ein* [[Worter/S/schmalstes.md|schmalstes]] *Geschenk* [[Worter/S/schmalsten.md|schmalsten]] *Onkels*
 
-- *Die* [[Worter/S/schmale.md|schmale]] *Mutter und ein* [[Worter/S/schmaler.md|schmaler]] *Sohn gaben* [[Worter/S/schmalem.md|schmalem]] *Vater ein* [[Worter/S/schmales.md|schmales]] *Geschenk* [[Worter/S/schmalen.md|schmalen]] *Onkels*
-- *Die* [[Worter/Flexion/Adjektiv/s/c/schmälere|schmälere]] *Mutter und ein* [[Worter/Flexion/Adjektiv/s/c/schmälerer|schmälerer]] *Sohn gaben* [[Worter/Flexion/Adjektiv/s/c/schmälerem|schmälerem]] *Vater ein* [[Worter/Flexion/Adjektiv/s/c/schmäleres|schmäleres]] *Geschenk* [[Worter/Flexion/Adjektiv/s/c/schmäleren|schmäleren]] *Onkels*
-- *Die* [[Worter/Flexion/Adjektiv/s/c/schmälste|schmälste]] *Mutter und ein* [[Worter/Flexion/Adjektiv/s/c/schmälster|schmälster]] *Sohn gaben* [[Worter/Flexion/Adjektiv/s/c/schmälstem|schmälstem]] *Vater ein* [[Worter/Flexion/Adjektiv/s/c/schmälstes|schmälstes]] *Geschenk* [[Worter/Flexion/Adjektiv/s/c/schmälsten|schmälsten]] *Onkels*
+- _Die_ [[schmale.md|schmale]] _Mutter und ein_ [[schmaler.md|schmaler]] _Sohn gaben_ [[schmalem.md|schmalem]] _Vater ein_ [[schmales.md|schmales]] _Geschenk_ [[schmalen.md|schmalen]] _Onkels_
+- _Die_ [[schmalere.md|schmalere]] _Mutter und ein_ [[schmalerer.md|schmalerer]] _Sohn gaben_ [[schmalerem.md|schmalerem]] _Vater ein_ [[schmaleres.md|schmaleres]] _Geschenk_ [[schmaleren.md|schmaleren]] _Onkels_
+- _Die_ [[Flexion/Adjektiv/s/c/schmalste|schmalste]] _Mutter und ein_ [[schmalster.md|schmalster]] _Sohn gaben_ [[Flexion/Adjektiv/s/c/schmalstem|schmalstem]] _Vater ein_ [[schmalstes.md|schmalstes]] _Geschenk_ [[schmalsten.md|schmalsten]] _Onkels_
 
-
+- _Die_ [[schmale.md|schmale]] _Mutter und ein_ [[schmaler.md|schmaler]] _Sohn gaben_ [[schmalem.md|schmalem]] _Vater ein_ [[schmales.md|schmales]] _Geschenk_ [[schmalen.md|schmalen]] _Onkels_
+- _Die_ [[Flexion/Adjektiv/s/c/schmälere|schmälere]] _Mutter und ein_ [[Flexion/Adjektiv/s/c/schmälerer|schmälerer]] _Sohn gaben_ [[Flexion/Adjektiv/s/c/schmälerem|schmälerem]] _Vater ein_ [[Flexion/Adjektiv/s/c/schmäleres|schmäleres]] _Geschenk_ [[Flexion/Adjektiv/s/c/schmäleren|schmäleren]] _Onkels_
+- _Die_ [[Flexion/Adjektiv/s/c/schmälste|schmälste]] _Mutter und ein_ [[Flexion/Adjektiv/s/c/schmälster|schmälster]] _Sohn gaben_ [[Flexion/Adjektiv/s/c/schmälstem|schmälstem]] _Vater ein_ [[Flexion/Adjektiv/s/c/schmälstes|schmälstes]] _Geschenk_ [[Flexion/Adjektiv/s/c/schmälsten|schmälsten]] _Onkels_
 
 [[speziellen]], [[breit]], [[weit]], [[schmale]], [[speziell]], [[schlank]], [[klein]]

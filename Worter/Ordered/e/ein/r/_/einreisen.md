@@ -1,9 +1,11 @@
 🚪 [[einreisen]], [ˈaɪ̯nˌʁaɪ̯zən] | [[reiste ein]], sein [[eingereist]]
 
 ---
-221. Deutschland ist [[Mitglied]] des [[Schengener]] [[Abkommens]]. Was bedeutet das? (96%)
-	- [x] Deutsche können in viele Länder Europas ohne Passkontrolle reisen.
-	- [ ] Alle Menschen können ohne Personenkontrolle in Deutschland [[einreisen]].
+*[[C1-Hoehen-T3-301-Text#^14|^]]* Herr Osterholz möchte [[Zuwanderer]] nur mit [[ausreichend]]en Sprachkenntnissen [[einreisen]] lassen
+
+Deutschland ist [[Mitglied]] des [[Schengener]] [[Abkommens]]. Was bedeutet das? (96%)
+- [x] Deutsche können in viele Länder Europas ohne Passkontrolle reisen.
+- [ ] Alle Menschen können ohne Personenkontrolle in Deutschland [[einreisen]].
 
 ---
 = [[immigrieren]], [[hereinreisen]], [[grenzüberschreiten]]

@@ -1,8 +1,8 @@
 Familie
 
-Der [[Mann]] und die [[Frau]] [[Leben]] [[in]] [[einem]] [[Haus]]. Der [[Mann]] [[heißt]] Peter und die [[Frau]] [[heißt]] Anna. Sie [[Worter/H/haben]] [[zwei]] Kinder: [[einen]] [[Jungen]] und [[ein]] [[Mädchen]].
+Der [[Mann]] und die [[Frau]] [[Leben]] [[in]] [[einem]] [[Haus]]. Der [[Mann]] [[heißt]] Peter und die [[Frau]] [[heißt]] Anna. Sie [[haben]] [[zwei]] Kinder: [[einen]] [[Jungen]] und [[ein]] [[Mädchen]].
 
-Der [[Junge]] [[heißt]] Max und das [[Mädchen]] [[heißt]] Lena. Max und Lena [[spielen]] [[oft]] [[zusammen]]. Sie [[Worter/H/haben]] [[einen]] [[Hund]] und [[eine]] [[Katze]]. Der [[Hund]] [[heißt]] Bello und die [[Katze]] [[heißt]] Mimi.
+Der [[Junge]] [[heißt]] Max und das [[Mädchen]] [[heißt]] Lena. Max und Lena [[spielen]] [[oft]] [[zusammen]]. Sie [[haben]] [[einen]] [[Hund]] und [[eine]] [[Katze]]. Der [[Hund]] [[heißt]] Bello und die [[Katze]] [[heißt]] Mimi.
 
 Der [[Vater]], Peter, [[fährt]] [[jeden]] [[Tag]] [[mit]] [[dem]] [[Auto]] [[zur]] [[arbeit 1]]. Die [[Mutter]], Anna, [[bleibt]] [[zu]] [[Hause]] und [[kümmert]] [[sich]] [[um]] die Kinder. Sie [[wohnen]] [[in]] [[E/einer]] [[schönen]] [[Wohnung]] [[mit]] [[Drei]] [[Zimmern]].
 
@@ -10,55 +10,49 @@ Der [[Vater]], Peter, [[fährt]] [[jeden]] [[Tag]] [[mit]] [[dem]] [[Auto]] [[zu
 
 Max [[fährt]] [[gerne]] [[Fahrrad]] und [[Lena]] [[spielt]] [[gerne]] [[mit]] [[dem]] [[Hund]]. [[an]] [[Wochenenden]] [[fährt]] die [[Familie]] [[oft]] [[mit]] [[dem]] [[Bus]] [[Ins]] [[Kino]]. Sie [[sehen]] [[viele]] [[Filme]] [[zusammen]].
 
-Max [[liest]] [[gerne]] [[Bücher]]. [[sein]] [[Lieblingsbuch]] [[ist]] [[Worter/Ü/über]] [[ein]] [[großes]] [[Schiff]]. Lena [[mag]] [[Puppen]] und [[spielt]] [[oft]] [[in]] [[ihrem]] [[zimmer]].Die [Familie]] [[ist]] [[glücklich]]. Sie [[verbringen]] [[viel]] [[Worter/Z/zeit]] [[zusammen]] und [[Worter/H/haben]] [[immer]] [[Spaß]].
-
-
+Max [[liest]] [[gerne]] [[Bücher]]. [[sein]] [[Lieblingsbuch]] [[ist]] [[Ü/über]] [[ein]] [[großes]] [[Schiff]]. Lena [[mag]] [[Puppen]] und [[spielt]] [[oft]] [[in]] [[ihrem]] [[zimmer]].Die [Familie]] [[ist]] [[glücklich]]. Sie [[verbringen]] [[viel]] [[zeit]] [[zusammen]] und [[haben]] [[immer]] [[Spaß]].
 
 1. Der [[Mann]] – Мужчина. Муж.
-• Plural: die [[Nomen/Männer]]
+   • Plural: die [[Nomen/Männer]]
 2. Die [[Frau]] – Женщина. Жена.
-• Plural: die [[Frauen]]
+   • Plural: die [[Frauen]]
 3. Der [[Junge]] – Мальчик.
-• Plural: die [[Jungen]]
+   • Plural: die [[Jungen]]
 4. Das [[Mädchen]] – Девочка.
-• Plural: die [[Mädchen]]
+   • Plural: die [[Mädchen]]
 5. Das [[Kind]] – Ребенок.
-• Plural: die [[Kinder]]
+   • Plural: die [[Kinder]]
 6. Der [[Vater]] – Отец.
-• Plural: die [[Väter]]
+   • Plural: die [[Väter]]
 7. Die [[Mutter]] – Мать.
-• Plural: die [[Mütter]]
+   • Plural: die [[Mütter]]
 8. Der [[Opa]] – Дедушка.
-• Plural: die [[Opas]]
+   • Plural: die [[Opas]]
 9. Die [[Oma]] – Бабушка.
-• Plural: die [[Omas]]
+   • Plural: die [[Omas]]
 10. Der [[Bruder]] – Брат.
-• Plural: die [[Brüder]]
+    • Plural: die [[Brüder]]
 11. Die [[Schwester]] – Сестра.
-• Plural: die [[Schwestern]]
+    • Plural: die [[Schwestern]]
 12. Der [[Hund]] – Собака.
-• Plural: die [[Hunde]]
+    • Plural: die [[Hunde]]
 13. Die [[Katze]] – Кошка.
-• Plural: die [[Katzen]]
+    • Plural: die [[Katzen]]
 14. Das [[Haus]] – Дом.
-• Plural: die [[Häuser]]
+    • Plural: die [[Häuser]]
 15. Die [[Wohnung]] – Квартира.
-• Plural: die [[Wohnungen]]
+    • Plural: die [[Wohnungen]]
 16. Das [[zimmer]] – Комната.
-• Plural: die [[zimmer]]
+    • Plural: die [[zimmer]]
 17. Das [[Auto]] – Машина.
-• Plural: die [[Autos]]
+    • Plural: die [[Autos]]
 18. Das [[Schiff]] – Корабль.
-• Plural: die [[Schiffe]]
+    • Plural: die [[Schiffe]]
 19. Das [[Fahrrad]] – Велосипед.
-• Plural: die [[Fahrräder]]
+    • Plural: die [[Fahrräder]]
 20. Der [[Bus]] – Автобус.
-• Plural: die [[Busse]]
+    • Plural: die [[Busse]]
 21. Das [[Buch]] – Книга.
-• Plural: die [[Bücher]]
+    • Plural: die [[Bücher]]
 22. Der [[Film]] – Фильм.
-• Plural: die [[Filme]]
-
-
-
-
+    • Plural: die [[Filme]]

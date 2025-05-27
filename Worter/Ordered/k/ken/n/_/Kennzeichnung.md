@@ -1,1 +1,1 @@
-, [[Nummerierung]], [[Worter/kennzeichnen]], [[kennzeichnen]], [[Bezeichnung]]
+, [[Nummerierung]], [[kennzeichnen]], [[kennzeichnen]], [[Bezeichnung]]

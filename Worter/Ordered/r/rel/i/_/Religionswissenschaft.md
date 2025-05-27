@@ -1,1 +1,1 @@
-, [[Worter/Religion]]
+, [[Religion]]

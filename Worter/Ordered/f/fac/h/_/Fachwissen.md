@@ -28,4 +28,4 @@ A: das [[Fachwissen]], die [[Fachwissen]]
 G: des [[Fachwissens]], der [[Fachwissen]]
 D: dem [[Fachwissen]], den [[Fachwissen]]
 
-#Neuter 
+#Neuter , [[Fachkraft]]

@@ -1,5 +1,5 @@
-#pronomen #Personalpronomen 
-[[Worter/P/Pronomen/Pronomen]]
+#pronomen #Personalpronomen
+[[Pronomen/Pronomen]]
 
 she
 

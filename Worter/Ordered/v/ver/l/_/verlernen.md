@@ -1,2 +1,2 @@
 , [[beibringen]], [[Erlernung]]
-, [[gewöhnen]], [[aneignen]]
+, [[gewöhnen]], [[aneignen]], [[erlernen]]

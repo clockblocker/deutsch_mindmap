@@ -1,1 +1,1 @@
-, [[Studierendenwohnheim]]
+, [[Studierendenwohnheim]], [[Pflegeheim]], [[Altenheim]]

@@ -1,2 +1,2 @@
 , [[schriftsprachlich]]
-, [[Sprachschatz]]
+, [[Sprachschatz]], [[Sprachkenntnis]]

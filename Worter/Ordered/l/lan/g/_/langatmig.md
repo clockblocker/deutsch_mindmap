@@ -1,1 +1,1 @@
-, [[Schnell]], [[rasch]]
+, [[Schnell]], [[rasch]], [[langwierig]]

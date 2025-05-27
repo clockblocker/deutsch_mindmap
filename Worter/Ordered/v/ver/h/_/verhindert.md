@@ -1,1 +1,1 @@
-, [[Worter/ergeben]], [[verhindern]]
+, [[ergeben]], [[verhindern]]

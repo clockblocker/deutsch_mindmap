@@ -1,1 +1,1 @@
-[[lassen]], [[hineinlassen]], [[erlassen]], [[Entlassung]], [[Niederlassung]], [[Worter/E/einlassen]], [[entlassen]], [[unterlassen]], [[zulassen]], [[einlassen]], [[nachlassen]], [[hinterlassen]]
+[[lassen]], [[hineinlassen]], [[erlassen]], [[Entlassung]], [[Niederlassung]], [[einlassen]], [[entlassen]], [[unterlassen]], [[zulassen]], [[einlassen]], [[nachlassen]], [[hinterlassen]]

@@ -6,7 +6,9 @@ nicht [[gleich]]
 ---
 Bei einem [[Streit]] gibt es [[unterschiedliche]] Meinungen.
 
-*[[C1-Hoehen-T2-201-Text#^6|^]]* 12 Im [[Lehramtsstudium]] sollte [[vermittelt]] werden, dass es [[unterschiedliche]] [[Lerntypen]] gibt
+*[[C1-Hoehen-T3-301-Text#^28|^]]* Es braucht jetzt ein [[Bündel]] an ganz [[unterschiedlich]]en Maßnahmen, da man ja auch in der Politik zu lange [[tatenlos]] [[zugesehen]] hat, obwohl es seit Jahren genügend Studien gab, die diese [[Entwicklung]] [[eindeutig]] belegen
+
+*[[C1-Hoehen-T2-201-Text#^6|^]]* Im [[Lehramtsstudium]] sollte [[vermittelt]] werden, dass es [[unterschiedliche]] [[Lerntypen]] gibt
 
 *[[C1-Hoehen-T2-200-Text#^20|^]]* Nur sind sie [[unterschiedlich]] stark [[ausgeprägt]] und [[ergeben]] erst in ihrem [[Zusammenspiel]] ein vollständiges Bild der Persönlichkeit eines Menschen)
 

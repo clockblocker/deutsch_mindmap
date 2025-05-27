@@ -1,1 +1,1 @@
-, [[weiterziehen]]
+, [[weiterziehen]], [[abwandern]]

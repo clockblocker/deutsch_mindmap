@@ -12,5 +12,5 @@
 - [x] [[C1-Hoehen-T2-203-Text|203]]
 
 *300 - 2023  Prüfungs Express*
-- [ ] [[C1-Hoehen-T2-301-Text|301]]
+- [x] [[C1-Hoehen-T2-301-Text|301]]
 - [ ] [[C1-Hoehen-T2-302-Text|302]]

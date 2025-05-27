@@ -2,30 +2,33 @@
 nicht [[drüssig]]
 
 ---
-*Ich (Übermenschen, [[überdrüssig]])*  
 
+_Ich (Übermenschen, [[überdrüssig]])_
 
 ---
-Synonyme: 
+
+Synonyme:
 [[lustlos]], [[unmotiviert]], [[genervt]], [[angenervt]], [[müde]]
 Antonyme:
 [[motiviert]], [[interessiert]], [[begeistert]], [[leidenschaftlich]]
 
 ---
+
 **Übersetzung**:
 weary, fed up, tired of, sick of
 
 ---
+
 #Adjective [[überdrüssig]]
 
 ---
+
 Morpheme:
-[[Worter/Ü/über]][[drüssig]]
+[[Ü/über]][[drüssig]]
 
 ---
 
-
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[überdrüssig]], [[überdrüssige]], [[überdrüssiges]], [[überdrüssiger]], [[überdrüssigem]], [[überdrüssigen]], [[überdrüssiger]], [[überdrüssiges]]
 [[überdrüssigere]], [[überdrüssigeres]], [[überdrüssigerer]], [[überdrüssigerem]], [[überdrüssigeren]], [[überdrüssigerer]], [[überdrüssigeres]]
 [[überdrüssigsten]], [[überdrüssigste]], [[überdrüssigstes]], [[überdrüssigster]], [[überdrüssigstem]], [[überdrüssigsten]], [[überdrüssigster]], [[überdrüssigstes]], [[Deutschland]]

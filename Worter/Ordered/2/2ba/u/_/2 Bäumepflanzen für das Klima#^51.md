@@ -1,1 +1,0 @@
-, [[Saatgutsammler]], [[umfangreich]]

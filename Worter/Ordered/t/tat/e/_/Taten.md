@@ -1,5 +1,5 @@
 , [[tun]], [[Menschenrecht]]
 
-🔴 die [[Worter/T/Tat]] 🎬
+🔴 die Tat]] 🎬
 
 #Plural , [[Tat]]

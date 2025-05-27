@@ -1,1 +1,1 @@
-, [[Worter/W/Wiederholung]], [[wiedererkennen]]
+, [[Wiederholung]], [[wiedererkennen]]

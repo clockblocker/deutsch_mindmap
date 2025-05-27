@@ -4,8 +4,9 @@ die [[Pflegen]]
 ---
 *[[Text mit Reflexivpronomen#^6|^]]* Nicht jeder [[hilfsbereite]] Nachbar [[eignet]] sich für diesen Freundschaftsdienst, wenn er sich mit der [[Pflege]] von Katzen nicht [[auskennt]]
 
-*[[C1-Hoehen-T2-101-Text#^27|^]]* Die [[Pflege]] und der [[Verzehr]] von selbst [[Angebautem]] steigert die [[Wertschätzung]] der Natur selbst. ^27
+*[[C1-Hoehen-T3-301-Text#^32|^]]* Natürlich können durch [[qualifiziert]]e [[Zuwanderung]] z. B. Lücken in der [[Pflege]] geschlossen werden
 
+*[[C1-Hoehen-T2-101-Text#^27|^]]* Die [[Pflege]] und der [[Verzehr]] von selbst [[Angebautem]] steigert die [[Wertschätzung]] der Natur selbst
 
 📚 [[Pflege]] / [[Betreuung]] / [[Verantwortung]] *Attention, Care, Responsibility*
 
@@ -33,4 +34,4 @@ G: der [[Pflege]], der [[Pflegen]]
 D: der [[Pflege]], den [[Pflegen]]
 
 
-#Feminin , [[Gesundheitswesen]], [[Ersatzdienst]]
+#Feminin , [[Gesundheitswesen]], [[Ersatzdienst]], [[Pflegenotstand]], [[Pflegekraft]]

@@ -2,6 +2,8 @@
 📜 [[begründen]], [bəˈgʁʏndən] | [[begründete]], haben [[begründet]]
 
 ---
+*[[C1-Hoehen-T2-301-Text#^17|^]]* Meiner Meinung nach gibt es grundsätzlich nichts gegen Pflichten und einen verpflichtenden sozialen Einsatz [[einzuwenden]], aber er muss gut [[begründet]] sein
+
 SASCHA: Muss ich das [[begründen]]?
 
 288. [[Woraus]] [[begründet]] sich [[Deutschlands]] [[besondere]] [[Verantwortung]] für Israel? (100%)

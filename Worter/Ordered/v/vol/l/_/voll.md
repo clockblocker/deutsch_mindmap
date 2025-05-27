@@ -34,4 +34,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[voll]], [[voller]], [[volle]], [[volles]], [[vollen]], [[vollem]], [[voller]], [[vollen]]
 [[vollerer]], [[vollere]], [[volleres]], [[volleren]], [[vollerem]], [[vollerer]], [[volleren]]
-[[vollsten]], [[vollster]], [[vollste]], [[vollstes]], [[vollsten]], [[vollstem]], [[vollster]], [[vollsten]], [[bald]], [[s1 e1]], [[sinnvoll]], [[wertvoll]], [[volljährig]], [[vollziehenden]], [[vollziehen]], [[geheimnisvolle]], [[dicht]], [[vollschlank]], [[anspruchsvoll]], [[wechselvoll]], [[verständnisvoll]], [[verantwortungsvoll]], [[auslasten]], [[Vervollständigen]], [[würdevoll]]
+[[vollsten]], [[vollster]], [[vollste]], [[vollstes]], [[vollsten]], [[vollstem]], [[vollster]], [[vollsten]], [[bald]], [[s1 e1]], [[sinnvoll]], [[wertvoll]], [[volljährig]], [[vollziehenden]], [[vollziehen]], [[geheimnisvolle]], [[dicht]], [[vollschlank]], [[anspruchsvoll]], [[wechselvoll]], [[verständnisvoll]], [[verantwortungsvoll]], [[auslasten]], [[Vervollständigen]], [[würdevoll]], [[unbesetzt]]

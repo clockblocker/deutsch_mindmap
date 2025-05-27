@@ -4,6 +4,8 @@
 ---
 Falls sich die Situation nicht ändert, würde ich mich leider [[veranlasst]] sehen, mich an die [[Hausverwaltung]] zu wenden. 
 
+*[[C1-Hoehen-T3-301-Text#^55|^]]* Ich glaube nicht, dass uns jetzt [[Alarmismus]] [[weiterhilft]], aber die Fakten sollten uns in der [[Tat]] zu schnellem [[Handeln]] [[veranlassen]]:
+
 sehe ich mich leider veranlasst
 
 ---

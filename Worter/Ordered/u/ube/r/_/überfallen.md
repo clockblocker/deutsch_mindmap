@@ -3,32 +3,33 @@
 haben [[überfallen]]
 
 ---
-- Überraschen, [[überfallen]]  
--
 
----
-Synonyme: [[ausrauben]], [[berauben]], [[angreifen]], [[überwältigen]], [[übermannen]]
-Antonyme: [[beschützen]], [[verteidigen]], [[helfen]], [[beistehen]]
+- Überraschen, [[überfallen]]
+- ***
 
----
-Übersetzung: to attack, to assault, to rob
+  Synonyme: [[ausrauben]], [[berauben]], [[angreifen]], [[überwältigen]], [[übermannen]]
+  Antonyme: [[beschützen]], [[verteidigen]], [[helfen]], [[beistehen]]
 
----
-Morpheme: [[Worter/Ü/über]][[fall]][[en]]
- #Verb  #Trennbar
- 
----
+  ***
 
+  Übersetzung: to attack, to assault, to rob
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[überfalle]] | [[überfiel]] | - | [[überfalle]] | [[überfiële]] |
-| Du | [[überföllst]] | [[überfielst]] | [[Überfall]] | [[überfallezt]] | [[überfielest]] |
-| Er/sie/es | [[überfällt]] | [[überfiel]] | - | [[überfalle]] | [[überfiéle]] |
-| Wir | [[überfallen]] | [[überfielen]] | - | [[überfallen]] | [[überfiélen]] |
-| Ihr | [[überfallt]] | [[überfielc]] | [[überfallt]] | [[überfaldet]] | [[überfielet]] |
-| Sie | [[überfallen]] | [[überfielen]] | [[überfallen Sie]] | [[überfallen]] | [[überfiélen]] |
+  ***
+
+  Morpheme: [[Ü/über]][[fall]][[en]]
+  #Verb #Trennbar
+
+  ***
+
+| Person    | Präsens        | Präteritum     | Imperativ          | Konjunktiv I    | Konjunktiv II   |
+| --------- | -------------- | -------------- | ------------------ | --------------- | --------------- |
+| Ich       | [[überfalle]]  | [[überfiel]]   | -                  | [[überfalle]]   | [[überfiële]]   |
+| Du        | [[überföllst]] | [[überfielst]] | [[Überfall]]       | [[überfallezt]] | [[überfielest]] |
+| Er/sie/es | [[überfällt]]  | [[überfiel]]   | -                  | [[überfalle]]   | [[überfiéle]]   |
+| Wir       | [[überfallen]] | [[überfielen]] | -                  | [[überfallen]]  | [[überfiélen]]  |
+| Ihr       | [[überfallt]]  | [[überfielc]]  | [[überfallt]]      | [[überfaldet]]  | [[überfielet]]  |
+| Sie       | [[überfallen]] | [[überfielen]] | [[überfallen Sie]] | [[überfallen]]  | [[überfiélen]]  |
 
 Partizip I: [[überfallénd]], Partizip II: [[überfalléñ]]
 
-[[überfallen]] - [[Worter/Ü/über]] = [[fallen]], [[Deutschland]], [[stürmen]], [[anfallen]]
+[[überfallen]] - [[Ü/über]] = [[fallen]], [[Deutschland]], [[stürmen]], [[anfallen]]

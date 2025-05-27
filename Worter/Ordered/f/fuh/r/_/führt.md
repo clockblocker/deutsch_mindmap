@@ -1,1 +1,1 @@
-, [[führen]], [[Steuern]], [[Worter/ergeben]]
+, [[führen]], [[Steuern]], [[ergeben]]

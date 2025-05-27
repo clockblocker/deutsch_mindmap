@@ -1,1 +1,1 @@
-, [[angeln]]
+, [[angeln]], [[Fachkräftemangel]]

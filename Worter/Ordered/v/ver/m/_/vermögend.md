@@ -1,1 +1,1 @@
-, [[armer]], [[armen]], [[reich]], [[Fähig]], [[können]], [[gutbetucht]], [[Zahlungskräftig]], [[wohlhabend]]
+, [[armer]], [[armen]], [[reich]], [[fähig]], [[können]], [[gutbetucht]], [[Zahlungskräftig]], [[wohlhabend]]

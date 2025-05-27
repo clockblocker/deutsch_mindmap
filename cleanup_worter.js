@@ -1,7 +1,7 @@
 const fs = require("fs/promises");
 const path = require("path");
 
-const SOURCE_ROOT = "Worter";
+const SOURCE_ROOT = "Worter-Old";
 const DEST_ROOT = "Worter2/Ordered";
 
 function getShardPath(originalName) {
@@ -16,7 +16,7 @@ function getShardPath(originalName) {
   const prefix = shardKey.slice(0, 3);
   const shard = shardKey[3];
 
-  return path.join(DEST_ROOT, first, prefix, shard, "_");
+  return path.join(DEST_ROOT, first, prefix, shard);
 }
 
 function getSafeFileName(name) {

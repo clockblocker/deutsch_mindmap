@@ -3,19 +3,23 @@
 haben [[gefrönten]]
 
 ---
+
 Wenn Schwesterlein der Arbeit [[frönt]]  
-Das Licht im [[Fenster]] rot  
+Das Licht im [[Fenster]] rot
 
 ---
-Synonyme: [[nachgeben]], [[huldigen]], [[Worter/E/ergeben]], [[widmen]], [[zugetan sein]]
+
+Synonyme: [[nachgeben]], [[huldigen]], [[ergeben]], [[widmen]], [[zugetan sein]]
 Antonyme: [[widerstehen]], [[verweigern]], [[ablehnen 1]], [[sich enthalten]]
 
 ---
+
 Übersetzung: to indulge in, to devote oneself to
 
 ---
+
 Morpheme: [[frön]][[en]]
- #Verb  #Untrennbar
+#Verb #Untrennbar
 
 ---
 

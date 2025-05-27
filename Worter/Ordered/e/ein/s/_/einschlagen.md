@@ -5,6 +5,9 @@ haben [[eingeschlagen]]
 ---
 Katara [[einschlagen|schlägt]] auf den Berg ein und bald öffnet er sich.
 
+*[[C1-Hoehen-T2-301-Text#^28|^]]* Viele Abiturienten haben mit 17 oder 18 Jahren noch überhaupt keine Vorstellung davon, was für einen Berufsweg sie [[einschlagen]] wollen. Hier könnte ein gut organisiertes soziales Jahr in Europa durchaus hilfreich sein
+
+
 ---
 Synonyme: [[treffen]], [[aufschlagen]], [[zuschlagen]], [[erschlagen]], [[zerbrechen]]
 Antonyme: [[verfehlen]], [[auslassen]], [[verschonen]], [[aufschieben]], [[aufrichten]]

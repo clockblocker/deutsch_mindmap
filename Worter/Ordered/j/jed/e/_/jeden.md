@@ -1,28 +1,33 @@
 🔵 [[jeden]], [ˈjeːdn̩]
-nicht [[Worter/A/Alle]]
+nicht [[Alle]]
 
 ---
-„Auf [[jeden]] Fall“, sagte Petunia mit schwacher Stimme, „gab sie nach. 
--
+
+## „Auf [[jeden]] Fall“, sagte Petunia mit schwacher Stimme, „gab sie nach.
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[jeder]], [[jedes]], [[sämtlich]], [[ganz]], [[komplett]]
-Antonyme:
+  Antonyme:
 - [[einige]], [[manche]], [[mehrere]], [[wenige]]
 
 ---
+
 **Übersetzung**:
 every, each
 
 ---
+
 #Adjective [[jeden]]
 
 ---
+
 Morpheme:
 [[jeden]]
 
 ---
 
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[jeden]], [[jeder]], [[jedes]], [[jedem]], [[jeden]], [[jeden]], [[jeder]], [[jedes]], [[Jeder]], [[jedenfalls]]

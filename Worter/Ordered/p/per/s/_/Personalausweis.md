@@ -3,31 +3,39 @@
 die [[Personalausweise]]
 
 ---
+
 299. Was muss jeder deutsche Staatsbürger / jede deutsche Staatsbürgerin ab dem 16. [[Lebensjahr]] besitzen? (94%)
-	- [ ] einen [[Reisepass]]
-	- [x] einen [[Personalausweis]]
-	- [ ] einen [[Sozialversicherungsausweis]]
-	- [ ] einen [[Führerschein]]
+
+
+    - [ ] einen [[Reisepass]]
+    - [x] einen [[Personalausweis]]
+    - [ ] einen [[Sozialversicherungsausweis]]
+    - [ ] einen [[Führerschein]]
 
 ---
+
 = [[Identitätsnachweis]], [[Identitätskarte]]
 ≈ [[Dokument]], [[Ausweispapier]], [[Identitätsdokument]]
 ≠ [[Reisepass]], [[Führerschein]], [[Visum]]
 
 ---
+
 identity card, ID card
 
 ---
-[[Worter/P/Personal]]|[[ausweis]]
+
+[[Personal]]|[[ausweis]]
 [[per]]|[[son]]|[[al]]|[[aus]]|[[weis]]
 
 ---
+
 N: der [[Personalausweis]], die [[Personalausweise]]  
 A: den [[Personalausweis]], die [[Personalausweise]]  
 G: des [[Personalausweises]], der [[Personalausweise]]  
-D: dem [[Personalausweis]], den [[Personalausweisen]]  
+D: dem [[Personalausweis]], den [[Personalausweisen]]
 
 ---
-[[Worter/P/Personal]], [[ausweisen]], [[identifizieren]], [[nachweisen]], [[Ausweis]]
 
-#Maskulin 
+[[Personal]], [[ausweisen]], [[identifizieren]], [[nachweisen]], [[Ausweis]]
+
+#Maskulin

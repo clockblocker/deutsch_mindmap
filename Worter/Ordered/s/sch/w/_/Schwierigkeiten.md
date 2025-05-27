@@ -1,1 +1,1 @@
-🤔🔴 die [[Schwierigkeit]], [[Worter/Herausforderung]]
+🤔🔴 die [[Schwierigkeit]], [[Herausforderung]]

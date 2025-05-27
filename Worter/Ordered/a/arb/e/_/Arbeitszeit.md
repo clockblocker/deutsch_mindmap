@@ -2,13 +2,14 @@
 die [[Arbeitszeiten]]
 
 ---
-*[[2 Work Life Balance#^8|^]]* _Das kann zum Beispiel dadurch_ [[erreicht]] _werden, dass_ [[Arbeitszeiten]] _klar definiert werden und_ [[Feierabend]] _wirklich Feierabend bedeutet. ^8
+*[[2 Work Life Balance#^8|^]]* _Das kann zum Beispiel dadurch_ [[erreicht]] _werden, dass_ [[Arbeitszeiten]] _klar definiert werden und_ [[Feierabend]] _wirklich Feierabend bedeutet
 
+*[[C1-Hoehen-T3-301-Text#^45|^]]* Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stellen]] [[unbesetzt]] bleiben
 
 ---
 = [[Dienstzeit]], [[Beschäftigungszeit]]
 ≈ [[Arbeitsstunden]], [[Tätigkeit]], [[Beruf]]
-≠ [[Worter/F/Freizeit]], [[Urlaub]], [[arbeitsfrei]]
+≠ [[Freizeit]], [[Urlaub]], [[arbeitsfrei]]
 
 ---
 working hours, working time  
@@ -18,7 +19,7 @@ working hours, working time
 [[arbeiten]], [[Arbeit]], [[Arbeiter]], [[arbeitsfähig]], [[Arbeitsvertrag]], [[Arbeitsplatz]]
 
 ---
-[[Arbeit]]|`s`|[[Worter/Z/zeit]]
+[[Arbeit]]|`s`|[[zeit]]
 [[Arbeitszeit]]
 
 

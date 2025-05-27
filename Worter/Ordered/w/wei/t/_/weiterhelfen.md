@@ -3,6 +3,8 @@
 ---
 [[M1A1.md#^7|^]] Vincke:** [[gut|Guten]] [[tag|Tag]], Herr Laupsien, mein [[Name]] ist Vincke. Ich [[haben|habe]] ein [[Problem|Problem]], [[vielleicht]] [[können]] Sie mir da [[weiterhelfen]]
 
+*[[C1-Hoehen-T3-301-Text#^55|^]]* Ich glaube nicht, dass uns jetzt [[Alarmismus]] [[weiterhilft]], aber die Fakten sollten uns in der [[Tat]] zu schnellem [[Handeln]] [[veranlassen]]:
+
 *[[C1-Hoehen-T2-201-Text#^44|^]]* Genau da kann uns die Digitalisierung im Unterricht [[weiterhelfen]]
 
 ---

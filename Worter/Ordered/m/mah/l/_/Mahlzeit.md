@@ -2,27 +2,31 @@
 die [[Mahlzeiten]]
 
 ---
+
 ![[006-C1-Schreiben-T2#^2|^]]
 
-
 ---
+
 = [[Essen]], [[Speise]], [[Gericht]]
 ≈ [[Mahl]], [[Mahlzeit]], [[Nahrung]]
 ≠ [[Fasten]]
 
 ---
+
 meal  
 прием пищи
 
 ---
+
 [[Mahlzeitenplan]], [[Mahlzeitenersatz]]
 
 ---
-[[Mahl]]|[[Worter/Z/zeit]]|[[en]]
+
+[[Mahl]]|[[zeit]]|[[en]]
 [[Mahlzeit]]
 
-
 ---
+
 N: die [[Mahlzeit]], die [[Mahlzeiten]]
 A: die [[Mahlzeit]], die [[Mahlzeiten]]
 G: der [[Mahlzeit]], der [[Mahlzeiten]]

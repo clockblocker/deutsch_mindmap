@@ -1,1 +1,1 @@
-, [[Worter/Beziehung]], [[Entgegensetzung]], [[Zweikampf]]
+, [[Beziehung]], [[Entgegensetzung]], [[Zweikampf]]

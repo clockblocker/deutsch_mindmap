@@ -1,1 +1,1 @@
-, [[fromm]], [[jüdisch]], [[Worter/Religion]], [[Religionspflicht]], [[Bettag]], [[Religionsgemeinschaft]]
+, [[fromm]], [[jüdisch]], [[Religion]], [[Religionspflicht]], [[Bettag]], [[Religionsgemeinschaft]]

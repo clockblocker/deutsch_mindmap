@@ -3,24 +3,25 @@
 \🛠️ [[stellen]], [[stellte]], haben [[gestellt]]
 
 ---
-ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
+
+ANNA: Nadja, [[stell]] dir vor: Sam spielt mi Spielzeug-Autos!
 
 ---
-[[ausstellen]] - [[aus]] = [[stellen]]                          / to exhibit
-[[aufstellen]] - [[Worter/A/auf]] = [[stellen]]                           /  to set up
-[[hinstellen]] - [[hin]] = [[stellen]]                            / to put
-[[darstellen]] - [[dar]] = [[stellen]]                           / to represent
+
+[[ausstellen]] - [[aus]] = [[stellen]] / to exhibit
+[[aufstellen]] - [[auf]] = [[stellen]] / to set up
+[[hinstellen]] - [[hin]] = [[stellen]] / to put
+[[darstellen]] - [[dar]] = [[stellen]] / to represent
 [[zusammenstellen]] - [[zusammen]] = [[stellen]] / составлять / собирать
-[[feststellen]] - [[fest]] = [[stellen]]                          / to determine
-[[abbestellen]] - [[ab]] = [[bestellen]]                      / отписываться
-[[bestellen]] - [[be]] = [[stellen]]                              / покупать
-[[gestalten]] - [[ge]] = [[stellen]]                              / формировать
-[[vorstellen]] - [[vor]] = [[stellen]]                             / introduce 
-[[zufriedenstellen]] - [[zu]][[frieden]] = [[stellen]]       / please
-[[erstellen]] - [[er]] = [[stellen]]                                / to create, to produce
+[[feststellen]] - [[fest]] = [[stellen]] / to determine
+[[abbestellen]] - [[ab]] = [[bestellen]] / отписываться
+[[bestellen]] - [[be]] = [[stellen]] / покупать
+[[gestalten]] - [[ge]] = [[stellen]] / формировать
+[[vorstellen]] - [[vor]] = [[stellen]] / introduce
+[[zufriedenstellen]] - [[zu]][[frieden]] = [[stellen]] / please
+[[erstellen]] - [[er]] = [[stellen]] / to create, to produce
 [[herstellen]] - [[her]] = [[stellen]] / to manufacture, to produce, to make
 [[fertigstellen]] - [[fertig]] = [[stellen]] / to complete, to finish
-
 
 ---
 
@@ -47,7 +48,8 @@ ANNA: Nadja, [[stell]] dir vor:  Sam spielt mi Spielzeug-Autos!
 to place, to put, to set
 
 ---
- #Verb
+
+#Verb
 
 ---
 
@@ -77,6 +79,7 @@ to place, to put, to set
 
 ---
 
-**Morphems of only infinitive:**  
+**Morphems of only infinitive:**
+
 - [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]], [[anstellen]], [[zufriedenstellen]], [[legen]], [[höherstellen]], [[erstellen]], [[Lehrstellensuche]], [[Schwachstellen]]
-, [[fertigstellen]], [[umstellen]], [[stellenweise]], [[Aufgabenstellung]], [[abstellen]], [[bereitstellen]], [[anbringen]], [[herausstellen]], [[beantragen]], [[gegenüberstehen]], [[gegenüberstellen]]
+  , [[fertigstellen]], [[umstellen]], [[stellenweise]], [[Aufgabenstellung]], [[abstellen]], [[bereitstellen]], [[anbringen]], [[herausstellen]], [[beantragen]], [[gegenüberstehen]], [[gegenüberstellen]]

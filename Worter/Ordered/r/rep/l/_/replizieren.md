@@ -1,1 +1,1 @@
-, [[fragen]], [[Antworten]], [[Worter/W/Wiederholung]]
+, [[fragen]], [[Antworten]], [[Wiederholung]]

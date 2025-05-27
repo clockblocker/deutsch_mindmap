@@ -4,28 +4,34 @@
 🙅 [[verweigern]], [fɛɐ̯ˈvaɪ̯ɡɐn](https://youglish.com/pronounce/verweigern/german) → [[verweigerte]] → [[verweigert]]
 
 ---
+
 Ihm wurde die [[Zufahrt]] zum [[Gelände]] [[verweigert]]
 
 ---
+
 = [[ablehnen]], [[zurückweisen]], [[versagen]]
 ≈ [[ignorieren]], [[entziehen]], [[verpassen]]
-≠ [[gewähren]], [[genehmigen]], [[bewilligen]], [[zulassen]], [[Worter/E/einlassen]], [[hineinlassen]], [[ermöglichen]], [[übergeben]]
+≠ [[gewähren]], [[genehmigen]], [[bewilligen]], [[zulassen]], [[einlassen]], [[hineinlassen]], [[ermöglichen]], [[übergeben]]
 !≈ [[anbieten]], [[bieten]], [[annehmen]], [[einladen]], [[zugeben]], [[Verlangen]], [[frönen]], [[tun]], [[ertragen]], [[versprechen]], [[raten]], [[befragen]], [[vereinbaren]], [[wünschen]], [[bitten]], [[vertragen]], [[bezahlen]], [[abgeben]], [[überreden]], [[schlucken]], [[wollen]], [[auffordern]], [[stiften]], [[hinschicken]], [[zufriedengeben]], [[widmen]],
 
 ---
+
 to refuse, to deny  
 отказывать, отклонять
 
 ---
+
 [[Verweigerung]], [[Verweigerer]], [[verweigernd]], [[Verweigerungsrecht]]
 
 ---
+
 [[ver]]|[[weig]]|[[er]]|[[n]]
 [[ver]] + [[weigern]]
 
-
 ---
+
 ###### [[verweigern]] jM jN
+
 - Wem [[verweigerst]] du die Auskunft?
 - Meiner Schwester.
 
@@ -36,7 +42,9 @@ to refuse, to deny
 - Weil er gegen die Regeln verstoßen hat.
 
 ---
+
 ###### [[verweigern]] jN
+
 - Was [[verweigerst]] du?
 - Die Zusammenarbeit.
 
@@ -47,6 +55,7 @@ to refuse, to deny
 - Weil er anderer Meinung war.
 
 ---
+
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 ich, [[verweigere]], [[verweigerte]], [[verweigere]], [[verweigerte]], -
 du, [[verweigerst]], [[verweigertest]], [[verweigere]], [[verweigertest]], [[verweigertest]]
@@ -55,12 +64,12 @@ wir, [[verweigern]], [[verweigerten]], [[verweigern]], [[verweigerten]], [[verwe
 ihr, [[verweigert]], [[verweigertet]], [[verweigert]], [[verweigertet]], [[verweigertet]]
 sie, [[verweigern]], [[verweigerten]], [[verweigern]], [[verweigerten]], [[verweigerten]]
 
-*Zu + Inf*: zu [[verweigern]], *P2*: [[verweigert]]
+_Zu + Inf_: zu [[verweigern]], _P2_: [[verweigert]]
 Adjektive: [[verweigernd]], [[verweigernder]], [[verweigerndst]]
 
 ---
-[[verweigernder]], [[verweigerndes]], [[verweigernde]], [[verweigernden]], [[verweigerndem]], [[verweigernderer]], [[verweigernderes]], [[verweigerndere]], [[verweigernderen]], [[verweigernderem]], [[verweigerndster]], [[verweigerndstes]], [[verweigerndste]], [[verweigerndsten]], [[verweigerndstem]]
 
+[[verweigernder]], [[verweigerndes]], [[verweigernde]], [[verweigernden]], [[verweigerndem]], [[verweigernderer]], [[verweigernderes]], [[verweigerndere]], [[verweigernderen]], [[verweigernderem]], [[verweigerndster]], [[verweigerndstes]], [[verweigerndste]], [[verweigerndsten]], [[verweigerndstem]]
 
 entziehen, verpassen, übergeben, zugeben, Verlangen, frönen, tun, ertragen, versprechen, raten, befragen, wünschen, bitten, vertragen, bezahlen, abgeben, überreden, schlucken, wollen, auffordern, stiften, hinschicken, zufriedengeben, widmen
 

@@ -5,6 +5,8 @@
 ---
 *[[M1A1.md#^1|^]]* Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn?
 
+*[[C1-Hoehen-T3-301-Text#^43|^]]* [[Gezielte]] [[Zuwanderung]] für die duale [[Berufsausbildung]] sollte [[ebenso]] [[beworben]] und [[gefördert]] werden wie der Studienstandort Deutschland
+
 Sie [[fördern]] die aktive [[Kommunikation]] zwischen [[Anbieter]] und [[Konsument]].
 
 *[[C1-Hoehen-T2-200-Text#^50|^]]* Vielleicht zum Schluss noch ein Tipp: [[Ausdauersportart]]en [[fördern]] das [[Denkvermögen]] und die [[Merkfähigkeit]], denn es wird die Bildung neuer [[Blutgefäße]] und [[Nervenzellenverbindungen]] [[angeregt]]

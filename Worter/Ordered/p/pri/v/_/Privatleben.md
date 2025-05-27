@@ -4,29 +4,34 @@
 (no plural form)
 
 ---
+
 - [[psychisch]], [[oft]], [[Pause]], [[chronisch]]
 
 ---
+
 = [[Privatsphäre]], [[persönliches Leben]]
-≈ [[Worter/F/Freizeit]], [[Familie]], [[Freunde]]
+≈ [[Freizeit]], [[Familie]], [[Freunde]]
 ≠ [[Berufsleben]], [[Öffentlichkeit]]
 
 ---
+
 private life  
 личная жизнь
 
 ---
+
 [[privat]], [[Leben]]
 
 ---
+
 [[Privat]]|[[leben]]
 [[Privatleben]]
 
-
 ---
+
 N: das [[Privatleben]], die [[Privatleben]]
 A: das [[Privatleben]], die [[Privatleben]]
 G: des [[Privatlebens]], der [[Privatleben]]
 D: dem [[Privatleben]], den [[Privatleben]]
 
-#Neuter 
+#Neuter

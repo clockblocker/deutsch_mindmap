@@ -1,1 +1,1 @@
-, [[Merkmal]], [[Worter/kennzeichnen]], [[kennzeichnen]]
+, [[Merkmal]], [[kennzeichnen]], [[kennzeichnen]]

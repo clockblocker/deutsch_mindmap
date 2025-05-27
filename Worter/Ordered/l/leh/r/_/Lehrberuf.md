@@ -1,1 +1,1 @@
-, [[Lehrerberuf]]
+, [[Lehrerberuf]], [[Ausbildungsberuf]]

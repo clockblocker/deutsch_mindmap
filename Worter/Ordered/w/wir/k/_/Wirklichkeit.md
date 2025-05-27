@@ -6,6 +6,8 @@ die [[Wirklichkeiten]]
 ---
 In [[Wirklichkeit]] ist der Reichstag eine Raumstation mit Aliens.  
 
+*[[C1-Hoehen-T2-301-Text#^27|^]]* Einen praktischen Grund sehe ich auf jeden Fall. Die [[jüngsten]] [[Bildungsergebnis]]se in Deutschland haben dazu geführt, dass immer jüngere Schulabgänger einer [[zunehmend]] komplexen [[Wirklichkeit]] [[gegenüberstehen]]
+
 Die [[Selbsteinschätzung]]en der Testpersonen [[stimmten]] nicht mit der [[Wirklichkeit]] [[überein]].  
 
 

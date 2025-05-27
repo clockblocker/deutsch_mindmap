@@ -1,1 +1,1 @@
-, [[knapp]], [[Mangel]], [[Seltenheit]], [[Engpass]], [[Ressource]], [[Übergangebot]], [[Kürze]]
+, [[knapp]], [[Mangel]], [[Seltenheit]], [[Engpass]], [[Ressource]], [[Übergangebot]], [[Kürze]], [[Fachkräftemangel]]

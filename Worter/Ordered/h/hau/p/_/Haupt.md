@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Hauptes]], [[Haupte]], [[Häupter]], [[Häupter
 
 
 [[überhaupt]]
-, [[behaupten]], [[haupten]], [[hauptsächlich]], [[Staatsoberhaupt]], [[Behauptung]], [[Stadtoberhaupt]], [[Hauptaufgabe]], [[Hauptbereich]], [[Hauptursache]], [[Hauptgrund]], [[Hauptbeschäftigung]], [[Hauptverursacher]], [[Hauptziel]]
+, [[behaupten]], [[haupten]], [[hauptsächlich]], [[Staatsoberhaupt]], [[Behauptung]], [[Stadtoberhaupt]], [[Hauptaufgabe]], [[Hauptbereich]], [[Hauptursache]], [[Hauptgrund]], [[Hauptbeschäftigung]], [[Hauptverursacher]], [[Hauptziel]], [[Hauptproblem]]

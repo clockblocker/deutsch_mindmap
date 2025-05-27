@@ -5,6 +5,8 @@ sein [[vergangen]]
 ---
 Die Zeit [[vergeht]] sehr schnell.
 
+*[[C1-Hoehen-T3-301-Text#^61|^]]* Wir möchten uns heute dem Thema [[Fachkräftemangel]] [[widmen]], denn es [[vergeht]] ja kaum ein Tag ohne [[alarmieren]]de und [[beunruhigen]]de Informationen in allen Medien.
+
 Einhundert Jahre [[vergingen]] und mein Bruder und ich entdeckten den neuen Avatar, einen Luftbändiger namens Aang. 
 
 ---

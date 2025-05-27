@@ -1,1 +1,1 @@
-, [[selbständig]], [[eigenständig]], [[unabhängig]], [[Individualistisch]]
+, [[selbständig]], [[eigenständig]], [[unabhängig]], [[Individualistisch]], [[hilfebedürftig]]

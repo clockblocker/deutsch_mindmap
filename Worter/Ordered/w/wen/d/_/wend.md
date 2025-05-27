@@ -1,1 +1,1 @@
-, [[wenden]], [[verwenden]], [[zuwenden]], [[wendig]], [[anwenden]], [[Wendung]], [[Anwendung]], [[aufwendig]], [[Zuwendung]], [[anwendbar]]
+, [[wenden]], [[verwenden]], [[zuwenden]], [[wendig]], [[anwenden]], [[Wendung]], [[Anwendung]], [[aufwendig]], [[Zuwendung]], [[anwendbar]], [[einwenden]]

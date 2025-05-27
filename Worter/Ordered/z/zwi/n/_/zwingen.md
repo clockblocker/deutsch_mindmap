@@ -2,7 +2,13 @@
 🔗 [[zwingen]], [ˈtsvɪŋən] | [[zwang]], haben [[gezwungen]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^11|^]] Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]. ^11
+*[[1 Wer bin ich und was mache ich hier?#^11|^]]* Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]
+
+*[[C1-Hoehen-T3-301-Text#^34|^]]* Sie sind eine [[zwingende]] [[Voraussetzung]] für das Land, in dem man eine Ausbildung machen und arbeiten möchte, und das ist selbst mit [[Vorkenntnis]]sen ein recht langwieriger Prozess. ^34
+
+
+*[[C1-Hoehen-T3-301-Text#^13|^]]* Herr Osterholz erkennt im [[Spracherwerb]] eine [[zwingend]]e [[Voraussetzung]]
+
 
 1. [[Wahlen]] in Deutschland sind frei. Was bedeutet das? (96%)
 	- [ ] Man darf Geld [[annehmen]], wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin [[wählt]].
@@ -13,7 +19,7 @@
 	- [x] nach dem Willen der [[Wählermehrheit]] den Wechsel der Regierung zu [[ermöglichen]].
 
 ---
-= [[nötigen]], [[drängen]], [[aufnötigen]]
+= [[nötigen]], [[drängen]], [[aufnötigen]] ,[[bestimmt]], [[unabdingbar]], [[unumgänglich]], [[obligatorisch]]
 ≈ [[verpflichten]], [[beeinflussen]], [[manipulieren]]
 ≠ [[freiwillig]], [[erlauben]], [[überzeugen]]
 

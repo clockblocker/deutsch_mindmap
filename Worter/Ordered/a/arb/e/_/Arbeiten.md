@@ -3,4 +3,4 @@
 , [[erholen]], [[bemüht]], [[bestreben]], [[verarbeiten]], [[ticken]], [[abarbeiten]], [[Arbeitsdruck]], [[Arbeitsstelle]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitszeitmodell]], [[Arbeitsprozess]], [[Bauarbeiter]], [[ausarbeiten]], [[Ausarbeitung]]
 
 Unter diesen [[Bedingung]]en ist produktives [[Arbeiten]] kaum möglich.
-, [[Außendienstmitarbeiter]], [[Arbeitsbelastung]], [[Arbeitsraum]], [[spicken]], [[Erdarbeit]]
+, [[Außendienstmitarbeiter]], [[Arbeitsbelastung]], [[Arbeitsraum]], [[spicken]], [[Erdarbeit]], [[Arbeitskraft]], [[Arbeitszeit]]

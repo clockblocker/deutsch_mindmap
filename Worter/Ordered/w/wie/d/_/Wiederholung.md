@@ -1,20 +1,25 @@
 🔁 [[wiederholen]], [ˈviːdɐhoːlən] | [[wiederholte]], haben [[wiederholt]]
 
 ---
-[[Worter/W/Wiederholung]] ist die Mutter des [[Lernens]]
+
+[[Wiederholung]] ist die Mutter des [[Lernens]]
 
 ---
+
 = [[nochmals sagen]], [[erneut machen]], [[replizieren]]
 ≈ [[reproduzieren]], [[wiedergeben]], [[zurückbringen]], [[erneuern]]
 ≠ [[vergessen]], [[abbrechen]], [[variieren]]
 
 ---
+
 to repeat, to do again
 
 ---
+
 [[wieder]]|[[hol]]|[[en]]
 
 ---
+
 ich: [[wiederhole]], [[wiederholte]], –, [[wiederhole]], [[wiederholte]]
 du: [[wiederholst]], [[wiederholtest]], [[wiederhole]] | [[wiederhol]] | [[wiederhole]], [[wiederholst]], [[wiederholtest]]
 er/sie/es: [[wiederholt]], [[wiederholte]], –, [[wiederhole]], [[wiederholte]]
@@ -24,10 +29,12 @@ ihr: [[wiederholt]], [[wiederholtet]], [[wiederholt]], [[wiederholt]], [[wiederh
 PI: [[wiederholend]], PII: [[wiederholt]], Zu+inf: [[wiederzuholen]]
 
 ---
+
 [[wiederholen]] - [[wieder]] = [[holen]] / to repeat, to do again
 
 ---
-[[Worter/W/Wiederholung]], [[Wiederholungstäter]], [[wiederholbar]], [[unwiederholbar]], [[Wiederholungsfall]]
+
+[[Wiederholung]], [[Wiederholungstäter]], [[wiederholbar]], [[unwiederholbar]], [[Wiederholungsfall]]
 
 , [[Doppelte]], [[Wiederholungskarte]]
 , [[Zyklus]]

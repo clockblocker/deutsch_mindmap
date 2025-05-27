@@ -1,17 +1,14 @@
 🎓 🔴 die [[Ausbildung]], [ˈaʊ̯sˌbɪldʊŋ](https://youglish.com/pronounce/Ausbildung/german)
 die [[Ausbildungen]]
 
-
 ---
-284. Was man für die Arbeit können muss, [[ändert]] sich in der [[Zukunft]] sehr schnell. Was kann man tun? (99%)
-	- [ ] Es ist [[egal]], was man lernt.
-	- [ ] Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.
-	- [x] [[Erwachsene]] müssen auch nach der [[Ausbildung]] immer weiter lernen.
-	- [ ] Alle müssen [[früher]] [[aufhören]] zu arbeiten, weil sich alles [[ändert]].
+*[[C1-Hoehen-T3-301-Text#^20|^]]* Herr Osterholz warnt vor zu hohen [[Qualitätsstandard]]s bei der [[Ausbildung]]
+
+[[Erwachsene]] müssen auch nach der [[Ausbildung]] immer weiter lernen.
 
 ---
 Synonyme:
-- [[Lehre]], [[Ausgestaltung]], [[Erziehung]], [[Schulung]], [[Training]]
+- [[Lehre]], [[Ausgestaltung]], [[Erziehung]], [[Schulung]], [[Training]], [[Klassenstufe]], [[Laufbahn]], [[Fortbildung]], [[MBA-Studium]], [[Entstehung]], [[Lehramtsstudium]], [[Praktikum]], [[Ausbildungsberuf]]
 
 ---
 Übersetzung: training, education, instruction
@@ -24,7 +21,6 @@ Morpheme:
 Einzigartige mögliche Formen: [[Ausbildung]], [[Ausbildungen]]
 
 ---
-#Substantiv #Neuter, [[Gesellenprüfung]], [[Erzie­hung]], [[Weiterbildung]], [[Lehrstellensuche]], [[Studiengang]]
+[[Gesellenprüfung]], [[Erzie­hung]], [[Weiterbildung]], [[Lehrstellensuche]], [[Studiengang]]
 
-
-#Feminin , [[Klassenstufe]], [[Laufbahn]], [[Fortbildung]], [[MBA-Studium]], [[Entstehung]], [[Lehramtsstudium]]
+#Feminin , [[Ausbildungsstelle]], [[Berufsausbildung]], [[Ausbildungsstätte]]

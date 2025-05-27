@@ -6,6 +6,10 @@ die [[Entwicklungen]]
 ---
 Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
 
+*[[C1-Hoehen-T3-301-Text#^28|^]]* Es braucht jetzt ein [[Bündel]] an ganz [[unterschiedlich]]en Maßnahmen, da man ja auch in der Politik zu lange [[tatenlos]] [[zugesehen]] hat, obwohl es seit Jahren genügend Studien gab, 
+die diese [[Entwicklung]] [[eindeutig]] belegen
+*([[clearly]] [[prove]] this [[development]])*
+
 *[[C1-Hoehen-T2-202-Text#^8|^]]* Eine [[eindeutig]]e [[Entwicklung]] lässt sich schwer [[ablesen]]
 
 Regelmäßig wurde untersucht, wie sie sich fühlten und ob diese [[Leistung]] für sie ein positiver [[Anreiz]] für ihre persönliche [[Entwicklung]] [[darstellte]]

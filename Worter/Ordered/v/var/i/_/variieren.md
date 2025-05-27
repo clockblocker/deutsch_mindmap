@@ -1,2 +1,2 @@
-, [[um­schlagen]], [[Worter/W/Wiederholung]]
+, [[um­schlagen]], [[Wiederholung]]
 , [[schwanken]]

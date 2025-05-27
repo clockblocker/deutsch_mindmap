@@ -4,6 +4,8 @@ Superlative: [[am jüngsten]]
 
 So [[jung]] und doch so alt
 
+*[[C1-Hoehen-T2-301-Text#^27|^]]* Einen praktischen Grund sehe ich auf jeden Fall. Die [[jüngsten]] [[Bildungsergebnis]]se in Deutschland haben dazu geführt, dass immer jüngere Schulabgänger einer [[zunehmend]] komplexen [[Wirklichkeit]] [[gegenüberstehen]]. ^27
+
 
 ---
 Beispiele:

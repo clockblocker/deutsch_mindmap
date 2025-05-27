@@ -29,7 +29,7 @@ C1-Hoeren-141
 
 
 - [x] [[C1-Hoehen-T1-301-Text]] 4 
-- [ ] [[C1-Hoehen-T2-301-Text]] 7
+- [x] [[C1-Hoehen-T2-301-Text]] 7
 - [ ] [[C1-Hoehen-T3-301-Text]] 3
 - [ ] [[C1-Hoehen-T4-301-Text]] 4
 

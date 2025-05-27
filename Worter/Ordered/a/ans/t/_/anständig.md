@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[anständig]], [[anständige]], [[anständiges]], [[anständigen]], [[anständigem]], [[anständiger]]
 [[anständiger]], [[anständigere]], [[anständigeres]], [[anständigeren]], [[anständigerem]], [[anständigerer]]
-[[anständigsten]], [[anständigster]], [[anständigste]], [[anständigstes]], [[anständigsten]], [[anständigstem]], [[anständigster]], [[anständigsten]], [[Anstand]], [[höflich]], [[tugendhaft]], [[ethisch]]
+[[anständigsten]], [[anständigster]], [[anständigste]], [[anständigstes]], [[anständigsten]], [[anständigstem]], [[anständigster]], [[anständigsten]], [[Anstand]], [[höflich]], [[tugendhaft]], [[ethisch]], [[fair]]

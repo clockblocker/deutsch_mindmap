@@ -8,7 +8,7 @@
 
 *[[C1-Lesen-T2-102-Text#^2|^]]* Vergleicht man die schnellsten 100-Meter-Läufer mit den besten [[Marathonläufern]] der Welt, so fällt einem sofort ins Auge: [[Ausdauersport]] scheint zum [[Erfolg]] zu führen . ^2
 
-*[[C1-Lesen-T2-102-Text#^3|^]]* Denn während die [[muskelbepackten]] Sprinter mehr Statisten aus einem Gladiatorenfilm [[wirken]], möchte man den [[ausgezehrten]] [[Ausdauersportlern]] eher mal ein Drei-Gänge-Menü spendieren. ^3
+*[[C1-Lesen-T2-102-Text#^3|^]]* Denn während die [[muskelbepackten]] Sprinter mehr Statisten aus einem [[Gladiatorenfilm]] [[wirken]], möchte man den [[ausgezehrten]] [[Ausdauersportlern]] eher mal ein Drei-Gänge-Menü spendieren. ^3
 
 *[[C1-Lesen-T2-102-Text#^4|^]]* Und es klingt ja auch logisch: Wer [[stundenlang]] läuft, verbraucht mehr Kalorien als jemand, [[dessen]] sportlicher [[Auftritt]] schon nach zehn Sekunden zu Ende ist. ^4
 
@@ -76,7 +76,7 @@ c) sollte man eher langsam joggen oder radeln.
 
 *[[C1-Lesen-T2-102-Text#^20|^]]* Wie aber soll nun das Abnehmen ohne [[Langstreckenlauf]] und [[hochgetrieben]]en Kalorienverbrauch funktionieren? ^20
 
-
+ну и 
 *[[C1-Lesen-T2-102-Text#^21|^]]* Amerikanische Forscher haben gerade im [[renommiert]]en Fachjournal *Nature* eine [[Reihe]] von [[Untersuchung]]en publiziert. ^21
 
 *[[C1-Lesen-T2-102-Text#^22|^]]* Ein [[Stoff]] namens Lac-Phe ist dabei in den Fokus der Wissenschaftler geraten. ^22

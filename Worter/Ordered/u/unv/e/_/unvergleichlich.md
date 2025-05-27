@@ -1,1 +1,1 @@
-, [[einmalig]], [[einzigartig]]
+, [[einmalig]], [[einzigartig]], [[vergleichbar]]

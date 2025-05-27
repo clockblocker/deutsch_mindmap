@@ -4,18 +4,22 @@
 ---
 
 ---
+
 = [[abfangen]], [[fangen]], [[ergreifen]]
 ≈ [[empfangen]], [[auffassen]], [[festhalten]], [[retten]]
 ≠ [[verlieren]], [[fallen lassen]], [[entkommen]]
 
 ---
+
 to catch, to intercept
 ловить, перехватывать
 
 ---
-[[Worter/A/auf]]|[[fan]]|[[gen]]
+
+[[auf]]|[[fan]]|[[gen]]
 
 ---
+
 ich: [[fange auf]], [[fing auf]], –, [[fange auf]], [[finge auf]]
 du: [[fängst auf]], [[fingst auf]], [[fang auf]] | [[fang]], [[fängst auf]], [[fingest auf]]
 er/sie/es: [[fängt auf]], [[fing auf]], –, [[fange auf]], [[finge auf]]
@@ -25,7 +29,9 @@ ihr: [[fangt auf]], [[fingt auf]], [[fangt auf]], [[fanget auf]], [[fingt auf]]
 PI: [[auffangend]], PII: [[aufgefangen]], Zu+inf: [[aufzufangen]]
 
 ---
-[[auffangen]] - [[Worter/A/auf]] = [[fangen]] / to catch, to intercept
+
+[[auffangen]] - [[auf]] = [[fangen]] / to catch, to intercept
 
 ---
+
 [[Auffangbecken]], [[Auffangnetz]], [[Auffanglager]], [[Auffangstation]]

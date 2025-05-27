@@ -2,14 +2,17 @@ das [[Synonym]]
 die [[Synonyme]]
 
 Beispiele:
- 
+
 ---
+
 Synonyme:
-- [[Worter/W/Wort]]
+
+- [[Wort]]
 - [[Ausdruck]]
 - [[Äquivalent]]
 
 ---
+
 Translation: synonym
 
 ---

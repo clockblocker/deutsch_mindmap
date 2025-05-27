@@ -3,31 +3,34 @@
 die [[Landessprachen]]
 
 ---
-*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^7|^]]* _Da spielt die_ [[Beherrschung]] _der_ [[Landessprache]] _eine_ [[ausschlaggebende]] _Rolle. ^7
 
+_[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^7|^]]_ _Da spielt die_ [[Beherrschung]] _der_ [[Landessprache]] _eine_ [[ausschlaggebende]] \_Rolle. ^7
 
 ---
+
 = [[Amtssprache]], [[Nationalsprache]]
-≈ [[Muttersprache]], [[Worter/S/Sprache]]
+≈ [[Muttersprache]], [[Sprache]]
 ≠ [[Fremdsprache]]
 
 ---
+
 national language, official language  
 государственный язык
 
 ---
-[[Land]], [[Worter/S/Sprache]], [[national]], [[amtlich]]
+
+[[Land]], [[Sprache]], [[national]], [[amtlich]]
 
 ---
+
 [[Land]]|[[es]]|[[sprach]]|[[e]]
 [[Landessprache]]
 
-
 ---
+
 N: die [[Landessprache]], die [[Landessprachen]]
 A: die [[Landessprache]], die [[Landessprachen]]
 G: der [[Landessprache]], der [[Landessprachen]]
 D: der [[Landessprache]], den [[Landessprachen]]
 
-
-#Feminin 
+#Feminin

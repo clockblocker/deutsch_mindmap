@@ -82,3 +82,4 @@ Adjektive: [[auswandernd]], [[auswandernder]], [[auswanderndst]]
 - Weil wir an das Beste glauben.
 - Wie lange [[hast]] du [[gehofft]]?
 - Dein Leben lang
+, [[abwandern]]

@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Antworten]] der Schüler waren sehr unterschiedlich.
 
 ---
+
 Synonyme:
+
 - [[Reaktion]], [[Erwiderung]], [[Gegenrede]]
 
 ---
+
 **Übersetzung**: answer, response
 
 ---
+
 Morphems:
-[[ant]][[Worter/W/Wort]]
+[[ant]][[Wort]]
 
 ---
+
 #Substantiv #Feminin, [[Lösung]], [[Auskunft]], [[Bescheid]], [[Verantwortung]], [[verantworten]], [[Musterlösung]], [[Aufgabenstellung]], [[verantwortungsvoll]], [[Rückmeldung]]

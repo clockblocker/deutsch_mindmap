@@ -1,1 +1,1 @@
-, [[Worter/S/sprechen]], [[verhandelen]], [[umstreiten]]
+, [[sprechen]], [[verhandelen]], [[umstreiten]]

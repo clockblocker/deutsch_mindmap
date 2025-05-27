@@ -1,8 +1,9 @@
 ✅ [[bewähren]], [bəˈvɛːʁən](https://youglish.com/pronounce/bewähren/german) → [[bewährte]] → haben [[bewährt]]
 
 ---
-*[[C1-Lesen-T1-001-Text#^1|^]]* Hunde haben sich beim [[Erkennen]] von Corona-[[Viren]] [[bewährt]]. Und sie [[taugen]] auch zum [[Erschnüffeln]] von anderen Krankheiten. ^1
+*[[C1-Lesen-T1-001-Text#^1|^]]* Hunde haben sich beim [[Erkennen]] von Corona-[[Viren]] [[bewährt]]. Und sie [[taugen]] auch zum [[Erschnüffeln]] von anderen Krankheiten
 
+*[[C1-Hoehen-T3-301-Text#^25|^]]* [[Bewährte]] Kräfte gehen [[reihenweise]] in den [[Ruhestand]] und der [[Nachwuchs]] kann das nicht [[ausgleichen]]
 
 ---
 = [[beweisen]], [[bestätigen]], [[sich beweisen]]

@@ -21,7 +21,7 @@ _Дом большой – [[das]] [[Haus]] [[ist]] [[Groß]]._
 
 Примеры:
 _У меня есть машина – [[Ich]] [[habe]] [[ein]] [[Auto]]._
-_У нас 4 урока – [[wir]] [[Worter/H/haben]] [[4 Adj]] [[Stunden]]._
+_У нас 4 урока – [[wir]] [[haben]] [[4 Adj]] [[Stunden]]._
 _У него есть дом – [[er]] [[hat]] [[ein]] [[Haus]]._
 _У нее есть кошка – [[sie]] [[hat]] [[eine]] [[Katze]]._
 _У тебя сегодня немецкий – [[Du]] [[hast]] [[heute]] [[Deutsch]]._
@@ -50,8 +50,6 @@ _20._ _Der [[Bus]] – Автобус._
 _21._ _Das [[Buch]] – Книга._
 _22._ _Der [[Film]] – Фильм._
 
-  
-
 Прилагательные и наречия:
 _1._ _[[gut]] – Хорошо._
 _2._ _[[Schlecht]] – Плохо._
@@ -78,8 +76,6 @@ _23._ _[[Schwer]] – Тяжело._
 _24._ _[[schwierig]] – Сложно._
 _25._ _[[Leicht]] – Легко._
 
-  
-
 **_Ich bin_**
 
 **_Du bist_**
@@ -97,8 +93,6 @@ _25._ _[[Leicht]] – Легко._
 **_Sie sind_**
 
 **_sie sind_**
-
-  
 
 **Ich habe**
 
@@ -118,12 +112,8 @@ _25._ _[[Leicht]] – Легко._
 
 **sie haben**2
 
-  
-  
-
 _Ich bin gut._
 
 _Du bist klug._
-
 
 _Ich habe eine [[Kreide]]. Sie ist weiß._

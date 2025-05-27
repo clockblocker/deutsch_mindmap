@@ -1,1 +1,1 @@
-, [[Lehrstellensuche]]
+, [[Lehrstellensuche]], [[Ausbildungsstelle]]

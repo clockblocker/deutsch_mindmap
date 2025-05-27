@@ -43,4 +43,4 @@ sie, [[bedürfen]], [[bedurften]], [[bedürfen]], [[bedürften]], [[bedürfen]]
 Adjektive: [[bedürfend]], [[bedürfender]], [[bedürfendst]]
 
 ---
-[[bedürfender]], [[bedürfendes]], [[bedürfende]], [[bedürfenden]], [[bedürfendem]], [[bedürfenderer]], [[bedürfenderes]], [[bedürfendere]], [[bedürfenderen]], [[bedürfenderem]], [[bedürfendster]], [[bedürfendstes]], [[bedürfendste]], [[bedürfendsten]], [[bedürfendstem]]
+[[bedürfender]], [[bedürfendes]], [[bedürfende]], [[bedürfenden]], [[bedürfendem]], [[bedürfenderer]], [[bedürfenderes]], [[bedürfendere]], [[bedürfenderen]], [[bedürfenderem]], [[bedürfendster]], [[bedürfendstes]], [[bedürfendste]], [[bedürfendsten]], [[bedürfendstem]], [[hilfebedürftig]]

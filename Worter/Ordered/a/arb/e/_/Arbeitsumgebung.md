@@ -2,29 +2,34 @@
 die [[Arbeitsumgebungen]]
 
 ---
+
 , [[Arbeitsplatz]]
 
 ---
+
 = [[Arbeitsplatz]], [[Arbeitsbereich]]
 ≈ [[Büro]], [[Umwelt]]
-≠ [[Worter/F/Freizeit]]
+≠ [[Freizeit]]
 
 ---
+
 work environment  
 рабочая обстановка
 
 ---
+
 [[Arbeit]], [[Umgebung]]
 
 ---
+
 [[Arbeit]]|`s`|[[umgebung]]
 [[Arbeitsumgebung]]
 
-
 ---
+
 N: die [[Arbeitsumgebung]], die [[Arbeitsumgebungen]]
 A: die [[Arbeitsumgebung]], die [[Arbeitsumgebungen]]
 G: der [[Arbeitsumgebung]], der [[Arbeitsumgebungen]]
 D: der [[Arbeitsumgebung]], den [[Arbeitsumgebungen]]
 
-#Feminin 
+#Feminin

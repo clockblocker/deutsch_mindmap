@@ -2,7 +2,9 @@
 die [[Sozialleistungen]]
 
 ---
-7 Durch das bedingungslose Grundeinkommen könnten sich die heutigen [[Sozialleistung]]en [[erhöhen]]
+Durch das bedingungslose Grundeinkommen könnten sich die heutigen [[Sozialleistung]]en [[erhöhen]]
+
+*[[C1-Hoehen-T3-301-Text#^20|^]]* Für Frau Ebner-Perotti sind [[fair]]e [[Bezahlung]] und [[passend]]e [[Sozialleistung]]en wichtig
 
 *[[C1-Hoehen-T2-100-Text#^5|^]]* Heute gibt es [[Sozialleistung]]en nur für bedürftige Menschen
 

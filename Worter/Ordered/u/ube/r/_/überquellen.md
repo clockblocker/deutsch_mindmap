@@ -1,20 +1,25 @@
 🌊 [[überquellen]], [ˈyːbɐˌkveːlən] | [[überquoll]], sein [[überquollen]]
 
 ---
+
 Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern.
 
 ---
+
 = [[überfließen]], [[sich ergießen]], [[überschwemmen]]
 ≈ [[auslaufen]], [[ausströmen]], [[hervorbrechen]]
 ≠ [[versiegen]], [[vertrocknen]], [[eingrenzen]]
 
 ---
+
 to overflow, to spill over
 
 ---
-[[Worter/Ü/über]]|[[quell]]|[[en]]
+
+[[Ü/über]]|[[quell]]|[[en]]
 
 ---
+
 ich: [[überquelle]], [[überquoll]], –, [[überquelle]], [[überquölle]]
 du: [[überquillst]], [[überquollst]], [[überquelle]] | [[überquill]], [[überquellest]], [[überquöllest]]
 er/sie/es: [[überquillt]], [[überquoll]], –, [[überquelle]], [[überquölle]]
@@ -24,7 +29,9 @@ ihr: [[überquillt]], [[überquollt]], [[überquillt]], [[überquellet]], [[übe
 PI: [[überquellend]], PII: [[überquollen]], Zu+inf: [[überzuquellen]]
 
 ---
-[[überquellen]] - [[Worter/Ü/über]] = [[quellen]] / to overflow, to spill over
+
+[[überquellen]] - [[Ü/über]] = [[quellen]] / to overflow, to spill over
 
 ---
-[[Überquellung]], [[Überfluss]], [[quellen]], [[Quellung]], [[Erguss]], [[Quelle]]
+
+[[Überquellung]], [[Überfluss]], [[quellen]], [[Quellung]], [[Erguss]], [[Quelle]], [[ausreichen]]

@@ -1,1 +1,1 @@
-, [[Erwerbstätige]], [[berufstätig]]
+, [[Erwerbstätige]], [[berufstätig]], [[Fachkraft]]

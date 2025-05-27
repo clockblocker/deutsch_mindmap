@@ -1,1 +1,1 @@
-[[stören]], [[Worter/ergeben]]
+[[stören]], [[ergeben]]

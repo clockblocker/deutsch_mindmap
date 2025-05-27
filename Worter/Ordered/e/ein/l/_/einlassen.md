@@ -1,41 +1,50 @@
-🚪 [[Worter/E/einlassen]], [ˈaɪ̯nˌlasn̩] | [[ließ ein]], haben [[eingelassen]]
+🚪 [[einlassen]], [ˈaɪ̯nˌlasn̩] | [[ließ ein]], haben [[eingelassen]]
 
 ---
-*[[3  Ein Selbstversuch als Hobbybäuerin#^48|^]]* Wenn ich mich nächstes Jahr wieder auf das Abenteuer „Garten“ [[einlasse]], will ich es [[tapfer]] und [[aufopfernd]] tun, aber will [[nachsichtig]] mit mir sein. ^48
+
+_[[3  Ein Selbstversuch als Hobbybäuerin#^48|^]]_ Wenn ich mich nächstes Jahr wieder auf das Abenteuer „Garten“ [[einlasse]], will ich es [[tapfer]] und [[aufopfernd]] tun, aber will [[nachsichtig]] mit mir sein. ^48
 
 ---
-[[hin]] + [[Worter/E/einlassen]] = [[hineinlassen]] // to let in, to admit
+
+[[hin]] + [[einlassen]] = [[hineinlassen]] // to let in, to admit
 
 ---
+
 = [[zulassen]], [[akzeptieren]], [[gestatten]]
 ≈ [[erlauben]], [[genehmigen]], [[ermöglichen]], [[empfangen]]
 ≠ [[ausschließen]], [[verweigern]], [[ablehnen]], [[verhindern]]
 
 ---
+
 embark (on adventure)
 впускать, допускать
 
 ---
+
 [[Einlass]], [[Einlasskontrolle]], [[Einlasserlaubnis]], [[einlassbar]]
 
 ---
-[[ein]]|[[lass]]|[[en]]
-[[Worter/E/einlassen]]
 
+[[ein]]|[[lass]]|[[en]]
+[[einlassen]]
 
 ---
-###### [[Worter/E/einlassen]] *[[sich]]* `auf` jN
-- `Worauf` [[lässt]] du *[[dich]]* [[ein]]?
+
+###### [[einlassen]] _[[sich]]_ `auf` jN
+
+- `Worauf` [[lässt]] du _[[dich]]_ [[ein]]?
 - `Auf` ein Abenteuer.
 
-- `Auf` was [[lassen]] wir *[[uns]]* [[ein]]?
+- `Auf` was [[lassen]] wir _[[uns]]_ [[ein]]?
 - `Auf` eine neue Herausforderung.
 
-- Warum [[hat]] er *[[sich]]* `darauf` [[eingelassen]]?
+- Warum [[hat]] er _[[sich]]_ `darauf` [[eingelassen]]?
 - Weil er mutig war.
 
 ---
-###### [[Worter/E/einlassen]] jN
+
+###### [[einlassen]] jN
+
 - Was [[lässt]] du [[ein]]?
 - Wasser.
 
@@ -46,7 +55,8 @@ embark (on adventure)
 - Um es zu reinigen.
 
 ---
-Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 ich, [[lasse ein]], [[ließ ein]], [[lasse ein]], [[ließe ein]], -
 du, [[lässt ein]], [[ließest ein]], [[lass ein]], [[ließest ein]], [[lasse ein]]
 er, [[lässt ein]], [[ließ ein]], [[lasse ein]], [[ließe ein]], -
@@ -54,8 +64,9 @@ wir, [[lassen ein]], [[ließen ein]], [[lassen ein]], [[ließen ein]], [[lassen 
 ihr, [[lasst ein]], [[ließt ein]], [[lasset ein]], [[ließet ein]], [[lasst ein]]
 sie, [[lassen ein]], [[ließen ein]], [[lassen ein]], [[ließen ein]], [[lassen ein]]
 
-*Zu + Inf*: [[einzulassen]], *P2*: [[eingelassen]]
+_Zu + Inf_: [[einzulassen]], _P2_: [[eingelassen]]
 Adjektive: [[einlassend]], [[einlassender]], [[einlassendst]]
 
 ---
+
 [[einlassender]], [[einlassendes]], [[einlassende]], [[einlassenden]], [[einlassendem]], [[einlassenderer]], [[einlassenderes]], [[einlassendere]], [[einlassenderen]], [[einlassenderem]], [[einlassendster]], [[einlassendstes]], [[einlassendste]], [[einlassendsten]], [[einlassendstem]]

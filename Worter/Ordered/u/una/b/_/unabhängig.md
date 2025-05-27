@@ -24,4 +24,4 @@ independent
 Adjektive: [[unabhängig]], [[unabhängiger]], [[unabhängigst]]
 
 ---
-[[unabhängiger]], [[unabhängiges]], [[unabhängige]], [[unabhängigen]], [[unabhängigem]], [[unabhängigerer]], [[unabhängigeres]], [[unabhängigere]], [[unabhängigeren]], [[unabhängigerem]], [[unabhängigster]], [[unabhängigstes]], [[unabhängigste]], [[unabhängigsten]], [[unabhängigstem]], [[diesbezüglich]], [[Individualistisch]]
+[[unabhängiger]], [[unabhängiges]], [[unabhängige]], [[unabhängigen]], [[unabhängigem]], [[unabhängigerer]], [[unabhängigeres]], [[unabhängigere]], [[unabhängigeren]], [[unabhängigerem]], [[unabhängigster]], [[unabhängigstes]], [[unabhängigste]], [[unabhängigsten]], [[unabhängigstem]], [[diesbezüglich]], [[Individualistisch]], [[hilfebedürftig]]

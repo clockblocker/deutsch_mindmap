@@ -38,4 +38,4 @@ N: [[gleichzeitiges]], [[gleichzeitigeres]], [[gleichzeitigstes]]
 P: [[gleichzeitigen]], [[gleichzeitigeren]], [[gleichzeitigsten]]  
 
 ---
-[[Gleichzeitigkeit]], [[gleichzeitig sein]], [[zeitgleich]], [[synchronisieren]], [[wobei]], [[gleichermaßen]], [[Konnektivpartikeln]], [[gleichaltrig]]
+[[Gleichzeitigkeit]], [[gleichzeitig sein]], [[zeitgleich]], [[synchronisieren]], [[wobei]], [[gleichermaßen]], [[Konnektivpartikeln]], [[gleichaltrig]], [[reihenweise]]

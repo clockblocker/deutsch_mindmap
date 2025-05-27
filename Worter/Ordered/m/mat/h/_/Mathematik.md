@@ -1,1 +1,1 @@
-, [[Zahlenverständnis]], [[Potenzrechnung]], [[Mathelehrkraft]]
+, [[Zahlenverständnis]], [[Potenzrechnung]], [[Mathelehrkraft]], [[MINT]]

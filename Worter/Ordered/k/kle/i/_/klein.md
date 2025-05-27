@@ -1,5 +1,4 @@
 ---
-
 ---
 
 #Adjektiv/Regumassigq
@@ -19,65 +18,68 @@ Ich haben eine großen Hund bei meiner Freundin.
 Ich ==habe== eine==n== großen Hund ==bei meiner Freundin==.
 
 ###### Erklärung:
-1) ==habe==: Falsche Verbform
-2) eine==n==: "Hund" + Akkusativ
-3) ==bei meiner Freundin==: "у подруги" `bei meiner Freundin`
 
-
----
-*Der* kleine *er* *gibt* *dem* kleinen *ihm* *den* kleinen *ihn* *des* kleinen *seines*
-*Die* kleine *sie* *gibt* *der* kleinen *ihr* *die* kleine *sie* *der* kleinen *ihrer*
-*Das* kleine *es* *gibt* *dem* kleinen *ihm* *das* kleine *es* *des* kleinen *ihres*
-*Die* kleinen *sie* *geben* *den* kleinen *ihnen* *die* kleinen *sie* *der* kleinen *ihrer*
-
-*Ein* kleiner *er* *gibt* *einem* kleinen *ihm* *einen* kleinen *ihn* *eines* kleinen *seines*
-*Eine* kleine *sie* *gibt* *einer* kleinen *ihr* *eine* kleine *sie* *einer* kleinen *ihrer*
-*Ein* kleines *es* *gibt* *einem* kleinen *ihm* *ein* kleines *es* *eines* kleinen *ihres*
-*Keine* kleinen *sie* *geben* *keinen* kleinen *ihnen* *keine* kleinen *sie* *keiner* kleinen *ihrer*
-
-Kleiner *er* *gibt* kleinem *ihm* kleinen *ihn* kleinen *seines*
-Kleine *sie* *gibt* kleiner *ihr* kleine *sie* kleiner *ihrer*
-Kleines *es* *gibt* kleinem *ihm* kleines *es* kleinen *ihres*
-Kleine *sie* *geben* kleinen *ihnen* kleine *sie* kleiner *ihrer*
+1. ==habe==: Falsche Verbform
+2. eine==n==: "Hund" + Akkusativ
+3. ==bei meiner Freundin==: "у подруги" `bei meiner Freundin`
 
 ---
-*Der* kleinere *er* *gibt* *dem* kleineren *ihm* *den* kleineren *ihn* *des* kleineren *seines*
-*Die* kleinere *sie* *gibt* *der* kleineren *ihr* *die* kleinere *sie* *der* kleineren *ihrer*
-*Das* kleinere *es* *gibt* *dem* kleineren *ihm* *das* kleinere *es* *des* kleineren *ihres*
-*Die* kleineren *sie* *geben* *den* kleineren *ihnen* *die* kleineren *sie* *der* kleineren *ihrer*
 
-*Ein* kleinerer *er* *gibt* *einem* kleineren *ihm* *einen* kleineren *ihn* *eines* kleineren *seines*
-*Eine* kleinere *sie* *gibt* *einer* kleineren *ihr* *eine* kleinere *sie* *einer* kleineren *ihrer*
-*Ein* kleineres *es* *gibt* *einem* kleineren *ihm* *ein* kleineres *es* *eines* kleineren *ihres*
-*Keine* kleineren *sie* *geben* *keinen* kleineren *ihnen* *keine* kleineren *sie* *keiner* kleineren *ihrer*
+_Der_ kleine _er_ _gibt_ _dem_ kleinen _ihm_ _den_ kleinen _ihn_ _des_ kleinen _seines_
+_Die_ kleine _sie_ _gibt_ _der_ kleinen _ihr_ _die_ kleine _sie_ _der_ kleinen _ihrer_
+_Das_ kleine _es_ _gibt_ _dem_ kleinen _ihm_ _das_ kleine _es_ _des_ kleinen _ihres_
+_Die_ kleinen _sie_ _geben_ _den_ kleinen _ihnen_ _die_ kleinen _sie_ _der_ kleinen _ihrer_
 
-Kleinerer *er* *gibt* kleinerem *ihm* kleineren *ihn* kleineren *seines*
-Kleinere *sie* *gibt* kleinerer *ihr* kleinere *sie* kleinerer *ihrer*
-Kleineres *es* *gibt* kleinerem *ihm* kleineres *es* kleineren *ihres*
-Kleinere *sie* *geben* kleineren *ihnen* kleinere *sie* kleinerer *ihrer*
+_Ein_ kleiner _er_ _gibt_ _einem_ kleinen _ihm_ _einen_ kleinen _ihn_ _eines_ kleinen _seines_
+_Eine_ kleine _sie_ _gibt_ _einer_ kleinen _ihr_ _eine_ kleine _sie_ _einer_ kleinen _ihrer_
+_Ein_ kleines _es_ _gibt_ _einem_ kleinen _ihm_ _ein_ kleines _es_ _eines_ kleinen _ihres_
+_Keine_ kleinen _sie_ _geben_ _keinen_ kleinen _ihnen_ _keine_ kleinen _sie_ _keiner_ kleinen _ihrer_
+
+Kleiner _er_ _gibt_ kleinem _ihm_ kleinen _ihn_ kleinen _seines_
+Kleine _sie_ _gibt_ kleiner _ihr_ kleine _sie_ kleiner _ihrer_
+Kleines _es_ _gibt_ kleinem _ihm_ kleines _es_ kleinen _ihres_
+Kleine _sie_ _geben_ kleinen _ihnen_ kleine _sie_ kleiner _ihrer_
 
 ---
-*Der* kleinste *er* *gibt* *dem* kleinsten *ihm* *den* kleinsten *ihn* *des* kleinsten *seines*
-*Die* kleinste *sie* *gibt* *der* kleinsten *ihr* *die* kleinste *sie* *der* kleinsten *ihrer*
-*Das* kleinste *es* *gibt* *dem* kleinsten *ihm* *das* kleinste *es* *des* kleinsten *ihres*
-*Die* kleinsten *sie* *geben* *den* kleinsten *ihnen* *die* kleinsten *sie* *der* kleinsten *ihrer*
 
-*Ein* kleinster *er* *gibt* *einem* kleinsten *ihm* *einen* kleinsten *ihn* *eines* kleinsten *seines*
-*Eine* kleinste *sie* *gibt* *einer* kleinsten *ihr* *eine* kleinste *sie* *einer* kleinsten *ihrer*
-*Ein* kleinstes *es* *gibt* *einem* kleinsten *ihm* *ein* kleinstes *es* *eines* kleinsten *ihres*
-*Keine* kleinsten *sie* *geben* *keinen* kleinsten *ihnen* *keine* kleinsten *sie* *keiner* kleinsten *ihrer*
+_Der_ kleinere _er_ _gibt_ _dem_ kleineren _ihm_ _den_ kleineren _ihn_ _des_ kleineren _seines_
+_Die_ kleinere _sie_ _gibt_ _der_ kleineren _ihr_ _die_ kleinere _sie_ _der_ kleineren _ihrer_
+_Das_ kleinere _es_ _gibt_ _dem_ kleineren _ihm_ _das_ kleinere _es_ _des_ kleineren _ihres_
+_Die_ kleineren _sie_ _geben_ _den_ kleineren _ihnen_ _die_ kleineren _sie_ _der_ kleineren _ihrer_
 
-Kleinster *er* *gibt* kleinstem *ihm* kleinsten *ihn* kleinsten *seines*
-Kleinste *sie* *gibt* kleinster *ihr* kleinste *sie* kleinster *ihrer*
-Kleinstes *es* *gibt* kleinstem *ihm* kleinstes *es* kleinsten *ihres*
-Kleinste *sie* *geben* kleinsten *ihnen* kleinste *sie* kleinster *ihrer*
+_Ein_ kleinerer _er_ _gibt_ _einem_ kleineren _ihm_ _einen_ kleineren _ihn_ _eines_ kleineren _seines_
+_Eine_ kleinere _sie_ _gibt_ _einer_ kleineren _ihr_ _eine_ kleinere _sie_ _einer_ kleineren _ihrer_
+_Ein_ kleineres _es_ _gibt_ _einem_ kleineren _ihm_ _ein_ kleineres _es_ _eines_ kleineren _ihres_
+_Keine_ kleineren _sie_ _geben_ _keinen_ kleineren _ihnen_ _keine_ kleineren _sie_ _keiner_ kleineren _ihrer_
+
+Kleinerer _er_ _gibt_ kleinerem _ihm_ kleineren _ihn_ kleineren _seines_
+Kleinere _sie_ _gibt_ kleinerer _ihr_ kleinere _sie_ kleinerer _ihrer_
+Kleineres _es_ _gibt_ kleinerem _ihm_ kleineres _es_ kleineren _ihres_
+Kleinere _sie_ _geben_ kleineren _ihnen_ kleinere _sie_ kleinerer _ihrer_
+
+---
+
+_Der_ kleinste _er_ _gibt_ _dem_ kleinsten _ihm_ _den_ kleinsten _ihn_ _des_ kleinsten _seines_
+_Die_ kleinste _sie_ _gibt_ _der_ kleinsten _ihr_ _die_ kleinste _sie_ _der_ kleinsten _ihrer_
+_Das_ kleinste _es_ _gibt_ _dem_ kleinsten _ihm_ _das_ kleinste _es_ _des_ kleinsten _ihres_
+_Die_ kleinsten _sie_ _geben_ _den_ kleinsten _ihnen_ _die_ kleinsten _sie_ _der_ kleinsten _ihrer_
+
+_Ein_ kleinster _er_ _gibt_ _einem_ kleinsten _ihm_ _einen_ kleinsten _ihn_ _eines_ kleinsten _seines_
+_Eine_ kleinste _sie_ _gibt_ _einer_ kleinsten _ihr_ _eine_ kleinste _sie_ _einer_ kleinsten _ihrer_
+_Ein_ kleinstes _es_ _gibt_ _einem_ kleinsten _ihm_ _ein_ kleinstes _es_ _eines_ kleinsten _ihres_
+_Keine_ kleinsten _sie_ _geben_ _keinen_ kleinsten _ihnen_ _keine_ kleinsten _sie_ _keiner_ kleinsten _ihrer_
+
+Kleinster _er_ _gibt_ kleinstem _ihm_ kleinsten _ihn_ kleinsten _seines_
+Kleinste _sie_ _gibt_ kleinster _ihr_ kleinste _sie_ kleinster _ihrer_
+Kleinstes _es_ _gibt_ kleinstem _ihm_ kleinstes _es_ kleinsten _ihres_
+Kleinste _sie_ _geben_ kleinsten _ihnen_ kleinste _sie_ kleinster _ihrer_
 
 [[Grammatik/Morphem/Stamm/List/k/klein (Stamm)|klein]]
-
 
 Der klein[e] Vater und keine klein[en] Femden gaben klein[em] Kind ein klein[es] Geschenk klein[er] Tante
 
 ---
+
 dsadas
 [[Grammatik/Morphem/Stamm/List/k/klein (Stamm)|klein]]
 
@@ -87,93 +89,82 @@ er
 em
 es
 
-*Der* kleine *Vater* *und* *keine* kleinen *Femden* *gaben* kleinem *Kind* *ein* kleines *Geschenk* kleiner *Tante*
+_Der_ kleine _Vater_ _und_ _keine_ kleinen _Femden_ _gaben_ kleinem _Kind_ _ein_ kleines _Geschenk_ kleiner _Tante_
 
+kleinen _Sterne_ und _die_ kleine _Sonne_
 
-kleinen *Sterne* und *die* kleine *Sonne*  
-
-*Der* kleine *er* *gibt* ==*dem* kleinen *ihm*==
-==*Ein* kleiner *er*== ==*schenkt*== ==*einem* kleinen *ihm*== *ein* kleines *es*.
-==Kleiner *er* *gibt*== kleinem *ihm* ==kleinen== ==*ihn* kleinen *seines*== kleiner *ihrer*
+_Der_ kleine _er_ _gibt_ ==_dem_ kleinen _ihm_==
+==_Ein_ kleiner _er_== ==_schenkt_== ==_einem_ kleinen _ihm_== _ein_ kleines _es_.
+==Kleiner _er_ _gibt_== kleinem _ihm_ ==kleinen== ==_ihn_ kleinen _seines_== kleiner _ihrer_
 
 Der klein[e] er und klein[en] sie gaben klein[em] ihm ein klein[es] es klein[er] ihrer
 
-==*dem* kleinen *ihm*==
-==*Ein* kleiner *er*== ==*schenkt*== ==*einem* kleinen *ihm*== *ein* kleines *es*.
-==Kleiner *er* *gibt*== kleinem *ihm* ==kleinen== ==*ihn* kleinen *seines*== kleiner *ihrer*
-
-
----
-*Der* kleine *er* *gibt* *dem* kleinen *ihm* *jN*
-
-
-*Der* kleine *er* *gibt* *dem* kleinen *ihm* ==*den* kleinen *ihn* *des* kleinen *seines*==
-==*Die* kleine *sie* *gibt* *der* kleinen *ihr*== ==*die* kleine== ==*sie* *der* kleinen *ihrer*==
-==*Das* kleine *es* *gibt* *dem* kleinen *ihm* *das* kleine== ==*es* *des* kleinen *ihres*==
-==kleinen *sie* *geben*== ==*den* kleinen *ihnen*==  ==*die* kleinen *sie* == *der* kleinen *ihrer*
+==_dem_ kleinen _ihm_==
+==_Ein_ kleiner _er_== ==_schenkt_== ==_einem_ kleinen _ihm_== _ein_ kleines _es_.
+==Kleiner _er_ _gibt_== kleinem _ihm_ ==kleinen== ==_ihn_ kleinen _seines_== kleiner _ihrer_
 
 ---
----
-*Ein* kleiner *er* *schenkt* *einem* kleinen *ihm* *ein* kleines *es*.
-*Ein* kleiner *er* *schenkt* *jM* *ein* kleines *es*.
 
-*Ein* kleiner *er* *gibt* *einem* kleinen *ihm* ==*einen* kleinen *ihn* *eines* kleinen *seines*==
-==*Eine* kleine *sie* *gibt* *einer* kleinen *ihr*== ==*eine* kleine *sie*== ==*einer* kleinen *ihrer*==
-==*Ein* kleines *es*== ==*gibt* *einem* kleinen *ihm*== *ein* kleines *es* ==*eines* kleinen *ihres*==
-==*Keine* kleinen *sie* *geben* *keinen* kleinen *ihnen* *keine* kleinen *sie* *keiner* kleinen *ihrer*==
+_Der_ kleine _er_ _gibt_ _dem_ kleinen _ihm_ _jN_
 
+_Der_ kleine _er_ _gibt_ _dem_ kleinen _ihm_ ==_den_ kleinen _ihn_ _des_ kleinen _seines_==
+==_Die_ kleine _sie_ _gibt_ _der_ kleinen _ihr_== ==_die_ kleine== ==_sie_ _der_ kleinen _ihrer_==
+==_Das_ kleine _es_ _gibt_ _dem_ kleinen _ihm_ _das_ kleine== ==_es_ _des_ kleinen _ihres_==
+==kleinen _sie_ _geben_== ==_den_ kleinen _ihnen_== ==_die_ kleinen _sie_ == _der_ kleinen _ihrer_
 
 ---
+
 ---
 
-==Kleiner *er* *gibt*== kleinem *ihm* kleinen *ihn* kleinen *seines*
-==Kleine *sie* *gibt*== kleiner *ihr* kleine *sie* kleiner *ihrer*
-==Kleines *es* *gibt*== kleinem *ihm* kleines *es* kleinen *ihres*
-==Kleine *sie* *geben*== kleinen *ihnen* kleine *sie* kleiner *ihrer*
+_Ein_ kleiner _er_ _schenkt_ _einem_ kleinen _ihm_ _ein_ kleines _es_.
+_Ein_ kleiner _er_ _schenkt_ _jM_ _ein_ kleines _es_.
 
+_Ein_ kleiner _er_ _gibt_ _einem_ kleinen _ihm_ ==_einen_ kleinen _ihn_ _eines_ kleinen _seines_==
+==_Eine_ kleine _sie_ _gibt_ _einer_ kleinen _ihr_== ==_eine_ kleine _sie_== ==_einer_ kleinen _ihrer_==
+==_Ein_ kleines _es_== ==_gibt_ _einem_ kleinen _ihm_== _ein_ kleines _es_ ==_eines_ kleinen _ihres_==
+==_Keine_ kleinen _sie_ _geben_ _keinen_ kleinen _ihnen_ _keine_ kleinen _sie_ _keiner_ kleinen _ihrer_==
 
+---
+
+---
+
+==Kleiner _er_ _gibt_== kleinem _ihm_ kleinen _ihn_ kleinen _seines_
+==Kleine _sie_ _gibt_== kleiner _ihr_ kleine _sie_ kleiner _ihrer_
+==Kleines _es_ _gibt_== kleinem _ihm_ kleines _es_ kleinen _ihres_
+==Kleine _sie_ _geben_== kleinen _ihnen_ kleine _sie_ kleiner _ihrer_
 
 ---
 
 **Starker Wind** und **helle Sonne** schufen **ruhiges Meer**, das in **dunklem Wasser** unter **stürmischen Bedingungen** lag.
 
-
 Ein klein[er] Sohn und die klein[e] Mutter gaben klein[em] Kind ein klein[es] Geschenk klein[en] Onkels.
 
 Die klein[e] Mutter und ein klein[er] Sohn gaben klein[em] Vater ein klein[es] Geschenk klein[en] Onkels.
 
-
-
-
 [[Leben]]
 
-
-
-
 [[Grammatik/Morphem/Stamm/List/k/klein (Stamm)|klein]]
 
-
 ---
+
 dsadas
 
 [[Grammatik/Morphem/Stamm/List/k/klein (Stamm)|klein]]
 
-
 ---
+
 dsadas
 
-Die [[Worter/K/kleine.md|kleine]] Mutter und ein [[Worter/K/kleiner.md|kleiner]] Sohn gaben [[Worter/K/kleinem.md|kleinem]] Vater ein [[Worter/K/kleines.md|kleines]] Geschenk [[Worter/K/kleinen.md|kleinen]] Onkels
-Die [[Worter/K/kleinere.md|kleinere]] Mutter und ein [[Worter/K/kleinerer.md|kleinerer]] Sohn gaben [[Worter/K/kleinerem.md|kleinerem]] Vater ein [[Worter/K/kleineres.md|kleineres]] Geschenk [[Worter/K/kleineren.md|kleineren]] Onkels
-Die [[Worter/K/kleinste.md|kleinste]] Mutter und ein [[Worter/K/kleinster.md|kleinster]] Sohn gaben [[Worter/K/kleinstem.md|kleinstem]] Vater ein [[Worter/K/kleinstes.md|kleinstes]] Geschenk [[Worter/K/kleinsten.md|kleinsten]] Onkels
+Die [[kleine.md|kleine]] Mutter und ein [[kleiner.md|kleiner]] Sohn gaben [[kleinem.md|kleinem]] Vater ein [[kleines.md|kleines]] Geschenk [[kleinen.md|kleinen]] Onkels
+Die [[kleinere.md|kleinere]] Mutter und ein [[kleinerer.md|kleinerer]] Sohn gaben [[kleinerem.md|kleinerem]] Vater ein [[kleineres.md|kleineres]] Geschenk [[kleineren.md|kleineren]] Onkels
+Die [[kleinste.md|kleinste]] Mutter und ein [[kleinster.md|kleinster]] Sohn gaben [[kleinstem.md|kleinstem]] Vater ein [[kleinstes.md|kleinstes]] Geschenk [[kleinsten.md|kleinsten]] Onkels
 
 [[Grammatik/Morphem/Stamm/List/k/klein (Stamm)|klein]]
 
-
 ---
-dsadas
 
+dsadas
 
 [[wild]]
 
-
-[[Kohlekraftwerk]], [[Kleintier]], [[niedrig]], [[Kleingärtner]]
+[[Kohlekraftwerk]], [[Kleintier]], [[niedrig]], [[Kleingärtner]], [[weit]]

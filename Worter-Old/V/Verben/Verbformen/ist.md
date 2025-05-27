@@ -1,1 +1,0 @@
-👤 [[sein]]  , [[vorausgehen]], [[verlaufen]]

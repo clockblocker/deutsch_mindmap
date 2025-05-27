@@ -1,5 +1,6 @@
 --> [[Ingredinet-Action-Nomen]] <--
 
 ---
-, [[Handlung]], [[Maßnahme]], [[Worter/S/Sport]]
+
+, [[Handlung]], [[Maßnahme]], [[Sport]]
 , [[Freizeitaktivität]], [[Akteur]], [[Bewegungsmangel]], [[Einsatz]], [[Untätigkeit]], [[Tatendrang]], [[Faulheit]], [[Geschäft]]

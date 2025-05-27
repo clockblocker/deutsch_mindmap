@@ -1,1 +1,1 @@
-, [[Wahl]]
+, [[Wahl]], [[Wahlmöglichkeit]]

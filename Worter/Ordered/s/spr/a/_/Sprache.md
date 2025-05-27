@@ -1,24 +1,28 @@
-🔴 die [[Worter/S/Sprache]], [ˈʃpʀaːχə]
+🔴 die [[Sprache]], [ˈʃpʀaːχə]
 die [[Sprachen]]
 
+---
 
 ---
 
-
----
 Synonyme:
+
 - [[Idiom]], [[Zunge]], [[Redeweise]], [[Dialekt]]
 
 ---
+
 Übersetzung: language
 
 ---
+
 Morpheme:
-[[Worter/S/Sprache]]
+[[Sprache]]
 
 ---
-Einzigartige mögliche Formen: [[Worter/S/Sprache]], [[Sprachen]], [[Worter/S/Sprache]], [[Worter/S/Sprache]], [[Worter/S/Sprache]], [[Worter/S/Sprache]], [[Worter/S/Sprache]], [[Sprachen]]
+
+Einzigartige mögliche Formen: [[Sprache]], [[Sprachen]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprache]], [[Sprachen]]
 
 ---
+
 #Substantiv #Feminin, [[Sprachunterricht]], [[schriftsprachlich]]
-, [[Sprachschatz]], [[Behördensprache]], [[Dolmetscher]], [[Muttersprachler]], [[Amtssprache]], [[Zielsprache]], [[Landessprache]], [[Wortschatz]], [[mehrsprachig]], [[Sprachenzentrum]], [[Jugendsprache]]
+, [[Sprachschatz]], [[Behördensprache]], [[Dolmetscher]], [[Muttersprachler]], [[Amtssprache]], [[Zielsprache]], [[Landessprache]], [[Wortschatz]], [[mehrsprachig]], [[Sprachenzentrum]], [[Jugendsprache]], [[Spracherwerb]], [[Sprachkenntnis]]

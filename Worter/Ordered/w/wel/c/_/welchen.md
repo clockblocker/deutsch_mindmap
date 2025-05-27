@@ -1,4 +1,4 @@
 [[welcher]]
 
-[[Worter/P/Pronomen/Pronomen]]
+[[Pronomen/Pronomen]]
 #Relativpronomen #pronomen , [[Grammatik-Pronomen-Relativ-Selbständige]]

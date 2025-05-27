@@ -46,4 +46,4 @@ Plural: [[erfolgreichen]], [[erfolgreicheren]], [[erfolgreichsten]]
 [[Erfolg]], [[Erfolgsaussicht]], [[Erfolglosigkeit]], [[erfolgsorientiert]], [[erfolgreich sein]]
 
 , [[vergebens]], [[Erfolg]]
-, [[Erfolgen]], [[w-l]], [[abheben]], [[Erfolgsfaktor]], [[Bildungserfolg]]
+, [[Erfolgen]], [[w-l]], [[abheben]], [[Erfolgsfaktor]], [[Bildungserfolg]], [[Bildungsergebnis]]

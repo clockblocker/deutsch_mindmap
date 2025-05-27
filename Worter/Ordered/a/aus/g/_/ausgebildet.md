@@ -1,1 +1,1 @@
-, [[ausbilden]]
+, [[ausbilden]], [[qualifiziert]]

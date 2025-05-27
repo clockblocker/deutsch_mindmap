@@ -38,4 +38,4 @@ A: das [[Wissen]], -
 G: des [[Wissens]], -
 D: dem [[Wissen]], -
 
-#Neuter 
+#Neuter , [[Naturwissenschaft]]

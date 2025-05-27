@@ -1,3 +1,0 @@
-
-, [[Werksgelände]]
-, [[gelegen]]

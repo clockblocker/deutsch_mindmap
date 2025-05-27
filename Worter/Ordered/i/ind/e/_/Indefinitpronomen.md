@@ -1,7 +1,6 @@
-
 Here is the list of some common [[Indefinitpronomen]] (indefinite pronouns) in German, formatted with double brackets:
 
-- [[Worter/A/Alle]] (all)
+- [[Alle]] (all)
 - [[anderer]] (other)
 - [[E/einer]] (one, someone)
 - [[Jemand]] (someone)
@@ -36,7 +35,7 @@ Here is the list of some common [[Indefinitpronomen]] (indefinite pronouns) in G
 - [[irgendwelche]] (any)
 - [[solche]] (such)
 - [[einerlei]] (the same)
-- [[Worter/A/Alle]] (all)
+- [[Alle]] (all)
 - [[jede]] (every, each)
 
 , [[derselbe]]

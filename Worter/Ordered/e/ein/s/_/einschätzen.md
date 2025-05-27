@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-200-Text#^39|^]]* Sie sind nicht [[unbedingt]] klüger, werden aber von ihren [[Mitmenschen]] oft als klüger [[eingeschätzt]]
 
+*[[C1-Hoehen-T3-301-Text#^54|^]]* Herr Dr. Osterholz, Sie sind ja täglich in Kontakt mit zahlreichen Wirtschaftsunternehmen. Wie [[einschätzen|schätzen]] Sie die Lage ein?
+
 *[[C1-Hoehen-T2-200-Text#^34|^]]* Aber ein längliches Gesicht allein oder eine bestimmte Nasenform [[ausreichen|reichen]] nicht aus, um jemanden als intelligent oder weniger intelligent [[einzuschätzen]]
 
 *[[C1-Hoehen-T2-200-Text#^39|^]]* Sie sind nicht [[unbedingt]] klüger, werden aber von ihren [[Mitmenschen]] oft als klüger [[eingeschätzt]]

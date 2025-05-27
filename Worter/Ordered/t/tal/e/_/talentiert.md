@@ -1,1 +1,1 @@
-, [[Fähig]], [[begabt]], [[Talent]], [[veranlagt]], [[geschickt]]
+, [[fähig]], [[begabt]], [[Talent]], [[veranlagt]], [[geschickt]]

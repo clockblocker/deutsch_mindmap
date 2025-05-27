@@ -1,1 +1,1 @@
-, [[Hang]]
+, [[Hang]], [[Lohngefälle]]

@@ -1,1 +1,1 @@
-, [[Wirtschaftsgemeinschaft]]
+, [[Wirtschaftsgemeinschaft]], [[Wirtschaftsbranche]]

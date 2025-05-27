@@ -2,7 +2,12 @@
 ✅ [[erledigen]], [ɛɐ̯ˈleːdɪɡn̩] | [[erledigte]], haben [[erledigt]]
 
 ---
-Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]].
+Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]]
+
+*[[C1-Hoehen-T3-301-Text#^33|^]]* Allerdings ist das eine [[langfristig]]e [[Aufgabe]], 
+die sich nicht `von` [[heute]] `auf` [[morgen]] [[erledigen]] `lässt`, 
+*(which cannot be [[done]] overnight)*
+denn ohne [[ausreichend]]e [[Sprachkenntnis]]se funktioniert das nicht
 
 *[[C1-Lesen-T4-102-Text#^7|^]]* Außerdem übernehmen ja Expertinnen und Experten diese [[ausgelagerten]] [[Aufgabe]]n und [[erledigen]] das bestimmt viel professioneller und effizienter als ich das kann. 
 

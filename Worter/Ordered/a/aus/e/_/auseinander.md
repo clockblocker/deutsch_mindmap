@@ -35,4 +35,4 @@ Typische Verbindungen:
 ---
 
 [[übereinander]]
-, [[entzwei]], [[s1 e1]]
+, [[entzwei]], [[s1 e1]], [[auseinanderdriften]]

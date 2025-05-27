@@ -1,2 +1,2 @@
 
-, [[Geist]], [[geisteswissenschaftlich]], [[geistreich]]
+, [[Geist]], [[geisteswissenschaftlich]], [[geistreich]], [[Naturwissenschaft]], [[MINT]]

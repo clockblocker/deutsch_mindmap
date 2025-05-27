@@ -1,1 +1,1 @@
-, [[Recherchen]], [[Studiengang]], [[Studie]], [[Studienvisum]]
+, [[Recherchen]], [[Studiengang]], [[Studie]], [[Studienvisum]], [[studienvorbereiten]]

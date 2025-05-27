@@ -1,1 +1,1 @@
-[[Brechen]] den [[Stab]] [[Worter/Ü/über]]
+[[Brechen]] den [[Stab]] [[Ü/über]]

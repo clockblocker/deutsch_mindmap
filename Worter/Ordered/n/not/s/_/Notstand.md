@@ -1,1 +1,1 @@
-, [[Notfallschutz]], [[Notbetreuung]], [[Wohnungsknappheit]]
+, [[Notfallschutz]], [[Notbetreuung]], [[Wohnungsknappheit]], [[Pflegenotstand]]

@@ -1,26 +1,31 @@
-🏀 der [[Worter/S/Sport]], [ʃpɔʁt]
+🏀 der [[Sport]], [ʃpɔʁt]
 die [[Sportarten]]
 
 ---
+
 [[Sportverein]]
 
-
 ---
+
 = [[Bewegung]], [[Aktivität]], [[Leibesübungen]]
 ≈ [[Bewegungssport]], [[Training]], [[Wettkampf]], [[Fitness]]
 ≠ [[Faulheit]], [[Untätigkeit]], [[Inaktivität]]
 
 ---
+
 sport, physical activity
 
 ---
-[[Worter/S/Sport]]
+
+[[Sport]]
 
 ---
-N: der [[Worter/S/Sport]], die [[Sportarten]]  
-A: den [[Worter/S/Sport]], die [[Sportarten]]  
+
+N: der [[Sport]], die [[Sportarten]]  
+A: den [[Sport]], die [[Sportarten]]  
 G: des [[Sports]], der [[Sportarten]]  
-D: dem [[Worter/S/Sport]], den [[Sportarten]]  
+D: dem [[Sport]], den [[Sportarten]]
 
 ---
+
 [[sportlich]], [[sporttreiben]], [[Sportsgeist]], [[Sportler]], [[sporteln]], [[Bewegungsmangel]], [[Betriebssport]], [[Spiel]], [[Ausdauersport]], [[Ausdauersportler]], [[Langstreckenlauf]], [[Leistungssportler]], [[Leistungssport]], [[Spitzensportlerin]], [[Ausdauersportart]]

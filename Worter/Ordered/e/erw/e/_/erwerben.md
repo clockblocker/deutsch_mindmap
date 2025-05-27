@@ -50,4 +50,4 @@ sie, [[erwerben]], [[erwarben]], [[erwerben]], [[erwarben]], [[erwerben]]
 Adjektive: [[erwerbend]], [[erwerbender]], [[erwerbendst]]
 
 ---
-[[erwerbender]], [[erwerbendes]], [[erwerbende]], [[erwerbenden]], [[erwerbendem]], [[erwerbenderer]], [[erwerbenderes]], [[erwerbendere]], [[erwerbenderen]], [[erwerbenderem]], [[erwerbendster]], [[erwerbendstes]], [[erwerbendste]], [[erwerbendsten]], [[erwerbendstem]], [[aufkaufen]], [[zulegen]], [[aneignen]]
+[[erwerbender]], [[erwerbendes]], [[erwerbende]], [[erwerbenden]], [[erwerbendem]], [[erwerbenderer]], [[erwerbenderes]], [[erwerbendere]], [[erwerbenderen]], [[erwerbenderem]], [[erwerbendster]], [[erwerbendstes]], [[erwerbendste]], [[erwerbendsten]], [[erwerbendstem]], [[aufkaufen]], [[zulegen]], [[aneignen]], [[Spracherwerb]]

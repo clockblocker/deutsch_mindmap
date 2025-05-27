@@ -1,1 +1,0 @@
-[[Worter/P/Platzwechsel]]

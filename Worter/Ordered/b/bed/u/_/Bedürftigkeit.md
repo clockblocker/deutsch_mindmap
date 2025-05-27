@@ -26,4 +26,4 @@ A: die [[Bedürftigkeit]], die [[Bedürftigkeiten]]
 G: der [[Bedürftigkeit]], der [[Bedürftigkeiten]]
 D: der [[Bedürftigkeit]], den [[Bedürftigkeiten]]
 
-#Feminin 
+#Feminin , [[hilfebedürftig]]

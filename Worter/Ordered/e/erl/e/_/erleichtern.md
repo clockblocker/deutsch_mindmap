@@ -34,4 +34,4 @@ Morpheme: [[er]][[leicht]][[er]][[n]]
 | Sie       | [[erleichtern]]      | [[erleichterten]]     | [[erleichtern Sie]] | [[erleichtern]]      | [[erleichterten]]       |
 
 Partizip I: [[erleichternd]], Partizip II: [[erleichtert]]
-[[erleichtern]] - [[er]] = [[leichtern]], [[behindern]], [[Erleichterung]], [[beklemmen]]
+[[erleichtern]] - [[er]] = [[leichtern]], [[behindern]], [[Erleichterung]], [[beklemmen]], [[verschärfen]]

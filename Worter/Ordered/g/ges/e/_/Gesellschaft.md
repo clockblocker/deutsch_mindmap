@@ -5,6 +5,8 @@ die [[Gesellschaften]]
 ---
 die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer [[Gesellschaft]] [[einnehmen]] soll, finde ich auch sehr spannend
 
+*[[C1-Hoehen-T3-301-Text#^23|^]]* Das ist schon richtig, aber es [[ausreicht|reicht]] bei [[Weitem]] nicht aus, den [[demografisch]]en [[Wandel]] in unserer schnell [[alternden]] [[Gesellschaft]] zu [[kompensieren]]
+
 *[[C1-Hoehen-T1-301-Text#^5|^]]* Der Podcast [[zeichnet]] eine [[Gesellschaft]], deren [[Wert]] [[weit]] über den als [[Urlaubsparadies]] [[hinausgeht]]
 
 Sie hören einen kurzen Vortrag zu einem aktuellen Thema aus den [[Themenbereich]]en [[Gesellschaft]], [[Politik]] und [[Forschung]]

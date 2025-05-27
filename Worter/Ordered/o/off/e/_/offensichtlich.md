@@ -7,6 +7,8 @@ nicht [[verborgen]]
 ---
 Fahren sie [[offensichtlich]] von zu Hause in den Klub? Keine Ahnung. Sie kommen sehr spät nach Hause 
 
+*[[C1-Hoehen-T3-301-Text#^41|^]]* Denn die Situation [[verschärft]] sich [[zusehend]]s und der [[Handlungsbedarf]] ist [[offensichtlich]]. Dazu muss man sich nur die Zahlen der [[unbesetzten]] [[Ausbildungsstellen]] [[anschauen]]
+
 ---
 = [[deutlich]], [[klar]], [[ersichtlich]]
 ≈ [[augenscheinlich]], [[eindeutig]], [[unverkennbar]], [[unmissverständlich]]

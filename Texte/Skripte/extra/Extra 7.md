@@ -18,8 +18,7 @@ Sie versteht mich nicht …
 Einen Moment …  
 Hallo, Mutter ...  
 SAM: I’ll get my weights - die [[Hanteln]] …  
-SASCHA: Ja, Mutter! Ich weiß, dass sie heute ankommt …  
-
+SASCHA: Ja, Mutter! Ich weiß, dass sie heute ankommt …
 
 SCENE 3  
 SAM: Oh, hi, Nic - Ich will meine Hanteln [[holen]] …  
@@ -71,8 +70,7 @@ MARIA: Mich!
 SASCHA: Mich! Na ja - hier sind wir [[nun]] …  
 MARIA: Kann ich mir von dir Kleider leihen?  
 SASCHA: So etwas vielleicht? Es gab zwei für den Preis von einem!  
-MARIA: Na gut.  
-
+MARIA: Na gut.
 
 SCENE 5  
 MARIA: He, Sascha, das [[passt]] richtig gut.  
@@ -93,7 +91,7 @@ NIC: Siehst du? Frauen lieben Azte! Sascha kann mir nicht [[widerstehe
 SAM: [[Ehrlich]]?  
 NIC: Na klar! So geht das! Schätzchen, komm zu Doktor Nic …  
 MARIA: … bis bald, Mami, danke, Mami, Tschüss!  
-Na, Herr Doktor, wo [[Worter/W/Waren]] wir?  
+Na, Herr Doktor, wo [[Waren]] wir?  
 Hah … Ich glaube, ich habe Fieber…  
 NIC: Madame - ich glaube, ich kann helfen. Wo tut es weh?  
 ANNA: Hallo.  
@@ -105,7 +103,7 @@ SAM: Yes Ma, I have washed behind my ears.
 AN: SABINE / VON: SASCHA Meine Zwillingsschwester aus Mexiko ist hier … Sie hat ihr Gepäck verloren, deshalb trägt sie meine Kleider…  
 AN: JO / VON: NIC Genau! Ich hab's! Frauen lieben &AUML;rzte!  
 Heute habe ich die Arztrolle geübt ...  
-Sascha konnte mir nicht widerstehen …  
+Sascha konnte mir nicht widerstehen …
 
 SCENE 6  
 SAM: Sascha ist komisch heute …  
@@ -185,8 +183,7 @@ AN: JO / VON NIC Erst nennt sie mich „Liebling“ ...
 und bittet mich, ihr Fahrrad umzustellen …  
 … und eine Minute später, sagt sie, ich soll es wieder zurück stellen!  
 Frauen!  
-SAM: Mom, would I make a good Doctor?  
-
+SAM: Mom, would I make a good Doctor?
 
 SCENE 7  
 SAM: Hi, Anna!  
@@ -246,8 +243,7 @@ ANNA: Ah - jetzt ist mir klar… sagt mal, welcher Doktor ist euch 
 MARIA: Dr. Müller!  
 SASCHA: Nein! Dr. Scott!  
 ANNA: Wisst ihr … wir könnten uns damit einen Spaß machen …  
-Ein [[Zaubertrick]] …  
-
+Ein [[Zaubertrick]] …
 
 SCENE 8  
 ANNA: Sam! Nic! Ihr kommt [[gerade]] [[rechtzeitig]] für meinen Zaubertrick! Setzt euch hin!  
@@ -271,8 +267,7 @@ ANNA: Gut - dann sehen wir mal!
 Trommelwirbel bitte!  
 Meine Damen und Herren - Applaus für Sascha und Maria!  
 Dem Publikum geht es nicht gut.  
-Is there a Doctor in the House?  
-
+Is there a Doctor in the House?
 
 SCENE 9  
 SASCHA: Tschüss, Maria!  

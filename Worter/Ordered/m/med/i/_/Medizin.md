@@ -1,1 +1,1 @@
-, [[Arzenei]], [[Symptombehandlung]], [[medizinisch]], [[Gesundheitswesen]], [[Balsam]], [[Schulmedizin]], [[Injektionstherapie]], [[Schulmedizinerin]], [[Heilkunde]]
+, [[Arzenei]], [[Symptombehandlung]], [[medizinisch]], [[Gesundheitswesen]], [[Balsam]], [[Schulmedizin]], [[Injektionstherapie]], [[Schulmedizinerin]], [[Heilkunde]], [[Allheilmittel]]

@@ -1,1 +1,1 @@
-, [[begabt]]
+, [[begabt]], [[qualifiziert]]

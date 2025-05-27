@@ -28,4 +28,4 @@ N: [[europäisches]], [[europäischeres]], [[europäischstes]]
 P: [[europäischen]], [[europäischeren]], [[europäischsten]]  
 
 ---
-[[Europa]], [[europäisieren]], [[Europäer]], [[Europäerin]], [[Europapolitik]], [[Europarecht]], [[westeuropäisch]], [[mitteleuropäisch]]
+[[Europa]], [[europäisieren]], [[Europäer]], [[Europäerin]], [[Europapolitik]], [[Europarecht]], [[westeuropäisch]], [[mitteleuropäisch]], [[südeuropäisch]]

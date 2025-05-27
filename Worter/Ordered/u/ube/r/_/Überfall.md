@@ -2,25 +2,30 @@
 die [[Überfälle]]
 
 ---
-- [ ] Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor [[Worter/Überfällen]].
 
+- [ ] Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor [[Überfällen]].
 
 ---
+
 = [[Angriff]], [[Attacke]], [[Überraschungsangriff]]
 ≈ [[Invasion]], [[Razzia]], [[Überrumpelung]], [[Einbruch]]
 ≠ [[Verteidigung]], [[Schutz]], [[Friede]], [[Rückzug]]
 
 ---
+
 attack, raid, assault
 
 ---
-[[Worter/Ü/über]]|[[fall]]
+
+[[Ü/über]]|[[fall]]
 
 ---
+
 N: der [[Überfall]], die [[Überfälle]]  
 A: den [[Überfall]], die [[Überfälle]]  
 G: des [[Überfalls]], der [[Überfälle]]  
-D: dem [[Überfall]], den [[Worter/Ü/Überfällen]]  
+D: dem [[Überfall]], den [[Ü/Überfällen]]
 
 ---
+
 [[überfallen]], [[Überfaller]], [[überfällig]], [[gewalttätig]]

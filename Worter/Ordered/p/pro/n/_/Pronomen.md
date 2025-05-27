@@ -1,5 +1,6 @@
-#pronomen 
-1. #Personalpronomen 
+#pronomen
+
+1. #Personalpronomen
 
 [[Ich]] (I),
 [[Du]] (you, singular informal),
@@ -11,16 +12,16 @@
 [[sie]] (they),
 [[sie]] (you, formal)
 
-2. #Possessivpronomen 
-[[mein]] (my),
-[[dein]] (your, singular informal),
-[[sein]] (his),
-[[ihr]] (her),
-[[sein]] (its),
-[[unser]] (our),
-[[euer]] (your, plural informal),
-[[ihr]] (their),
-[[ihr]] (your, formal)
+2. #Possessivpronomen
+   [[mein]] (my),
+   [[dein]] (your, singular informal),
+   [[sein]] (his),
+   [[ihr]] (her),
+   [[sein]] (its),
+   [[unser]] (our),
+   [[euer]] (your, plural informal),
+   [[ihr]] (their),
+   [[ihr]] (your, formal)
 
 3. #Reflexivpronomen
 
@@ -31,14 +32,14 @@
 [[euch]] (yourselves, plural informal),
 [[sich]] (themselves/yourselves, formal)
 
-4. #Demonstrativpronomen 
+4. #Demonstrativpronomen
 
 [[dieser]] (this),
 [[jener]] (that),
 [[derselbe]] (the same),
 [[derjenige]] (the one)
 
-5. #Relativpronomen 
+5. #Relativpronomen
 
 [[der]] (who, which, that),
 [[die]] (who, which, that),
@@ -47,7 +48,7 @@
 [[welche]] (who, which),
 [[welches]] (who, which)
 
-6. #Interrogativpronomen 
+6. #Interrogativpronomen
 
 [[wer]] (who),
 [[was]] (what),
@@ -55,7 +56,7 @@
 [[welche]] (which, feminine),
 [[welches]] (which, neuter)
 
-7. #Indefinitpronomen 
+7. #Indefinitpronomen
 
 [[Jemand]] (someone),
 [[Niemand]] (no one),
@@ -68,9 +69,9 @@
 [[einige]] (some),
 [[mehrere]] (several),
 [[viele]] (many),
-[[Worter/A/Alle]] (all),
+[[Alle]] (all),
 [[andere]] (others)
 
 8. #Reziproke Pronomen
-[[einander]] (each other, one another)
-, [[Bezugswort]]
+   [[einander]] (each other, one another)
+   , [[Bezugswort]]

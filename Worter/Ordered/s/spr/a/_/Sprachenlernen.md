@@ -1,1 +1,1 @@
-, [[Sprachunterricht]]
+, [[Sprachunterricht]], [[Spracherwerb]]

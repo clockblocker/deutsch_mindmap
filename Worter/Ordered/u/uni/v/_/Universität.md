@@ -25,4 +25,4 @@ D: der [[Universität]], den [[Universitäten]]
 [[universitär]], [[studieren]], [[Universitätsabschluss]], [[Universitätsprofessor]], [[Studierendenwerk]]
 
 
-#Feminin , [[Universitätsbibliothek]], [[Universitätsempfehlung]]
+#Feminin , [[Universitätsbibliothek]], [[Universitätsempfehlung]], [[Fachhochschule]]

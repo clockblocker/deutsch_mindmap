@@ -62,4 +62,4 @@ sie, [[bilden]], [[bildeten]], [[bilden]], [[bildeten]], [[bilden]]
 Adjektive: [[bildend]], [[bildender]], [[bildendst]]
 
 ---
-[[bildender]], [[bildendes]], [[bildende]], [[bildenden]], [[bildendem]], [[bildenderer]], [[bildenderes]], [[bildendere]], [[bildenderen]], [[bildenderem]], [[bildendster]], [[bildendstes]], [[bildendste]], [[bildendsten]], [[bildendstem]]
+[[bildender]], [[bildendes]], [[bildende]], [[bildenden]], [[bildendem]], [[bildenderer]], [[bildenderes]], [[bildendere]], [[bildenderen]], [[bildenderem]], [[bildendster]], [[bildendstes]], [[bildendste]], [[bildendsten]], [[bildendstem]], [[Bildungsergebnis]]

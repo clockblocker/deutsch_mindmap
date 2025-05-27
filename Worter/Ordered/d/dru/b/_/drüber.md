@@ -1,12 +1,14 @@
 [[drüber]]
 
 ---
+
 Alles liegt [[drunter]] und [[drüber]].
 
 ---
 
 Synonyme:
-- [[oben]], [[darüber]], [[Worter/Ü/über]]
+
+- [[oben]], [[darüber]], [[Ü/über]]
 
 ---
 
@@ -17,6 +19,7 @@ Beispiele:
 - Er sprach die ganze Zeit [[drüber]].
 
 ---
+
 **Übersetzung**: over, above, about
 
 ---

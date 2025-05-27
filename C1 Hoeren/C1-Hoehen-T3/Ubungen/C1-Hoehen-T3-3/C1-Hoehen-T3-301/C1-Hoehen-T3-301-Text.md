@@ -17,26 +17,26 @@
 ---
 
 18 Studierende der MINT-Fächer ...
-- [ ] a können den demografischen Wandel in der Arbeitswelt nicht ausgleichen
+- [x] a können den demografischen Wandel in der Arbeitswelt nicht ausgleichen
 - [ ] b können die Aufgaben der älteren Arbeitskräfte schnell übernehmen
 - [ ] c sollen die Fachkräfte bereits während des Studiums unterstützen
 
 19 Frau Ebner-Perotti ...
 - [ ] a glaubt nicht, dass es nur eine richtige Lösung gibt
 - [ ] b sieht in der Zuwanderung den besten Lösungsansatz
-- [ ] c spricht sich gegen die Entscheidungen aus der Politik aus
+- [x] c spricht sich gegen die Entscheidungen aus der Politik aus
 
 ---
 
 20 Herr Osterholz ...
-- [ ] a erkennt im Spracherwerb eine zwingende Voraussetzung
-- [ ] b möchte Zuwanderer nur mit ausreichenden Sprachkenntnissen =einreisen= lassen
-- [ ] c sieht in der =Zuwanderung= eine unproblematische Lösung für den Pflegenotstand
+- [x] a erkennt im Spracherwerb eine zwingende Voraussetzung
+- [ ] b möchte Zuwanderer nur mit ausreichenden Sprachkenntnissen einreisen lassen
+- [ ] c sieht in der Zuwanderung eine unproblematische Lösung für den Pflegenotstand
 
 21 Frau Ebner-Perotti ...
 - [ ] a befürchtet sinkende Löhne durch billige Arbeitskräfte
 - [ ] b fordert, die Anwerbung junger, gut ausgebildeter Menschen zu stoppen
-- [ ] c sieht die Abwanderung von Fachkräften problematisch
+- [x] c sieht die Abwanderung von Fachkräften problematisch
 
 ---
 
@@ -72,7 +72,7 @@
 
 *[[C1-Hoehen-T3-301-Text#^7|^]]* Studierende der MINT-Fächer können den [[demografischen]] [[Wandel]] in der [[Arbeitswelt]] nicht [[ausgleichen]] ^7
 
-*[[C1-Hoehen-T3-301-Text#^8|^]]* Studierende der [[MINT]]-[[Fächer]] können die [[Aufgaben]] der älteren [[Arbeitskräfte]] schnell [[übernehmen]] ^8
+*[[C1-Hoehen-T3-301-Text#^8|^]]* Studierende der [[MINT]]-[[Fächer]] können die [[Aufgabe]]т der älteren [[Arbeitskräfte]] schnell [[übernehmen]] ^8
 
 *[[C1-Hoehen-T3-301-Text#^9|^]]* Studierende der MINT-Fächer sollen die [[Fachkräfte]] [[bereits]] [[während]] des Studiums [[unterstützen]] ^9
 
@@ -87,7 +87,7 @@
 
 *[[C1-Hoehen-T3-301-Text#^13|^]]* Herr Osterholz erkennt im [[Spracherwerb]] eine [[zwingend]]e [[Voraussetzung]] ^13
 
-*[[C1-Hoehen-T3-301-Text#^14|^]]* Herr Osterholz möchte [[Zuwander]]er nur mit [[ausreichend]]en Sprachkenntnissen [[einreisen]] lassen ^14
+*[[C1-Hoehen-T3-301-Text#^14|^]]* Herr Osterholz möchte [[Zuwanderer]] nur mit [[ausreichend]]en Sprachkenntnissen [[einreisen]] lassen ^14
 
 *[[C1-Hoehen-T3-301-Text#^15|^]]* Herr Osterholz sieht in der [[Zuwanderung]] eine unproblematische Lösung für den [[Pflegenotstand]] ^15
 
@@ -143,7 +143,7 @@
 
 
 **Moderator:**  
-*[[C1-Hoehen-T3-301-Text#^54|^]]* Herr Dr. Osterholz, Sie sind ja täglich in Kontakt mit zahlreichen Wirtschaftsunternehmen. Wie schätzen Sie die Lage ein? ^54
+*[[C1-Hoehen-T3-301-Text#^54|^]]* Herr Dr. Osterholz, Sie sind ja täglich in Kontakt mit zahlreichen Wirtschaftsunternehmen. Wie [[einschätzen|schätzen]] Sie die Lage ein? ^54
 
 
 **Dr. Osterholz:**  
@@ -213,9 +213,9 @@ Und wie sehen Sie das, Herr Osterholz?
 
 
 **Dr. Osterholz:**  
-*[[C1-Hoehen-T3-301-Text#^42|^]]* Ich denke, es bedarf einer [[Mischung]] aus qualifizierter [[Zuwanderung]] und attraktiver [[dualer]] [[Berufsausbildung]] an [[Fachhochschule]]n oder [[vergleichbar]]en Ausbildungsstätten. ^42
+*[[C1-Hoehen-T3-301-Text#^42|^]]* Ich denke, es bedarf einer [[Mischung]] aus qualifizierter [[Zuwanderung]] und attraktiver [[dual]]er [[Berufsausbildung]] an [[Fachhochschule]]n oder [[vergleichbar]]en Ausbildungsstätten. ^42
 
-*[[C1-Hoehen-T3-301-Text#^43|^]]* [[Gezielte]] [[Zuwanderung]] für die duale [[Berufsausbildung]] sollte ebenso [[beworben]] und gefördert werden wie der Studienstandort Deutschland. ^43
+*[[C1-Hoehen-T3-301-Text#^43|^]]* [[Gezielte]] [[Zuwanderung]] für die duale [[Berufsausbildung]] sollte ebenso [[beworben]] und [[gefördert]] werden wie der Studienstandort Deutschland. ^43
 
 
 ---

@@ -1,1 +1,1 @@
-, [[Arbeitsverhältnis]], [[Arbeitsstelle]]
+, [[Arbeitsverhältnis]], [[Arbeitsstelle]], [[Arbeitszeit]]

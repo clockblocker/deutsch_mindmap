@@ -24,4 +24,4 @@ G: der [[Kündigung]], der [[Kündigungen]]
 D: der [[Kündigung]], den [[Kündigungen]]  
 
 ---
-[[kündigen]], [[gekündigt]], [[unkündbar]], [[Kündigungsfrist]], [[Kündigungsschutz]], [[Vereinsbeitrag]], [[Kündigungsschutzklage]], [[Betriebszugehörigkeit]], [[ankündigen]], [[Massenentlassung]]
+[[kündigen]], [[gekündigt]], [[unkündbar]], [[Kündigungsfrist]], [[Kündigungsschutz]], [[Vereinsbeitrag]], [[Kündigungsschutzklage]], [[Betriebszugehörigkeit]], [[ankündigen]], [[Massenentlassung]], [[Anwerbung]]

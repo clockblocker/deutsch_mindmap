@@ -1,1 +1,1 @@
-, [[arbeitsunfähig]], [[Arbeitsbedingungen]]
+, [[arbeitsunfähig]], [[Arbeitsbedingungen]], [[Arbeitskraft]], [[Arbeitszeit]]

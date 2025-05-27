@@ -3,7 +3,10 @@
 haben [[ausgebildet]]
 
 ---
-*[[C1-Lesen-T1-001-Text#^36|^]]* Neben Corona werden auch Prostatakrebs und bakterielle Infektionen in [[Verwahrten]] [[zuverlässig]] von [[damit]] [[ausgebildeten]] Hunden erschnüffelt – Malariaparasiten sogar vor [[Ausbruch]] der Krankheit. ^36
+*[[C1-Lesen-T1-001-Text#^36|^]]* Neben Corona werden auch Prostatakrebs und bakterielle Infektionen in [[Verwahrten]] [[zuverlässig]] von [[damit]] [[ausgebildeten]] Hunden erschnüffelt – Malariaparasiten sogar vor [[Ausbruch]] der Krankheit
+
+*[[C1-Hoehen-T3-301-Text#^17|^]]* Frau Ebner-Perotti [[fordert]], die [[Anwerbung]] junger, gut [[ausgebildeter]] Menschen zu stoppen
+
 
 
 *[[C1-Lesen-T4-100-Text#^14|^]]* Das [[gelingt]] mir, da ich mir einfach ein zweites [[Standbein]] [[geschaffen]] habe, indem ich in meinem [[Atelier]] junge, talentierte Künstlerinnen und Künstler [[ausbilde]], dadurch Freude an der Kunst [[vermittle]] und so [[genügend]] Geld verdiene, um davon leben zu können. ^14
@@ -36,4 +39,4 @@ Morpheme: [[aus]][[bild]][[en]]
 | Sie | [[bilden aus]] | [[bildeten aus]] | [[bilden Sie aus]] | [[bilden aus]] | [[bildeten aus]] |
 
 Partizip I: [[ausbildend]], Partizip II: [[ausgebildet]]
-[[ausbilden]] - [[aus]] = [[bilden]], [[entwickeln]], [[s1 e1]], [[erziehen]], [[ausreifen]], [[reifen]]
+[[ausbilden]] - [[aus]] = [[bilden]], [[entwickeln]], [[s1 e1]], [[erziehen]], [[ausreifen]], [[reifen]], [[erlernen]], [[Ausbildungsberuf]], [[Ausbildungsstelle]], [[Berufsausbildung]], [[Ausbildungsstätte]]

@@ -4,20 +4,23 @@ https://readlang.com/shelf/571aec12f654850e459a4f11
 2 бП
 
 ---
+
 3 ма
 4 ба
 
-время 
-воля 
-силы 
+время
+воля
+силы
 
 ---
-глокая кудра быдлануа 
+
+глокая кудра быдлануа
 
 ---
-1) понюхать | смотрим без сабов и пытаемся понять
-2) есть | 
-3) переварить | 
+
+1. понюхать | смотрим без сабов и пытаемся понять
+2. есть |
+3. переварить |
 
 ---
 
@@ -26,9 +29,9 @@ Episode One: Sams [[Ankunft]]
 [[Extra 1#^2|^]] Das ist die [[Geschichte]] von *Sascha* und Anna. ^2
 
 Sie [[wohnen]] [[zusammen]] in Berlin.  
-[[Extra 1.md#^1|^]] Sie haben einen [[Nachbarn]]: Nic.   ^1
+[[Extra 1.md#^1|^]] Sie haben einen [[Nachbarn]]: Nic. ^1
 
-*[[Extra 1#^3|^]]* Nic ist in Sascha [[verliebt]]. ^3
+_[[Extra 1#^3|^]]_ Nic ist in Sascha [[verliebt]]. ^3
 
 Und Anna ist in Nic [[verliebt]].  
 Aber [[dann]] [[bekommt]] Sascha [[Post]] aus Amerika ...
@@ -46,7 +49,7 @@ Tschüs.
 Männer!
 
 ANNA: Louis [[komm]] schon. Sascha! Die Post! Louis und ich haben die Post!  
-[[Gib]] mir die Post Louis! 
+[[Gib]] mir die Post Louis!
 
 SASCHA: Gib mir sofort die Post Louis!
 
@@ -71,7 +74,7 @@ ANNA: Aus Amerika? [[Von wem denn]]? [[Na sag schon]] ...
 SASCHA: Mmh … „Hallo! [[Kennst]] du mich [[noch]]?“  
 Nein ... „vor sieben Jahren [[Brieffreunde]] sind wir ...“
 
-Vor sieben Jahren [[Worter/W/Waren]] wir Brieffreunde.
+Vor sieben Jahren [[Waren]] wir Brieffreunde.
 
 [[Ach du liebe Zeit]] ... [[jetzt]] [[erinnere]] ich mich [[wieder]].  
 Der Brief ist von Sam! Sam Scott!

@@ -1,4 +1,3 @@
-
 [Extra Deutsch 3](http://www.youtube.com/watch?v=6GGh9D0PvdE "Open in YouTube")
 
 Episode Three: Sam Hat ein Date  
@@ -217,7 +216,7 @@ Oh mother! I haven’t even thought about it!
 SAM: Hey Nic? Was soll ich sagen?  
 NIC: Mensch relax! Das ist doch [[ganz]] einfach.  
 SAM: Ja, klar! Nic mit seinen 100 Freundinnen!  
-NIC: Na ja, … also … es [[Worter/W/Waren]] schon [[Weniger]] [[als]] 100 …  
+NIC: Na ja, … also … es [[Waren]] schon [[Weniger]] [[als]] 100 …  
 SAM: Fünfzig!  
 NIC: Mmhh .. nicht [[ganz]].  
 SAM: Zehn?  

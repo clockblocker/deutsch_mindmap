@@ -1,1 +1,0 @@
-, [[einsam]], [[fern]], [[nah]], [[fernab]]

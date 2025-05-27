@@ -4,29 +4,31 @@ haben [[versteckt]]
 
 ---
 
-| **[Zuko](https://avatar.fandom.com/de/wiki/Zuko "Zuko")**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Wo versteckt ihr ihn?                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Zuko**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Ich weiß dass ihr ihn [[versteckt]]!                                                                                                                                                                                                                                                                                                                                           |
+| **[Zuko](https://avatar.fandom.com/de/wiki/Zuko "Zuko")** | Wo versteckt ihr ihn?                |
+| --------------------------------------------------------- | ------------------------------------ |
+| **Zuko**                                                  | Ich weiß dass ihr ihn [[versteckt]]! |
 
 - [[Verstecken]] in dem [[Schrank]]
 - [[Schnell]] Sam! [[versteck]] dich!
 
-NIC: Hilfe! [[Versteckt]] mich! Oh!  
+NIC: Hilfe! [[Versteckt]] mich! Oh!
 
-*Nun ist Philipp ganz [[versteckt]],*  
-*und der Tisch ist abgedeckt.*  
+_Nun ist Philipp ganz [[versteckt]],_  
+_und der Tisch ist abgedeckt._
 
 Und wie's aussieht auch sein [[Versteck]]!
 
 271. Was ist in Deutschland ein [[Brauch]] zu Weihnachten? (97%)
-	- [ ] [[bunte]] Eier [[verstecken]]
-	- [x] einen [[Tannenbaum]] [[schmücken]]
+
+
+    - [ ] [[bunte]] Eier [[verstecken]]
+    - [x] einen [[Tannenbaum]] [[schmücken]]
 
 ---
 
 **Synonyme:**
 
-- [[verbergen]], [[verhüllen]], [[Worter/V/verheimlichen]]
+- [[verbergen]], [[verhüllen]], [[verheimlichen]]
 
 ---
 
@@ -47,7 +49,8 @@ Und wie's aussieht auch sein [[Versteck]]!
 to hide
 
 ---
- #Verb
+
+#Verb
 
 ---
 
@@ -77,5 +80,6 @@ to hide
 
 ---
 
-**Morphems of only infinitive:**  
+**Morphems of only infinitive:**
+
 - [[ver]][[steck]][[en]], [[versteckspielen]], [[vorstellen]], [[weisen]], [[rausholen]], [[profilieren]], [[vorweisen]], [[orten]], [[angeben]], [[aufspüren]], [[vertuschen]]

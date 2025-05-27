@@ -7,6 +7,8 @@ die [[Tätigkeiten]]
 ---
 *[[C1-Hoehen-T2-203-Text#^36|^]]* Man [[räumt]] dieser [[Tätigkeit]] immer mehr Raum in seinem Alltag ein zu [[Last]]en von anderen Aktivitäten, die man früher gern gemacht hat oder zu [[Last]]en der beruflichen [[Verpflichtung]]en
 
+*[[C1-Hoehen-T2-301-Text#^22|^]]* Praktisch könnte das bedeuten, dass es gute [[Wahlmöglichkeit]]en zwischen verschiedenen sinnvollen, [[gemeinnützig]]en [[Tätigkeit]]en gibt, die auch korrekt bezahlt werden
+
 *[[C1-Hoehen-T2-100-Text#^25|^]]* Ich könnte mit etwas Ruhe und Zeit der [[Tätigkeit]] nachgehen, die mich interessiert, wäre [[unabhängig]]er von [[Zwängen]], könnte mich leichter in meiner Arbeit [[verwirklichen]]
 
 *[[C1-Lesen-T1-000-Loesung#^8|^]]* „[[Dabei]]“ kann sich auf eine Tätigkeit oder einen [[Umstand]] beziehen. Es passt hier nicht, um auszudrücken, dass die Drohne etwas bewirkt
@@ -48,4 +50,4 @@ G: der [[Tätigkeit]], der [[Tätigkeiten]]
 D: der [[Tätigkeit]], den [[Tätigkeiten]]
 
 #Feminin
-, [[Lehrerberuf]], [[Lehramt]], [[Verhaltensweise]]
+, [[Lehrerberuf]], [[Lehramt]], [[Verhaltensweise]], [[Arbeitszeit]]

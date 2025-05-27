@@ -1,1 +1,1 @@
-, [[Worter/ergeben]], [[resultieren]]
+, [[ergeben]], [[resultieren]]

@@ -1,3 +1,3 @@
 --> [[Ingredient-Add-Remove]] <--
 
-, [[festmachen]], [[Festung]], [[anlegen]], [[verankern]]
+, [[festmachen]], [[Festung]], [[anlegen]], [[verankern]], [[festigen]]

@@ -1,1 +1,1 @@
-, [[Branche]], [[Berufsfeld]], [[Baubranche]]
+, [[Branche]], [[Berufsfeld]], [[Baubranche]], [[Wirtschaftsbranche]]

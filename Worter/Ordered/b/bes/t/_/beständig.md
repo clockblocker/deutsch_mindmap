@@ -3,4 +3,4 @@
 
 [[Treu]], [[geduldig]], [[standhaft]], [[unzuverlässig]], [[langfristig]], [[dauerhaft]], [[langjährig]]
 
-, [[langanhaltend]], [[Bestand]], [[zuverlässig]], [[langlebig]]
+, [[langanhaltend]], [[Bestand]], [[zuverlässig]], [[langlebig]], [[stetig]]

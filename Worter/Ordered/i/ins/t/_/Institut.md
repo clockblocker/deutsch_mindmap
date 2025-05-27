@@ -1,1 +1,1 @@
-, [[Bildungseinrichtung]]
+, [[Bildungseinrichtung]], [[Ausbildungsstätte]]

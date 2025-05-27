@@ -1,1 +1,1 @@
-, [[Unterhaltungskino]]
+, [[Unterhaltungskino]], [[Gladiatorenfilm]]

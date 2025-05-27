@@ -1,1 +1,1 @@
-, [[Worter/S/Sprache]]
+, [[Sprache]]

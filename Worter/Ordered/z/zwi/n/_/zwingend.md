@@ -1,1 +1,1 @@
-, [[bestimmt]], [[zwingen]], [[unabdingbar]], [[unumgänglich]], [[obligatorisch]]
+ [[zwingen]]

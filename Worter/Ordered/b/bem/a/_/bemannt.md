@@ -30,4 +30,4 @@ manned, crewed
 Adjektive: [[bemannt]], [[bemannter]], [[bemanntest]]
 
 ---
-[[bemannter]], [[bemanntes]], [[bemannte]], [[bemannten]], [[bemanntem]], [[bemannterer]], [[bemannteres]], [[bemanntere]], [[bemannteren]], [[bemannterem]], [[bemanntester]], [[bemanntestes]], [[bemannteste]], [[bemanntesten]], [[bemanntestem]]
+[[bemannter]], [[bemanntes]], [[bemannte]], [[bemannten]], [[bemanntem]], [[bemannterer]], [[bemannteres]], [[bemanntere]], [[bemannteren]], [[bemannterem]], [[bemanntester]], [[bemanntestes]], [[bemannteste]], [[bemanntesten]], [[bemanntestem]], [[unbesetzt]]

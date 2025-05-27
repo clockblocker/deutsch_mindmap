@@ -58,4 +58,4 @@ extensive, comprehensive
 Adjektive: [[umfangreich]], [[umfangreicher]], [[umfangreichst]]
 
 ---
-[[umfangreicher]], [[umfangreiches]], [[umfangreiche]], [[umfangreichen]], [[umfangreichem]], [[umfangreicherer]], [[umfangreicheres]], [[umfangreichere]], [[umfangreicheren]], [[umfangreicherem]], [[umfangreichster]], [[umfangreichstes]], [[umfangreichste]], [[umfangreichsten]], [[umfangreichstem]], [[inhaltlich]], [[aufwendig]]
+[[umfangreicher]], [[umfangreiches]], [[umfangreiche]], [[umfangreichen]], [[umfangreichem]], [[umfangreicherer]], [[umfangreicheres]], [[umfangreichere]], [[umfangreicheren]], [[umfangreicherem]], [[umfangreichster]], [[umfangreichstes]], [[umfangreichste]], [[umfangreichsten]], [[umfangreichstem]], [[inhaltlich]], [[aufwendig]], [[weit]]

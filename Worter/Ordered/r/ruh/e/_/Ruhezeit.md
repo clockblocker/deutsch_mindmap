@@ -1,1 +1,1 @@
-, [[Nachtruhe]], [[Ruhestörung]]
+, [[Nachtruhe]], [[Ruhestörung]], [[Ruhestand]]

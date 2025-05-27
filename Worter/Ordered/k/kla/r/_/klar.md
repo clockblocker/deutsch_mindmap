@@ -33,4 +33,4 @@ Adjektive: [[klar]], [[klarer]], [[klarst]]
 
 = [[deutlich]], [[offensichtlich]], [[eindeutig]]
 ≈ [[verständlich]], [[präzise]], [[rein]]
-≠ [[unklar]], [[undeutlich]], [[zweideutig]],, [[klarmachen]], [[einleuchtend]], [[transparent]], [[nachvollziehbar]]
+≠ [[unklar]], [[undeutlich]], [[zweideutig]],, [[klarmachen]], [[einleuchtend]], [[transparent]], [[nachvollziehbar]], [[explizit]]

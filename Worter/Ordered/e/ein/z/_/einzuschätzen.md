@@ -1,1 +1,1 @@
-🤔 [[einschätzen]]
+🤔 [[einschätzen]], [[ausreichen]]

@@ -8,7 +8,7 @@ Du hast mich [[gefragt]], du hast mich gefragt
 Du hast mich gefragt [[und]] [[Ich]] [[hab]] [[nichts]] [[gesagt]]
 
 [[willst]] du [[bis]] [[der]] [[Tod]] [[euch]] [[scheidet]]  
-[[Treu]] [[ihr]] [[sein]] [[für]] [[Worter/A/Alle]] [[Tage]]?  
+[[Treu]] [[ihr]] [[sein]] [[für]] [[Alle]] [[Tage]]?  
 [[nein]]!  
 Nein!
 
@@ -38,4 +38,3 @@ Willst du bis der Tod euch [[scheidet]]
 Treu ihr sein?  
 Nein!  
 Nein!
-

@@ -31,4 +31,4 @@ D: dem [[Sektor]], den [[Sektoren]]
 
 
 
-#Neuter, [[komplett]]
+#Neuter, [[komplett]], [[Wirtschaftsbranche]]

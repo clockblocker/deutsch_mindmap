@@ -8,6 +8,9 @@ sein [[gestiegen]]
 ---
 *[[100-C1-Schreiben-T2#^2|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist.
 
+*[[C1-Hoehen-T3-301-Text#^52|^]]* Soweit ich weiß, ist die Zahl der Studierenden in den MINT-Fächern in den vergangenen Jahren doch [[stetig]] [[gestiegen]]. ^52
+
+
 *[[C1-Hoehen-T2-201-Text#^4|^]]* 10 Es gibt [[Jugendlich]]e, die das [[Abstraktionsvermögen]] mit [[steigend]]em Alter [[verlieren]]
 
 *[[000-C1-Schreiben-T1#^1|^]]* In den letzten fünf [[Jahrzehnten]] ist die [[Zahl]] der [[Internetnutzer]]:innen [[exponentiell]] [[gestiegen]]. ^1

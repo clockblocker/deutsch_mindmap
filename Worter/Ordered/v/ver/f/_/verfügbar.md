@@ -35,4 +35,4 @@ P: [[verfügbaren]], [[verfügbareren]], [[verfügbarsten]]
 
 ---
 -
-, [[Dauerverfügbarkeit]], [[griffbereit]]
+, [[Dauerverfügbarkeit]], [[griffbereit]], [[unbesetzt]]

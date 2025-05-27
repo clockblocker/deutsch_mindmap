@@ -1,4 +1,5 @@
 ### Masculine (m)
+
 - [[Tisch]] (стол)
 - [[Stuhl]] (стул)
 - [[Schrank]] (шкаф)
@@ -9,6 +10,7 @@
 - [[Lehrer]] (учитель)
 
 ### Feminine (f)
+
 - [[Lampe]] (лампа)
 - [[Tasche]] (сумка)
 - [[Blume]] (цветок)
@@ -19,17 +21,18 @@
 - [[Zeitschrift]] (журнал)
 
 ### Neuter (n)
+
 - [[Buch]] (книга)
 - [[Bild]] (картина)
-- [[Worter/W/Wort]] (слово)
+- [[Wort]] (слово)
 - [[Haus]] (дом)
 - [[Zimmer]] (комната)
 - [[Kind]] (ребенок)
 - [[Mädchen]] (девочка)
 - [[Spielzeug]] (игрушка)
 
-
 ##### Maskulin (m)
+
 - [[Vater]], [[Väter]] - отец
 - [[Bruder]], [[Brüder]] - брат
 - [[Sohn]], [[Söhne]] - сын
@@ -41,6 +44,7 @@
 - [[Hund]], [[Hunde]] - собака
 
 ##### Feminin (f)
+
 - [[Familie]], [[Familien]] - семья
 - [[Mutter]], [[Mütter]] - мать
 - [[Schwester]], [[Schwestern]] - сестра
@@ -51,10 +55,12 @@
 - [[Wohnung]], [[Wohnungen]] - квартира
 
 ##### Neutrum (n)
+
 - [[Klavier]], [[Klaviere]] - пианино, рояль
 - [[Landhaus]], [[Landhäuser]] - загородный дом
 
 ##### Plural (множественное число)
+
 - [[Eltern]] - родители
 - [[Großeltern]] - дедушка и бабушка
 - [[Geschwister]] - братья и сестры
@@ -64,6 +70,7 @@
 ### Substantive (Существительные)
 
 #### Maskulin (m)
+
 - [[Koffer]] - чемодан
 - [[Freund]], [[Freunde]] - друг
 - [[Film]], [[Filme]] - фильм
@@ -79,8 +86,9 @@
 - [[Sonntag]] - воскресенье
 
 #### Feminin (f)
+
 - [[Karte]], [[Karten]] - билет
-- [[Worter/Z/zeit]], [[Zeiten]] - время
+- [[zeit]], [[Zeiten]] - время
 - [[Arbeit]], [[Arbeiten]] - работа
 - [[Neuigkeit]], [[Neuigkeiten]] - новость
 - [[Uhr]], [[Uhren]] - часы
@@ -89,6 +97,7 @@
 - [[Überraschung]], [[Überraschungen]] - сюрприз
 
 #### Neutrum (n)
+
 - [[Visum]], [[Visa]] - виза
 - [[Jahr]], [[Jahre]] - год
 - [[Foto]], [[Fotos]] - фотография
@@ -97,30 +106,32 @@
 - [[Heft]], [[Hefte]] - тетрадь
 - [[Telefon]], [[Telefone]] - телефон
 
-
 ##### Maskulin (m)
+
 - [[Papagei]], [[Papageien]] - попугай
 - [[Preis]], [[Preise]] - цена
 - [[Verkäufer]], [[Verkäufer]] - продавец
 - [[Euro]] - евро (денежная единица)
 
 ##### Feminin (f)
+
 - [[Antwort]], [[Antworten]] - ответ
 - [[Frage]], [[Fragen]] - вопрос
-- [[Worter/S/Sprache]], [[Sprachen]] - язык
+- [[Sprache]], [[Sprachen]] - язык
 
 ##### Neutrum (n)
+
 - [[Schweigen]] - молчание
 - [[Geschäft]], [[Geschäfte]] - магазин
 - [[Zoogeschäft]], [[Zoogeschäfte]] - зоомагазин
 - [[Kaufhaus]], [[Kaufhäuser]] - магазин
-- [[Worter/G/Geld]], [[Gelder]] - деньги
+- [[Geld]], [[Gelder]] - деньги
 - [[Silber]] - серебро
 - [[Gold]] - золото
 - [[Problem]], [[Probleme]] - проблема
 
-
 ##### Maskulin (m)
+
 - [[Apfel]], [[Äpfel]] - яблоко
 - [[Duft]], [[Düfte]] - запах
 - [[Joghurt]], [[Joghurts]] - йогурт
@@ -129,9 +140,10 @@
 - [[Stress]] - стресс
 
 ##### Feminin (f)
+
 - [[Regel]], [[Regeln]] - правило
 - [[Flasche]], [[Flaschen]] - бутылка
-- [[Worter/G/Gesundheit]] - здоровье
+- [[Gesundheit]] - здоровье
 - [[Zitrone]], [[Zitronen]] - лимон
 - [[Apfelsine]], [[Apfelsinen]] - апельсин
 - [[Frucht]], [[Früchte]] - фрукт
@@ -146,6 +158,7 @@
 - [[Freude]] - радость
 
 ##### Neutrum (n)
+
 - [[Wasser]] - вода
 - [[Training]], [[Trainings]] - тренировка
 - [[Haar]], [[Haare]] - волос, волосы
@@ -154,21 +167,23 @@
 - [[Bett]], [[Betten]] - кровать
 - [[Ei]], [[Eier]] - яйцо
 
-
 ##### Maskulin (m)
+
 - [[Geburtstag]], [[Geburtstage]] - день рождения
 - [[Spaß]], [[Späße]] - удовольствие
-- [[Worter/F/fisch]], [[Fische]] - рыба
+- [[fisch]], [[Fische]] - рыба
 - [[Salat]], [[Salate]] - салат
 - [[Kuchen]], [[Kuchen]] - пирог
 - [[Quatsch]] - чепуха, ерунда
 - [[Platz]], [[Plätze]] - место
 
 ##### Feminin (f)
+
 - [[Speise]], [[Speisen]] - блюдо, кушанье
 - [[Ahnung]], [[Ahnungen]] - понятие, представление
 
 ##### Neutrum (n)
+
 - [[Glück]] - счастье
 - [[Weihnachten]] - рождество
 - [[Ostern]] - пасха
@@ -181,8 +196,8 @@
 - [[Café]], [[Cafés]] - кафе
 - [[Gemüse]] - овощи
 
-
 ##### Maskulin (m)
+
 - [[Arzt]], [[Ärzte]] - врач
 - [[Schnupfen]] - насморк
 - [[Grad]], [[Grade]] - градус
@@ -192,6 +207,7 @@
 - [[Flur]], [[Flure]] - прихожая
 
 ##### Feminin (f)
+
 - [[Erkältung]], [[Erkältungen]] - простуда
 - [[Grippe]] - грипп
 - [[Hilfe]] - помощь
@@ -199,10 +215,11 @@
 - [[Temperatur]], [[Temperaturen]] - температура
 - [[Geschichte]], [[Geschichten]] - история
 - [[Küche]] - кухня
-- [[Tablette]], [[Tabletten]] - таблетка (*Tabletten einnehmen* - принимать таблетки)
+- [[Tablette]], [[Tabletten]] - таблетка (_Tabletten einnehmen_ - принимать таблетки)
 - [[Wand]], [[Wände]] - стена
 
 ##### Neutrum (n)
+
 - [[Pech]], [[Pechs]] - неудача
 - [[Fieber]] - жар
 - [[Kopfweh]] - головная боль
@@ -212,9 +229,8 @@
 - [[Mittagessen]] - обед
 - [[Fenster]], [[Fenster]] - окно
 
-
-
 ##### Maskulin (m)
+
 - [[Urlaub]], [[Urlaube]] - отпуск
 - [[Unterricht]] - занятие(я)
 - [[Kanal]], [[Kanäle]] - канал
@@ -223,6 +239,7 @@
 - [[am Anfang]] - вначале
 
 ##### Feminin (f)
+
 - [[Sorge]], [[Sorgen]] - тревога, волнение
 - [[Prüfung]], [[Prüfungen]] - экзамен
 - [[Reise]], [[Reisen]] - поездка
@@ -235,15 +252,15 @@
 - [[Kunst]], [[Künste]] - искусство
 
 ##### Neutrum (n)
-- [[Worter/S/Studium]], [[Studien]] - учеба
+
+- [[Studium]], [[Studien]] - учеба
 - [[Gebäude]] - здание
 - [[Museum]], [[Museen]] - музей
 - [[Boot]], [[Boote]] - лодка
 - [[Wetter]] - погода
 
-
-
 ##### Maskulin (m)
+
 - [[Fischer]] - рыбак
 - [[Garten]], [[Gärten]] - сад
 - [[Löffel]] - ложка
@@ -253,6 +270,7 @@
 - [[Himmel]] - небо
 
 ##### Feminin (f)
+
 - [[Hütte]], [[Hütten]] - избушка
 - [[See]], [[Seen]] - море
 - [[Bank]], [[Bänke]] - скамейка
@@ -260,6 +278,7 @@
 - [[Angst]], [[Ängste]] - страх
 
 ##### Neutrum (n)
+
 - [[Märchen]] - сказка
 - [[Ufer]] - берег, побережье
 - [[Dach]], [[Dächer]] - крыша
@@ -269,9 +288,8 @@
 - [[Messer]] - нож
 - [[Tier]], [[Tiere]] - животное, зверь
 
-
-
 ##### Maskulin (m)
+
 - [[Zahn]], [[Zähne]] - зуб
 - [[Ober]] - официант
 - [[Saft]], [[Säfte]] - сок
@@ -283,19 +301,20 @@
 - [[Gruß]], [[Grüße]] - приветствие
 
 ##### Feminin (f)
+
 - [[Lippe]], [[Lippen]] - губа
 - [[Richtung]], [[Richtungen]] - направление
 - [[Ordnung]], [[Ordnungen]] - порядок
 
 ##### Neutrum (n)
+
 - [[Gesicht]], [[Gesichter]] - лицо
 - [[Auge]], [[Augen]] - глаз
 - [[Bier]], [[Biere]] - пиво
 - [[Fach]], [[Fächer]] - специальность
 
-
-
 ##### Maskulin (m)
+
 - [[Bord]], [[Borde]] - борт
 - [[Stein]], [[Steine]] - камень
 - [[Weg]], [[Wege]] - путь, дорога
@@ -307,6 +326,7 @@
 - [[Spiegel]] - зеркало
 
 ##### Feminin (f)
+
 - [[Fahrt]], [[Fahrten]] - поездка
 - [[Schuld]], [[Schulden]] - вина
 - [[Möglichkeit]], [[Möglichkeiten]] - возможность
@@ -321,14 +341,15 @@
 - [[Puppe]], [[Puppen]] - кукла
 
 ##### Neutrum (n)
+
 - [[Land]], [[Länder]] - страна, край
 - [[Ausland]] - заграница
 - [[Leben]] - жизнь
 - [[Mal]], [[Male]] - раз
 - [[Regal]], [[Regale]] - полка
 
-
 ##### Maskulin (m)
+
 - [[Tod]] - смерть
 - [[Mitarbeiter]] - сотрудник
 - [[Mord]] - убийство
@@ -346,6 +367,7 @@
 - [[Teppich]], [[Teppiche]] - ковер
 
 ##### Feminin (f)
+
 - [[Explosion]], [[Explosionen]] - взрыв (внешний)
 - [[Implosion]], [[Implosionen]] - взрыв (внутренний)
 - [[Scherbe]], [[Scherben]] - осколок
@@ -359,6 +381,7 @@
 - [[Jugend]] - юность, молодость
 
 ##### Neutrum (n)
+
 - [[Stück]], [[Stücke]] - кусок
 - [[Gegenteil]] - противоположность
 - [[Bein]], [[Beine]] - нога

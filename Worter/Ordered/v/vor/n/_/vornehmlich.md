@@ -1,2 +1,2 @@
 , [[hauptsächlich]], [[mehrheitlich]], [[vorsitzen]]
-, [[überwiegend]]
+, [[überwiegend]], [[vorwiegend]]

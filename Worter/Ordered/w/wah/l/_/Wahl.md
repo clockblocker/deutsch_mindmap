@@ -38,4 +38,4 @@ D: der [[Wahl]], den [[Wahlen]]
 , [[Auswahl]], [[Entscheidung]], [[Bundestagswahl]], [[Direktkandidat]], [[Wahlpflicht]], [[wahlberechtigt]], [[Landtagswahl]], [[Briefwahl]], [[Wahltag]], [[Wahlhelfer]], [[Wahllokals]], [[Berufswahl]], [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]], [[Männerwahlrecht]], [[Wahlbenachrichtigung]], [[Wahlerlaubnis]], [[Wahlniederlage]], [[beeinflussen]], [[auswählen]], [[wahllos]]
 
 
-#Feminin , [[abstimmen]], [[Partnerwahl]], [[Wahlprogramm]], [[Wahlversprechen]], [[Wählerschaft]]
+#Feminin , [[abstimmen]], [[Partnerwahl]], [[Wahlprogramm]], [[Wahlversprechen]], [[Wählerschaft]], [[Wahlmöglichkeit]]

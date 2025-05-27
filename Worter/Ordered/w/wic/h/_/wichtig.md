@@ -4,39 +4,41 @@
 nicht [[unbedeutend]]
 
 ---
-*[[001-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
 
+_[[001-C1-Schreiben-T1#^5|^]]_ Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
 
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]]. 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]].
 
-die [[Worter/Z/zeit]] is wichtig
+die [[zeit]] is wichtig
 
 Ich muss dich etwas [[wichtiges]] fragen.
 
-Also Männer, Es ist [[wichtig]], dass ihr keine Angst zeigt, wenn ihr einem Feuerbändiger begegnet. 
+Also Männer, Es ist [[wichtig]], dass ihr keine Angst zeigt, wenn ihr einem Feuerbändiger begegnet.
 
-Alex und Daniel haben nächste Woche eine [[wichtige]] Prüfung. Wenn sie diese Prüfung nicht bestehen, dürfen sie nicht weiter an der Universität bleiben. 
+Alex und Daniel haben nächste Woche eine [[wichtige]] Prüfung. Wenn sie diese Prüfung nicht bestehen, dürfen sie nicht weiter an der Universität bleiben.
 
 ---
 
 Synonyme: [[bedeutsam]], [[relevant]], [[essenziell]], [[signifikant]], [[entscheidend]]
 Antonyme: [[unwichtig]], [[unbedeutend]], [[unwesentlich]], [[geringfügig]], [[unerheblich]], [[überflüssig]]
 
-
 ---
-**Übersetzung**: 
+
+**Übersetzung**:
 important, significant, essential
 
 ---
+
 #Adjective [[wichtig]]
 
 ---
+
 Morpheme:
 [[wichtig]]
 
 ---
 
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[wichtig]], [[wichtiger]], [[wichtige]], [[wichtiges]], [[wichtigen]], [[wichtigem]], [[wichtiger]], [[wichtigen]]
 [[wichtigste]], [[wichtigster]], [[wichtigste]], [[wichtigstes]], [[wichtigsten]], [[wichtigstem]], [[wichtigster]], [[wichtigsten]], [[notwendig]], [[egal]], [[wertvoll]], [[unentbehrlich]], [[s1 e1]], [[unnötig]], [[angelegen]], [[grundlegend]], [[vorrangig]], [[unverzichtbar]], [[bedeutend]], [[wesentlich]], [[unschätzbar]]
 , [[dringend]], [[lebenswichtig]], [[bemerkenswert]], [[zweitrangig]], [[prestigeträchtig]], [[namhaft]], [[erwähnenswert]]

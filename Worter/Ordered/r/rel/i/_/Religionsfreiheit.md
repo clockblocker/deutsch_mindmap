@@ -1,1 +1,1 @@
-, [[Worter/Religion]], [[Religionspflicht]], [[Glaubensfreiheit]], [[Gewissensfreiheit]]
+, [[Religion]], [[Religionspflicht]], [[Glaubensfreiheit]], [[Gewissensfreiheit]]

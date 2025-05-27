@@ -26,4 +26,4 @@ N: [[fähiges]], [[fähigeres]], [[fähigstes]], [[das Fähige]], [[die Fähigen
 P: [[fähigen]], [[fähigeren]], [[fähigsten]], [[die Fähigen]], [[die Fähigen]], [[die Fähigen]]  
 
 ---
-[[Fähigkeit]], [[Fähigkeitsnachweis]], [[unfähig]], [[Unfähigkeit]], [[unfähig]], [[Fähig]], [[Teamfähigkeit]], [[widerstandsfähig]], [[tragfähig]], [[einsatzfähig]], [[veranlagt]], [[lernfähig]], [[Merkfähigkeit]], [[geschickt]], [[Widerstandsfähigkeit]], [[machtlos]]
+[[Fähigkeit]], [[Fähigkeitsnachweis]], [[unfähig]], [[Unfähigkeit]], [[unfähig]], [[fähig]], [[Teamfähigkeit]], [[widerstandsfähig]], [[tragfähig]], [[einsatzfähig]], [[veranlagt]], [[lernfähig]], [[Merkfähigkeit]], [[geschickt]], [[Widerstandsfähigkeit]], [[machtlos]]

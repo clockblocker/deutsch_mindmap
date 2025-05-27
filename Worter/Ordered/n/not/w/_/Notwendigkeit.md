@@ -37,4 +37,4 @@ D: der [[Notwendigkeit]], den [[Notwendigkeiten]]
 , [[unentbehrlich]]
 , [[Modebegriff]]
 
-#Feminin , [[Arbeitsform]], [[Sachzwang]], [[Forschungsbedarf]]
+#Feminin , [[Arbeitsform]], [[Sachzwang]], [[Forschungsbedarf]], [[Wahlmöglichkeit]], [[Handlungsbedarf]]

@@ -3,29 +3,34 @@
 ✅ [[zulassen]], [ˈtsuːˌlasn̩](https://youglish.com/pronounce/zulassen/german) → [[ließ zu]] → [[zugelassen]]
 
 ---
-*[[C1-Hoehen-T2-203-Text#^19|^]]* So [[entsteht]] ein Profil über jeden Nutzer, welches sogar [[Prognose]]n über [[künftig]]es [[Kaufverhalten]] [[zulässt]]
+
+_[[C1-Hoehen-T2-203-Text#^19|^]]_ So [[entsteht]] ein Profil über jeden Nutzer, welches sogar [[Prognose]]n über [[künftig]]es [[Kaufverhalten]] [[zulässt]]
 
 ---
+
 = [[genehmigen]], [[erlauben]], [[gestatten]]
 ≈ [[bewilligen]], [[autorisieren]], [[akzeptieren]]
 ≠ [[verbieten]], [[untersagen]], [[verweigern]]
-, [[zugeben]], [[beißen]], [[verbieten]], [[lassen]], [[wehrten]], [[erlauben]], [[Zulassungsgrenze]], [[hineinlassen]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[Worter/E/einlassen]], [[aufhalten]], [[verhindern]]
-
+, [[zugeben]], [[beißen]], [[verbieten]], [[lassen]], [[wehrten]], [[erlauben]], [[Zulassungsgrenze]], [[hineinlassen]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[einlassen]], [[aufhalten]], [[verhindern]]
 
 ---
+
 to allow, to permit, to admit  
 разрешать, допускать
 
 ---
+
 [[Zulassung]], [[Zulassungsstelle]], [[Zulassungsbescheid]], [[zulässig]]
 
 ---
+
 [[zu]]|[[lass]]|[[en]]
 [[zu]] + [[lassen]]
 
-
 ---
+
 ###### [[zulassen]] jN
+
 - Was [[lässt]] du [[zu]]?
 - Die Teilnahme.
 
@@ -36,7 +41,9 @@ to allow, to permit, to admit
 - Weil es gegen die Regeln war.
 
 ---
+
 ###### [[zulassen]] jN `zu` jD
+
 - `Wozu` [[lässt]] du das [[zu]]?
 - `Zu` dem Wettbewerb.
 
@@ -47,6 +54,7 @@ to allow, to permit, to admit
 - Weil es wichtig war.
 
 ---
+
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 ich, [[lasse zu]] / [[lasse zu]], [[ließ zu]], [[lasse zu]], [[ließe zu]], -
 du, [[lässt zu]], [[ließest zu]], [[lass zu]], [[ließest zu]], [[ließe zu]]
@@ -55,8 +63,9 @@ wir, [[lassen zu]], [[ließen zu]], [[lassen zu]], [[ließen zu]], [[ließen zu]
 ihr, [[lasst zu]], [[ließt zu]], [[lasst zu]], [[ließet zu]], [[ließet zu]]
 sie, [[lassen zu]], [[ließen zu]], [[lassen zu]], [[ließen zu]], [[ließen zu]]
 
-*Zu + Inf*: [[zuzulassen]], *P2*: [[zugelassen]]
+_Zu + Inf_: [[zuzulassen]], _P2_: [[zugelassen]]
 Adjektive: [[zulassend]], [[zulassender]], [[zulassendst]]
 
 ---
+
 [[zulassender]], [[zulassendes]], [[zulassende]], [[zulassenden]], [[zulassendem]], [[zulassenderer]], [[zulassenderes]], [[zulassendere]], [[zulassenderen]], [[zulassenderem]], [[zulassendster]], [[zulassendstes]], [[zulassendste]], [[zulassendsten]], [[zulassendstem]], [[freigeben]], [[einlassen]], [[verdrängen]], [[drängen]], [[unterbinden]], [[freischalten]], [[unzulässig]]

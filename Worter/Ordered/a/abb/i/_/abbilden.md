@@ -1,1 +1,0 @@
-, [[spiegeln]], [[widerspiegeln]], [[Abbildung]], [[bilden]]

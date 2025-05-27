@@ -1,3 +1,0 @@
-
-, [[abzüglich]]
-, [[abziehen]]

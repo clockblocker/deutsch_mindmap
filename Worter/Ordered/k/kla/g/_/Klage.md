@@ -4,7 +4,9 @@ die [[Klagen]]
 ---
 [[Kündigungsschutzklage]]
 
-*[[C1-Lesen-T2-101-Text#^5|^]]* Und [[Klage]]n aus der [[Nachbarschaft]] wegen zu laut spielender Kinder sollten der [[Vergangenheit]] [[angehören]]. ^5
+*[[C1-Hoehen-T3-301-Text#^5|^]]* Herr Osterholz [[erwähnt]] die [[Klage]] der Unternehmen über [[fehlen]]de [[Fachkräfte]] im [[MINT]]-[[Bereich]]
+
+*[[C1-Lesen-T2-101-Text#^5|^]]* Und [[Klage]]n aus der [[Nachbarschaft]] wegen zu laut spielender Kinder sollten der [[Vergangenheit]] [[angehören]]
 
 
 ---

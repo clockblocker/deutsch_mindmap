@@ -4,6 +4,8 @@ die [[Entscheidungen]]
 ---
 Ich habe eine [[Entscheidung]] [[getroffen]]: Diesen Monat konzentriere ich mich nur auf Kamanova.
 
+*[[C1-Hoehen-T3-301-Text#^12|^]]* Frau Ebner-Perotti [[aussprechen|spricht]] sich gegen die [[Entscheidung]]en aus der Politik aus
+
 *[[C1-Hoehen-T2-101-Text#^15|^]]* So kann eine individuelle [[Entscheidung]] [[Auswirkung]]en auf die systemische [[Ebene]] haben und [[umgekehrt]]
 
 *[[C1-Hoehen-T2-202-Text#^31|^]]* Ein gesundes Misstrauen kann ja auch konstruktiv sein, wenn z. B. [[Entscheidung]]en [[hinterfragt]] werden oder wenn die Politikerinnen und Politiker gezwungen werden, eigene Positionen neu zu [[überdenken]]

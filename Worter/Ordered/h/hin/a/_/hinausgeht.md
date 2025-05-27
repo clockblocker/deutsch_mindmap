@@ -1,1 +1,2 @@
 ➡️ [[hinausgehen]]
+, [[weit]]

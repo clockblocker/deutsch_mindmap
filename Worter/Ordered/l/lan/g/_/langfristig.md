@@ -3,8 +3,10 @@
 
 
 ---
-> *[[Atom#^29|^]]* *Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.* ^29
+*[[C1-Hoehen-T3-301-Text#^33|^]]* Allerdings ist das eine [[langfristig]]e [[Aufgabe]], die sich nicht von heute auf morgen [[erledigen]] lässt, denn ohne [[ausreichend]]e [[Sprachkenntnis]]se funktioniert das nicht. ^33
 
+
+ *[[Atom#^29|^]]* Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.
 
 *[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinde]]n, wie das Wohnungsproblem [[langfristig]] [[gelöst]] werden kann
 

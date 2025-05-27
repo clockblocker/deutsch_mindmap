@@ -32,4 +32,4 @@ PI: [[benachteiligend]], PII: [[benachteiligt]], Zu+inf: [[zubenachteiligen]]
 
 ---
 [[Benachteiligung]], [[Diskriminierung]], [[Nachteil]], [[ungleich]], [[Gleichberechtigung]]
-, [[bevorzugen]]
+, [[bevorzugen]], [[kompensieren]]

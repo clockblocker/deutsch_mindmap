@@ -1,1 +1,1 @@
-, [[Lösungsansatz]], [[Methode]], [[Königsweg]], [[Behandlungsform]]
+, [[Lösungsansatz]], [[Methode]], [[Königsweg]], [[Behandlungsform]], [[Patentrezept]]

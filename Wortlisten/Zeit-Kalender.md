@@ -42,7 +42,7 @@
 - das [[Datum]]
 - der [[Termin]]
 - der [[Zeitplan]]
-- die [[Worter/Z/zeit]]
+- die [[zeit]]
 - der [[Moment]]
 - die [[Zukunft]]
 - die [[Vergangenheit]]

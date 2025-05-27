@@ -1,1 +1,1 @@
-, [[Verfahren]], [[Technologie]], [[Drucker]], [[Bürotechnik]], [[Techniker]], [[Methode]]
+, [[Verfahren]], [[Technologie]], [[Drucker]], [[Bürotechnik]], [[Techniker]], [[Methode]], [[MINT]], [[Heizungsbereich]]

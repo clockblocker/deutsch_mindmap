@@ -2,6 +2,10 @@
 die [[Taten]]
 
 ---
+*[[C1-Hoehen-T3-301-Text#^55|^]]* Ich glaube nicht, dass uns jetzt [[Alarmismus]] [[weiterhilft]], aber die Fakten sollten uns 
+`in` `der` [[Tat]] zu schnellem [[Handeln]] [[veranlassen]]:
+
+
 *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrecht]]e _als_ [[richtungsgebend]]e _Linie_ [[voraussetzen|vorausgesetzt]] _werden, um [[strafbar]]e von [[legal]]en_ [[Äußerung]]en _und_ [[Tat]]en _zu_ [[unterscheiden]]
 
 ---
@@ -27,4 +31,4 @@ G: der [[Tat]], der [[Taten]]
 D: der [[Tat]], den [[Taten]]
 
 #Feminin 
-, [[Leistung]], [[Tatsache]], [[Tatendrang]]
+, [[Leistung]], [[Tatsache]], [[Tatendrang]], [[tatenlos]]

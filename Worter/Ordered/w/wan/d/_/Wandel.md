@@ -2,7 +2,11 @@
 kein Plural
 
 ---
-*[[C1-Lesen-T4-100-Text#^4|^]]* 30 Der [[Wandel]] in der Kunstszene führte zu xeinem [[eklatanten]] [[Preisanstieg]] ^4
+*[[C1-Lesen-T4-100-Text#^4|^]]* 30 Der [[Wandel]] in der Kunstszene führte zu xeinem [[eklatanten]] [[Preisanstieg]]
+
+*[[C1-Hoehen-T3-301-Text#^7|^]]* Studierende der MINT-Fächer können den [[demografischen]] [[Wandel]] in der [[Arbeitswelt]] nicht [[ausgleichen]]
+
+*[[C1-Hoehen-T3-301-Text#^23|^]]* Das ist schon richtig, aber es [[ausreicht|reicht]] bei [[Weitem]] nicht aus, den [[demografisch]]en [[Wandel]] in unserer schnell [[alternden]] [[Gesellschaft]] zu [[kompensieren]]
 
 
 ---

@@ -3,6 +3,8 @@
 ---
 [[Eher]] [[ziehe]] ich wieder zu meinen Eltern, [[als-zu|als]] einen Tag länger bei dir zu wohnen.
 
+*[[C1-Hoehen-T3-301-Text#^30|^]]* Da bin ich aus mehreren Gründen [[eher]] skeptisch
+
 *[[C1-Hoehen-T2-101-Text#^10|^]]* Menschen [[wahrnehmen|nehmen]] `sich` also [[entweder]] [[eher]] getrennt von anderen oder verbunden mit ihnen [[wahr]]
 
 *[[C1-Hoehen-T2-202-Text#^25|^]]* Interessant finde ich, dass die Deutschen zum Großteil starke Leitfiguren, die auch mal die Regeln [[missachten]], [[eher]] [[ablehnen]]

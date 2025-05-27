@@ -1,3 +1,3 @@
 --> ⚠️ [[Grad-Risiko]] <--
 [[Treu]], [[verdächtig]], [[Ehrlich]], [[vertreten]]
-, [[vertrauen]], [[Vertrauensschwund]], [[zuverlässig]]
+, [[vertrauen]], [[Vertrauensschwund]], [[zuverlässig]], [[anvertrauen]]

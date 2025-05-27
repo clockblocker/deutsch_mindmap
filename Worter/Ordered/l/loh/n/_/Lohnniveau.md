@@ -27,4 +27,4 @@ A: das [[Lohnniveau]], die [[Lohnniveaus]]
 G: des [[Lohnniveaus]], der [[Lohnniveaus]]
 D: dem [[Lohnniveau]], den [[Lohnniveaus]]
 
-#Neuter 
+#Neuter , [[Lohngefälle]]

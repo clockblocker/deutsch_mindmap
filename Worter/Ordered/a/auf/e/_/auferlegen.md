@@ -1,27 +1,33 @@
 ⚖️ [[auferlegen]], [ˈaʊ̯fɐˌleːɡn̩] | [[erlegte auf]], haben [[aufgelegt]]
 
 ---
-*[[3  Ein Selbstversuch als Hobbybäuerin#^7|^]]* Eine [[selbstauferlegte]] Aufgabe, die es zu meistern gilt. ^7
+
+_[[3  Ein Selbstversuch als Hobbybäuerin#^7|^]]_ Eine [[selbstauferlegte]] Aufgabe, die es zu meistern gilt. ^7
 
 ---
+
 = [[verhängen]], [[aufzwingen]], [[auflasten]]
 ≈ [[bestimmen]], [[festsetzen]], [[anordnen]], [[verpflichten]]
 ≠ [[befreien]], [[entbinden]], [[erlassen]]
 
 ---
+
 to impose, to inflict
 налагать, возлагать
 
 ---
-[[Auflage]], [[Auferlegung]], [[erlegen]], [[Worter/A/auf]]
+
+[[Auflage]], [[Auferlegung]], [[erlegen]], [[auf]]
 
 ---
-[[Worter/A/auf]]|[[erleg]]|[[en]]
-[[Worter/A/auf]] + [[erlegen]] = [[auferlegen]]
 
+[[auf]]|[[erleg]]|[[en]]
+[[auf]] + [[erlegen]] = [[auferlegen]]
 
 ---
+
 ###### [[auferlegen]] jM jN
+
 - Wem [[hat]] er die Strafe [[auferlegt]]?
 - Seinem Schüler.
 
@@ -32,18 +38,21 @@ to impose, to inflict
 - Um die Ordnung zu wahren.
 
 ---
-###### [[auferlegen]] *[[sich]]* jN
-- Was [[hast]] du *[[sich|dir]]* [[auferlegt]]?
+
+###### [[auferlegen]] _[[sich]]_ jN
+
+- Was [[hast]] du _[[sich|dir]]_ [[auferlegt]]?
 - Ein neues Ziel.
 
-- Warum [[hat]] er *[[sich|sich]]* diese Beschränkungen [[auferlegt]]?
+- Warum [[hat]] er _[[sich|sich]]_ diese Beschränkungen [[auferlegt]]?
 - Um seine Gesundheit zu schützen.
 
-- Wie lange [[hast]] du *[[sich|dir]]* das [[auferlegt]]?
+- Wie lange [[hast]] du _[[sich|dir]]_ das [[auferlegt]]?
 - Für die nächsten Monate.
 
 ---
-Person, Präsens, Präteritum, Imperativ, Konjunktiv I,  Konjunktiv II 
+
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 ich, [[erlege auf]] / [[erlege]], [[erlegte]], [[erlege]], [[erlegte]], -
 du, [[erlegst auf]], [[erlegtest]], [[erlegest]], [[erlegtest]], [[erleg]] / [[erlege]]
 er, [[erlegt auf]], [[erlegte]], [[erlege]], [[erlegte]], -
@@ -51,8 +60,9 @@ wir, [[erlegen auf]], [[erlegten]], [[erlegen]], [[erlegten]], [[erlegen]]
 ihr, [[erlegt auf]], [[erlegtet]], [[erleget]], [[erlegtet]], [[erlegt]]
 sie, [[erlegen auf]], [[erlegten]], [[erlegen]], [[erlegten]], [[erlegen]]
 
-*Zu + Inf*: zu [[erlegen]], *P2*: [[aufgelegt]]
+_Zu + Inf_: zu [[erlegen]], _P2_: [[aufgelegt]]
 Adjektive: [[auferlegend]], [[auferlegender]], [[auferlegendst]]
 
 ---
+
 [[auferlegender]], [[auferlegendes]], [[auferlegende]], [[auferlegenden]], [[auferlegendem]], [[auferlegenderer]], [[auferlegenderes]], [[auferlegendere]], [[auferlegenderen]], [[auferlegenderem]], [[auferlegendster]], [[auferlegendstes]], [[auferlegendste]], [[auferlegendsten]], [[auferlegendstem]]

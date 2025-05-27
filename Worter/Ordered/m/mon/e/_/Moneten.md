@@ -1,1 +1,1 @@
-, [[Worter/G/Geld]]
+, [[Geld]]

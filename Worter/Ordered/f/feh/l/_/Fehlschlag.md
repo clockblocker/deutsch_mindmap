@@ -1,2 +1,2 @@
 , [[Niederlage]]
-, [[fehlentwicklung]]
+, [[fehlentwicklung]], [[Patentrezept]]

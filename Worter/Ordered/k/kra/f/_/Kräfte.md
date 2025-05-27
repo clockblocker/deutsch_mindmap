@@ -1,1 +1,1 @@
-, [[Kraft]], [[Niedriglohnkraft]]
+, [[Kraft]], [[Niedriglohnkraft]], [[Fachkräftemangel]]

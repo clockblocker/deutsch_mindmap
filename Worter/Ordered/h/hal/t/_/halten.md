@@ -1,46 +1,48 @@
 ✋ [[halten]] sich
 
 ---
-*[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
 
-*[[C1-Hoehen-T4-100-Text#^30|^]]* Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschrift]]en [[gehalten]] wird
-*(whether these new regulations are being [[followed]] in practice.)*
+_[[000-C1-Schreiben-T1#^13|^]]_ [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
 
-*[[C1-Hoehen-T2-200-Text#^35|^]]* [[Bemerkenswert]] ist aber, dass jemand für intelligenter [[gehalten]] wird, wenn er [[lächelt]] oder andere positive [[Gefühle]] zeigt
+_[[C1-Hoehen-T4-100-Text#^30|^]]_ Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschrift]]en [[gehalten]] wird
+_(whether these new regulations are being [[followed]] in practice.)_
 
-*[[C1-Hoehen-T2-200-Text#^28|^]]* Wir haben Studierenden Fotos von Männern und Frauen [[vorgelegt]] und die Probandinnen und Probanden mussten [[angeben]], wen sie für intelligent [[hielten]]
+_[[C1-Hoehen-T2-200-Text#^35|^]]_ [[Bemerkenswert]] ist aber, dass jemand für intelligenter [[gehalten]] wird, wenn er [[lächelt]] oder andere positive [[Gefühle]] zeigt
 
+_[[C1-Hoehen-T2-200-Text#^28|^]]_ Wir haben Studierenden Fotos von Männern und Frauen [[vorgelegt]] und die Probandinnen und Probanden mussten [[angeben]], wen sie für intelligent [[hielten]]
 
-*[[Hielt]] man für Ufos aus dem All*
-*Darum schickte ein General*  
+_[[Hielt]] man für Ufos aus dem All_
+_Darum schickte ein General_
 
-*Jeder war ein großer Krieger*  
-*[[Hielten]] [[sich]] für Captain Kirk*  
-*Es gab ein großes Feuerwerk*  
+_Jeder war ein großer Krieger_  
+_[[Hielten]] [[sich]] für Captain Kirk_  
+_Es gab ein großes Feuerwerk_
 
-*Er schrie: »Wer hat mich da verbrannt?«*  
-*und [[hielt]] den Löffel in der Hand.*
+_Er schrie: »Wer hat mich da verbrannt?«_  
+_und [[hielt]] den Löffel in der Hand._
 
-Wir [[halten]] zusammen Keiner kämpft allein 
+Wir [[halten]] zusammen Keiner kämpft allein
 
 [[Für wen hält sich die]]
 
-In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken gebückt. 
+In der Stube saß eine Frau und hielt den Kopf über das weiße Waschbecken gebückt.
 
 Katara und Sokka [[halten]] sich an der Eisscholle fest und werden mit ihr von einer Welle weggespült.
 
 ---
-[[aushalten]] - [[aus]] = [[halten]]              / to endure, to bear, to tolerate
-[[mithalten]] - [[mit]] = [[halten]]               / to keep up (with)
-[[erhalten]] - [[er]] = [[halten]]                   /  to receive, to get, to maintain
-[[unterhalten]] - [[unter]] = [[halten]]        / переговориваться 
-[[abhalten]] - [[ab]] = [[halten]]                  /  to hold, to conduct, to prevent
-[[aufrechterhalten]] - [[Worter/A/auf]] - [[rechter]] = [[halten]] / to maintain, to uphold
+
+[[aushalten]] - [[aus]] = [[halten]] / to endure, to bear, to tolerate
+[[mithalten]] - [[mit]] = [[halten]] / to keep up (with)
+[[erhalten]] - [[er]] = [[halten]] / to receive, to get, to maintain
+[[unterhalten]] - [[unter]] = [[halten]] / переговориваться
+[[abhalten]] - [[ab]] = [[halten]] / to hold, to conduct, to prevent
+[[aufrechterhalten]] - [[auf]] - [[rechter]] = [[halten]] / to maintain, to uphold
 [[stand]] + [[halten]] = [[standhalten]] // to withstand, to resist
 
 ---
 
 Synonyme:
+
 - [[festhalten]], [[behalten]], [[anhalten]]
 
 ---
@@ -55,6 +57,7 @@ Beispiele:
 - Sie [[halten]] sich an die Regeln.
 
 ---
+
 **Übersetzung**: to hold, to keep
 
 ---
@@ -63,6 +66,7 @@ Morphems of only infinitive:
 [[Halt]][[en]]
 
 ---
+
 Tags:
 #Verb #Unregelmäßige
 
@@ -107,5 +111,5 @@ Konjunktiv II:
 - Wenn wir die Zeit hätten, [[hielten]] wir das Treffen.
 - Wenn ihr geduldiger wäret, [[hieltet]] ihr durch.
 - Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]], [[aushalten]], [[aufhalten]], [[mithalten]], [[schieben]], [[s1 e1]], [[abhalten]], [[hinhalten]], [[Einhaltung]], [[enthalten]], [[beibehalten]], [[verhalten]], [[einhalten]], [[packen]]
-, [[aufrechterhalten]]
-, [[durchhalten]], [[fernhalten]], [[gefangenzuhalten]], [[tragen]], [[Haltung]], [[Lebenshaltungskosten]], [[Nachhaltigkeit]]
+  , [[aufrechterhalten]]
+  , [[durchhalten]], [[fernhalten]], [[gefangenzuhalten]], [[tragen]], [[Haltung]], [[Lebenshaltungskosten]], [[Nachhaltigkeit]], [[Zusammenhalt]]

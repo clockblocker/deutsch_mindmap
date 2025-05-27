@@ -7,15 +7,12 @@ Who?
 NIC: [[Wer bist du denn]]?
 SASCHA: [[wer]] war das?  
 [[wer]] ist S?  
-[[wer]] bin ich denn? Deine Sekretärin?  
+[[wer]] bin ich denn? Deine Sekretärin?
 
-*[[Wer]] zu Lebzeit' gut auf Erden,*  
+_[[Wer]] zu Lebzeit' gut auf Erden,_
 
-
-
-[[Worter/P/Pronomen/Pronomen]]
-#Pronomen #Interrogativpronomen 
-
+[[Pronomen/Pronomen]]
+#Pronomen #Interrogativpronomen
 
 Nominative ([[wer]]?): (who)
 Accusative ([[Wen]]?): (whom)

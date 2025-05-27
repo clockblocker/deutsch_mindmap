@@ -28,4 +28,4 @@ G: der [[Gleichung]], der [[Gleichungen]]
 D: der [[Gleichung]], den [[Gleichungen]]
 
 
-#Feminin 
+#Feminin , [[ausgleichen]]

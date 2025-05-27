@@ -29,4 +29,4 @@ A: den [[Beschäftigten]], die [[Beschäftigten]]
 G: des [[Beschäftigten]], der [[Beschäftigten]]
 D: dem [[Beschäftigten]], den [[Beschäftigten]]
 
-#Plural 
+#Plural , [[Arbeitskraft]]

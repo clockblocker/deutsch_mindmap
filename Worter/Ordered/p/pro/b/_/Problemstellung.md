@@ -1,1 +1,1 @@
-, [[Aufgabenstellung]], [[Platzproblem]]
+, [[Aufgabenstellung]], [[Platzproblem]], [[Hauptproblem]]

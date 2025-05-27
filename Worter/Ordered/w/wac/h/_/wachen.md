@@ -3,23 +3,28 @@
 haben [[gewacht]]
 
 ---
+
 Carola ist auf dem Weg zur Uni. Um halb neun hat sie eine wichtige Prüfung, aber so richtig [[wach]] ist sie noch nicht.
 
 ---
+
 [[erwachen]] - [[er]] = [[wachen]] / to awaken, to wake up
-[[überwachen]] - [[Worter/Ü/über]] = [[wachen]] / to monitor, to supervise, to watch over
-[[aufwachen]] - [[Worter/A/auf]] = [[wachen]] / to wake up
+[[überwachen]] - [[Ü/über]] = [[wachen]] / to monitor, to supervise, to watch over
+[[aufwachen]] - [[auf]] = [[wachen]] / to wake up
 
 ---
+
 Synonyme: [[aufpassen]], [[beobachten]], [[bewachen]], [[Wache halten]]
 Antonyme: [[schlafen]], [[ruhen]], [[unaufmerksam sein]]
 
 ---
+
 Übersetzung: to be awake, to keep watch
 
 ---
+
 Morpheme: [[wach]][[en]]
- #Verb  #Intransitiv
+#Verb #Intransitiv
 
 | Person    | Präsens    | Präteritum   | Imperativ      | Konjunktiv I | Konjunktiv II |
 | --------- | ---------- | ------------ | -------------- | ------------ | ------------- |

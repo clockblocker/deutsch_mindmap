@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Suche]], [[Suchen]], [[Suchen]], [[Suchen]]
 
 ---
 #Substantiv #Feminin, [[zuneigen]], [[Lehrstellensuche]], [[s1 e1]], [[Texte/Misc/Anki]]
-, [[aussuchen]], [[Futtersuche]], [[Fachliteraturrecherche]]
+, [[aussuchen]], [[Futtersuche]], [[Fachliteraturrecherche]], [[Anwerbung]]

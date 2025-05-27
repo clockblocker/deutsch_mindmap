@@ -4,7 +4,9 @@
 die [[Bereiche]]
 
 ---
-Diesen [[Bereich]] darf niemand [[betreten]].
+Diesen [[Bereich]] darf niemand [[betreten]]
+
+*[[C1-Hoehen-T3-301-Text#^5|^]]* Herr Osterholz [[erwähnt]] die [[Klage]] der Unternehmen über [[fehlen]]de [[Fachkräfte]] im [[MINT]]-[[Bereich]]
 
 *[[C1-Lesen-T2-102-Text#^12|^]]* So zählt beispielsweise auch das Herz zu den Muskeln, und das wächst beim Ausdauersport, oder der Puls dabei [[ungefähr]] im [[Bereich]] von 180 minus [[Lebensalter]] liegt.
 
@@ -47,4 +49,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 
 ---
-#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Texte/Misc/Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]], [[Abschnitt]], [[Hinsicht]], [[Pausenraum]], [[Einkaufsbereich]], [[Umkreis]], [[Buchhaltungsbereich]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Reichweite]], [[Finanzbereich]], [[Wissenschaftszweig]], [[bereichern]], [[Referat]], [[Abteil]], [[Themenbereich]], [[Prüfungsteil]]
+#Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]], [[Texte/Misc/Anki]], [[1 Präpositionen Übungen]], [[Hauptbereich]], [[Studienfach]], [[Abteilung]], [[Abschnitt]], [[Hinsicht]], [[Pausenraum]], [[Einkaufsbereich]], [[Umkreis]], [[Buchhaltungsbereich]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Reichweite]], [[Finanzbereich]], [[Wissenschaftszweig]], [[bereichern]], [[Referat]], [[Abteil]], [[Themenbereich]], [[Prüfungsteil]], [[Schwerpunkt]], [[Sanitärbereich]], [[Heizungsbereich]], [[Wirtschaftsbranche]]

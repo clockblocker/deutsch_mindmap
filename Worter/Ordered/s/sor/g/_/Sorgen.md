@@ -73,4 +73,4 @@ Partizip I: [[sorgend]], Partizip II: [[gesorgt]]
 
 
 , [[genießen]], [[zumindest]], [[Redewendung]], [[behaupten]], [[kümmern]], [[sorgsam]]
-, [[Sorgfalt]], [[fürchten]], [[Befürchtung]]
+, [[Sorgfalt]], [[fürchten]], [[Befürchtung]], [[beunruhigen]]

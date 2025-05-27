@@ -2,30 +2,34 @@
 die [[Wortschätze]]
 
 ---
+
 Argumente
 
 ---
+
 = [[Vokabular]], [[Lexikon]], [[Wortbestand]]
-≈ [[Worter/S/Sprache]], [[Wörter]], [[Ausdruck]]
+≈ [[Sprache]], [[Wörter]], [[Ausdruck]]
 ≠ [[Sprachlosigkeit]], [[Wortarmut]]
 
 ---
+
 vocabulary  
 словарный запас
 
 ---
+
 [[Wortschatzarbeit]], [[Wortschatzübung]]
 
 ---
+
 [[Wort]]|[[schatz]]
 [[Wortschatz]]
 
-
 ---
+
 N: der [[Wortschatz]], die [[Wortschätze]]
 A: den [[Wortschatz]], die [[Wortschätze]]
 G: des [[Wortschatzes]], der [[Wortschätze]]
 D: dem [[Wortschatz]], den [[Wortschätzen]]
 
-
-#Maskulin 
+#Maskulin

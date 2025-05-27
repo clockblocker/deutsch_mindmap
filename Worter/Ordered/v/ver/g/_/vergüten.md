@@ -1,1 +1,1 @@
-, [[belohnen]], [[honorieren]]
+, [[belohnen]], [[honorieren]], [[kompensieren]]

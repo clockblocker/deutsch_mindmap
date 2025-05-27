@@ -2,7 +2,4 @@
 --> 📊 [[Grad-Verteilung]] <--
 --> ⏱️ [[Temporal-Frequenz]] <--
 
-[[Worter/A/Alle]], [[ununterbrochen]], [[allgemein]], [[stellenweise]]
-
-
-
+[[Alle]], [[ununterbrochen]], [[allgemein]], [[stellenweise]]

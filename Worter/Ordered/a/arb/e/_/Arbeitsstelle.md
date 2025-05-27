@@ -2,30 +2,34 @@
 die [[Arbeitsstellen]]
 
 ---
-*[[C1-Lesen-T4-102-Text#^23|^]]* Es schafft natürlich auch eine [[gewisse]] Unruhe unter den Mitarbeitenden, weil diese [[befürchten]], dass eines Tages auch ihre [[Arbeitsstelle]] [[ausgelagert]] werden könnte.
 
+_[[C1-Lesen-T4-102-Text#^23|^]]_ Es schafft natürlich auch eine [[gewisse]] Unruhe unter den Mitarbeitenden, weil diese [[befürchten]], dass eines Tages auch ihre [[Arbeitsstelle]] [[ausgelagert]] werden könnte.
 
 ---
+
 = [[Arbeitsplatz]], [[Stelle]], [[Job]]
 ≈ [[Büro]], [[Unternehmen]], [[Firma]], [[Beschäftigung]]
-≠ [[Worter/F/Freizeit]], [[Ruhestand]], [[Arbeitslosigkeit]]
+≠ [[Freizeit]], [[Ruhestand]], [[Arbeitslosigkeit]]
 
 ---
+
 workplace, job  
 рабочее место, работа
 
 ---
+
 [[arbeiten]], [[Arbeit]], [[Arbeiter]], [[Arbeitsvertrag]], [[Arbeitszeit]], [[Arbeitskollege]]
 
 ---
+
 [[Arbeit]]|`s`|[[stell]]|[[e]]
 [[Arbeitsstelle]]
 
-
 ---
+
 N: die [[Arbeitsstelle]], die [[Arbeitsstellen]]
 A: die [[Arbeitsstelle]], die [[Arbeitsstellen]]
 G: der [[Arbeitsstelle]], der [[Arbeitsstellen]]
 D: der [[Arbeitsstelle]], den [[Arbeitsstellen]]
 
-#Feminin 
+#Feminin

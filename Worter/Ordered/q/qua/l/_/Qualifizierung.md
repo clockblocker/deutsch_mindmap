@@ -1,1 +1,1 @@
-, [[Aufstiegsfortbildung]]
+, [[Aufstiegsfortbildung]], [[qualifiziert]]

@@ -1,1 +1,1 @@
-, [[Worter/H/haben]]
+, [[haben]]

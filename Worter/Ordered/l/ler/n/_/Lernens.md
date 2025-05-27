@@ -1,1 +1,1 @@
-[[Worter/W/Wiederholung]] ist die Mutter des [[Lernens]]
+[[Wiederholung]] ist die Mutter des [[Lernens]]

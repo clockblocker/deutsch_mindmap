@@ -31,4 +31,4 @@ A: die [[Forschung]], die [[Forschungen]]
 G: der [[Forschung]], der [[Forschungen]]  
 D: der [[Forschung]], den [[Forschungen]]
 
-#Feminin 
+#Feminin , [[Naturwissenschaft]]

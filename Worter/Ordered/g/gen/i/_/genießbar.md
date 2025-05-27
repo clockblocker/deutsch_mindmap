@@ -2,16 +2,20 @@
 nicht [[ungenießbar]]
 
 ---
-Eine Suppe kann sehr lecker sein, [[besonders]] mit der richtigen [[Menge]] Salz. [[reintun|Tut]] man aber zu viel [[davon]] rein, ist sie nicht mehr [[genießbar]]. 
+
+Eine Suppe kann sehr lecker sein, [[besonders]] mit der richtigen [[Menge]] Salz. [[reintun|Tut]] man aber zu viel [[davon]] rein, ist sie nicht mehr [[genießbar]].
 
 ---
-Synonyme: [[Worter/E/essbar]], [[verzehrbar]], [[konsumierbar]], [[verdaulich]], [[bekömmlich]]
-Antonyme:  [[eklig]], [[ungenießbar]], [[unverträglich]], [[verdorben]], [[unappetitlich]]
+
+Synonyme: [[essbar]], [[verzehrbar]], [[konsumierbar]], [[verdaulich]], [[bekömmlich]]
+Antonyme: [[eklig]], [[ungenießbar]], [[unverträglich]], [[verdorben]], [[unappetitlich]]
 
 ---
+
 **edible, consumable, palatable**
 
 ---
+
 [[genieß]][[bar]]
 
 ---
@@ -23,6 +27,6 @@ Genitive: [[genießbarer]], [[genießbarer]], [[genießbarster]]
 Dative: [[genießbarem]], [[genießbarerem]], [[genießbarstem]]  
 Feminine: [[genießbare]], [[genießbarer]], [[genießbarste]]  
 Neuter: [[genießbares]], [[genießbareres]], [[genießbarstes]]  
-Plural: [[genießbaren]], [[genießbaren]], [[genießbarsten]]  
+Plural: [[genießbaren]], [[genießbaren]], [[genießbarsten]]
 
-[[Genießbarkeit]], [[ungenießbar]], [[genießen]], [[Worter/essbar]]
+[[Genießbarkeit]], [[ungenießbar]], [[genießen]], [[essbar]]

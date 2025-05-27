@@ -1,2 +1,2 @@
 [[wiedersehen]][[ansehen]], [[aussehen]], [[umsehen]], [[aufsehen]], [[übersehen]], [[Fernsehturm]]
-, [[versehentlich]], [[absehen]], [[Versehen]]
+, [[versehentlich]], [[absehen]], [[Versehen]], [[zusehen]]

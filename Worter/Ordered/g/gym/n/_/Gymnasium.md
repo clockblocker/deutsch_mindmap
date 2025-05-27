@@ -1,1 +1,1 @@
-, [[Abendgymnasium]], [[Universität]]
+, [[Abendgymnasium]], [[Universität]], [[Fachhochschule]]

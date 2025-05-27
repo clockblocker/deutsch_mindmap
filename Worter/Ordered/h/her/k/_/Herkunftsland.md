@@ -2,7 +2,11 @@
 die [[Herkunftsländer]]
 
 ---
-- Erläutern Sie, warum Menschen ihr [[Herkunftsland]] [[verlassen]].
+*[[C1-Hoehen-T3-301-Text#^35|^]]* Ich sehe zudem das große Problem des sogenannten „[[Braindrain]]“, d. h. qualifizierte junge Menschen werden [[abgeworben]] und in ihren [[Herkunftsländern]] fehlen dann [[dringend]] benötigte Arbeitskräfte
+
+*[[C1-Hoehen-T3-301-Text#^38|^]]* Denn sie werden dann in ihren [[Herkunftsländern]] fehlen
+
+Erläutern Sie, warum Menschen ihr [[Herkunftsland]] [[verlassen]].
 
 ---
 = [[Ursprungsland]], [[Geburtsland]]

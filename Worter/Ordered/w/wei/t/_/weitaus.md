@@ -30,4 +30,4 @@ by far, much
 Adjektive: [[weit]], [[weiter]], [[weitest]]
 
 ---
-[[weiter]], [[weites]], [[weite]], [[weiten]], [[weitem]], [[weiterer]], [[weiteres]], [[weitere]], [[weiteren]], [[weiterem]], [[weitester]], [[weitestes]], [[weiteste]], [[weitesten]], [[weitestem]]
+[[weiter]], [[weites]], [[weite]], [[weiten]], [[Weitem]], [[weiterer]], [[weiteres]], [[weitere]], [[weiteren]], [[weiterem]], [[weitester]], [[weitestes]], [[weiteste]], [[weitesten]], [[weitestem]]

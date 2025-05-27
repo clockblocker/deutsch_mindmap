@@ -2,8 +2,9 @@
 die [[Mischungen]]
 
 ---
-0 Das Buch ist eine [[Mischung]] aus Roman und Sachbuch.  
+0 Das Buch ist eine [[Mischung]] `aus` Roman und Sachbuch.  
 
+*[[C1-Hoehen-T3-301-Text#^42|^]]* Ich denke, es bedarf einer [[Mischung]] `aus` qualifizierter [[Zuwanderung]] und attraktiver [[dualer]] [[Berufsausbildung]] an [[Fachhochschule]]n oder [[vergleichbar]]en Ausbildungsstätten
 
 ---
 = [[Gemisch]], [[Mixtur]]

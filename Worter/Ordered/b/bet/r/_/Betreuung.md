@@ -31,4 +31,4 @@ G: der [[Betreuung]], der [[Betreuungen]]
 D: der [[Betreuung]], den [[Betreuungen]]
 
 
-#Feminin 
+#Feminin , [[Kinderbetreuungsangebot]]

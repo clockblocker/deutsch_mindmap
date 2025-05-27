@@ -5,6 +5,8 @@
 ---
 Ich werde die Übungen vor Unterrichtsbeginn in das System [[einfügen]].
 
+*[[C1-Hoehen-T2-301-Text#^19|^]]* Er sollte sich in die individuelle Biografie und Lebensplanung sinnvoll [[einfügen]]
+
 ---
 = [[einsetzen]], [[hineinfügen]], [[beifügen]],  [[reintun]],  [[einlegen]], 
 ≈ [[hinzufügen]], [[anbringen]], [[einflechten]], [[integrieren]], [[einbauen]],

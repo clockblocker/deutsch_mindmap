@@ -1,1 +1,1 @@
-, [[Regel]], [[Gesetz]], [[Richtlinie]], [[Prinzip]]
+, [[Regel]], [[Gesetz]], [[Richtlinie]], [[Prinzip]], [[Qualitätsstandard]]

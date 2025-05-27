@@ -1,2 +1,2 @@
 [[erkältet]]
-, [[gesund]], [[kerngesund]], [[Krankenkasse]], [[arbeitsunfähig]], [[krankheitsbedingt]]
+, [[gesund]], [[kerngesund]], [[Krankenkasse]], [[arbeitsunfähig]], [[krankheitsbedingt]], [[Krankenhaus]]

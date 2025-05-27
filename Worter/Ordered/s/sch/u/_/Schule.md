@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Schule]], [[Schules]], [[Schule]], [[Schulen]],
 
 ---
 #Substantiv #Feminin, [[Gesamtschule]], [[Ersteinschulung]], [[Schulpflicht]], [[Schulamt]], [[Schulwesen]], [[Schulgebäude]]
-, [[Schularbeit]], [[Schulklasse]], [[Schultasche]], [[Lehrerpult]], [[Schulabgängerin]], [[Schulabgänger]], [[Klassenstufe]], [[Lehrkraft]], [[Schulung]], [[Schulmedizin]], [[Schulmedizinerin]], [[Schulform]], [[Schulfach]]
+, [[Schularbeit]], [[Schulklasse]], [[Schultasche]], [[Lehrerpult]], [[Schulabgängerin]], [[Schulabgänger]], [[Klassenstufe]], [[Lehrkraft]], [[Schulung]], [[Schulmedizin]], [[Schulmedizinerin]], [[Schulform]], [[Schulfach]], [[Fachhochschule]], [[Ausbildungsstätte]]

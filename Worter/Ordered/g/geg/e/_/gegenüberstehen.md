@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-101-Text#^12|^]]* Diese beiden [[Denkweise]]n [[gegenüberstehen|stehen]] `sich` also [[unversöhnlich]] [[gegenüberstehen|gegenüber]]?
 
+*[[C1-Hoehen-T2-301-Text#^27|^]]* Einen praktischen Grund sehe ich auf jeden Fall. Die [[jüngsten]] [[Bildungsergebnis]]se in Deutschland haben dazu geführt, dass immer jüngere Schulabgänger einer [[zunehmend]] komplexen [[Wirklichkeit]] [[gegenüberstehen]]
+
 *[[C1-Hoehen-T2-101-Text#^11|^]]* Aufgrund der [[Zunahme]] von individualistischen Strukturen sehen sich in [[derart]] [[geprägt]]en [[Gesellschaft]]en immer mehr Menschen dem Klimawandel [[machtlos]] [[gegenüberstehen]], da ihre [[Weltanschauung]] ja auch eher solche [[Denkweise]]n [[hervorruft]]
 
 ---

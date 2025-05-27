@@ -6,6 +6,9 @@
 ---
 Sie [[fordern]] den gleichen [[Lohn]] für alle.
 
+*[[C1-Hoehen-T3-301-Text#^17|^]]* Frau Ebner-Perotti [[fordert]], die [[Anwerbung]] junger, gut [[ausgebildeter]] Menschen zu stoppen
+*(Ms. Ebner-Perotti [[demands]] to stop the [[recruitment]] of young, well-[[trained]] people)*
+
 *[[C1-Hoehen-T1-202-Text#^24|^]]* Oder der [[sächsische]] Oberberghauptmann Carl von Carlowitz äußerte bereits 1713 für eine schonende [[Forstwirtschaft]] und [[nachhaltig]]e Nutzung der [[Holzreserven]], indem er eine bessere [[Wärmedämmung]] der Häuser [[forderte]]
 
 *[[07-C1-Schreiben-T2-M#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]. ^2

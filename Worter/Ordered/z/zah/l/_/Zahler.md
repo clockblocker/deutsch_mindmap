@@ -1,2 +1,2 @@
 
-, [[Zahlung]], [[Schuldner]]
+, [[Zahlung]], [[Schuldner]], [[Bezahlung]]

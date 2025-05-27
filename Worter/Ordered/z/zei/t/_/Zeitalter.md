@@ -2,30 +2,34 @@
 die [[Zeitalter]]
 
 ---
+
 ###### ⚖️ GPT [[Arbeitnehmerrechte]] im digitalen [[Zeitalter]] – Noch [[zeitgemäß]]?
 
 ---
+
 = [[Ära]], [[Epoche]], [[Periode]]
-≈ [[Worter/Z/zeit]], [[Jahrhundert]], [[Dekade]]
+≈ [[zeit]], [[Jahrhundert]], [[Dekade]]
 ≠ (none)
 
 ---
+
 age, era  
 эпоха, век
 
 ---
-[[Worter/Z/zeit]], [[alter]]
+
+[[zeit]], [[alter]]
 
 ---
-[[Worter/Z/zeit]]|[[alter]]
+
+[[zeit]]|[[alter]]
 [[Zeitalter]]
 
-
 ---
+
 N: das [[Zeitalter]], die [[Zeitalter]]
 A: das [[Zeitalter]], die [[Zeitalter]]
 G: des [[Zeitalters]], der [[Zeitalter]]
 D: dem [[Zeitalter]], den [[Zeitaltern]]
-
 
 #Neuter , [[zeitlich]]

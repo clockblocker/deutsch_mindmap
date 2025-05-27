@@ -1,1 +1,1 @@
-, [[Zweierreihen]], [[Reihe]]
+, [[Zweierreihen]], [[Reihe]], [[reihenweise]]

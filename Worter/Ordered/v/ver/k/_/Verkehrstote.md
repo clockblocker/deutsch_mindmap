@@ -2,28 +2,36 @@
 die [[Verkehrstoten]]
 
 ---
+
 206. [[Woran]] [[erinnern]] die [[sogenannten]] „[[Stolpersteine]]“ in Deutschland? (100%)
-	- [ ] an [[berühmte]] deutsche Politikerinnen und Politiker
-	- [x] an die [[Opfer]] des Nationalsozialismus
-	- [ ] an [[Verkehrstote]]
-	- [ ] an bekannte jüdische Musiker
+
+
+    - [ ] an [[berühmte]] deutsche Politikerinnen und Politiker
+    - [x] an die [[Opfer]] des Nationalsozialismus
+    - [ ] an [[Verkehrstote]]
+    - [ ] an bekannte jüdische Musiker
 
 ---
+
 = [[Verkehrsunfallopfer]], [[Straßenverkehrsopfer]]
 ≈ [[Unfalltote]], [[Straßenopfer]], [[Verkehrsopfer]]
 ≠ [[Überlebende]], [[Verletzte]], [[Gerettete]]
 
 ---
+
 traffic fatality, road traffic death
 
 ---
-[[Worter/V/Verkehr]][[s]][[tote]]
+
+[[Verkehr]][[s]][[tote]]
 
 ---
+
 N: die [[Verkehrstote]], die [[Verkehrstoten]]  
 A: die [[Verkehrstote]], die [[Verkehrstoten]]  
 G: der [[Verkehrstoten]], der [[Verkehrstoten]]  
-D: der [[Verkehrstoten]], den [[Verkehrstoten]]  
+D: der [[Verkehrstoten]], den [[Verkehrstoten]]
 
 ---
-[[Worter/V/Verkehr]], [[tot]], [[Unfall]], [[Straße]], [[Statistik]], [[Sicherheit]]
+
+[[Verkehr]], [[tot]], [[Unfall]], [[Straße]], [[Statistik]], [[Sicherheit]]

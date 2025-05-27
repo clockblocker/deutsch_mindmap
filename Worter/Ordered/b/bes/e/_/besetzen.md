@@ -29,4 +29,4 @@ PI: [[besetzend]], PII: [[besetzt]], Zu+inf: [[zubesetzen]]
 [[besetzen]] - [[be]] = [[setzen]] / to occupy, to fill, to take up
 
 ---
-[[Besetzung]], [[Besatzer]], [[besetzt]], [[Besatzung]], [[Besatzungszeit]], [[Okkupation]], [[frankieren]], [[Besatzungsmacht]], [[Besatz]], [[Rollenbesetzung]]
+[[Besetzung]], [[Besatzer]], [[besetzt]], [[Besatzung]], [[Besatzungszeit]], [[Okkupation]], [[frankieren]], [[Besatzungsmacht]], [[Besatz]], [[Rollenbesetzung]], [[unbesetzt]]

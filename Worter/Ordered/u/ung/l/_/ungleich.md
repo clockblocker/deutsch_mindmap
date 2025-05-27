@@ -26,4 +26,4 @@ unequal, different
 Adjektive: [[ungleich]], [[ungleicher]], [[ungleichst]]
 
 ---
-[[ungleicher]], [[ungleiches]], [[ungleiche]], [[ungleichen]], [[ungleichem]], [[ungleicherer]], [[ungleicheres]], [[ungleichere]], [[ungleicheren]], [[ungleicherem]], [[ungleichster]], [[ungleichstes]], [[ungleichste]], [[ungleichsten]], [[ungleichstem]]
+[[ungleicher]], [[ungleiches]], [[ungleiche]], [[ungleichen]], [[ungleichem]], [[ungleicherer]], [[ungleicheres]], [[ungleichere]], [[ungleicheren]], [[ungleicherem]], [[ungleichster]], [[ungleichstes]], [[ungleichste]], [[ungleichsten]], [[ungleichstem]], [[ausgleichen]], [[vergleichbar]]

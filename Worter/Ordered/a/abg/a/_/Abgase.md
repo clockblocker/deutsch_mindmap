@@ -1,1 +1,0 @@
-🟢 das [[Abgas]] 💨, [[Emission]]

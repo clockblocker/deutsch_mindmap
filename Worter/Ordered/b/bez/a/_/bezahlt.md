@@ -1,3 +1,3 @@
 [[bezahlen]]  
 [[bezahlen]]  
-, [[kostenlos]], [[ehrenamtlich]], [[unbezahlt]], [[unfrankierter]]
+, [[kostenlos]], [[ehrenamtlich]], [[unbezahlt]], [[unfrankierter]], [[Bezahlung]]

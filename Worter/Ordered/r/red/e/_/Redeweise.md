@@ -1,1 +1,1 @@
-, [[Worter/S/Sprache]], [[Sprechweise]]
+, [[Sprache]], [[Sprechweise]]

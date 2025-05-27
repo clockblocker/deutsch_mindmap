@@ -1,3 +1,3 @@
 --> 🧩 [[Grad-Wahrheit]] <--
 
-, [[klar]], [[circa]]
+, [[klar]], [[circa]], [[explizit]]

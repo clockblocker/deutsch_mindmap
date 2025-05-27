@@ -1,1 +1,1 @@
-, [[Zusatzqualifikation]], [[Qualitätssteigerung]]
+, [[Zusatzqualifikation]], [[Qualitätssteigerung]], [[Qualitätsstandard]], [[qualifiziert]]

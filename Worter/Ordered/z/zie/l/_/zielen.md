@@ -1,10 +1,12 @@
 🎯 [[zielen]] + Akk/auf + Akk, [ˈtsiːlən] | 🔵 der [[Ziel]] 
-[[zielte]]
-haben [[gezielt]]
 
 ---
-*[[C1-Lesen-T4-101-Text#^23|^]]* Roboter können aber auch [[gezielte]] Vorarbeit [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet. ^23
+*[[C1-Lesen-T4-101-Text#^23|^]]* Roboter können aber auch [[gezielte]] Vorarbeit [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet
 
+*[[C1-Hoehen-T3-301-Text#^43|^]]* [[Gezielte]] [[Zuwanderung]] für die duale [[Berufsausbildung]] sollte ebenso [[beworben]] und gefördert werden wie der Studienstandort Deutschland
+
+*[[C1-Hoehen-T3-301-Text#^29|^]]* Man hört ja immer wieder von Politikern, 
+man `könne` den [[Bedarf]] `durch` [[gezielt]]e [[Zuwanderung]] [[decken]]
 
 [[gezielte]] [[Sonderregelungen]]
 

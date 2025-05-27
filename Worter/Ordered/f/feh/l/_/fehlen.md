@@ -3,6 +3,11 @@
 ---
 Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind
 
+*[[C1-Hoehen-T3-301-Text#^35|^]]* Ich sehe zudem das große Problem des sogenannten „[[Braindrain]]“, d. h. qualifizierte junge Menschen werden [[abgeworben]] und in ihren [[Herkunftsländern]] [[fehlen]] dann [[dringend]] benötigte Arbeitskräfte
+
+
+*[[C1-Hoehen-T3-301-Text#^5|^]]* Herr Osterholz [[erwähnt]] die [[Klage]] der Unternehmen über [[fehlen]]de [[Fachkräfte]] im [[MINT]]-[[Bereich]]
+
 *[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem breiten [[Bürgertum]] an [[Wissen]] [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]]
 
 *[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en Wissen über [[Heilkunde]] [[hierzulande]] und international wuchs

@@ -24,4 +24,4 @@ heavyweight, obese
 Adjektive: [[schwergewichtig]], [[schwergewichtiger]], [[schwergewichtigst]]
 
 ---
-[[schwergewichtiger]], [[schwergewichtiges]], [[schwergewichtige]], [[schwergewichtigen]], [[schwergewichtigem]], [[schwergewichtigerer]], [[schwergewichtigeres]], [[schwergewichtigere]], [[schwergewichtigeren]], [[schwergewichtigerem]], [[schwergewichtigster]], [[schwergewichtigstes]], [[schwergewichtigste]], [[schwergewichtigsten]], [[schwergewichtigstem]]
+[[schwergewichtiger]], [[schwergewichtiges]], [[schwergewichtige]], [[schwergewichtigen]], [[schwergewichtigem]], [[schwergewichtigerer]], [[schwergewichtigeres]], [[schwergewichtigere]], [[schwergewichtigeren]], [[schwergewichtigerem]], [[schwergewichtigster]], [[schwergewichtigstes]], [[schwergewichtigste]], [[schwergewichtigsten]], [[schwergewichtigstem]], [[Schwerpunkt]]

@@ -33,4 +33,4 @@ D: der [[Untätigkeit]], den [[Untätigkeiten]]
 #Feminin 
 
 
-, [[Initiative]], [[Geschäft]], [[Verhaltensweise]]
+, [[Initiative]], [[Geschäft]], [[Verhaltensweise]], [[tatenlos]], [[Handlungsbedarf]]

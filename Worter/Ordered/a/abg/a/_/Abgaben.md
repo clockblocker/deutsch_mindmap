@@ -1,1 +1,0 @@
-, [[Steuern]], [[Sozialabgaben]], [[Abgabe]]

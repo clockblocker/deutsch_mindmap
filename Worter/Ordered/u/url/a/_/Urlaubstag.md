@@ -2,29 +2,34 @@
 die [[Urlaubstage]]
 
 ---
-*„Mitarbeitenden wird ein [[zusätzlicher]] [[Urlaubstag]] [[gewährt]].“*
+
+_„Mitarbeitenden wird ein [[zusätzlicher]] [[Urlaubstag]] [[gewährt]].“_
 
 ---
+
 = [[Ferientag]], [[Feiertag]]
-≈ [[Worter/F/Freizeit]], [[Erholung]], [[Auszeit]]
+≈ [[Freizeit]], [[Erholung]], [[Auszeit]]
 ≠ [[Arbeitstag]], [[Werktag]]
 
 ---
+
 day off, vacation day  
 выходной, день отпуска
 
 ---
+
 [[Urlaub]], [[Tag]], [[Urlauber]], [[Urlaubsreise]], [[Urlaubszeit]]
 
 ---
+
 [[Urlaub]]|[[tag]]
 [[Urlaub]] + [[Tag]]
 
-
 ---
+
 N: der [[Urlaubstag]], die [[Urlaubstage]]
 A: den [[Urlaubstag]], die [[Urlaubstage]]
 G: des [[Urlaubstages]], der [[Urlaubstage]]
 D: dem [[Urlaubstag]], den [[Urlaubstagen]]
 
-#Maskulin 
+#Maskulin

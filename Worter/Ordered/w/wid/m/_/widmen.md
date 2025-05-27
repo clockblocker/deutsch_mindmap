@@ -1,8 +1,9 @@
 ✍️ [[widmen]], [ˈvɪtmən] | [[widmete]], haben [[gewidmet]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^11|^]] Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]. ^11
+*[[1 Wer bin ich und was mache ich hier?#^11|^]]* Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]
 
+*[[C1-Hoehen-T3-301-Text#^61|^]]* Wir möchten uns heute dem Thema [[Fachkräftemangel]] [[widmen]], denn es [[vergeht]] ja kaum ein Tag ohne [[alarmieren]]de und [[beunruhigen]]de Informationen in allen Medien.
 
 
 ---

@@ -5,26 +5,32 @@
 haben [[aufgehängt]]
 
 ---
+
 Werner hat beim Aufräumen ein altes Urlaubsfoto gefunden. Er hat einen [[Rahmen]] dafür gekauft und will es im Wohnzimmer aufhängen.
 
-Ehe ich's vergesse: heute abend läßt du dir von Tante Martha einen Kleiderbügel geben und [[hängst]] den Anzug ordentlich [[Worter/A/auf]]
+Ehe ich's vergesse: heute abend läßt du dir von Tante Martha einen Kleiderbügel geben und [[hängst]] den Anzug ordentlich [[auf]]
 
 111. Welche [[Handlung]] mit [[Bezug]] auf den Staat Israel ist in Deutschland [[verboten]]? (100%)
-	- [ ] Die Politik Israels [[öffentlich]] kritisieren.
-	- [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].
-	- [ ] Eine Diskussion über die Politik Israels.
-	- [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
+
+
+    - [ ] Die Politik Israels [[öffentlich]] kritisieren.
+    - [ ] Das [[Aufhängen]] einer israelischen Flagge auf dem [[Privatgrundstück]].
+    - [ ] Eine Diskussion über die Politik Israels.
+    - [x] Der öffentliche [[Aufruf]] zur [[Vernichtung]] Israels.
 
 ---
+
 Synonyme: [[anhängen]], [[befestigen]], [[anbringen]], [[montieren]], [[hängen]]
 Antonyme: [[abnehmen]], [[herunterhängen]], [[entfernen]]
 
 ---
+
 Übersetzung: to hang up, to suspend
 
 ---
-Morpheme: [[Worter/A/auf]][[häng]][[en]]
- #Verb  #Trennbar
+
+Morpheme: [[auf]][[häng]][[en]]
+#Verb #Trennbar
 
 | Person    | Präsens        | Präteritum       | Imperativ          | Konjunktiv I    | Konjunktiv II     |
 | --------- | -------------- | ---------------- | ------------------ | --------------- | ----------------- |
@@ -37,6 +43,6 @@ Morpheme: [[Worter/A/auf]][[häng]][[en]]
 |           |                |                  |                    |                 |                   |
 
 Partizip I: [[aufhängend]], Partizip II: [[aufgehängt]]
-[[aufhängen]] - [[Worter/A/auf]] = [[hängen]]
+[[aufhängen]] - [[auf]] = [[hängen]]
 
 , [[einhängen]], [[hängen]]

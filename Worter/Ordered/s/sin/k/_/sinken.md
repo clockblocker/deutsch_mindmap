@@ -1,11 +1,11 @@
 --> [[🎯 Ingredient-Result-Verb]] <--
 
 🌊 [[sinken]]
-[[sank]]
-sein [[gesunken]]
 
 ---
 Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem Schrecken davon.
+
+*[[C1-Hoehen-T3-301-Text#^16|^]]* Frau Ebner-Perotti [[befürchtet]] [[sinken]]de Löhne durch billige [[Arbeitskräfte]]
 
 *[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 

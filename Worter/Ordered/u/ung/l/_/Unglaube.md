@@ -1,1 +1,1 @@
-, [[Worter/Religion]], [[ungläubig]], [[Überzeugung]]
+, [[Religion]], [[ungläubig]], [[Überzeugung]]

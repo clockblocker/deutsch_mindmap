@@ -29,4 +29,4 @@ G: des [[Mitarbeiters]], der [[Mitarbeiter]]
 D: dem [[Mitarbeiter]], den [[Mitarbeitern]]
 
 #Maskulin 
-, [[Manager]], [[Vorgesetzte]], [[Teamleiter]], [[Geschäftsführung]], [[Mitarbeiterzufriedenheit]], [[Projektmanager]], [[Außendienstmitarbeiter]]
+, [[Manager]], [[Vorgesetzte]], [[Teamleiter]], [[Geschäftsführung]], [[Mitarbeiterzufriedenheit]], [[Projektmanager]], [[Außendienstmitarbeiter]], [[Fachkraft]], [[Pflegekraft]]

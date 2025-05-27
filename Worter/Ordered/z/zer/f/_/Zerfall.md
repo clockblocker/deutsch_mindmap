@@ -1,1 +1,1 @@
-, [[Zusammenschluss]], [[Scheidung]], [[Niedergang]]
+, [[Zusammenschluss]], [[Scheidung]], [[Niedergang]], [[Zusammenhalt]]

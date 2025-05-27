@@ -34,3 +34,4 @@ P: [[schwachen]], [[schwächeren]], [[schwächsten]]
 ---
 [[Schwäche]], [[abschwächen]], [[schwachsinnig]], [[schwachköpfig]], [[schwachstellen]], [[einkommensschwach]], 
 
+, [[hilfebedürftig]]

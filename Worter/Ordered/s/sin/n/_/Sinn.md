@@ -3,6 +3,9 @@ die [[Sinne]]
 
 
 ---
+*[[C1-Hoehen-T2-301-Text#^18|^]]* Und das funktioniert nur, wenn er nicht nur für die ''Gemeinschaft'', sondern auch 
+für `den` [[Einzelnen]] einen [[Sinn]] [[ergibt]]
+
 Dein Argument macht keinen [[Sinn]].
 
 *Trag' ich den kleinen Prinz im [[Sinn]]*  

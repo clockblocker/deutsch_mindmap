@@ -1,2 +1,2 @@
-, [[Worter/essbar]]
+, [[essbar]]
 , [[Wurstessern]], [[Essenswagen]], [[Essenwagen]]

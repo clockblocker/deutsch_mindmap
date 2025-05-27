@@ -56,4 +56,4 @@ sie, [[überwiegen]], [[überwogen]], [[überwiegen]], [[überwögen]], [[überw
 Adjektive: [[überwiegend]], [[überwiegender]], [[überwiegendst]]
 
 ---
-[[überwiegender]], [[überwiegendes]], [[überwiegende]], [[überwiegenden]], [[überwiegendem]], [[überwiegenderer]], [[überwiegenderes]], [[überwiegendere]], [[überwiegenderen]], [[überwiegenderem]], [[überwiegendster]], [[überwiegendstes]], [[überwiegendste]], [[überwiegendsten]], [[überwiegendstem]]
+[[überwiegender]], [[überwiegendes]], [[überwiegende]], [[überwiegenden]], [[überwiegendem]], [[überwiegenderer]], [[überwiegenderes]], [[überwiegendere]], [[überwiegenderen]], [[überwiegenderem]], [[überwiegendster]], [[überwiegendstes]], [[überwiegendste]], [[überwiegendsten]], [[überwiegendstem]], [[vorwiegend]]

@@ -1,1 +1,1 @@
-, [[Fach]], [[Fachrichtung]]
+, [[Fach]], [[Fachrichtung]], [[Fachkraft]], [[Fachhochschule]]

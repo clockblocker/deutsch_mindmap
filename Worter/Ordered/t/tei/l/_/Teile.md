@@ -1,15 +1,15 @@
-Singular: der [[Worter/N/Nomen/Teil]]
+Singular: der [[Nomen/Teil]]
 Plural: die [[Teile]]
-
 
 Beispiele:
 
 der [[Körperteil]]
 
 ---
+
 Translation:
 Part
 
 ---
 
-#Substantiv #Maskulin  
+#Substantiv #Maskulin

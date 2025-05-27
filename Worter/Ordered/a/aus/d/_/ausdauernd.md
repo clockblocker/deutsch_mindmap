@@ -1,2 +1,2 @@
 💪 [[ausdauern]] | 😌 [[ausdauernd]]
-, [[Königsweg]], [[langlebig]]
+, [[Königsweg]], [[langlebig]], [[langwierig]]

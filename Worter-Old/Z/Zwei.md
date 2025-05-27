@@ -1,1 +1,0 @@
-, [[Spielkarten]], [[zweifelt]], [[zweifeln]], [[Zweifel]], [[zweideutig]], [[Zweikampf]], [[zweieinhalb]]

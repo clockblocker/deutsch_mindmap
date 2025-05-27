@@ -1,1 +1,1 @@
-, [[Opfer]], [[Polizist]], [[Tatzeit]], [[Tat]], [[Betroffene]], [[Hauptverursacher]]
+, [[Opfer]], [[Polizist]], [[Tatzeit]], [[Tat]], [[Betroffene]], [[Hauptverursacher]], [[tatenlos]]

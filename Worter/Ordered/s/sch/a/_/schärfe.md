@@ -1,1 +1,1 @@
-, [[scharfen]], [[scharf]]
+, [[scharfen]], [[scharf]], [[verschärfen]]

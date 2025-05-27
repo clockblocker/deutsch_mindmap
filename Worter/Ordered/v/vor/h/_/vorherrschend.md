@@ -1,1 +1,1 @@
-, [[vorherrschen]]
+, [[vorherrschen]], [[vorwiegend]]

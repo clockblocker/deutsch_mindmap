@@ -3,29 +3,34 @@
 die [[Kurse]] | die [[Kurse]]
 
 ---
+
 , [[Stressabbau]]
 
 ---
+
 = [[Lehrgang]], [[Seminar]] | [[Wechselkurs]], [[Preis]]
 ≈ [[Schulung]], [[Training]] | [[Wert]], [[Notierung]]
-≠ [[Worter/F/Freizeit]] | [[Verlust]]
+≠ [[Freizeit]] | [[Verlust]]
 
 ---
-course  | exchange rate  
+
+course | exchange rate  
 курс | курс
 
 ---
+
 [[Kursleiter]], [[Kursgebühr]], [[Kursangebot]] | [[Kursschwankung]], [[Kursgewinn]]
 
 ---
+
 [[Kurs]]
 
-
 ---
+
 N: der [[Kurs]], die [[Kurse]]
 A: den [[Kurs]], die [[Kurse]]
 G: des [[Kurses]], der [[Kurse]]
 D: dem [[Kurs]], den [[Kursen]]
 
-#Maskulin 
+#Maskulin
 , [[Sprachenzentrum]], [[Fortbildung]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Spotpreis]]

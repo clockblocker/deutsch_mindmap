@@ -1,27 +1,32 @@
-👥 [[Worter/A/Alle]], [ˈalə] | [[Artikelwörter]]
+👥 [[Alle]], [ˈalə] | [[Artikelwörter]]
 
 ---
-[[Artikelwörter.md#^3|^]] - [[Worter/A/Alle]] – *Er ist hier mit allen Leuten bekannt.* ^3
- 
+
+[[Artikelwörter.md#^3|^]] - [[Alle]] – _Er ist hier mit allen Leuten bekannt._ ^3
 
 ---
+
 = [[gesamt]], [[jeder]], [[sämtlich]]
 ≈ [[ganz]], [[total]], [[vollständig]]
 ≠ [[kein]], [[manche]], [[einige]]
 
 ---
+
 all, every
 все
 
 ---
-[[Worter/A/All]]|[[e]]
+
+[[All]]|[[e]]
 
 ---
-N: [[Worter/A/Alle]]
-A: [[Worter/A/Alle]]
+
+N: [[Alle]]
+A: [[Alle]]
 G: [[aller]]
 D: [[allen]]
 
 ---
+
 [[allemal]], [[allerlei]], [[allerdings]], [[allgegenwärtig]], [[alljährlich]]
 , [[teilweise]], [[einzeln]], [[jeglich]]

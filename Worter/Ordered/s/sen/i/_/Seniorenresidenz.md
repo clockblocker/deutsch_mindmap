@@ -1,1 +1,1 @@
-, [[Altersheim]]
+, [[Altersheim]], [[Pflegeheim]], [[Altenheim]]

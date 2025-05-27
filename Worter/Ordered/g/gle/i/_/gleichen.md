@@ -35,4 +35,4 @@ Morpheme: [[gleich]][[en]]
 | Sie       | [[gleichen]]         | [[glichen]]           | [[gleichen Sie]]  | [[gleichen]]           | [[glichen]]             |
 
 Partizip I: [[gleichend]], Partizip II: [[geglichen]]
-[[gleichen]] - [[gleich]] = [[en]], [[ungleich]], [[Gleichung]], [[dergleichen]]
+[[gleichen]] - [[gleich]] = [[en]], [[ungleich]], [[Gleichung]], [[dergleichen]], [[ausgleichen]]

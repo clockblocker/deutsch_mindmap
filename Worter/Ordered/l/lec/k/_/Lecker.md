@@ -3,6 +3,7 @@
 [[am]] [[leckersten]]
 
 ---
+
 Beispiele:
 
 - Das Essen ist [[Lecker]].
@@ -18,12 +19,13 @@ Beispiele:
 - Die [[leckersten]] Gerichte werden immer zum Schluss serviert.
 
 ---
+
 **Übersetzung**:
 tasty, delicious
 
 ---
 
-Tags: 
-#Adjective 
-, [[Worter/essbar]]
+Tags:
+#Adjective
+, [[essbar]]
 , [[geschmacklos]], [[Leckerbissen]]

@@ -27,4 +27,4 @@ D: dem [[Stapel]], den [[Stapeln]]
 ---
 [[stapeln]], [[Stapelplatz]], [[Stapelware]], [[stapelbar]]
 
-#Maskulin 
+#Maskulin , [[ausreichen]]

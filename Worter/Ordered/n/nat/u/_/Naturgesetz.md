@@ -1,1 +1,1 @@
-, [[natürlich]]
+, [[natürlich]], [[Naturwissenschaft]]

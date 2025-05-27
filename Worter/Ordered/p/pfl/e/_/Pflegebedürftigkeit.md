@@ -1,1 +1,1 @@
-, [[Pflegeversicherung]], [[Pflege]]
+, [[Pflegeversicherung]], [[Pflege]], [[Pflegeheim]], [[Pflegekraft]]

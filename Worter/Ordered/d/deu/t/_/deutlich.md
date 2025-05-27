@@ -7,6 +7,8 @@ nicht [[undeutlich]]
 ---
 Ich kann dich nicht verstehen, bitte sprich [[deutlich]].
 
+*[[C1-Hoehen-T3-301-Text#^56|^]]* Nicht nur im Transport- oder im [[Gesundheitswesen]] zeigt sich bereits ein [[deutlich]]er Mangel an [[Fachkräften]];
+
 *[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 
@@ -43,4 +45,4 @@ N: [[deutliches]], [[deutlicheres]], [[deutlichstes]]
 P: [[deutlichen]], [[deutlicheren]], [[deutlichsten]]  
 
 ---
-[[Deutlichkeit]], [[verdeutlichen]], [[Bedeutung]], [[deuten]], [[undeutlich]], [[geheimnisvolle]], [[Texte/Misc/Anki]], [[laut]], [[leise]], [[bemerkbar]], [[ausdrücklich]], [[hindeuten]], [[eklatant]], [[weitaus]], [[greifbar]], [[sichtbar]], [[ersichtlich]], [[ausgeprägt]], [[einleuchtend]], [[nachvollziehbar]]
+[[Deutlichkeit]], [[verdeutlichen]], [[Bedeutung]], [[deuten]], [[undeutlich]], [[geheimnisvolle]], [[Texte/Misc/Anki]], [[laut]], [[leise]], [[bemerkbar]], [[ausdrücklich]], [[hindeuten]], [[eklatant]], [[weitaus]], [[greifbar]], [[sichtbar]], [[ersichtlich]], [[ausgeprägt]], [[einleuchtend]], [[nachvollziehbar]], [[explizit]]

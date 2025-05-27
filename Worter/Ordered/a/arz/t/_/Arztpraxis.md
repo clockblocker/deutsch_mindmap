@@ -1,1 +1,1 @@
-, [[Gesundheitsamt]], [[Praxis]]
+, [[Gesundheitsamt]], [[Praxis]], [[Krankenhaus]]

@@ -1,1 +1,1 @@
-, [[Benachrichtigung]], [[Wahlbenachrichtigung]], [[verständigen]], [[warnen]]
+, [[Benachrichtigung]], [[Wahlbenachrichtigung]], [[verständigen]], [[warnen]], [[alarmieren]]

@@ -2,26 +2,31 @@
 die [[Leitpunkte]]
 
 ---
+
 #### [[Berücksichtigung]] der [[Leitpunkte]]
 
 ---
+
 = [[Schlüsselpunkt]], [[Kernpunkt]], [[Hauptpunkt]]
-≈ [[Worter/T/thema]], [[Aspekt]], [[Punkt]]
+≈ thema]], [[Aspekt]], [[Punkt]]
 ≠ [[Nebensache]], [[Irrelevanz]]
 
 ---
+
 key point, guiding point  
 ключевой момент, руководящий пункт
 
 ---
+
 [[leiten]], [[Punkt]], [[Leitlinie]], [[Leitfaden]]
 
 ---
+
 [[Leit]]|[[punkt]]
 [[Leitpunkt]]
 
-
 ---
+
 N: der [[Leitpunkt]], die [[Leitpunkte]]
 A: den [[Leitpunkt]], die [[Leitpunkte]]
 G: des [[Leitpunkts]], der [[Leitpunkte]]

@@ -1,1 +1,1 @@
-, [[Flüchtling]]
+, [[Flüchtling]], [[Zuwanderer]]

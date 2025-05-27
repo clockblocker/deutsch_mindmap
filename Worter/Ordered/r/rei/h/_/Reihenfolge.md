@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Reihenfolge]], [[Reihenfolgen]]
 
 ---
-#Substantiv #Feminin, [[Zeile]], [[thematisieren]]
+#Substantiv #Feminin, [[Zeile]], [[thematisieren]], [[reihenweise]]

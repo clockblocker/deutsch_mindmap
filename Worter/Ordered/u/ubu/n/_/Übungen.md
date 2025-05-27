@@ -1,1 +1,1 @@
-die [[Worter/Ü/Übung]]
+die [[Ü/Übung]]

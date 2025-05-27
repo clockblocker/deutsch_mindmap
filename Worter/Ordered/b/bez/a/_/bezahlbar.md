@@ -1,1 +1,1 @@
-, [[erschwinglich]]
+, [[erschwinglich]], [[Bezahlung]]

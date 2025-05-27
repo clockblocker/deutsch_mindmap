@@ -2,32 +2,32 @@
 
 ---
 
-
 ---
+
 = [[Printer]], [[Druckgerät]]
-≈ [[Gerät]], [[Maschine]], [[Worter/T/Technik]]
+≈ [[Gerät]], [[Maschine]], Technik]]
 ≠ [[Handschrift]]
 
 ---
+
 printer  
 принтер
 
 ---
+
 [[drucken]], [[Druckerpapier]], [[Druckertinte]]
 
 ---
+
 [[Drucker]]
 
-
 ---
+
 N: der [[Drucker]], die [[Drucker]]
 A: den [[Drucker]], die [[Drucker]]
 G: des [[Druckers]], der [[Drucker]]
 D: dem [[Drucker]], den [[Druckern]]
 
-#Maskulin 
-
-
-
+#Maskulin
 
 , [[Papierstau]]

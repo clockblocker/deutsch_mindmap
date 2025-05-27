@@ -44,4 +44,4 @@ sie, [[verankern]], [[verankerten]], [[verankern]], [[verankerten]], [[verankern
 Adjektive: [[verankernd]], [[verankernder]], [[verankerndst]]
 
 ---
-[[verankernder]], [[verankerndes]], [[verankernde]], [[verankernden]], [[verankerndem]], [[verankernderer]], [[verankernderes]], [[verankerndere]], [[verankernderen]], [[verankernderem]], [[verankerndster]], [[verankerndstes]], [[verankerndste]], [[verankerndsten]], [[verankerndstem]]
+[[verankernder]], [[verankerndes]], [[verankernde]], [[verankernden]], [[verankerndem]], [[verankernderer]], [[verankernderes]], [[verankerndere]], [[verankernderen]], [[verankernderem]], [[verankerndster]], [[verankerndstes]], [[verankerndste]], [[verankerndsten]], [[verankerndstem]], [[festigen]]

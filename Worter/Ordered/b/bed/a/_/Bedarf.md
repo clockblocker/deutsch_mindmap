@@ -4,6 +4,10 @@
 ###### 12 [[Weshalb]] ist die [[Nachfrage]] nach neuen [[Hölzern]] so [[hoch]]?
 a) Das [[Angebot]] an Holz kann den [[Bedarf]] nicht [[decken]].  
 
+
+*[[C1-Hoehen-T3-301-Text#^29|^]]* Man hört ja immer wieder von Politikern, 
+man `könne` den [[Bedarf]] `durch` [[gezielt]]e [[Zuwanderung]] [[decken]]
+
 13 Kleingärtner:innen kultivieren Obst und Gemüse ausschließlich für den [[eigene]]n [[Bedarf]]
 
 ---
@@ -32,4 +36,4 @@ G: des [[Bedarfs]], der [[Bedürfnisse]]
 D: dem [[Bedarf]], den [[Bedürfnissen]]
 
 
-#Maskulin , [[Renovierungsbedarf]], [[Bedarfsraum]], [[Forschungsbedarf]]
+#Maskulin , [[Renovierungsbedarf]], [[Bedarfsraum]], [[Forschungsbedarf]], [[Handlungsbedarf]]

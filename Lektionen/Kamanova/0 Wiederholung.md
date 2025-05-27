@@ -1,67 +1,81 @@
-**[[Worter/W/Wiederholung]] ist die Mutter des Lernens**
+**[[Wiederholung]] ist die Mutter des Lernens**
 
 - [[fröhlich]] - веселый, радостный
 - [[scheu]] - робкий
 - [[Speise]], [[Speisen]] - блюдо, кушанье
+
 1. Das Mädchen ist so [[enttäuscht]] wie ein Kind.
 
-
-Всё могло получиться, но не получилось.  [[12 Past#^9|(Quelle: 12 Past)]] 
-Нужно было послать вам ваши вещи, а он положил их в чемодан.  [[12 Past#^10|(Quelle: 12 Past)]] 
-я благодарен за [[12 Past#^11|(Quelle: 12 Past)]] 
-он боялся своей жены; [[12 Past#^12|(Quelle: 12 Past)]] 
-
+Всё могло получиться, но не получилось. [[12 Past#^9|(Quelle: 12 Past)]]
+Нужно было послать вам ваши вещи, а он положил их в чемодан. [[12 Past#^10|(Quelle: 12 Past)]]
+я благодарен за [[12 Past#^11|(Quelle: 12 Past)]]
+он боялся своей жены; [[12 Past#^12|(Quelle: 12 Past)]]
 
 ###### fröhlich
+
 traurig
+
 ###### richtig
+
 falsch
+
 ###### enttäuscht
+
 hoffnungsvoll
+
 ###### laut
+
 leise§
+
 ###### neu
+
 bekannt
+
 ###### gewöhnlich
+
 besonders
+
 ###### gesund
+
 krank
+
 ###### teuer
+
 billig
+
 ###### без труда
+
 ohne Müche
+
 ###### никогда в жизни
+
 niemals in seinem Leben
 
 ######
 
-
-
-
-15.30* Заполните пропуски следующими предлогами:
+15.30\* Заполните пропуски следующими предлогами:
 
 an, auf, aus, in, nach, ohne, statt,
 trotz, um, von, vor, wegen, zu.
 
-2. Als wir zu unserem Nachbarn gekommen sind, klingelten wir ______ seiner Tür.
-3. ______ dem Tod seiner Mutter blieb der Junge ganz allein.
-4. ______ des Berichtes des Experten, konnten die Polizisten den Dieb nicht verhaften.
-5. ______ der Zeitbombe war die Explosion ______ dem Bahnhof schrecklich.
-6. Das Gegenteil ______ Leben ist Tod.
-7. Sie baten mich ______ die Adresse meines Chefs.
-8. Der Junge sagte, dass er es nicht weiß, ob das Fenster ______ oder ______ war.
-9. ______ kurzem sind sie ______ Ausland gefahren. ______ Ausland werden sie viel reisen.
-10. Wir haben die ganze Wohnung ______ der Party aufgeräumt.
-11. Er soll noch einen Artikel ______ dem Deutschen ______ Russische übersetzen.
-12. Der Journalist hat diesen Artikel ______ Internet gefunden.
-13. Das Mädchen hat ______ alle Fragen der Polizisten ______ Angst geantwortet.
-14. Sie ist ______ uns ______ ersten Mal ______ ihrem neuen Bekannten gekommen.
-15. ______ dem Weg ______ Büro hat er ______ die Straßenbahn ______ der Haltestelle lange gewartet.
-16. ______ seines Namens sagte der Junge dem Polizisten den Namen seines Nachbarn.
-17. Sie sollen dieses Buch unbedigt ______ Deutsch lesen.
-18. Gestern hat er einen Brief ______ seinem Bekannten ______ dem Ausland bekommen.
-19. Am Wochenende wollte sie ______ keinen Fall ______ Land fahren.
-
+2. Als wir zu unserem Nachbarn gekommen sind, klingelten wir **\_\_** seiner Tür.
+3. **\_\_** dem Tod seiner Mutter blieb der Junge ganz allein.
+4. **\_\_** des Berichtes des Experten, konnten die Polizisten den Dieb nicht verhaften.
+5. **\_\_** der Zeitbombe war die Explosion **\_\_** dem Bahnhof schrecklich.
+6. Das Gegenteil **\_\_** Leben ist Tod.
+7. Sie baten mich **\_\_** die Adresse meines Chefs.
+8. Der Junge sagte, dass er es nicht weiß, ob das Fenster **\_\_** oder **\_\_** war.
+9. **\_\_** kurzem sind sie **\_\_** Ausland gefahren. **\_\_** Ausland werden sie viel reisen.
+10. Wir haben die ganze Wohnung **\_\_** der Party aufgeräumt.
+11. Er soll noch einen Artikel **\_\_** dem Deutschen **\_\_** Russische übersetzen.
+12. Der Journalist hat diesen Artikel **\_\_** Internet gefunden.
+13. Das Mädchen hat **\_\_** alle Fragen der Polizisten **\_\_** Angst geantwortet.
+14. Sie ist **\_\_** uns **\_\_** ersten Mal **\_\_** ihrem neuen Bekannten gekommen.
+15. **\_\_** dem Weg **\_\_** Büro hat er **\_\_** die Straßenbahn **\_\_** der Haltestelle lange gewartet.
+16. **\_\_** seines Namens sagte der Junge dem Polizisten den Namen seines Nachbarn.
+17. Sie sollen dieses Buch unbedigt **\_\_** Deutsch lesen.
+18. Gestern hat er einen Brief **\_\_** seinem Bekannten **\_\_** dem Ausland bekommen.
+19. Am Wochenende wollte sie **\_\_** keinen Fall **\_\_** Land fahren.
 
 15.31 Переведите предложения. Употребите следующие наречия:
 
@@ -84,4 +98,3 @@ ahrscheinlich, wirklich, zuerst, leider.
 31. Сначала у сотрудника этого музея было алиби, но полицейские не поверили ему.
 32. Возможно, ваша записка упала на пол. Мы везде ее искали, но, к сожалению, не нашли.
 33. Я не имею представления, почему вкус моей подруги полностью изменился.
-

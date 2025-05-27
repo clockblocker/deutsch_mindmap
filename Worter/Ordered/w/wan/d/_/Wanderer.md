@@ -1,1 +1,1 @@
-, [[Passant]], [[Wanderung]], [[einwandern]], [[wandern]], [[Zugvogel]], [[Naturpilger]], [[Fußwanderung]]
+, [[Passant]], [[Wanderung]], [[einwandern]], [[wandern]], [[Zugvogel]], [[Naturpilger]], [[Fußwanderung]], [[Abwanderung]], [[abwandern]]

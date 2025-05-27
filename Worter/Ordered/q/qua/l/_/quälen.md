@@ -30,4 +30,4 @@ Zu+infinitive: [[zu quälen]]
 ---
 [[Quälerei]], [[Quäler]], [[Quälgeist]], [[Selbstquälerei]], [[Folter]], [[Qual]]
 [[drücken]], [[wehtun]], [[mühen]]
-, [[antun]], [[plagen]], [[belästigen]], [[beklemmen]]
+, [[antun]], [[plagen]], [[belästigen]], [[beklemmen]], [[beunruhigen]]

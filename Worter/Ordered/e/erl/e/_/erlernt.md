@@ -1,1 +1,1 @@
-, [[angeboren]]
+, [[angeboren]], [[erlernen]]

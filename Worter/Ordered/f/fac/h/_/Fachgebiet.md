@@ -1,1 +1,1 @@
-, [[Forschungsgebiet]], [[Wissenschaftszweig]]
+, [[Forschungsgebiet]], [[Wissenschaftszweig]], [[Fachkraft]]

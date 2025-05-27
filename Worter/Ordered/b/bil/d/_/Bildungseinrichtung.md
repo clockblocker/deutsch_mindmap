@@ -34,4 +34,4 @@ D: der [[Bildungseinrichtung]], den [[Bildungseinrichtungen]]
 
 #Feminin 
 
-, [[Schulform]]
+, [[Schulform]], [[Fachhochschule]]

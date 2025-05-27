@@ -1,1 +1,1 @@
-, [[Ausbildung]], [[Gesellenprüfung]], [[lehren]], [[Schulung]], [[Lehrerberuf]], [[Lehrinhalt]], [[Theorie]], [[BWL]]
+, [[Ausbildung]], [[Gesellenprüfung]], [[lehren]], [[Schulung]], [[Lehrerberuf]], [[Lehrinhalt]], [[Theorie]], [[BWL]], [[erlernen]], [[Ausbildungsberuf]], [[Ausbildungsstelle]], [[Berufsausbildung]], [[Ausbildungsstätte]]

@@ -46,4 +46,4 @@ sie, [[wandern ein]], [[wanderten ein]], [[wandern ein]], [[wanderten ein]], [[w
 Adjektive: [[einwandernd]], [[einwandernder]], [[einwanderndst]]
 
 ---
-[[einwandernder]], [[einwanderndes]], [[einwandernde]], [[einwandernden]], [[einwanderndem]], [[einwandernderer]], [[einwandernderes]], [[einwanderndere]], [[einwandernderen]], [[einwandernderem]], [[einwanderndster]], [[einwanderndstes]], [[einwanderndste]], [[einwanderndsten]], [[einwanderndstem]]
+[[einwandernder]], [[einwanderndes]], [[einwandernde]], [[einwandernden]], [[einwanderndem]], [[einwandernderer]], [[einwandernderes]], [[einwanderndere]], [[einwandernderen]], [[einwandernderem]], [[einwanderndster]], [[einwanderndstes]], [[einwanderndste]], [[einwanderndsten]], [[einwanderndstem]], [[abwandern]]

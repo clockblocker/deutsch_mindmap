@@ -76,4 +76,4 @@ sie, [[erfahren]], [[erfuhren]], [[erfahren]], [[erfuhren]], [[erfahren]]
 – Weil er nicht zugehört hat.
 
 
-f, [[fühlen]], [[erleiden]], [[ablesen]]
+f, [[fühlen]], [[erleiden]], [[ablesen]], [[qualifiziert]]

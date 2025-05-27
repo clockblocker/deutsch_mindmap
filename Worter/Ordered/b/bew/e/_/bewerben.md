@@ -3,6 +3,10 @@
 ---
 Mama! Ich [[bewerbe]] mich [[für]] einen Reporter-Job bei  Kanal 9
 
+*[[C1-Hoehen-T3-301-Text#^43|^]]* [[Gezielte]] [[Zuwanderung]] für die duale [[Berufsausbildung]] sollte [[ebenso]] 
+[[beworben]] und [[gefördert]] werden wie der Studienstandort Deutschland
+*([[advertised]] and [[promoted]])*
+
 „[[Bewirb]] [[dich]] [[um]] einen Studienplatz in Kanada!“, rät ihr Bruder. 
 
 277. Eine Frau, die ein zweijähriges Kind hat, [[bewirbt]] sich in Deutschland um eine [[Stelle]]. Was ist ein Beispiel für [[Diskriminierung]]? Sie bekommt die Stelle nur deshalb nicht, weil sie … (95%)

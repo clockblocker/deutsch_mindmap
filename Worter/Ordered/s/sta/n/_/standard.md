@@ -1,1 +1,1 @@
-, [[besonders]], [[seltsam]], [[Allgemeine]], [[Ausnahme]], [[Niveau]]
+, [[besonders]], [[seltsam]], [[Allgemeine]], [[Ausnahme]], [[Niveau]], [[Qualitätsstandard]]

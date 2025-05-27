@@ -33,4 +33,4 @@ D: der [[Bevölkerung]], den [[Bevölkerungen]]
 ---
 [[bevölkern]], [[Bevölkerungsdichte]], [[Bevölkerungsgruppe]], [[Bevölkerungswachstum]][[Menschen]]
 
-#Feminin , [[Gesamtgesellschaft]], [[Bevölkerungsstruktur]], [[Durchschnittsdeutsche]], [[Wählerschaft]], [[Allgemeinheit]], [[Bürgertum]]
+#Feminin , [[Gesamtgesellschaft]], [[Bevölkerungsstruktur]], [[Durchschnittsdeutsche]], [[Wählerschaft]], [[Allgemeinheit]], [[Bürgertum]], [[demografisch]]

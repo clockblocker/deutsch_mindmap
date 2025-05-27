@@ -1,1 +1,1 @@
-, [[geschickt]]
+, [[geschickt]], [[qualifiziert]]

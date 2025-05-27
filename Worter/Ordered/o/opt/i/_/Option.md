@@ -1,2 +1,2 @@
 , [[Möglichkeit]], [[Wahl]]
-, [[Gelegenheit]], [[Vorschlag]], [[Lösungsvorschlag]]
+, [[Gelegenheit]], [[Vorschlag]], [[Lösungsvorschlag]], [[Wahlmöglichkeit]]

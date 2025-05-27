@@ -1,1 +1,1 @@
-[[Beruf]], [[berufsbezogen]], [[Berufsinformationszentrum]], [[Berufswahl]]
+[[Beruf]], [[berufsbezogen]], [[Berufsinformationszentrum]], [[Berufswahl]], [[Berufsaspirant]]

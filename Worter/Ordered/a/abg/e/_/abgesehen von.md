@@ -1,2 +1,0 @@
-, [[außer]], [[wobei]]
-, [[abzüglich]], [[absehen]]

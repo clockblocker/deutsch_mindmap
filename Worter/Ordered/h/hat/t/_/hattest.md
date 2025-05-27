@@ -1,1 +1,1 @@
-, [[Worter/H/haben]], [[11 08]], [[daran]]
+, [[haben]], [[11 08]], [[daran]]

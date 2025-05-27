@@ -10,4 +10,4 @@ Ich muss mal ins [[Bad]].
 #Neuter
 
 
-, [[Schwimmbad]], [[Wohnzimmer]]
+, [[Schwimmbad]], [[Wohnzimmer]], [[Sanitärbereich]]

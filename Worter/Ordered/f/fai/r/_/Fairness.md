@@ -1,1 +1,1 @@
-, [[Bestechung]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichbehandlung]], [[Gerechtigkeit]], [[Aufgabengerechtigkeit]], [[Sozialdumping]], [[Machtmissbrauch]]
+, [[Bestechung]], [[Gleichbehandlung]], [[Gleichheit]], [[Ungleichbehandlung]], [[Gerechtigkeit]], [[Aufgabengerechtigkeit]], [[Sozialdumping]], [[Machtmissbrauch]], [[fair]]

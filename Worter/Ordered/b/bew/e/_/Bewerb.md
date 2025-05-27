@@ -27,3 +27,5 @@ D: dem [[Bewerb]], den [[Bewerben]]
 
 ---
 [[bewerben]], [[Bewerber]], [[Bewerbung]], [[werbend]], [[beabsichtigen]], [[Mitbewerber]]
+
+#Maskulin 

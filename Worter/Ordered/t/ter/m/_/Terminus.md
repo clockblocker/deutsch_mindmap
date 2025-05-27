@@ -1,1 +1,1 @@
-, [[Worter/W/Wort]], [[Begriff]], [[Bezeichnung]]
+, [[Wort]], [[Begriff]], [[Bezeichnung]]

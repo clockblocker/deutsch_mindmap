@@ -1,7 +1,14 @@
 👌 [[ausreichen]], [ˈaʊ̯sˌʁaɪ̯çən] | [[reichte aus]], haben [[ausgereicht]]
 
 ---
-Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern.
+Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern
+
+*[[C1-Hoehen-T3-301-Text#^31|^]]* Ein [[Allheilmittel]] kann es nicht sein und es wird sicher nicht [[ausreichen]]
+
+*[[C1-Hoehen-T3-301-Text#^23|^]]* Das ist schon richtig, aber 
+es [[ausreicht|reicht]] bei [[Weitem]] nicht aus, 
+*(it is by no means [[enough]])*
+den [[demografisch]]en [[Wandel]] in unserer schnell [[alternden]] [[Gesellschaft]] zu [[kompensieren]]
 
 *[[C1-Hoehen-T2-200-Text#^34|^]]* Aber ein längliches Gesicht allein oder eine bestimmte Nasenform [[ausreichen|reichen]] nicht aus, um jemanden als intelligent oder weniger intelligent [[einzuschätzen]]
 

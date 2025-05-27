@@ -20,4 +20,4 @@ Morphems:
 
 ---
 #Substantiv #Feminin, [[Versandadresse]]
-, [[Richtungsangabe]]
+, [[Richtungsangabe]], [[Bestimmungsort]]

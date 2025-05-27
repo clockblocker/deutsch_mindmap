@@ -28,4 +28,4 @@ anlassen, veranlassen, Anlassfall, Anlassgeber, [[1 Präpositionen Übungen]]
 , [[Gelegenheit]], [[Hauptgrund]], [[Auswirkung]]
 
 
-#Maskulin 
+#Maskulin , [[veranlassen]]

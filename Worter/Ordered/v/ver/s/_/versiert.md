@@ -1,1 +1,1 @@
-, [[erfahrenen]], [[Version]], [[geschickt]]
+, [[erfahrenen]], [[Version]], [[geschickt]], [[qualifiziert]]

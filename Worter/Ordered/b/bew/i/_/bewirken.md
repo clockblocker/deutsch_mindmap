@@ -54,4 +54,4 @@ sie, [[bewirken]], [[bewirkten]], [[bewirken]], [[bewirkten]], [[bewirken]]
 Adjektive: [[bewirkend]], [[bewirkender]], [[bewirkendst]]
 
 ---
-[[bewirkender]], [[bewirkendes]], [[bewirkende]], [[bewirkenden]], [[bewirkendem]], [[bewirkenderer]], [[bewirkenderes]], [[bewirkendere]], [[bewirkenderen]], [[bewirkenderem]], [[bewirkendster]], [[bewirkendstes]], [[bewirkendste]], [[bewirkendsten]], [[bewirkendstem]]
+[[bewirkender]], [[bewirkendes]], [[bewirkende]], [[bewirkenden]], [[bewirkendem]], [[bewirkenderer]], [[bewirkenderes]], [[bewirkendere]], [[bewirkenderen]], [[bewirkenderem]], [[bewirkendster]], [[bewirkendstes]], [[bewirkendste]], [[bewirkendsten]], [[bewirkendstem]], [[veranlassen]]

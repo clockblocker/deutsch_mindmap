@@ -1,1 +1,1 @@
-, [[einwandern]]
+, [[einwandern]], [[abwandern]]

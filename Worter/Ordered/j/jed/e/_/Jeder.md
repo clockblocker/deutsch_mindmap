@@ -1,25 +1,30 @@
 👥 [[jeder]], [ˈjeːdɐ]
 
 ---
+
 Schokolade so seidig, da schmilzt das Herz [[Jeder]] schönen Frau
 
-*99 [[Düsenflieger]]*  
-*[[Jeder]] war ein großer Krieger*  
-
+_99 [[Düsenflieger]]_  
+_[[Jeder]] war ein großer Krieger_
 
 ---
-Synonyme: [[Worter/A/Alle]], [[sämtliche]], [[beliebig]]
+
+Synonyme: [[Alle]], [[sämtliche]], [[beliebig]]
 Antonyme: [[keiner]], [[niemand]]
 
 ---
+
 **Übersetzung**:
 each, every, everyone
 
 ---
+
 #Pronomen
 
 ---
+
 Mögliche Formen:
+
 - Maskulin: [[jeder]], [[jeden]], [[jedem]]
 - Feminin: [[jede]], [[jeder]], [[jeder]]
 - Neutrum: [[jedes]], [[jedem]], [[jedes]]
@@ -29,4 +34,4 @@ Mögliche Formen:
 
 , [[sämtlich]], [[Je]], [[jeweils]]
 , [[Artikelwörter]]
-, [[Worter/A/Alle]], [[jeglich]]
+, [[Alle]], [[jeglich]]

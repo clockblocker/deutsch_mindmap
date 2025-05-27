@@ -1,1 +1,1 @@
-, [[allmählich]]
+, [[allmählich]], [[reihenweise]]

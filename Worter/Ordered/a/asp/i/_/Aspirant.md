@@ -1,1 +1,1 @@
-, [[Anwärter]]
+, [[Anwärter]], [[Berufsaspirant]]

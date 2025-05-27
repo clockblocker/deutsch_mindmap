@@ -40,4 +40,4 @@ Zu+infinifive: [[zu erwidern]]
 
 
 , [[fragen]], [[Antworten]]
-, [[kontern]]
+, [[kontern]], [[einwenden]]

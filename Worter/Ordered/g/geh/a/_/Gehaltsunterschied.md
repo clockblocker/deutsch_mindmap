@@ -1,1 +1,1 @@
-, [[Einkommensverhältnis]]
+, [[Einkommensverhältnis]], [[Lohngefälle]]

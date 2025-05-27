@@ -31,3 +31,4 @@ G: des [[Bewerbers]], der [[Bewerber]]
 D: dem [[Bewerber]], den [[Bewerbern]]
 
 #Maskulin 
+, [[Berufsaspirant]]

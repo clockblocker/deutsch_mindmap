@@ -1,1 +1,1 @@
-, [[Worter/S/sprechen]]
+, [[sprechen]]

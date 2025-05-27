@@ -27,4 +27,4 @@ A: den [[Erwerb]], die [[Erwerbe]]
 G: des [[Erwerbs]], der [[Erwerbe]]
 D: dem [[Erwerb]], den [[Erwerben]]
 
-#Maskulin, [[Verdienst]], [[Konsum]], [[erschwinglich]], [[Kaufentscheidung]], [[Privatkauf]]
+#Maskulin, [[Verdienst]], [[Konsum]], [[erschwinglich]], [[Kaufentscheidung]], [[Privatkauf]], [[Spracherwerb]]

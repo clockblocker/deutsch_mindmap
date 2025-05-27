@@ -1,2 +1,2 @@
 N: [[speziell]],
-, [[lang]], [[niedrig]]
+, [[lang]], [[niedrig]], [[weit]]

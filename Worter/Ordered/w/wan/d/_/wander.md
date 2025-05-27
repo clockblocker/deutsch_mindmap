@@ -1,1 +1,1 @@
-, [[Einwanderer]], [[einwandern]], [[wandern]], [[Küstenwanderweg]], [[Fußwanderung]]
+, [[Einwanderer]], [[einwandern]], [[wandern]], [[Küstenwanderweg]], [[Fußwanderung]], [[Zuwanderung]], [[Zuwanderer]], [[Abwanderung]], [[abwandern]]

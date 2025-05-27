@@ -1,1 +1,1 @@
-[[bewerben]] - [[be]] = [[werben]] / to apply, to seek (a position), [[bestechen]], [[anwerben]], [[erwerben]], [[Werbeobjekt]], [[Werbevertrag]], [[plädieren]], [[Werbeindustrie]]
+[[bewerben]] - [[be]] = [[werben]] / to apply, to seek (a position), [[bestechen]], [[anwerben]], [[erwerben]], [[Werbeobjekt]], [[Werbevertrag]], [[plädieren]], [[Werbeindustrie]], [[Anwerbung]], [[abwerben]]

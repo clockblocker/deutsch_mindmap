@@ -1,5 +1,5 @@
 Ich reise viel, ich reise gern  
-[[Fern und nah ]]und nah und fern  
+[[Fern und nah]]und nah und fern  
 Ich bin zu Hause [[überall]]  
 Meine Sprache: International
 
@@ -38,7 +38,7 @@ That one languages learn must
 [[ander|Andere]] [[Land|Länder]], [[ander|andere]] [[Zunge|Zungen]]
 So hab ich mich [[schon]] [[früh]] [[zwingen|gezwungen]]
 Dem [[Missverständnis]] zum [[Verdruß|Verdruss]]
-Dass man [[Worter/S/Sprache|Sprachen]] [[lernen]] [[müssen|muss]]
+Dass man [[Sprache|Sprachen]] [[lernen]] [[müssen|muss]]
 
 Und wenn die Sonne untergeht  
 Und man vor Ausländerinnen steht  

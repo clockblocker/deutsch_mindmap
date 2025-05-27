@@ -54,4 +54,4 @@ Adjektive: [[auslösend]], [[auslösender]], [[auslösendst]]
 ---
 [[auslösender]], [[auslösendes]], [[auslösende]], [[auslösenden]], [[auslösendem]], [[auslösenderer]], [[auslösenderes]], [[auslösendere]], [[auslösenderen]], [[auslösenderem]], [[auslösendster]], [[auslösendstes]], [[auslösendste]], [[auslösendsten]], [[auslösendstem]]
 
-, [[beruhen]], [[bedingen]], [[freisetzen]]
+, [[beruhen]], [[bedingen]], [[freisetzen]], [[veranlassen]]

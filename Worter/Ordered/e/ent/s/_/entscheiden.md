@@ -3,52 +3,63 @@
 haben [[entschieden]]
 
 ---
-Er kann sich nicht [[entschieden]], was er essen möchte 
 
-damit ist der Kampf [[entschieden]] 
+Er kann sich nicht [[entschieden]], was er essen möchte
 
-*[[3  Ein Selbstversuch als Hobbybäuerin#^27|^]]* So gesehen bin ich [[zumindest]] eine [[Ackerheldin]], die den Kampf für sich [[entscheiden]] konnte. ^27
+damit ist der Kampf [[entschieden]]
 
-*[[3  Ein Selbstversuch als Hobbybäuerin#^8|^]]* Ich muss mich bis Ende Oktober [[entscheiden]], ob ich mein Stück Gartenland auch im nächsten Jahr wieder bestellen will. ^8
+_[[3  Ein Selbstversuch als Hobbybäuerin#^27|^]]_ So gesehen bin ich [[zumindest]] eine [[Ackerheldin]], die den Kampf für sich [[entscheiden]] konnte. ^27
 
-3.	[[2 Unter Druck nach oben#^24|^]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine [[entscheidende]] Rolle. ^24
+_[[3  Ein Selbstversuch als Hobbybäuerin#^8|^]]_ Ich muss mich bis Ende Oktober [[entscheiden]], ob ich mein Stück Gartenland auch im nächsten Jahr wieder bestellen will. ^8
 
-Der Staat [[entscheidet]] [[Worter/Ü/über]] [[Gesetze]] und [[Steuern]].
+3. [[2 Unter Druck nach oben#^24|^]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine [[entscheidende]] Rolle. ^24
 
-Ich habe mich [[für]] dieses Arbeitsangebot [[entschieden]].  
+Der Staat [[entscheidet]] [[Ü/über]] [[Gesetze]] und [[Steuern]].
 
-[[Wofür]] hast du dich [[letztendlich]] [[entschieden]]?  
+Ich habe mich [[für]] dieses Arbeitsangebot [[entschieden]].
+
+[[Wofür]] hast du dich [[letztendlich]] [[entschieden]]?
 
 Wir haben uns [[dafür]] [[entschieden]], uns zu trennen.
 
 119. Wahlen in Deutschland sind frei. Was bedeutet das? (86%)
-	- [x] Jede Person kann ohne Zwang [[entscheiden]], ob sie wählen möchte und wen sie wählen möchte.
+
+
+    - [x] Jede Person kann ohne Zwang [[entscheiden]], ob sie wählen möchte und wen sie wählen möchte.
 
 242. Wer [[entscheidet]], ob ein Kind in Deutschland in den Kindergarten geht? (98%)
-	- [x] die Eltern / die [[Erziehungsberechtigten]]
+
+
+    - [x] die Eltern / die [[Erziehungsberechtigten]]
 
 292. Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das? (98%)
-	- [x] Jeder kann glauben, was er möchte.
-	- [ ] Der Staat [[entscheidet]], an welchen Gott die Menschen glauben.
+
+
+    - [x] Jeder kann glauben, was er möchte.
+    - [ ] Der Staat [[entscheidet]], an welchen Gott die Menschen glauben.
 
 2. In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes [[entscheiden]], ob es in der Schule am … (92%)
-	- [x] [[Religionsunterricht]] teilnimmt.
+   - [x] [[Religionsunterricht]] teilnimmt.
 
-Sie denken über jede Kleinigkeit lange nach, [[entscheiden]] sich oft um und beginnen wieder von vorn. 
+Sie denken über jede Kleinigkeit lange nach, [[entscheiden]] sich oft um und beginnen wieder von vorn.
 
 ---
+
 [[umentscheiden]] - [[um]] = [[entscheiden]] / change mind
 
 ---
+
 Synonyme: [[beschließen]], [[festlegen]], [[bestimmen]], [[urteilen]], [[wählen]]
 Antonyme: [[zögern]], [[unentschlossen sein]], [[aufhalten]]
 
 ---
+
 Übersetzung: to decide
 
 ---
+
 Morpheme: [[ent]][[scheid]][[en]]
- #Verb  #Untrennbar
+#Verb #Untrennbar
 
 | Person    | Präsens          | Präteritum      | Imperativ           | Konjunktiv I     | Konjunktiv II    |
 | --------- | ---------------- | --------------- | ------------------- | ---------------- | ---------------- |

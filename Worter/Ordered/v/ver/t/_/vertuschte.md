@@ -1,1 +1,1 @@
-, [[Worter/kennzeichnen]], [[vertuschen]]
+, [[kennzeichnen]], [[vertuschen]]

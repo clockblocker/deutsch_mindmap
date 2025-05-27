@@ -1,1 +1,1 @@
-🚪 [[Worter/E/einlassen]]
+🚪 [[einlassen]]

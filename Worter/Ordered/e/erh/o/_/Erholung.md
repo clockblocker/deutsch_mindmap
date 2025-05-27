@@ -1,35 +1,39 @@
 😌 🔴 die [[Erholung]], [ɛɐ̯ˈhoːlʊŋ](https://youglish.com/pronounce/Erholung/german)
 
 ---
+
 , [[Zugriff]]
 
 ---
+
 = [[Entspannung]], [[Regeneration]], [[Ruhe]]
-≈ [[Worter/F/Freizeit]], [[Urlaub]], [[Erholung]]
+≈ [[Freizeit]], [[Urlaub]], [[Erholung]]
 ≠ [[Anstrengung]], [[Stress]], [[Arbeit]]
 
-, [[Ruh]], [[ausgeruht]], 
+, [[Ruh]], [[ausgeruht]],
 , [[Anstrengung]]
 , [[erholen]], [[Urlaub]], [[Muskelkater]], [[Schrebergarten]], [[Spaziergang]], [[Stressabbau]], [[Burnout]], [[Kaffeepause]], [[Kaffeepause]], [[Stressreduktion]], [[Mittagspause]], [[Urlaubstag]]
 
-
 ---
+
 recovery, relaxation, recreation  
 отдых, восстановление
 
 ---
+
 [[erholen]], [[erholsam]], [[Erholungsurlaub]]
 
 ---
+
 [[er]]|[[hol]]|[[ung]]
 [[Erholung]]
 
-
 ---
+
 N: die [[Erholung]], die [[Erholungen]]
 A: die [[Erholung]], die [[Erholungen]]
 G: der [[Erholung]], der [[Erholungen]]
 D: der [[Erholung]], den [[Erholungen]]
 
-#Feminin 
+#Feminin
 , [[Bauarbeit]], [[Überlastung]], [[Trauma]], [[Heilung]]

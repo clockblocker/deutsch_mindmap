@@ -1,1 +1,1 @@
-, [[honorieren]]
+, [[honorieren]], [[Bezahlung]]

@@ -1,5 +1,5 @@
 die [[Zunge]] / die [[Zungen]] | #Substantiv #Feminin | tongue
-, [[Worter/S/Sprache]]
+, [[Sprache]]
 
 Andere Länder, andere [[Zungen]]  
 So hab ich mich schon früh gezwungen  

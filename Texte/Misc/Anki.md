@@ -1,8 +1,8 @@
-	[[Wegen]] des heißen Sommers ist das Wasser [[knapp]].
+    [[Wegen]] des heißen Sommers ist das Wasser [[knapp]].
 
 [[Ich]]
 
-Die [[Abschaffung]] der [[Abtreibung]]  
+Die [[Abschaffung]] der [[Abtreibung]]
 
 Wegen des heißen Sommers ist das Wasser [[knapp]].
 
@@ -195,7 +195,7 @@ Musik [[verbindet]] die Menschen.
 
 In einem Monat werden sie das Land [[verlassen]].
 
-Manchmal muss man schwierige [[Entscheidung]]en [[treffen]] 
+Manchmal muss man schwierige [[Entscheidung]]en [[treffen]]
 
 An der [[Grenze]] kontrolliert die Polizei die Autos.
 
@@ -217,19 +217,19 @@ Entschuldige, die [[Verbindung]] ist schlecht.
 
 Deine [[Entscheidung]] wird [[Folgen]] haben.
 
-Ich have tatsächlich den Job bekommen! 
+Ich have tatsächlich den Job bekommen!
 
 Sogar du kannst die Welt verbessern!
 
-Auf dem Bildschirm erscheint ein seltsames Symbol. 
+Auf dem Bildschirm erscheint ein seltsames Symbol.
 
-Der [[Anfang]] des Films war sehr traurig 
- 
+Der [[Anfang]] des Films war sehr traurig
+
 Bei einem Streit gibt es unterschiedliche Meinungen
 
 Babys [[erkennen]] seine Mutter [[an]] ihre Stimmen
 
-Ich spreche jedes Wort einzeln 
+Ich spreche jedes Wort einzeln
 
 Es ist ihre Traub, [[beziehungsweisse]] Wunsch, Polizisten zu werden
 
@@ -239,37 +239,37 @@ Alle Menschen sind verschieden
 
 Damals verdiene ich mehr Geld.
 
-Do bestimmt, welche Film wir uns ansehen. 
+Do bestimmt, welche Film wir uns ansehen.
 
-Die Karte vor den Zug gilt hur heute 
+Die Karte vor den Zug gilt hur heute
 
 Es ist zu früh zum Schlafen, ausserdem bin ich noch nicht müde.
 
 In welche [[Richtung]] müssen wir farren?
 
-Oben auf dem Dach sitz ein Vogel 
+Oben auf dem Dach sitz ein Vogel
 
 Die Frage hach der Zukunft dieser Welt betriff uns alle
 
-Die frage nach der Zukunft dieser Welt betrifft uns alle 
+Die frage nach der Zukunft dieser Welt betrifft uns alle
 
-Ärzte werden auch als Doktoren bezeichnet 
+Ärzte werden auch als Doktoren bezeichnet
 
-Die Untersuchung ergibt keinen Beweis für seinem Schuld 
+Die Untersuchung ergibt keinen Beweis für seinem Schuld
 
-Ich kann mich nicht entscheiden was ich essen möchte 
+Ich kann mich nicht entscheiden was ich essen möchte
 
 Er kann sich nicht entscheiden, was er essen möchte.
 
 Auf dem Bildschirm erscheint ein [[seltsames]] Symbol
 
-Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]]. 
+Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]].
 
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
-Er kann sich nicht [[entschieden]], was er essen möchte 
+Er kann sich nicht [[entschieden]], was er essen möchte
 
-Die [[Untersuchung]] [[Worter/ergeben]] keinen [[Beweis]] für seine [[Schuld]]
+Die [[Untersuchung]] [[ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
 Viele Länder [[gewähren]] die [[Aufnahme]] von [[Flüchtlingen]].
 

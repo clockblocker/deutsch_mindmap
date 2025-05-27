@@ -1,1 +1,1 @@
-, [[zurückholen]], [[Worter/W/Wiederholung]], [[entführen]]
+, [[zurückholen]], [[Wiederholung]], [[entführen]]

@@ -24,4 +24,4 @@ G: des [[Anfängers]], der [[Anfänger]]
 D: dem [[Anfänger]], den [[Anfängern]]  
 
 ---
-[[anfangen]], [[anfänglich]], [[anfänglich]], [[Anfängerkurs]], [[Muttersprachler]]
+[[anfangen]], [[anfänglich]], [[anfänglich]], [[Anfängerkurs]], [[Muttersprachler]], [[Fachkraft]]

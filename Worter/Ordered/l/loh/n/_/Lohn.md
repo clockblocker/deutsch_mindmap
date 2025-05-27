@@ -36,4 +36,4 @@ D: dem [[Lohn]], den [[Löhnen]]
 , [[Lohnsteuer]], [[Sozialabgaben]], [[Gehaltszahlungen]], [[unbezahlt]], [[Gehalt]]
 , [[Nominallohn]], [[Verdienst]], [[Belohnung]]
 
-#Feminin , [[lohnenswert]], [[Lohnniveau]], [[Niedriglohnkraft]], [[Arbeitslosengeld]], [[belohnen]]
+#Feminin , [[lohnenswert]], [[Lohnniveau]], [[Niedriglohnkraft]], [[Arbeitslosengeld]], [[belohnen]], [[Lohngefälle]]

@@ -29,4 +29,4 @@ D: der [[Ungleichheit]], den [[Ungleichheiten]]
 ---
 [[ungleich]], [[ungleichmäßig]], [[angleichen]], [[vergleichen]], [[Bildungschance]], [[Sozialdumping]]
 
-#Feminin 
+#Feminin , [[Lohngefälle]]

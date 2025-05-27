@@ -2,9 +2,10 @@
 die [[Platzwechsel]]
 
 ---
+
 nicht [[genau]]: [[zu]] = [[Platzwechsel]], [[bei]] = [[Location]]
 
-|     | [[Worter/P/Platzwechsel]] | Position |
+|     | [[Platzwechsel]] | Position |
 | --- | ---------------- | -------- |
 | \|  | Ich stelle       | stehen   |
 | --  | Ich leige        | liegen   |
@@ -12,23 +13,27 @@ nicht [[genau]]: [[zu]] = [[Platzwechsel]], [[bei]] = [[Location]]
 |     | Ich hänge        | hängen   |
 
 ---
+
 = [[Positionswechsel]], [[Standortwechsel]]
 ≈ [[Umzug]], [[Verlagerung]], [[Veränderung]]
 ≠ [[Verbleib]], [[Stillstand]]
 
 ---
+
 change of place, position change
 перемена места
 
 ---
+
 [[Platz]], [[wechseln]], [[Platzierung]], [[Wechsel]]
 
 ---
+
 [[Platz]]|[[Wechsel]]
 [[Platz]] + [[Wechsel]]
 
-
 ---
+
 N: der [[Platzwechsel]], die [[Platzwechsel]]
 A: den [[Platzwechsel]], die [[Platzwechsel]]
 G: des [[Platzwechsels]], der [[Platzwechsel]]

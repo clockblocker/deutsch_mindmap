@@ -2,19 +2,22 @@
 
 ---
 
-
 ---
+
 = [[zukünftige]], [[kommenden]]
 ≈ [[folgende]], [[näheren]]
 ≠ [[letzten]], [[vorherigen]]
 
 ---
+
 day after the next, following, future
 
 ---
-[[Worter/Ü/über]]|[[nächste]]
+
+[[Ü/über]]|[[nächste]]
 
 ---
+
 - [[nächste]], [[letzten]], [[jetzigen]], [[vorherigen]]
 - [[überübernächste]]
 - [[übernächsten]]

@@ -1,1 +1,1 @@
-, [[Logikaufgabe]], [[Bedeutungslosigkeit]]
+, [[Logikaufgabe]], [[Bedeutungslosigkeit]], [[Hauptproblem]]

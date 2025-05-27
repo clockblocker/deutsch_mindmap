@@ -1,5 +1,0 @@
-[[Raum]]
-
-#Plural 
-
-, [[räumen]]

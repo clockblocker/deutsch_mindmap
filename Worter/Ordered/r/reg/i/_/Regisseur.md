@@ -27,4 +27,4 @@ A: den [[Regisseur]], die [[Regisseure]]
 G: des [[Regisseurs]], der [[Regisseure]]
 D: dem [[Regisseur]], den [[Regisseuren]]
 
-#Maskulin , [[Regisseurin]]
+#Maskulin , [[Regisseurin]], [[Gladiatorenfilm]]

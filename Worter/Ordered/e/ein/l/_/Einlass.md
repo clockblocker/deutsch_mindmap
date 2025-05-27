@@ -1,1 +1,1 @@
-, [[hineinlassen]], [[Worter/E/einlassen]], [[einlassen]]
+, [[hineinlassen]], [[einlassen]], [[einlassen]]

@@ -2,21 +2,28 @@
 die [[Aussprachen]]
 
 ---
+
 [[IPA]]
 
 ---
+
 Synonyme:
+
 - [[Artikulation]], [[Phonetik]], [[Diktion]], [[Lautgebung]], [[Ausspruch]]
 
 ---
+
 Übersetzung: pronunciation
 
 ---
+
 Morpheme:
-[[aus]][[Worter/S/Sprache]]
+[[aus]][[Sprache]]
 
 ---
+
 Einzigartige mögliche Formen: [[Aussprache]], [[Aussprachen]]
 
 ---
+
 #Substantiv #Feminin, [[aussprechen]]

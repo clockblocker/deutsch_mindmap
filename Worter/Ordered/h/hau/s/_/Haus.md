@@ -30,4 +30,4 @@ D: dem [[Haus]], den [[Häusern]]
 , [[Schrebergarten]], [[Zeltsam]], [[Traufe]]
 
 
-#Neuter , [[Präpositionen Übung 1 mit Dativ (WO?)]], [[Hausverwalter]], [[Telefonzelle]], [[Hausverwaltung]]
+#Neuter , [[Präpositionen Übung 1 mit Dativ (WO?)]], [[Hausverwalter]], [[Telefonzelle]], [[Hausverwaltung]], [[Krankenhaus]]

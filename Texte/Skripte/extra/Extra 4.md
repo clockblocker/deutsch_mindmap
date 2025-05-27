@@ -21,7 +21,7 @@ ANNA: Das hier war das Problem!
 ANNA: [[möchte]] [[Jemand]] [[schwarze]], [[hartgekocht|hart gekochte]] Eier?  
 SASCHA: Nic? Sind das deine Eier?  
 NIC: Was?  
-SASCHA:[[ Ich hab’s gewusst]]. Was machst du nur? [[Spinnst]] du?  
+SASCHA:[[Ich hab’s gewusst]]. Was machst du nur? [[Spinnst]] du?  
 SAM: Oh hi – are my eggs ready? Meine Eier?  
 SASCHA: Sam! … Deine Eier?  
 NIC: Was machst du nur Sam? Spinnst du?  
@@ -30,7 +30,7 @@ SAM: Danke Sascha.
 NIC: Möchtest du lieber Käse?  
 SASCHA: Was machst du an meinem Computer?  
 NIC: [[Gar nichts]] … Tja, Ladies … [[eines Tages werdet ihr sagen]].  
-	Johnny Depp? Nein, danke!  
+ Johnny Depp? Nein, danke!  
 Aber Nic von [[nebenan]]!  
 Der coolste Stuntman der Welt!  
 ANNA: Was? Du – ein Stuntman?  
@@ -104,7 +104,7 @@ Ja hallo Stefaaaan! Ja, wie geht’s dir? Stefan?
 SASCHA: Heute Abend? Zum Abendessen? Ja gern Stefan. Ja fantastisch Stefan. Bis dann Stefan.  
 Das war Stefan.  
 A/N/S: Nein!  
-SASCHA: Er will mit mir essen gehen … und [[Worter/Ü/über]] meinen neuen Job sprechen! Jaaaa!  
+SASCHA: Er will mit mir essen gehen … und [[Ü/über]] meinen neuen Job sprechen! Jaaaa!  
 SAM: Ohhh! Wer ist Stefan?  
 ANNA: Er ist Saschas Chef.  
 SASCHA: Ja, er ist total reich. Und so intelligent! Und er will mit mir essen gehen!  
@@ -191,9 +191,7 @@ STEFAN: [[Keine Ursache]]. [[Es ist mir eine Ehre]].
 ANNA: Das hier ist Nic.  
 NIC: Hi.  
 SASCHA: Und das hier ist Sam … aus Amerika.  
-STEFAN: Aus Amerika!  
-
-
+STEFAN: Aus Amerika!
 
 SAM: Hello.  
 STEFAN: Hallo Sam.Wie geht’s Präsident Bush?  

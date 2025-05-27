@@ -1,7 +1,12 @@
 ⚕️ 🟢 das [[Gesundheitswesen]], [ɡəˈzʊntˌhaɪ̯tsveːzn̩](https://youglish.com/pronounce/Gesundheitswesen/german)
 
 ---
-*[[C1-Lesen-T4-102-Text#^14|^]]* Im [[Gesundheitswesen]] sollten solche [[Gedank]]en jedoch dem [[Wohlergehen]] der Bürgerinnen und Bürger [[untergeordnet]] werden. ^14
+*[[C1-Lesen-T4-102-Text#^14|^]]* Im [[Gesundheitswesen]] sollten solche [[Gedanke]]n jedoch dem [[Wohlergehen]] der Bürgerinnen und Bürger [[untergeordnet]] werden
+
+*[[C1-Hoehen-T3-301-Text#^56|^]]* Nicht nur im Transport- oder im [[Gesundheitswesen]] zeigt sich bereits ein [[deutlich]]er Mangel an [[Fachkräften]]; ^56
+
+
+*[[C1-Hoehen-T3-301-Text#^1|^]]* Der [[Fachkräftemangel]] könnte dazu führen, dass im [[Gesundheitswesen]] zu wenig Personal zur [[Verfügung]] [[steht]]
 
 
 ---

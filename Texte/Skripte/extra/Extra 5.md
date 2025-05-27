@@ -5,15 +5,13 @@ MAN: Oh, Darling! Nein! Mein Herz wird [[zerbrechen]]!
 LADY: [[Es tut mir leid]] … es tut mir so leid.  
 ANNA: Das [[darf]] sie nicht …  
 SASCHA: Nein! Das darf sie nicht - er ist so [[toll]] …  
-ANNA: Und ihr Mann ist so ein [[Ekel]] … Du bist [[dran]] …  -
+ANNA: Und ihr Mann ist so ein [[Ekel]] … Du bist [[dran]] … -
 SASCHA: Ja, hallo?… Kurt Knall?… ob ich seine was bin?  
-Seine Agentin? Nein, tut mir Leid … [[den]] gibt es hier nicht ...  -
-SASCHA: ‚Kurt Knall“ - so ein [[doof]]erName!  -
+Seine Agentin? Nein, tut mir Leid … [[den]] gibt es hier nicht ... -
+SASCHA: ‚Kurt Knall“ - so ein [[doof]]erName! -
 ANNA: Wer würde sich so nennen!  
-	SASCHA: Ha! Alle Männer sind wie [[kleine]] Jungs - spielen immer nur dumme [[Spielchen]] …  -
-COP1/NIC: Razzia!  
-
-
+ SASCHA: Ha! Alle Männer sind wie [[kleine]] Jungs - spielen immer nur dumme [[Spielchen]] … -
+COP1/NIC: Razzia!
 
 COP 2/SAM: FBI! Keine [[Bewegung]] -
 … Beine hoch … Hände hoch … Hände hoch, nicht Beine hoch …!  
@@ -32,9 +30,9 @@ NIC: Aber mein Telefon ist kaputt!
 SASCHA: Das ist nicht mein Problem - du solltest deine Rechnungen bezahlen!  
 SAM: He, Entschuldigung, Sascha …  
 SASCHA: Und Sam - du wohnst jetzt bei Nic … also [[klopfen|klopf]]' bitte an … Und jetzt … will ich allein sein!  
-NIC: Autsch … was ist denn mit der los?  
+NIC: Autsch … was ist denn mit der los?
 
-ANNA: Nic - [[welcher]] Tag ist [[heute]]?  
+ANNA: Nic - [[welcher]] Tag ist [[heute]]?
 
 NIC: Mittwoch …  
 ANNA: Und wieviel Uhr ist es?  
@@ -160,7 +158,7 @@ SASCHA: Hallo, Sam …
 SAM: Oh, hallo Anna.  
 ANNA: Hallo Sam!  
 SAM: Wo ist Nic?  
-SASCHA: Wir [[Worter/W/Waren]] nicht hier… weiß nicht.  
+SASCHA: Wir [[Waren]] nicht hier… weiß nicht.  
 ANNA: Ich weiß wo er ist …  
 NIC: Wie viele Filme kann ich in einem Jahr machen?… natürlich alles Kinohits! Nein, nein … es ist nicht das Geld - Ich brauche die 100 Millionen Euro nicht … Sprechen Sie mit meiner Agentin, Sascha - vielleicht können Sie das [[beide]] [[regeln]] … Ciao.  
 SASCHA: Ich habe eine Idee …  

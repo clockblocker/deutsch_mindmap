@@ -3,11 +3,12 @@
 [[Grammatik/Morphem/Stamm/List/s/sauer (Stamm)|sauer]]
 
 ---
-- *Die* [[Worter/Flexion/Adjektiv/s/a/sauere|sauere]] *Mutter und ein* [[Worter/Flexion/Adjektiv/s/a/sauerer|sauerer]] *Sohn gaben* [[Worter/Flexion/Adjektiv/s/a/sauerem|sauerem]] *Vater ein* [[Worter/Flexion/Adjektiv/s/a/saueres|saueres]] *Geschenk* [[Worter/Flexion/Adjektiv/s/a/saueren|saueren]] *Onkels*
-- *Die* [[Worter/S/saurere.md|saurere]] *Mutter und ein* [[Worter/S/saurerer.md|saurerer]] *Sohn gaben* [[Worter/S/saurerem.md|saurerem]] *Vater ein* [[Worter/S/saureres.md|saureres]] *Geschenk* [[Worter/S/saureren.md|saureren]] *Onkels*
 
-- *Die* [[Worter/Flexion/Adjektiv/s/a/sauerere|sauerere]] *Mutter und ein* [[Worter/Flexion/Adjektiv/s/a/sauererer|sauererer]] *Sohn gaben* [[Worter/Flexion/Adjektiv/s/a/sauererem|sauererem]] *Vater ein* [[Worter/Flexion/Adjektiv/s/a/sauereres|sauereres]] *Geschenk* [[Worter/Flexion/Adjektiv/s/a/sauereren|sauereren]] *Onkels*
-- *Die* [[Worter/Flexion/Adjektiv/s/a/saurstee|saurstee]] *Mutter und ein* [[Worter/Flexion/Adjektiv/s/a/saursteer|saursteer]] *Sohn gaben* [[Worter/Flexion/Adjektiv/s/a/saursteem|saursteem]] *Vater ein* [[Worter/Flexion/Adjektiv/s/a/saurstees|saurstees]] *Geschenk* [[Worter/Flexion/Adjektiv/s/a/saursteen|saursteen]] *Onkels*
+- _Die_ [[Flexion/Adjektiv/s/a/sauere|sauere]] _Mutter und ein_ [[Flexion/Adjektiv/s/a/sauerer|sauerer]] _Sohn gaben_ [[Flexion/Adjektiv/s/a/sauerem|sauerem]] _Vater ein_ [[Flexion/Adjektiv/s/a/saueres|saueres]] _Geschenk_ [[Flexion/Adjektiv/s/a/saueren|saueren]] _Onkels_
+- _Die_ [[saurere.md|saurere]] _Mutter und ein_ [[saurerer.md|saurerer]] _Sohn gaben_ [[saurerem.md|saurerem]] _Vater ein_ [[saureres.md|saureres]] _Geschenk_ [[saureren.md|saureren]] _Onkels_
 
-- *Die* [[Worter/Flexion/Adjektiv/s/a/sauerstee|sauerstee]] *Mutter und ein* [[Worter/Flexion/Adjektiv/s/a/sauersteer|sauersteer]] *Sohn gaben* [[Worter/Flexion/Adjektiv/s/a/sauersteem|sauersteem]] *Vater ein* [[Worter/Flexion/Adjektiv/s/a/sauerstees|sauerstees]] *Geschenk* [[Worter/Flexion/Adjektiv/s/a/sauersteen|sauersteen]] *Onkels*
-, [[angenehm]], [[versauen]], [[Sauerstoff]]
+- _Die_ [[Flexion/Adjektiv/s/a/sauerere|sauerere]] _Mutter und ein_ [[Flexion/Adjektiv/s/a/sauererer|sauererer]] _Sohn gaben_ [[Flexion/Adjektiv/s/a/sauererem|sauererem]] _Vater ein_ [[Flexion/Adjektiv/s/a/sauereres|sauereres]] _Geschenk_ [[Flexion/Adjektiv/s/a/sauereren|sauereren]] _Onkels_
+- _Die_ [[Flexion/Adjektiv/s/a/saurstee|saurstee]] _Mutter und ein_ [[Flexion/Adjektiv/s/a/saursteer|saursteer]] _Sohn gaben_ [[Flexion/Adjektiv/s/a/saursteem|saursteem]] _Vater ein_ [[Flexion/Adjektiv/s/a/saurstees|saurstees]] _Geschenk_ [[Flexion/Adjektiv/s/a/saursteen|saursteen]] _Onkels_
+
+- _Die_ [[Flexion/Adjektiv/s/a/sauerstee|sauerstee]] _Mutter und ein_ [[Flexion/Adjektiv/s/a/sauersteer|sauersteer]] _Sohn gaben_ [[Flexion/Adjektiv/s/a/sauersteem|sauersteem]] _Vater ein_ [[Flexion/Adjektiv/s/a/sauerstees|sauerstees]] _Geschenk_ [[Flexion/Adjektiv/s/a/sauersteen|sauersteen]] _Onkels_
+  , [[angenehm]], [[versauen]], [[Sauerstoff]]

@@ -1,1 +1,1 @@
-[[Kenntnis]]
+[[Kenntnis]], [[Sprachkenntnis]], [[Vorkenntnis]]

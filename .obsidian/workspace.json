@@ -1,36 +1,15 @@
 {
   "main": {
-    "id": "17226338d1fd87ac",
+    "id": "e26ec2b6c7773b6d",
     "type": "split",
     "children": [
       {
-        "id": "a716d1d4de2f6947",
+        "id": "369315b4d120c58d",
         "type": "tabs",
-        "dimension": 68.41138659320477,
+        "dimension": 67.92763157894737,
         "children": [
           {
-            "id": "3f1efddf1cbc0c70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-3/C1-Hoehen-T2-301/C1-Hoehen-T2-301-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Hoehen-T2-301-Text"
-            }
-          }
-        ]
-      },
-      {
-        "id": "bf5f8bec8ad3c68d",
-        "type": "tabs",
-        "dimension": 31.588613406795226,
-        "children": [
-          {
-            "id": "21822468862b4bf3",
+            "id": "2f69dfb58deb6ac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,6 +21,70 @@
               "icon": "lucide-file",
               "title": "C1-Hoehen-T3-301-Text"
             }
+          },
+          {
+            "id": "6abb85c106b6a79b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/b/bez/a/_/Bezahlung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bezahlung"
+            }
+          },
+          {
+            "id": "54090042fd6567a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/a/arb/e/_/Arbeitszeit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arbeitszeit"
+            }
+          },
+          {
+            "id": "0076c30f2e93cbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/a/arb/e/_/Arbeitszeit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arbeitszeit"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "fa5623b78935d76b",
+        "type": "tabs",
+        "dimension": 32.07236842105263,
+        "children": [
+          {
+            "id": "ed1d0bda2aa9245a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-3/C1-Hoehen-T3-301/C1-Hoehen-T3-301-Loesung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Hoehen-T3-301-Loesung"
+            }
           }
         ]
       }
@@ -49,15 +92,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0b512cbe54112330",
+    "id": "cf2f1c816a2fa1fa",
     "type": "split",
     "children": [
       {
-        "id": "f63b5b6504a4fb18",
+        "id": "82a6d7e4d5997d7e",
         "type": "tabs",
         "children": [
           {
-            "id": "fd625bdd23c69566",
+            "id": "77e27b049107f114",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -70,7 +113,7 @@
             }
           },
           {
-            "id": "2f563c1c78523260",
+            "id": "ea7177c56c5b382b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +130,7 @@
             }
           },
           {
-            "id": "1f5e892dfc00b3f3",
+            "id": "d63dff882b95d6cc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -100,22 +143,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.50271224975586
   },
   "right": {
-    "id": "66459609b2a42235",
+    "id": "d9319cd8d7ae9854",
     "type": "split",
     "children": [
       {
-        "id": "45394e5ddc1f6984",
+        "id": "063a94f94fb7b78f",
         "type": "tabs",
         "children": [
           {
-            "id": "b455784c840b9d0e",
+            "id": "c73e552718646530",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-102/C1-Lesen-T2-102-Text.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,25 +169,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for C1-Lesen-T2-102-Text"
             }
           },
           {
-            "id": "1931eaf15e5bbd28",
+            "id": "70e9da2c84a05d7a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C1 Lesen/C1-Lesen-Teil-1/0-Lesen-T1-Ubungen.md",
+                "file": "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-102/C1-Lesen-T2-102-Text.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0-Lesen-T1-Ubungen"
+              "title": "Outgoing links from C1-Lesen-T2-102-Text"
             }
           },
           {
-            "id": "201ef162c39b3cf5",
+            "id": "6d443a1ec606aea0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,18 +202,18 @@
             }
           },
           {
-            "id": "ef9365fc2f245ab9",
+            "id": "9b2bb85b35aeaa9c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "C1 Lesen/C1-Lesen-Teil-1/0-Lesen-T1-Ubungen.md",
+                "file": "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-102/C1-Lesen-T2-102-Text.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0-Lesen-T1-Ubungen"
+              "title": "Outline of C1-Lesen-T2-102-Text"
             }
           }
         ]
@@ -193,53 +237,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f1efddf1cbc0c70",
+  "active": "0076c30f2e93cbd1",
   "lastOpenFiles": [
-    "C1 Hoeren/Hoeren-C1-Alle-Ubungen.md",
-    "C1 Hoeren/C1-Hoehen-T3/0-C1-Hoehen-T3-Ubung-List.md",
-    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-3/C1-Hoehen-T2-301/C1-Hoehen-T2-301-Text.md",
-    "Worter/aufzubrechen.md",
-    "Worter/A/aufbrechen.md",
-    "Worter/W/weitreichend.md",
-    "Worter/W/wohl.md",
-    "Worter/Ü/überlegt.md",
-    "Worter/Ü/überlegen.md",
-    "Worter/WEITREICHENDSTEM/weitreichendstem.md",
-    "Worter/WEITREICHENDSTEM",
-    "Worter/WEITREICHENDSTEN/weitreichendsten.md",
-    "Worter/WEITREICHENDSTEN",
-    "Worter/WEITREICHENDSTE/weitreichendste.md",
-    "Worter/WEITREICHENDSTE",
-    "Worter/WEITREICHENDSTES/weitreichendstes.md",
-    "Worter/WEITREICHENDSTES",
-    "Worter/WEITREICHENDSTER/weitreichendster.md",
-    "Worter/WEITREICHENDSTER",
-    "Worter/WEITREICHENDEREM/weitreichenderem.md",
-    "Worter/WEITREICHENDEREM",
-    "Worter/WEITREICHENDEREN/weitreichenderen.md",
-    "Worter/WEITREICHENDEREN",
-    "Worter/WEITREICHENDERE/weitreichendere.md",
-    "Worter/WEITREICHENDERE",
-    "Worter/WEITREICHENDERES/weitreichenderes.md",
-    "Worter/WEITREICHENDERES",
-    "Worter/WEITREICHENDERER/weitreichenderer.md",
-    "Worter/WEITREICHENDERER",
-    "Worter/WEITREICHENDEM/weitreichendem.md",
-    "Worter/WEITREICHENDEN/weitreichenden.md",
-    "Worter/WEITREICHENDES/weitreichendes.md",
-    "Worter/WEITREICHENDST/weitreichendst.md",
-    "Worter/WEITREICHENDER/weitreichender.md",
-    "Worter/WEITREICHENDE/Weitreichende.md",
-    "Worter/WEITREICHE/Weitreiche.md",
-    "Anhänge/Pasted image 20250525140714.png",
-    "Anhänge/Pasted image 20250525041824.png",
-    "Anhänge/Pasted image 20250525041551.png",
-    "Anhänge/Pasted image 20250525041340.png",
-    "Anhänge/Pasted image 20250524074135.png",
-    "Anhänge/Pasted image 20250524074122.png",
-    "Anhänge/Pasted image 20250523175923.png",
-    "Anhänge/Pasted image 20250523090046.png",
-    "Anhänge/Pasted image 20250523090017.png",
-    "Anhänge/Pasted image 20250517092641.png"
+    "Worter/Ordered/w/wor/t/WorterZzeit.md",
+    "Worter/Ordered/a/arb/e/arbeitsfrei.md",
+    "Worter/Ordered/a/arb/e/Arbeitsstunden.md",
+    "Worter/Ordered/b/bes/c/Beschäftigungszeit.md",
+    "Worter/Ordered/d/die/n/Dienstzeit.md",
+    "Worter/Ordered/b/bez/a/_/Bezahlung.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-3/C1-Hoehen-T3-301/C1-Hoehen-T3-301-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-3/C1-Hoehen-T3-301/C1-Hoehen-T3-301-Loesung.md",
+    "Worter/Ordered/z/zwi/n/_/zwingend.md",
+    "Worter/Pflegenotstand.md",
+    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-3/C1-Hoehen-T2-301/C1-Hoehen-T2-301-Loesung.md",
+    "Worter/Ordered/e/ein/r/_/einreisen.md",
+    "Worter/Ordered/z/zuw/a/_/Zuwanderung.md",
+    "Worter/Ordered/a/aus/r/_/ausreichend.md",
+    "Worter/Ordered/z/zwi/n/_/zwingen.md",
+    "Worter/Ordered/b/bew/o/_/beworben.md",
+    "Worter/Ordered/b/bew/e/_/bewerben.md",
+    "Worter/Ordered/b/bew/e/_/Bewerb.md",
+    "Worter/Ordered/w/wet/t/_/Wettbewerb.md",
+    "Worter/Ordered/g/gez/i/_/gezielte.md",
+    "Worter/Ordered/z/zie/l/_/zielen.md",
+    "Worter/Ordered/b/ber/u/_/Berufsausbildung.md",
+    "Worter/Ordered/e/ebe/n/_/ebenso.md",
+    "Worter/Ordered/g/gef/o/_/gefördert.md",
+    "Worter/Ordered/f/for/d/_/fördern.md",
+    "Worter/Ordered/m/mis/c/_/Mischung.md",
+    "Worter/Ordered/d/due/t",
+    "Worter/Ordered/d/dua/l",
+    "Worter/Ordered/d/dua",
+    "Worter/Ordered/z/zun/n",
+    "Worter/Ordered/w/wie/r",
+    "Worter/Ordered/u/unq/u",
+    "Worter/Ordered/u/unq",
+    "Worter/Ordered/s/sah/z",
+    "Worter/Ordered/a/all/h",
+    "Worter/Ordered/a/alt/w",
+    "Anhänge/Pasted image 20250526131443.png"
   ]
 }

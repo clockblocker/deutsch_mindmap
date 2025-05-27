@@ -43,4 +43,4 @@ sie, [[betreuen]], [[betreuten]], [[betreuen]], [[betreuten]], [[betreuen]]
 Adjektive: [[betreuend]], [[betreuender]], [[betreuendst]]
 </agent_output>
 ---
-[[betreuender]], [[betreuendes]], [[betreuende]], [[betreuenden]], [[betreuendem]], [[betreuenderer]], [[betreuenderes]], [[betreuendere]], [[betreuenderen]], [[betreuenderem]], [[betreuendster]], [[betreuendstes]], [[betreuendste]], [[betreuendsten]], [[betreuendstem]], [[Notbetreuung]]
+[[betreuender]], [[betreuendes]], [[betreuende]], [[betreuenden]], [[betreuendem]], [[betreuenderer]], [[betreuenderes]], [[betreuendere]], [[betreuenderen]], [[betreuenderem]], [[betreuendster]], [[betreuendstes]], [[betreuendste]], [[betreuendsten]], [[betreuendstem]], [[Notbetreuung]], [[Kinderbetreuungsangebot]]

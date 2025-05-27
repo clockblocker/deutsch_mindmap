@@ -23,4 +23,4 @@ G: des [[Flüchtlings]], der [[Flüchtlinge]]
 D: dem [[Flüchtling]], den [[Flüchtlingen]] 
 
 ---
-[[flüchten]], [[flüchtig]], [[Flucht]], [[Flüchtlingskrise]], [[Flüchtlingspolitik]], [[fliehen]]
+[[flüchten]], [[flüchtig]], [[Flucht]], [[Flüchtlingskrise]], [[Flüchtlingspolitik]], [[fliehen]], [[Zuwanderer]]

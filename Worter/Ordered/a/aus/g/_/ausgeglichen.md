@@ -1,2 +1,2 @@
 [[nervös]], [[begleichen]], [[durchgeknallt]], [[gereizt]], [[Ausgleich]]
-, [[launisch]], [[gleichmäßig]]
+, [[launisch]], [[gleichmäßig]], [[ausgleichen]]

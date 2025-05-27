@@ -5,49 +5,49 @@
 ![[02_Pruef_Expr_Goethe_C1_Hoeren_2.mp3]]
 
 7 Dr. Frentzen sieht Pro- und Contra-Argumente beim Thema eines obligatorischen [[Sozialdienst]]es
-- [ ] a stimmt  
+- [x] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 8 Im Grundgesetz gibt es schwer zu [[überwinden]]de [[Hindernis]]se für [[obligatorisch]]e Sozialdienste
-- [ ] a stimmt  
+- [x] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 9 Der Gesetzgeber möchte das Grundgesetz in [[Kürze]] ändern
 - [ ] a stimmt  
 - [ ] b stimmt nicht  
-- [ ] c dazu wird nichts gesagt  
+- [x] c dazu wird nichts gesagt  
 
 10 Der Moderator glaubt, dass der [[Wehrdienst]] niemals hätte [[abgeschafft]] werden sollen.  
 - [ ] a stimmt  
-- [ ] b stimmt nicht  
+- [x] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 11 Dr. Frentzen sagt, dass [[verpflichtende]] soziale [[Einsätze]] [[überzeugen]]de [[Gründe]] haben müssen. 
-- [ ] a stimmt  
+- [x] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 12 Dr. Frentzen gibt einen [[vollständig]]en [[Überblick]] über die für ein soziales Praktikum [[geeignet]]en [[Berufsgruppe]]n.  
-- [ ] a stimmt  
+- [x] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 13 Das [[Ableisten]] eines sozialen Jahres sollte auch [[außerhalb]] Deutschlands ermöglicht werden.  
-- [ ] a stimmt  
+- [x] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 14 Dr. Frentzen meint, dass ein soziales Jahr auch als [[Orientierung]] für die spätere [[Berufswahl]] dienen könnte.  
-- [ ] a stimmt  
+- [x] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 15 Viele Menschen mit [[Behinderung]] interessieren sich für ihre Arbeit und sind hochmotiviert.  
 - [ ] a stimmt  
 - [ ] b stimmt nicht  
-- [ ] c dazu wird nichts gesagt  
+- [x] c dazu wird nichts gesagt  
 
 
 ---
@@ -109,7 +109,7 @@ Was würde das denn praktisch bedeuten?
 **Dr. Frentzen:**  
 *[[C1-Hoehen-T2-301-Text#^25|^]]* Es wäre beispielsweise denkbar, dass alle, die einen Beruf [[erlernen]] möchten, in dem sie später mit Menschen zu tun haben, berufs- oder [[studienvorbereitende]] soziale [[Praktika]] [[absolvieren]]. ^25
 
-*[[C1-Hoehen-T2-301-Text#^26|^]]* Das könnten Lehrer, Mediziner oder Sozialpädagogen sein. Hier macht Pflicht Sinn – für die [[Berufsaspirant]]en, für die ihnen später anvertrauten Menschen und für die [[Gemeinschaft]]. ^26
+*[[C1-Hoehen-T2-301-Text#^26|^]]* Das könnten Lehrer, Mediziner oder Sozialpädagogen sein. Hier macht Pflicht Sinn – für die [[Berufsaspirant]]en, für die ihnen später [[anvertrauten]] Menschen und für die [[Gemeinschaft]]. ^26
 
 
 **Moderator:**  
@@ -145,7 +145,7 @@ Und sehen Sie auch ganz praktische Gründe?
 
 *[[C1-Hoehen-T2-301-Text#^31|^]]* Wir brauchen in den [[Pflegeheim]]en, Kindergärten oder [[Einrichtung]]en für Menschen mit [[Behinderung]] hochmotivierte junge Leute mit echtem Interesse an ihrer Arbeit und den Menschen. ^31
 
-*[[C1-Hoehen-T2-301-Text#^32|^]]* Nur dann wird der Einsatz auch der sozialen [[Verantwortung]] gerecht werden können, die wir für die häufig [[hilfebedürftig]]en Menschen in den [[Einrichtungen]] haben. ^32
+*[[C1-Hoehen-T2-301-Text#^32|^]]* Nur dann wird der Einsatz auch der sozialen [[Verantwortung]] gerecht werden können, die wir für die häufig [[hilfebedürftig]]en Menschen in den [[Einrichtung]]en haben. ^32
 
 
 

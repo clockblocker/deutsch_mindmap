@@ -1,1 +1,1 @@
-, [[festlegen]], [[bestimmen]], [[auferlegen]], [[ausmachen]]
+, [[festlegen]], [[bestimmen]], [[auferlegen]], [[ausmachen]], [[festigen]]

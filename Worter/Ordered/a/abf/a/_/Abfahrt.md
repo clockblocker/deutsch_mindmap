@@ -1,2 +1,0 @@
-, [[Ankunft]]
-, [[abfahren]], [[Zufahrt]], [[Zufahrt]]

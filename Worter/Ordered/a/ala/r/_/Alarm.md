@@ -1,1 +1,1 @@
-, [[Wecker]], [[Entwarnung]], [[Klingelbeil]]
+, [[Wecker]], [[Entwarnung]], [[Klingelbeil]], [[alarmieren]], [[Alarmismus]]

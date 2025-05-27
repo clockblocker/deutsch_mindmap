@@ -49,4 +49,4 @@ sie, [[verstärken]], [[verstärkten]], [[verstärken]], [[verstärkten]], [[ver
 Adjektive: [[verstärkend]], [[verstärkender]], [[verstärkendst]]
 
 ---
-[[verstärkender]], [[verstärkendes]], [[verstärkende]], [[verstärkenden]], [[verstärkendem]], [[verstärkenderer]], [[verstärkenderes]], [[verstärkendere]], [[verstärkenderen]], [[verstärkenderem]], [[verstärkendster]], [[verstärkendstes]], [[verstärkendste]], [[verstärkendsten]], [[verstärkendstem]], [[Bedeutungsverstärkung]], [[nachlassen]]
+[[verstärkender]], [[verstärkendes]], [[verstärkende]], [[verstärkenden]], [[verstärkendem]], [[verstärkenderer]], [[verstärkenderes]], [[verstärkendere]], [[verstärkenderen]], [[verstärkenderem]], [[verstärkendster]], [[verstärkendstes]], [[verstärkendste]], [[verstärkendsten]], [[verstärkendstem]], [[Bedeutungsverstärkung]], [[nachlassen]], [[ausgleichen]], [[verschärfen]]

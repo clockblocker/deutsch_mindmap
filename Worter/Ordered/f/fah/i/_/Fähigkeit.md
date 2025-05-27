@@ -33,7 +33,7 @@ Synonyme:
 
 ---
 Morpheme:
-[[Fähig]][[keit]][[en]]
+[[fähig]][[keit]][[en]]
 
 ---
 Einzigartige mögliche Formen: [[Fähigkeit]], [[Fähigkeiten]], [[Fähigkeiten]], [[Fähigkeiten]]

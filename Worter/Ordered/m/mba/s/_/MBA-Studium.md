@@ -2,29 +2,34 @@
 die [[MBA-Studien]]
 
 ---
+
 [[MBA]]
 
 ---
+
 = [[Master of Business Administration Studium]]
-≈ [[Worter/S/Studium]], [[MBA]], [[Ausbildung]]
+≈ [[Studium]], [[MBA]], [[Ausbildung]]
 ≠ [[keine]]
 
 ---
+
 MBA program, MBA studies  
 обучение по программе MBA
 
 ---
-[[Aufstiegsfortbildung]], [[MBA]], [[studieren]], [[Worter/S/Studium]], [[Ausbildung]]
+
+[[Aufstiegsfortbildung]], [[MBA]], [[studieren]], [[Studium]], [[Ausbildung]]
 
 ---
-[[MBA]]|`s`|[[Worter/S/Studium]]
+
+[[MBA]]|`s`|[[Studium]]
 [[MBA-Studium]]
 
-
 ---
+
 N: das [[MBA-Studium]], die [[MBA-Studien]]
 A: das [[MBA-Studium]], die [[MBA-Studien]]
 G: des [[MBA-Studiums]], der [[MBA-Studien]]
 D: dem [[MBA-Studium]], den [[MBA-Studien]]
 
-#Neuter 
+#Neuter

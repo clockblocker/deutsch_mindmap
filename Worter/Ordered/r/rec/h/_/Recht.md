@@ -8,6 +8,8 @@ nicht [[falsch]]
 
 *[[C1-Hoehen-T4-100-Text#^27|^]]* Bei digitalen Produkten haben Verbraucher ein volles [[Recht]] `auf` [[Gewährleistung]]
 
+*[[C1-Hoehen-T3-301-Text#^34|^]]* Sie sind eine [[zwingende]] [[Voraussetzung]] für das Land, in dem man eine Ausbildung machen und arbeiten möchte, und das ist selbst mit [[Vorkenntnis]]sen ein [[recht]] [[langwieriger]] Prozess
+
 *[[C1-Hoehen-T4-100-Text#^23|^]]* In diesem Fall muss `darauf` [[hingewiesen]] werden, dass die Regelungen zum Verbraucherschutz wie [[Recht]] `auf` [[Umtausch]] oder [[Rückgabe]] beim [[Privatkauf]] nicht [[gelten]]
 
 *[[C1-Hoehen-T2-201-Text#^11|^]]* *Sie haben eine spannende Sendung im Fernsehen moderiert, und zwar zum Thema Mathematik, um dieses* 

@@ -1,1 +1,1 @@
-, [[Worter/H/haben]], [[schleudern]]
+, [[haben]], [[schleudern]]

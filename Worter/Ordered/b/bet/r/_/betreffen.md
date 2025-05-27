@@ -3,6 +3,8 @@
 ---
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
+*[[C1-Hoehen-T3-301-Text#^53|^]]* Der Mangel [[betrifft]] ja [[keineswegs]] nur die [[Ausbildungsberuf]]e. Unternehmen [[beklagen]] in vielen Wirtschaftsbranchen auch einen Mangel an Fachkräften in Berufen mit akademischer Ausbildung, [[vorwiegend]] im Bereich der [[MINT]]-[[Fächer]], also Mathematik, Informatik, Naturwissenschaften und Technik
+
 *[[C1-Hoehen-T4-100-Text#^25|^]]* Eine weitere [[Maßnahme]] `zum` Verbraucherschutz [[betrifft]] die [[Deutlichkeit]] der [[Preisgestaltung]]. ^25
 
 

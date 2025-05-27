@@ -1,7 +1,9 @@
 🤝 [[übernehmen]], [ˈyːbɐˌneːmən](https://youglish.com/pronounce/übernehmen/german) → [[übernahm]] → haben [[übernommen]]
 
 ---
-Weniger nutzen wir Präfixe, die nicht einheimisch, sondern aus anderen Sprachen [[übernommen]] sind: Vor allem aus klassischen Sprachen haben wir Präfixe [[entlehnt]] wie  [[re]] in _reaktivieren, rekonstruieren_ oder [[de]] mit den Varianten _des-_ und _dis-_ in [[demaskieren]], [[desillusionieren]], disqualifizieren_. 
+Weniger nutzen wir Präfixe, die nicht einheimisch, sondern aus anderen Sprachen [[übernommen]] sind: Vor allem aus klassischen Sprachen haben wir Präfixe [[entlehnt]] wie  [[re]] in _reaktivieren, rekonstruieren_ oder [[de]] mit den Varianten _des-_ und _dis-_ in [[demaskieren]], [[desillusionieren]], disqualifizieren
+
+*[[C1-Hoehen-T3-301-Text#^8|^]]* Studierende der [[MINT]]-[[Fächer]] können die [[Aufgabe]]n der älteren [[Arbeitskräfte]] schnell [[übernehmen]]
 
 *[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] davon werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]
 

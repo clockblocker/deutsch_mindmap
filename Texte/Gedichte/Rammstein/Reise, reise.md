@@ -3,10 +3,10 @@ Wo Fisch und Fleisch zur See [[geflochten]]
 Der eine [[sticht]] die [[Lanz]] im [[Heer]]  
 Der andre [[wirft]] sie in das Meer
 
-*Auf den [[Welle|Wellen]] [[werden|wird]] [[fechten|gefochten]]*  
-*Wo [[Worter/F/fisch]] und [[Fleisch]] zur [[See]] [[flechten|geflochten]]*  
-*Der [[eine]] [[stechen|sticht]] die [[Lanze]] im [[Heer]]*  
-*Der [[andere]] [[werfen|wirft]] sie in das [[Meer]]*
+_Auf den [[Welle|Wellen]] [[werden|wird]] [[fechten|gefochten]]_  
+_Wo [[fisch]] und [[Fleisch]] zur [[See]] [[flechten|geflochten]]_  
+_Der [[eine]] [[stechen|sticht]] die [[Lanze]] im [[Heer]]_  
+_Der [[andere]] [[werfen|wirft]] sie in das [[Meer]]_
 
 Ah, ahoi
 

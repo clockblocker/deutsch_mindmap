@@ -1,11 +1,12 @@
-die [[Worter/Z/zeit]][[Schrift|schrift]]
+die [[zeit]][[Schrift|schrift]]
 die [[Zeitschriften]]
 
 ---
+
 Beispiele:
 SASCHA: Hat [[Jemand]] meine [[neue]] [[Zeitschrift]] gesehen?
 Das ist Claudias Kleid aus der [[Zeitschrift]]! Woher weiß er das?  
-MARIA: Sam, am Flughafen heute, da habe ich diese alte [[Zeitschrift]] gesehen.  
+MARIA: Sam, am Flughafen heute, da habe ich diese alte [[Zeitschrift]] gesehen.
 
 ---
 
@@ -13,6 +14,6 @@ MARIA: Sam, am Flughafen heute, da habe ich diese alte [[Zeitschrift]]
 
 ---
 
-Tags: 
+Tags:
 #Substantiv
 #Feminin, [[Bildband]]

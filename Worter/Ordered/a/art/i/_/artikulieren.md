@@ -1,1 +1,1 @@
-, [[Worter/S/sprechen]], [[äußern]], [[Artikel]]
+, [[sprechen]], [[äußern]], [[Artikel]]

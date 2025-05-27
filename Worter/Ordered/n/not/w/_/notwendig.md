@@ -4,9 +4,10 @@
 notwendig, [ˈnoːtvɛndɪç]
 nicht [[unnötig]]
 
-
 ---
 Tun wir nicht manchmal Dinge, die absolut nicht [[notwendig]] sind?
+
+*[[C1-Hoehen-T3-301-Text#^22|^]]* Für Frau Ebner-Perotti sind [[kostenlos]]e [[Kinderbetreuungsangebot]]e in den Betrieben [[notwendig]]
 
 *[[C1-Hoehen-T2-201-Text#^13|^]]* [[Wobei]] ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast [[verehren]] oder als [[notwendig]]es [[Übel]] [[betrachten]]
 

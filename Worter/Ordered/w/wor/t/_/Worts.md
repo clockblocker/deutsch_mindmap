@@ -1,1 +1,1 @@
-, [[Worter/W/Wort]]
+, [[Wort]]

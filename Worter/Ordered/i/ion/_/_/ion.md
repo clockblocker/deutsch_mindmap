@@ -1,1 +1,1 @@
-, [[Diskussion]], [[Aggression]], [[Worter/Religion]], [[Rezension]]
+, [[Diskussion]], [[Aggression]], [[Religion]], [[Rezension]]

@@ -5,21 +5,26 @@
 👍 [[aufrechterhalten]], [ˈaʊ̯fˌʁɛçtʔɛɐ̯ˌhaltn̩] | [[erhielt aufrecht]], haben [[aufrechterhalten]]
 
 ---
-[[1 ADHD#^8|^]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
+
+[[1 ADHD#^8|^]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]
 
 ---
+
 = [[beibehalten]], [[erhalten]], [[bewahren]], [[stützen
 ≈ [[pflegen]], [[stützen]], [[festigen]], [[konservieren]]
 ≠ [[aufgeben]], [[verlieren]], [[vernachlässigen]], [[zerstören]]
 
 ---
+
 to maintain, to uphold
 поддерживать, сохранять
 
 ---
-[[Worter/A/auf]]|[[Recht]]|[[er]]|[[halten]]
+
+[[auf]]|[[Recht]]|[[er]]|[[halten]]
 
 ---
+
 ich: [[erhalte aufrecht]], [[erhielt aufrecht]], –, [[erhalte aufrecht]], [[erhielte aufrecht]]
 du: [[erhältst aufrecht]], [[erhieltest aufrecht]], [[erhalte aufrecht]] | [[erhalt aufrecht]], [[erhaltest aufrecht]], [[erhieltest aufrecht]]
 er/sie/es: [[erhält aufrecht]], [[erhielt aufrecht]], –, [[erhalte aufrecht]], [[erhielte aufrecht]]
@@ -29,7 +34,9 @@ ihr: [[erhaltet aufrecht]], [[erhieltet aufrecht]], [[erhaltet aufrecht]], [[erh
 PI: [[aufrechterhaltend]], PII: [[aufrechterhalten]], Zu+inf: [[aufrechtzuerhalten]]
 
 ---
-[[aufrechterhalten]] - [[Worter/A/auf]] - [[Recht]] = [[erhalten]] / to maintain, to uphold
+
+[[aufrechterhalten]] - [[auf]] - [[Recht]] = [[erhalten]] / to maintain, to uphold
 
 ---
+
 [[Recht]], [[halten]], [[Aufrechterhaltung]], [[aufrecht]]

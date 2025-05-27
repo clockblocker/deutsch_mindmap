@@ -4,6 +4,8 @@
 🏃‍♀️ [[dringen]] 
 
 ---
+*[[C1-Hoehen-T3-301-Text#^35|^]]* Ich sehe zudem das große Problem des sogenannten „[[Braindrain]]“, d. h. qualifizierte junge Menschen werden [[abgeworben]] und in ihren [[Herkunftsländern]] [[fehlen]] dann [[dringend]] benötigte Arbeitskräfte
+
 *[[C1-Lesen-T1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]. ^5
 
 

@@ -1,8 +1,12 @@
 ✅ [[belegen]], [bəˈleːɡn̩](https://youglish.com/pronounce/belegen/german) → [[belegte]] → haben [[belegt]]
 
 ---
-*[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden. ^34
+*[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden. ^34
 
+
+*[[C1-Hoehen-T3-301-Text#^28|^]]* Es braucht jetzt ein [[Bündel]] an ganz [[unterschiedlich]]en Maßnahmen, da man ja auch in der Politik zu lange [[tatenlos]] [[zugesehen]] hat, obwohl es seit Jahren [[genügend]] Studien gab, 
+die diese [[Entwicklung]] [[eindeutig]] [[belegen]]
+*([[clearly]] [[prove]] this [[development]])*
 
 [[Belegschaft]],  [[Überbelegung]]
 

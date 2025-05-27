@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Haufens]], [[Haufen]], [[Haufen]], [[Haufen]]
 
 ---
-#Substantiv #Neuter, [[Unmenge]], [[anhäufen]]
+#Substantiv #Neuter, [[Unmenge]], [[anhäufen]], [[Bündel]]

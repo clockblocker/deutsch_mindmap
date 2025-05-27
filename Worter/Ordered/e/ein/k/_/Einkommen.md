@@ -29,4 +29,4 @@ D: dem [[Einkommen]], den [[Einkommen]]
 ---
 [[einkommen]], [[einkommensteuerpflichtig]], [[einkommensabhängig]], [[Einkommenssteuer]], [[Nominallohn]]
 
-#Neuter , [[Bruttojahresgehalt]], [[Erwerb]], [[Verdienst]], [[Provision]], [[einkommensschwach]], [[Lohnniveau]], [[Grundeinkommen]], [[Basiseinkommen]], [[Arbeitslosengeld]], [[Einkommensverhältnis]]
+#Neuter , [[Bruttojahresgehalt]], [[Erwerb]], [[Verdienst]], [[Provision]], [[einkommensschwach]], [[Lohnniveau]], [[Grundeinkommen]], [[Basiseinkommen]], [[Arbeitslosengeld]], [[Einkommensverhältnis]], [[Bezahlung]]

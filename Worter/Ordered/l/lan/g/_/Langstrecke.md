@@ -1,1 +1,1 @@
-, [[Langstreckenlauf]]
+, [[Langstreckenlauf]], [[langwierig]]

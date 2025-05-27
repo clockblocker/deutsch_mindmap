@@ -1,1 +1,1 @@
-, [[wahlberechtigt]], [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]], [[Männerwahlrecht]], [[Wahlerlaubnis]]
+, [[wahlberechtigt]], [[Mehrheitswahlrecht]], [[Verhältniswahlrecht]], [[Männerwahlrecht]], [[Wahlerlaubnis]], [[Wahlmöglichkeit]]

@@ -1,1 +1,1 @@
-[[schwierig]], [[anspruchsvoll]], [[Worter/Herausforderung]], [[Herausforderung]], [[herausfordern]], [[auffordern]], [[wagend]]
+[[schwierig]], [[anspruchsvoll]], [[Herausforderung]], [[Herausforderung]], [[herausfordern]], [[auffordern]], [[wagend]]

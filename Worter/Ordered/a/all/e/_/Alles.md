@@ -1,3 +1,3 @@
-[[Worter/A/Alle]]
+[[Alle]]
 
 [[Indefinitpronomen]], [[s1 e1]], [[insgesamt]], [[Konnektivpartikeln]]

@@ -1,3 +1,3 @@
 , [[scheuchen]], [[hochschrecken]]
 , [[aufwachen]]
-, [[einschlafen]]
+, [[einschlafen]], [[alarmieren]]

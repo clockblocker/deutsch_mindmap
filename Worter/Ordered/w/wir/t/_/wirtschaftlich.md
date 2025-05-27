@@ -37,4 +37,4 @@ N: [[wirtschaftliches]], [[wirtschaftlicheres]], [[wirtschaftlichstes]]
 P: [[wirtschaftlichen]], [[wirtschaftlicheren]], [[wirtschaftlichsten]]  
 
 ---
-[[Wirtschaft]], [[wirtschaften]], [[Wirtschaftlichkeit]], [[Wirtschaftswissenschaft]], [[Wirtschaftsraum]], [[kostengünstig]], [[Wirtschaftsform]], [[Wirtschaftsgemeinschaft]], [[unternehmerisch]], [[geldlich]], [[effizient]], [[zeitsparend]], [[Geldwert]], [[marktwirtschaftlich]]
+[[Wirtschaft]], [[wirtschaften]], [[Wirtschaftlichkeit]], [[Wirtschaftswissenschaft]], [[Wirtschaftsraum]], [[kostengünstig]], [[Wirtschaftsform]], [[Wirtschaftsgemeinschaft]], [[unternehmerisch]], [[geldlich]], [[effizient]], [[zeitsparend]], [[Geldwert]], [[marktwirtschaftlich]], [[Wirtschaftsbranche]]

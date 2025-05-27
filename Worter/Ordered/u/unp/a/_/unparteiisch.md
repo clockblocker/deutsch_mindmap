@@ -1,1 +1,1 @@
-, [[ungerecht]], [[politisch]], [[Urteile]]
+, [[ungerecht]], [[politisch]], [[Urteile]], [[fair]]

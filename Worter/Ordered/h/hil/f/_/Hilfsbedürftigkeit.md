@@ -1,1 +1,1 @@
-, [[Bedürftigkeit]]
+, [[Bedürftigkeit]], [[hilfebedürftig]]

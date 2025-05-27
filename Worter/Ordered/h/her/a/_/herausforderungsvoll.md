@@ -1,1 +1,1 @@
-, [[Worter/Herausforderung]], [[Herausforderung]]
+, [[Herausforderung]], [[Herausforderung]]

@@ -1,1 +1,1 @@
-, [[Worter/essbar]]
+, [[essbar]]

@@ -1,1 +1,1 @@
-, [[Arbeitsbedingungen]]
+, [[Arbeitsbedingungen]], [[Fachkräftemangel]], [[Arbeitskraft]]

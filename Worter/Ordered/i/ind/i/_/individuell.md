@@ -24,4 +24,4 @@ individual
 Adjektive: [[individuell]], [[individueller]], [[individuellst]]
 
 ---
-[[individueller]], [[individuelles]], [[individuelle]], [[individuellen]], [[individuellem]], [[individuellerer]], [[individuelleres]], [[individuellere]], [[individuelleren]], [[individuellerem]], [[individuellster]], [[individuellstes]], [[individuellste]], [[individuellsten]], [[individuellstem]]
+[[individueller]], [[individuelles]], [[individuelle]], [[individuellen]], [[individuellem]], [[individuellerer]], [[individuelleres]], [[individuellere]], [[individuelleren]], [[individuellerem]], [[individuellster]], [[individuellstes]], [[individuellste]], [[individuellsten]], [[individuellstem]], [[demografisch]]

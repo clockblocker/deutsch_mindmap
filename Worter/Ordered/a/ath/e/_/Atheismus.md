@@ -1,1 +1,1 @@
-, [[Worter/Religion]], [[Religionsunterricht]], [[Religionsgemeinschaft]]
+, [[Religion]], [[Religionsunterricht]], [[Religionsgemeinschaft]]

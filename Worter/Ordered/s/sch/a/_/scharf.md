@@ -30,4 +30,4 @@ N: [[scharfes]], [[schärferes]], [[schärfstes]]
 P: [[scharfen]], [[schärferen]], [[schärfsten]]  
 
 ---
-[[Schärfe]], [[schärfen]], [[scharfmachen]], [[scharf­sinn­ig]], [[messerscharf]], [[Messer]]
+[[Schärfe]], [[schärfen]], [[scharfmachen]], [[scharf­sinn­ig]], [[messerscharf]], [[Messer]], [[verschärfen]]

@@ -1,26 +1,33 @@
 🗣️ [[thematisieren]], [teːmaˈtiːzɪʁən](https://youglish.com/pronounce/thematisieren/german) → [[thematisierte]] → haben [[thematisiert]]
 
 ---
-*Die [[Reihenfolge]] der [[Inhaltspunkt]]e wurde in dieser [[Musterlösung]] [[verändert]]. Wichtig ist nicht, dass man die Punkte aus der [[Aufgabenstellung]] nur [[thematisiert]], sondern sie auch logisch miteinander verbindet, sodass ein kohärenter Text entsteht. Es gibt keinen [[Punktabzug]], wenn Sie dabei die [[Reihenfolge]] verändern.
+
+\*Die [[Reihenfolge]] der [[Inhaltspunkt]]e wurde in dieser [[Musterlösung]] [[verändert]]. Wichtig ist nicht, dass man die Punkte aus der [[Aufgabenstellung]] nur [[thematisiert]], sondern sie auch logisch miteinander verbindet, sodass ein kohärenter Text entsteht. Es gibt keinen [[Punktabzug]], wenn Sie dabei die [[Reihenfolge]] verändern.
 
 ---
+
 = [[behandeln]], [[erörtern]], [[ansprechen]]
 ≈ [[diskutieren]], [[besprechen]], [[erwähnen]]
 ≠ [[ignorieren]], [[verschweigen]], [[verheimlichen]]
 
 ---
+
 to address, to discuss, to thematize  
 обсуждать, затрагивать тему
 
 ---
-[[Worter/T/thema]], [[thematisch]], [[Thematisierung]]
+
+thema]], [[thematisch]], [[Thematisierung]]
 
 ---
-[[Worter/T/thema]]|[[tisier]]|[[t]]
+
+thema]]|[[tisier]]|[[t]]
 [[thematisieren]]
 
 ---
+
 ###### [[thematisieren]] jN
+
 - Was [[thematisiert]] der Artikel?
 - Die globale Erwärmung.
 
@@ -31,6 +38,7 @@ to address, to discuss, to thematize
 - Weil er keine Zeit hatte.
 
 ---
+
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 ich, [[thematisier]] / [[thematisiere]], [[thematisierte]], [[thematisiere]], [[thematisierte]], -
 du, [[thematisierst]], [[thematisiertest]], [[thematisierest]], [[thematisiertest]], [[thematisier]] / [[thematisiere]]
@@ -39,8 +47,9 @@ wir, [[thematisieren]], [[thematisierten]], [[thematisieren]], [[thematisierten]
 ihr, [[thematisiert]], [[thematisiertet]], [[thematisiert]], [[thematisiertet]], [[thematisiert]]
 sie, [[thematisieren]], [[thematisierten]], [[thematisieren]], [[thematisierten]], [[thematisieren]]
 
-*Zu + Inf*: zu [[thematisieren]], *P2*: [[thematisiert]]
+_Zu + Inf_: zu [[thematisieren]], _P2_: [[thematisiert]]
 Adjektive: [[thematisierend]], [[thematisierender]], [[thematisierendst]]
 
 ---
+
 [[thematisierender]], [[thematisierendes]], [[thematisierende]], [[thematisierenden]], [[thematisierendem]], [[thematisierenderer]], [[thematisierenderes]], [[thematisierendere]], [[thematisierenderen]], [[thematisierenderem]], [[thematisierendster]], [[thematisierendstes]], [[thematisierendste]], [[thematisierendsten]], [[thematisierendstem]]

@@ -1,1 +1,1 @@
-, [[Worter/G/Geld]], [[Konto]], [[Münze]], [[Zahlungsmittel]]
+, [[Geld]], [[Konto]], [[Münze]], [[Zahlungsmittel]]

@@ -5,18 +5,21 @@
 ---
 
 ---
-[[überzeugen]] - [[Worter/Ü/über]] = [[zeugen]] / to convince, to persuade
+
+[[überzeugen]] - [[Ü/über]] = [[zeugen]] / to convince, to persuade
 
 ---
+
 Synonyme: [[erzeugen]], [[hervorbringen]], [[gebären]], [[produzieren]], [[erschaffen]]
 Antonyme: [[vernichten]], [[zerstören]], [[auslöschen]]
 
 ---
+
 to procreate, to beget, to father
 
 ---
+
 [[Zeug]][[en]]
-   
 
 ---
 
@@ -25,9 +28,9 @@ Ich: [[zeuge]], [[zeugte]], -, [[zeuge]], [[zeugte]]
 Du: [[zeugst]], [[zeugtest]], [[zeuge]], [[zeugest]], [[zeugtest]]  
 Er/sie/es: [[zeugt]], [[zeugte]], -, [[zeuge]], [[zeugte]]  
 Wir: [[zeugen]], [[zeugten]], -, [[zeugen]], [[zeugten]]  
-Ihr: [[zeugt]], [[zeugtet]], [[zeugt]], [[zeuget]], [[zeugtet]]  
+Ihr: [[zeugt]], [[zeugtet]], [[zeugt]], [[zeuget]], [[zeugtet]]
 
-Partizip I: [[zeugend]], 
+Partizip I: [[zeugend]],
 Partizip II: [[gezeugt]]
 
 Form: Positive, Comparative, Superlative  
@@ -37,8 +40,9 @@ Genitive: [[gezeugter]], [[gezeugtererer]], [[gezeugtetster]]
 Dative: [[gezeugtm]], [[gezeugterem]], [[gezeugtetestem]]  
 Feminine: [[gezeugte]], [[gezeugtere]], [[gezeugteste]]  
 Neuter: [[zeugtes]], [[gezeugeres]], [[gezeugtes]]  
-Plural: [[gezeugten]], [[gezeugteren]], [[gezeugtetsten]] 
+Plural: [[gezeugten]], [[gezeugteren]], [[gezeugtetsten]]
 
 ---
+
 [[Zeugung]], [[Zeuger]], [[Zeugnis]], [[zeugenschaftlich]], [[Vaterschaft]]
 , [[Überzeugung]]

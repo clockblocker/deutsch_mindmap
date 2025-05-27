@@ -1,3 +1,3 @@
 --> [[Ingredinet-Hindernis-Nomen]] <--
 
-, [[Schranke]], [[Zugang]], [[sperren]]
+, [[Schranke]], [[Zugang]], [[sperren]], [[Anwerbeverbot]]

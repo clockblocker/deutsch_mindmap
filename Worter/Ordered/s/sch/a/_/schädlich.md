@@ -1,1 +1,1 @@
-, [[schaden]], [[Schädliches]], [[Worter/essbar]], [[vorteilhaft]], [[verträglich]], [[Schädling]], [[hilfreich]], [[missbräuchlich]], [[Schadstoff]]
+, [[schaden]], [[Schädliches]], [[essbar]], [[vorteilhaft]], [[verträglich]], [[Schädling]], [[hilfreich]], [[missbräuchlich]], [[Schadstoff]]

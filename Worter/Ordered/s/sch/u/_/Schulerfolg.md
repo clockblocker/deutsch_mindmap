@@ -1,1 +1,1 @@
-, [[Bildungserfolg]]
+, [[Bildungserfolg]], [[Bildungsergebnis]]

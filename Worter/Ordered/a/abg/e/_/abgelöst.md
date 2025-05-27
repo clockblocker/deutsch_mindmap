@@ -1,2 +1,0 @@
-
-[[ablösen]], [[regierend]]

@@ -1,1 +1,1 @@
-, [[Einwanderungsstopp]]
+, [[Einwanderungsstopp]], [[Anwerbestopp]]
