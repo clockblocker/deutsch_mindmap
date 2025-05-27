@@ -339,7 +339,7 @@ SAM: Currywurst, OK.
 
 ANNA: Nic, Sam, ihr habt [[bestimmt]] [[viel]] [[Spaß]] [[miteinander]]!
 
-SASCHA: Nic – du kannst ihm ja [[Deutsch]][[Unterricht]] geben!
+SASCHA: Nic – du kannst ihm ja [[Deutsch]], [[Unterricht]] geben!
 
 NIC: Deutschunterricht?Ja, ich [[werden|werd]]’ ihm Deutsch-Unterricht geben …
 

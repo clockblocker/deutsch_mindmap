@@ -17,7 +17,7 @@ Antonyme: [[verheimlichen]], [[verbergen]], [[verschleiern]], [[verstecken]]
 
 ---
 
-Morpheme: [[ent]][[hüll]][[en]]
+Morpheme: [[ent]], [[hüll]], [[en]]
 #Verb #Trennbar
 
 ---

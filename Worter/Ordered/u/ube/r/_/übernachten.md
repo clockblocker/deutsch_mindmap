@@ -17,7 +17,7 @@ to spend the night, to stay overnight
 
 ---
 
-[[Ü/über]][[nach]][[ten]]
+[[Ü/über]], [[nach]], [[ten]]
 
 ---
 

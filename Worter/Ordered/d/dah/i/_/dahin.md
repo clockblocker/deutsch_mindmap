@@ -1,5 +1,5 @@
-
 Synonyme:
+
 - [[hin]], [[dorthin]], [[zu dem Ort]]
 
 ---
@@ -11,6 +11,7 @@ Beispiele:
 - Sie möchte [[dahin]] zurückkehren, wo sie aufgewachsen ist.
 
 ---
+
 **Übersetzung**: there, to that place
 
 ---
@@ -21,4 +22,4 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[hin]]
+[[Da]], [[hin]]

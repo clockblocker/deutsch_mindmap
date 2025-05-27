@@ -1,3 +1,3 @@
-[[irgend]][[welche]]
+[[irgend]], [[welche]]
 
 [[Indefinitpronomen]], [[Je]]

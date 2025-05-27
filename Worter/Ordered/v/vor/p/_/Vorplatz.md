@@ -2,19 +2,24 @@
 die [[Vorplätze]]
 
 Beispiele:
+
 - die Familie [[betritt]] den Vorplatz.
 
 ---
+
 Synonyme:
+
 - [[Eingangsbereich]], [[Hof]], [[Platz vor dem Gebäude]]
 
 ---
+
 **Übersetzung**: forecourt, courtyard
 
 ---
 
 Morphems:
-[[vor]][[Platz]]
+[[vor]], [[Platz]]
 
 ---
+
 #Substantiv #Maskulin , [[11 08]]

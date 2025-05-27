@@ -7,23 +7,26 @@ Beispiele:
 - Die Tabelle zeigt den [[Hüftumfang]] in verschiedenen Größenkategorien.
 
 ---
+
 Synonyme:
+
 - [[Taillenumfang]]
 - [[Körperumfang]]
 - [[Hüftgröße]]
 
 ---
+
 **Übersetzung**:
+
 - hip circumference
 
 ---
 
 #Substantiv
-#Maskulin 
+#Maskulin
 
 ---
 
 Morphems of only noun:
-- [[Hüft]][[Umfang]]
 
-
+- [[Hüft]], [[Umfang]]

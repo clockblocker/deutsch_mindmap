@@ -1,8 +1,7 @@
 🔵 der [[Prankenhieb]]
 die [[Prankenhiebe]]
 
-
- Als der Leopard das Fleisch des Hirsches fraß, erschien ein Löwe, der vertrieb den Leoparden mit nur einem [[Prankenhieb]]
+Als der Leopard das Fleisch des Hirsches fraß, erschien ein Löwe, der vertrieb den Leoparden mit nur einem [[Prankenhieb]]
 
 Beispiele:
 
@@ -11,16 +10,20 @@ Beispiele:
 - Der Löwe setzte seinen [[Prankenhieb]] ein, um die Beute zu erlegen.
 
 ---
+
 Synonyme:
+
 - [[Schlag]], [[Hieb]], [[Schwung]]
 
 ---
+
 **Übersetzung**: paw strike, blow
 
 ---
 
 Morphems:
-[[Pranken]][[Hieb]]
+[[Pranken]], [[Hieb]]
 
 ---
+
 #Substantiv #Maskulin

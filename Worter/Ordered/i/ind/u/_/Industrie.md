@@ -1,1 +1,1 @@
-, [[Landwirtschaft]], [[Berufsfeld]], [[Baubranche]], [[Werbeindustrie]], [[Industrienation]], [[Industriestaat]]
+, [[Landwirtschaft]], [[Berufsfeld]], [[Baubranche]], [[Werbeindustrie]], [[Industrienation]], [[Industriestaat]], [[Pflegesektor]]

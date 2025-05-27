@@ -1,4 +1,4 @@
-[[getrennt]][[abgepackt]], [[berühmt]], [[beeindruckt]], [[IPA]], [[bemannt]], [[verirrt]], [[verwirrt]], [[verletzt]], [[wehrten]], [[verbrannt]], [[gebückt]], [[erledigt]], [[lichten]], [[schlichten]], [[Getränk]], [[erstaunt]], [[beschwert]], [[erlaubt]], [[achten]], [[verbannt]], [[begrenzt]], [[wohlgeformt]], [[bespritzen]], [[gereizt]], [[geehrt]], [[bestimmt]], [[Steuern]], [[überlebt]], [[ergeben]], [[erschöpft]], [[gemischt]], [[Ostasienfahrt]], [[entmutigt]], [[Informationswert]], [[Lückentext]]
+[[getrennt]], [[abgepackt]], [[berühmt]], [[beeindruckt]], [[IPA]], [[bemannt]], [[verirrt]], [[verwirrt]], [[verletzt]], [[wehrten]], [[verbrannt]], [[gebückt]], [[erledigt]], [[lichten]], [[schlichten]], [[Getränk]], [[erstaunt]], [[beschwert]], [[erlaubt]], [[achten]], [[verbannt]], [[begrenzt]], [[wohlgeformt]], [[bespritzen]], [[gereizt]], [[geehrt]], [[bestimmt]], [[Steuern]], [[überlebt]], [[ergeben]], [[erschöpft]], [[gemischt]], [[Ostasienfahrt]], [[entmutigt]], [[Informationswert]], [[Lückentext]]
 , [[beherzt]]
 , [[bedrückt]]
 , [[verdreht]]

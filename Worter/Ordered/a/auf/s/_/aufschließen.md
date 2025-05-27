@@ -3,11 +3,13 @@
 haben [[aufgeschlossen]]
 
 ---
+
 (Herr W. [[aufschließen|schließt]] die Tür auf; die Familie betritt den Vorplatz.
 
 ---
 
 Synonyme:
+
 - [[entriegeln]], [[öffnen]], [[aufsperren]]
 
 ---
@@ -23,14 +25,16 @@ Beispiele:
 - Sie [[schließen auf|schließen]] die Tür [[Konjunktion/Positionen/auf]].
 
 ---
+
 **Übersetzung**: to unlock, to open (with a key)
 
 ---
 
 **Morphems of only infinitive:**
-[[Konjunktion/Positionen/auf]][[schließen]]
+[[Konjunktion/Positionen/auf]], [[schließen]]
 
 ---
+
 Tags:
 #Verb #Trennbar
 
@@ -72,5 +76,5 @@ Konjunktiv II:
 - Wenn du aufpassen würdest, [[schlösset auf|schlösset]] du das Auto [[Konjunktion/Positionen/auf]].
 - Wenn er sich erinnern könnte, [[schlösse auf|schlösse]] er das Schloss [[Konjunktion/Positionen/auf]].
 - Wenn wir es eilig hätten, [[schlö​⬤, [[11 08]], [[abschließen]], [[eröffnen]], [[einholen]]
-, [[zumachen]]
-, [[aufmachen]]
+  , [[zumachen]]
+  , [[aufmachen]]

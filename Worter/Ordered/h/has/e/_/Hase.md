@@ -2,22 +2,27 @@
 die [[Hasen]]\
 
 ---
+
 Zuerst schloss sie Freundschaft mit dem [[Hasen]] und begleitete ihn überall hin.
 
-*Er trug die Brille auf der Nas*  
-*und wollte schießen tot den Has.
+_Er trug die Brille auf der Nas_  
+\*und wollte schießen tot den Has.
 
 ---
+
 Synonyme:
+
 - [[Kaninchen]], [[Feldhase]], [[Langohr]]
 
 ---
+
 **Übersetzung**: hare, rabbit
 
 ---
 
 Morphems:
-[[Has]][[e]]
+[[Has]], [[e]]
 
 ---
+
 #Substantiv #Maskulin

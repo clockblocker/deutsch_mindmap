@@ -2,22 +2,28 @@
 die [[Zauberquirle]]
 
 ---
-ANNA: Da brauchen Sie Annas neuen [[Zauberquirl]]!  
 
+ANNA: Da brauchen Sie Annas neuen [[Zauberquirl]]!
 
 ---
+
 Synonyme:
+
 - [[Rührlöffel]], [[Quirltopf]], [[Kochlöffel]], [[Schneebesen]]
 
 ---
+
 Übersetzung: magical whisk, enchanted whisk
 
 ---
+
 Morpheme:
-[[Zauber]][[quirl]]
+[[Zauber]], [[quirl]]
 
 ---
+
 Einzigartige mögliche Formen: [[Zauberquirls]], [[Zauberquirle]], [[Zauberquirlen]]
 
 ---
+
 #Substantiv #Neuter

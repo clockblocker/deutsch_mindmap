@@ -8,16 +8,20 @@ Beispiele:
 - Der Wecker klingelt laut auf dem [[Nachttisch]].
 
 ---
+
 Synonyme:
+
 - [[Bettkommode]], [[Beistelltisch]], [[Nachtkästchen]]
 
 ---
+
 **Übersetzung**: bedside table, nightstand
 
 ---
 
 Morphems:
-[[Nacht]][[Tisch]]
+[[Nacht]], [[Tisch]]
 
 ---
+
 #Substantiv #Maskulin , [[11 08]]

@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Küchen]] in diesem Restaurant sind hervorragend ausgestattet.
 
 ---
+
 Synonyme:
+
 - [[Kochraum]], [[Kochbereich]], [[Küchenraum]]
 
 ---
+
 **Übersetzung**: kitchen
 
 ---
+
 Morphems:
-[[Küch]][[e]]
+[[Küch]], [[e]]
 
 ---
+
 #Substantiv #Feminin, [[Küchenmagd]], [[Herd]], [[Küchenfenster]], [[Wohnzimmer]], [[Gymnastikraum]], [[Kantine]], [[Teeküche]], [[Küchenutensil]], [[Küchengut]], [[Sanitärbereich]]

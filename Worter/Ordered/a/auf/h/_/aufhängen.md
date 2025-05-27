@@ -29,7 +29,7 @@ Antonyme: [[abnehmen]], [[herunterhängen]], [[entfernen]]
 
 ---
 
-Morpheme: [[auf]][[häng]][[en]]
+Morpheme: [[auf]], [[häng]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens        | Präteritum       | Imperativ          | Konjunktiv I    | Konjunktiv II     |

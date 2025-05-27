@@ -3,33 +3,35 @@
 haben [[angegriffen]]
 
 ---
-Miete! Oder ich [[greife an]]!  
 
-*[[TD#^4|^]]* **Runestone Tower** erhöhen ihren **Schaden** mit jeder Sekunde, in der sie [[kontinuierlich]] [[dasselbe]] Ziel [[angreifen]]. ^4
+Miete! Oder ich [[greife an]]!
 
+_[[TD#^4|^]]_ **Runestone Tower** erhöhen ihren **Schaden** mit jeder Sekunde, in der sie [[kontinuierlich]] [[dasselbe]] Ziel [[angreifen]]. ^4
 
 ---
+
 Synonyme: [[attackieren]], [[überfallen]], [[belagern]], [[stürmen]], [[eindringen]], [[überfallen]]
 Antonyme: [[verteidigen]], [[schützen]], [[abwehren]], [[kapitulieren]], [[aufgeben]]
 
 ---
+
 Übersetzung: to attack
 
 ---
-Morpheme: [[an]][[greif]][[en]]
- #Verb  #Trennbar
+
+Morpheme: [[an]], [[greif]], [[en]]
+#Verb #Trennbar
 
 ---
 
-
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[greife an]] | [[griff an]] | - | [[greife an]] | [[griffe an]] |
-| Du | [[greifst an]] | [[griffst an]] | [[greif an]] | [[greifest an]] | [[griefest an]] |
-| Er/sie/es | [[greift an]] | [[griff an]] | - | [[greife an]] | [[griffe an]] |
-| Wir | [[greifen an]] | [[griffen an]] | - | [[greifen an]] | [[griffen an]] |
-| Ihr | [[greift an]] | [[grifft an]] | [[greift an]] | [[greifet an]] | [[griffet an]] |
-| Sie | [[greifen an]] | [[griffen an]] | [[greifen Sie an]] | [[greifen an]] | [[griffen an]] |
+| Person    | Präsens        | Präteritum     | Imperativ          | Konjunktiv I    | Konjunktiv II   |
+| --------- | -------------- | -------------- | ------------------ | --------------- | --------------- |
+| Ich       | [[greife an]]  | [[griff an]]   | -                  | [[greife an]]   | [[griffe an]]   |
+| Du        | [[greifst an]] | [[griffst an]] | [[greif an]]       | [[greifest an]] | [[griefest an]] |
+| Er/sie/es | [[greift an]]  | [[griff an]]   | -                  | [[greife an]]   | [[griffe an]]   |
+| Wir       | [[greifen an]] | [[griffen an]] | -                  | [[greifen an]]  | [[griffen an]]  |
+| Ihr       | [[greift an]]  | [[grifft an]]  | [[greift an]]      | [[greifet an]]  | [[griffet an]]  |
+| Sie       | [[greifen an]] | [[griffen an]] | [[greifen Sie an]] | [[greifen an]]  | [[griffen an]]  |
 
 Partizip I: [[angreifend]], Partizip II: [[angegriffen]]
 

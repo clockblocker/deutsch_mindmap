@@ -22,7 +22,7 @@ excited, agitated, nervous
 
 ---
 
-[[auf]][[geregt]]
+[[auf]], [[geregt]]
 
 ---
 
@@ -37,6 +37,6 @@ Plural: [[aufgeregten]], [[aufgeregteren]], [[aufgeregtetsten]]
 
 [[Aufregung]], [[Erregung]], [[aufregend]], [[aufregen]]
 
-[[nervös]][[ruhig]], [[beruhig]], [[entspannter]], [[entspannt]]
+[[nervös]], [[ruhig]], [[beruhig]], [[entspannter]], [[entspannt]]
 , [[weitermachen]], [[schrecklich]], [[begeistert]], [[aufgebracht]]
 , [[zappelig]], [[ungestört]]

@@ -1,23 +1,28 @@
-⚫ kohlpechrabenschwarz, [kol.pɛk.ʁaːbən.ʃvaʁt͡sɐ] 
+⚫ kohlpechrabenschwarz, [kol.pɛk.ʁaːbən.ʃvaʁt͡sɐ]
 nicht weiß
 
 ---
 
-
 ---
-Synonyme: 
+
+Synonyme:
+
 - pechschwarz, rabenschwarz
 
 Antonyme:
+
 - weiß, hell
 
 ---
-Übersetzung: 
+
+Übersetzung:
 coal-black, pitch-black, jet-black
 
 ---
+
 Morpheme:
-	[[Kohle]][[Pech]][[Rabe]][[schwarz]]
+[[Kohle]], [[Pech]], [[Rabe]], [[schwarz]]
 
 ---
-#Adjektiv #Kompositum 
+
+#Adjektiv #Kompositum

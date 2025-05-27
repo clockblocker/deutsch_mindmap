@@ -5,13 +5,15 @@
 nicht [[leer]]
 
 ---
- [[Ausgestopft]] sehen sie [[toll]] aus! 
----
+
+##  [[Ausgestopft]] sehen sie [[toll]] aus! 
 
 Synonyme:
+
 - [[präpariert]], [[gefüllt]], [[vollgestopft]]
 
 ---
+
 Beispiele:
 
 - Das [[ausgestopfte]] Tier sieht lebendig aus.
@@ -21,14 +23,16 @@ Beispiele:
 - Der [[ausgestopfte]] Fuchs steht im Regal.
 
 ---
+
 **Übersetzung**:
 stuffed
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[aus]][[gestopft]]
+[[aus]], [[gestopft]]

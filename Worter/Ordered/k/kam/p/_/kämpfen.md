@@ -3,13 +3,14 @@
 haben [[gekämpft]]
 
 ---
-- Wir halten zusammen Keiner kämpft allein 
-- Eines Tages aber bekam der Hase Streit mit einem Hirsch; dieser [[kämpfte]] gegen den Hasen und tötete ihn mit dem Geweih
 
+- Wir halten zusammen Keiner kämpft allein
+- Eines Tages aber bekam der Hase Streit mit einem Hirsch; dieser [[kämpfte]] gegen den Hasen und tötete ihn mit dem Geweih
 
 ---
 
 Synonyme:
+
 - [[streiten]], [[ringen]], [[fechten]]
 
 ---
@@ -24,14 +25,16 @@ Beispiele:
 - Sie [[kämpfen]] gegen ihre Ängste.
 
 ---
+
 **Übersetzung**: to fight, to struggle
 
 ---
 
 Morphems of only infinitive:
-[[kämpf]][[en]]
+[[kämpf]], [[en]]
 
 ---
+
 Tags:
 #Verb
 
@@ -76,5 +79,5 @@ Konjunktiv II:
 - Wenn wir vereint wären, [[kämpften]] wir erfolgreicher.
 - Wenn ihr Vertrauen hättet, [[kämpftet]] ihr mit Zuversicht.
 - Wenn sie mehr Unterstützung hätten, [[kämpften]] sie mit größerem Einsatz., [[bemühen]], [[verzichten]], [[verzweifeln]], [[s1 e1]]
-, [[zufriedengeben]]
-, [[umkämpfen]], [[Schlacht]], [[schwertun]]
+  , [[zufriedengeben]]
+  , [[umkämpfen]], [[Schlacht]], [[schwertun]]

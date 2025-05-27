@@ -1,29 +1,35 @@
 😌 [[entlasten]], [ɛntˈlastn̩](https://youglish.com/pronounce/entlasten/german) → [[entlastete]] → [[entlastet]]
 
 ---
+
 - Nennen Sie Beispiele, wie Unternehmen ihre Mitarbeitenden [[entlasten]] können.
 
 ---
+
 = [[befreien]], [[erleichtern]], [[befreien]]
 ≈ [[unterstützen]], [[helfen]], [[unterstützen]]
 ≠ [[belasten]], [[erschweren]], [[beschweren]]
 
-, [[anspannen]], [[ledig]], [[erleichtern]], [[leichtern]], [[anklagen]], [[bezigen]], [[Last]][[verurteilen]], [[vorwerfen]], [[zeihen]], [[plagen]], [[überfordern]]
+, [[anspannen]], [[ledig]], [[erleichtern]], [[leichtern]], [[anklagen]], [[bezigen]], [[Last]], [[verurteilen]], [[vorwerfen]], [[zeihen]], [[plagen]], [[überfordern]]
 
 ---
+
 to relieve, to unburden  
 разгружать, освобождать
 
 ---
+
 [[Entlastung]], [[Last]], [[belasten]]
 
 ---
+
 [[ent]]|[[last]]|[[en]]
 [[ent]] + [[lasten]]
 
-
 ---
+
 ###### [[entlasten]] jN
+
 - Was [[entlastet]] dich?
 - Die neue Software.
 
@@ -34,6 +40,7 @@ to relieve, to unburden
 - Durch die staatlichen Hilfen.
 
 ---
+
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 ich, [[entlast]] / [[entlaste]], [[entlastete]], [[entlaste]], [[entlastete]], -
 du, [[entlastest]], [[entlastetest]], [[entlastest]], [[entlastetest]], [[entlast]] / [[entlaste]]
@@ -42,8 +49,9 @@ wir, [[entlasten]], [[entlasteten]], [[entlasten]], [[entlasteten]], [[entlasten
 ihr, [[entlastet]], [[entlastetet]], [[entlastet]], [[entlastetet]], [[entlastet]]
 sie, [[entlasten]], [[entlasteten]], [[entlasten]], [[entlasteten]], [[entlasten]]
 
-*Zu + Inf*: zu [[entlasten]], *P2*: [[entlastet]]
+_Zu + Inf_: zu [[entlasten]], _P2_: [[entlastet]]
 Adjektive: [[entlastend]], [[entlastender]], [[entlastendst]]
 
 ---
+
 [[entlastender]], [[entlastendes]], [[entlastende]], [[entlastenden]], [[entlastendem]], [[entlastenderer]], [[entlastenderes]], [[entlastendere]], [[entlastenderen]], [[entlastenderem]], [[entlastendster]], [[entlastendstes]], [[entlastendste]], [[entlastendsten]], [[entlastendstem]], [[belästigen]], [[beanspruchen]], [[verurteilen]]

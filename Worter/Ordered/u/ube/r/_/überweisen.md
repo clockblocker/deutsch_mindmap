@@ -19,7 +19,7 @@ Antonyme: [[abheben]], [[auszahlen]], [[empfangen]]
 
 ---
 
-Morpheme: [[Ü/über]][[weis]][[en]]
+Morpheme: [[Ü/über]], [[weis]], [[en]]
 #Verb #Trennbar
 
 ---

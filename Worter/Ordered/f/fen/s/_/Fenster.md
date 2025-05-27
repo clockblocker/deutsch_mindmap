@@ -3,22 +3,27 @@ die [[Fenster]]
 
 Beispiele:
 
-Wenn Schwesterlein der Arbeit frönt*  
-*Das Licht im [[Fenster]] rot
+Wenn Schwesterlein der Arbeit frönt\*  
+\*Das Licht im [[Fenster]] rot
 
-*Des Jägers Frau am [[Fenster]] saß*  
-*und trank aus ihrer Kaffeetaß.*  
+_Des Jägers Frau am [[Fenster]] saß_  
+_und trank aus ihrer Kaffeetaß._
 
 ---
+
 Synonyme:
+
 - [[Glasöffnung]], [[Aussichtsöffnung]], [[Lichtöffnung]]
 
 ---
+
 **Übersetzung**: window
 
 ---
+
 Morphems:
-[[Fenst]][[er]]
+[[Fenst]], [[er]]
 
 ---
+
 #Substantiv #Neuter, [[frönen]], [[Fenstern]], [[Tür]], [[Küchenfenster]]

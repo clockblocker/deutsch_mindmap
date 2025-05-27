@@ -8,16 +8,20 @@ Beispiele:
 - Viele [[Fremdlinge]] kamen in die Stadt auf der Suche nach Arbeit.
 
 ---
+
 Synonyme:
+
 - [[Fremder]], [[Ausländer]], [[Zugezogener]]
 
 ---
+
 **Übersetzung**: stranger, foreigner
 
 ---
 
 Morphems:
-[[Fremd]][[ling]]
+[[Fremd]], [[ling]]
 
 ---
+
 #Substantiv #Maskulin

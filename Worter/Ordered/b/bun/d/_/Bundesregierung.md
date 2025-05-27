@@ -10,7 +10,6 @@ die [[Bundesregierungen]]
 
 72. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
 
-
     - [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
     - [ ] Sie arbeiten in der [[Bundesregierung]].
 
@@ -26,7 +25,7 @@ federal government
 
 ---
 
-[[Bundes]][[Regierung]]
+[[Bundes]], [[Regierung]]
 
 ---
 

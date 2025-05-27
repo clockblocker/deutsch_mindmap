@@ -17,7 +17,7 @@ Antonyme: [[verstecken]], [[verbergen]], [[verheimlichen]]
 
 ---
 
-Morpheme: [[sehe]][[n]] [[lass]][[en]]
+Morpheme: [[sehe]], [[n]] [[lass]], [[en]]
 #Verb #Trennbar
 
 ---

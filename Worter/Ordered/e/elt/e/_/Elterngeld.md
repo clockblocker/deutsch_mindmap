@@ -20,7 +20,7 @@ parental allowance, parental benefits
 
 ---
 
-[[Eltern]][[Geld]]
+[[Eltern]], [[Geld]]
 
 ---
 

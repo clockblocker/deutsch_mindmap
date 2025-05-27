@@ -3,6 +3,7 @@
 haben [[gesungen]]
 
 ---
+
 [[Sing und Sang]]
 
 ---
@@ -30,7 +31,8 @@ haben [[gesungen]]
 to sing
 
 ---
- #Verb  #Unregelmäßig
+
+#Verb #Unregelmäßig
 
 ---
 
@@ -60,5 +62,6 @@ to sing
 
 ---
 
-**Morphems of only infinitive:**  
-- [[sing]][[en]], [[murmeln]], [[flöten]], [[summen]], [[pfeifen]]
+**Morphems of only infinitive:**
+
+- [[sing]], [[en]], [[murmeln]], [[flöten]], [[summen]], [[pfeifen]]

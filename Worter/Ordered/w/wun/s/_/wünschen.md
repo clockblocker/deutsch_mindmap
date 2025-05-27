@@ -1,29 +1,30 @@
 🤞 [[wünschen]], [ˈvʏnʃən] | [[wünschte]], haben [[gewünscht]], [[Wunsch]]
 
 ---
+
 ![[002-C1-Schreiben-T2#^5|^]]
 
-Einerseits vertreten viele den Standpunkt, man sollte vor allem auf die Arbeitsmöglichkeiten des [[gewünschten]] [[Studiengangs]] achten. 
+Einerseits vertreten viele den Standpunkt, man sollte vor allem auf die Arbeitsmöglichkeiten des [[gewünschten]] [[Studiengangs]] achten.
 
-*[[06-C1-Schreiben-T2-M#^10|^]]* Meiner Meinung nach sollte es für alle Mitarbeitenden die Möglichkeit geben, mittags etwas Warmes zu essen, sofern sie dies [[wünschen]] und das [[innerhalb]] von unserer [[Mittagspause]] von 30 Minuten. ^10
-
+_[[06-C1-Schreiben-T2-M#^10|^]]_ Meiner Meinung nach sollte es für alle Mitarbeitenden die Möglichkeit geben, mittags etwas Warmes zu essen, sofern sie dies [[wünschen]] und das [[innerhalb]] von unserer [[Mittagspause]] von 30 Minuten. ^10
 
 Es gibt viele [[Arten]], einander Glück zu [[wünschen]]. Man kann „viel [[Erfolg]]!“ sagen oder jemandem die Daumen [[drücken]]. Ob es hilft? [[Immerhin]]: Wer [[freut]] sich nicht darüber, dass an ihn [[gedacht]] wird?
 
 «Das macht nichts!» - lacht meine [[Schwester]]. «Wir helfen unserem
 Freund gern. Wir gehen zusammen ins Café, singen "Zum Geburtstag viel Glück!" und wünschen dir alles Gute!» [[9 Pronomen######5|source]]
 
-
 ---
+
 Synonyme: [[begehren]], [[Verlangen]], [[herbeisehnen]], [[erhoffen]], [[erbitten]]
 Antonyme: [[ablehnen 1]], [[verweigern]], [[absagen]], [[verzichten]]
 
 ---
+
 to wish, to want
 
 ---
-[[wünsch]][[en]]
-   
+
+[[wünsch]], [[en]]
 
 ---
 
@@ -32,11 +33,12 @@ Ich: [[wünsche]], [[wünschte]], -, [[wünsche]], [[wünschte]]
 Du: [[wünschst]], [[wünschtest]], [[wünsch]], [[wünschest]], [[wünschtest]]  
 Er/sie/es: [[wünscht]], [[wünschte]], -, [[wünsche]], [[wünschte]]  
 Wir: [[wünschen]], [[wünschten]], -, [[wünschen]], [[wünschten]]  
-Ihr: [[wünscht]], [[wünschtet]], [[wünscht]], [[wünschet]], [[wünschtet]]  
+Ihr: [[wünscht]], [[wünschtet]], [[wünscht]], [[wünschet]], [[wünschtet]]
 
-Partizip I: [[wünschend]], 
+Partizip I: [[wünschend]],
 Partizip II: [[gewünscht]]
 Zu+infinitive: [[zuwünschen]]
 
 ---
+
 [[Wunsch]], [[Wünsche]], [[Wünschelrute]], [[wünschenswert]], [[wunschlos]], [[wunschlos]], [[ablehnen]], [[anstreben]], [[gieren]]

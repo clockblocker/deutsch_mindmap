@@ -5,15 +5,17 @@
 nicht [[unattraktiv]]
 
 ---
-SASCHA: Ja, genau! Gut [[aussehen]]de [[Kellner]] finde ich super!  
 
+SASCHA: Ja, genau! Gut [[aussehen]]de [[Kellner]] finde ich super!
 
 ---
 
 Synonyme:
+
 - [[attraktiv]], [[ansehnlich]], [[gutaussehend]]
 
 ---
+
 Beispiele:
 
 - Ich sehe einen [[aussehenden]] Mann.
@@ -32,9 +34,8 @@ Beispiele:
 - Ich spreche mit den [[aussehenden]] Menschen.
 - Die Ausstrahlung der [[aussehenden]] Menschen ist beeindruckend.
 
-
-
 ---
+
 **Übersetzung**:
 looking, appearing
 
@@ -45,7 +46,8 @@ Tags:
 #Partizip I
 
 ---
+
 Morphems:
-[[aus]][[sehend]]
+[[aus]], [[sehend]]
 
 [[aussehen]]

@@ -31,3 +31,4 @@ D: der [[Bezeichnung]], den [[Bezeichnungen]]
 [[bezeichnen]], [[bezeichnend]], [[unbezeichnend]], [[bezeichnerisch]]
 
 #Feminin
+, [[Rang]]

@@ -19,7 +19,7 @@ Antonyme: [[erwarten]], [[antizipieren]], [[vorhersehen]]
 
 ---
 
-Morpheme: [[Ü/über]][[rasch]][[en]]
+Morpheme: [[Ü/über]], [[rasch]], [[en]]
 #Verb #Untrennbar
 
 ---

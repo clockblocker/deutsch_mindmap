@@ -18,7 +18,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[auf]][[Sicht]]
+[[auf]], [[Sicht]]
 
 ---
 

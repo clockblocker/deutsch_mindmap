@@ -22,7 +22,7 @@ Antonyme: [[gewinnen]], [[erhalten]], [[bekommen]], [[finden]]
 
 ---
 
-Morpheme: [[ver]][[lier]][[en]]
+Morpheme: [[ver]], [[lier]], [[en]]
 #Verb #Trennbar
 
 ---
@@ -42,3 +42,4 @@ Partizip I: [[verlierend]], Partizip II: [[verloren]]
 , [[zusammenbekommen]]
 , [[aufrechterhalten]]
 , [[umkämpfen]], [[gelangen]], [[verspielen]], [[raffen]], [[vergeigen]], [[tragen]], [[fehlen]], [[melken]], [[erwerben]], [[sichern]], [[erfassen]], [[orten]], [[einsammeln]], [[bergen]], [[verwahren]], [[Absammeln]], [[erobern]], [[vorherrschen]], [[vergeuden]], [[beschaffen]], [[zustehen]], [[zurückfallen]], [[zulegen]], [[aneignen]], [[überwältigen]], [[kompensieren]], [[abwerben]]
+, [[beibehalten]]

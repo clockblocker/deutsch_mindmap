@@ -18,7 +18,7 @@ Antonyme: [[nicht sein]], [[fehlen]], [[wegfallen]], [[verschwinden]]
 ---
 
 Morpheme:
-[[wär]][[en]]
+[[wär]], [[en]]
 
 ---
 

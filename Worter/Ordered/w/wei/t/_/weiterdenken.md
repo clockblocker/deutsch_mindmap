@@ -5,6 +5,7 @@ haben [[weitergedacht]]
 ---
 
 Synonyme:
+
 - [[überlegen]], [[nachdenken]], [[fortsetzen]]
 
 ---
@@ -16,16 +17,18 @@ Beispiele:
 - Sie hat lange über die Zukunft [[weitergedacht]].
 
 ---
+
 **Übersetzung**: to think ahead, to think further
 
 ---
 
 Morphems of only infinitive:
-[[weiter]][[denk]][[en]]
+[[weiter]], [[denk]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Trennbar
+#Verb #Trennbar
 
 ---
 

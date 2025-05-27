@@ -17,7 +17,7 @@ schedule, timetable, plan
 
 ---
 
-[[zeit]][[plan]]
+[[zeit]], [[plan]]
 
 ---
 

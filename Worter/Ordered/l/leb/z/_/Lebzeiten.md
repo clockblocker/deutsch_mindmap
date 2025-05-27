@@ -2,22 +2,28 @@
 die [[Lebzeiten]]
 
 ---
-[[Wer]] zu [[Lebzeiten|Lebzeit]]' gut auf Erden,  
 
+[[Wer]] zu [[Lebzeiten|Lebzeit]]' gut auf Erden,
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Lebensdauer]], [[Lebensjahre]], [[Lebensspanne]], [[Dasein]], [[Existenz]]
 
 ---
+
 Übersetzung: lifetime, lifetime
 
 ---
+
 Morpheme:
-[[Leb]][[zeiten]]
+[[Leb]], [[zeiten]]
 
 ---
+
 Einzigartige mögliche Formen: [[Lebzeiten]], [[Lebzeiten]]
 
 ---
+
 #Substantiv #Feminin

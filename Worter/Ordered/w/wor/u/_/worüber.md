@@ -21,6 +21,6 @@ about what, about which, regarding what, regarding which
 ---
 
 Morpheme:
-[[wor]][[Ü/über]]
+[[wor]], [[Ü/über]]
 
 ---, [[Woraus]], [[woran]], [[Grammatik-Pronomen-Interrogative]]

@@ -44,7 +44,7 @@ to start, to begin, to tackle, to concern
 
 ---
 
-[[an]][[geh]][[en]]
+[[an]], [[geh]], [[en]]
 
 ---
 

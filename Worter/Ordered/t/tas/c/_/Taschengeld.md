@@ -21,7 +21,7 @@ pocket money, allowance
 
 ---
 
-[[Taschen]][[Geld]]
+[[Taschen]], [[Geld]]
 
 ---
 

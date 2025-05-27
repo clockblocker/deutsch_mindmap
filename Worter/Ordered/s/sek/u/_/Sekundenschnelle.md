@@ -10,16 +10,20 @@ Beispiele:
 - Die Nachricht verbreitete sich in [[Sekundenschnelle]].
 
 ---
+
 Synonyme:
+
 - [[Augenblick]], [[Moment]], [[Handumdrehen]]
 
 ---
+
 **Übersetzung**: in seconds, in an instant
 
 ---
 
 Morphems:
-[[Sekunde]][[nschnelle]]
+[[Sekunde]], [[nschnelle]]
 
 ---
+
 #Substantiv #Feminin

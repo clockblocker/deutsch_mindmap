@@ -1,1 +1,1 @@
-, [[Berichterstattung]][[kundtun]]
+, [[Berichterstattung]], [[kundtun]]

@@ -20,7 +20,7 @@ thing, matter, issue
 
 ---
 
-[[Sach]][[e]]
+[[Sach]], [[e]]
 
 ---
 

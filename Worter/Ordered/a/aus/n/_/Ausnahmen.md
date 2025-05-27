@@ -1,2 +1,1 @@
-, [[ausnehmen]][[Ausnahme]]
-
+, [[ausnehmen]], [[Ausnahme]]

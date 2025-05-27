@@ -3,15 +3,18 @@
 nicht [[weich]]
 
 ---
-*Lässt dich hart zu Boden geh'n*
-*Und die Welt zählt laut bis zehn*
+
+_Lässt dich hart zu Boden geh'n_
+_Und die Welt zählt laut bis zehn_
 
 ---
 
 Synonyme:
+
 - [[fest]], [[zäh]], [[stark]]
 
 ---
+
 Beispiele:
 
 - Ich sehe einen [[harten]] Stein.
@@ -63,14 +66,16 @@ Beispiele:
 - Die Oberfläche der [[härtesten]] Steine ist rau.
 
 ---
+
 **Übersetzung**:
 hard
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[hart]][[seidig]], [[schwer]], [[streng]], [[steif]], [[flüssigen]], [[zärtlich]], [[unerbittlich]], [[sanft]], [[derb]], [[robust]], [[rücksichtslos]], [[Hardliner]]
+[[hart]], [[seidig]], [[schwer]], [[streng]], [[steif]], [[flüssigen]], [[zärtlich]], [[unerbittlich]], [[sanft]], [[derb]], [[robust]], [[rücksichtslos]], [[Hardliner]]

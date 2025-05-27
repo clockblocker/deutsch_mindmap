@@ -1,8 +1,7 @@
 🟢 das [[Hühnchen]]
 die [[Hühnchen]]
 
-NIC: Oh, [[Huhn|Hühnchen]] … Oh – sag mal Anna …  
-
+NIC: Oh, [[Huhn|Hühnchen]] … Oh – sag mal Anna …
 
 Beispiele:
 
@@ -11,16 +10,20 @@ Beispiele:
 - Sie brät das [[Hühnchen]] in der Pfanne.
 
 ---
+
 Synonyme:
+
 - [[Huhn]], [[Geflügel]], [[Poulet]]
 
 ---
+
 **Übersetzung**: chicken (diminutive, often used for chicken meat)
 
 ---
 
 Morphems:
-[[Hühn]][[chen]]
+[[Hühn]], [[chen]]
 
 ---
+
 #Substantiv #Neuter

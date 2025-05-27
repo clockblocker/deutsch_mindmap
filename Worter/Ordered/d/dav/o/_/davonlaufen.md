@@ -3,12 +3,13 @@
 sein [[davongelaufen]]
 
 ---
-Eines Tages aber [[lief]] der Löwe erschrocken [[davon]] und die Katze versteckte sich auf einem Baum
 
+Eines Tages aber [[lief]] der Löwe erschrocken [[davon]] und die Katze versteckte sich auf einem Baum
 
 ---
 
 Synonyme:
+
 - [[wegrennen]], [[fliehen]], [[entkommen]]
 
 ---
@@ -20,16 +21,18 @@ Beispiele:
 - Die Kinder sind schnell [[davongelaufen]], als es zu regnen begann.
 
 ---
+
 **Übersetzung**: ran away, fled
 
 ---
 
 Morphems of only infinitive:
-[[davon]][[Lauf]][[en]]
+[[davon]], [[Lauf]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Trennbar
+#Verb #Trennbar
 
 ---
 

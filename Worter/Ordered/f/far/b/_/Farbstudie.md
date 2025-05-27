@@ -4,18 +4,24 @@ die [[Farbstudien]]
 ---
 
 ---
+
 Synonyme:
+
 - [[Farbanalyse]], [[Farbuntersuchung]], [[Farbexperiment]], [[Farbforschung]]
 
 ---
+
 Übersetzung: color study, color research
 
 ---
+
 Morpheme:
-[[Farb]][[Studie]]
+[[Farb]], [[Studie]]
 
 ---
+
 Einzigartige mögliche Formen: [[Farbstudie]], [[Farbstudien]]
 
 ---
+
 #Substantiv #Neuter #Komposition

@@ -3,22 +3,24 @@
 haben [[ausgewrungen]]
 
 ---
+
 ([[wringt aus|wringt]] seinen Zopf aus)
 
-
 ---
+
 Synonyme: [[abtropfen]], [[auspulen]], [[ausquetschen]], [[ausdrücken]], [[entfeuchten]]
 Antonyme: [[eintauchen]], [[einwässern]], [[befeuchten]]
 
 ---
+
 Übersetzung: to wring out
 
 ---
-Morpheme: [[aus]][[wring]][[en]]
- #Verb  #Trennbar
+
+Morpheme: [[aus]], [[wring]], [[en]]
+#Verb #Trennbar
 
 ---
-
 
 | Person    | Präsens         | Präteritum      | Imperativ           | Konjunktiv I    | Konjunktiv II    |
 | --------- | --------------- | --------------- | ------------------- | --------------- | ---------------- |

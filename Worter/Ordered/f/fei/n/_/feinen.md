@@ -1,29 +1,31 @@
- feinen, [ˈfaɪ̯nən]
+feinen, [ˈfaɪ̯nən]
 nicht [[grob]]
 
 ---
-- Sie haben doch den [[feinen]]? 
--
 
----
-Synonyme: [[zart]], [[subtil]], [[delikat]], [[fein]], [[sacht]]
-Antonyme: [[grob]], [[rau]], [[derb]], [[hart]], [[dick]]
+- Sie haben doch den [[feinen]]?
+- ***
 
----
-**Übersetzung**:
-fine, delicate
+  Synonyme: [[zart]], [[subtil]], [[delikat]], [[fein]], [[sacht]]
+  Antonyme: [[grob]], [[rau]], [[derb]], [[hart]], [[dick]]
 
----
-#Adjective [[feinen]]
+  ***
 
----
-Morpheme:
-[[fein]][[en]]
+  **Übersetzung**:
+  fine, delicate
 
----
+  ***
 
+  #Adjective [[feinen]]
 
-Einzigartige mögliche Formen: 
+  ***
+
+  Morpheme:
+  [[fein]], [[en]]
+
+  ***
+
+Einzigartige mögliche Formen:
 [[feinen]], [[feineren]], [[feinere]], [[feineres]], [[feineren]], [[feinerem]], [[feinerer]], [[feineren]]
 [[feinsten]], [[feinster]], [[feinste]], [[feinstes]], [[feinsten]], [[feinstem]], [[feinster]], [[feinsten]]
 '''

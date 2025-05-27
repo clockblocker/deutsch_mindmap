@@ -17,7 +17,7 @@ Antonyme: [[schweigen]], [[ignorieren]], [[verschweigen]]
 
 ---
 
-Morpheme: [[ant]][[Wort]][[en]]
+Morpheme: [[ant]], [[Wort]], [[en]]
 #Verb #Untrennbar
 
 ---

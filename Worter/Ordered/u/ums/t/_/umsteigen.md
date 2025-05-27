@@ -2,7 +2,7 @@
 
 ---
 
-[[um]][[steigen]] change
+[[um]], [[steigen]] change
 [[aussteigen]] exit
 [[einsteigen]] board
 

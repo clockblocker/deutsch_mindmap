@@ -16,7 +16,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[Chemie]][[faser]][[n]]
+[[Chemie]], [[faser]], [[n]]
 
 ---
 

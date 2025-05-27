@@ -8,16 +8,20 @@ Beispiele:
 - Verschiedene [[Schraubenzieher]] sind in dem Set enthalten.
 
 ---
+
 Synonyme:
+
 - [[Dreher]], [[Schraubendreher]], [[Schraubenziehwerkzeug]]
 
 ---
+
 **Übersetzung**: screwdriver
 
 ---
 
 Morphems:
-[[Schrauben]][[zieher]]
+[[Schrauben]], [[zieher]]
 
 ---
+
 #Substantiv #Maskulin , [[11 08]]

@@ -2,27 +2,31 @@
 nicht [[vorheriges]]
 
 ---
+
 - Herrn Engelmann, und der Kundin beginnt [[folgendes]] Gespräch:
 
 ---
+
 Synonyme: [[nächstes]], [[kommendes]], [[darauffolgend]], [[anschließend]], [[künftig]]
 Antonyme: [[vorheriges]], [[früheres]], [[letztes]], [[vergangen]]
 
 ---
+
 **Übersetzung**:
 following, next
 
 ---
+
 #Adjective [[folgendes]]
 
 ---
+
 Morpheme:
-[[folg]][[end]][[es]]
+[[folg]], [[end]], [[es]]
 
 ---
 
-
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[folgendes]], [[folgender]], [[folgende]], [[folgendes]], [[folgend]], [[folgendem]], [[folgender]], [[folgend]]
 [[folgendere]], [[folgenderen]], [[folgeneres]], [[folgenderes]], [[folgeneren]], [[folgendenem]], [[folgenerer]], [[folgeneren]]
 [[folgensten]], [[folgendster]], [[folgenste]], [[folgendstes]], [[folgendsten]], [[folgendstem]], [[folgendster]], [[folgendsten]]

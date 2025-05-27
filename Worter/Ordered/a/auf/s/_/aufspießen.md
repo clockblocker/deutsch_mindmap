@@ -19,7 +19,7 @@ Antonyme: [[herausnehmen]], [[entfernen]], [[ablösen]]
 
 ---
 
-Morpheme: [[auf]][[spieß]][[en]]
+Morpheme: [[auf]], [[spieß]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens         | Präteritum        | Imperativ           | Konjunktiv I     | Konjunktiv II     |

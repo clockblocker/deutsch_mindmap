@@ -2,32 +2,35 @@
 nicht [[zufrieden]]
 
 ---
+
 Hein Martens erzählte dem Professor alles. Er saß vor ihm so [[unglücklich]] und [[enttäuscht]], der Buddha stand auf dem Tisch. [[14 perfekt#^16|^]]
 
 Die [[Erwartung]]en der Protagonisten werden [[enttäuscht]]
 
-*[[C1-Hoehen-T1-200-Text#^20|^]]* Wer hier auf ein Buch hofft, das den Wald [[verklärt]] oder romantisiert, wird [[enttäuscht]] sein
+_[[C1-Hoehen-T1-200-Text#^20|^]]_ Wer hier auf ein Buch hofft, das den Wald [[verklärt]] oder romantisiert, wird [[enttäuscht]] sein
 
-b) [[enttäuschte]] viele [[Erwartung]]en.  
+b) [[enttäuschte]] viele [[Erwartung]]en.
 
 Das Mädchen ist so [[enttäuscht]] wie ein Kind.
 
 [[16 Plusquamperfekt#^15|^]] Sie war so [[enttäuscht]], kraftlos und schwach, dass ihr alles aus den Händen fiel. ^15
 
-„Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“ 
+„Kanada, mein Lieblingsland!“, denkt Diana und stellt aber sofort etwas [[enttäuscht]] [[fest]]:  „Wenn er aus Kanada ist, bleibt er bestimmt nicht lange in Deutschland … Schade!“
 
-Er erklärte dem [[enttäuschten]] Mädchen im Telefongespräch, dass er ihr bald einen [[zärtlich|zärtlichen]] Brief schickt. [[13 Nebensätze#^2|(Quelle: 13 Nebensätze)]] 
-
+Er erklärte dem [[enttäuschten]] Mädchen im Telefongespräch, dass er ihr bald einen [[zärtlich|zärtlichen]] Brief schickt. [[13 Nebensätze#^2|(Quelle: 13 Nebensätze)]]
 
 ---
+
 Synonyme: [[entmutigt]], [[niedergeschlagen]], [[frustriert]], [[resigniert]], [[deprimiert]]
 Antonyme: [[hoffnungsvoll]], [[optimistisch]], [[zuversichtlich]], [[motiviert]]
 
 ---
+
 disappointed
 
 ---
-[[ent]][[täuscht]]
+
+[[ent]], [[täuscht]]
 
 ---
 
@@ -38,6 +41,6 @@ Genitive: [[enttäuschter]], [[enttäuschteren]], [[enttäuschtest]]
 Dative: [[enttäuschtem]], [[enttäuschterem]], [[enttäuschtest]]  
 Feminine: [[enttäuschte]], [[enttäuschteren]], [[enttäuschtest]]  
 Neuter: [[enttäuschtes]], [[enttäuschteren]], [[enttäuschtest]]  
-Plural: [[enttäuschten]], [[enttäuschteren]], [[enttäuschsten]]  
+Plural: [[enttäuschten]], [[enttäuschteren]], [[enttäuschsten]]
 
 [[Enttäuschung]], [[enttäuschen]], [[Enttäuschungsgrad]]

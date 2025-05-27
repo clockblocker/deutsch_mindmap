@@ -2,19 +2,24 @@
 die [[stimmen]]
 
 Beispiele:
-- Ich  bin die [[Stimme]] aus dem Kissen
+
+- Ich bin die [[Stimme]] aus dem Kissen
 
 ---
+
 Synonyme:
+
 - [[Klang]], [[Ton]], [[Gesang]]
 
 ---
+
 **Übersetzung**: voice, vote
 
 ---
 
 Morphems:
-[[Stimm]][[e]]
+[[Stimm]], [[e]]
 
 ---
+
 #Substantiv #Feminin, [[Zweitstimme]], [[Erststimme]], [[Stimmabgabe]], [[Wählerstimme]]n, [[zustimmen]], [[abstimmen]]

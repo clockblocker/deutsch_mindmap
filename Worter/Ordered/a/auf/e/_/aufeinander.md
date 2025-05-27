@@ -1,1 +1,1 @@
-[[übereinander]][[einander]]
+[[übereinander]], [[einander]]

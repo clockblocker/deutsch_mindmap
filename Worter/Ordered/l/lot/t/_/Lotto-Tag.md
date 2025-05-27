@@ -2,22 +2,27 @@
 die [[Lotto-Tage]]
 
 ---
--
--
 
----
-Synonyme:
+-
+- ***
+
+  Synonyme:
+
 - [[Ziehung]], [[Auslosung]], [[Gewinnspiel]], [[Lotterie]]
 
 ---
+
 Übersetzung: lottery day
 
 ---
+
 Morpheme:
-[[Lotto]][[Tag]]
+[[Lotto]], [[Tag]]
 
 ---
+
 Einzigartige mögliche Formen: [[Lotto-Tages]], [[Lotto-Tage]], [[Lotto-Tagen]]
 
 ---
+
 #Substantiv #Neuter

@@ -1,2 +1,2 @@
-, [[anklagen]], [[bezigen]][[verurteilen]], [[vorwerfen]]
+, [[anklagen]], [[bezigen]], [[verurteilen]], [[vorwerfen]]
 , [[zeihen]]

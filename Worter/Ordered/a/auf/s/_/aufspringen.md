@@ -19,7 +19,7 @@ Antonyme: [[sitzen bleiben]], [[niedergehen]], [[langsam bewegen]]
 
 ---
 
-Morpheme: [[auf]][[spring]][[en]]
+Morpheme: [[auf]], [[spring]], [[en]]
 #Verb #Trennbar
 
 ---

@@ -5,14 +5,17 @@
 nicht [[unwahrscheinlich]]
 
 ---
+
 Hallo. Ihr Paket wird [[voraussichtlich]] morgen [[zugestellt]].
 
 ---
 
 Synonyme:
+
 - [[wahrscheinlich]], [[vermutlich]], [[aller Voraussicht nach]]
 
 ---
+
 Beispiele:
 
 - Der Zug wird [[voraussichtlich]] um 10 Uhr ankommen.
@@ -28,14 +31,16 @@ Beispiele:
 - Er wird die Prüfung [[am voraussichtlichsten]] bestehen.
 
 ---
+
 **Übersetzung**:
 expected, probable
 
 ---
 
-Tags: 
+Tags:
 #Adverb
 
 ---
+
 Morphems:
-[[vor]][[aus]][[sichtlich]], [[hoffentlich]], [[erwartungsgemäß]], [[vorausahnen]], [[terminlich]], [[unvorhergesehen]], [[künftig]]
+[[vor]], [[aus]], [[sichtlich]], [[hoffentlich]], [[erwartungsgemäß]], [[vorausahnen]], [[terminlich]], [[unvorhergesehen]], [[künftig]]

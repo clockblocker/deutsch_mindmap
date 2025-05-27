@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Freigaben]] müssen genehmigt werden.
 
 ---
+
 Synonyme:
+
 - [[Genehmigung]], [[Zulassung]], [[Erlaubnis]]
 
 ---
+
 **Übersetzung**: release, approval
 
 ---
+
 Morphems:
-[[frei]][[gabe]]
+[[frei]], [[gabe]]
 
 ---
+
 #Substantiv #Feminin, [[Freigabeprobleme]], [[Zulassungsgrenze]], [[verbot]], [[Autoverbot]], [[Entwarnung]], [[Bildrecht]], [[freigeben]], [[Einschränkung]], [[Regulierung]]

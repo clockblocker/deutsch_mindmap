@@ -26,7 +26,7 @@ Antonyme: [[verlängern]], [[fortsetzen]], [[beibehalten]]
 
 ---
 
-Morpheme: [[künd]][[igen]]
+Morpheme: [[künd]], [[igen]]
 #Verb #Untrennbar
 
 | Person    | Präsens      | Präteritum     | Imperativ        | Konjunktiv I  | Konjunktiv II  |

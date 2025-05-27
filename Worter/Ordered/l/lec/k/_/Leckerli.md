@@ -1,4 +1,4 @@
-das [[Lecker]][[li]]
+das [[Lecker]], [[li]]
 die [[Leckerli]]
 
 ---

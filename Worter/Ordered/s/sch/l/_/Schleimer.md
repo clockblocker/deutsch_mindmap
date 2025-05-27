@@ -3,19 +3,23 @@ die [[Schleimer]]
 
 Beispiele:
 
-- NIC: … Warte nur, du [[Schleimer]]!  
+- NIC: … Warte nur, du [[Schleimer]]!
 
 ---
+
 Synonyme:
+
 - [[Kriecher]], [[Speichellecker]], [[Heuchler]]
 
 ---
+
 **Übersetzung**: sycophant, suck-up, brown-noser
 
 ---
 
 Morphems:
-[[Schleim]][[er]]
+[[Schleim]], [[er]]
 
 ---
+
 #Substantiv #Maskulin

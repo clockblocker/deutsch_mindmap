@@ -17,7 +17,7 @@ Antonyme: [[zusperren]], [[verschließen]], [[verriegeln]]
 
 ---
 
-Morpheme: [[auf]][[sperr]][[en]]
+Morpheme: [[auf]], [[sperr]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens         | Präteritum        | Imperativ           | Konjunktiv I    | Konjunktiv II     |

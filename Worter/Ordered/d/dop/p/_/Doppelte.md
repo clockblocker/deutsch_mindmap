@@ -19,7 +19,7 @@ double, duplicate
 
 ---
 
-[[Doppel]][[te]]
+[[Doppel]], [[te]]
 
 ---
 

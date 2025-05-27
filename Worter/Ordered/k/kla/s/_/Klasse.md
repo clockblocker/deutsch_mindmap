@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Klassen]] sind sehr groß.
 
 ---
+
 Synonyme:
+
 - [[Stufe]], [[Gruppe]], [[Kategorie]]
 
 ---
+
 **Übersetzung**: class
 
 ---
+
 Morphems:
-[[Klass]][[e]]
+[[Klass]], [[e]]
 
 ---
+
 #Substantiv #Feminin, [[toll]], [[Schulklasse]], [[Klassenstufe]], [[Gesellschaftsschicht]]

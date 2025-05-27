@@ -1,22 +1,22 @@
-*Da biß der Hund ihn in das Bein,*  
-*recht tief bis in das Blut [[hinein]].*  
+_Da biß der Hund ihn in das Bein,_  
+_recht tief bis in das Blut [[hinein]]._
 
-*Ins Bett muß Friedrich nun [[hinein]],*  
-*litt vielen Schmerz an seinem Bein;*  
+_Ins Bett muß Friedrich nun [[hinein]],_  
+_litt vielen Schmerz an seinem Bein;_
 
-*Er springt [[hinein]]. Die Not war groß;*  
-*es schießt der Has die Flinte los.*
+_Er springt [[hinein]]. Die Not war groß;_  
+_es schießt der Has die Flinte los._
 
-
-Ich werde Sascha aus diesem Kasten wegzaubern … und in diesen Kasten [[hinein]]  
-
+Ich werde Sascha aus diesem Kasten wegzaubern … und in diesen Kasten [[hinein]]
 
 ---
 
 Synonyme:
+
 - [[herein]], [[ein]], [[drinnen]]
 
 ---
+
 **Übersetzung**: into, in
 
 ---
@@ -27,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[hinein]][[hinaus]], [[hineingezogen]], [[hineinlassen]], [[heraus]]
+[[hinein]], [[hinaus]], [[hineingezogen]], [[hineinlassen]], [[heraus]]

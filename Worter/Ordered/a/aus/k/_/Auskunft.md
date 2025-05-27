@@ -3,22 +3,27 @@ die [[Auskünfte]]
 
 ---
 
-
 ---
+
 Synonyme:
+
 - [[Information]], [[Bescheid]], [[Nachricht]], [[Antwort]], [[Mitteilung]]
-Antonyme:
+  Antonyme:
 - [[Unwissenheit]], [[Unkenntnis]], [[Ignoration]]
 
 ---
+
 Übersetzung: information, notice
 
 ---
+
 Morpheme:
-[[aus]][[kunft]]
+[[aus]], [[kunft]]
 
 ---
+
 Einzigartige mögliche Formen: [[Auskunft]], [[Auskunfts]], [[Auskunfte]], [[Auskünften]]
 
 ---
+
 #Substantiv #Feminin, [[auskennen]], [[Angabe]], [[Erklärung]]

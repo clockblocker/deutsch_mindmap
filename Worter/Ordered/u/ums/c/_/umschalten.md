@@ -18,7 +18,7 @@ Antonyme: [[beibehalten]], [[lassen]], [[fixieren]]
 
 ---
 
-Morpheme: [[um]][[schalt]][[en]]
+Morpheme: [[um]], [[schalt]], [[en]]
 #Verb #Trennbar
 
 ---

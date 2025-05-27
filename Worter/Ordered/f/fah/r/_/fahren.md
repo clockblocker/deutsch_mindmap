@@ -30,7 +30,7 @@ Antonyme: [[stillstehen]], [[parken]], [[anhalten]]
 
 ---
 
-Morpheme: [[fahr]][[en]]
+Morpheme: [[fahr]], [[en]]
 #Verb #Trennbar
 
 ---

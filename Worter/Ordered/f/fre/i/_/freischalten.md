@@ -1,27 +1,33 @@
 🔓 [[freischalten]], [ˈfʁaɪ̯ˌʃaltn̩](https://youglish.com/pronounce/freischalten/german) → [[schaltete frei]] → [[freigeschaltet]]
 
 ---
-*[[C1-Hoehen-T1-100-Text#^24|^]]* [[Erdarbeiten]]: [[freiSchaltet|Schaltet]] [[angrenzende]] Felder des [[Ziels]] [[frei]]. Du [[erhältst]] bis zu 3 Kopien seiner Karte
+
+_[[C1-Hoehen-T1-100-Text#^24|^]]_ [[Erdarbeiten]]: [[freiSchaltet|Schaltet]] [[angrenzende]] Felder des [[Ziels]] [[frei]]. Du [[erhältst]] bis zu 3 Kopien seiner Karte
 
 ---
+
 = [[aktivieren]], [[freigeben]], [[ermöglichen]]
 ≈ [[öffnen]], [[zulassen]], [[freigeben]]
 ≠ [[sperren]], [[blockieren]], [[deaktivieren]]
 
 ---
+
 to unlock, to activate  
 разблокировать, активировать
 
 ---
+
 [[Freischaltung]], [[frei]], [[Schaltung]]
 
 ---
-[[frei]]|[[schalt]]|[[et]]
-[[frei]][[schalten]]
 
+[[frei]]|[[schalt]]|[[et]]
+[[frei]], [[schalten]]
 
 ---
+
 ###### [[freischalten]] jN
+
 - Was [[schaltest]] du [[frei]]?
 - Den Zugang.
 
@@ -32,6 +38,7 @@ to unlock, to activate
 - Weil er es erlaubt hat.
 
 ---
+
 ich, [[schalte frei]], [[schaltete frei]], [[schalte frei]], [[schaltete frei]], -
 du, [[schaltest frei]], [[schaltetest frei]], [[schaltest frei]], [[schaltetest frei]], [[schalte frei]]
 er, [[schaltet frei]], [[schaltete frei]], [[schalte frei]], [[schaltete frei]], -
@@ -39,8 +46,9 @@ wir, [[schalten frei]], [[schalteten frei]], [[schalten frei]], [[schalteten fre
 ihr, [[schaltet frei]], [[schaltetet frei]], [[schaltet frei]], [[schaltetet frei]], [[schaltet frei]]
 sie, [[schalten frei]], [[schalteten frei]], [[schalten frei]], [[schalteten frei]], [[schalten frei]]
 
-*Zu + Inf*: [[freizuschalten]], *P2*: [[freigeschaltet]]
+_Zu + Inf_: [[freizuschalten]], _P2_: [[freigeschaltet]]
 Adjektive: [[freischaltend]], [[freischaltender]], [[freischaltendst]]
 
 ---
+
 [[freischaltender]], [[freischaltendes]], [[freischaltende]], [[freischaltenden]], [[freischaltendem]], [[freischaltenderer]], [[freischaltenderes]], [[freischaltendere]], [[freischaltenderen]], [[freischaltenderem]], [[freischaltendster]], [[freischaltendstes]], [[freischaltendste]], [[freischaltendsten]], [[freischaltendstem]]

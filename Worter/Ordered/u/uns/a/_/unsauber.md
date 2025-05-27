@@ -1,1 +1,1 @@
-[[sauber]][[schmutzig]], [[dreckigen]], [[unrein]]
+[[sauber]], [[schmutzig]], [[dreckigen]], [[unrein]]

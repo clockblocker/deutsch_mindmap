@@ -13,7 +13,7 @@ Ich (ich weiß, ich weiß, ich weiß, ich weiß)
 Wir (wir sind, wir sind, wir sind, wir sind)  
 Ihr (ihr bleibt, ihr bleibt, ihr bleibt, ihr bleibt)
 
-(Deutschland) 
+(Deutschland)
 mein Herz in Flammen  
 Will dich lieben und [[verdammen]]  
 (Deutschland) dein Atem kalt  
@@ -64,29 +64,32 @@ Kann ich dir nicht geben
 
 Translate to English
 
-
 🔵 das [[Deutschland]], [ˈdɔʏ̯tʃlant]
 die [[Deutschländer]]
 
 ---
 
-
 ---
+
 = [[Bundesrepublik]], [[Vaterland]]
 ≈ [[Heimat]], [[Staat]], [[Nation]]
 ≠ [[Ausland]], [[Fremde]], [[andere Länder]]
 
 ---
+
 Germany
 
 ---
-[[Deutsch]][[land]]
+
+[[Deutsch]], [[land]]
 
 ---
+
 N: das [[Deutschland]], die [[Deutschländer]]  
 A: das [[Deutschland]], die [[Deutschländer]]  
 G: des [[Deutschlands]], der [[Deutschländer]]  
-D: dem [[Deutschland]], den [[Deutschländern]]  
+D: dem [[Deutschland]], den [[Deutschländern]]
 
 ---
+
 [[deutsch]], [[der Deutscher]], [[Deutsche]], [[Deutsche]], [[deutschsprachig]], [[Deutschtum]], [[Tschechien]], [[Oder-Neiße-Linie]]

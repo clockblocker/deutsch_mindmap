@@ -34,7 +34,7 @@ Antonyme: [[bringen]], [[wegbringen]], [[liefern]], [[abgeben]]
 
 ---
 
-Morpheme: [[hol]][[en]]
+Morpheme: [[hol]], [[en]]
 #Verb #Untrennbar
 
 ---

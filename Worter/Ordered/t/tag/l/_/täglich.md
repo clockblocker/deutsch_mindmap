@@ -1,31 +1,33 @@
 🔵 täglich, [ˈtɛːɡlɪç]
 
 ---
+
 Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht.
 
-*[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch fehlt uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12
-
-
+_[[03-C1-Schreiben-T2-M#^12|^]]_ Dieser Tisch fehlt uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12
 
 ---
+
 Synonyme: [[alltäglich]], [[gewöhnlich]], [[regelmäßig]], [[wiederkehrend]], [[permanent]]
 Antonyme: [[ungewöhnlich]], [[selten]], [[gelegentlich]], [[manchmal]]
 
 ---
+
 **Übersetzung**:
 daily, everyday, routine
 
 ---
+
 #Adjective [[täglich]]
 
 ---
+
 Morpheme:
-[[täg]][[lich]]
+[[täg]], [[lich]]
 
 ---
 
-
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[täglich]], [[tägliche]], [[tägliches]], [[täglichen]], [[täglichem]], [[täglicher]], [[täglichen]]
 [[täglicher]], [[täglichere]], [[tägliches]], [[täglicheren]], [[täglicherem]], [[täglicherer]], [[täglicheren]]
 [[täglichsten]], [[täglichster]], [[täglichste]], [[täglichstes]], [[täglichsten]], [[täglichstem]], [[täglichster]], [[täglichsten]]

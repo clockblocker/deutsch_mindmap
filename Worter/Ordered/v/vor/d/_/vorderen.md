@@ -3,6 +3,9 @@
 ---
 Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann.
 
+*[[C1-Hoehen-T3-301-Text#^50|^]]* Wir liegen da im Gegensatz zu Süd- und Osteuropa auf den [[vorderen]] [[Rängen]]
+
+
 ---
 = [[Vorgehen]], [[voranstellen]], [[voranschreiten]]
 ≈ [[fortschrittlich]], [[progressiv]], [[vorwärts]]

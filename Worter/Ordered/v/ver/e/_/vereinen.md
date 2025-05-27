@@ -40,5 +40,5 @@ PI: [[vereinend]], PII: [[vereint]], Zu+inf: [[zu vereinen]]
 
 [[Vereinigung]], [[Einheit]], [[vereint]], [[Verein]], [[Vereinbarung]]
 
-[[scheiden]][[trennen]][[vermischen]][[teilen]], [[gesellen]], [[auflösen]], [[versammeln]], [[verbinden]], [[verfeinden]], [[Sportverein]], [[Einheit]], [[aufteilen]], [[abscheiden]]
+[[scheiden]], [[trennen]], [[vermischen]], [[teilen]], [[gesellen]], [[auflösen]], [[versammeln]], [[verbinden]], [[verfeinden]], [[Sportverein]], [[Einheit]], [[aufteilen]], [[abscheiden]]
 , [[Zusammenschluss]]

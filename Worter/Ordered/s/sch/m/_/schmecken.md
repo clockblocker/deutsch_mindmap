@@ -3,12 +3,13 @@
 haben [[geschmeckt]]
 
 ---
-STEFAN: Haahahhhhha … Ich wette, es [[schmeckt]] wie Hunde-Suppe! Was Nic!  
 
+STEFAN: Haahahhhhha … Ich wette, es [[schmeckt]] wie Hunde-Suppe! Was Nic!
 
 ---
 
 Synonyme:
+
 - [[kosten]], [[probieren]], [[munden]]
 
 ---
@@ -22,14 +23,16 @@ Beispiele:
 - Der Saft hat ihm sehr gut [[geschmeckt]].
 
 ---
+
 **Übersetzung**: to taste
 
 ---
 
 Morphems of only infinitive:
-[[schmeck]][[en]]
+[[schmeck]], [[en]]
 
 ---
+
 Tags:
 #Verb
 
@@ -74,4 +77,4 @@ Konjunktiv II:
 - Wenn wir experimentieren würden, [[schmeckten]] wir neue Kombinationen.
 - Wenn ihr mehr Geduld hättet, [[schmecktet]] ihr die Feinheiten.
 - Wenn sie sich Zeit nehmen würden, [[schmeckten]] sie die Unterschiede.
-, [[behagen]], [[genießen]], [[gefallen]]
+  , [[behagen]], [[genießen]], [[gefallen]]

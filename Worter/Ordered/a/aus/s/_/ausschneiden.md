@@ -7,15 +7,18 @@ haben [[ausgeschnitten]]
 ---
 
 ---
+
 Synonyme: [[herausschneiden]], [[schneiden]], [[entfernen]], [[herauslösen]], [[heraustrennen]]
 Antonyme: [[ankleben]], [[zusammenfügen]], [[verbinden]]
 
 ---
+
 Übersetzung: to cut out
 
 ---
-Morpheme: [[aus]][[schneid]][[en]]
- #Verb  #Trennbar
+
+Morpheme: [[aus]], [[schneid]], [[en]]
+#Verb #Trennbar
 
 | Person    | Präsens            | Präteritum         | Imperativ             | Konjunktiv I       | Konjunktiv II      |
 | --------- | ------------------ | ------------------ | --------------------- | ------------------ | ------------------ |

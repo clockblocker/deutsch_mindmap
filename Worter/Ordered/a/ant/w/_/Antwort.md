@@ -20,7 +20,7 @@ Synonyme:
 ---
 
 Morphems:
-[[ant]][[Wort]]
+[[ant]], [[Wort]]
 
 ---
 

@@ -2,22 +2,28 @@
 die [[Hauptspeisen]]
 
 ---
+
 Nachdem ich die [[Hauptspeise]] gegessen habe, esse ich die [[Nachspeise]]
 
-
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Hauptgericht]], [[Hauptmahlzeit]], [[Hauptspeise]]
 
 ---
+
 Übersetzung: main course
 
 ---
+
 Morpheme:
-[[Haupt]][[speise]]
+[[Haupt]], [[speise]]
 
 ---
-Einzigartige mögliche Formen: [[Hauptspeise]], [[Hauptspeisen]]  
+
+Einzigartige mögliche Formen: [[Hauptspeise]], [[Hauptspeisen]]
 
 ---
+
 #Substantiv #Neuter

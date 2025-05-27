@@ -2,25 +2,30 @@
 nicht [[schadhaft]]
 
 ---
-*Man kann von uns halten*  
-*Was immer man da will*  
-*Wir halten uns [[schadlos]]*  
-*Wir halten niemals still*  
+
+_Man kann von uns halten_  
+_Was immer man da will_  
+_Wir halten uns [[schadlos]]_  
+_Wir halten niemals still_
 
 ---
+
 Synonyme: [[unbeschädigt]], [[unbeschadet]], [[unversehrt]], [[ungeschädigt]], [[intakt]]
 Antonyme: [[beschädigt]], [[ramponiert]], [[zerstört]], [[kaputtgegangen]], [[defekt]]
 
 ---
-**Übersetzung**: 
+
+**Übersetzung**:
 unharmed, undamaged, intact
 
 ---
+
 #Adjective [[schadlos]]
 
 ---
+
 Morpheme:
-[[schad]][[los]]
+[[schad]], [[los]]
 
 ---
 

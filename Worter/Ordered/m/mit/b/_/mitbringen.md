@@ -3,23 +3,27 @@
 haben [[mitgebracht]]
 
 ---
-*Ich hab' euch etwas [[mit]][[gebracht]]* 
 
-*Die Peitsche hat er [[mitgebracht]]*  
-*und nimmt sie sorglich sehr in acht.*
+_Ich hab' euch etwas [[mit]], [[gebracht]]_
 
-[[Aschenputtel.md#^1|^]] Es trug sich zu, daß der Vater [[einmal]] in die Messe ziehen wollte, da fragte er die beiden Stieftöchter, was er ihnen [[mitbringen]] sollte.  ^1
+_Die Peitsche hat er [[mitgebracht]]_  
+_und nimmt sie sorglich sehr in acht._
+
+[[Aschenputtel.md#^1|^]] Es trug sich zu, daß der Vater [[einmal]] in die Messe ziehen wollte, da fragte er die beiden Stieftöchter, was er ihnen [[mitbringen]] sollte. ^1
 
 ---
+
 Synonyme: [[transportieren]], [[herbeibringen]], [[herbringen]], [[befördern]], [[mitnehmen]]
 Antonyme: [[weglassen]], [[vergessen]], [[zurücklassen]]
 
 ---
+
 Übersetzung: to bring along, to bring with
 
 ---
-Morpheme: [[mit]][[bring]][[en]]
- #Verb  #Trennbar
+
+Morpheme: [[mit]], [[bring]], [[en]]
+#Verb #Trennbar
 
 | Person    | Präsens         | Präteritum        | Imperativ           | Konjunktiv I     | Konjunktiv II     |
 | --------- | --------------- | ----------------- | ------------------- | ---------------- | ----------------- |

@@ -29,7 +29,8 @@ haben [[geduscht]]
 to shower
 
 ---
- #Verb
+
+#Verb
 
 ---
 
@@ -59,5 +60,6 @@ to shower
 
 ---
 
-**Morphems of only infinitive:**  
-- [[dusch]][[en]]
+**Morphems of only infinitive:**
+
+- [[dusch]], [[en]]

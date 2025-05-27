@@ -3,11 +3,13 @@
 haben [[angeklopft]]
 
 ---
+
 Sam und Nic kommen [[herein]] ohne ✊ [[anzuklopfen]]
 
 ---
 
 Synonyme:
+
 - [[pochen]], [[klopfen]], [[an die Tür schlagen]]
 
 ---
@@ -19,16 +21,18 @@ Beispiele:
 - Es ist höflich, erst [[anzuklopfen]], bevor du eintrittst.
 
 ---
+
 **Übersetzung**: to knock (on something)
 
 ---
 
 Morphems of only infinitive:
-[[an]][[klopf]][[en]]
+[[an]], [[klopf]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Trennbar
+#Verb #Trennbar
 
 ---
 
@@ -71,4 +75,3 @@ Konjunktiv II:
 - Wenn wir uns trauten, [[klopften]] wir an.
 - Wenn ihr sicher wäret, [[klopftet]] ihr an.
 - Wenn sie sich entschließen würden, [[klopften]] sie an.
-

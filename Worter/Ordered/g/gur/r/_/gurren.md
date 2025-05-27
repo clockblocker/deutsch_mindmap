@@ -29,7 +29,8 @@ haben [[gegurrt]]
 to coo
 
 ---
- #Verb
+
+#Verb
 
 ---
 
@@ -59,5 +60,6 @@ to coo
 
 ---
 
-**Morphems of only infinitive:**  
-- [[gurr]][[en]]
+**Morphems of only infinitive:**
+
+- [[gurr]], [[en]]

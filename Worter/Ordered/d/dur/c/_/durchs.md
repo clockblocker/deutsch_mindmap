@@ -17,7 +17,7 @@ Antonyme: [[außerhalb]], [[hinter]], [[ohne]]
 ---
 
 Morpheme:
-[[durch]][[s]]
+[[durch]], [[s]]
 
 ---
 

@@ -1,0 +1,1 @@
+😲 [[verwundern]] | 😲 [[verwunderlich]]

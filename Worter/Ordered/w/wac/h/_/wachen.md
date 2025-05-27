@@ -23,7 +23,7 @@ Antonyme: [[schlafen]], [[ruhen]], [[unaufmerksam sein]]
 
 ---
 
-Morpheme: [[wach]][[en]]
+Morpheme: [[wach]], [[en]]
 #Verb #Intransitiv
 
 | Person    | Präsens    | Präteritum   | Imperativ      | Konjunktiv I | Konjunktiv II |

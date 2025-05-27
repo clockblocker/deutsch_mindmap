@@ -26,7 +26,7 @@ sports club, sports association
 
 ---
 
-[[Sport]][[verein]]
+[[Sport]], [[verein]]
 
 ---
 

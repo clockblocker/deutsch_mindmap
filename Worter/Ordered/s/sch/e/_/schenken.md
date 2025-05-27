@@ -3,23 +3,25 @@
 haben [[geschenkt]]
 
 ---
-*Hat eine Puppe mir [[geschenkt]]*  
-*Dann bin ich nicht allein*
 
+_Hat eine Puppe mir [[geschenkt]]_  
+_Dann bin ich nicht allein_
 
 ---
+
 Synonyme: [[geben]], [[präsentieren]], [[überreichen]], [[beschenken]], [[verleihen]]
 Antonyme: [[wegnehmen]], [[vorenthalten]], [[verwehren]], [[versagen]]
 
 ---
+
 Übersetzung: to give (as a gift), to present
 
 ---
-Morpheme: [[schenk]][[en]]
- #Verb  #Trennbar
+
+Morpheme: [[schenk]], [[en]]
+#Verb #Trennbar
 
 ---
-
 
 | Person    | Präsens      | Präteritum     | Imperativ        | Konjunktiv I  | Konjunktiv II  |
 | --------- | ------------ | -------------- | ---------------- | ------------- | -------------- |

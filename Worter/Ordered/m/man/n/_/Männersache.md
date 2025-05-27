@@ -7,12 +7,16 @@ Beispiele:
 - Die Diskussion über das Thema war eindeutig eine [[Männersache]].
 
 ---
+
 Synonyme:
+
 - [[Männerangelegenheit]]
 - [[Männerthema]]
 
 ---
+
 **Übersetzung**:
+
 - men’s business
 - men’s affair
 
@@ -24,5 +28,5 @@ Synonyme:
 ---
 
 Morphems of only noun:
-- [[Nomen/Männer]][[Sache]]
 
+- [[Nomen/Männer]], [[Sache]]

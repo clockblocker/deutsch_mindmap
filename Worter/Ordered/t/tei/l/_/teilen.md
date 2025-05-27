@@ -25,7 +25,7 @@ Antonyme: [[vereinen]], [[kombinieren]], [[verbinden]], [[zusammenführen]],
 
 ---
 
-Morpheme: Teil]][[en]]
+Morpheme: Teil]], [[en]]
 #Verb #Trennbar
 
 ---

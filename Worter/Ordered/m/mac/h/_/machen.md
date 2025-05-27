@@ -39,7 +39,7 @@ Antonyme: [[zerbrechen]], [[zerstören]], [[abbrechen]], [[beenden]]
 
 ---
 
-Morpheme: [[mach]][[en]]
+Morpheme: [[mach]], [[en]]
 #Verb #Trennbar
 
 ---

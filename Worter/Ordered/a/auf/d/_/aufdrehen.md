@@ -17,7 +17,7 @@ Antonyme: [[ausschalten]], [[abstellen]], [[herunterdrehen]], [[abdrehen]], [[au
 
 ---
 
-Morpheme: [[auf]][[dreh]][[en]]
+Morpheme: [[auf]], [[dreh]], [[en]]
 #Verb #Trennbar
 
 ---

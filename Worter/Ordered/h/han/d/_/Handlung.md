@@ -30,7 +30,7 @@ action, act, deed, plot
 
 ---
 
-[[Hand]][[lung]]
+[[Hand]], [[lung]]
 
 ---
 

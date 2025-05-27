@@ -1,1 +1,1 @@
-, [[gegenseitig]][[Setting]]
+, [[gegenseitig]], [[Setting]]

@@ -1,12 +1,12 @@
-das [[Spiel]][[Zeug]]
+das [[Spiel]], [[Zeug]]
 die [[Spielzeuge]]
 
 ---
-*»Ei,« sprach sie, »ei, wie schön und fein!*  
-*Das muß ein trefflich Spielzeug sein.*  
+
+_»Ei,« sprach sie, »ei, wie schön und fein!_  
+_Das muß ein trefflich Spielzeug sein._
 
 c) die [[Quantität]] von [[Spielsachen]].
-
 
 ---
 
@@ -16,8 +16,8 @@ c) die [[Quantität]] von [[Spielsachen]].
 
 **Beispiele:**
 
-|     |      |
-| --- | ---- |
+|     |               |
+| --- | ------------- |
 | ich | [[Spielzeug]] |
 | du  | [[Spielzeug]] |
 | er  | [[Spielzeug]] |
@@ -27,4 +27,5 @@ c) die [[Quantität]] von [[Spielsachen]].
 | ihr | [[Spielzeug]] |
 | sie | [[Spielzeug]] |
 | Sie | [[Spielzeug]] |
+
 , [[Spielzeuggeschäft]]

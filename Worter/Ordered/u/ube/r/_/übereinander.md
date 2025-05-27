@@ -3,9 +3,7 @@
 ---
 
 - NIC: Herr Scott, Beine übereinander schlagen.
--
-
----
+- ***
 
 Synonyme: [[aufeinander]], [[gestapelt]],
 Antonyme: [[nebeneinander]], [[auseinander]], [[getrennt]]
@@ -17,7 +15,7 @@ Antonyme: [[nebeneinander]], [[auseinander]], [[getrennt]]
 ---
 
 Morpheme:
-[[Ü/über]][[einander]]
+[[Ü/über]], [[einander]]
 
 ---
 

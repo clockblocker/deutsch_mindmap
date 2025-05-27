@@ -1,7 +1,7 @@
- 🔵 das [[Spielchen]]
+🔵 das [[Spielchen]]
 die [[Spielchen]]
 
- Alle Männer sind wie kleine Jungs - spielen immer nur dumme [[Spielchen]]
+Alle Männer sind wie kleine Jungs - spielen immer nur dumme [[Spielchen]]
 
 Beispiele:
 
@@ -10,16 +10,20 @@ Beispiele:
 - Ich habe genug von deinen [[Spielchen]].
 
 ---
+
 Synonyme:
+
 - [[Trick]], [[Streich]], [[Spielerei]]
 
 ---
+
 **Übersetzung**: little game, trick
 
 ---
 
 Morphems:
-[[Spiel]][[chen]]
+[[Spiel]], [[chen]]
 
 ---
+
 #Substantiv #Neuter

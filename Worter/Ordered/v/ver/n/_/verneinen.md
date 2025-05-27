@@ -1,4 +1,4 @@
-[[ver]][[nein]][[en]]
+[[ver]], [[nein]], [[en]]
 
 [[bejahen]]
 

@@ -3,34 +3,40 @@
 --> [[Ingredient-erlauben-verbieten]] <--
 
 ---
+
 die [[Nutzung]], [ˈnʊtsʊŋ], [[nutzen]]
 die [[Nutzungen]]
 
+---
+
+die [[Nutzung]] _des Parkplatzes_ zu [[gewähren]].
+
+_[[000-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+
+Der größte Zeitkiller aber ist die multimediale Nutzung unseres Smartphones, die das Fernsehen als Zeiträuber Nummer eins in den letzten Jahren abgelöst hat.
 
 ---
-die [[Nutzung]] *des Parkplatzes* zu [[gewähren]]. 
 
-*[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
-
-
-Der größte Zeitkiller aber ist die multimediale Nutzung unseres Smartphones, die das Fernsehen als Zeiträuber Nummer eins in den letzten Jahren abgelöst hat. 
-
----
 Synonyme:
+
 - [[Verwendung]], [[Gebrauch]], [[Anwendung]], [[Einsatz]], [[Nutzbarkeit]]
 
 ---
+
 Übersetzung: usage, use, application
 
 ---
+
 Morpheme:
-[[Nutz]][[ung]]
+[[Nutz]], [[ung]]
 
 ---
+
 Einzigartige mögliche Formen: [[Nutzung]], [[Nutzungen]]
 
 ---
-#Feminin 
+
+#Feminin
 
 , [[nutzlos]], [[Nutzungsdaten]], [[Handhabung]], [[Bedienung]]
 

@@ -30,7 +30,7 @@ Antonyme: [[stillstehen]], [[fixieren]], [[blockieren]]
 
 ---
 
-Morpheme: [[dreh]][[en]]
+Morpheme: [[dreh]], [[en]]
 #Verb #Trennbar
 
 ---

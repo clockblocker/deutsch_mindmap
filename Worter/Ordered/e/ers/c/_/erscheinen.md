@@ -3,9 +3,10 @@
 sein [[erschienen]]
 
 ---
+
 Auf dem [[Bildschirm]] [[erscheint]] ein [[seltsames]] Symbol.
 
-*[[C1-Hoehen-T4-100-Text#^30|^]]* Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschriften]] [[gehalten]] wird
+_[[C1-Hoehen-T4-100-Text#^30|^]]_ Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschriften]] [[gehalten]] wird
 
 Zuko wird wütend und lässt [[Feuerdolche]] aus seiner [[Faust]] [[erscheinen]]
 
@@ -15,17 +16,19 @@ Als der Leopard das Fleisch des Hirsches fraß, [[erschien]] ein Löwe, der vert
 
 Die Kamera schwenkt nach unten, und die [[gestalten]] von Aang und Katara [[erscheinen]] über dem Horizont.
 
-
 ---
+
 Synonyme: [[auftauchen]], [[auftreten]], [[daherkommen]], [[hervortreten]], [[sich zeigen]]
 Antonyme: [[verschwinden]], [[verbergen]], [[verstecken]]
 
 ---
+
 Übersetzung: to appear, to seem, to be published
 
 ---
-Morpheme: [[er]][[schein]][[en]]
- #Verb  #Untrennbar
+
+Morpheme: [[er]], [[schein]], [[en]]
+#Verb #Untrennbar
 
 | Person    | Präsens        | Präteritum     | Imperativ          | Konjunktiv I    | Konjunktiv II   |
 | --------- | -------------- | -------------- | ------------------ | --------------- | --------------- |

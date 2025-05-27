@@ -5,15 +5,18 @@ haben [[geirrt]]
 ---
 
 ---
+
 Synonyme: [[sich täuschen]], [[falsch liegen]], [[einen Fehler machen]], [[sich verkalkulieren]]
 Antonyme: [[Wissen]], [[richtig liegen]], [[treffen]]
 
 ---
+
 Übersetzung: to be mistaken, to err
 
 ---
-Morpheme: [[irr]][[en]]
- #Verb #Untrennbar
+
+Morpheme: [[irr]], [[en]]
+#Verb #Untrennbar
 
 | Person    | Präsens   | Präteritum  | Imperativ     | Konjunktiv I | Konjunktiv II |
 | --------- | --------- | ----------- | ------------- | ------------ | ------------- |

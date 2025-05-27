@@ -9,9 +9,11 @@ nicht [[einfach]]
 ---
 
 Synonyme:
+
 - [[schwierig]], [[verwickelt]], [[komplex]]
 
 ---
+
 Beispiele:
 
 - Das ist eine [[komplizierte]] Aufgabe.
@@ -27,14 +29,16 @@ Beispiele:
 - Die Erklärung war [[am kompliziertesten]].
 
 ---
+
 **Übersetzung**:
 complicated, complex
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[kompli]][[ziert]][[einfachen]], [[schwer]], [[leicht]], [[anspruchsvoll]], [[schlicht]], [[aufwendig]]
+[[kompli]], [[ziert]], [[einfachen]], [[schwer]], [[leicht]], [[anspruchsvoll]], [[schlicht]], [[aufwendig]]

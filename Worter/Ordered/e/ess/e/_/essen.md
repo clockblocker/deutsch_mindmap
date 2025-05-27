@@ -7,7 +7,7 @@
 
 ---
 
-- [[ess]][[en]], [[fressen]], [[Backen]], [[löffeln]], [[schlucken]], [[hungern]], [[essbar]], [[kauen]]
+- [[ess]], [[en]], [[fressen]], [[Backen]], [[löffeln]], [[schlucken]], [[hungern]], [[essbar]], [[kauen]]
   , [[Wurstessern]], [[zubeißen]], [[Essenswagen]]
 
 ---

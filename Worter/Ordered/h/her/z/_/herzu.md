@@ -1,10 +1,10 @@
-
-*Da mit der Peitsch [[herzu]] sich schlich*  
-*der bitterböse Friederich;*  
+_Da mit der Peitsch [[herzu]] sich schlich_  
+_der bitterböse Friederich;_
 
 ---
 
 Synonyme:
+
 - [[hierher]], [[dorthin]], [[hierhin]]
 
 ---
@@ -16,6 +16,7 @@ Beispiele:
 - Die Katze sprang [[herzu]] und schnappte nach dem Ball.
 
 ---
+
 **Übersetzung**: here, towards (used to indicate movement toward the speaker or a specific place)
 
 ---
@@ -26,4 +27,4 @@ Tags:
 ---
 
 Morphems:
-[[her]][[zu]]
+[[her]], [[zu]]

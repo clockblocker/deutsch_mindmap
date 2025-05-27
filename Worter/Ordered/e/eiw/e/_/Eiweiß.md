@@ -2,22 +2,28 @@
 die [[Eiweiße]], die [[Eiweißer]]
 
 ---
-CHARLOTTE: Na los! Das [[Eiweiß]] verquirlen!  
--
+
+## CHARLOTTE: Na los! Das [[Eiweiß]] verquirlen!
 
 ---
+
 Synonyme:
+
 - [[Protein]], [[Albumen]], [[Eiklareiweißstoff]]
 
 ---
+
 Übersetzung: protein, albumen
 
 ---
+
 Morpheme:
-[[Ei]][[weiß]]
+[[Ei]], [[weiß]]
 
 ---
+
 Einzigartige mögliche Formen: [[Eiweißes]], [[Eiweißen]], [[Eiweißen]], [[Eiweißern]]
 
 ---
+
 #Substantiv #Neuter[[verquirlen]]

@@ -2,58 +2,64 @@
 die [[Spitzen]]
 
 ---
+
 [[2 Unter Druck nach oben#^20|^]] [[An der Spitze]] der „[[Erfolgsfaktoren]]“ steht jedoch das strategische, [[vernetzte]] Denken. Eine Studie der Boston Consulting Group kristallisierte vier Idealtypen heraus: den Analytiker, den Macher, den Integrator und den [[Erfinder]], die meistens in Kombination gesucht sind. ^20
 
-
-*[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten. ^3
-
+_[[TD#^3|^]]_ Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten. ^3
 
 ---
+
 Synonyme:
+
 - [[Gipfel]], [[Ende]], [[Zentrum]]
-[[Haupt]]
+  [[Haupt]]
 
 ---
+
 **Übersetzung**: tip, peak, point
 
 ---
+
 Morphems:
-[[Spitz]][[e]]
+[[Spitz]], [[e]]
 
 ---
+
 #Substantiv #Feminin
 
-
---- 
+---
 
 Prosessed the word Spitze. Identified it as Adjective. Picked the emoji 🟡 because it is an adjective.
 
-🟡 [[spitze]], [ˈʃpɪtsə] 
+🟡 [[spitze]], [ˈʃpɪtsə]
 nicht [[stumpf]]
 
 ---
-SASCHA: Sam, Dr. Scott! Du [[siehst aus|siehst]] [[Spitze (adj)]] aus! Ich liebe Ärzte!  
 
+SASCHA: Sam, Dr. Scott! Du [[siehst aus|siehst]] [[Spitze (adj)]] aus! Ich liebe Ärzte!
 
 ---
-Synonyme: 
+
+Synonyme:
 [[zugespitzt]], [[scharf]], [[spitz]], [[fein]], [[zulaufend]]
 Antonyme:
 [[abgerundet]], [[stumpf]], [[dick]], [[grob]]
 
 ---
-**Übersetzung**: 
+
+**Übersetzung**:
 sharp, pointed, acute
 
 ---
+
 #Adjektiv [[spitze]]
 
 ---
+
 Morpheme:
 [[spitz]]
 
 ---
 
-
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[spitze]], [[spitzere]], [[spitzeste]], [[spitzeren]], [[spitzerem]], [[spitzerer]], [[spitzeren]], [[Speerende]], [[toll]], [[Spitzenposition]], [[Pitch]], [[Vorarbeit]], [[weltbest]], [[Spitzensportlerin]]

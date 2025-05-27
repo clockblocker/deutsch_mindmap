@@ -2,23 +2,28 @@
 die [[Versteigerungen]]
 
 ---
+
 Auch die [[Versteigerungssummen]] für zeitgenössische Werke können sich sehen lassen. So verkaufte der englische Künstler
 
-
 ---
+
 Synonyme:
-- [[auktion]], [[Verkauf]], [[Lizitation]], [[Versteigern]],  [[Kunstauktionen]]
+
+- [[auktion]], [[Verkauf]], [[Lizitation]], [[Versteigern]], [[Kunstauktionen]]
 
 ---
+
 Übersetzung: auction, sale by auction
 
 ---
+
 Morpheme:
-[[ver]][[steiger]][[ung]]
+[[ver]], [[steiger]], [[ung]]
 
 ---
+
 Einzigartige mögliche Formen: [[Versteigerung]], [[Versteigerungen]]
 
 ---
-#Substantiv #Feminin
 
+#Substantiv #Feminin

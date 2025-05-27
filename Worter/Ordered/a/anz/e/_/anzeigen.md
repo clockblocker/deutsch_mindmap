@@ -26,7 +26,7 @@ to report, to indicate, to display
 
 ---
 
-[[an]][[zeigen]]
+[[an]], [[zeigen]]
 
 ---
 

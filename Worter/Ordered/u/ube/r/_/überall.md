@@ -31,7 +31,7 @@ everywhere, all over, in all places
 
 ---
 
-[[Ü/über]][[All]]
+[[Ü/über]], [[All]]
 
 ---
 

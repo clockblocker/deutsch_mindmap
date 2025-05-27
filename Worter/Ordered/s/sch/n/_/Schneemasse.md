@@ -2,23 +2,30 @@
 die [[Schneemassen]]
 
 ---
+
 (Bekommt [[Schneemassen]] von dem Turm ab) Na irre. Du bist ein Luftbändiger, Katara ist eine Wasserbändigerin.
 
 ---
+
 Synonyme:
+
 - [[Schneehaufen]], [[Schneeberg]], [[Schneeschicht]], [[Schneewall]]
 
 ---
+
 Übersetzung: mass of snow, snow accumulation
 
 ---
+
 Morpheme:
-[[Schnee]][[Masse]]
+[[Schnee]], [[Masse]]
 
 ---
+
 Einzigartige mögliche Formen: [[Schneemasse]], [[Schneemassen]], [[Schneemasses]], [[Schneemasser]]
 
 ---
+
 #Substantiv #Neuter #Komposition
 
 Weitere Erklärung:

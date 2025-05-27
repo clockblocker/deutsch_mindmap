@@ -33,7 +33,7 @@ Antonyme: [[ausschließen]], [[ignorieren]], [[fernbleiben]]
 
 ---
 
-Morpheme: [[be]]Teil]][[ig]][[en]]
+Morpheme: [[be]]Teil]], [[ig]], [[en]]
 #Verb #Untrennbar
 
 ---

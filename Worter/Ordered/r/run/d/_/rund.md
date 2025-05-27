@@ -5,6 +5,12 @@ nicht [[eckig]]
 *Und auch der Wilhelm war nicht steif*  
 *und brachte seinen [[runden]] Reif.*  
 
+*[[C1-Hoehen-T3-301-Text#^48|^]]* Auch abseits der [[Ballungszentren]] kann man damit kaum 
+`über` die [[Runden]] [[kommen]]
+*`To` [[make ends]] [[meet]]*
+
+
+
 
 *Heute zieh' ich meine [[Runden]]*  
 *Seh' die Welt in Trümmern liegen*  

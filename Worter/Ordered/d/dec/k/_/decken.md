@@ -29,7 +29,7 @@ Antonyme: [[entblößen]], [[aufdecken]], [[freilegen]]
 
 ---
 
-Morpheme: [[deck]][[en]]
+Morpheme: [[deck]], [[en]]
 #Verb #Schwaches Verb
 
 | Person    | Präsens    | Präteritum   | Imperativ      | Konjunktiv I | Konjunktiv II |

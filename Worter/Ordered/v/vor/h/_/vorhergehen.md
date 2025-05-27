@@ -3,21 +3,24 @@
 sein [[vorher gegangen]]
 
 ---
+
 Die Episode beginnt damit, dass man das steigende Leuchtgeschoss sehen kann, dass Aang versehentlich in der [[vorherigen]] Episode in die Luft gestartet hat
 
-*[[C1-Hoehen-T2-201-Text#^37|^]]* Legt man auf das erste Quadrat eines Schachbretts ein [[Weizenkorn]], auf das nächste die doppelte [[Menge]], auf das [[darauffolgende]] die doppelte Menge des [[vorhergehenden]] usw. bräuchte man am Ende [[ungefähr]] 730 Mrd Tonnen Weizen
-
+_[[C1-Hoehen-T2-201-Text#^37|^]]_ Legt man auf das erste Quadrat eines Schachbretts ein [[Weizenkorn]], auf das nächste die doppelte [[Menge]], auf das [[darauffolgende]] die doppelte Menge des [[vorhergehenden]] usw. bräuchte man am Ende [[ungefähr]] 730 Mrd Tonnen Weizen
 
 ---
+
 Synonyme: [[vorausgehen]], [[vorangehen]], [[vorauseilen]], [[präzedieren]]
 Antonyme: [[nachfolgen]], [[zurückbleiben]], [[hinterherkommen]]
 
 ---
+
 Übersetzung: to precede, to go before
 
 ---
-Morpheme: [[vorher]][[geh]][[en]]
- #Verb #Trennbar
+
+Morpheme: [[vorher]], [[geh]], [[en]]
+#Verb #Trennbar
 
 | Person    | Präsens          | Präteritum        | Imperativ            | Konjunktiv I      | Konjunktiv II      |
 | --------- | ---------------- | ----------------- | -------------------- | ----------------- | ------------------ |

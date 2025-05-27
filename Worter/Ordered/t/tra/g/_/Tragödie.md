@@ -2,24 +2,30 @@
 die [[Tragödien]]
 
 ---
-Hamlet – eine [[Tragödie]]!  
 
+Hamlet – eine [[Tragödie]]!
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Drama]], [[Katastrophe]], [[Unglück]], [[Desaster]], [[Unglück]]
 
 ---
+
 Übersetzung: tragedy
 
 ---
+
 Morpheme:
-[[Tragöd]][[ie]]
+[[Tragöd]], [[ie]]
 
 ---
+
 Einzigartige mögliche Formen: [[Tragödie]], [[Tragödien]], [[Tragödie]], [[Tragödien]], [[Tragödie]], [[Tragödien]], [[Tragödie]], [[Tragödien]]
 
 ---
+
 #Substantiv #Feminin
 
 , [[tragisch]]

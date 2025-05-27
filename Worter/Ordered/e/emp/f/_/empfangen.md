@@ -20,7 +20,7 @@ to receive, to welcome, to accept
 
 ---
 
-[[emp]][[fang]][[en]]
+[[emp]], [[fang]], [[en]]
 
 ---
 

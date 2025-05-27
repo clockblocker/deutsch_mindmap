@@ -1,14 +1,17 @@
 [[hierher]]
 
 ---
-Bella … und Struppi kommen [[hierher]] 
+
+Bella … und Struppi kommen [[hierher]]
 
 ---
 
 Synonyme:
+
 - [[hierhin]], [[an diesen Ort]], [[in diese Richtung]]
 
 ---
+
 Beispiele:
 
 - Komm [[hierher]]!
@@ -16,6 +19,7 @@ Beispiele:
 - Setz dich [[hierher]].
 
 ---
+
 **Übersetzung**:
 here, to this place
 
@@ -25,7 +29,8 @@ Tags:
 #Adverb
 
 ---
+
 Morphems:
-[[hier]][[her]]
+[[hier]], [[her]]
 
 , [[Herbei]], [[dorthin]], [[hinweg]]

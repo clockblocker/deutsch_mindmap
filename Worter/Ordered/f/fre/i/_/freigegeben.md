@@ -5,14 +5,17 @@
 nicht [[blockiert]]
 
 ---
+
 - - Freigabeprobleme gelöst. Sendung zur Zustellung freigegeben
 
 ---
 
 Synonyme:
+
 - [[genehmigt]], [[zugelassen]], [[bewilligt]]
 
 ---
+
 Beispiele:
 
 - Das Dokument wurde [[freigegeben]].
@@ -28,16 +31,18 @@ Beispiele:
 - Die Datei ist [[am freigegebensten]] zur Bearbeitung [[freigegeben]].
 
 ---
+
 **Übersetzung**:
 released, approved
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[frei]][[gegeben]]
+[[frei]], [[gegeben]]
 
 , [[erlaubt]], [[freigeben]]

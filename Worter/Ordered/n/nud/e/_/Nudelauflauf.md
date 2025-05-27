@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Nudelaufläufe]] im Restaurant sind immer gut gewürzt.
 
 ---
+
 Synonyme:
+
 - [[Pastaauflauf]], [[Nudelgericht]], [[Gratin]]
 
 ---
+
 **Übersetzung**: pasta bake, pasta casserole
 
 ---
+
 Morphems:
-[[Nudel]][[auflauf]]
+[[Nudel]], [[auflauf]]
 
 ---
-#Substantiv #Maskulin 
+
+#Substantiv #Maskulin

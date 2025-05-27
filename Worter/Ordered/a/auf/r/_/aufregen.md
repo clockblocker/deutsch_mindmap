@@ -17,7 +17,7 @@ to excite, to agitate, to upset
 
 ---
 
-[[auf]][[reg]][[en]]
+[[auf]], [[reg]], [[en]]
 
 ---
 

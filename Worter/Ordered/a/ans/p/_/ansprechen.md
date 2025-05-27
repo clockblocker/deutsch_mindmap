@@ -35,7 +35,7 @@ Antonyme: [[ignorieren]], [[schweigen]], [[überhören]]
 
 ---
 
-Morpheme: [[an]][[sprech]][[en]]
+Morpheme: [[an]], [[sprech]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens         | Präteritum      | Imperativ           | Konjunktiv I     | Konjunktiv II    |

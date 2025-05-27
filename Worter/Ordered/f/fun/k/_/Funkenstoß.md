@@ -2,22 +2,29 @@
 die [[Funkenöße]]
 
 ---
-*Ein [[Funkenstoß]] in ihren Schoß*  
-*Ein heißer Schrei, Feuer frei!*  
-  
+
+_Ein [[Funkenstoß]] in ihren Schoß_  
+_Ein heißer Schrei, Feuer frei!_
+
 ---
+
 Synonyme:
+
 - [[Funkenspritzer]], [[Funkenregen]], [[Feuerwerk]]
 
 ---
+
 Übersetzung: spark blast, shower of sparks
 
 ---
+
 Morpheme:
-[[Funken]][[Stoß]]
+[[Funken]], [[Stoß]]
 
 ---
+
 Einzigartige mögliche Formen: [[Funkenstoßes]], [[Funkenstoße]], [[Funkenstößen]]
 
 ---
+
 #Substantiv #Maskulin

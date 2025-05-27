@@ -5,6 +5,7 @@ haben [[zertrampelt]]
 ---
 
 Synonyme:
+
 - [[zerquetschen]], [[zertreten]], [[niedertrampeln]]
 
 ---
@@ -16,16 +17,18 @@ Beispiele:
 - Er hat versehentlich den Käfer [[zertrampelt]].
 
 ---
+
 **Übersetzung**: trampled, crushed underfoot
 
 ---
 
 Morphems of only infinitive:
-[[zer]][[trampeln]]
+[[zer]], [[trampeln]]
 
 ---
+
 Tags:
-#Verb  #Unregelmäßig
+#Verb #Unregelmäßig
 
 ---
 

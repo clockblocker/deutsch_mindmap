@@ -17,7 +17,7 @@ Antonyme: [[bedächtig]], [[überlegt]], [[vorsichtig]], [[besonnen]]
 
 ---
 
-Morpheme: [[Ü/über]][[stürz]][[en]]
+Morpheme: [[Ü/über]], [[stürz]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens         | Präteritum        | Imperativ           | Konjunktiv I     | Konjunktiv II     |

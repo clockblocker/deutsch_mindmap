@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Apartments]] in diesem Gebäude sind sehr modern.
 
 ---
+
 Synonyme:
+
 - [[Wohnung]], [[Mietwohnung]], [[Suite]]
 
 ---
+
 **Übersetzung**: apartment, flat
 
 ---
+
 Morphems:
-[[Apart]][[ment]]
+[[Apart]], [[ment]]
 
 ---
+
 #Substantiv #Neuter, [[Geburtsort]], [[Bauernhof]], [[Schrebergarten]]

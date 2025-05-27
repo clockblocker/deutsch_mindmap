@@ -2,23 +2,30 @@
 die [[Gesamtschulen]]
 
 ---
-Tanja Schulz arbeitet [[seit]] ein paar Monaten als Lehrerin an einer [[Gesamtschule]]. 
+
+Tanja Schulz arbeitet [[seit]] ein paar Monaten als Lehrerin an einer [[Gesamtschule]].
 
 ---
+
 Synonyme:
+
 - [[Gemeinschaftsschule]], [[Einheitsschule]], [[Integrierte Gesamtschule]]
 
 ---
+
 Übersetzung: comprehensive school, integrated school
 
 ---
+
 Morpheme:
-[[gesamt]][[Schule]]
+[[gesamt]], [[Schule]]
 
 ---
+
 Einzigartige mögliche Formen: [[Gesamtschule]], [[Gesamtschulen]], [[Gesamtschules]], [[Gesamtschulen]]
 
 ---
+
 #Substantiv #Feminin #Bildung
 
 Definition:

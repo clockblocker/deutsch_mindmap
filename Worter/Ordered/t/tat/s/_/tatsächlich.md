@@ -46,7 +46,7 @@ Antonyme: [[angeblich]], [[vermeintlich]], [[scheinbar]], [[hypothetisch]]
 
 ---
 
-Morpheme: Tat]][[sächlich]]
+Morpheme: Tat]], [[sächlich]]
 #Adverb
 
 [[allerdings]], [[eigentlich]], [[echt]]

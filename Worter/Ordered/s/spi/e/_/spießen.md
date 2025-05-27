@@ -21,7 +21,7 @@ Antonyme: [[herausziehen]], [[entfernen]]
 
 ---
 
-Morpheme: [[spieß]][[en]]
+Morpheme: [[spieß]], [[en]]
 #Verb #Untrennbar
 
 | Person    | Präsens     | Präteritum    | Imperativ       | Konjunktiv I | Konjunktiv II |

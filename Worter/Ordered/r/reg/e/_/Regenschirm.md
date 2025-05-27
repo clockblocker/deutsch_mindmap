@@ -1,24 +1,28 @@
 🔵 der [[Regenschirm]], [ˈʁeːɡənˌʃɪʁm]
 die [[Regenschirme]]
 
-
 ---
-- Also vergessen Sie nicht Ihren [[Regenschirm]]! 
--
 
----
-Synonyme:
+- Also vergessen Sie nicht Ihren [[Regenschirm]]!
+- ***
+
+  Synonyme:
+
 - [[Schirm]], [[Sonnenschirm]], [[Sonnenschutz]], [[Schirm]]
 
 ---
+
 Übersetzung: umbrella
 
 ---
+
 Morpheme:
-[[Regen]][[schirm]]
+[[Regen]], [[schirm]]
 
 ---
+
 Einzigartige mögliche Formen: [[Regenschirms]], [[Regenschirme]], [[Regenschirmen]]
 
 ---
+
 #Substantiv #Maskulin

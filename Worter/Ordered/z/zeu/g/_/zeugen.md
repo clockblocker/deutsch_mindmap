@@ -19,7 +19,7 @@ to procreate, to beget, to father
 
 ---
 
-[[Zeug]][[en]]
+[[Zeug]], [[en]]
 
 ---
 

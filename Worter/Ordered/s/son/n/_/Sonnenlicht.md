@@ -1,24 +1,30 @@
 🟢 das [[Sonnenlicht]], [ˈzɔnənˌlɪçt]
 die [[Sonnenlichter]]
 
+---
+
+_Das [[Sonnenlicht]] den Geist verwirrt_  
+_Ein blindes Kind, das vorwärts kriecht_
 
 ---
-*Das [[Sonnenlicht]] den Geist verwirrt*  
-*Ein blindes Kind, das vorwärts kriecht*  
 
----
-Synonyme: 
+Synonyme:
+
 - [[Tageslicht]], [[Beleuchtung]], [[Helligkeit]]
 
 ---
+
 Übersetzung: sunlight
 
 ---
+
 Morpheme:
-[[Sonnen]][[licht]]
+[[Sonnen]], [[licht]]
 
 ---
+
 Einzigartige mögliche Formen: [[Sonnenlichts]], [[Sonnenlichte]], [[Sonnenlichtern]]
 
 ---
+
 #Substantiv #Neuter, [[Sonne]]

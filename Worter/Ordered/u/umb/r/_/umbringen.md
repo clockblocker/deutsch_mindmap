@@ -3,11 +3,13 @@
 haben [[umgebracht]]
 
 ---
+
 Eines Tages aber sprang aus einem Busch ein Leopard auf den Hirsch und [[brachte]] ihn [[um]]
 
 ---
 
 Synonyme:
+
 - [[töten]], [[ermorden]], [[umbringen]]
 
 ---
@@ -19,16 +21,18 @@ Beispiele:
 - Sie [[brachten]] den Verräter [[um]].
 
 ---
+
 **Übersetzung**: to kill, to murder
 
 ---
 
 Morphems of only infinitive:
-[[um]][[bring]][[en]]
+[[um]], [[bring]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Trennbar
+#Verb #Trennbar
 
 ---
 

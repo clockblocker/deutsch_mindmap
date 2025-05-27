@@ -21,7 +21,7 @@ Antonyme: [[abbauen]], [[entfernen]], [[niederlegen]], [[umwerfen]]
 
 ---
 
-Morpheme: [[auf]][[stell]][[en]]
+Morpheme: [[auf]], [[stell]], [[en]]
 #Verb #Trennbar
 
 ---

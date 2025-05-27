@@ -1,28 +1,35 @@
 [[woanders]], [ˈvoandɐs]
 
 ---
-MARIA: Kannst du das Fahrrad [[woanders]] hinstellen?  
 
-SASCHA: Und warum steht mein Rad [[woanders]]? 
+MARIA: Kannst du das Fahrrad [[woanders]] hinstellen?
+
+SASCHA: Und warum steht mein Rad [[woanders]]?
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[anderswo]], [[an anderer Stelle]], [[an einem anderen Ort]], [[irgendwo anders]]
 
 ---
+
 Antonyme:
+
 - [[hier]], [[dort]], [[zuhause]], [[da]]
 
 ---
-Übersetzung: 
+
+Übersetzung:
 elsewhere, somewhere else
 
 ---
+
 Morpheme:
-[[wo]][[anders]]
+[[wo]], [[anders]]
 
 ---
-#Adverb
 
+#Adverb
 
 [[irgendwo]], [[anders]], [[hinstellen]]

@@ -25,7 +25,7 @@ appeal, call, summons
 
 ---
 
-[[auf]][[Ruf]]
+[[auf]], [[Ruf]]
 
 ---
 

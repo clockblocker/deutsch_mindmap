@@ -30,7 +30,7 @@ Antonyme: [[schweigen]], [[verstummen]], [[sich ausschweigen]]
 
 ---
 
-Morpheme: [[red]][[en]]
+Morpheme: [[red]], [[en]]
 #Verb #Trennbar
 
 ---
@@ -46,5 +46,5 @@ Morpheme: [[red]][[en]]
 
 Partizip I: [[redend]], Partizip II: [[geredet]]
 
-[[reden]] - [[red]][[en]], [[Redewendung]], [[überreden]], [[Schweige]], [[flöten]]
+[[reden]] - [[red]], [[en]], [[Redewendung]], [[überreden]], [[Schweige]], [[flöten]]
 , [[Verabredung]], [[pfeifen]], [[Nachrede]], [[renommieren]], [[chatten]]

@@ -16,7 +16,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[Bundes]][[kanzler]]
+[[Bundes]], [[kanzler]]
 
 ---
 

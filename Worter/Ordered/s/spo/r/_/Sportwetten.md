@@ -17,7 +17,7 @@ sports betting
 
 ---
 
-[[Sport]][[wette]]
+[[Sport]], [[wette]]
 
 ---
 

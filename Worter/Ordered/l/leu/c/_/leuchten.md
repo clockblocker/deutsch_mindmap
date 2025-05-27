@@ -30,7 +30,7 @@ Antonyme: [[verdunkeln]], [[auslöschen]], [[verlöschen]]
 
 ---
 
-Morpheme: [[leucht]][[en]]
+Morpheme: [[leucht]], [[en]]
 #Verb #Untrennbar
 
 ---

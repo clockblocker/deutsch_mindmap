@@ -18,7 +18,7 @@ Antonyme: [[unterliegen]], [[scheitern]], [[aufgeben]]
 
 ---
 
-Morpheme: [[Ü/über]][[steh]][[en]]
+Morpheme: [[Ü/über]], [[steh]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens        | Präteritum       | Imperativ          | Konjunktiv I     | Konjunktiv II    |

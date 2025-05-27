@@ -3,6 +3,8 @@
 ---
 Ein paar Tiger-Seelöwen heben verwundert die Köpfe und jaulen.
 
+*[[C1-Hoehen-T3-301-Text#^45|^]]* Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stellen]] [[unbesetzt]] bleiben
+
 *[[C1-Hoehen-T2-202-Text#^35|^]]* [[Insofern]] [[verwundert]] es auch nicht, dass über 60 Prozent der Deutschen der Meinung sind, Deutschland sei [[zerrüttet]]
 
 ---

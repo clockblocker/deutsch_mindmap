@@ -19,7 +19,7 @@ to investigate, to determine, to find out
 
 ---
 
-[[er]][[mitt]][[n]][[en]]
+[[er]], [[mitt]], [[n]], [[en]]
 
 ---
 

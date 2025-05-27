@@ -5,9 +5,7 @@ haben [[übergeben]]
 ---
 
 - Übernehmen, [[übergeben]]
--
-
----
+- ***
 
 Synonyme: [[aushändigen]], [[zustellen]], [[Ü/überlassen]], [[ausliefern]], [[Verabreichen]], [[übermitteln]]
 Antonyme: [[behalten]], [[zurückhalten]], [[verweigern]], [[abweisen]], [[verwehren]]
@@ -18,7 +16,7 @@ Antonyme: [[behalten]], [[zurückhalten]], [[verweigern]], [[abweisen]], [[verwe
 
 ---
 
-Morpheme: [[Ü/über]][[geb]][[en]]
+Morpheme: [[Ü/über]], [[geb]], [[en]]
 #Verb #Trennbar
 
 ---

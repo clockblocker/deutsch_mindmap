@@ -1,2 +1,3 @@
-[[verändern]][[ändern]], [[verbrennen]], [[verschwenden]]
+[[verändern]], [[ändern]], [[verbrennen]], [[verschwenden]]
 , [[aufrechterhalten]], [[verwandeln]]
+, [[beibehalten]]

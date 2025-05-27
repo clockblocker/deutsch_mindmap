@@ -1,7 +1,5 @@
-[[schlafen|Schlaf]][[zimmer]]
+[[schlafen|Schlaf]], [[zimmer]]
 
 SASCHA: Hier ist das [[Schlafzimmer]].
-
-
 
 , [[schlafen]], [[Wohnzimmer]], [[Gymnastikraum]]

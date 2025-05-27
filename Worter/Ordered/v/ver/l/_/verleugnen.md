@@ -1,1 +1,1 @@
-[[heißen]][[spüren]], [[bemerken]], [[repräsentieren]], [[fühlen]], [[empfinden]]
+[[heißen]], [[spüren]], [[bemerken]], [[repräsentieren]], [[fühlen]], [[empfinden]]

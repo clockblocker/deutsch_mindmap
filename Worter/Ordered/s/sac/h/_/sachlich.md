@@ -1,19 +1,22 @@
- [[sachlich]], [ˈzaxlɪç]
+[[sachlich]], [ˈzaxlɪç]
 nicht [[emotional]], [[subjektiv]]
 
 ---
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]]. 
 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]].
 
 ---
+
 Synonyme: [[objektiv]], [[unvoreingenommen]], [[neutral]], [[rational]], [[nüchtern]]
 Antonyme: [[emotional]], [[subjektiv]], [[voreingenommen]], [[leidenschaftlich]]
 
 ---
+
 **objective, factual, impartial**
 
 ---
-[[sach]][[lich]]
+
+[[sach]], [[lich]]
 
 ---
 
@@ -24,7 +27,7 @@ Genitive: [[sachlicher]], [[sachlicherer]], [[sachlichster]]
 Dative: [[sachlichem]], [[sachlicherem]], [[sachlichstem]]  
 Feminine: [[sachliche]], [[sachlichere]], [[sachlichste]]  
 Neuter: [[sachliches]], [[sachlicheres]], [[sachlichstes]]  
-Plural: [[sachlichen]], [[sachlicheren]], [[sachlichsten]]  
+Plural: [[sachlichen]], [[sachlicheren]], [[sachlichsten]]
 
 [[Sachlichkeit]], [[Sachlichkeit]], [[versachlichen]], [[Versachlichung]]
 

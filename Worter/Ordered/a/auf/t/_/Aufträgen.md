@@ -17,7 +17,7 @@ order, commission, assignment
 
 ---
 
-[[auf]][[trag]]
+[[auf]], [[trag]]
 
 ---
 

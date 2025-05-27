@@ -17,7 +17,7 @@ to overlook, to miss, to ignore
 
 ---
 
-[[Ü/über]][[seh]][[en]]
+[[Ü/über]], [[seh]], [[en]]
 
 ---
 

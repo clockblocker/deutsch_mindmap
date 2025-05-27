@@ -17,7 +17,7 @@ Antonyme: [[entfalten]], [[ausbreiten]], [[strecken]]
 
 ---
 
-Morpheme: [[wind]][[en]]
+Morpheme: [[wind]], [[en]]
 #Verb #Untrennbar
 
 ---

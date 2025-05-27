@@ -31,7 +31,7 @@ to express, to press out
 
 ---
 
-[[aus]][[drück]][[en]]
+[[aus]], [[drück]], [[en]]
 
 ---
 
@@ -50,7 +50,7 @@ Zu+infinifive: [[auszudrücken]]
 
 ---
 
-[[Ausdruck]], [[Ausdruckskraft]], [[Ausdrucksweise]], [[Ausdruckslos]], [[Ausdrucksform]][[ausdrücken]]
+[[Ausdruck]], [[Ausdruckskraft]], [[Ausdrucksweise]], [[Ausdruckslos]], [[Ausdrucksform]], [[ausdrücken]]
 
 [[bedeuten]], [[wringen]], [[auswringen]]
 , [[zutreffen]], [[ausdrücklich]], [[auslegen]], [[verkörpern]], [[Textstelle]]

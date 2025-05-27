@@ -1,1 +1,1 @@
-[[Grüne]][[Wald]]
+[[Grüne]], [[Wald]]

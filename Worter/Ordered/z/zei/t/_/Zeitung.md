@@ -1,1 +1,1 @@
-[[zeit]][[ung]]
+[[zeit]], [[ung]]

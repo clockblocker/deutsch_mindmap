@@ -8,16 +8,20 @@ Beispiele:
 - Ich habe mehrere [[Perlenketten]] in der Schmuckschatulle gesehen.
 
 ---
+
 Synonyme:
+
 - [[Perlenhalsband]], [[Schmuckstück]], [[kette]]
 
 ---
+
 **Übersetzung**: pearl necklace
 
 ---
 
 Morphems:
-[[Perl]][[en]][[kette]]
+[[Perl]], [[en]], [[kette]]
 
 ---
+
 #Substantiv #Feminin, [[11 08]]

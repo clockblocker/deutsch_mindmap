@@ -12,19 +12,23 @@ Beispiele:
 - Die Muster der [[Schlafanzüge]] sind verschieden.
 
 ---
+
 Synonyme:
+
 - [[Pyjama]]
 - [[Nachtwäsche]]
 - [[Schlafkleidung]]
 
 ---
+
 **Übersetzung**:
 pajamas, sleepwear
 
 ---
 
 #Substantiv
-#Maskulin 
+#Maskulin
 
 Morphems:
-- [[Schlaf]][[Anzug]]
+
+- [[Schlaf]], [[Anzug]]

@@ -1,3 +1,3 @@
 bitrhbay
 
-[[Geburt]][[stag]]
+[[Geburt]], [[stag]]

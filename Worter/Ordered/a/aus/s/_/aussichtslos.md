@@ -2,26 +2,33 @@
 nicht [[aussichtsreich]], [[hoffnungsvoll]], [[erfolgversprechend]]
 
 ---
-*Es ist [[aussichtslos]]*  
-*sagt die [[Einsicht]]*  
+
+_Es ist [[aussichtslos]]_  
+_sagt die [[Einsicht]]_
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[hoffnungslos]], [[chancenlos]], [[vergeblich]], [[zwecklos]], [[fruchtlos]]
 
 Antonyme:
+
 - [[aussichtsreich]], [[hoffnungsvoll]], [[erfolgversprechend]]
 
 ---
+
 **Übersetzung**:
 hopeless, without prospects
 
 ---
+
 #Adjective [[aussichtslos]]
 
 ---
+
 Morpheme:
-[[aus]][[sicht]][[los]]
+[[aus]], [[sicht]], [[los]]
 
 ---
 

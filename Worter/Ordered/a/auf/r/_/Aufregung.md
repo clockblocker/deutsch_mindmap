@@ -17,7 +17,7 @@ excitement, agitation
 
 ---
 
-[[auf]][[reg]][[ung]]
+[[auf]], [[reg]], [[ung]]
 
 ---
 

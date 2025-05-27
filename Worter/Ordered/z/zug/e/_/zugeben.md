@@ -17,7 +17,7 @@ Antonyme: [[leugnen]], [[bestreiten]], [[verheimlichen]], [[verweigern]], [[able
 
 ---
 
-Morpheme: [[zu]][[geb]][[en]]
+Morpheme: [[zu]], [[geb]], [[en]]
 #Verb #Trennbar
 
 ---

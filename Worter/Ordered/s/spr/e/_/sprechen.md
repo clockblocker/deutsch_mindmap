@@ -27,7 +27,7 @@ Antonyme: [[schweigen]], [[verstummen]], [[verstummt sein]]
 
 ---
 
-Morpheme: [[sprech]][[en]]
+Morpheme: [[sprech]], [[en]]
 #Verb #Trennbar
 
 ---

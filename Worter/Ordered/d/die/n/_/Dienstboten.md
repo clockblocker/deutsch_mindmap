@@ -1,8 +1,7 @@
 [[Dienstboten]]
 die [[Dienstboten]]
 
-[[Dienst]][[Bote|boten]]
-
+[[Dienst]], [[Bote|boten]]
 
 ---
 

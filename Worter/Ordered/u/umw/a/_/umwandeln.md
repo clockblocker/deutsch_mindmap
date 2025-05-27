@@ -17,7 +17,7 @@ Antonyme: [[beibehalten]], [[unverändert lassen]], [[belassen]]
 
 ---
 
-Morpheme: [[um]][[wandel]][[n]]
+Morpheme: [[um]], [[wandel]], [[n]]
 #Verb #Trennbar
 
 | Person    | Präsens         | Präteritum        | Imperativ          | Konjunktiv I     | Konjunktiv II     |

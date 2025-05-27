@@ -3,18 +3,22 @@
 sein [[ausgestorben]]
 
 ---
+
 Wir dachten sie sind [[ausgestorben]]. Und nun haben meine Enkeltochter und mein Enkelsohn dich gefunden.
 
 ---
+
 Synonyme: [[erlöschen]], [[verschwinden]], [[dahinsiechen]], [[verklingen]], [[vergehen]]
 Antonyme: [[entstehen]], [[gedeihen]], [[wachsen]], [[aufblühen]]
 
 ---
+
 Übersetzung: to become extinct, to die out
 
 ---
-Morpheme: [[aus]][[sterb]][[en]]
- #Verb  #Trennbar
+
+Morpheme: [[aus]], [[sterb]], [[en]]
+#Verb #Trennbar
 
 | Person    | Präsens         | Präteritum      | Imperativ           | Konjunktiv I     | Konjunktiv II    |
 | --------- | --------------- | --------------- | ------------------- | ---------------- | ---------------- |

@@ -2,26 +2,31 @@ explodierenden, [ɛksˈploːdiːʁəndən]
 nicht [[stabil]]
 
 ---
+
 [[Daran]] [[ändern]] auch die [[explodierenden]] Preise nichts.
 
 ---
+
 Synonyme: [[zerstörend]], [[zerreißend]], [[detonierend]], [[auseinanderberstend]]
 Antonyme: [[zusammenhaltend]], [[konstruierend]], [[aufbauend]]
 
 ---
+
 **Übersetzung**:
 exploding, bursting
 
 ---
-#Participle #Adjective 
+
+#Participle #Adjective
 
 ---
+
 Morpheme:
-[[explod]][[ier]][[end]][[en]]
+[[explod]], [[ier]], [[end]], [[en]]
 
 ---
 
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[explodierender]], [[explodierendes]], [[explodierenden]], [[explodierendem]]
 [[explodierenden]], [[explodierendere]], [[explodierenderes]], [[explodierenderer]]
 [[explodierendsten]], [[explodierendster]], [[explodierendste]], [[explodierenderes]]

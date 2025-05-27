@@ -4,14 +4,17 @@
 nicht [[ausgelassen]]
 
 ---
+
 Hallo. Ihr Paket wird [[voraussichtlich]] morgen [[zugestellt]].
 
 ---
 
 Synonyme:
+
 - [[geliefert]], [[überbracht]], [[gesendet]]
 
 ---
+
 Beispiele:
 
 - Das Paket wurde [[zugestellt]].
@@ -23,14 +26,16 @@ Beispiele:
 - Der Brief ist [[zugestellter]] als die anderen.
 
 ---
+
 **Übersetzung**:
 delivered
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[zu]][[gestellt]]
+[[zu]], [[gestellt]]

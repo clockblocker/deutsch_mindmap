@@ -3,11 +3,13 @@
 haben [[dagelassen]]
 
 ---
+
 Meinen Diamantring hat er auch [[dagelassen]].
 
 ---
 
 Synonyme:
+
 - [[zurücklassen]], [[liegenlassen]], [[hinterlassen]]
 
 ---
@@ -22,14 +24,16 @@ Beispiele:
 - Sie haben die alte Couch im Haus [[dagelassen]].
 
 ---
+
 **Übersetzung**: to leave behind
 
 ---
 
 Morphems of only infinitive:
-[[Da]][[lassen]]
+[[Da]], [[lassen]]
 
 ---
+
 Tags:
 #Verb #Trennbar
 

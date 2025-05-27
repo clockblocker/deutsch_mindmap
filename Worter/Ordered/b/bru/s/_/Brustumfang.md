@@ -8,20 +8,24 @@ Beispiele:
 - Der [[Brustumfang]] wird für die richtige Kleidergröße gemessen.
 
 ---
+
 Synonyme:
+
 - [[Brustmaß]]
 - [[Torsoumfang]]
 - [[Brustweite]]
 
 ---
+
 **Übersetzung**:
+
 - chest circumference
 
 ---
 
 #Substantiv
-#Maskulin 
+#Maskulin
 
 ---
 
-• [[Brust]][[Umfang]]
+• [[Brust]], [[Umfang]]

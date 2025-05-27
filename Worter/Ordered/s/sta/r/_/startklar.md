@@ -5,14 +5,17 @@
 nicht [[unvorbereitet]]
 
 ---
-CINDY: Hey Leute seid ihr [[startklar]]? Los gehts!  
+
+CINDY: Hey Leute seid ihr [[startklar]]? Los gehts!
 
 ---
 
 Synonyme:
+
 - [[bereit]], [[vorbereitet]], [[einsatzbereit]]
 
 ---
+
 Beispiele:
 
 - Ich bin [[startklar]] für die Reise.
@@ -32,14 +35,16 @@ Beispiele:
 - Wir sind [[am]] [[startklarsten]] für das Abenteuer.
 
 ---
+
 **Übersetzung**:
 ready to start
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[start]][[klar]]
+[[start]], [[klar]]

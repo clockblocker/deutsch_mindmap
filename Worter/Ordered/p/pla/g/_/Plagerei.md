@@ -2,20 +2,24 @@
 die [[Plagereien]]
 
 Beispiele:
-- Und das [[wird]] keine [[Plagerei]] 
 
+- Und das [[wird]] keine [[Plagerei]]
 
 ---
+
 Synonyme:
+
 - [[Schinderei]], [[Mühsal]], [[Quälerei]]
 
 ---
+
 **Übersetzung**: drudgery, tedious work
 
 ---
 
 Morphems:
-[[Plag]][[erei]]
+[[Plag]], [[erei]]
 
 ---
+
 #Substantiv #Feminin

@@ -1,6 +1,7 @@
 [[Durcheinander]]
 
 Synonyme:
+
 - [[gegenseitig]], [[zueinander]], [[miteinander]]
 
 ---
@@ -12,6 +13,7 @@ Beispiele:
 - Wir müssen auf [[einander]] aufpassen.
 
 ---
+
 **Übersetzung**: each other, one another
 
 ---
@@ -22,7 +24,7 @@ Tags:
 ---
 
 Morphems:
-[[ein]][[ander]]
+[[ein]], [[ander]]
 [[übereinander]]
 
 1. [[einander]]

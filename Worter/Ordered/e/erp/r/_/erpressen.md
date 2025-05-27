@@ -7,6 +7,7 @@ haben [[erpresst]]
 ---
 
 Synonyme:
+
 - [[bedrohen]], [[nötigen]], [[zwingen]]
 
 ---
@@ -20,14 +21,16 @@ Beispiele:
 - Er [[erpresste]] sie, um seinen Willen durchzusetzen.
 
 ---
+
 **Übersetzung**: to blackmail, to extort
 
 ---
 
 Morphems of only infinitive:
-[[erpress]][[en]]
+[[erpress]], [[en]]
 
 ---
+
 Tags:
 #Verb
 #Regelmäßig

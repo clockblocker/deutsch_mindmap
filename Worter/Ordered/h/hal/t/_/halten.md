@@ -63,7 +63,7 @@ Beispiele:
 ---
 
 Morphems of only infinitive:
-[[Halt]][[en]]
+[[Halt]], [[en]]
 
 ---
 

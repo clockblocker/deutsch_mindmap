@@ -2,23 +2,30 @@
 die [[Lichtblitze]]
 
 ---
+
 Hast du den Lichtblitz gesehen? Er hat sicher versucht der Feuermarine ein Zeichen zu geben!
 
 ---
+
 Synonyme:
+
 - [[Lichtstrahl]], [[Blitzlicht]], [[Lichtimpuls]], [[Lichtschein]], [[Leuchtblitz]]
 
 ---
+
 Übersetzung: flash of light, lightning flash
 
 ---
+
 Morpheme:
-[[Licht]][[Blitz]]
+[[Licht]], [[Blitz]]
 
 ---
+
 Einzigartige mögliche Formen: [[Lichtblitzes]], [[Lichtblitzen]], [[Lichtblitz]], [[Lichtblitze]]
 
 ---
+
 #Substantiv #Neuter #Kompositum
 
 Weitere Erklärung:

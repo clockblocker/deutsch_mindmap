@@ -28,4 +28,4 @@ G: der [[Pflegekraft]], der [[Pflegekräfte]]
 D: der [[Pflegekraft]], den [[Pflegekräften]]
 
 
-#Feminin 
+#Feminin , [[Pflegepersonal]]

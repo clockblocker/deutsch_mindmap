@@ -17,7 +17,7 @@ computer, calculating machine
 
 ---
 
-[[Rech]][[ner]]
+[[Rech]], [[ner]]
 
 ---
 

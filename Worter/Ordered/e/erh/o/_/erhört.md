@@ -7,6 +7,7 @@ nicht [[ignoriert]]
 ---
 
 Synonyme:
+
 - [[gewährt]], [[erfüllt]], [[zugehört]]
 
 ---
@@ -21,6 +22,7 @@ Beispiele:
 - Das ist das [[erhörteste]] Gebet in der Kirche.
 
 ---
+
 **Übersetzung**: granted, answered
 
 ---
@@ -31,4 +33,4 @@ Tags:
 ---
 
 Morphems:
-[[er]][[hört]], [[unerhört]]
+[[er]], [[hört]], [[unerhört]]

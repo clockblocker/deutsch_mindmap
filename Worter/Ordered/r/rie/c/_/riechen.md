@@ -3,11 +3,11 @@
 haben [[gerochen]]
 
 ---
+
 SASCHA: Päh! Wie [[riecht]]’s [[denn]] hier?  
-Es [[riecht]] wie Stinke-brot.  
+Es [[riecht]] wie Stinke-brot.
 
-*[[C1-Lesen-T2-102-Text#^1|^]]* [[Gelockt]] wird sie von [[Gemüse]], das sie aus [[Dutzenden]] Metern [[Entfernung]] [[riechen]] kann. ^1
-
+_[[C1-Lesen-T2-102-Text#^1|^]]_ [[Gelockt]] wird sie von [[Gemüse]], das sie aus [[Dutzenden]] Metern [[Entfernung]] [[riechen]] kann. ^1
 
 Hast du zufällig mal an deinen dreckigen Socken [[gerochen]]?
 
@@ -31,15 +31,19 @@ Hast du zufällig mal an deinen dreckigen Socken [[gerochen]]?
 - Sie [[riechen]] die Gewürze.
 
 ---
+
 **Übersetzung**:
 to smell
 
 ---
-**Morphems of only infinitive:**  
-- [[riech]][[en]]
+
+**Morphems of only infinitive:**
+
+- [[riech]], [[en]]
 
 ---
- #Verb #Unregelmäßige
+
+#Verb #Unregelmäßige
 
 ---
 
@@ -68,7 +72,9 @@ to smell
 - Sie [[riechen]] an den Blumen.
 
 ---
+
 Konjunktiv I:
+
 - Er sagt, ich [[rieche]] die Blumen.
 - Sie meint, du [[riechest]] das frische Brot.
 - Er behauptet, er [[rieche]] nach Parfüm.
@@ -77,13 +83,17 @@ Konjunktiv I:
 - Sie sagen, sie [[riechen]] die Gewürze.
 
 ---
+
 Konjunktiv II:
+
 - Wenn ich hier wäre, [[röche]] ich die Blumen.
 - Wenn du hier wärst, [[röchtest]] du das frische Brot.
 - Wenn er hier wäre, [[röche]] er nach Parfüm.
 - Wenn wir hier wären, [[röchen]] wir den Rauch.
 - Wenn ihr hier wärt, [[röchet]] ihr den Regen.
 - Wenn sie hier wären, [[röchen]] sie die Gewürze.
+
 ```​⬤, [[toll]], [[Witterten]], [[Geruch]]
 , [[stinken]]
 , [[schnüffeln]], [[Erschnüffeln]]
+```

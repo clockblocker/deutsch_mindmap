@@ -27,4 +27,4 @@ A: das [[Pflegeheim]], die [[Pflegeheime]]
 G: des [[Pflegeheims]], der [[Pflegeheime]]
 D: dem [[Pflegeheim]], den [[Pflegeheimen]]
 
-#Neuter , [[Pflegenotstand]]
+#Neuter , [[Pflegenotstand]], [[Pflegepersonal]]

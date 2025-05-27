@@ -1,4 +1,4 @@
 --> 📊 [[Grad-Verteilung]] <--
 , [[aufteilen]], [[Verbreitung]]
 
-Verteilung, [[verteilen]], [[Einkommensverhältnis]]
+Verteilung, [[verteilen]], [[Einkommensverhältnis]], [[Ballung]]

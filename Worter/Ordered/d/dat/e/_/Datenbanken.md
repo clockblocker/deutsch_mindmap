@@ -1,1 +1,1 @@
-, [[Buchhaltung]][[Datenbank]], [[Ausstattung]]
+, [[Buchhaltung]], [[Datenbank]], [[Ausstattung]]

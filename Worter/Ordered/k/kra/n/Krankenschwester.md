@@ -1,1 +1,1 @@
-, [[Krankenhaus]]
+, [[Krankenhaus]], [[Pflegepersonal]]

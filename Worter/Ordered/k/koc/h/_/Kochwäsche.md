@@ -4,18 +4,24 @@ die [[Kochwäschen]]
 ---
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Kochkleidung]], [[Küchenwäsche]]
 
 ---
+
 Übersetzung: kitchen linen, cooking laundry
 
 ---
+
 Morpheme:
-[[Koch]][[Wäsche]]
+[[Koch]], [[Wäsche]]
 
 ---
+
 Einzigartige mögliche Formen: [[Kochwäsches]], [[Kochwäsche]], [[Kochwäschen]], [[Kochwäschen]]
 
 ---
+
 #Substantiv #Neuter

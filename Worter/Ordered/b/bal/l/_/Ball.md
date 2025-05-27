@@ -1,1 +1,1 @@
-, [[Kugel]], [[Aufschlag]]
+, [[Kugel]], [[Aufschlag]], [[Ballung]]

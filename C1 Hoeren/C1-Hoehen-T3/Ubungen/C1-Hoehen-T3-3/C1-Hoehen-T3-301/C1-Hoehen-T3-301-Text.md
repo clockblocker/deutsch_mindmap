@@ -223,13 +223,13 @@ Und wie sehen Sie das, Herr Osterholz?
 **Frau Ebner-Perrotti:**  
 *[[C1-Hoehen-T3-301-Text#^44|^]]* Oft [[beitragen|tragen]] ja auch die öffentlichen oder privaten Arbeitgeber selbst `dazu` bei, dass sie ihre offenen [[Stellen]] nicht [[besetzt]] [[kriegen]]. ^44
 
-*[[C1-Hoehen-T3-301-Text#^45|^]]* Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stellen]] [[unbesetzt]] bleiben. ^45
+*[[C1-Hoehen-T3-301-Text#^45|^]]* Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stelle]]n [[unbesetzt]] bleiben. ^45
 
-*[[C1-Hoehen-T3-301-Text#^46|^]]* Und es ist ja keineswegs nur der [[Pflegesektor]]. ^46
+*[[C1-Hoehen-T3-301-Text#^46|^]]* Und es ist ja [[keineswegs]] nur der [[Pflegesektor]]. ^46
 
 *[[C1-Hoehen-T3-301-Text#^47|^]]* Ein Feinmechaniker beispielsweise erhält im ersten Ausbildungsjahr zwischen 520 und 768 Euro. ^47
 
-*[[C1-Hoehen-T3-301-Text#^48|^]]* Auch abseits der [[Ballungszentre]]n kann man damit kaum `über` die [[Runden]] [[kommen]]. ^48
+*[[C1-Hoehen-T3-301-Text#^48|^]]* Auch [[abseits]] der [[Ballungszentre]]n kann man damit kaum `über` die [[Runden]] [[kommen]]. ^48
 
 
 **Dr. Osterholz:**  

@@ -2,28 +2,33 @@
 nicht [[reich]]
 
 ---
+
 Mir bricht das Herz, wenn ich die Not der armen Menschen sehe. (Das Herz tut mir weh; I.)
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[bedürftig]], [[mittellos]], [[unbemittelt]], [[unbegütert]], [[besitzlos]], [[vermögenslos]]
-Antonyme:
+  Antonyme:
 - [[wohlhabend]], [[vermögend]], [[begütert]], [[reich]]
 
 ---
+
 **Übersetzung**:
 poor, needy, destitute
 
 ---
+
 #Adjective [[armen]]
 
 ---
+
 Morpheme:
-[[arm]][[en]]
+[[arm]], [[en]]
 
 ---
 
-
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[armen]], [[armeren]], [[armere]], [[ärmeres]], [[armeren]], [[árerem]], [[armerer]], [[armeren]]
 [[ärmsten]], [[ärmster]], [[ärmste]], [[ärmstes]], [[ärmsten]], [[ärmistem]], [[ärmster]], [[ärmsten]], [[umarmen]]

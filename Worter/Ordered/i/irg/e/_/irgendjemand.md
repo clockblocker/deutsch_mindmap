@@ -1,3 +1,2 @@
-
-[[irgend]][[Jemand]]
-[[Indefinitpronomen]][[Niemand]]
+[[irgend]], [[Jemand]]
+[[Indefinitpronomen]], [[Niemand]]

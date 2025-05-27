@@ -1,1 +1,1 @@
-, [[Diensten]][[Leistung]]
+, [[Diensten]], [[Leistung]]

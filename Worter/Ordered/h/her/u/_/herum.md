@@ -1,29 +1,33 @@
 🔀 [[herum]], [həˈʁʊm]
 
 Was sitzen wir [[herum]]?
-SAM: Na, das ist klar! Sie geht hinten [[herum]]!  
+SAM: Na, das ist klar! Sie geht hinten [[herum]]!
 
 Um sie [[herum]] ist nun alles still und sie sind umgeben von großen Eisschollen
 
-*und die Mutter blickte stumm*  
-*auf dem ganzen Tisch [[herum]].*  
+_und die Mutter blickte stumm_  
+_auf dem ganzen Tisch [[herum]]._
 
 ---
 
 ---
+
 Synonyme: [[umher]], [[umrum]], [[ringsherum]], [[rundherum]], [[allenthalben]]
 Antonyme: [[hierhin]], [[dorthin]], [[geradeaus]], [[vorwärts]], [[rückwärts]]
 
 ---
+
 **Übersetzung:**
 around, round about, in a circle
 
 ---
+
 #Adverb [[herum]]
 
 ---
+
 Morpheme:
-[[her]][[um]]
+[[her]], [[um]]
 
 ---
 
@@ -34,4 +38,4 @@ Morpheme:
 5. **[[um]]**
 6. **[[herumstehen]]**
 7. [[hier]]P
-, [[Um sie herum]], [[7 Die Geschichte vom Zappel-Philipp]], [[herumkriechen]], [[Herumtollen]]
+   , [[Um sie herum]], [[7 Die Geschichte vom Zappel-Philipp]], [[herumkriechen]], [[Herumtollen]]

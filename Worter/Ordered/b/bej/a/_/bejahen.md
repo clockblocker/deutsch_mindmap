@@ -1,2 +1,2 @@
-[[be]][[ja]]h[[en]]
+[[be]], [[ja]]h[[en]]
 [[verneinen]], [[nicken]], [[stimmen]], [[absprechen]]

@@ -2,23 +2,30 @@
 die [[Sonnenscheine]]
 
 ---
-*Sie leben hinterm [[Sonnenschein]],*  
-*getrennt von uns unendlich weit.*  
+
+_Sie leben hinterm [[Sonnenschein]],_  
+_getrennt von uns unendlich weit._
 
 ---
+
 Synonyme:
+
 - [[Sonne]], [[licht]], [[Glanz]], [[Strahlung]]
 
 ---
+
 Übersetzung: sunshine
 
 ---
+
 Morpheme:
-[[Sonnen]][[schein]]
+[[Sonnen]], [[schein]]
 
 ---
+
 Einzigartige mögliche Formen: [[Sonnenscheins]], [[Sonnenscheine]], [[Sonnenscheinen]]
 
 ---
+
 #Substantiv #Neuter, [[Regen]]
 , [[Unwetter]], [[Wirbelsturm]]

@@ -25,7 +25,7 @@ Antonyme: [[stehenbleiben]], [[sitzen]], [[liegen]], [[hängen]], [[gehen]]
 
 ---
 
-Morpheme: [[spring]][[en]]
+Morpheme: [[spring]], [[en]]
 #Verb #Untrennbar
 
 ---

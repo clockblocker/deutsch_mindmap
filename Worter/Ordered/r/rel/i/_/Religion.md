@@ -23,7 +23,7 @@ religion
 
 ---
 
-[[Relig]][[ion]]
+[[Relig]], [[ion]]
 
 ---
 

@@ -3,8 +3,8 @@ Plural: die [[Lieblingsessen]]
 
 ---
 
-**Beispiele**: 
-was ist dein [[Lieblings]][[essen]] – Currywurst?
+**Beispiele**:
+was ist dein [[Lieblings]], [[essen]] – Currywurst?
 
 ---
 

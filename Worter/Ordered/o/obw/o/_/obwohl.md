@@ -1,14 +1,15 @@
 [[Grammatik-Konjunktoren-Subordinating-Konzessiv|Konzessiv Subordinating Konjunktor]]
 
 ---
-[[obwohl]], [ˈɔpfォl]
+
+[[obwohl]], [ˈɔpf ォ l]
 
 ---
-Und [[obwohl]] seine [[Fähigkeiten]] [[erstaunlich]] sind, muss er noch eine Menge lernen. 
+
+Und [[obwohl]] seine [[Fähigkeiten]] [[erstaunlich]] sind, muss er noch eine Menge lernen.
 
 [[Obwohl]] sie [[schon]] [[oft]] ins Deutschland war, sprach sie [[immer]] [[noch]] kein Deutsch
 [[Obwohl]] ich mich oft mit meinen Freunden [[unterhalte]], ist es mir [[trotzdem]] langweilig.
-
 
 [[1 ADHD#^5|^]] steht auf, obwohl Sitzenbleiben [[erwartet]] wird. ^5
 
@@ -18,25 +19,29 @@ Und [[obwohl]] seine [[Fähigkeiten]] [[erstaunlich]] sind, muss er noch eine Me
 
 Es gibt Leute, die bei eBay einen Koffer für den Urlaub kaufen wollen und nach vier Stunden im Internet Besitzer eines Autos sind, [[obwohl]] sie gar keinen Führerschein haben.
 
-[[Obwohl]] ich viel gearbeitet habe, 
+[[Obwohl]] ich viel gearbeitet habe,
 
 Sie geht alleine nach Hause, [[obwohl]] sie weiß, dass es [[gefährlich]] ist.
-
 
 ---
 
 Synonyme:
-- [[trotzdem]], [[jedoch]],  [[dennoch]], [[gleichwohl]], [[Obschon]], [[Obgleich]]  
+
+- [[trotzdem]], [[jedoch]], [[dennoch]], [[gleichwohl]], [[Obschon]], [[Obgleich]]
 
 Antonyme:
-- [[weil]],  [[da]], [[deshalb]]
+
+- [[weil]], [[da]], [[deshalb]]
 
 ---
+
 Übersetzung: although, even though, despite the fact that
 
 ---
-Morpheme: [[ob]][[wohl]]
+
+Morpheme: [[ob]], [[wohl]]
 
 ---
+
 #Konjunktion #Nebensatz
 , [[trotz]], [[Konjunktoren]], [[Konnektoren]], [[Texte/Misc/Anki]], [[unterhalten]], [[ungeachtet]], [[insofern]]

@@ -3,16 +3,17 @@
 sein [[geschlichen]]
 
 ---
-*Da mit der Peitsch herzu sich [[schleichen|schlich]]*  
-*der bitterböse Friederich;*  
 
-*und nahm die Flint und auch die Brill*  
-*und [[schlich]] davon ganz leis und still.*
+_Da mit der Peitsch herzu sich [[schleichen|schlich]]_  
+_der bitterböse Friederich;_
 
+_und nahm die Flint und auch die Brill_  
+_und [[schlich]] davon ganz leis und still._
 
 ---
 
 Synonyme:
+
 - [[kriechen]], [[pirschen]], [[schlurfen]]
 
 ---
@@ -27,14 +28,16 @@ Beispiele:
 - Sie [[schleichen]] durch den Wald.
 
 ---
+
 **Übersetzung**: to sneak, to creep
 
 ---
 
 Morphems of only infinitive:
-[[schleich]][[en]]
+[[schleich]], [[en]]
 
 ---
+
 Tags:
 #Verb #Unregelmäßige
 

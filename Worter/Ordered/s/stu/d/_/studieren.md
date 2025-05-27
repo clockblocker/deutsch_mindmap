@@ -18,7 +18,7 @@ to study (at a university), to major in
 
 ---
 
-[[studi]][[er]][[en]]
+[[studi]], [[er]], [[en]]
 
 ---
 

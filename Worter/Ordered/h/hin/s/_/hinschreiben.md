@@ -3,12 +3,15 @@
 haben [[hingeschrieben]]
 
 ---
+
 **Synonyme:**
+
 - [[aufschreiben]]
 - [[notieren]]
 - [[vermerken]]
 
 ---
+
 **Beispiele:**
 
 Ich [[schreibe hin]] eine Notiz.
@@ -21,17 +24,19 @@ ihr [[schreibt hin]] die Informationen.
 Sie [[schreiben hin]] den Termin.
 
 ---
+
 **Übersetzung**:
 write down
 
 ---
 
-Tags: 
+Tags:
 #Verb
 #Ablaut | #Schwache
 #Unregelmäßige | #Regelmäßige
 
 ---
+
 **Präteritum**
 
 Ich [[schrieb hin]] eine Notiz.
@@ -59,6 +64,7 @@ Sie [[schreiben hin]] die Daten.
 ---
 
 **Morphems of infinitive:**
-- [[hin]][[schreib]][[en]]
+
+- [[hin]], [[schreib]], [[en]]
 
 ---

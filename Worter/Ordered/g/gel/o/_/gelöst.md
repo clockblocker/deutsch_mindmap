@@ -3,28 +3,32 @@
 nicht [[unbehandelt]]
 
 ---
+
 [[Freigabeprobleme]] [[gelöst]]. Sendung zur Zustellung freigegeben
 
-*[[C1-Hoehen-T2-200-Text#^47|^]]* [[Logikaufgabe]]n können auch von älteren Menschen [[locker]] [[gelöst]] werden
+_[[C1-Hoehen-T2-200-Text#^47|^]]_ [[Logikaufgabe]]n können auch von älteren Menschen [[locker]] [[gelöst]] werden
 
-*[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinden]], wie das Wohnungsproblem [[gelöst]] werden kann. 
+_[[C1-Hoehen-T1-100-Text#^20|^]]_ [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinden]], wie das Wohnungsproblem [[gelöst]] werden kann.
 
-*[[04-C1-Schreiben-T2-M#^7|^]]* Beschreiben Sie, welche Konsequenzen es geben wird, falls das Problem nicht [[gelöst]] wird
+_[[04-C1-Schreiben-T2-M#^7|^]]_ Beschreiben Sie, welche Konsequenzen es geben wird, falls das Problem nicht [[gelöst]] wird
 
 – Wir haben mit dieser Familie gebrochen. (Wir haben unsere Beziehung [[gelöst]].)
 
-
 ---
+
 Synonyme: [[aufgelöst]], [[geklärt]], [[entschlüsselt]], [[beantwortet]], [[erledigt]]
 Antonyme: [[ungelöst]], [[verworren]], [[unklar]], [[unbeantwortet]]
 
 ---
+
 Übersetzung: solved, resolved, dissolved
 
 ---
-Morpheme: [[ge]][[löst]]
+
+Morpheme: [[ge]], [[löst]]
 
 ---
+
 Deklinationsmöglichkeiten:
 [[gelöst]], [[gelöster]], [[gelöste]], [[gelöstes]], [[gelösten]], [[gelöstem]], [[gelöster]]
 
@@ -35,4 +39,5 @@ Superlativform:
 [[gelösteste]], [[gelöstesten]], [[gelöstestem]], [[gelöstestes]]
 
 ---
+
 , [[entspannter]]

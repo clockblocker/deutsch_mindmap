@@ -23,7 +23,7 @@ traffic fatality, road traffic death
 
 ---
 
-[[Verkehr]][[s]][[tote]]
+[[Verkehr]], [[s]], [[tote]]
 
 ---
 

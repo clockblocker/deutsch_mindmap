@@ -3,24 +3,29 @@
 ---
 
 ---
+
 Synonyme:
+
 - [[Wildrose]]
 - [[Apfelrose]]
 - [[Rosa canina]]
 
 Antonyme:
+
 - keine offensichtlichen Antonyme
 
 ---
+
 Übersetzung: dog rose (botanical term for wild rose)
 
 ---
+
 Morpheme:
-[[Rosen]][[rot]]
+[[Rosen]], [[rot]]
 
 ---
-#Substantiv #Neuter #Botanik
 
+#Substantiv #Neuter #Botanik
 
 Einzigartige mögliche Formen:
 [[Rosenrot]], [[Rosenrots]], [[Rosenröter]]

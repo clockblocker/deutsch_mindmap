@@ -1,2 +1,2 @@
 🔵 der [[Arzt]]
-, [[Schulmedizin]]
+, [[Schulmedizin]], [[Pflegepersonal]]

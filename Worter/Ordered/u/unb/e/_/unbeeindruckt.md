@@ -2,23 +2,27 @@
 nicht [[beeindruckt]]
 
 ---
+
 ([[Wendet]] sich [[unbeeindruckt]] seinem Spiel zu)
 
-
 ---
+
 Synonyme: [[gelassen]], [[gleichgültig]], [[ruhig]], [[unbeteiligt]], [[ungerührt]]
 Antonyme: [[beeindruckt]], [[erstaunt]], [[überrascht]], [[fasziniert]], [[überwältigt]]
 
 ---
+
 **Übersetzung**:
 unimpressed, indifferent, unfazed
 
 ---
+
 #Adjective [[unbeeindruckt]]
 
 ---
+
 Morpheme:
-[[un]][[beeindruckt]]
+[[un]], [[beeindruckt]]
 
 ---
 

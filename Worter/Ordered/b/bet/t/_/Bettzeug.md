@@ -2,22 +2,29 @@
 die [[Bettzeugs]]
 
 ---
+
 - Und werden unter euer [[Bettzeug]] sehen
-- 
+-
 
 ---
+
 Synonyme:
+
 - [[Bettwäsche]], [[Betttextilien]], [[Schlafausstattung]]
 
 ---
+
 Übersetzung: bedding
 
 ---
+
 Morpheme:
-[[Bett]][[Zeug]]
+[[Bett]], [[Zeug]]
 
 ---
+
 Einzigartige mögliche Formen: [[Bettzeug]], [[Bettzeugs]]
 
 ---
+
 #Substantiv #Neuter

@@ -2,22 +2,29 @@
 die [[Feuerzeuge]]
 
 ---
-*da sah sie plötzlich vor sich stehn*  
-*ein Feuerzeug, nett anzusehn.*  
+
+_da sah sie plötzlich vor sich stehn_  
+_ein Feuerzeug, nett anzusehn._
 
 ---
+
 Synonyme:
+
 - [[Anzünder]], [[Zündholz]], [[Streichholz]]
 
 ---
+
 Übersetzung: lighter
 
 ---
+
 Morpheme:
-[[Feuer]][[Zeug]]
+[[Feuer]], [[Zeug]]
 
 ---
+
 Einzigartige mögliche Formen: [[Feuerzeuge]], [[Feuerzeugs]], [[Feuerzeugem]], [[Feuerzeugen]]
 
 ---
+
 #Substantiv #Neuter

@@ -1,3 +1,3 @@
 17
 
-[[sieben]][[Zehn]]
+[[sieben]], [[Zehn]]

@@ -24,7 +24,7 @@ to stop, to cease, to end
 
 ---
 
-[[auf]][[hör]][[en]]
+[[auf]], [[hör]], [[en]]
 
 ---
 
@@ -45,7 +45,7 @@ Zu+infinifive: [[aufzuhören]]
 
 [[Aufhören]], [[Aufhörer]], [[Aufhörerin]], [[Aufhörpunkt]]
 
-[[scheiden]][[bestehen]][[regnen]], [[anfangen]], [[dauern]], [[sein]], [[losschießen]], [[aufgehen]], [[Tropfen]], [[Leben]], [[qualmen]], [[plempern]], [[weiterüben]], [[mitmachen]], [[weitermachen]], [[angehen]]
+[[scheiden]], [[bestehen]], [[regnen]], [[anfangen]], [[dauern]], [[sein]], [[losschießen]], [[aufgehen]], [[Tropfen]], [[Leben]], [[qualmen]], [[plempern]], [[weiterüben]], [[mitmachen]], [[weitermachen]], [[angehen]]
 🛑 [[aufhören]], [[studieren]], [[weitergehen]], [[aufbringen]], [[rauchen]]
 
 Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können.

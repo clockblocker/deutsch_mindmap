@@ -5,28 +5,32 @@
 haben [[hingebracht]]
 
 ---
-*Hat das Röslein nur im Sinn*  
-*Bringt es seiner Liebsten hin*
+
+_Hat das Röslein nur im Sinn_  
+_Bringt es seiner Liebsten hin_
 
 ---
+
 Synonyme: [[transportieren]], [[befördern]], [[liefern]], [[bringen]], [[verbringen]]
 Antonyme: [[wegnehmen]], [[abholen]], [[entfernen]]
 
 ---
+
 Übersetzung: to bring (to a place)
 
 ---
-Morpheme: [[hin]][[bring]][[en]]
- #Verb  #Trennbar
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[bringe hin]] | [[brachte hin]] | - | [[bringe hin]] | [[brächte hin]] |
-| Du | [[bringst hin]] | [[brachtest hin]] | [[bring hin]] | [[bringest hin]] | [[brächtest hin]] |
-| Er/sie/es | [[bringt hin]] | [[brachte hin]] | - | [[bringe hin]] | [[brächte hin]] |
-| Wir | [[bringen hin]] | [[brachten hin]] | - | [[bringen hin]] | [[brächten hin]] |
-| Ihr | [[bringt hin]] | [[brachtet hin]] | [[bringt hin]] | [[bringet hin]] | [[brächtet hin]] |
-| Sie | [[bringen hin]] | [[brachten hin]] | [[bringen Sie hin]] | [[bringen hin]] | [[brächten hin]] |
+Morpheme: [[hin]], [[bring]], [[en]]
+#Verb #Trennbar
+
+| Person    | Präsens         | Präteritum        | Imperativ           | Konjunktiv I     | Konjunktiv II     |
+| --------- | --------------- | ----------------- | ------------------- | ---------------- | ----------------- |
+| Ich       | [[bringe hin]]  | [[brachte hin]]   | -                   | [[bringe hin]]   | [[brächte hin]]   |
+| Du        | [[bringst hin]] | [[brachtest hin]] | [[bring hin]]       | [[bringest hin]] | [[brächtest hin]] |
+| Er/sie/es | [[bringt hin]]  | [[brachte hin]]   | -                   | [[bringe hin]]   | [[brächte hin]]   |
+| Wir       | [[bringen hin]] | [[brachten hin]]  | -                   | [[bringen hin]]  | [[brächten hin]]  |
+| Ihr       | [[bringt hin]]  | [[brachtet hin]]  | [[bringt hin]]      | [[bringet hin]]  | [[brächtet hin]]  |
+| Sie       | [[bringen hin]] | [[brachten hin]]  | [[bringen Sie hin]] | [[bringen hin]]  | [[brächten hin]]  |
 
 Partizip I: [[hinbringend]], Partizip II: [[hingebracht]]
 [[hinbringen]] - [[hin]] = [[bringen]]

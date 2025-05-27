@@ -3,12 +3,13 @@
 haben [[erhitzt]]
 
 ---
-SAM: ‚Öl in der [[Pfanne]] [[erhitzen]] …’  
 
+SAM: ‚Öl in der [[Pfanne]] [[erhitzen]] …’
 
 ---
 
 Synonyme:
+
 - [[aufwärmen]], [[anheizen]], [[aufheizen]]
 
 ---
@@ -23,14 +24,16 @@ Beispiele:
 - Sie [[erhitzen]] die Sauce vor dem Servieren.
 
 ---
+
 **Übersetzung**: to heat, to warm up
 
 ---
 
 Morphems of only infinitive:
-[[erhitz]][[en]]
+[[erhitz]], [[en]]
 
 ---
+
 Tags:
 #Verb
 

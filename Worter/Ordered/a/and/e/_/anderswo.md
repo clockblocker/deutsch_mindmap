@@ -1,1 +1,1 @@
-[[irgendwo]][[anders]], [[woanders]]
+[[irgendwo]], [[anders]], [[woanders]]

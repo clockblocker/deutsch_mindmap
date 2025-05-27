@@ -3,7 +3,8 @@
 [[am]] [[saftigsten]]
 
 ---
-SASCHA: Nun ja, denk mal an [[Saftige]] Happen …  
+
+SASCHA: Nun ja, denk mal an [[Saftige]] Happen …
 
 ---
 
@@ -12,6 +13,7 @@ nicht [[trocken]]
 ---
 
 Synonyme:
+
 - [[feucht]], [[reichhaltig]], [[nahrhaft]]
 
 ---
@@ -23,6 +25,7 @@ Beispiele:
 - Das war das [[saftigste]] Stück Kuchen, das ich je hatte.
 
 ---
+
 **Übersetzung**: juicy, succulent
 
 ---
@@ -33,4 +36,4 @@ Tags:
 ---
 
 Morphems:
-[[Saft]][[ig]], [[Fruchtsaft]], [[fruchtbar]], [[dürr]]
+[[Saft]], [[ig]], [[Fruchtsaft]], [[fruchtbar]], [[dürr]]

@@ -3,23 +3,26 @@
 haben [[gewickelt]]
 
 ---
-„Sie wickelt dich immer um den Finger“, sagt Peter. Sein bester Freund Leo sitzt ihm gegenüber und fragt erstaunt: „Wie meinst du das?“ 
 
+„Sie wickelt dich immer um den Finger“, sagt Peter. Sein bester Freund Leo sitzt ihm gegenüber und fragt erstaunt: „Wie meinst du das?“
 
 ---
+
 [[entwickeln]] - [[ent]] = [[wickeln]] / раскрыть, to develop, to evolve, to elaborate
 
-
 ---
+
 Synonyme: [[einwickeln]], [[umwickeln]], [[verhüllen]], [[umhüllen]], [[einpacken]]
 Antonyme: [[auswickeln]], [[entfalten]], [[ausbreiten]]
 
 ---
+
 Übersetzung: to wrap, to wind
 
 ---
-Morpheme: [[wick]][[el]][[n]]
- #Verb  #Untrennbar
+
+Morpheme: [[wick]], [[el]], [[n]]
+#Verb #Untrennbar
 
 ---
 
@@ -34,8 +37,6 @@ Morpheme: [[wick]][[el]][[n]]
 
 Partizip I: [[wickelnd]], Partizip II: [[gewickelt]], Zu-Infinitiv: zu wickeln
 
-[[wickeln]] = [[wick]][[el]][[n]]
-
+[[wickeln]] = [[wick]], [[el]], [[n]]
 
 , [[winden]], [[entwickeln]]
-

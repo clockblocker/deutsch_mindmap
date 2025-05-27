@@ -3,23 +3,24 @@
 🌊 [[sinken]]
 
 ---
+
 Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem Schrecken davon.
 
-*[[C1-Hoehen-T3-301-Text#^16|^]]* Frau Ebner-Perotti [[befürchtet]] [[sinken]]de Löhne durch billige [[Arbeitskräfte]]
+_[[C1-Hoehen-T3-301-Text#^16|^]]_ Frau Ebner-Perotti [[befürchtet]] [[sinken]]de Löhne durch billige [[Arbeitskräfte]]
 
-*[[000-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+_[[000-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
-
-*[[C1-Lesen-T1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
-
+_[[C1-Lesen-T1-000-Text#^3|^]]_ Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
 
 ---
+
 +[[zu]] = [[zusinken]]
 [[versinken]] - [[ver]] = [[sinken]]
 
 ---
 
 Synonyme:
+
 - [[untergehen]], [[abtauchen]], [[fallen]]
 
 ---
@@ -31,16 +32,18 @@ Beispiele:
 - Der Stein ist im Wasser [[gesunken]].
 
 ---
+
 **Übersetzung**: sank, descended
 
 ---
 
 Morphems of only infinitive:
-[[Sink]][[en]]
+[[Sink]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Unregelmäßig
+#Verb #Unregelmäßig
 
 ---
 

@@ -31,7 +31,7 @@ to convince, to persuade
 
 ---
 
-[[Ü/über]][[Zeug]][[en]]
+[[Ü/über]], [[Zeug]], [[en]]
 
 ---
 

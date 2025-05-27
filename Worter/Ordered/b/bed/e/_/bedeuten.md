@@ -16,7 +16,7 @@ haben [[bedeutet]]
 
   ***
 
-  Morpheme: [[be]][[deut]][[en]]
+  Morpheme: [[be]], [[deut]], [[en]]
   #Verb #Untrennbar
 
   ***

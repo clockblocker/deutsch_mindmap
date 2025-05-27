@@ -2,30 +2,40 @@
 die Strengen
 
 ---
+
 Diese Schule hat [[strenge]] Regeln.
-﻿﻿
-﻿﻿
-﻿﻿Der Vater bricht den Trotz seines Sohnes. (Er macht ihn durch [[Strenge]] gehorsam.)
+
+
+
+Der Vater bricht den Trotz seines Sohnes. (Er macht ihn durch [[Strenge]] gehorsam.)
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Härte]], [[Unnachgiebigkeit]], [[Rigorosität]], [[Schärfe]], [[Striktheit]]
 
 ---
+
 Antonyme:
+
 - [[Milde]], [[Nachsicht]], [[Großzügigkeit]], [[Nachgiebigkeit]], [[Toleranz]]
 
 ---
-Übersetzung: 
+
+Übersetzung:
 strictness, severity, rigor
 
 ---
+
 Morpheme:
-[[Streng]][[e]]
+[[Streng]], [[e]]
 
 ---
+
 #Substantiv #Feminin
 
 ---
+
 Einzigartige mögliche Formen:
 [[Strenge]], [[Strengen]], [[Strenges]], [[Strengem]]

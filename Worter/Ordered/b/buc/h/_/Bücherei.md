@@ -1,1 +1,1 @@
-[[Bücher]][[ei]], [[Bibliothek]]
+[[Bücher]], [[ei]], [[Bibliothek]]

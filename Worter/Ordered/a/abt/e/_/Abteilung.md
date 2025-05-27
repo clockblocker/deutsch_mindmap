@@ -31,7 +31,7 @@ department, division, section
 
 ---
 
-[[Ab]]Teil]][[ung]]
+[[Ab]]Teil]], [[ung]]
 
 ---
 

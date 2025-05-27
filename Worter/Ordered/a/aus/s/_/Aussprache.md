@@ -18,7 +18,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[aus]][[Sprache]]
+[[aus]], [[Sprache]]
 
 ---
 

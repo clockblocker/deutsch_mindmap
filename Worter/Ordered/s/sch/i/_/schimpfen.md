@@ -3,38 +3,40 @@
 haben [[geschimpft]]
 
 ---
-*[[Atom#^2|^]]* Doch nicht alle sehen das so. *Diese nuklearen Ambitionen halte ich für totalen Unsinn*, [[schimpft]] ein [[Naturschützer]] von *Baltitskije SOS*. ^2
 
+_[[Atom#^2|^]]_ Doch nicht alle sehen das so. _Diese nuklearen Ambitionen halte ich für totalen Unsinn_, [[schimpft]] ein [[Naturschützer]] von _Baltitskije SOS_. ^2
 
-*Mein [[Geschlecht]] [[schimpft]] mich [[Verräter]]*  
-*Ich bin der Albtraum aller Väter*  
+_Mein [[Geschlecht]] [[schimpft]] mich [[Verräter]]_  
+_Ich bin der Albtraum aller Väter_
 
 ---
+
 [[beschimpfen]] - [[be]] = [[schimpfen]] / to insult, to abuse verbally
 
-
 ---
+
 Synonyme: [[schelten]], [[fluchen]], [[tadeln]], [[beschimpfen]], [[rügen]]
 Antonyme: [[loben]], [[preisen]], [[ehren]], [[komplimentieren]], [[schmeicheln]]
 
 ---
-Übersetzung:  to insult, to call
+
+Übersetzung: to insult, to call
 
 ---
-Morpheme: [[schimpf]][[en]]
- #Verb  #Trennbar
- 
+
+Morpheme: [[schimpf]], [[en]]
+#Verb #Trennbar
+
 ---
 
-
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[schimpfe]] | [[schimpfte]] | - | [[schimpfe]] | [[schimpfte]] |
-| Du | [[schimpfst]] | [[schimpftest]] | [[schimpf]] | [[schimpfest]] | [[schimpftest]] |
-| Er/sie/es | [[schimpft]] | [[schimpfte]] | - | [[schimpfe]] | [[schimpfte]] |
-| Wir | [[schimpfen]] | [[schimpften]] | - | [[schimpfen]] | [[schimpften]] |
-| Ihr | [[schimpft]] | [[schimpftet]] | [[schimpft]] | [[schimpfet]] | [[schimpftet]] |
-| Sie | [[schimpfen]] | [[schimpften]] | [[schimpfen Sie]] | [[schimpfen]] | [[schimpften]] |
+| Person    | Präsens       | Präteritum      | Imperativ         | Konjunktiv I   | Konjunktiv II   |
+| --------- | ------------- | --------------- | ----------------- | -------------- | --------------- |
+| Ich       | [[schimpfe]]  | [[schimpfte]]   | -                 | [[schimpfe]]   | [[schimpfte]]   |
+| Du        | [[schimpfst]] | [[schimpftest]] | [[schimpf]]       | [[schimpfest]] | [[schimpftest]] |
+| Er/sie/es | [[schimpft]]  | [[schimpfte]]   | -                 | [[schimpfe]]   | [[schimpfte]]   |
+| Wir       | [[schimpfen]] | [[schimpften]]  | -                 | [[schimpfen]]  | [[schimpften]]  |
+| Ihr       | [[schimpft]]  | [[schimpftet]]  | [[schimpft]]      | [[schimpfet]]  | [[schimpftet]]  |
+| Sie       | [[schimpfen]] | [[schimpften]]  | [[schimpfen Sie]] | [[schimpfen]]  | [[schimpften]]  |
 
 Partizip I: [[schimpfend]], Partizip II: [[geschimpft]]
 

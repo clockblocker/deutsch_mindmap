@@ -17,7 +17,7 @@ Antonyme: [[ignorieren]], [[übersehen]], [[wegschauen]]
 
 ---
 
-Morpheme: [[auf]][[seh]][[en]]
+Morpheme: [[auf]], [[seh]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens        | Präteritum    | Imperativ         | Konjunktiv I   | Konjunktiv II  |

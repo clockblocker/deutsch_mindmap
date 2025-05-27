@@ -1,1 +1,1 @@
-, [[Ehrentitel]], [[Bezeichnung]], [[Anrede]]
+, [[Ehrentitel]], [[Bezeichnung]], [[Anrede]], [[Rang]]

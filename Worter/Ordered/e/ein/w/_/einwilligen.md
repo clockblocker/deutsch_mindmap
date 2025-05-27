@@ -1,4 +1,4 @@
-[[ein]][[will]]igen
+[[ein]], [[will]]igen
 
 , [[pflichten]], [[Einwilligung]]
 , [[zufriedengeben]]

@@ -19,7 +19,7 @@ Antonyme: [[erlöschen]], [[verdunkeln]], [[ausschalten]], [[verlöschen]]
 
 ---
 
-Morpheme: [[auf]][[leucht]][[en]]
+Morpheme: [[auf]], [[leucht]], [[en]]
 #Verb #Trennbar
 
 ---

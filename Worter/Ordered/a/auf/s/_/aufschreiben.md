@@ -20,7 +20,7 @@ to write down, to note
 
 ---
 
-[[auf]][[schreib]][[en]]
+[[auf]], [[schreib]], [[en]]
 
 ---
 

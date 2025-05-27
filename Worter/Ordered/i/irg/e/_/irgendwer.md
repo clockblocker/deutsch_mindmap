@@ -1,1 +1,1 @@
-[[Niemand]][[irgend]], [[irgendwas]]
+[[Niemand]], [[irgend]], [[irgendwas]]

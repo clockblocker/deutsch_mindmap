@@ -23,7 +23,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[Hai]][[fisch]]
+[[Hai]], [[fisch]]
 
 ---
 

@@ -24,7 +24,7 @@ contemporary, modern, current
 ---
 
 Morpheme:
-[[zeit]][[genössisch]][[e]]
+[[zeit]], [[genössisch]], [[e]]
 
 ---
 

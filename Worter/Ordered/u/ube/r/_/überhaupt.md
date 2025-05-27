@@ -39,7 +39,7 @@ Antonyme: [[gar nicht]], [[keineswegs]], [[niemals]]
 ---
 
 Morpheme:
-[[Ü/über]][[Haupt]]
+[[Ü/über]], [[Haupt]]
 
 ---
 

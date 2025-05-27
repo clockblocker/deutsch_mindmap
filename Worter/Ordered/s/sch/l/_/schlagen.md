@@ -3,32 +3,33 @@
 haben [[geschlagen]]
 
 ---
-*[[C1-Lesen-T2-103-Text#^6|^]]* Drei Viertel des [[geschlagenen]] Holzes war im letzten Jahr [[sogenanntes]] [[Kalamitätsholz]], also solches von Bäumen, die wegen Schäden gefällt werden mussten
+
+_[[C1-Lesen-T2-103-Text#^6|^]]_ Drei Viertel des [[geschlagenen]] Holzes war im letzten Jahr [[sogenanntes]] [[Kalamitätsholz]], also solches von Bäumen, die wegen Schäden gefällt werden mussten
 
 Es gab aber Gespräche mit [[namhaften]] Abgeordneten, deren mediale [[Zuwendung]] dazu führte, dass die Thematik immer größere [[Welle]]n [[schlagen]] konnte
 
 Er [[schlagen|schlug]] die Stuhl und Vögel tot,  
-die Katzen litten große Not.  
+die Katzen litten große Not.
 
-*und [[schlug]] den Hund, der heulte sehr,*  
-*und trat und schlug ihn immer mehr.*
+_und [[schlug]] den Hund, der heulte sehr,_  
+_und trat und schlug ihn immer mehr._
 
-NIC: Herr Scott, Beine übereinander [[schlagen]]. 
+NIC: Herr Scott, Beine übereinander [[schlagen]].
 
-*Ich sehe zu durchs  Schlüsselloch*  
-*Und einer [[schlug]] sie tot*
+_Ich sehe zu durchs Schlüsselloch_  
+_Und einer [[schlug]] sie tot_
 
- 
 ---
-[[einschlagen]] - [[ein]] = [[schlagen]] /  to hit, to strike
+
+[[einschlagen]] - [[ein]] = [[schlagen]] / to hit, to strike
 [[wegschlagen]] - [[weg]] = [[schlagen]] / strike away
 [[vorschlagen]] - [[vor]] = [[schlagen]] / to suggest, to propose
 [[umschlagen]] - [[um]] = [[schlagen]] / to turn over, to change, to transform
 
-
 ---
 
 Synonyme:
+
 - [[prügeln]], [[hauen]], [[treffen]]
 
 ---
@@ -43,14 +44,16 @@ Beispiele:
 - Sie [[schlagen]] mit der Faust auf den Tisch.
 
 ---
+
 **Übersetzung**: to hit, to strike
 
 ---
 
 Morphems of only infinitive:
-[[schlag]][[en]]
+[[schlag]], [[en]]
 
 ---
+
 Tags:
 #Verb #Unregelmäßige
 

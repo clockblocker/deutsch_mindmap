@@ -2,22 +2,27 @@
 die [[Glückstage]]
 
 ---
-- Heute ist mein [[Glückstag]]!  
--
 
----
-Synonyme:
+- Heute ist mein [[Glückstag]]!
+- ***
+
+  Synonyme:
+
 - [[Freudentag]], [[Frohsinntag]], [[Segen]]
 
 ---
+
 Übersetzung: day of luck, lucky day
 
 ---
+
 Morpheme:
-[[Glück]][[s]][[tag]]
+[[Glück]], [[s]], [[tag]]
 
 ---
+
 Einzigartige mögliche Formen: [[Glückstags]], [[Glückstage]], [[Glückstagen]]
 
 ---
+
 #Substantiv #Neuter

@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Dorfes]], [[Dorfe]], [[Dörfer]], [[Dörfern]]
 
 ---
-#Substantiv #Neuter, [[Dorfbewohner]], [[s1 e1]], [[Beiersdorf]], [[Großstadt]], [[Stadt]]
+#Substantiv #Neuter, [[Dorfbewohner]], [[s1 e1]], [[Beiersdorf]], [[Großstadt]], [[Stadt]], [[Ballungszentrum]]

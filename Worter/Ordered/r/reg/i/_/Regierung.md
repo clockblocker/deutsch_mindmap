@@ -41,7 +41,7 @@ government, administration
 
 ---
 
-[[Regier]][[ung]]
+[[Regier]], [[ung]]
 
 ---
 

@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Sprühflaschen]] stehen im Schrank.
 
 ---
+
 Synonyme:
+
 - [[Zerstäuber]], [[Sprayer]], [[Sprühbehälter]]
 
 ---
+
 **Übersetzung**: spray bottle
 
 ---
+
 Morphems:
-[[Sprüh]][[Flasche]]
+[[Sprüh]], [[Flasche]]
 
 ---
+
 #Substantiv #Feminin

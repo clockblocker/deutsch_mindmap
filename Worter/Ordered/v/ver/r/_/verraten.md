@@ -20,7 +20,7 @@ to betray, to reveal, to disclose
 
 ---
 
-[[ver]][[rat]][[en]]
+[[ver]], [[rat]], [[en]]
 
 ---
 

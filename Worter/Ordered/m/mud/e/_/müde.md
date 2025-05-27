@@ -10,9 +10,11 @@ nicht [[wach]]
 ---
 
 Synonyme:
+
 - [[erschöpft]], [[schlapp]], [[kraftlos]]
 
 ---
+
 Beispiele:
 
 - Ich bin heute sehr [[müde]].
@@ -25,14 +27,16 @@ Beispiele:
 - Nach der langen Woche fühlte sie sich [[am]] [[müdesten]].
 
 ---
+
 **Übersetzung**:
 tired
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[müd]][[e]], [[überdrüssig]], [[munter]], [[ausgeruht]], [[matt]], [[lustlos]]
+[[müd]], [[e]], [[überdrüssig]], [[munter]], [[ausgeruht]], [[matt]], [[lustlos]]

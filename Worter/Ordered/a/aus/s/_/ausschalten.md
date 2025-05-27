@@ -2,12 +2,14 @@
 [[schaltete aus]]
 haben [[ausgeschaltet]]
 
-
 ---
+
 20. Stecker aus der Steckdose ziehen oder Hauptschalter [[ausschalten]].
 
 ---
+
 Synonyme:
+
 - [[abschalten 1]], [[deaktivieren]], [[abstellen]]
 
 Nicht “[[einschalten]]”, nicht “[[anmachen]]”
@@ -26,14 +28,18 @@ Beispiele:
 - Sie [[schalten aus|schalten]] das Handy [[aus]].
 
 ---
+
 **Übersetzung**: to turn off, to switch off
 
 ---
-**Morphems of only infinitive:**  
-- [[aus]][[Schalten]]
+
+**Morphems of only infinitive:**
+
+- [[aus]], [[Schalten]]
 
 ---
- #Verb  #Trennbar
+
+#Verb #Trennbar
 
 ---
 
@@ -44,7 +50,7 @@ Beispiele:
 - Er [[schaltete aus|schaltete]] das Radio [[aus]].
 - Es [[schaltete aus|schaltete]] sich [[aus]] nach einer Weile.
 - Wir [[schalteten aus|schalteten]] den Computer [[aus]].
-🔌 [[ausschalten]]
+  🔌 [[ausschalten]]
 - Ihr [[schaltetet aus|schaltetet]] den Motor [[aus]].
 - Sie [[schalteten aus|schalteten]] das Handy [[aus]].
 
@@ -60,6 +66,7 @@ Beispiele:
 ---
 
 Konjunktiv I:
+
 - Er sagt, ich [[schalte aus]], wenn es zu laut wird.
 - Sie meint, du [[schaltest aus]], wenn du gehst.
 - Er behauptet, er [[schalte aus]], sobald er fertig ist.
@@ -70,6 +77,7 @@ Konjunktiv I:
 ---
 
 Konjunktiv II:
+
 - Wenn ich das Licht nicht brauche, [[schaltete aus|schaltete]] ich es [[aus]].
 - Wenn du das Programm nicht magst, [[schaltetest aus|schaltetest]] du den Fernseher [[aus]].
 - Wenn er sich ausruhen wollte, [[schaltete aus|schaltete]] er das Handy [[aus]].

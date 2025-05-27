@@ -17,7 +17,7 @@ Antonyme: [[abgeben]], [[verlieren]], [[hergeben]]
 
 ---
 
-Morpheme: [[hab]][[en]]
+Morpheme: [[hab]], [[en]]
 #Verb #Untrennbar
 
 ---

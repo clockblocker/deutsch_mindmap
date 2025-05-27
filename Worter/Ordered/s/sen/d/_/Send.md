@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Senden]] müssen regelmäßig überprüft werden.
 
 ---
+
 Synonyme:
+
 - [[Transport]], [[Lieferung]], [[Zustellung]]
 
 ---
+
 **Übersetzung**: shipment
 
 ---
+
 Morphems:
-[[Send]][[en]]
+[[Send]], [[en]]
 
 ---
+
 #Substantiv #Maskulin, [[tausendfachen]], [[tausendfach]], [[versenden]], [[zurücksenden]], [[Versandt]], [[Sender]], [[aussenden]]

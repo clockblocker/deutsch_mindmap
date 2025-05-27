@@ -15,7 +15,7 @@ Antonyme: [[verwischen]], [[auslöschen]], [[löschen]], [[tilgen]], [[streichen
 
 ---
 
-Morpheme: [[an]][[reiß]][[en]]
+Morpheme: [[an]], [[reiß]], [[en]]
 #Verb #Trennbar
 
 ---

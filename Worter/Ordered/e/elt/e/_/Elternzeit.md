@@ -21,7 +21,7 @@ parental leave
 
 ---
 
-[[Eltern]][[zeit]]
+[[Eltern]], [[zeit]]
 
 ---
 

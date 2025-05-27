@@ -1,1 +1,1 @@
-[[Sport]][[lich]], [[Sportverein]]
+[[Sport]], [[lich]], [[Sportverein]]

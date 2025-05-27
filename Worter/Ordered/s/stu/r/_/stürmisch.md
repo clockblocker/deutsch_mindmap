@@ -3,7 +3,8 @@
 [[am]] [[stürmischsten]]
 
 ---
-es ist heiß … und auch manchmal [[stürmisch]].  
+
+es ist heiß … und auch manchmal [[stürmisch]].
 
 ---
 
@@ -12,6 +13,7 @@ nicht [[ruhig]]
 ---
 
 Synonyme:
+
 - [[turbulent]], [[heftig]], [[aufgewühlt]]
 
 ---
@@ -23,6 +25,7 @@ Beispiele:
 - Der Wind war [[am]] [[stürmischsten]] an der Küste.
 
 ---
+
 **Übersetzung**: stormy, turbulent
 
 ---
@@ -33,5 +36,5 @@ Tags:
 ---
 
 Morphems:
-[[stürm]][[isch]][[windig]], [[stürmen]], [[vorstürmen]], [[zustürmen]]
+[[stürm]], [[isch]], [[windig]], [[stürmen]], [[vorstürmen]], [[zustürmen]]
 , [[ungestüm]], [[unbändig]], [[Wirbelsturm]]

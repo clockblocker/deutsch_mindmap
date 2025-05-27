@@ -4,14 +4,10 @@
 die [[Stellen]]
 
 ---
-Sein Name [[steht]] [[an]] erster [[Stelle]].
+Sein Name [[steht]] [[an]] erster [[Stelle]]
 
+*[[C1-Hoehen-T3-301-Text#^45|^]]* Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stelle]]n [[unbesetzt]] bleiben
 
-277. Eine Frau, die ein zweijähriges Kind hat, [[bewirbt]] sich in Deutschland um eine [[Stelle]]. Was ist ein Beispiel für [[Diskriminierung]]? Sie bekommt die Stelle nur deshalb nicht, weil sie … (95%)
-	- [x] Mutter ist.
-
-300. Ein Mann im [[Rollstuhl]] hat sich auf eine [[Stelle]] als [[Buchhalter]] [[beworben]]. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur [[deshalb]] nicht, weil er … (94%)
-	- [x] im Rollstuhl sitzt.
 ---
 = [[Position]], [[Arbeitsplatz]], [[Ort]]
 ≈ [[Platz]], [[Aufgabe]], [[Funktion]], [[Amt]]

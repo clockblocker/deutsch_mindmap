@@ -17,7 +17,7 @@ Antonyme: [[untertauchen]], [[verschwinden]], [[absetzen]], [[zurückgehen]], [[
 
 ---
 
-Morpheme: [[auf]][[tauch]][[en]]
+Morpheme: [[auf]], [[tauch]], [[en]]
 #Verb #Trennbar
 
 ---

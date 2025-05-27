@@ -73,7 +73,7 @@ Antonyme: [[verlieren]], [[abgeben]], [[zurückgeben]]
 
 ---
 
-Morpheme: [[er]][[halt]][[en]]
+Morpheme: [[er]], [[halt]], [[en]]
 #Verb #Untrennbar
 
 ---

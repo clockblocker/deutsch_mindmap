@@ -7,15 +7,20 @@ Beispiele:
 - Die [[nerven]] eines Menschen können sehr empfindlich sein.
 
 ---
+
 Synonyme:
+
 - [[Neurit]], [[Nervenfaser]]
 
 ---
+
 **Übersetzung**: nerve
 
 ---
+
 Morphems:
-[[Nerv]][[en]]
+[[Nerv]], [[en]]
 
 ---
+
 #Substantiv #Maskulin , [[Nervenzellenverbindung]]

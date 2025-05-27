@@ -2,5 +2,5 @@
 
 nothing
 
-[[Indefinitpronomen]][[Niemand]], [[sonst nichts]], [[angehen]], [[Zahl]], [[Je]]
+[[Indefinitpronomen]], [[Niemand]], [[sonst nichts]], [[angehen]], [[Zahl]], [[Je]]
 , [[Angelegenheit]], [[Zeug]], [[Negationspartikel]], [[Ereignis]]

@@ -33,7 +33,7 @@ Antonyme: [[abbrechen]], [[zerbrechen]], [[zerstören]], [[abbauen]]
 
 ---
 
-Morpheme: [[auf]][[Bau]][[en]]
+Morpheme: [[auf]], [[Bau]], [[en]]
 #Verb #Trennbar
 
 ---

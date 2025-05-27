@@ -21,7 +21,7 @@ Antonyme: [[beibehalten]], [[lassen]], [[behalten]], [[bleiben]], [[verweilen]]
 
 ---
 
-Morpheme: [[Wechsel]][[n]]
+Morpheme: [[Wechsel]], [[n]]
 #Verb #Trennbar
 
 ---

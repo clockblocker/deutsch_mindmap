@@ -1,1 +1,1 @@
-, [[Altstadt]]
+, [[Altstadt]], [[Ballungszentrum]]

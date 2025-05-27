@@ -1,1 +1,1 @@
-[[übergeben]][[abpacken]], [[geben]]
+[[übergeben]], [[abpacken]], [[geben]]

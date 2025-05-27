@@ -3,18 +3,21 @@
 ---
 
 ---
+
 [[beschäftigen]] - [[be]] = [[schäftigen]]
 
 ---
+
 Synonyme: [[Arbeiten]], [[tätig sein]], [[anstellen]], [[einsetzen]], [[engagieren]]
 Antonyme: [[entlassen]], [[freistellen]], [[arbeitslos machen]]
 
 ---
+
 to employ, to occupy, to engage
 
 ---
-[[be]][[schäft]][[ig]][[en]]
-   
+
+[[be]], [[schäft]], [[ig]], [[en]]
 
 ---
 
@@ -23,13 +26,14 @@ Ich: [[beschäftige]], [[Beschäftigte]], -, [[beschäftige]], [[Beschäftigte]]
 Du: [[beschäftigst]], [[beschäftigtest]], [[beschäftige]], [[beschäftigest]], [[beschäftigtest]]  
 Er/sie/es: [[beschäftigt]], [[Beschäftigte]], -, [[beschäftige]], [[Beschäftigte]]  
 Wir: [[beschäftigen]], [[Beschäftigten]], -, [[beschäftigen]], [[Beschäftigten]]  
-Ihr: [[beschäftigt]], [[beschäftigtet]], [[beschäftigt]], [[beschäftiget]], [[beschäftigtet]]  
+Ihr: [[beschäftigt]], [[beschäftigtet]], [[beschäftigt]], [[beschäftiget]], [[beschäftigtet]]
 
-Partizip I: [[beschäftigend]], 
+Partizip I: [[beschäftigend]],
 Partizip II: [[beschäftigt]]
 Zu+infinitive: [[zu beschäftigen]]
 
 [[beschäftigen]] - [[be]] = [[schäftigen]]
 
 ---
+
 [[Beschäftigung]], [[Beschäftigter]], [[Beschäftigte]], [[Beschäftigungsgrad]], [[Beschäftigungsverhältnis]]

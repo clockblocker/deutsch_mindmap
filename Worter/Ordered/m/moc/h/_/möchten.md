@@ -3,9 +3,10 @@
 haben [[gemocht]]
 
 ---
+
 - Ich [[möchte]] mit dir schlafen.
 - ANNA: [[möchtest]] du was trinken, Nic?
-- [[möchten]] Sie hier sitzen? ... oder da?  
+- [[möchten]] Sie hier sitzen? ... oder da?
 
 ---
 
@@ -32,7 +33,8 @@ haben [[gemocht]]
 to want, to would like to
 
 ---
- #Verb  #Modalverb
+
+#Verb #Modalverb
 
 ---
 
@@ -55,5 +57,6 @@ to want, to would like to
 
 ---
 
-**Morphems of only infinitive:**  
-- [[möcht]][[en]], [[mögen]]
+**Morphems of only infinitive:**
+
+- [[möcht]], [[en]], [[mögen]]

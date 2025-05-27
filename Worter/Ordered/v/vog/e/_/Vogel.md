@@ -2,19 +2,25 @@
 die [[Vögel]]
 
 Beispiele:
+
 - Er schlug die Stuhl und [[Vogel]] tot,  
-  die Katzen litten große Not.  
+  die Katzen litten große Not.
+
 ---
+
 Synonyme:
+
 - [[Geflügel]], [[Piepmatz]], [[Flügeltier]]
 
 ---
+
 **Übersetzung**: bird
 
 ---
 
 Morphems:
-[[Vog]][[el]]
+[[Vog]], [[el]]
 
 ---
+
 #Substantiv #Maskulin, [[Zaunkönig]], [[Spatz]], [[Gans]], [[Papagei]], [[Kleintier]], [[Zugvogel]]

@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T3-301-Text#^41|^]]* Denn die Situation [[verschärft]] sich [[zusehend]]s und der [[Handlungsbedarf]] ist [[offensichtlich]]. Dazu muss man sich nur die Zahlen der [[unbesetzten]] [[Ausbildungsstellen]] [[anschauen]]
 
+*[[C1-Hoehen-T3-301-Text#^45|^]]* Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stelle]]n [[unbesetzt]] bleiben
+
 ---
 = [[frei]], [[leer]], [[unbelegt]]
 ≈ [[offen]], [[verfügbar]], [[unbenutzt]]

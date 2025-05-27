@@ -3,25 +3,26 @@
 haben [[gemessen]]
 
 ---
+
 Ich [[messe]] die Temperatur. Wieder 39 Grad. I
 
-*[[TD#^2|^]]* **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]. ^2
-
+_[[TD#^2|^]]_ **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]. ^2
 
 SASCHA: Dann müssen wir Sie [[messen]].
 
-SAM: Den [[Abstand]] zwischen 2 Regalbrettern [[messen]] …'  
+SAM: Den [[Abstand]] zwischen 2 Regalbrettern [[messen]] …'
 
-ANNA: Na, dann [[messen]] wir besser mal …  
-
-
+ANNA: Na, dann [[messen]] wir besser mal …
 
 ---
+
 synonyms
+
 - [[vermessen]]
 - [[abmessen]]
 
 ---
+
 Beispiele:
 
 - Ich [[messe]] die Länge des Tisches.
@@ -34,6 +35,7 @@ Beispiele:
 - Sie [[messen]] die Menge der Zutaten.
 
 ---
+
 **Übersetzung**:
 • to measure
 
@@ -45,6 +47,7 @@ Tags:
 #Unregelmäßige | #Regelmäßige
 
 ---
+
 Präteritum
 Ich [[maß]] die Länge des Tisches.
 du [[maßest]] die Temperatur des Wassers.
@@ -56,6 +59,7 @@ ihr [[maßet]] die Fläche des Gartens.
 Sie [[maßen]] die Menge der Zutaten.
 
 ---
+
 Imperativ
 Ich [[messe]] die Länge des Tisches.
 du [[messe]] die Temperatur des Wassers.
@@ -67,7 +71,8 @@ ihr [[messt]] die Fläche des Gartens.
 Sie [[messen]] die Menge der Zutaten.
 
 Morphems of only infinitive:
-- [[mess]][[en]]
+
+- [[mess]], [[en]]
 
 ---
 

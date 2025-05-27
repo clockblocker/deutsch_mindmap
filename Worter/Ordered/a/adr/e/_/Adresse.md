@@ -8,16 +8,21 @@ Beispiele:
 - Viele [[Adressen]] sind im Adressbuch gespeichert.
 
 ---
+
 Synonyme:
+
 - [[Anschrift]], [[Standort]], [[Ort]]
 
 ---
+
 **Übersetzung**: address
 
 ---
+
 Morphems:
-[[Adress]][[e]]
+[[Adress]], [[e]]
 
 ---
+
 #Substantiv #Feminin, [[Versandadresse]]
 , [[Richtungsangabe]], [[Bestimmungsort]]

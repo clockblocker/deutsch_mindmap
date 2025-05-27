@@ -1,4 +1,3 @@
-[[unser]][[en]]
-
+[[unser]], [[en]]
 
 [[Akkusativ possessiv Pronomen]]

@@ -25,7 +25,7 @@ difficulty, complication, challenge
 
 ---
 
-[[Schwierig]][[keit]]
+[[Schwierig]], [[keit]]
 
 ---
 

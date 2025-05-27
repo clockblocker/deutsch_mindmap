@@ -1,27 +1,32 @@
 🔵 der [[Schneider]], [ʃnaɪ̯dɐ]
 die [[Schneider]]
 
+---
+
+_lutsche nicht am Daumen mehr;_  
+_denn der Schneider mit der Scher_
 
 ---
-*lutsche nicht am Daumen mehr;*  
-*denn der Schneider mit der Scher*  
 
----
 Synonyme:
+
 - [[Schneidermeister]], [[Konfektionär]], [[Damenschneider]], [[Herrenschneider]]
 
 ---
+
 Übersetzung: tailor
 
 ---
+
 Morpheme:
-[[Schneid]][[er]]
+[[Schneid]], [[er]]
 
 ---
+
 Einzigartige mögliche Formen: [[Schneiders]], [[Schneider]], [[Schneidern]]
 
 ---
-#Substantiv #Maskulin
 
+#Substantiv #Maskulin
 
 , [[schneiden]]

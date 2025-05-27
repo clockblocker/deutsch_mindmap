@@ -3,38 +3,42 @@
 haben [[gesponnen]]
 
 ---
-SASCHA:[[ Ich hab’s gewusst]]. Was machst du nur? [[Spinnst]] du?  
-SASCHA: Hey, [[Spinnst]] du? Sprich nicht so mit meinem Freund!  
+
+SASCHA:[[Ich hab’s gewusst]]. Was machst du nur? [[Spinnst]] du?  
+SASCHA: Hey, [[Spinnst]] du? Sprich nicht so mit meinem Freund!
 
 Ich gehe nach Hause, da [[spinnt]] wenigstens keiner. (Bleibt stehen und merkt, dass er auf offenem Meer ist)
 
-Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist [[mutig]] und hat [[weder]] Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]]. 
-
+Fred ist ein [[Abenteurer]]. Er geht gerne in [[fremden]] Ländern auf Reisen und er liebt [[Ziele]] [[fernab]] der großen Touristenmagnete. Er ist [[mutig]] und hat [[weder]] Angst vor [[giftigen]] [[Spinnen]] noch [[steilen]] [[Abhängen]].
 
 ---
+
 Synonyme: [[weben]], [[stricken]], [[wirken]], [[phantasieren]], [[träumen]]
 Antonyme: [[ernstmachen]], [[realistisch sein]], [[rational denken]]
 
 ---
+
 Übersetzung: to spin; to be crazy (colloquial)
 
 ---
-Morpheme: [[spinn]][[en]]
- #Verb  #Untrennbar
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[spinne]] | [[spann]] | - | [[spinne]] | [[spönne]] |
-| Du | [[spinnst]] | [[spannst]] | [[spinn]] | [[spinnest]] | [[spönnest]] |
-| Er/sie/es | [[spinnt]] | [[spann]] | - | [[spinne]] | [[spönne]] |
-| Wir | [[spinnen]] | [[spannen]] | - | [[spinnen]] | [[spönnen]] |
-| Ihr | [[spinnt]] | [[spannt]] | [[spinnt]] | [[spinnet]] | [[spönnet]] |
-| Sie | [[spinnen]] | [[spannen]] | [[spinnen Sie]] | [[spinnen]] | [[spönnen]] |
+Morpheme: [[spinn]], [[en]]
+#Verb #Untrennbar
+
+| Person    | Präsens     | Präteritum  | Imperativ       | Konjunktiv I | Konjunktiv II |
+| --------- | ----------- | ----------- | --------------- | ------------ | ------------- |
+| Ich       | [[spinne]]  | [[spann]]   | -               | [[spinne]]   | [[spönne]]    |
+| Du        | [[spinnst]] | [[spannst]] | [[spinn]]       | [[spinnest]] | [[spönnest]]  |
+| Er/sie/es | [[spinnt]]  | [[spann]]   | -               | [[spinne]]   | [[spönne]]    |
+| Wir       | [[spinnen]] | [[spannen]] | -               | [[spinnen]]  | [[spönnen]]   |
+| Ihr       | [[spinnt]]  | [[spannt]]  | [[spinnt]]      | [[spinnet]]  | [[spönnet]]   |
+| Sie       | [[spinnen]] | [[spannen]] | [[spinnen Sie]] | [[spinnen]]  | [[spönnen]]   |
 
 Partizip I: [[spinnend]], Partizip II: [[gesponnen]]
 
 Zusätzliche Bedeutungen:
+
 1. Technisches Verb: Fasern zu Garn oder Faden verarbeiten
 2. Umgangssprachlich: verrückte Ideen entwickeln, fantasieren
 3. Dialektal: sich benehmen, handeln
-, [[umwerfen]], [[fernab]], [[s1 e1]]
+   , [[umwerfen]], [[fernab]], [[s1 e1]]

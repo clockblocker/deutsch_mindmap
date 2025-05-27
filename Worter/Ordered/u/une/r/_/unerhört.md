@@ -7,6 +7,7 @@ nicht [[akzeptabel]]
 ---
 
 Synonyme:
+
 - [[skandalös]], [[empörend]], [[ungeheuerlich]]
 
 ---
@@ -25,6 +26,7 @@ Beispiele:
 - Das war der [[unerhörteste]] Skandal des Jahres.
 
 ---
+
 **Übersetzung**: outrageous, unheard of, scandalous
 
 ---
@@ -35,4 +37,4 @@ Tags:
 ---
 
 Morphems:
-[[un]][[er]][[hört]] [[erhört]]
+[[un]], [[er]], [[hört]] [[erhört]]

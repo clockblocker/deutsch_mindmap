@@ -3,12 +3,14 @@
 haben [[nachgesehen]]
 
 ---
+
 Wolfgang, [[nachsehen|sieh]] och [[gleich]] mal nach
 Jetzt muß ich gleich [[nachsehen]], ob mein Schmuck noch da ist.
 
 ---
 
 Synonyme:
+
 - [[überprüfen]], [[kontrollieren]], [[nachschauen]]
 
 ---
@@ -23,14 +25,16 @@ Beispiele:
 - Sie [[sehen nach|sehen]] sofort [[nach]].
 
 ---
+
 **Übersetzung**: to check, to look after
 
 ---
 
 Morphems of only infinitive:
-[[nach]][[sehen]]
+[[nach]], [[sehen]]
 
 ---
+
 Tags:
 #Verb #Trennbar
 
@@ -74,5 +78,5 @@ Konjunktiv II:
 - Wenn wir nicht sicher wären, [[sähen nach|sähen]] wir in den Plänen [[nach]].
 - Wenn ihr Zweifel hättet, [[sähet nach|sähet]] ihr den Kindern [[nach]].
 - Wenn sie nicht sicher wären, [[sähen nach|sähen]] sie der Sache [[nach]].
-, [[11 08]]
-, [[verzeihen]]
+  , [[11 08]]
+  , [[verzeihen]]

@@ -3,19 +3,19 @@
 sein [[erschrocken]]
 
 ---
+
 Eines Tages aber lief der Löwe [[erschrocken]] davon und die Katze versteckte sich auf einem Baum
 
-_Katara und Sokka gucken [[erschrocken]] nach vorne. 
+\_Katara und Sokka gucken [[erschrocken]] nach vorne.
 
-*Katara rennt [[erschrocken]] auf ihn zu und fängt ihn auf.* 
+_Katara rennt [[erschrocken]] auf ihn zu und fängt ihn auf._
 
-Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren]]!“ 
-
-
+Die junge Frau am [[Steuer]] sieht [[erschrocken]] aus: „Sag mal, hast du Tomaten auf den Augen?“, ruft sie aus dem Fenster. „Ich hätte dich fast [[überfahren]]!“
 
 ---
 
 Synonyme:
+
 - [[verängstigt]], [[überrascht]], [[geschockt]]
 
 ---
@@ -27,16 +27,18 @@ Beispiele:
 - Das Kind [[erschrak]], als der Hund bellte.
 
 ---
+
 **Übersetzung**: frightened, startled, shocked
 
 ---
 
 Morphems of only infinitive:
-[[erschreck]][[en]]
+[[erschreck]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Unregelmäßig
+#Verb #Unregelmäßig
 
 ---
 

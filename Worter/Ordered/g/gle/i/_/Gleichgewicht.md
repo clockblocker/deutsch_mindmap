@@ -2,32 +2,41 @@ das [[Gleichgewicht]], [ˈɡlaɪçɡəˌvɪçt]
 die [[Gleichgewichte]]
 
 ---
-*Mich interessiert kein [[Gleichgewicht]]*  
-*Mir scheint die Sonne ins Gesicht*  
 
-*Legt sich schmerzend auf die Brust*  
-*Das [[Gleichgewicht]] wird zum Verlust*  
+_Mich interessiert kein [[Gleichgewicht]]_  
+_Mir scheint die Sonne ins Gesicht_
+
+_Legt sich schmerzend auf die Brust_  
+_Das [[Gleichgewicht]] wird zum Verlust_
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Balance]], [[Equilibrium]], [[Harmonie]], [[Stabilität]]
 - [[Ausgewogenheit]], [[Ebenmäßigkeit]], [[Symmetrie]]
 
 ---
+
 Antonyme:
+
 - [[Ungleichgewicht]], [[Disharmonie]], [[Instabilität]]
 - [[Asymmetrie]], [[Disbalance]], [[Dysbalance]]
 
 ---
+
 Übersetzung: balance, equilibrium
 
 ---
+
 Morpheme:
-[[Gleich]][[Gewicht]]
+[[Gleich]], [[Gewicht]]
 
 ---
-Einzigartige mögliche Formen: 
+
+Einzigartige mögliche Formen:
 [[Gleichgewicht]], [[Gleichgewichts]], [[Gleichgewichte]], [[Gleichgewichten]]
 
 ---
+
 #Substantiv #Neuter, [[gleichmäßig]], [[Gleichung]], [[ausgleichen]]

@@ -7,20 +7,24 @@ die [[peitschen]]
 
 Beispiele:
 
-- *Da mit der [[Peitsch]] herzu sich schlich*  
-  *der bitterböse Friederich;*  
+- _Da mit der [[Peitsch]] herzu sich schlich_  
+  _der bitterböse Friederich;_
 
 ---
+
 Synonyme:
+
 - [[Riemen]], [[Gerte]], [[Geißel]]
 
 ---
+
 **Übersetzung**: whip
 
 ---
 
 Morphems:
-[[Peitsch]][[e]]
+[[Peitsch]], [[e]]
 
 ---
+
 #Substantiv #Feminin

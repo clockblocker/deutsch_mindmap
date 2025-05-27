@@ -1,1 +1,1 @@
-, [[Bundesland]]
+, [[Bundesland]], [[Ballungszentrum]]

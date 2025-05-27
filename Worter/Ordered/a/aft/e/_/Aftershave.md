@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Aftershaves]] in diesem Laden sind teuer.
 
 ---
+
 Synonyme:
+
 - [[Rasierwasser]], [[Duftwasser]], [[Pflegemittel]]
 
 ---
+
 **Übersetzung**: aftershave
 
 ---
+
 Morphems:
-[[After]][[shave]]
+[[After]], [[shave]]
 
 ---
+
 #Substantiv #Neuter, [[Parfum]]

@@ -3,11 +3,13 @@
 haben [[getötet]]
 
 ---
+
 dieser kämpfte gegen den Hasen und tötete ihn mit dem Geweih
 
 ---
 
 Synonyme:
+
 - [[umbringen]], [[ermorden]], [[vernichten]]
 
 ---
@@ -19,16 +21,18 @@ Beispiele:
 - Der Unfall [[tötete]] mehrere Menschen.
 
 ---
+
 **Übersetzung**: killed
 
 ---
 
 Morphems of only infinitive:
-[[töt]][[en]]
+[[töt]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Regelmäßig
+#Verb #Regelmäßig
 
 ---
 

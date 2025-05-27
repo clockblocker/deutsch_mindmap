@@ -4,6 +4,8 @@ die [[Qualitätsstandards]]
 ---
 *[[C1-Hoehen-T3-301-Text#^20|^]]* Herr Osterholz warnt vor zu hohen [[Qualitätsstandard]]s bei der [[Ausbildung]]
 
+*[[C1-Hoehen-T3-301-Text#^51|^]]* Wenn wir [[weiterhin]] unsere hohen [[Qualitätsstandard]]s [[beibehalten]] wollen, dann können wir nicht [[unbegrenzt]] [[Löhne]] und [[Gehälter]] [[erhöhen]]
+
 ---
 = [[Güteklasse]], [[Qualitätsnorm]]
 ≈ [[Standard]], [[Norm]], [[Anforderung]]

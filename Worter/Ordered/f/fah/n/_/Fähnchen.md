@@ -1,24 +1,30 @@
 🟢 das [[Fähnchen]], [ˈfɛːnçən]
 die [[Fähnchen]]
 
+---
+
+_Da kam der Ludwig hergerannt_  
+_und trug sein [[Fähnchen]] in der Hand._
 
 ---
-*Da kam der Ludwig hergerannt*  
-*und trug sein [[Fähnchen]] in der Hand.*  
 
----
 Synonyme:
+
 - [[Wimpel]], [[Bannerfähnchen]], [[Fähnlein]]
 
 ---
+
 Übersetzung: small flag, pennant
 
 ---
+
 Morpheme:
-[[Fähn]][[chen]]
+[[Fähn]], [[chen]]
 
 ---
+
 Einzigartige mögliche Formen: [[Fähnchens]], [[Fähnchen]], [[Fähnchen]], [[Fähnchen]]
 
 ---
+
 #Substantiv #Neuter, [[Fahne]]

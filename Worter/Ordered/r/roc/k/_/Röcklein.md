@@ -1,24 +1,30 @@
 🟢 das [[Röcklein]], [ˈrœklʌɪ̯n]
 die [[Röcklein]]
 
+---
+
+_Es zog der wilde Jägersmann_  
+_sein grasgrün neues Röcklein an;_
 
 ---
-*Es zog der wilde Jägersmann*  
-*sein grasgrün neues Röcklein an;*  
 
----
 Synonyme:
+
 - [[Rock]], [[Minirock]], [[Faltenrock]]
 
 ---
+
 Übersetzung: little skirt
 
 ---
+
 Morpheme:
-[[Röck]][[lein]]
+[[Röck]], [[lein]]
 
 ---
+
 Einzigartige mögliche Formen: [[Röckleins]], [[Röcklein]], [[Röckleinen]]
 
 ---
+
 #Substantiv #Neuter

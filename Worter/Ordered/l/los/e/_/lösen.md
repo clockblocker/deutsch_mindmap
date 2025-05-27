@@ -23,7 +23,7 @@ to solve, to loosen, to untie, to resolve
 
 ---
 
-[[lös]][[en]]
+[[lös]], [[en]]
 
 ---
 

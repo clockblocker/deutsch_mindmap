@@ -15,7 +15,7 @@ Antonyme: [[behalten]], [[festhalten]], [[beibehalten]]
 
 ---
 
-[[um]][[tausch]][[en]]
+[[um]], [[tausch]], [[en]]
 
 ---
 

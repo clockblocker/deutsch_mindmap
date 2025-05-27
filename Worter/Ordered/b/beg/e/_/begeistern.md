@@ -1,23 +1,25 @@
 🌟 [[begeistern]], [bəˈɡaɪ̯stərn] | [[begeisterte]], haben [[begeistert]]
 
 ---
+
 Lena hat einen neuen Kollegen: Bastian. Ihr Chef ist [[begeistert]] von Bastians Qualifikationen: Studium an einer teuren Privatuniversität, Auslandserfahrung, sehr gute Englischkenntnisse.
 
-*[[C1-Hoehen-T1-200-Text#^22|^]]* Ich hoffe, ich konnte euch für [[mindestens]] ein Buch [[begeistern]]. ^22
-
+_[[C1-Hoehen-T1-200-Text#^22|^]]_ Ich hoffe, ich konnte euch für [[mindestens]] ein Buch [[begeistern]]. ^22
 
 Den werden wir für unsere Räder [[begeistern]] können
 
 ---
+
 Synonyme: [[motivieren]], [[inspirieren]], [[ermutigen]], [[mitreißen]], [[faszinieren]], [[gefallen]], [[interessieren]]
 Antonyme: [[enttäuschen]], [[demotivieren]], [[langweilen]], [[entmutigen]]
 
 ---
+
 to inspire, to enthuse, to excite
 
 ---
-[[be]][[geister]][[n]]
-   
+
+[[be]], [[geister]], [[n]]
 
 ---
 
@@ -26,14 +28,15 @@ Ich: [[begeistere]], [[begeisterte]], -, [[begeistere]], [[begeisterte]]
 Du: [[begeisterst]], [[begeistertest]], [[begeistere]], [[begeisterest]], [[begeistertest]]  
 Er/sie/es: [[begeistert]], [[begeisterte]], -, [[begeistere]], [[begeisterte]]  
 Wir: [[begeistern]], [[begeisterten]], -, [[begeistern]], [[begeisterten]]  
-Ihr: [[begeistert]], [[begeistertet]], [[begeistert]], [[begeisteret]], [[begeistertet]]  
+Ihr: [[begeistert]], [[begeistertet]], [[begeistert]], [[begeisteret]], [[begeistertet]]
 
-Partizip I: [[begeisternd]], 
+Partizip I: [[begeisternd]],
 Partizip II: [[begeistert]]
 Zu+infinitive: [[zu begeistern]]
 
 [[begeistern]] - [[be]] = [[geistern]]
 
 ---
+
 [[Begeisterung]], [[Begeisterte]], [[Begeisterungssturm]], [[begeisternd]], [[begeisterungsfähig]], [[anregen]], [[erfreuen]], [[beeindrucken]]
 , [[amüsieren]], [[abschrecken]], [[beleben]], [[locken]], [[verdrießen]], [[überwältigen]]

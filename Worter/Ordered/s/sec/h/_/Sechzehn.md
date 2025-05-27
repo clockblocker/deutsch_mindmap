@@ -1,3 +1,3 @@
 16
 
-[[Sechs]][[Zehn]]
+[[Sechs]], [[Zehn]]

@@ -24,15 +24,19 @@ haben [[geglänzt]]
 - Sie [[glänzen]] vor Stolz.
 
 ---
+
 **Übersetzung**:
 to shine, to sparkle
 
 ---
-**Morphems of only infinitive:**  
-- [[glänz]][[en]]
+
+**Morphems of only infinitive:**
+
+- [[glänz]], [[en]]
 
 ---
- #Verb #Regelmäßig
+
+#Verb #Regelmäßig
 
 ---
 
@@ -61,18 +65,22 @@ to shine, to sparkle
 - Sie [[glänzen]] vor Freude.
 
 ---
+
 Konjunktiv I:
+
 - Er sagt, ich [[glänze]] im Licht.
-🌟 [[glänzen]]
+  🌟 [[glänzen]]
 - Sie meint, du [[glänzest]] immer.
 - Er behauptet, er [[glänze]] in der Sonne.
 - Wir erklären, wir [[glänzen]] bei der Aufführung.
-🌟 [[glänzen]]
+  🌟 [[glänzen]]
 - Ihr sagt, ihr [[glänzet]] im Wettbewerb.
 - Sie sagen, sie [[glänzen]] vor Freude.
 
 ---
+
 Konjunktiv II:
+
 - Wenn ich mehr Zeit hätte, [[glänzte]] ich bei der Aufführung.
 - Wenn du mehr üben würdest, [[glänztest]] du im Wettbewerb.
 - Wenn er die richtigen Mittel hätte, [[glänzte]] er in der Sonne.

@@ -1,1 +1,1 @@
-, [[Gesundheitswesen]]
+, [[Gesundheitswesen]], [[Pflegesektor]]

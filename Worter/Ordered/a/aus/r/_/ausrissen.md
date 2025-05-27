@@ -3,12 +3,14 @@
 haben [[ausgerissen]]
 
 ---
+
 - Er fing die [[fliegen]] in dem Haus  
-  und [[ausrissen|riß]] ihnen die Flügel aus.  
+  und [[ausrissen|riß]] ihnen die Flügel aus.
 
 ---
 
 Synonyme:
+
 - [[herausreißen]], [[entwurzeln]], [[entfernen]]
 
 ---
@@ -21,14 +23,16 @@ Beispiele:
 - Der Dieb [[riss aus]] und verschwand in der Menge.
 
 ---
+
 **Übersetzung**: to tear out, to uproot
 
 ---
 
 Morphems of only infinitive:
-[[aus]][[reißen]]
+[[aus]], [[reißen]]
 
 ---
+
 Tags:
 #Verb #Trennbar #Unregelmäßige
 

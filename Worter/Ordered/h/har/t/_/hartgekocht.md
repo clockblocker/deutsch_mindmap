@@ -5,14 +5,17 @@
 nicht [[weichgekocht]]
 
 ---
-ANNA: [[möchte]] jemand schwarze, [[hartgekocht|hart gekochte]] Eier?  
+
+ANNA: [[möchte]] jemand schwarze, [[hartgekocht|hart gekochte]] Eier?
 
 ---
 
 Synonyme:
+
 - [[festgekocht]], [[durchgekocht]]
 
 ---
+
 Beispiele:
 
 - Ich habe [[hartgekochte]] Eier zum Frühstück.
@@ -20,14 +23,16 @@ Beispiele:
 - Er isst gerne [[hartgekochte]] Eier auf seinem Brot.
 
 ---
+
 **Übersetzung**:
 hard-boiled
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[hart]][[gekocht]]
+[[hart]], [[gekocht]]

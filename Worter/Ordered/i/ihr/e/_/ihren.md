@@ -1,3 +1,3 @@
-[[ihr]][[en]]
+[[ihr]], [[en]]
 
 [[Akkusativ possessiv Pronomen]]

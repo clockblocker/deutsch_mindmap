@@ -1,3 +1,3 @@
 --> 📊 [[Grad-Verteilung]] <--
 --> 🧩 [[Grad-Ganzheit]] <--
-[[ganz]][[Fertig]], [[halbes]], [[voll]], [[gesamt]], [[sämtlich]], [[komplett]]
+[[ganz]], [[Fertig]], [[halbes]], [[voll]], [[gesamt]], [[sämtlich]], [[komplett]]

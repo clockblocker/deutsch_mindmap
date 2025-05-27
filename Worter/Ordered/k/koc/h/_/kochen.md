@@ -3,8 +3,8 @@
 haben [[gekocht]]
 
 ---
-![[006-C1-Schreiben-T2#^5|^]] 
 
+![[006-C1-Schreiben-T2#^5|^]]
 
 ---
 
@@ -30,6 +30,7 @@ haben [[gekocht]]
 to cook
 
 ---
+
 #Verb
 
 ---
@@ -37,7 +38,7 @@ to cook
 **Präteritum:**
 
 - Ich [[kochte]] gestern Abend Spaghetti.
-🍳 [[kochen]]
+  🍳 [[kochen]]
 - Du [[kochtest]] sehr gerne.
 - Er [[kochte]] eine leckere Suppe.
 - Sie [[kochte]] das Gemüse.
@@ -61,4 +62,5 @@ to cook
 ---
 
 **Morphems of only infinitive:**
-- [[koch]][[en]], [[Backen]], [[brutzeln]], [[manchmal]], [[Küchenmagd]], [[Herd]], [[Kochgeschirr]], [[Kocher]]
+
+- [[koch]], [[en]], [[Backen]], [[brutzeln]], [[manchmal]], [[Küchenmagd]], [[Herd]], [[Kochgeschirr]], [[Kocher]]

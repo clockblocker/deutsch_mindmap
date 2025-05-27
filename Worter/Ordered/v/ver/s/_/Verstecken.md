@@ -82,4 +82,4 @@ to hide
 
 **Morphems of only infinitive:**
 
-- [[ver]][[steck]][[en]], [[versteckspielen]], [[vorstellen]], [[weisen]], [[rausholen]], [[profilieren]], [[vorweisen]], [[orten]], [[angeben]], [[aufspüren]], [[vertuschen]]
+- [[ver]], [[steck]], [[en]], [[versteckspielen]], [[vorstellen]], [[weisen]], [[rausholen]], [[profilieren]], [[vorweisen]], [[orten]], [[angeben]], [[aufspüren]], [[vertuschen]]

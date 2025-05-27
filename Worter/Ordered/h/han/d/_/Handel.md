@@ -31,4 +31,4 @@ G: des [[Handels]], der [[Handel]]
 D: dem [[Handel]], den [[Handel]]
 
 #Substantiv #Maskulin
-, [[Privatkauf]]
+, [[Privatkauf]], [[Pflegesektor]]

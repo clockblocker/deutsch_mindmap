@@ -3,12 +3,14 @@
 haben [[gepeitscht]]
 
 ---
-*Und höre nur, wie bös er war:*  
-*Er [[peitschen|peitschte]] seine Gretchen gar!*
+
+_Und höre nur, wie bös er war:_  
+_Er [[peitschen|peitschte]] seine Gretchen gar!_
 
 ---
 
 Synonyme:
+
 - [[schlagen]], [[auspeitschen]], [[hauen]]
 
 ---
@@ -23,14 +25,16 @@ Beispiele:
 - Sie [[peitschten]] die Sklaven grausam.
 
 ---
+
 **Übersetzung**: to whip, to lash
 
 ---
 
 Morphems of only infinitive:
-[[Peitsch]][[en]]
+[[Peitsch]], [[en]]
 
 ---
+
 Tags:
 #Verb #Regelmäßig
 

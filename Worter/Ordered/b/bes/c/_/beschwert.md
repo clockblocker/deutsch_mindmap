@@ -18,7 +18,7 @@ complain, \*\*burdened, weighted down, troubled
 
 ---
 
-[[beschwer]][[t]]
+[[beschwer]], [[t]]
 
 ---
 

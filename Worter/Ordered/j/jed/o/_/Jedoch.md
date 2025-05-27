@@ -5,11 +5,12 @@
 [[Grammatik-Konjunktoren-Coordinating-Adversativ]]
 
 ---
+
 [[Jedoch]] nach Hause lief der Hund  
 und trug die Peitsche in dem Mund
 
 Ein stark dekliniertes Nomen im Singular ohne Begleiter bleibt [[jedoch]] undekliniert:  
-*abzüglich Rabatt (nicht: Rabatts)*  
+_abzüglich Rabatt (nicht: Rabatts)_
 
 _Aang achtet [[jedoch]] nur auf sie und kracht mitten im Flug in Sokkas Wachturm._
 
@@ -20,9 +21,11 @@ Der Professor und seine Frau reden in [[scharfem]] Ton miteinander, [[schreien]]
 ---
 
 Synonyme:
+
 - [[aber]], [[doch]], [[dennoch]]
 
 ---
+
 **Übersetzung**: however, nevertheless
 
 ---
@@ -33,5 +36,5 @@ Tags:
 ---
 
 Morphems:
-[[jedo]][[ch]]
+[[jedo]], [[ch]]
 , [[Konjunktoren]], [[Konnektoren]], [[s1 e1]], [[Konnektivpartikeln]], [[jeglich]]

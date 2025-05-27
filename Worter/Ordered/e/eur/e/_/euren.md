@@ -1,4 +1,3 @@
-[[eur]][[en]]
-
+[[eur]], [[en]]
 
 [[Akkusativ possessiv Pronomen]]

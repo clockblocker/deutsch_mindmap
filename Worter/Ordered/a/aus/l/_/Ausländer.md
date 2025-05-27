@@ -1,1 +1,1 @@
-[[aus]][[Land|länd]]er, [[Fremde]], [[Staatsangehörige]], [[Migrant]], [[Deutsche]], [[Thüringer]], [[Durchschnittsdeutsche]]
+[[aus]], [[Land|länd]]er, [[Fremde]], [[Staatsangehörige]], [[Migrant]], [[Deutsche]], [[Thüringer]], [[Durchschnittsdeutsche]]

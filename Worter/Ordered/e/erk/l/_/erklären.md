@@ -20,7 +20,7 @@ Antonyme: [[verbergen]], [[verheimlichen]], [[verschleiern]]
 
 ---
 
-Morpheme: [[er]][[kläre]]
+Morpheme: [[er]], [[kläre]]
 #Verb #Untrennbar
 
 ---

@@ -4,31 +4,35 @@
 haben [[gecheckt]]
 
 ---
-Nur schnell die Nachrichten in den sozialen Netzwerken [[checken]], noch eben ein Foto verschicken oder einen kurzen Kommentar schreiben — diese Nebenbei-Aktivitäten bringen es  zusammengerechnet auf einige Stunden am Tag. 
+
+Nur schnell die Nachrichten in den sozialen Netzwerken [[checken]], noch eben ein Foto verschicken oder einen kurzen Kommentar schreiben — diese Nebenbei-Aktivitäten bringen es zusammengerechnet auf einige Stunden am Tag.
 
 ja, deutsch ist manchmal einfach [[unnötig]] kompliziert. aber du hast das prinzip jetzt [[gecheckt]]:
 
 ---
+
 Synonyme: [[überprüfen]], [[kontrollieren]], [[verifikation]], [[testen]], [[untersuchen]]
 Antonyme: [[ignorieren]], [[übersehen]], [[vernachlässigen]]
 
 ---
+
 Übersetzung: to check, to verify
 
 ---
-Morpheme: [[check]][[en]]
- #Verb  #Umgangssprachlich
- 
+
+Morpheme: [[check]], [[en]]
+#Verb #Umgangssprachlich
+
 ---
 
-| Person | Präsens | Präteritum | Imperativ | Konjunktiv I | Konjunktiv II |
-| --------- | ------------------- | --------------------- | --------------------------- | --------------------- | ----------------------- |
-| Ich | [[checke]] | [[checkte]] | - | [[checke]] | [[checkte]] |
-| Du | [[checkst]] | [[checktest]] | [[check]] | [[checkest]] | [[checktest]] |
-| Er/sie/es | [[checkt]] | [[checkte]] | - | [[checke]] | [[checkte]] |
-| Wir | [[checken]] | [[checkten]] | - | [[checken]] | [[checkten]] |
-| Ihr | [[checkt]] | [[checktet]] | [[checkt]] | [[checktet]] | [[checktet]] |
-| Sie | [[checken]] | [[checkten]] | [[checken Sie]] | [[checken]] | [[checkten]] |
+| Person    | Präsens     | Präteritum    | Imperativ       | Konjunktiv I | Konjunktiv II |
+| --------- | ----------- | ------------- | --------------- | ------------ | ------------- |
+| Ich       | [[checke]]  | [[checkte]]   | -               | [[checke]]   | [[checkte]]   |
+| Du        | [[checkst]] | [[checktest]] | [[check]]       | [[checkest]] | [[checktest]] |
+| Er/sie/es | [[checkt]]  | [[checkte]]   | -               | [[checke]]   | [[checkte]]   |
+| Wir       | [[checken]] | [[checkten]]  | -               | [[checken]]  | [[checkten]]  |
+| Ihr       | [[checkt]]  | [[checktet]]  | [[checkt]]      | [[checktet]] | [[checktet]]  |
+| Sie       | [[checken]] | [[checkten]]  | [[checken Sie]] | [[checken]]  | [[checkten]]  |
 
 Partizip I: [[checkend]], Partizip II: [[gecheckt]]
 '''

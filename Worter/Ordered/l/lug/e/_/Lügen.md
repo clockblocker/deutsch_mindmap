@@ -25,15 +25,19 @@ haben [[gelogen]]
 - Sie [[Lügen]], um sich einen Vorteil zu verschaffen.
 
 ---
+
 **Übersetzung**:
 to lie
 
 ---
-**Morphems of only infinitive:**  
-- [[lüg]][[en]]
+
+**Morphems of only infinitive:**
+
+- [[lüg]], [[en]]
 
 ---
- #Verb #Unregelmäßige
+
+#Verb #Unregelmäßige
 
 ---
 
@@ -62,7 +66,9 @@ to lie
 - Sie [[Lügen]] nicht.
 
 ---
+
 Konjunktiv I:
+
 - Er sagt, ich [[Lüge]] nicht.
 - Sie meint, du [[lügest]] immer.
 - Er behauptet, er [[Lüge]] nie.
@@ -71,7 +77,9 @@ Konjunktiv I:
 - Sie sagen, sie [[Lügen]] nie.
 
 ---
+
 Konjunktiv II:
+
 - Wenn ich die Wahrheit kennen würde, [[löge]] ich nicht.
 - Wenn du ehrlich wärst, [[lögest]] du nicht.
 - Wenn er hier wäre, [[löge]] er nicht.

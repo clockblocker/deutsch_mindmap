@@ -1,1 +1,1 @@
-[[Atem]][[Wind]], [[Duft]]
+[[Atem]], [[Wind]], [[Duft]]

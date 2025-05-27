@@ -19,7 +19,7 @@ Antonyme: [[zusammenfügen]], [[binden]], [[vereinen]], [[verbinden]], [[bilden]
 
 ---
 
-Morpheme: [[auf]][[lös]][[en]]
+Morpheme: [[auf]], [[lös]], [[en]]
 #Verb #Trennbar
 
 ---

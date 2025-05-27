@@ -1,4 +1,4 @@
-[[keine]][[niemanden]][[irgend]], [[weder]], [[Je]], [[mehrere]]
+[[keine]], [[niemanden]], [[irgend]], [[weder]], [[Je]], [[mehrere]]
 , [[welcher]]
 , [[Was für ein?]]
 , [[Alle]], [[Negationspartikel]]

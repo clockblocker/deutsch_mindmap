@@ -25,7 +25,7 @@ to keep, to remember, to retain
 
 ---
 
-[[be]][[halt]][[en]]
+[[be]], [[halt]], [[en]]
 
 ---
 

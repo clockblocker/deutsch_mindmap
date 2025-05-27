@@ -3,6 +3,7 @@
 haben [[gesammelt]]
 
 ---
+
 [[1 Payback und Co. - Wer profitiert von Punktesystemen.md#^1|^]] "[[Sammeln]] Sie Punkte? Dankeschön. Tja, diese Frage hört man mittlerweile an jeder Supermarktkasse und Millionen von Deutschen machen jeden Tag mit" ^1
 
 Tränen [[sammelten]] sich in Petunias Augen.
@@ -17,35 +18,37 @@ Er [[sammelte]] Zeitungsausschnitte, Foto-grafien, Farbstudien, Landschaften, Po
 
 Als Lena abends nach Hause geht, hat sie die [[Projektleitung]] in der Tasche. Und Bastian? Der wird unter Lenas [[Leitung]] sicher [[wertvolle]] [[Erfahrung]]en [[sammeln]], meint der Chef.
 
-
 ---
+
 [[ansammeln]] - [[an]] = [[sammeln]] // fomally gather
 [[versammeln]] - [[ver]] = [[sammeln]] // assemble
 
 ---
+
 Synonyme: [[anhäufen]], [[aufhäufen]], [[häufen]], [[zusammentragen]], [[ansammeln]]
 Antonyme: [[verteilen]], [[streuen]], [[verschenken]]
 
 ---
+
 Übersetzung: to collect, to gather
 
 ---
-Morpheme: [[sammel]][[n]]
- #Verb  #Untrennbar
+
+Morpheme: [[sammel]], [[n]]
+#Verb #Untrennbar
 
 ---
 
-| Person    | Präsens              | Präteritum            | Imperativ         | Konjunktiv I           | Konjunktiv II           |
-| --------- | -------------------- | --------------------- | ----------------- | ---------------------- | ----------------------- |
-| Ich       | [[sammle]]           | [[sammelte]]          | -                 | [[sammle]]             | [[sammelte]]            |
-| Du        | [[sammelst]]         | [[sammeltest]]        | [[sammle]]        | [[sammelst]]           | [[sammeltest]]          |
-| Er/sie/es | [[sammelt]]          | [[sammelte]]          | -                 | [[sammle]]             | [[sammelte]]            |
-| Wir       | [[sammeln]]          | [[sammelten]]         | -                 | [[sammeln]]            | [[sammelten]]           |
-| Ihr       | [[sammelt]]          | [[sammeltet]]         | [[sammelt]]       | [[sammelt]]            | [[sammeltet]]           |
-| Sie       | [[sammeln]]          | [[sammelten]]         | [[sammeln Sie]]   | [[sammeln]]            | [[sammelten]]           |
+| Person    | Präsens      | Präteritum     | Imperativ       | Konjunktiv I | Konjunktiv II  |
+| --------- | ------------ | -------------- | --------------- | ------------ | -------------- |
+| Ich       | [[sammle]]   | [[sammelte]]   | -               | [[sammle]]   | [[sammelte]]   |
+| Du        | [[sammelst]] | [[sammeltest]] | [[sammle]]      | [[sammelst]] | [[sammeltest]] |
+| Er/sie/es | [[sammelt]]  | [[sammelte]]   | -               | [[sammle]]   | [[sammelte]]   |
+| Wir       | [[sammeln]]  | [[sammelten]]  | -               | [[sammeln]]  | [[sammelten]]  |
+| Ihr       | [[sammelt]]  | [[sammeltet]]  | [[sammelt]]     | [[sammelt]]  | [[sammeltet]]  |
+| Sie       | [[sammeln]]  | [[sammelten]]  | [[sammeln Sie]] | [[sammeln]]  | [[sammelten]]  |
 
 Partizip I: [[sammelnd]], Partizip II: [[gesammelt]]
-
 
 , [[wegwerfen]], [[gießen]], [[schleudern]], [[ausbreiten]], [[verschwenden]], [[schwenden]], [[verschicken]], [[ansammeln]]
 

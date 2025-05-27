@@ -5,12 +5,14 @@
 nicht [[nachlässig]]
 
 ---
+
 Die Peitsche hat er mitgebracht  
 und nimmt sie [[sorglich]] sehr in acht.
 
 ---
 
 Synonyme:
+
 - [[achtsam]], [[vorsichtig]], [[gewissenhaft]]
 
 ---
@@ -22,6 +24,7 @@ Beispiele:
 - Das war die [[sorglichste]] Vorbereitung, die ich je gesehen habe.
 
 ---
+
 **Übersetzung**: careful, attentive
 
 ---
@@ -32,4 +35,4 @@ Tags:
 ---
 
 Morphems:
-[[sorg]][[lich]]
+[[sorg]], [[lich]]

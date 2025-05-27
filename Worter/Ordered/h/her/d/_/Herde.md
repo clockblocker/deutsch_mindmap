@@ -8,16 +8,20 @@ Beispiele:
 - Die [[Herden]] zogen weiter in wärmere Gebiete.
 
 ---
+
 Synonyme:
+
 - [[Gruppe]], [[Schwarm]], [[Rudel]]
 
 ---
+
 **Übersetzung**: herd, flock
 
 ---
 
 Morphems:
-[[Herd]][[e]]
+[[Herd]], [[e]]
 
 ---
+
 #Substantiv #Feminin

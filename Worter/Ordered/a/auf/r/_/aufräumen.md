@@ -25,7 +25,7 @@ Antonyme: [[verschmutzen]], [[verunreinigen]], [[unordentlich machen]]
 
 ---
 
-Morpheme: [[auf]][[räum]][[en]]
+Morpheme: [[auf]], [[räum]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens        | Präteritum       | Imperativ          | Konjunktiv I    | Konjunktiv II    |

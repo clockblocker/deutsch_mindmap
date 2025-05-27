@@ -3,23 +3,24 @@
 haben [[verzogen]]
 
 ---
-_Die Szene wechselt zu Katara und Sokka, wo sich der Nebel gerade [[verzieht]]. 
 
-
+\_Die Szene wechselt zu Katara und Sokka, wo sich der Nebel gerade [[verzieht]].
 
 ---
+
 Synonyme: [[verzerren]], [[verformen]], [[entstellen]], [[deformieren]], [[verziehen]]
 Antonyme: [[gerade ziehen]], [[richten]], [[begradigen]]
 
 ---
+
 Übersetzung: to distort, to warp, to twist, to clear
 
 ---
-Morpheme: [[ver]][[zieh]][[en]]
- #Verb  #Trennbar
- 
----
 
+Morpheme: [[ver]], [[zieh]], [[en]]
+#Verb #Trennbar
+
+---
 
 | Person    | Präsens       | Präteritum   | Imperativ         | Konjunktiv I   | Konjunktiv II |
 | --------- | ------------- | ------------ | ----------------- | -------------- | ------------- |
@@ -32,5 +33,5 @@ Morpheme: [[ver]][[zieh]][[en]]
 
 Partizip I: [[verzeihend]], Partizip II: [[verzogen]]
 
-[[verziehen]] - [[ver]] = [[ziehen]] /  to distort, to warp, to twist, to clear
+[[verziehen]] - [[ver]] = [[ziehen]] / to distort, to warp, to twist, to clear
 , [[verzeihen]]

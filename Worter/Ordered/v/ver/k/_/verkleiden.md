@@ -20,7 +20,7 @@ to disguise, to dress up, to costume
 
 ---
 
-[[ver]][[kleid]][[en]]
+[[ver]], [[kleid]], [[en]]
 
 ---
 

@@ -21,7 +21,7 @@ Antonyme: [[verkümmern]], [[stagnieren]], [[degenerieren]]
 
 ---
 
-Morpheme: [[auf]][[wachs]][[en]]
+Morpheme: [[auf]], [[wachs]], [[en]]
 #Verb #Trennbar
 
 ---

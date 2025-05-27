@@ -3,6 +3,7 @@
 haben [[besprüht]]
 
 ---
+
 ANNA: Ach und Nic, kannst du meine Blumen bitte mit Wasser [[besprühen]] Die Flasche ... mit dem Wasser ist im Bad.
 
 ---
@@ -25,15 +26,19 @@ ANNA: Ach und Nic, kannst du meine Blumen bitte mit Wasser [[besprüh
 - Sie [[besprühen]] die Felder mit Pestiziden.
 
 ---
+
 **Übersetzung**:
 to spray
 
 ---
-**Morphems of only infinitive:**  
-- [[be]][[Sprüh]][[en]]
+
+**Morphems of only infinitive:**
+
+- [[be]], [[Sprüh]], [[en]]
 
 ---
- #Verb  #Untrennbar
+
+#Verb #Untrennbar
 
 ---
 
@@ -62,7 +67,9 @@ to spray
 - Sie [[besprühen]] die Pflanzen.
 
 ---
+
 Konjunktiv I:
+
 - Er sagt, ich [[besprühe]] die Pflanzen jeden Tag.
 - Sie meint, du [[besprühest]] die Fenster regelmäßig.
 - Er behauptet, er [[besprühe]] die Wand sorgfältig.
@@ -71,7 +78,9 @@ Konjunktiv I:
 - Sie sagen, sie [[besprühen]] die Felder regelmäßig.
 
 ---
+
 Konjunktiv II:
+
 - Wenn ich eine Sprühflasche hätte, [[besprühte]] ich die Pflanzen.
 - Wenn du Zeit hättest, [[besprühte]]st du die Fenster.
 - Wenn er hier wäre, [[besprühte]] er die Wand.

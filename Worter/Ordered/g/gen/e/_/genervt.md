@@ -1,1 +1,1 @@
-, [[überdrüssig]][[verdrießen]]
+, [[überdrüssig]], [[verdrießen]]

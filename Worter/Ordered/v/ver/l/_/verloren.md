@@ -2,35 +2,38 @@
 nicht [[gefunden]]
 
 ---
-*[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en [[Wissen]] über [[Heilkunde]] [[hierzulande]] und international wuchs
 
-MARIA: Prima! Aber die haben mein Gepäck [[verloren]]!  
+_[[C1-Hoehen-T1-101-Text#^15|^]]_ Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en [[Wissen]] über [[Heilkunde]] [[hierzulande]] und international wuchs
 
-Jeder Tag, an dem du nicht lächelst, ist ein [[verlorener]] Tag 
+MARIA: Prima! Aber die haben mein Gepäck [[verloren]]!
 
-*Wenn sich an mir ein Weib [[verirrt]]*  
-*Dann ist die helle Welt verwirrt*  
+Jeder Tag, an dem du nicht lächelst, ist ein [[verlorener]] Tag
 
+_Wenn sich an mir ein Weib [[verirrt]]_  
+_Dann ist die helle Welt verwirrt_
 
 ---
+
 Synonyme: [[weg]], [[verschollen]], [[vermisst]], [[abhanden gekommen]], [[unauffindbar]]
 Antonyme: [[gefunden]], [[erhalten]], [[wiedergefunden]], [[aufgefunden]], [[bekommen]]
 
 ---
+
 **Übersetzung**:
 lost
 
 ---
+
 #Adjective [[verloren]]
 
 ---
+
 Morpheme:
-[[ver]][[lor]][[en]]
+[[ver]], [[lor]], [[en]]
 
 ---
 
-
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[verloren]], [[verlorene]], [[verlorenes]], [[verlorener]], [[verlorenen]], [[verlorenem]]
 [[verlorenere]], [[verloreneres]], [[verlorenerer]], [[verloreneren]], [[verlorenerem]]
 [[verlorensten]], [[verlorenste]], [[verlorstes]], [[verlorenster]], [[verlorensten]], [[verlorenstem]]

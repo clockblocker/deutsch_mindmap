@@ -1,4 +1,3 @@
-[[sein]][[en]]
-
+[[sein]], [[en]]
 
 [[Akkusativ possessiv Pronomen]]

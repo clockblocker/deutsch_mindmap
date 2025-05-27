@@ -2,24 +2,30 @@
 die [[Abstände]]
 
 ---
-SAM: Den [[Abstand]] zwischen 2 Regalbrettern messen …'  
+
+SAM: Den [[Abstand]] zwischen 2 Regalbrettern messen …'
 
 ---
-Synonyme: 
+
+Synonyme:
 [[Entfernung]], [[Distanz]], [[Freiraum]], [[Zwischenraum]], [[Lücke]]
 Antonyme:
 [[Nähe]], [[Kontakt]], [[Verbindung]], [[Anschluss]]
 
 ---
+
 Übersetzung: distance, space, gap
 
 ---
+
 Morpheme:
-[[ab]][[stand]]
+[[ab]], [[stand]]
 
 ---
-Einzigartige mögliche Formen: [[Abstands]], [[Abständen]], [[Abstände]], [[Abständen]]  
+
+Einzigartige mögliche Formen: [[Abstands]], [[Abständen]], [[Abstände]], [[Abständen]]
 
 ---
+
 #Substantiv #Maskulin, [[Extra 8]], [[Annäherung]]
 , [[Leerzeichen]], [[Verzicht]], [[Lohngefälle]]

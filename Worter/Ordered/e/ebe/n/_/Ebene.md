@@ -34,4 +34,4 @@ D: der [[Ebene]], den [[Ebenen]]
 [[Seite]], [[Feld]], [[Stufe]]
 , [[Gebirge]], [[Hügel]], [[Hang]], [[Berg]]
 
-#Feminin 
+#Feminin , [[Rang]]

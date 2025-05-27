@@ -3,36 +3,37 @@
 haben [[geschlossen]]
 
 ---
+
 Der Richter erklärt den Fall für [[geschlossen]].
 
 [[hattest]] du nicht [[daran]] gedacht, es zu [[schließen]], Brigitte?
 
-SEXY VOICE: Ah, komm herein, setz dich hin und [[schließ]] die [[Augen]] …  
+SEXY VOICE: Ah, komm herein, setz dich hin und [[schließ]] die [[Augen]] …
 
 Zuerst [[schloss]] sie Freundschaft mit dem Hasen und begleitete ihn überall hin.
 
 Mit ihnen muss ich [[Freundschaft]] [[schließen]]."
 
-*Wenn [[Schwesterlein]] zur Arbeit muss*  
-*[[Schließt]] mich im Zimmer ein*  
-
+_Wenn [[Schwesterlein]] zur Arbeit muss_  
+_[[Schließt]] mich im Zimmer ein_
 
 122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
-	- [x] [[frei]], [[gleich]], [[geheim]].
-	- [ ] offen, [[sicher]], frei.
-	- [ ] [[geschlossen]], gleich, [[sicher]].
-	- [ ] sicher, offen, [[freiwillig]].
+
+
+    - [x] [[frei]], [[gleich]], [[geheim]].
+    - [ ] offen, [[sicher]], frei.
+    - [ ] [[geschlossen]], gleich, [[sicher]].
+    - [ ] sicher, offen, [[freiwillig]].
 
 ---
-+[[an]] = 🔗 [[anschließen]] / to connect, to hook up, to attach
-+[[ab]] = 🔗 [[abschließen]] / to conclude, защитить диплом
+
++[[an]] = 🔗 [[anschließen]] / to connect, to hook up, to attach +[[ab]] = 🔗 [[abschließen]] / to conclude, защитить диплом
 [[beschließen]] - [[be]] = [[schließen]] // to decide, to resolve, to conclude
-
-
 
 ---
 
 Synonyme:
+
 - [[zumachen]], [[absperren]], [[verschließen]]
 
 ---
@@ -48,14 +49,16 @@ Beispiele:
 - Sie [[schließen]] die Tür.
 
 ---
+
 **Übersetzung**: to close, to shut
 
 ---
 
 **Morphems of only infinitive:**
-[[schließ]][[en]]
+[[schließ]], [[en]]
 
 ---
+
 Tags:
 #Verb #Unregelmäßige
 
@@ -101,5 +104,5 @@ Konjunktiv II:
 - Wenn wir das Auto [[schlössen]], wäre es sicherer.
 - Wenn ihr das Buch [[schlösset]], wäre es fertig.
 - Wenn sie die Tür [[schlössen]], wäre es dunkel., [[11 08]], [[einschließen]], [[aufgehen]], [[aufmachen]], [[aufzukriegen]], [[auseinanderklapfen]], [[entschließen]], [[schließlich]], [[gründen]], [[eröffnen]], [[öffnen]], [[Lücke]], [[s1 e1]]
-, [[einschließlich]]
-, [[zudrücken]], [[Schlusssatz]], [[Aufrufen]], [[sperren]], [[fächern]], [[auslaufen]], [[ablesen]], [[Entschluss]], [[aufbrechen]]
+  , [[einschließlich]]
+  , [[zudrücken]], [[Schlusssatz]], [[Aufrufen]], [[sperren]], [[fächern]], [[auslaufen]], [[ablesen]], [[Entschluss]], [[aufbrechen]]

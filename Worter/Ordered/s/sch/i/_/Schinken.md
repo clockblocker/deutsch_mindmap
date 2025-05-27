@@ -8,16 +8,20 @@ Beispiele:
 - Ein belegtes Brot mit [[Schinken]] ist sehr lecker.
 
 ---
+
 Synonyme:
+
 - [[Speck]], [[Bacon]], [[Rauchfleisch]]
 
 ---
+
 **Übersetzung**: ham
 
 ---
 
 Morphems:
-[[Schink]][[en]]
+[[Schink]], [[en]]
 
 ---
+
 #Substantiv #Maskulin

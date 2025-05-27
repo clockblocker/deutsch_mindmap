@@ -2,27 +2,31 @@
 kein Plural
 
 ---
-*[[C1-Lesen-T2-102-Text#^11|^]]* Durch regelmäßiges Joggen und Radfahren komme es [[ebenfalls]] zum [[Muskelaufbau]], auch wenn der nicht so sichtbar ist. ^11
 
+_[[C1-Lesen-T2-102-Text#^11|^]]_ Durch regelmäßiges Joggen und Radfahren komme es [[ebenfalls]] zum [[Muskelaufbau]], auch wenn der nicht so sichtbar ist. ^11
 
 ---
+
 = [[Muskelwachstum]]
 ≈ [[Training]], [[Fitness]], [[Krafttraining]]
 ≠ [[Muskelabbau]]
 
 ---
+
 muscle building  
 наращивание мышц
 
 ---
+
 [[Muskel]], [[aufbauen]]
 
 ---
-[[Muskel]]|[[auf]]|[[bau]]
-[[Muskel]][[aufbau]]
 
+[[Muskel]]|[[auf]]|[[bau]]
+[[Muskel]], [[aufbau]]
 
 ---
+
 N: der [[Muskelaufbau]], die [[Muskelaufbauten]]
 A: den [[Muskelaufbau]], die [[Muskelaufbauten]]
 G: des [[Muskelaufbaus]], der [[Muskelaufbauten]]

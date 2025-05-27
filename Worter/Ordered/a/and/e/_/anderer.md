@@ -1,1 +1,1 @@
-[[Indefinitpronomen]][[andere]][[anders]]
+[[Indefinitpronomen]], [[andere]], [[anders]]

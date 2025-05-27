@@ -21,7 +21,7 @@ assets, wealth, ability, capacity
 
 ---
 
-[[Ver]][[mögen]]
+[[Ver]], [[mögen]]
 
 ---
 

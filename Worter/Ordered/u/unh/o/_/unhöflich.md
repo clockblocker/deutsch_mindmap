@@ -6,19 +6,23 @@ nicht [[höflich]]
 ---
 
 ---
+
 Synonyme: [[rüde]], [[respektlos]], [[unfreundlich]], [[unhöflich]], [[grob]]
 Antonyme: [[höflich]], [[respektvoll]], [[freundlich]], [[zuvorkommend]], [[galant]]
 
 ---
+
 **Übersetzung**:
-impolite, rude, discourteous  
+impolite, rude, discourteous
 
 ---
+
 #Adjektiv [[unhöflich]]
 
 ---
+
 Morpheme:
-[[un]][[höflich]]
+[[un]], [[höflich]]
 
 ---
 

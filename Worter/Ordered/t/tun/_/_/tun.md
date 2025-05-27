@@ -28,7 +28,7 @@ Antonyme: [[lassen]], [[unterlassen]], [[verweigern]], [[ablehnen 1]]
 
 ---
 
-Morpheme: [[tu]][[n]]
+Morpheme: [[tu]], [[n]]
 #Verb #Untrennbar
 
 ---

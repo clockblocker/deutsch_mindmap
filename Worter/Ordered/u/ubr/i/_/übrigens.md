@@ -23,7 +23,7 @@ by the way, incidentally, by the bye
 ---
 
 Morpheme:
-[[Ü/über]][[ig]][[ens]]
+[[Ü/über]], [[ig]], [[ens]]
 
 ---
 

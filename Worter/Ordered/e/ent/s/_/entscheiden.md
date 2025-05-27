@@ -58,7 +58,7 @@ Antonyme: [[zögern]], [[unentschlossen sein]], [[aufhalten]]
 
 ---
 
-Morpheme: [[ent]][[scheid]][[en]]
+Morpheme: [[ent]], [[scheid]], [[en]]
 #Verb #Untrennbar
 
 | Person    | Präsens          | Präteritum      | Imperativ           | Konjunktiv I     | Konjunktiv II    |

@@ -17,7 +17,7 @@ Antonyme: [[erscheinen lassen]], [[zeigen]], [[präsentieren]], [[enthüllen]]
 
 ---
 
-Morpheme: [[weg]][[zauber]][[en]]
+Morpheme: [[weg]], [[zauber]], [[en]]
 #Verb #Trennbar
 
 ---

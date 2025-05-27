@@ -38,7 +38,7 @@ Antonyme: [[ablehnen 1]], [[loslassen]], [[weggeben]]
 
 ---
 
-Morpheme: [[nehm]][[en]]
+Morpheme: [[nehm]], [[en]]
 #Verb #Untrennbar
 
 ---

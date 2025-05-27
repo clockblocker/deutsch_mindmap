@@ -25,7 +25,7 @@ tasks, assignments, duties
 
 ---
 
-[[auf]][[gaben]]
+[[auf]], [[gaben]]
 
 ---
 

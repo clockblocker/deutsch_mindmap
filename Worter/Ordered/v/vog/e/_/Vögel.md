@@ -7,20 +7,24 @@ Beispiele:
 - Die [[Vögel]] fliegen in den Süden.
 - Ich habe einen [[Vogel]] auf dem Baum gesehen.
 
-*Die späten [[Vögel]] singen*  
-*Und die Schwester schreit*
+_Die späten [[Vögel]] singen_  
+_Und die Schwester schreit_
 
 ---
+
 Synonyme:
+
 - [[Geflügel]], [[Piepmatz]], [[Flügeltier]]
 
 ---
+
 **Übersetzung**: bird
 
 ---
 
 Morphems:
-[[Vog]][[el]]
+[[Vog]], [[el]]
 
 ---
+
 #Substantiv #Maskulin

@@ -1,11 +1,13 @@
 [[drunter]]
 
 ---
+
 Alles liegt [[drunter]] und [[drüber]].
 
 ---
 
 Synonyme:
+
 - [[unterhalb]], [[darunter]], [[unter]]
 
 ---
@@ -17,6 +19,7 @@ Beispiele:
 - Sie haben den Teppich [[drunter]] gerollt.
 
 ---
+
 **Übersetzung**: underneath, below
 
 ---
@@ -27,4 +30,4 @@ Tags:
 ---
 
 Morphems:
-[[drunter]] ([[Da]][[runter]]), [[11 08]]
+[[drunter]] ([[Da]], [[runter]]), [[11 08]]

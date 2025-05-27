@@ -3,22 +3,29 @@
 die [[Häuflein]]
 
 ---
-*ein [[Häuflein]] Asche bleibt allein*  
-*und beide Schuh, so hübsch und fein.
+
+_ein [[Häuflein]] Asche bleibt allein_  
+\*und beide Schuh, so hübsch und fein.
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Ansammlung]], [[Gruppe]], [[Menge]], [[Schar]], [[Trupp]]
 
 ---
+
 Übersetzung: little pile, small group
 
 ---
+
 Morpheme:
-[[Häuf]][[lein]]
+[[Häuf]], [[lein]]
 
 ---
+
 Einzigartige mögliche Formen: [[Häufleins]], [[Häuflein]], [[Häufleinen]]
 
 ---
+
 #Substantiv #Neuter

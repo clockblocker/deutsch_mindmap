@@ -1,1 +1,1 @@
-[[andere]][[einander]], [[auseinanderzuhalten]]
+[[andere]], [[einander]], [[auseinanderzuhalten]]

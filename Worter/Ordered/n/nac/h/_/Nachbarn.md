@@ -5,18 +5,18 @@
 Singular: der [[Nachbarn]]
 Plural: die [[Nachbarn]]
 
-[[nach]][[barn]]
+[[nach]], [[barn]]
 
 Beispiele:
 
 Sie haben einen [[Nachbarn]]: Nic
 
 ---
-Translation:
 
+Translation:
 
 ---
 
 #Substantiv
-#Maskulin  | #Feminin | #Neuter 
+#Maskulin | #Feminin | #Neuter
 , [[Nachbarschaft]]

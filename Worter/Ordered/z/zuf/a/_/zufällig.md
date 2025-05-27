@@ -1,34 +1,38 @@
 🟡 [[zufällig]], [tsuːˈfælɪç]
-nicht [[vorsätzlich]], [[geplant]] 
+nicht [[vorsätzlich]], [[geplant]]
 
 ---
 
-| **Aang**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Suchst du [[zufällig]] mich?                                                                                                                                                                                                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Zuko**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | [[Ungläubig]]. Du sollst der Luftbändiger sein? Du bist der Avatar?                                                                                                                                                                                                                                                                                                            |
+| **Aang** | Suchst du [[zufällig]] mich?                                        |
+| -------- | ------------------------------------------------------------------- |
+| **Zuko** | [[Ungläubig]]. Du sollst der Luftbändiger sein? Du bist der Avatar? |
 
 Hast du [[zufällig]] mal an deinen [[dreckigen]] Socken [[gerochen]]?
 
 Willst du vielleicht warten bis [[zufällig]] ein anderes Monster vorbeikommt und dich nach Hause bringt?
 
-Dann sieht sie [[zufällig]] eine Dokumentation über ein Umweltprojekt in Norddeutschland. Und sie weiß sofort: Dabei will sie mitmachen! 
+Dann sieht sie [[zufällig]] eine Dokumentation über ein Umweltprojekt in Norddeutschland. Und sie weiß sofort: Dabei will sie mitmachen!
 
 ---
-Synonyme: 
+
+Synonyme:
 [[unabsichtlich]], [[ungeplant]], [[unbeabsichtigt]], [[beiläufig]], [[ungewollt]]
 Antonyme:
 [[absichtlich]], [[vorsätzlich]], [[geplant]], [[beabsichtigt]], [[willentlich]]
 
 ---
-**Übersetzung**: 
+
+**Übersetzung**:
 accidental, random, chance, coincidental
 
 ---
+
 #Adjektiv [[zufällig]]
 
 ---
+
 Morpheme:
-[[zu]][[fällig]]
+[[zu]], [[fällig]]
 
 ---
 

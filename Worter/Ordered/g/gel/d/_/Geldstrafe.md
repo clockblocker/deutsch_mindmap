@@ -28,7 +28,7 @@ fine, monetary penalty
 
 ---
 
-[[Geld]][[strafe]]
+[[Geld]], [[strafe]]
 
 ---
 

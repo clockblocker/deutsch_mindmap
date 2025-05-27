@@ -19,7 +19,7 @@ Antonyme: [[übersehen werden]], [[unbemerkt bleiben]], [[verschwinden]]
 
 ---
 
-Morpheme: [[auf]][[fall]][[en]]
+Morpheme: [[auf]], [[fall]], [[en]]
 #Verb #Trennbar
 
 | Person    | Präsens        | Präteritum     | Imperativ          | Konjunktiv I    | Konjunktiv II   |

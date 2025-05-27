@@ -36,4 +36,4 @@ Tags:
 ---
 
 Morphems:
-[[gift]][[ig]], [[essbar]], [[Gift]]
+[[gift]], [[ig]], [[essbar]], [[Gift]]

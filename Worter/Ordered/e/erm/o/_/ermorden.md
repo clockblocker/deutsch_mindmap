@@ -3,22 +3,24 @@
 haben [[ermordet]]
 
 ---
+
 Er wird von Hamlets Onkel [[ermordet]].
 
-
 ---
+
 Synonyme: [[töten]], [[umbringen]], [[hinrichten]], [[ausschalten]], [[liquidieren]]
 Antonyme: [[retten]], [[beschützen]], [[verteidigen]], [[am Leben lassen]]
 
 ---
+
 Übersetzung: to murder, to kill
 
 ---
-Morpheme: [[er]][[mord]][[en]]
+
+Morpheme: [[er]], [[mord]], [[en]]
 #Verb #Trennbar
 
 ---
-
 
 | Person    | Präsens       | Präteritum      | Imperativ        | Konjunktiv I  | Konjunktiv II    |
 | --------- | ------------- | --------------- | ---------------- | ------------- | ---------------- |

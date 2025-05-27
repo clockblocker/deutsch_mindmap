@@ -1,1 +1,1 @@
-, [[Stadt]], [[Großstadt]]
+, [[Stadt]], [[Großstadt]], [[Ballungszentrum]]

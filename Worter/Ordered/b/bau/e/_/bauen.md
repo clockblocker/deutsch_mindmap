@@ -33,7 +33,7 @@ Antonyme: [[abreißen]], [[zerstören]], [[abbauen]]
 
 ---
 
-Morpheme: [[Bau]][[en]]
+Morpheme: [[Bau]], [[en]]
 #Verb #Untrennbar
 
 ---

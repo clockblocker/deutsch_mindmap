@@ -1,4 +1,4 @@
-Sascha, [[Schätzchen]] - hat jemand für mich angerufen?  
+Sascha, [[Schätzchen]] - hat jemand für mich angerufen?
 
 🟢 das [[Schätzchen]]
 die [[Schätzchen]]
@@ -10,13 +10,16 @@ Beispiele:
 - Ihre Großmutter nennt sie immer [[Schätzchen]].
 
 ---
+
 Synonyme:
+
 - [[Liebling]], [[Schatz]], [[Lieblingsmensch]]
 
 ---
+
 **Übersetzung**: darling, sweetheart
 
 ---
 
 Morphems:
-[[Schätz]][[chen]]
+[[Schätz]], [[chen]]

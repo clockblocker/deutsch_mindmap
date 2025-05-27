@@ -15,7 +15,7 @@ Antonyme: [[hauptsächlich]], [[ausschließlich]], [[nur]]
 
 ---
 
-Morpheme: [[neben]][[bei]]
+Morpheme: [[neben]], [[bei]]
 
 ---
 

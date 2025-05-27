@@ -1,1 +1,1 @@
-[[lernen]][[üben]], [[weiterüben]], [[ausbilden]], [[Vereinstrainer]], [[Training]], [[Achtsamkeitstraining]]
+[[lernen]], [[üben]], [[weiterüben]], [[ausbilden]], [[Vereinstrainer]], [[Training]], [[Achtsamkeitstraining]]

@@ -1,20 +1,23 @@
 🚶 [[zukommen]], [ˈtsuːkɔmən] | [[kam zu]], sein [[zugekommen]]
 
 ---
-[[Neulich]] war Diana im Supermarkt. Ein Mann [[zukommen|kam]] auf sie zu und fragte: „Kannst du mir helfen? Was bedeutet ‚Sahne‘?“ 
 
-*[[C1-Hoehen-T1-101-Text#^18|^]]* Und welche [[Bedeutung]] [[zukommen|kommt]] der [[Heilkunde]] von [[Hildegard]] von [[Bingen]], einer [[Äbtissin]] und [[Mystikerin]] des [[Mittelalters]] zu? 
+[[Neulich]] war Diana im Supermarkt. Ein Mann [[zukommen|kam]] auf sie zu und fragte: „Kannst du mir helfen? Was bedeutet ‚Sahne‘?“
+
+_[[C1-Hoehen-T1-101-Text#^18|^]]_ Und welche [[Bedeutung]] [[zukommen|kommt]] der [[Heilkunde]] von [[Hildegard]] von [[Bingen]], einer [[Äbtissin]] und [[Mystikerin]] des [[Mittelalters]] zu?
 
 ---
+
 Synonyme: [[sich nähern]], [[herankommen]], [[herannahen]], [[sichähern]]
 Antonyme: [[sich entfernen]], [[weggehen]], [[abfahren]]
 
 ---
+
 to come towards, to approach
 
 ---
-[[zu]][[komm]][[en]]
-   
+
+[[zu]], [[komm]], [[en]]
 
 ---
 
@@ -23,13 +26,14 @@ Ich: [[komme zu]], [[kam zu]], -, [[komme zu]], [[käme zu]]
 Du: [[kommst zu]], [[kamst zu]], [[komm zu]], [[kommest zu]], [[kämest zu]]  
 Er/sie/es: [[kommt zu]], [[kam zu]], -, [[komme zu]], [[käme zu]]  
 Wir: [[kommen zu]], [[kamen zu]], -, [[kommen zu]], [[kämen zu]]  
-Ihr: [[kommt zu]], [[kamt zu]], [[kommt zu]], [[kommet zu]], [[kämet zu]]  
+Ihr: [[kommt zu]], [[kamt zu]], [[kommt zu]], [[kommet zu]], [[kämet zu]]
 
-Partizip I: [[zukommend]], 
+Partizip I: [[zukommend]],
 Partizip II: [[zugekommen]]
 Zu+infinifive: [[zuzukommen]]
 
 [[zukommen]] auf sie [[zu]] = [[kommen]]
 
 ---
+
 [[Zukommen]], [[Annäherung]], [[Näherkommen]], [[neulich]], [[zukünftig]], [[zustehen]]

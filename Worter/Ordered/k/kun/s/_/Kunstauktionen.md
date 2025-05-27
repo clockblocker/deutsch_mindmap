@@ -2,27 +2,34 @@
 die [[Kunstauktion]]
 
 ---
+
 Bei den Kunstauktionen in London stieg der Umsatz in den letzten Jahren kontinuierlich.
 
-
 ---
+
 Synonyme:
+
 - [[Kunstverkauf]], [[Kunsthandel]], [[Versteigerung]], [[Kunstmarkt]]
 
 ---
+
 Übersetzung: art auctions
 
 ---
+
 Morpheme:
-[[Kunst]][[auktion]][[en]]
+[[Kunst]], [[auktion]], [[en]]
 
 ---
+
 Einzigartige mögliche Formen: [[Kunstauktionen]], [[Kunstauktionen]], [[Kunstauktionen]]
 
 ---
+
 #Substantiv #Plural #Feminin
 
 The template is filled with details about the word "Kunstauktionen":
+
 - It's a plural form of "Kunstauktion"
 - Phonetic pronunciation included
 - Related synonyms added

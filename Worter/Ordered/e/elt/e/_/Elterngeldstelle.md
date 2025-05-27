@@ -20,7 +20,7 @@ parental benefit office, parents' allowance agency
 
 ---
 
-[[Eltern]][[Geld]][[Stelle]]
+[[Eltern]], [[Geld]], [[Stelle]]
 
 ---
 

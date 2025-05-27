@@ -4,20 +4,25 @@
 die [[Abschlussberichte]]
 
 ---
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]]. 
 
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]].
 
 ---
+
 Synonyme:
+
 - [[Endbericht]], [[Schlussbericht]], [[Abschlussprotokoll]], [[Endergebnis]], [[Zusammenfassungsbericht]]
 
 ---
+
 final report, concluding report
 
 ---
-[[Abschluss]][[bericht]]
+
+[[Abschluss]], [[bericht]]
 
 ---
+
 Case: Singular, Plural  
 Nominative: der [[Abschlussbericht]], die [[Abschlussberichte]]  
 Accusative: den [[Abschlussbericht]], die [[Abschlussberichte]]  
@@ -25,4 +30,5 @@ Genitive: des [[Abschlussberichts]], der [[Abschlussberichte]]
 Dative: dem [[Abschlussbericht]], den [[Abschlussberichten]]
 
 ---
+
 [[berichten]], [[abschließen]], [[abschlussberichterstattung]]

@@ -28,7 +28,7 @@ Antonyme: [[brechen]], [[zurückziehen]], [[verweigern]]
 
 ---
 
-Morpheme: [[ver]][[sprech]][[en]]
+Morpheme: [[ver]], [[sprech]], [[en]]
 #Verb #Untrennbar
 
 | Person    | Präsens         | Präteritum      | Imperativ           | Konjunktiv I     | Konjunktiv II   |

@@ -1,24 +1,30 @@
 🟢 das [[Fädchen]], [ˈfɛːtçən]
 die [[Fädchen]]
 
+---
+
+_Am vierten Tage endlich gar_  
+_der Kaspar wie ein [[Fädchen]] war._
 
 ---
-*Am vierten Tage endlich gar*  
-*der Kaspar wie ein [[Fädchen]] war.*  
 
----
 Synonyme:
+
 - [[Garnfäden]], [[Schnürchen]], [[Seilchen]]
 
 ---
+
 Übersetzung: little thread
 
 ---
+
 Morpheme:
-[[Fäd]][[chen]]
+[[Fäd]], [[chen]]
 
 ---
+
 Einzigartige mögliche Formen: [[Fädchens]], [[Fädchen]], [[Fädchen]], [[Fädchen]], [[Fädchen]], [[Fädchen]], [[Fädchen]], [[Fädchen]]
 
 ---
+
 #Substantiv #Neuter

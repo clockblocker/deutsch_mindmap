@@ -23,7 +23,6 @@ _[[3 Sollte das Internet stärker reguliert werden?#^2|^]]_ _Dazu zählen neben 
 
 72. In Deutschland ist ein Bürgermeister / eine Bürgermeisterin … (88%)
 
-
     - [ ] der [[Leiter]] / die Leiterin einer Schule.
     - [ ] der Chef / die Chefin einer Bank.
     - [x] das [[Oberhaupt]] einer [[Gemeinde]].
@@ -41,7 +40,7 @@ community, municipality, local authority
 
 ---
 
-[[Gemein]][[de]]
+[[Gemein]], [[de]]
 
 ---
 

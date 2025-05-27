@@ -1,1 +1,1 @@
-[[Frage]][[runde]]
+[[Frage]], [[runde]]

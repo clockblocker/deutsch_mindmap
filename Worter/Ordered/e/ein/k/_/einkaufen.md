@@ -3,7 +3,8 @@
 haben [[eingekauft]]
 
 ---
-![[006-C1-Schreiben-T2#^5|^]] 
+
+![[006-C1-Schreiben-T2#^5|^]]
 
 Wir haben viel [[eingekauft]].
 
@@ -32,7 +33,8 @@ Wir haben viel [[eingekauft]].
 to shop, to buy
 
 ---
- #Verb  #Trennbar
+
+#Verb #Trennbar
 
 ---
 
@@ -62,5 +64,6 @@ to shop, to buy
 
 ---
 
-**Morphems of only infinitive:**  
-- [[ein]][[kaufen]], [[Kauf]], [[Einkaufsbereich]], [[Supermarkt]]
+**Morphems of only infinitive:**
+
+- [[ein]], [[kaufen]], [[Kauf]], [[Einkaufsbereich]], [[Supermarkt]]

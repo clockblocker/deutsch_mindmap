@@ -21,7 +21,7 @@ Antonyme: [[einstellen]], [[behalten]], [[beibehalten]]
 
 ---
 
-Morpheme: [[feu]][[er]][[n]]
+Morpheme: [[feu]], [[er]], [[n]]
 #Verb #Trennbar
 
 | Person    | Präsens     | Präteritum    | Imperativ      | Konjunktiv I | Konjunktiv II |

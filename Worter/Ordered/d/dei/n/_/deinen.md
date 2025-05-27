@@ -1,3 +1,3 @@
-Du bekommst [[dein]][[en]] Job!  
+Du bekommst [[dein]], [[en]] Job!
 
 [[Akkusativ possessiv Pronomen]]

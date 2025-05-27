@@ -50,7 +50,7 @@ Antonyme: [[betrüben]], [[trauern]], [[bekümmern]], [[niedergeschlagen sein]]
 
 ---
 
-Morpheme: [[freu]][[en]]
+Morpheme: [[freu]], [[en]]
 #Verb #Untrennbar
 
 ---

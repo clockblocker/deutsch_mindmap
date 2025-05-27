@@ -17,7 +17,7 @@ Antonyme: [[trocknen]], [[aufhören]], [[verstopfen]]
 
 ---
 
-Morpheme: [[trops]][[en]]
+Morpheme: [[trops]], [[en]]
 #Verb
 
 ---
@@ -55,7 +55,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[Tropf]][[en]]
+[[Tropf]], [[en]]
 
 ---
 

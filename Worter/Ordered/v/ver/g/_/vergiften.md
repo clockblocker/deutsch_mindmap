@@ -3,12 +3,13 @@
 haben [[vergiftet]]
 
 ---
-Du Idiot! Willst du mich [[vergiften]]?  
 
+Du Idiot! Willst du mich [[vergiften]]?
 
 ---
 
 Synonyme:
+
 - [[verunreinigen]], [[kontaminieren]], [[toxisch machen]]
 
 ---
@@ -22,14 +23,16 @@ Beispiele:
 - Ihr habt das Trinkwasser [[vergiftet]].
 
 ---
+
 **Übersetzung**: to poison
 
 ---
 
 Morphems of only infinitive:
-[[vergift]][[en]]
+[[vergift]], [[en]]
 
 ---
+
 Tags:
 #Verb
 

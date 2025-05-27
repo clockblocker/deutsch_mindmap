@@ -7,9 +7,11 @@ nicht [[nervenschwach]]
 ---
 
 Synonyme:
+
 - [[stressresistent]], [[belastbar]], [[ruhig]]
 
 ---
+
 Beispiele:
 
 - Ich sehe einen [[nervenstarken]] Hund.
@@ -61,14 +63,16 @@ Beispiele:
 - Die Spielzeuge der [[nervenstärksten]] Hunde sind kaputt.
 
 ---
+
 **Übersetzung**:
 resilient, stress-resistant
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[nerven]][[stark]]
+[[nerven]], [[stark]]

@@ -4,6 +4,8 @@
 
 ---
 
+_[[C1-Hoehen-T3-301-Text#^45|^]]_ Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stellen]] [[unbesetzt]] bleiben
+
 ANNA: Nadja, [[stell]] dir vor: Sam spielt mi Spielzeug-Autos!
 
 ---
@@ -18,7 +20,7 @@ ANNA: Nadja, [[stell]] dir vor: Sam spielt mi Spielzeug-Autos!
 [[bestellen]] - [[be]] = [[stellen]] / покупать
 [[gestalten]] - [[ge]] = [[stellen]] / формировать
 [[vorstellen]] - [[vor]] = [[stellen]] / introduce
-[[zufriedenstellen]] - [[zu]][[frieden]] = [[stellen]] / please
+[[zufriedenstellen]] - [[zu]], [[frieden]] = [[stellen]] / please
 [[erstellen]] - [[er]] = [[stellen]] / to create, to produce
 [[herstellen]] - [[her]] = [[stellen]] / to manufacture, to produce, to make
 [[fertigstellen]] - [[fertig]] = [[stellen]] / to complete, to finish
@@ -81,5 +83,5 @@ to place, to put, to set
 
 **Morphems of only infinitive:**
 
-- [[stell]][[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]], [[anstellen]], [[zufriedenstellen]], [[legen]], [[höherstellen]], [[erstellen]], [[Lehrstellensuche]], [[Schwachstellen]]
+- [[stell]], [[en]], [[bestellt]], [[hinstellen]], [[einstellen]], [[ausstellen]], [[zusammenstellen]], [[feststellen]], [[Stellung]], [[vorstellen]], [[Darstellung]], [[anstellen]], [[zufriedenstellen]], [[legen]], [[höherstellen]], [[erstellen]], [[Lehrstellensuche]], [[Schwachstellen]]
   , [[fertigstellen]], [[umstellen]], [[stellenweise]], [[Aufgabenstellung]], [[abstellen]], [[bereitstellen]], [[anbringen]], [[herausstellen]], [[beantragen]], [[gegenüberstehen]], [[gegenüberstellen]]

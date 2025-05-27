@@ -1,27 +1,32 @@
 [[hinterdrein]], [ˌhɪntɐˈdraɪ̯n]
 
 ---
-*Der Mohr voraus im Sonnenschein,*  
-*die Tintenbuben hinterdrein;*  
+
+_Der Mohr voraus im Sonnenschein,_  
+_die Tintenbuben hinterdrein;_
 
 ---
-Synonyme: 
+
+Synonyme:
 [[nachher]], [[danach]], [[später]], [[im Anschluss]], [[daraufhin]]
 
 ---
-Antonyme: 
+
+Antonyme:
 [[vorher]], [[zuvor]], [[davor]], [[früher]], [[voraus]]
 
-
 ---
-Übersetzung: 
+
+Übersetzung:
 afterwards, later, subsequently
 
 ---
+
 Morpheme:
-[[hinter]][[drein]]
+[[hinter]], [[drein]]
 
 ---
+
 #Adverb #hinterdrein
 
 ---

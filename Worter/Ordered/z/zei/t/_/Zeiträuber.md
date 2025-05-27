@@ -22,7 +22,7 @@ Antonyme:
 ---
 
 Morpheme:
-[[zeit]][[Räuber]]
+[[zeit]], [[Räuber]]
 
 ---
 

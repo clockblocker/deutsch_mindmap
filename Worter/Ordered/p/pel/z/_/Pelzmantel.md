@@ -8,16 +8,20 @@ Beispiele:
 - In der Stadt sieht man oft Frauen in [[Pelzmänteln]].
 
 ---
+
 Synonyme:
+
 - [[Fellmantel]], [[Pelzjacke]], [[Wintermantel]]
 
 ---
+
 **Übersetzung**: fur coat
 
 ---
 
 Morphems:
-[[Pelz]][[mantel]]
+[[Pelz]], [[mantel]]
 
 ---
+
 #Substantiv #Maskulin , [[11 08]]

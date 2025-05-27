@@ -13,7 +13,7 @@ to transfer, to send over
 
 ---
 
-[[Ü/über]][[mach]][[en]]
+[[Ü/über]], [[mach]], [[en]]
 
 ---
 

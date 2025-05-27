@@ -17,7 +17,7 @@ to predict, to forecast
 
 ---
 
-[[vor]][[her]][[sag]][[en]]
+[[vor]], [[her]], [[sag]], [[en]]
 
 ---
 

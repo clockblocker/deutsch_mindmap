@@ -37,7 +37,7 @@ to prepare, to get ready
 
 ---
 
-[[vor]][[bereit]][[en]]
+[[vor]], [[bereit]], [[en]]
 
 ---
 

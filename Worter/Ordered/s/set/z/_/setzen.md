@@ -31,7 +31,7 @@ Antonyme: [[entfernen]], [[heben]], [[nehmen]], [[wegnehmen]]
 
 ---
 
-Morpheme: [[setz]][[en]]
+Morpheme: [[setz]], [[en]]
 #Verb #Trennbar
 
 ---

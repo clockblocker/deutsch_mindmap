@@ -32,7 +32,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[er]][[geb]][[nis]]
+[[er]], [[geb]], [[nis]]
 
 ---
 

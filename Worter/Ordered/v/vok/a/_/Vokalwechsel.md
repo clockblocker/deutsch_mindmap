@@ -1,2 +1,2 @@
 смена корневой грасной
-[[Vokal]][[Wechsel]]
+[[Vokal]], [[Wechsel]]

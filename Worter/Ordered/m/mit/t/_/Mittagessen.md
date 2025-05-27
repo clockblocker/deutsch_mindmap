@@ -1,1 +1,1 @@
-[[Mittag]][[essen]]
+[[Mittag]], [[essen]]

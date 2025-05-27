@@ -17,7 +17,7 @@ while, moment, period of time
 
 ---
 
-[[Weil]][[e]]
+[[Weil]], [[e]]
 
 ---
 

@@ -9,9 +9,11 @@ nicht [[hellbraun]]
 ---
 
 Synonyme:
+
 - [[schokoladenbraun]], [[kastanienbraun]], [[mocha]]
 
 ---
+
 Beispiele:
 
 - Ich sehe einen [[dunkelbraunen]] Hund.
@@ -63,14 +65,16 @@ Beispiele:
 - Die Spielzeuge der [[dunkelbraunsten]] Hunde sind kaputt.
 
 ---
+
 **Übersetzung**:
 dark brown
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[dunkel]][[Braun]]
+[[dunkel]], [[Braun]]

@@ -8,15 +8,20 @@ Beispiele:
 - [[Spitznamen]] können sehr kreativ sein.
 
 ---
+
 Synonyme:
+
 - [[Beiname]], [[Kosename]], [[Übername]]
 
 ---
+
 **Übersetzung**: nickname
 
 ---
+
 Morphems:
-[[Spitz]][[Name]]
+[[Spitz]], [[Name]]
 
 ---
-#Substantiv #Maskulin 
+
+#Substantiv #Maskulin

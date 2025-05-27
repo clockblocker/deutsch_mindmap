@@ -1,1 +1,1 @@
-[[singen]][[erwachen]]
+[[singen]], [[erwachen]]

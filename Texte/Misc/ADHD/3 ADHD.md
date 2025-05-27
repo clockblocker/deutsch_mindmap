@@ -26,7 +26,7 @@
 
 [[3 ADHD.md#^10|^]] Als Kind im Alter von 8 bis 10 Jahren war ich oft ärgerlich oder verärgert. ^10
 
-[[3 ADHD.md#^11|^]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]][[Koordinationsfähigkeit]] und wurde immer zuerst als Mitspieler [[ausgesucht]]. ^11
+[[3 ADHD.md#^11|^]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]], [[Koordinationsfähigkeit]] und wurde immer zuerst als Mitspieler [[ausgesucht]]. ^11
 
 [[3 ADHD.md#^12|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich eine Tendenz zur [[Unreife]]. ^12
 
@@ -76,7 +76,7 @@
 
 [[3 ADHD.md#^10|^]] Als Kind im Alter von 8 bis 10 Jahren war ich oft ärgerlich oder verärgert. ^10
 
-[[3 ADHD.md#^11|^]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]][[Koordinationsfähigkeit]] und wurde immer zuerst als Mitspieler [[ausgesucht]]. ^11
+[[3 ADHD.md#^11|^]] Als Kind im Alter von 8 bis 10 Jahren [[verfügte]] ich über eine gute [[motorische]], [[Koordinationsfähigkeit]] und wurde immer zuerst als Mitspieler [[ausgesucht]]. ^11
 
 [[3 ADHD.md#^12|^]] Als Kind im Alter von 8 bis 10 Jahren hatte ich eine Tendenz zur [[Unreife]]. ^12
 

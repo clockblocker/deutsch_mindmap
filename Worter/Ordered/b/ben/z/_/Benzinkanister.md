@@ -2,27 +2,35 @@
 die [[Benzinkanister]]
 
 ---
-*99 Kriegsminister*  
-*Streichholz und Benzinkanister
+
+_99 Kriegsminister_  
+\*Streichholz und Benzinkanister
 
 ---
+
 Synonyme:
+
 - [[Kraftstoffbehälter]], [[Treibstoffbehälter]], [[Reservekanister]]
 
 ---
+
 Übersetzung: gas can, fuel container
 
 ---
+
 Morpheme:
-[[Benzin]][[Kanister]]
+[[Benzin]], [[Kanister]]
 
 ---
+
 Einzigartige mögliche Formen: [[Benzinkanister]], [[Benzinkanister]], [[Benzinkanistern]], [[Benzinkanisters]]
 
 ---
+
 #Substantiv #Maskulin
 
 This dictionary entry breaks down the word "Benzinkanister" into its component parts:
+
 - "Benzin" (fuel/gasoline)
 - "Kanister" (canister/container)
 

@@ -24,14 +24,18 @@ haben [[gesprüht]]
 - Sie [[sprühen]] die Felder mit Pestiziden.
 
 ---
+
 **Übersetzung**:
 to spray
 
 ---
-**Morphems of only infinitive:**  
-- [[Sprüh]][[en]]
+
+**Morphems of only infinitive:**
+
+- [[Sprüh]], [[en]]
 
 ---
+
 #Verb #Unregelmäßige
 
 ---
@@ -61,7 +65,9 @@ to spray
 - Sie [[sprühen]] Wasser auf die Pflanzen.
 
 ---
+
 Konjunktiv I:
+
 - Er sagt, ich [[sprühe]] Wasser auf die Pflanzen.
 - Sie meint, du [[sprühest]] Farbe auf die Wand.
 - Er behauptet, er [[sprühe]] Parfüm auf sich.
@@ -70,7 +76,9 @@ Konjunktiv I:
 - Sie sagen, sie [[sprühen]] die Felder mit Pestiziden.
 
 ---
+
 Konjunktiv II:
+
 - Wenn ich die richtige Flasche hätte, [[sprühete]] ich Wasser auf die Pflanzen.
 - Wenn du eine Dose hättest, [[sprühetest]] du Farbe auf die Wand.
 - Wenn er Zeit hätte, [[sprühete]] er Parfüm auf sich.

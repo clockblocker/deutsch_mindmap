@@ -3,19 +3,22 @@
 haben [[festgesessen]]
 
 ---
+
 Wenn ihr beiden hier [[festsitzt]], können Appa und ich euch mitnehmen! (Springt auf Appa)
 
 ---
+
 Synonyme: [[steckenbleiben]], [[hängenbleiben]], [[feststecken]], [[blockieren]], [[nicht weiterkommen]]
 Antonyme: [[weiterkommen]], [[befreien]], [[lösen]]
 
 ---
+
 Übersetzung: to be stuck, to be fixed in place
 
 ---
-Morpheme: [[fest]][[sitz]][[en]]
- #Verb  #Trennbar
- 
+
+Morpheme: [[fest]], [[sitz]], [[en]]
+#Verb #Trennbar
 
 | Person    | Präsens         | Präteritum      | Imperativ           | Konjunktiv I     | Konjunktiv II   |
 | --------- | --------------- | --------------- | ------------------- | ---------------- | --------------- |

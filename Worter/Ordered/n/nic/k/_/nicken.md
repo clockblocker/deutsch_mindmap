@@ -2,20 +2,24 @@
 haben [[genickt]]
 
 ---
-„Harter Tag?“, fragt ein Kollege. Tanja [[nickt]] nur. 
 
- „Du meinst, das ganze Dorf steckt unter einer Decke?“, fragt der erste Polizist nach. Der Kollege nickt. 
- 
+„Harter Tag?“, fragt ein Kollege. Tanja [[nickt]] nur.
+
+„Du meinst, das ganze Dorf steckt unter einer Decke?“, fragt der erste Polizist nach. Der Kollege nickt.
+
 ---
+
 Synonyme: [[zustimmen]], [[bejahen]], [[zunicken]], [[andeuten]], [[signalisieren]]
 Antonyme: [[verneinen]], [[ablehnen 1]], [[schütteln]]
 
 ---
+
 Übersetzung: to nod
 
 ---
-Morpheme: [[nick]][[en]]
- #Verb  #Untrennbar
+
+Morpheme: [[nick]], [[en]]
+#Verb #Untrennbar
 
 | Person    | Präsens    | Präteritum   | Imperativ      | Konjunktiv I | Konjunktiv II |
 | --------- | ---------- | ------------ | -------------- | ------------ | ------------- |

@@ -15,7 +15,7 @@ to run over, to drive over
 
 ---
 
-[[Ü/über]][[fahr]][[en]]
+[[Ü/über]], [[fahr]], [[en]]
 
 ---
 

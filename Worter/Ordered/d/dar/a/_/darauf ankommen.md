@@ -5,7 +5,8 @@
 sein [[darauf angekommen]]
 
 ---
-Mensch Anna, es [[darauf ankommen|kommt darauf an]], [[wie]] du schreibst – und nicht [[was]].  
+
+Mensch Anna, es [[darauf ankommen|kommt darauf an]], [[wie]] du schreibst – und nicht [[was]].
 
 ---
 
@@ -18,6 +19,7 @@ Mensch Anna, es [[darauf ankommen|kommt darauf an]], [[wie]] du schreibs
 **Beispiele:**
 
 🎯 [[darauf ankommen]]
+
 - Es [[kommt darauf an]], wie viel Zeit wir haben.
 - Es [[kam darauf an]], wer zuerst ankommt.
 - Es ist [[darauf angekommen]], dass wir uns an die Regeln halten.
@@ -32,6 +34,7 @@ Mensch Anna, es [[darauf ankommen|kommt darauf an]], [[wie]] du schreibs
 to depend on, to be important
 
 ---
+
 #Redewendung #Verb #Trennbar
 
 ---
@@ -54,4 +57,5 @@ to depend on, to be important
 ---
 
 **Morphems of only infinitive:**
-- [[darauf]][[ankommen]]
+
+- [[darauf]], [[ankommen]]

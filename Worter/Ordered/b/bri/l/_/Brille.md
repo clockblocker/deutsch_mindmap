@@ -9,16 +9,20 @@ Beispiele:
 - Die [[Brillen]] im Geschäft sind sehr modern.
 
 ---
+
 Synonyme:
+
 - [[Sehhilfe]], [[Augenglas]], [[Gestell]]
 
 ---
+
 **Übersetzung**: glasses, spectacles
 
 ---
 
 Morphems:
-[[Brill]][[e]]
+[[Brill]], [[e]]
 
 ---
+
 #Substantiv #Feminin

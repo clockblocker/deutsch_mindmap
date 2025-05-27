@@ -21,7 +21,7 @@ health insurance company, public health insurance
 
 ---
 
-[[Kranken]][[kasse]]
+[[Kranken]], [[kasse]]
 
 ---
 

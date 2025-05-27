@@ -16,7 +16,7 @@ haben [[überfallen]]
 
   ***
 
-  Morpheme: [[Ü/über]][[fall]][[en]]
+  Morpheme: [[Ü/über]], [[fall]], [[en]]
   #Verb #Trennbar
 
   ***

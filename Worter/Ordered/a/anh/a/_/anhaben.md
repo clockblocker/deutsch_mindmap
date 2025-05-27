@@ -18,7 +18,7 @@ Antonyme: [[ausziehen]], [[ablegen]], [[entkleiden]]
 
 ---
 
-Morpheme: [[an]][[hab]][[en]]
+Morpheme: [[an]], [[hab]], [[en]]
 #Verb #Trennbar
 
 ---

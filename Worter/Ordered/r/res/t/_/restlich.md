@@ -2,13 +2,14 @@
 [[restlicher]]
 [[am]] [[restlichsten]]
 
-Tot sank dieser zu Boden und die restliche Herde raste in panischem Schrecken davon. 
+Tot sank dieser zu Boden und die restliche Herde raste in panischem Schrecken davon.
 
 nicht [[gesamt]]
 
 ---
 
 Synonyme:
+
 - [[übrig]], [[verbleibend]], [[restierend]]
 
 ---
@@ -20,6 +21,7 @@ Beispiele:
 - Das [[restliche]] Essen wurde für später aufbewahrt.
 
 ---
+
 **Übersetzung**: remaining, rest
 
 ---
@@ -30,5 +32,5 @@ Tags:
 ---
 
 Morphems:
-[[rest]][[lich]]
+[[rest]], [[lich]]
 , [[sonstig]], [[Rest]]

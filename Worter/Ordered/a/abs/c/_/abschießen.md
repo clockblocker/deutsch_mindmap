@@ -2,13 +2,14 @@
 [[schoss ab]]
 haben [[abgeschossen]]
 
-
 ---
- als ein Jäger aus dem Busch heraus einen giftigen Pfeil auf den Elefanten abschoss
+
+als ein Jäger aus dem Busch heraus einen giftigen Pfeil auf den Elefanten abschoss
 
 ---
 
 Synonyme:
+
 - [[abfeuern]], [[loslassen]], [[verschießen]]
 
 ---
@@ -20,16 +21,18 @@ Beispiele:
 - Sie [[schoss ab]] und traf genau ins Ziel.
 
 ---
+
 **Übersetzung**: shot, fired (off)
 
 ---
 
 Morphems of only infinitive:
-[[ab]][[Schieß]][[en]]
+[[ab]], [[Schieß]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Trennbar
+#Verb #Trennbar
 
 ---
 

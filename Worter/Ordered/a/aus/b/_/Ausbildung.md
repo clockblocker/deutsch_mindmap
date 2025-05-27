@@ -2,25 +2,32 @@
 die [[Ausbildungen]]
 
 ---
-*[[C1-Hoehen-T3-301-Text#^20|^]]* Herr Osterholz warnt vor zu hohen [[Qualitätsstandard]]s bei der [[Ausbildung]]
+
+_[[C1-Hoehen-T3-301-Text#^20|^]]_ Herr Osterholz warnt vor zu hohen [[Qualitätsstandard]]s bei der [[Ausbildung]]
 
 [[Erwachsene]] müssen auch nach der [[Ausbildung]] immer weiter lernen.
 
 ---
+
 Synonyme:
+
 - [[Lehre]], [[Ausgestaltung]], [[Erziehung]], [[Schulung]], [[Training]], [[Klassenstufe]], [[Laufbahn]], [[Fortbildung]], [[MBA-Studium]], [[Entstehung]], [[Lehramtsstudium]], [[Praktikum]], [[Ausbildungsberuf]]
 
 ---
+
 Übersetzung: training, education, instruction
 
 ---
+
 Morpheme:
-[[aus]][[bild]][[ung]]
+[[aus]], [[bild]], [[ung]]
 
 ---
+
 Einzigartige mögliche Formen: [[Ausbildung]], [[Ausbildungen]]
 
 ---
+
 [[Gesellenprüfung]], [[Erzie­hung]], [[Weiterbildung]], [[Lehrstellensuche]], [[Studiengang]]
 
 #Feminin , [[Ausbildungsstelle]], [[Berufsausbildung]], [[Ausbildungsstätte]]

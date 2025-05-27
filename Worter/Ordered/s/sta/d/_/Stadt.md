@@ -27,4 +27,4 @@ A: die [[Stadt]], die [[Städte]]
 G: der [[Stadt]], der [[Städte]]
 D: der [[Stadt]], den [[Städten]]
 
-#Feminin , [[Bingen]]
+#Feminin , [[Bingen]], [[Ballungszentrum]]

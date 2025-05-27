@@ -1,15 +1,14 @@
 ---
-
 excalidraw-plugin: parsed
 tags: [excalidraw]
-
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 #### S-TIER (prime cuts: frequent, bsable, rhetorically powerful) ^ezkgPLcA
 
 - 💼 [[Digitalisierung der Arbeitswelt]] #Bildung/Arbeit ^s1EtZ64S
@@ -20,7 +19,7 @@ tags: [excalidraw]
 
 - 🌍 [[Integration & Migration]] #Gesellschaft ^cxaHgyfj
 
--  [[Gesellschaft & Zusammenleben]] #Gesellschaft ^o8ScbgR6
+- [[Gesellschaft & Zusammenleben]] #Gesellschaft ^o8ScbgR6
 
 #### A-TIER (dependable picks, some finesse required) ^kSeAKVly
 
@@ -59,7 +58,7 @@ Internet ^L4zDLo2y
 Fake News ^ojYu395l
 
 Integration
- ^7uyXmfdh
+^7uyXmfdh
 
 Netzkriminalität ^51zxOb23
 
@@ -89,7 +88,7 @@ das Land wechseln -
 
 [[7 Sollten Online-Sprachkurse die Präsenzkurse ersetzen?]] ^dFzM6fss
 
-[[Schwierigkeit]],  ^bclcWiOk
+[[Schwierigkeit]], ^bclcWiOk
 
 [[Vorteil]] ^NHQCfS4z
 
@@ -109,9 +108,9 @@ das Land wechseln -
 
 [[Nachteil]] ^lKKDQbu2
 
-[[Erleichterung]],  ^FB7UtgPQ
+[[Erleichterung]], ^FB7UtgPQ
 
-[[Unterstützung]],  ^LLRR3BJz
+[[Unterstützung]], ^LLRR3BJz
 
 [[Gelegenheit]] ^bbaemf2a
 
@@ -123,77 +122,77 @@ Förderung ^Aoc6Upzz
 
 Lebensstil ^4Zh3NjOE
 
-•        gesundheitsbewusst ^EvY1QTDh
+• gesundheitsbewusst ^EvY1QTDh
 
-•        bewegungsarm / bewegungsorientiert ^VkViHa5v
+• bewegungsarm / bewegungsorientiert ^VkViHa5v
 
-•        Ernährungsmuster ^wGX57m9d
+• Ernährungsmuster ^wGX57m9d
 
-•        Freizeitverhalten ^hijDOPcs
+• Freizeitverhalten ^hijDOPcs
 
-•        Selbstfürsorge ^iADkFEvn
+• Selbstfürsorge ^iADkFEvn
 
 Prävention ^fdCkTA2b
 
-•        vorbeugende Maßnahmen ^9v1nEMeP
+• vorbeugende Maßnahmen ^9v1nEMeP
 
-•        Gesundheitsförderung ^51U8U2yt
+• Gesundheitsförderung ^51U8U2yt
 
-•        Risikominimierung ^PKsd6iIz
+• Risikominimierung ^PKsd6iIz
 
-•        Aufklärungskampagnen ^tGItllmX
+• Aufklärungskampagnen ^tGItllmX
 
-•        Präventionsprogramme ^9SmPDjcG
+• Präventionsprogramme ^9SmPDjcG
 
 Psychische Belastung ^y7zFch4B
 
-•        Burnout / Überforderung ^PPkz75Ay
+• Burnout / Überforderung ^PPkz75Ay
 
-•        emotionale Erschöpfung ^Aj05QeD0
+• emotionale Erschöpfung ^Aj05QeD0
 
-•        ständiger Leistungsdruck ^HuJcZI3P
+• ständiger Leistungsdruck ^HuJcZI3P
 
-•        fehlende Regeneration ^zlHp94O0
+• fehlende Regeneration ^zlHp94O0
 
-•        mentale Resilienz ^YRdaixwG
+• mentale Resilienz ^YRdaixwG
 
 Gesellschaftliche Verantwortung ^iguO3XrI
 
-•        Fürsorgepflicht ^56g5CQPy
+• Fürsorgepflicht ^56g5CQPy
 
-•        soziale Nachhaltigkeit ^a4E7cDCU
+• soziale Nachhaltigkeit ^a4E7cDCU
 
-•        Gemeinwohlorientierung ^P7aj8rIc
+• Gemeinwohlorientierung ^P7aj8rIc
 
-•        gesundheitsgerechte Arbeitsgestaltung ^ETf46k3p
+• gesundheitsgerechte Arbeitsgestaltung ^ETf46k3p
 
-•        solidarisches Handeln ^tsKwzk8o
+• solidarisches Handeln ^tsKwzk8o
 
 Gesundhiet ^KJHcxbz5
 
-•        Rechtsstaatlichkeit – rule of law ^EeSOrBcZ
+• Rechtsstaatlichkeit – rule of law ^EeSOrBcZ
 
-•        Polarisierung – ideological division ^gE9DulPp
+• Polarisierung – ideological division ^gE9DulPp
 
-•        Demokratiemüdigkeit – fatigue/apathy toward democracy ^oCVhAD8d
+• Demokratiemüdigkeit – fatigue/apathy toward democracy ^oCVhAD8d
 
-•        Medienpluralismus – media diversity ^ey8XBQhF
+• Medienpluralismus – media diversity ^ey8XBQhF
 
-•        Wertevermittlung – values education ^4klYjm8y
+• Wertevermittlung – values education ^4klYjm8y
 
-•        Extremismusprävention – extremism prevention ^HaUF3937
+• Extremismusprävention – extremism prevention ^HaUF3937
 
 Politik ^QdtkXQQ5
 
 Wirtschaft ^sqI1k3Wb
 
-•        Marktdynamik ^wsmRMlV6
+• Marktdynamik ^wsmRMlV6
 
-•        Wettbewerbsfähigkeit ^aHEgWIXT
+• Wettbewerbsfähigkeit ^aHEgWIXT
 
-•        Investitionen in Zukunftsbranchen ^ZJnGA6Ya
+• Investitionen in Zukunftsbranchen ^ZJnGA6Ya
 
-•        Wirtschaftswachstum vs. Lebensqualität ^tq68uo2u
+• Wirtschaftswachstum vs. Lebensqualität ^tq68uo2u
 
 Gesundhiet ^hdTumigi
 
@@ -229,7 +228,7 @@ Erläutern Sie Vorteile für Arbeiten im Büro einer Firma. ^WGFpvhtT
 
 Nennen Sie Beispiele für Berufsgruppen, für die Home-Office nicht möglich ist. ^2BNLzDVy
 
-* Erklären Sie, welche Folgen ein zu hoher [[Arbeitsdruck]] haben kann. ^UpBB6hiq
+- Erklären Sie, welche Folgen ein zu hoher [[Arbeitsdruck]] haben kann. ^UpBB6hiq
 
 Erklären Sie, welche Folgen ein zu hoher Arbeitsdruck haben kann. ^sTCZmN8L
 
@@ -241,15 +240,15 @@ Nennen Sie Vorteile einer gelungenen Work Life Balance. ^72iAidEN
 
 [[Sucsess]] ^CKjnRoDK
 
-* Nennen Sie andere Möglichckeiten für einen [[ausgewogenen]] [[Lebensstil]]. ^iA6JJTEN
+- Nennen Sie andere Möglichckeiten für einen [[ausgewogenen]] [[Lebensstil]]. ^iA6JJTEN
 
 Nennen Sie andere Möglichckeiten für einen ausgewogenen Lebensstil. ^S1JciJ6B
 
-* Erklären Sie, welche Folgen das Internet als völlig rechtsfreier Raum haben könnte. ^tVJhtm3A
+- Erklären Sie, welche Folgen das Internet als völlig rechtsfreier Raum haben könnte. ^tVJhtm3A
 
-* Nennen Sie Beispiele, die einer rechtlichen Regulierung unterliegen sollten. ^hrpdtndM
+- Nennen Sie Beispiele, die einer rechtlichen Regulierung unterliegen sollten. ^hrpdtndM
 
-* Erläutern Sie, wie sich eine zu starke Regulierung auf die Meinungsfreiheit auswirken könnte. ^HO08sgQS
+- Erläutern Sie, wie sich eine zu starke Regulierung auf die Meinungsfreiheit auswirken könnte. ^HO08sgQS
 
 Netzkriminalität und Cybermobbing ^TKWUj5i0
 
@@ -271,9 +270,9 @@ Bedrohung ^dSzoJBHW
 
 schützen ^LSOj8UgC
 
-[[Behörden]] mit [[Publikumsverkehr]]  ^T2Ca0cza
+[[Behörden]] mit [[Publikumsverkehr]] ^T2Ca0cza
 
-* Erklären Sie, welche Kriterien Angestellte in Behörden mit Publikumsverkehr erfüllen sollten. ^i1Hsd1jw
+- Erklären Sie, welche Kriterien Angestellte in Behörden mit Publikumsverkehr erfüllen sollten. ^i1Hsd1jw
 
 Englisch als zweite Behördensprache. ^4JIUAhDg
 
@@ -281,19 +280,19 @@ Erläutern Sie, wie wichtig es für die Integration ist, die Landessprache zu be
 
 Nennen Sie Möglichkeiten, eine zweite Fremdsprache zu lernen. ^kLpQTOAV
 
-* Erklären Sie, welche Punkte für einen Arbeitsplatzwechsel ins Ausland sprechen. ^jBCLzwZa
+- Erklären Sie, welche Punkte für einen Arbeitsplatzwechsel ins Ausland sprechen. ^jBCLzwZa
 
-* Erklären Sie, welche Punkte für einen Arbeitsplatzwechsel ins Ausland sprechen. ^pX2E6Qu3
+- Erklären Sie, welche Punkte für einen Arbeitsplatzwechsel ins Ausland sprechen. ^pX2E6Qu3
 
-* Erklären Sie, welche Punkte für einen Arbeitsplatzwechsel ins Ausland sprechen. ^R8UDfVBW
+- Erklären Sie, welche Punkte für einen Arbeitsplatzwechsel ins Ausland sprechen. ^R8UDfVBW
 
-* Erläutern Sie, nach welchen Kriterien Sie das Zielland wählen würden. ^YZNnam3k
+- Erläutern Sie, nach welchen Kriterien Sie das Zielland wählen würden. ^YZNnam3k
 
-* Erläutern Sie, nach welchen Kriterien Sie das Zielland wählen würden. ^G0iJKfkr
+- Erläutern Sie, nach welchen Kriterien Sie das Zielland wählen würden. ^G0iJKfkr
 
-* Nennen Sie Gründe, die gegen das Auswandern sprechen könnten. ^t92laE6o
+- Nennen Sie Gründe, die gegen das Auswandern sprechen könnten. ^t92laE6o
 
-* Nennen Sie Gründe, die gegen das Auswandern sprechen könnten. ^j8oihAIK
+- Nennen Sie Gründe, die gegen das Auswandern sprechen könnten. ^j8oihAIK
 
 welche Alternativen es gibt, sich beruflich zu verändern. ^netlshfA
 
@@ -317,7 +316,7 @@ Gebrauch ^LLecqAdh
 
 Anwendung ^V3zvwSfz
 
-[[Gewinn]],  ^Zdatu0Am
+[[Gewinn]], ^Zdatu0Am
 
 [[Verlust]] ^Xne5tidg
 
@@ -331,9 +330,9 @@ Erläutern Sie anhand von Beispielen, welche Alternativen es zur KI gibt. ^6WXwx
 
 Diskutieren Sie, wann Online-Sprachkurse sinnvoll sein könnten. ^x5zKQiQD
 
-* Nennen Sie Gründe, die gegen Online-Sprachkurse und für Präsenzkurse sprechen. ^brt4MjuO
+- Nennen Sie Gründe, die gegen Online-Sprachkurse und für Präsenzkurse sprechen. ^brt4MjuO
 
-* Erläutern Sie, wie Sie sich ein sinnvolles Lernmodell vorstellen. ^5YfHvR53
+- Erläutern Sie, wie Sie sich ein sinnvolles Lernmodell vorstellen. ^5YfHvR53
 
 Erläutern Sie, wie Sie sich ein sinnvolles Lernmodell vorstellen. ^FwFVWVUv
 
@@ -353,7 +352,7 @@ Exist ^WvLJA9d5
 
 deployed ^tbCIZ2yA
 
-inzwischen 
+inzwischen
 mittlerweile ^uHAMGFx6
 
 - Argumentieren Sie anhand eines Beispiels, wie KI die Arbeitswelt verändert. ^5mypyIG6
@@ -409,7 +408,7 @@ Führen Sie ein Beispiel für einen Arbeitsplatz an, der dadurch verändert wurd
 
 - Beschreiben Sie, welche digitalen Fähigkeiten heute im Berufsleben erwartet werden. ^OAn4iJzU
 
- Digitale Kompetenzen – neue Grundvoraussetzung für den Beruf? ^NTyOT8Ft
+Digitale Kompetenzen – neue Grundvoraussetzung für den Beruf? ^NTyOT8Ft
 
 Automatisierung in der Industrie – Bedrohung für Arbeitsplätze? ^QfN3p9cF
 
@@ -776,7 +775,7 @@ Migration – Chance oder Herausforderung für die [[Gesellschaft]]? ^ONrFQbpe
 
 - Erläutern Sie, warum Menschen ihr Herkunftsland verlassen. ^jI9blRKF
 
-- Erläutern Sie, warum Menschen ihr Herkunftsland verlassen.   ^2ca1yatn
+- Erläutern Sie, warum Menschen ihr Herkunftsland verlassen. ^2ca1yatn
 
 - Nennen Sie ein Beispiel, wie Migration eine Gesellschaft bereichern kann. ^j5YWiE8Y
 
@@ -896,7 +895,7 @@ Dresden ^LmbTeFqt
 
 Berlin ^r4PdUexC
 
-10:30  ^JfzYUNB7
+10:30 ^JfzYUNB7
 
 Munchen ^vXRzyNpf
 
@@ -919,7 +918,6 @@ gestaltet ^wxHKH2RG
 Desingn ^EEd7oetV
 
 mangelnde ^Be4fcP3C
-
 
 Mangel ^xeIgaKPc
 
@@ -1033,7 +1031,7 @@ In der heutigen Gesellschaft wird intensiv darüber diskutiert, ^UF4aKX1u
 
 eine temporäre Krisenlösung ^RPFhtK1f
 
-was die                mit ^xLId2beb
+was die mit ^xLId2beb
 
 unternehmen sollten, um den Herausforderungen ^g7CD2voU
 
@@ -1043,7 +1041,7 @@ jM ^dWVZzMCk
 
 jS ^2elJ1PR6
 
-berücksichtigen sollte,   ^pcl3KHDw
+berücksichtigen sollte, ^pcl3KHDw
 
 welche Kriterien ^6Dr7usVR
 
@@ -1093,7 +1091,7 @@ jN ^S3OYtV14
 
 achten ^9y8OXBi1
 
-dass nicht nur  ^OpbRwT0x
+dass nicht nur ^OpbRwT0x
 
 sondern zusätzlich auch ^coSRh6IT
 
@@ -1110,61 +1108,61 @@ Als Beispiel wird oft angeführt, dass… ^GBZES2eX
 Diese Haltung beruht häufig auf der Annahme, dass… ^rFoAXQsx
 
 Meiner Ansicht nach greifen beide Perspektiven zu kurz, wenn sie isoliert betrachtet werden,
- ^qZjMSs9q
+^qZjMSs9q
 
 Diese Argumentation stützt sich häufig auf Beispiele wie… / auf die Sorge, dass… ^3nIYQ01E
 
 spielen eine wichtige Rolle bei der Umsetzung von ^lEBUVCdE
 
-aber auch  ^WZwma5By
+aber auch ^WZwma5By
 
-Abschließend lässt sich sagen,  ^J7ZfRooS
+Abschließend lässt sich sagen, ^J7ZfRooS
 
 darstelle, ^MfbqnbLH
 
-dass sich das Problem nur durch ein ausgewogenes Zusammenspiel von  angemessen adressieren lässt. ^VDFGwP9q
+dass sich das Problem nur durch ein ausgewogenes Zusammenspiel von angemessen adressieren lässt. ^VDFGwP9q
 
 jN ^10tAxCNJ
 
-- *Wer schon einmal* einen Brief von einer Behörde bekommen *hat, weiß, dass* ^MfWAzQ5g
+- _Wer schon einmal_ einen Brief von einer Behörde bekommen _hat, weiß, dass_ ^MfWAzQ5g
 
-- *Es stellt sich daher die Frage, ob es sinnvoll wäre,* ... *zu beherrschen.* ^h5CIR902
+- _Es stellt sich daher die Frage, ob es sinnvoll wäre,_ ... _zu beherrschen._ ^h5CIR902
 
-- *Sicherlich würde es für viele Menschen eine große Erleichterung sein, wenn*... ^IBB5OvD8
+- _Sicherlich würde es für viele Menschen eine große Erleichterung sein, wenn_... ^IBB5OvD8
 
-- *Allerdings würde das bedeuten, dass es für alle* `jN` *[[Voraussetzung]] wäre,* ... *zu beherrschen.* ^Kx5mfqjb
+- _Allerdings würde das bedeuten, dass es für alle_ `jN` _[[Voraussetzung]] wäre,_ ... _zu beherrschen._ ^Kx5mfqjb
 
-- *Meiner Meinung nach gibt es jedoch wichtigere Kriterien, die* `jD` *beherrschen sollten.* ^noa8dD7V
+- _Meiner Meinung nach gibt es jedoch wichtigere Kriterien, die_ `jD` _beherrschen sollten._ ^noa8dD7V
 
-- *Wenn diese Voraussetzungen erfüllt werden, dann lässt sich auch das* ...problem *lösen* + *, denn es sollte ja auch das Ziel* `jS`  *sein*  `jM` `zuInf` ^WgMjt0yx
+- _Wenn diese Voraussetzungen erfüllt werden, dann lässt sich auch das_ ...problem _lösen_ + _, denn es sollte ja auch das Ziel_ `jS` _sein_ `jM` `zuInf` ^WgMjt0yx
 
-- *Die Einführung von `jD` als `jD` könnte in dieser Hinsicht also ein (falsches | richtiges) Signal aussenden.* ^9kVMnPgd
+- _Die Einführung von `jD` als `jD` könnte in dieser Hinsicht also ein (falsches | richtiges) Signal aussenden._ ^9kVMnPgd
 
--  *+ Vielmehr sollte es kostenlose Möglichkeiten geben, bei denen* `jD` `inf` *können und auch* ... `inf` *werden.* ^0VpdV2OI
+- _+ Vielmehr sollte es kostenlose Möglichkeiten geben, bei denen_ `jD` `inf` _können und auch_ ... `inf` _werden._ ^0VpdV2OI
 
--  *bereits ab den unteren Klassenstufen* ^1klYfLgV
+- _bereits ab den unteren Klassenstufen_ ^1klYfLgV
 
-- *Selbstverständlich sind solche [[Äußerung]][[en]] sowohl in der realen als auch in der virtuellen Welt strafbar* ^ddUFN2JR
+- _Selbstverständlich sind solche [[Äußerung]], [[en]] sowohl in der realen als auch in der virtuellen Welt strafbar_ ^ddUFN2JR
 
-- *Wäre* `jD` *ein* `jD` *, wäre weder* `jD` *noch* `jD` *möglich.* ^tvwsIlVQ
+- _Wäre_ `jD` _ein_ `jD` _, wäre weder_ `jD` _noch_ `jD` _möglich._ ^tvwsIlVQ
 
-- *Daher halte ich es für sehr wichtig, dass Bereiche des öffentlichen Lebens* ... *werden* ^hcPhfP73
+- _Daher halte ich es für sehr wichtig, dass Bereiche des öffentlichen Lebens_ ... _werden_ ^hcPhfP73
 
-- *Dazu zählen neben* `jM` *auch* `jM` *, wie zum Beispiele* `jD` ^S6auhGMl
+- _Dazu zählen neben_ `jM` _auch_ `jM` _, wie zum Beispiele_ `jD` ^S6auhGMl
 
-- *Eine Regulierung* `jS` *halte ich dagegen für weniger dringend.* ^5rsUHnfO
+- _Eine Regulierung_ `jS` _halte ich dagegen für weniger dringend._ ^5rsUHnfO
 
-- *Außerdem wird das, was als* `jN` *angesehen wird, von Land zu Land anders beurteilt.* ^p5v6hMu8
+- _Außerdem wird das, was als_ `jN` _angesehen wird, von Land zu Land anders beurteilt._ ^p5v6hMu8
 
-- *Hier sollte immer die Meinungsfreiheit im Mittelpunkt stehen, denn* ^gdTqYav9
+- _Hier sollte immer die Meinungsfreiheit im Mittelpunkt stehen, denn_ ^gdTqYav9
 
-- *Grundsätzlich sollten* `in/ auf jM` *immer* `jN` *als richtungsgebende Linie vorausgesetzt werden, um* `jM` *von* `jM` *zu unterscheiden* ^fclsp755
+- _Grundsätzlich sollten_ `in/ auf jM` _immer_ `jN` _als richtungsgebende Linie vorausgesetzt werden, um_ `jM` _von_ `jM` _zu unterscheiden_ ^fclsp755
 
-- *Und zu* `den j-en` *gehört eben auch* `jD` ^SKwqv6ku
+- _Und zu_ `den j-en` _gehört eben auch_ `jD` ^SKwqv6ku
 
-- *Zuallererst liegt es jedoch an uns, dafür zu sorgen, dass es gar nicht erst zu* ^h1wg3z4s
+- _Zuallererst liegt es jedoch an uns, dafür zu sorgen, dass es gar nicht erst zu_ ^h1wg3z4s
 
-- *egal ob `agj` oder `agj`.* ^0MmBSw2U
+- _egal ob `agj` oder `agj`._ ^0MmBSw2U
 
 ###### Seiten ^qBMH5Y3t
 
@@ -1371,10 +1369,10 @@ Kindern + Elten zu Hause ^kxBxGz1H
 
 Fairness am Arbeitsplatz ^Os1bu5qE
 
-Digitale Kompetenzen – neue 
+Digitale Kompetenzen – neue
 Grundvoraussetzung für den Beruf? ^6bOUN4iC
 
-Ausbildung vs Studium  ^vxsIXQgy
+Ausbildung vs Studium ^vxsIXQgy
 
 KI ^69T4CRAl
 
@@ -1382,7 +1380,7 @@ Automatisierung in der Industrie ^TGP8o2Oi
 
 Smart Office ^A3YmblXa
 
-New Work – Was bleibt vom 
+New Work – Was bleibt vom
 klassischen Arbeitsplatz? ^wKFdLbT6
 
 Arbeitnehmerrechte ^KnamoHU0
@@ -1445,11 +1443,12 @@ KI ^Ba9ahG6S
 
 Wokr-life balcane ^hE8eZvzE
 
-Automatisirung  ^FO1whwmw
+Automatisirung ^FO1whwmw
 
 bedeutend ^bFigiqNy
 
 ## Element Links
+
 Aoc6Upzz: [[Hilfe]]
 
 xyZuSlHh: [[anhand]]
@@ -1531,10 +1530,13 @@ EyjlRJdS: [[selbständig]]
 3ZQfHOQW: [[Stressabbau]]
 
 ## Embedded Files
+
 2bf0f61b92c7b4453e0501cee008610f343aa544: [[Pasted Image 20250412112614_993.png]]
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBObR4aOiCEfQQOKGZuAG1wMFAwYogSbggAVTMARlwAFQBZAEkAa3wAQVJAuCMARwApACt45RTiyFhEcsDsKI5lYLGSzG5n
 
@@ -3418,4 +3420,5 @@ YwLKlUCAeUA1Qh6ZTcFJaW+UtjSQGwA8jCNRfaWy4Ss3BBfllQEcaOuALUQH5xcy2sugChOUEKmYkQgi
 
 LdqYewYFzTVTIRdAZAFii/mQZ3q3yRxoGPLcFsd+gSKjwIDgAE2wE2IDJNwAA3y3gQCAAA==
 ```
+
 %%

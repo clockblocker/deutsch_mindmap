@@ -32,7 +32,7 @@ Antonyme: [[reparieren]], [[wiederherstellen]], [[zusammenfügen]], [[fixieren]]
 
 ---
 
-Morpheme: [[brech]][[en]]
+Morpheme: [[brech]], [[en]]
 #Verb #Trennbar
 
 ---

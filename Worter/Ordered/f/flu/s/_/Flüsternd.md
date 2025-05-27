@@ -2,26 +2,32 @@
 nicht [[laut]], [[leise]]
 
 ---
-Shhh. ([[Flüsternd]]) Nicht so laut, sonst verscheuchst du ihn Katara 
+
+Shhh. ([[Flüsternd]]) Nicht so laut, sonst verscheuchst du ihn Katara
 
 ---
-Synonyme: 
+
+Synonyme:
 [[leise]], [[sanft]], [[still]], [[ruhig]], [[gedämpft]]
 Antonyme:
 [[laut]], [[schrill]], [[lärmend]], [[dröhnend]], [[gellend]]
 
 ---
-Übersetzung: 
+
+Übersetzung:
 whispering, in a whisper
 
 ---
+
 Morpheme:
-[[flüster]][[nd]]
+[[flüster]], [[nd]]
 
 ---
-#Adjektiv 
+
+#Adjektiv
 
 ---
+
 Einzigartige mögliche Formen:
 [[flüsternd]], [[flüsternde]], [[flüsterndes]], [[flüsterndem]], [[flüsternden]], [[flüsternder]]
 [[flüsternder]], [[flüsternderen]], [[flüsterndere]], [[flüsterndes]], [[flüsterndere]], [[flüsternderem]], [[flüsternderen]], [[flüsterndere]]

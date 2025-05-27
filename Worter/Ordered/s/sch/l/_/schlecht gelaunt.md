@@ -1,2 +1,1 @@
-
-, [[launisch]], [[gelaunt]], [[mürrisch]][[verdrießen]]
+, [[launisch]], [[gelaunt]], [[mürrisch]], [[verdrießen]]

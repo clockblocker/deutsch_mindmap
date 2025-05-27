@@ -27,7 +27,7 @@ Antonyme: [[vernachlässigen]], [[aufgeben]], [[ignorieren]]
 
 ---
 
-Morpheme: [[üb]][[en]]
+Morpheme: [[üb]], [[en]]
 #Verb #Untrennbar
 
 ---

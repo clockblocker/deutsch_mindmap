@@ -24,7 +24,7 @@ Antonyme: [[nehmen]], [[empfangen]], [[bekommen]], [[beanspruchen]]
 
 ---
 
-Morpheme: [[geb]][[en]]
+Morpheme: [[geb]], [[en]]
 #Verb #Untrennbar
 
 ---

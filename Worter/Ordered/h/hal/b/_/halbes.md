@@ -2,30 +2,35 @@
 nicht [[ganzes]]
 
 ---
+
 _Er wog vielleicht ein [[halbes]] Lot –_  
 _und war am fünften Tage tot._
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[halb]], [[teilweise]], [[partiell]], [[unvollständig]], [[unvollendet]]
-Antonyme:
+  Antonyme:
 - [[ganz]], [[vollständig]], [[komplett]], [[uneingeschränkt]]
 
 ---
-**Übersetzung**: 
+
+**Übersetzung**:
 half, partial
 
 ---
+
 #Adjektiv [[halbes]]
 
 ---
+
 Morpheme:
-[[halb]][[es]]
+[[halb]], [[es]]
 
 ---
 
-
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[halbes]], [[halber]], [[halbe]], [[halbes]], [[halben]], [[halbem]], [[halber]], [[halben]]
 [[halberer]], [[halbere]], [[halberes]], [[halberen]], [[halberen]], [[halberer]], [[halberen]]
 [[halbsten]], [[halbster]], [[halbste]], [[halbstes]], [[halbsten]], [[halbstem]], [[halbster]], [[halbsten]]

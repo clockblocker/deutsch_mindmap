@@ -4,9 +4,7 @@ nicht [[bescheiden]]
 ---
 
 - [[Überheblich]], überlegen
--
-
----
+- ***
 
 Synonyme: [[arrogant]], [[hochmütig]], [[anmaßend]], [[eingebildet]], [[selbstgefällig]]
 Antonyme: [[bescheiden]], [[demütig]], [[zurückhaltend]], [[schüchtern]], [[unaufdringlich]]
@@ -23,7 +21,7 @@ arrogant, conceited, haughty
 ---
 
 Morpheme:
-[[Ü/über]][[heblich]]
+[[Ü/über]], [[heblich]]
 
 ---
 

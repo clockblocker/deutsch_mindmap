@@ -8,15 +8,20 @@ Beispiele:
 - Die [[Brecher]] in der Industrieanlage arbeiten rund um die Uhr.
 
 ---
+
 Synonyme:
+
 - [[Zerkleinerer]], [[Zertrümmerer]], [[Schredder]]
 
 ---
+
 **Übersetzung**: breaker, crusher
 
 ---
+
 Morphems:
-[[brechen|Brech]][[er]]
+[[brechen|Brech]], [[er]]
 
 ---
+
 #Substantiv #Maskulin , [[Einbrecher]]

@@ -4,7 +4,7 @@ haben [[überlegt]]
 
 ---
 
-Die Katze [[Ü/über]][[legte]] noch, wie sie das [[anstellen]] sollte,
+Die Katze [[Ü/über]], [[legte]] noch, wie sie das [[anstellen]] sollte,
 Überheblich, überlegen
 
 _[[C1-Hoehen-T2-301-Text#^16|^]]_ Dies [[aufzubrechen]] hätte [[weitreichend]]e Folgen und will sehr [[wohl]] [[überlegt]] sein
@@ -26,7 +26,7 @@ Antonyme: [[handeln]], [[spontan sein]], [[ohne Nachdenken]]
 
 ---
 
-Morpheme: [[Ü/über]][[leg]][[en]]
+Morpheme: [[Ü/über]], [[leg]], [[en]]
 #Verb #Untrennbar
 
 | Person    | Präsens       | Präteritum      | Imperativ         | Konjunktiv I   | Konjunktiv II   |

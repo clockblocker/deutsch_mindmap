@@ -4,22 +4,22 @@
 nicht [[gleich]], nicht [[einheitlich]]
 
 ---
+
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 
-*[[C1-Hoehen-T4-100-Text#^12|^]]* [[Verschiedene]] Studien über den [[Einfluss]] von Online-[[Bewertung]]en auf unser [[Kaufverhalten]] haben gezeigt, dass mehr als zwei Drittel aller [[Kaufentscheidung]]en sich von [[abgegebenen]] [[Bewertung]]en [[beeinflussen]] [[lassen]]
+_[[C1-Hoehen-T4-100-Text#^12|^]]_ [[Verschiedene]] Studien über den [[Einfluss]] von Online-[[Bewertung]]en auf unser [[Kaufverhalten]] haben gezeigt, dass mehr als zwei Drittel aller [[Kaufentscheidung]]en sich von [[abgegebenen]] [[Bewertung]]en [[beeinflussen]] [[lassen]]
 
-Politikerinnen und Politiker aus [[verschiedenen]] Ländern [[bestreiten]], sie würden die [[Wahrheit]] [[vertuschen]].  
+Politikerinnen und Politiker aus [[verschiedenen]] Ländern [[bestreiten]], sie würden die [[Wahrheit]] [[vertuschen]].
 
-*[[C1-Hoehen-T2-200-Text#^12|^]]* Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was sich `in` der [[Praxis]] als sehr schwierig [[gestaltet]], sondern auf die [[verschiedenen]] Arten der Intelligenz.
+_[[C1-Hoehen-T2-200-Text#^12|^]]_ Wobei es uns nicht auf eine Definition von Intelligenz [[ankommt]], was sich `in` der [[Praxis]] als sehr schwierig [[gestaltet]], sondern auf die [[verschiedenen]] Arten der Intelligenz.
 
-*[[C1-Hoehen-T2-200-Text#^3|^]]* 9 Frau Avar hat [[herausgefunden]], dass eine hohe Intelligenz [[verschiedene]] Arten von Intelligenz [[voraussetzt]]
+_[[C1-Hoehen-T2-200-Text#^3|^]]_ 9 Frau Avar hat [[herausgefunden]], dass eine hohe Intelligenz [[verschiedene]] Arten von Intelligenz [[voraussetzt]]
 
-*[[C1-Lesen-T4-102-Text#^21|^]]* Allerdings steigt dadurch auch der [[Kommunikationsaufwand]], da sich ja die [[verschiedenen]] Unternehmen gut [[untereinander]] [[abstimmen]] müssen.
+_[[C1-Lesen-T4-102-Text#^21|^]]_ Allerdings steigt dadurch auch der [[Kommunikationsaufwand]], da sich ja die [[verschiedenen]] Unternehmen gut [[untereinander]] [[abstimmen]] müssen.
 
-*[[C1-Lesen-T2-100-Text#^6|^]]* Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) [[bezeichnen]] , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird
+_[[C1-Lesen-T2-100-Text#^6|^]]_ Die [[verschiedenen]] [[Sprechweisen]] der Jugendlichen lassen sich deshalb linguistisch gesehen nicht als Sprache(n) [[bezeichnen]] , weil unter Sprache ein [[Zeichenefüge]] mit eigener Grammatik, differenziertem Wortschatz und normativer [[Gültigkeit]] verstanden wird
 
-*[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
-
+_[[Golfstorm#^11|^]]_ Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt. ^11
 
 Мы говорим о разных вещах. Wir sprechen über [[verschiedene]] Sachen.
 
@@ -31,30 +31,33 @@ Innerhalb Deutschlands gibt es [[verschiedene]] Regionen.
 
 Es gibt [[verschiedene]] [[Arten]] von Tieren.
 
-... wie zwei ganz [[verschiedene]] Leute!  
+... wie zwei ganz [[verschiedene]] Leute!
 
 30. Was ist kein [[Merkmal]] unserer Demokratie? (80%)
-	- [ ] [[verschiedene]] Parteien
+    - [ ] [[verschiedene]] Parteien
 
 ---
+
 Synonyme: [[unterschiedlich]], [[diversen]], [[diverse]], [[verschiedenartig]], [[mannigfaltig]], [[vielfältig]]
 Antonyme: [[einheitlich]], [[gleich]], [[identisch]], [[ähnlich]], [[übereinstimmend]]
 
 ---
+
 **Übersetzung**:
 various, different, diverse
 
 ---
+
 #Adjektiv [[verschiedene]]
 
 ---
+
 Morpheme:
-[[ver]][[schied]][[en]]
+[[ver]], [[schied]], [[en]]
 
 ---
 
-
-Einzigartige mögliche Formen: 
+Einzigartige mögliche Formen:
 [[verschiedene]], [[verschiedener]], [[verschiedenes]], [[verschiedenen]], [[verschiedenem]]
 [[verschiedenere]], [[verschiedenerer]], [[verschiedeneres]], [[verschiedeneren]], [[verschiedenerem]]
 [[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]], [[mehrere]], [[Texte/Misc/Anki]], [[am besten]], [[zahlreich]], [[jenig]]

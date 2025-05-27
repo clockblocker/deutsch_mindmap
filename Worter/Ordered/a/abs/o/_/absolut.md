@@ -6,17 +6,19 @@
 nicht [[relativ]]
 
 ---
-Ich bin 19 und ein [[absoluter]] Tierfan.  
 
-*[[C1-Hoehen-T1-203-Text#^8|^]]* Früher bedeutete eine [[Schwangerschaft]] im [[Leistungssport]] das [[absolute]] aus
+Ich bin 19 und ein [[absoluter]] Tierfan.
 
+_[[C1-Hoehen-T1-203-Text#^8|^]]_ Früher bedeutete eine [[Schwangerschaft]] im [[Leistungssport]] das [[absolute]] aus
 
 ---
 
 Synonyme:
+
 - [[vollkommen]], [[unbedingt]], [[total]]
 
 ---
+
 Beispiele:
 
 - Er ist ein [[absoluter]] Experte auf seinem Gebiet.
@@ -37,16 +39,18 @@ Beispiele:
 - Das ist der [[absoluteste]] Wahnsinn.
 
 ---
+
 **Übersetzung**:
 absolute
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
-[[absolut]][[er]]
+[[absolut]], [[er]]
 
 [[überhaupt]], [[völlig]], [[durchaus]], [[bedingungslos]]

@@ -1,7 +1,6 @@
-[[wirken|Wirk]][[lich]]
+[[wirken|Wirk]], [[lich]]
 
 --> 🧩 [[Grad-Wahrheit]] <--
-
 
 ---
 
@@ -10,7 +9,7 @@ Verbraucher sollen erkennen, ob [[Rabattaktion]]en [[wirklich]]e [[Preisnachläs
 Er geht in die Bücherei und wohnt in einem Museum! [[wirklich]]! Hihi!
 Das geht [[wirklich]] nicht.
 NIC: Hey Sam, du bist ein [[echter]] Freund … weißt du Geld ist [[wirklich]] nicht alles 
-SAM: Ja [[wirklich]], Anna? Und warum?  
+SAM: Ja [[wirklich]], Anna? Und warum?
 
 ---
 
@@ -20,8 +19,8 @@ SAM: Ja [[wirklich]], Anna? Und warum?
 
 #Adjektiv
 
-
 [[wirklich]] Synonyms:
+
 - [[tatsächlich]]
 - [[echt]]
 - [[wahr]]

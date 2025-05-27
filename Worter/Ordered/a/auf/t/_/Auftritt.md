@@ -21,7 +21,7 @@ appearance, performance, entrance
 
 ---
 
-[[auf]][[tritt]]
+[[auf]], [[tritt]]
 
 ---
 

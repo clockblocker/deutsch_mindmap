@@ -25,7 +25,7 @@ Aang ist der Avatar. Er ist die einzige Chance für diese Welt. Ihr habt ihn aus
 
 Synonyme: [[anschließen]], [[vereinen]], [[verknüpfen]], [[zusammenfügen]], [[verbinden]]
 Antonyme: [[trennen]], [[lösen]], [[separieren]], [[abkoppeln]]
-[[getrennt]][[vereint]], [[verbinden]], [[dankbar]], [[vernetzt]], [[zusammen]], [[trennen]][[teilen]], [[anschließen]], [[trauen]], [[gesellen]], [[reißen]], [[schneiden]], [[auflösen]], [[telefonieren]], [[lösen]], [[ausschneiden]], [[binden]], [[zusammenschrauben]], [[knüpfen]], [[Zusammenschluss]], [[Beziehung]], [[verlinkungen]], [[umsteigen]], [[befreunden]], [[gliedern]], [[durchtrennen]], [[spalten]], [[vermitteln]], [[paaren]], [[münden]], [[abgrenzen]], [[zusammensetzen]]
+[[getrennt]], [[vereint]], [[verbinden]], [[dankbar]], [[vernetzt]], [[zusammen]], [[trennen]], [[teilen]], [[anschließen]], [[trauen]], [[gesellen]], [[reißen]], [[schneiden]], [[auflösen]], [[telefonieren]], [[lösen]], [[ausschneiden]], [[binden]], [[zusammenschrauben]], [[knüpfen]], [[Zusammenschluss]], [[Beziehung]], [[verlinkungen]], [[umsteigen]], [[befreunden]], [[gliedern]], [[durchtrennen]], [[spalten]], [[vermitteln]], [[paaren]], [[münden]], [[abgrenzen]], [[zusammensetzen]]
 
 ---
 
@@ -33,7 +33,7 @@ to connect, to link, to join
 
 ---
 
-[[ver]][[bind]][[en]]
+[[ver]], [[bind]], [[en]]
 
 ---
 

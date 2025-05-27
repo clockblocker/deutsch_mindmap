@@ -2,26 +2,34 @@
 die [[Rückseiten]]
 
 ---
+
 Sag du es uns! Wie bist du in das Eis gekommen und warum bist du gar nicht erfroren? (Tippt Aang mit dem der [[Rückseite]] des Speers an)
 
 ---
+
 Synonyme:
+
 - [[Hinterseite]], [[Kehrseite]], [[Gegenseite]]
 
 ---
+
 Übersetzung: back side, reverse side
 
 ---
+
 Morpheme:
-[[Rück]][[Seite]]
+[[Rück]], [[Seite]]
 
 ---
+
 Einzigartige mögliche Formen: [[Rückseite]], [[Rückseiten]], [[Rückseites]], [[Rückseite]]
 
 ---
+
 #Substantiv #Neuter
 
 The word is composed of two parts:
+
 - [[Rück]]: back, rear
 - [[Seite]]: side
 

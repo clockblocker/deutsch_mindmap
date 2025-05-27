@@ -18,7 +18,7 @@ Antonyme: [[widerstehen]], [[verweigern]], [[ablehnen 1]], [[sich enthalten]]
 
 ---
 
-Morpheme: [[frön]][[en]]
+Morpheme: [[frön]], [[en]]
 #Verb #Untrennbar
 
 ---

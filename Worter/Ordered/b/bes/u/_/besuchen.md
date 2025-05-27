@@ -5,6 +5,7 @@ haben [[besucht]]
 ---
 
 Synonyme:
+
 - [[aufsuchen]], [[vorbeikommen]], [[begehen]]
 
 ---
@@ -19,15 +20,17 @@ Beispiele:
 - Sie [[besuchen]] das Krankenhaus regelmäßig.
 
 ---
+
 **Übersetzung**: to visit
 
 ---
 
 Morphems of only infinitive:
-[[Besuch]][[en]]
+[[Besuch]], [[en]]
 
 ---
-Tags: 
+
+Tags:
 #Verb
 
 ---

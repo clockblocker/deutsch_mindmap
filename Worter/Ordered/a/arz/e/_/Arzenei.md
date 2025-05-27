@@ -2,21 +2,25 @@
 die [[Arzeneien]]
 
 Beispiele:
-- *und der Herr Doktor sitzt [[dabei]]*  
-  *und gibt ihm bittre [[Arzenei]].*
+
+- _und der Herr Doktor sitzt [[dabei]]_  
+  _und gibt ihm bittre [[Arzenei]]._
 
 ---
+
 Synonyme:
+
 - [[Medizin]], [[Heilmittel]], [[Medikament]]
 
 ---
+
 **Übersetzung**: medicine, remedy
 
 ---
 
 Morphems:
-[[Arz]][[en]][[ei]]
+[[Arz]], [[en]], [[ei]]
 
 ---
-#Substantiv #Feminin
 
+#Substantiv #Feminin

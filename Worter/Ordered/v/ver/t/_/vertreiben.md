@@ -3,11 +3,13 @@
 haben [[vertrieben]]
 
 ---
- Als der Leopard das Fleisch des Hirsches fraß, erschien ein Löwe, der [[vertrieb]] den Leoparden mit nur einem Prankenhieb
+
+Als der Leopard das Fleisch des Hirsches fraß, erschien ein Löwe, der [[vertrieb]] den Leoparden mit nur einem Prankenhieb
 
 ---
 
 Synonyme:
+
 - [[verjagen]], [[entfernen]], [[wegtreiben]]
 
 ---
@@ -19,16 +21,18 @@ Beispiele:
 - Der Hausmeister hat die Unruhestifter [[vertrieben]].
 
 ---
+
 **Übersetzung**: drove away, expelled, dispersed
 
 ---
 
 Morphems of only infinitive:
-[[ver]][[treib]][[en]]
+[[ver]], [[treib]], [[en]]
 
 ---
+
 Tags:
-#Verb  #Unregelmäßig
+#Verb #Unregelmäßig
 
 ---
 

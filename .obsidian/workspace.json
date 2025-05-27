@@ -6,7 +6,6 @@
       {
         "id": "369315b4d120c58d",
         "type": "tabs",
-        "dimension": 67.92763157894737,
         "children": [
           {
             "id": "2f69dfb58deb6ac3",
@@ -23,70 +22,49 @@
             }
           },
           {
-            "id": "6abb85c106b6a79b",
+            "id": "5284230907c79f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Ordered/b/bez/a/_/Bezahlung.md",
+                "file": "Worter/Ordered/w/wei/t/_/weiterhin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bezahlung"
+              "title": "weiterhin"
             }
           },
           {
-            "id": "54090042fd6567a5",
+            "id": "7cbca0828e1f6f1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Ordered/a/arb/e/_/Arbeitszeit.md",
+                "file": "Worter/Qualitätsstandard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arbeitszeit"
+              "title": "Qualitätsstandard"
             }
           },
           {
-            "id": "0076c30f2e93cbd1",
+            "id": "ec273d96d26ac8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Ordered/a/arb/e/_/Arbeitszeit.md",
+                "file": "Worter/Ordered/b/bei/b/_/beibehalten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arbeitszeit"
+              "title": "beibehalten"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "fa5623b78935d76b",
-        "type": "tabs",
-        "dimension": 32.07236842105263,
-        "children": [
-          {
-            "id": "ed1d0bda2aa9245a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-3/C1-Hoehen-T3-301/C1-Hoehen-T3-301-Loesung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Hoehen-T3-301-Loesung"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.50271224975586
+    "width": 320.50271224975586,
+    "collapsed": true
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -237,34 +216,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0076c30f2e93cbd1",
+  "active": "ec273d96d26ac8af",
   "lastOpenFiles": [
-    "Worter/Ordered/w/wor/t/WorterZzeit.md",
-    "Worter/Ordered/a/arb/e/arbeitsfrei.md",
-    "Worter/Ordered/a/arb/e/Arbeitsstunden.md",
-    "Worter/Ordered/b/bes/c/Beschäftigungszeit.md",
-    "Worter/Ordered/d/die/n/Dienstzeit.md",
-    "Worter/Ordered/b/bez/a/_/Bezahlung.md",
+    "Worter/Ordered/b/bei/b/beibehaltendstem.md",
+    "Worter/Ordered/b/bei/b/beibehaltendsten.md",
+    "Worter/Ordered/b/bei/b/beibehaltendste.md",
+    "Worter/Ordered/b/bei/b/beibehaltendstes.md",
+    "Worter/Ordered/b/bei/b/beibehaltendster.md",
+    "Worter/Ordered/b/bei/b/beibehaltenderem.md",
+    "Worter/Ordered/b/bei/b/beibehaltenderen.md",
+    "Worter/Ordered/b/bei/b/beibehaltendere.md",
+    "Worter/Ordered/b/bei/b/beibehaltenderes.md",
+    "Worter/Ordered/b/bei/b/beibehaltenderer.md",
+    "Worter/Ordered/b/bei/b/beibehaltendem.md",
+    "Worter/Ordered/b/bei/b/beibehaltenden.md",
+    "Worter/Ordered/b/bei/b/beibehaltende.md",
+    "Worter/Ordered/b/bei/b/beibehaltendes.md",
+    "Worter/Ordered/b/bei/b/beibehaltendst.md",
+    "Worter/Ordered/b/bei/b/beibehaltender.md",
+    "Worter/Ordered/b/bei/g/beigehalten.md",
+    "Worter/Ordered/b/bei/b/Beibehalt.md",
+    "Worter/Qualitätsstandard.md",
+    "Worter/Ordered/w/wei/t/_/weiterhin.md",
     "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-3/C1-Hoehen-T3-301/C1-Hoehen-T3-301-Text.md",
-    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-3/C1-Hoehen-T3-301/C1-Hoehen-T3-301-Loesung.md",
-    "Worter/Ordered/z/zwi/n/_/zwingend.md",
-    "Worter/Pflegenotstand.md",
-    "C1 Hoeren/C1-Hoehen-T2/Ubungen/C1-Hoehen-T2-3/C1-Hoehen-T2-301/C1-Hoehen-T2-301-Loesung.md",
-    "Worter/Ordered/e/ein/r/_/einreisen.md",
-    "Worter/Ordered/z/zuw/a/_/Zuwanderung.md",
-    "Worter/Ordered/a/aus/r/_/ausreichend.md",
-    "Worter/Ordered/z/zwi/n/_/zwingen.md",
-    "Worter/Ordered/b/bew/o/_/beworben.md",
-    "Worter/Ordered/b/bew/e/_/bewerben.md",
-    "Worter/Ordered/b/bew/e/_/Bewerb.md",
-    "Worter/Ordered/w/wet/t/_/Wettbewerb.md",
-    "Worter/Ordered/g/gez/i/_/gezielte.md",
-    "Worter/Ordered/z/zie/l/_/zielen.md",
-    "Worter/Ordered/b/ber/u/_/Berufsausbildung.md",
-    "Worter/Ordered/e/ebe/n/_/ebenso.md",
-    "Worter/Ordered/g/gef/o/_/gefördert.md",
-    "Worter/Ordered/f/for/d/_/fördern.md",
-    "Worter/Ordered/m/mis/c/_/Mischung.md",
+    "Worter/Ordered/v/vor/d/_/vorderen.md",
+    "Worter/Rängen.md",
+    "Worter/Ordered/r/ran/g/_/Rang.md",
+    "Worter/Ordered/r/ran/g/Ranges.md",
+    "Worter/Ordered/r/ran/g/Ranghöher.md",
+    "Worter/Ordered/a/agg/l",
     "Worter/Ordered/d/due/t",
     "Worter/Ordered/d/dua/l",
     "Worter/Ordered/d/dua",
@@ -274,7 +254,6 @@
     "Worter/Ordered/u/unq",
     "Worter/Ordered/s/sah/z",
     "Worter/Ordered/a/all/h",
-    "Worter/Ordered/a/alt/w",
     "Anhänge/Pasted image 20250526131443.png"
   ]
 }

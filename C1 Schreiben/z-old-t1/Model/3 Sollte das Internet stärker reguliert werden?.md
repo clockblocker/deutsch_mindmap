@@ -52,7 +52,7 @@ _[[3 Sollte das Internet stärker reguliert werden?#^6|^]]_ _Wir müssen unsere 
 
 ---
 
-- _Selbstverständlich sind solche [[Äußerung]][[en]] sowohl in der realen als auch in der virtuellen Welt strafbar_
+- _Selbstverständlich sind solche [[Äußerung]], [[en]] sowohl in der realen als auch in der virtuellen Welt strafbar_
 - _Wäre_ `jD` _ein_ `jD` _, wäre weder_ `jD` _noch_ `jD` _möglich._
 - _Daher halte ich es für sehr wichtig, dass Bereiche des öffentlichen Lebens_ ... _werden_
 - _Dazu zählen neben_ `jM` _auch_ `jM` _, wie zum Beispiele_ `jD`

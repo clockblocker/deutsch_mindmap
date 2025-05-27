@@ -3,22 +3,23 @@
 haben [[gestritten]]
 
 ---
-Jetzt müssen wir [[streiten]] 
 
-*[[C1-Hoehen-T2-200-Text#^26|^]]* Aber darüber [[streitet]] ja die Wissenschaft schon seit der Antike: Welchen [[Stellenwert]] [[genießt]] das [[angeborene]] Talent und welche Rolle spielt die [[Umgebung]], in die das Kind [[hineingeboren]] wird? ^26
+Jetzt müssen wir [[streiten]]
 
+_[[C1-Hoehen-T2-200-Text#^26|^]]_ Aber darüber [[streitet]] ja die Wissenschaft schon seit der Antike: Welchen [[Stellenwert]] [[genießt]] das [[angeborene]] Talent und welche Rolle spielt die [[Umgebung]], in die das Kind [[hineingeboren]] wird? ^26
 
-b) Die Kinder [[streiten]] sich oft [[um]] Kleinigkeiten 
+b) Die Kinder [[streiten]] sich oft [[um]] Kleinigkeiten
 
-Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird. 
+Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird.
 
 ---
-[[um]] + [[streiten]] = [[umstreiten]] // to dispute
 
+[[um]] + [[streiten]] = [[umstreiten]] // to dispute
 
 ---
 
 Synonyme:
+
 - [[kämpfen]], [[diskutieren]], [[sich zanken]]
 
 ---
@@ -32,14 +33,16 @@ Beispiele:
 - Sie [[stritten]] heftig über das Thema.
 
 ---
+
 **Übersetzung**: to argue, to quarrel
 
 ---
 
 Morphems of only infinitive:
-[[Streit]][[en]]
+[[Streit]], [[en]]
 
 ---
+
 Tags:
 #Verb #Unregelmäßige
 

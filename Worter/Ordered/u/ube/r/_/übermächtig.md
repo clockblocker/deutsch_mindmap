@@ -24,7 +24,7 @@ mighty, powerful, dominant, overwhelming
 ---
 
 Morpheme:
-[[Ü/über]][[mächtig]]
+[[Ü/über]], [[mächtig]]
 
 ---
 

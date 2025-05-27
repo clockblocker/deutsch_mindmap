@@ -1,7 +1,8 @@
-die [[ver]][[mieten|miete]][[rin]]
+die [[ver]], [[mieten|miete]], [[rin]]
 die [[Vermieterinnen]]
 
 ---
+
 Beispiele:
 
 - Die [[Vermieterin]] ist sehr nett.
@@ -18,6 +19,6 @@ Beispiele:
 
 ---
 
-Tags: 
+Tags:
 #Substantiv
 #Feminin, [[Mieter]]

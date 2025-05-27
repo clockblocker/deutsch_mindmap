@@ -2,22 +2,28 @@
 die [[Wetterleuchten]]
 
 ---
-Oder es war nur ein gewöhnliches [[Wetterleuchten]]. Das hatten wir doch alles schon des Öfteren, Prinz Zuko. 
 
+Oder es war nur ein gewöhnliches [[Wetterleuchten]]. Das hatten wir doch alles schon des Öfteren, Prinz Zuko.
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Blitz]], [[Gewitter]], [[Blitzen]]
 
 ---
+
 Übersetzung: sheet lightning, summer lightning
 
 ---
+
 Morpheme:
-[[Wetter]][[leuchten]]
+[[Wetter]], [[leuchten]]
 
 ---
+
 Einzigartige mögliche Formen: [[Wetterleuchten]], [[Wetterleuchten]], [[Wetterleuchten]], [[Wetterleuchten]]
 
 ---
+
 #Substantiv #Neuter, [[s1 e1]]

@@ -1,26 +1,31 @@
 🔵 der [[Weltmeister]], [ˈvɛltˌmaɪ̯stɐ]
 die [[Weltmeister]]
 
+---
+
+Die Deutschen sind Weltmeister! In keinem anderen Land gibt es pro Kopf so viele Museen und nirgendwo werden sie so gut besucht.
 
 ---
-Die Deutschen sind Weltmeister! In keinem anderen Land gibt es pro Kopf so viele Museen und nirgendwo werden sie so gut besucht. 
 
-
----
 Synonyme:
+
 - [[Champion]], [[Sieger]], [[Titelträger]], [[Meister]]
 
 ---
+
 Übersetzung: world champion
 
 ---
+
 Morpheme:
-[[Welt]][[Meister]]
+[[Welt]], [[Meister]]
 
 ---
+
 Einzigartige mögliche Formen: [[Weltmeisters]], [[Weltmeistern]]
 
 ---
+
 #Substantiv #Maskulin
 #Sport #Auszeichnung
 

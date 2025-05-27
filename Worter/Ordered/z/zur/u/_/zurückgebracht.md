@@ -1,1 +1,1 @@
-[[zurück]][[gebracht]], [[bringen]]
+[[zurück]], [[gebracht]], [[bringen]]

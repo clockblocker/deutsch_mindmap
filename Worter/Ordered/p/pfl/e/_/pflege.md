@@ -34,4 +34,4 @@ G: der [[Pflege]], der [[Pflegen]]
 D: der [[Pflege]], den [[Pflegen]]
 
 
-#Feminin , [[Gesundheitswesen]], [[Ersatzdienst]], [[Pflegenotstand]], [[Pflegekraft]]
+#Feminin , [[Gesundheitswesen]], [[Ersatzdienst]], [[Pflegenotstand]], [[Pflegekraft]], [[Pflegepersonal]], [[Pflegesektor]]

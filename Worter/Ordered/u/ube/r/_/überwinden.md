@@ -21,7 +21,7 @@ Antonyme: [[unterliegen]], [[scheitern]], [[aufgeben]]
 
 ---
 
-Morpheme: [[Ü/über]][[wind]][[en]]
+Morpheme: [[Ü/über]], [[wind]], [[en]]
 #Verb #Untrennbar
 
 | Person    | Präsens         | Präteritum     | Imperativ          | Konjunktiv I    | Konjunktiv II    |

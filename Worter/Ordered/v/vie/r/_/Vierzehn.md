@@ -1,3 +1,3 @@
 14
 
-[[Vier]][[Zehn]]
+[[Vier]], [[Zehn]]

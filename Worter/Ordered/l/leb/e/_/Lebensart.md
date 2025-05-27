@@ -4,20 +4,26 @@ die [[Lebensarten]]
 ---
 
 ---
+
 Synonyme:
+
 - [[Lebensstil]], [[Lebenweise]], [[Lebensweise]], [[Gewohnheit]], [[Manier]]
 
 ---
+
 Übersetzung: way of life, lifestyle, manner of living
 
 ---
+
 Morpheme:
-[[Lebens]][[Art]]
+[[Lebens]], [[Art]]
 
 ---
+
 Einzigartige mögliche Formen: [[Lebensart]], [[Lebensarten]], [[Lebensarts]], [[Lebensarte]]
 
 ---
+
 #Substantiv #Feminin #Komposition
 
 Weitere Erklärung:

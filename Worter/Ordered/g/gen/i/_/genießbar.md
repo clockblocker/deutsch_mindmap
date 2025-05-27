@@ -16,7 +16,7 @@ Antonyme: [[eklig]], [[ungenießbar]], [[unverträglich]], [[verdorben]], [[unap
 
 ---
 
-[[genieß]][[bar]]
+[[genieß]], [[bar]]
 
 ---
 

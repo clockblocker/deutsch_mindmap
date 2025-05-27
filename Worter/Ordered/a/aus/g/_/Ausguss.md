@@ -1,25 +1,29 @@
 🟢 das [[Ausguss]], [ˈaʊsˌɡʊs]
 die [[Ausgüsse]]
 
-
 ---
+
 Ablaufschlauch in einen [[Ausguss]] einhängen.
 
-
-
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Abfluss]], [[Küchenabfluss]], [[Waschbeckenabfluss]]
 
 ---
+
 Übersetzung: drain, sink
 
 ---
+
 Morpheme:
-[[aus]][[guss]]
+[[aus]], [[guss]]
 
 ---
-Einzigartige mögliche Formen: [[Ausgusses]], [[Ausguss]], [[Ausgüsse]], [[Ausgüssen]]  
+
+Einzigartige mögliche Formen: [[Ausgusses]], [[Ausguss]], [[Ausgüsse]], [[Ausgüssen]]
 
 ---
+
 #Substantiv #Neuter, [[einhängen]]

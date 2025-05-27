@@ -9,9 +9,11 @@ nicht [[unsichtbar]]
 ---
 
 Synonyme:
+
 - [[offensichtlich]], [[erkennbar]], [[deutlich]]
 
 ---
+
 Beispiele:
 
 - Sie war [[sichtlich]] erfreut.
@@ -27,14 +29,16 @@ Beispiele:
 - Ihre Freude war [[am sichtlichsten]].
 
 ---
+
 **Übersetzung**:
 visibly, evidently
 
 ---
 
-Tags: 
+Tags:
 #Adverb
 
 ---
+
 Morphems:
-[[sicht]][[lich]], [[ersichtlich]]
+[[sicht]], [[lich]], [[ersichtlich]]

@@ -2,28 +2,31 @@
 nicht [[reich]]
 
 ---
-Ach, [[armer]] Yorick, ich kannte ihn … Aaaaah!  
 
+Ach, [[armer]] Yorick, ich kannte ihn … Aaaaah!
 
 ---
-Synonyme: 
+
+Synonyme:
 [[bedürftig]], [[mittellos]], [[unbemittelt]], [[ärmlich]], [[notleidend]]
 Antonyme:
 [[begütert]], [[wohlhabend]], [[vermögend]], [[betucht]], [[wohlsituiert]]
 
 ---
-**Übersetzung**: 
+
+**Übersetzung**:
 poor, destitute
 
 ---
+
 #Adjektiv [[armer]]
 
 ---
+
 Morpheme:
-[[arm]][[er]]
+[[arm]], [[er]]
 
 ---
-
 
 Einzigartige mögliche Formen:
 [[armer]], [[ärmerer]], [[ärmere]], [[ärmeres]], [[ärmeren]], [[ärmerem]], [[ärmerer]], [[ärmeren]]

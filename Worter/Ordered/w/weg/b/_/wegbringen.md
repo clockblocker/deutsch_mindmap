@@ -1,1 +1,1 @@
-[[abholen]][[holen]], [[herholen]], [[abschleppen]], [[forttragen]], [[entführen]]
+[[abholen]], [[holen]], [[herholen]], [[abschleppen]], [[forttragen]], [[entführen]]

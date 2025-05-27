@@ -33,7 +33,7 @@ Antonyme: [[loslassen]], [[freilassen]], [[freigeben]], [[entlassen]]
 
 ---
 
-Morpheme: [[fang]][[en]]
+Morpheme: [[fang]], [[en]]
 #Verb #Untrennbar
 
 ---

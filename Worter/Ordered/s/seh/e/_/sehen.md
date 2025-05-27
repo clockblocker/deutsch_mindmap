@@ -25,7 +25,7 @@ Antonyme: [[übersehen]], [[verbergen]], [[verdecken]], [[ignorieren]]
 
 ---
 
-Morpheme: [[se]][[hen]]
+Morpheme: [[se]], [[hen]]
 #Verb #Untrennbar
 
 ---

@@ -23,7 +23,7 @@ to allow, to permit
 
 ---
 
-[[er]][[laub]][[en]]
+[[er]], [[laub]], [[en]]
 
 ---
 

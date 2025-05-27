@@ -5,6 +5,7 @@ Du hattest ihn doch [[darunter]] gelegt
 ---
 
 Synonyme:
+
 - [[unten]], [[unterhalb]], [[unter]]
 
 ---
@@ -16,6 +17,7 @@ Beispiele:
 - Der Teppich ist zerrissen, und der Boden [[darunter]] ist beschädigt.
 
 ---
+
 **Übersetzung**: underneath, beneath, under it
 
 ---
@@ -26,6 +28,6 @@ Tags:
 ---
 
 Morphems:
-[[Da]][[runter]]
+[[Da]], [[runter]]
 
 , [[11 08]], [[da]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]

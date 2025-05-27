@@ -1,8 +1,8 @@
-
 es [[geht]]
 
 ---
-NIC: Nein, nein, nicht so. Pass auf, [[es geht|so geht das]]!  
+
+NIC: Nein, nein, nicht so. Pass auf, [[es geht|so geht das]]!
 
 ---
 
@@ -20,13 +20,15 @@ NIC: Nein, nein, nicht so. Pass auf, [[es geht|so geht das]]!
 - Es [[geht]] schneller als erwartet.
 
 ---
+
 **Übersetzung**:
 it goes, it works
 
 ---
+
 **Morphems of only infinitive:**
-[[geh]][[en]]
+[[geh]], [[en]]
 
 ---
-#Verb  #Unregelmäßige
 
+#Verb #Unregelmäßige

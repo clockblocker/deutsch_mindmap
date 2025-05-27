@@ -1,1 +1,1 @@
-, [[Bestenliste]]
+, [[Bestenliste]], [[Rang]]

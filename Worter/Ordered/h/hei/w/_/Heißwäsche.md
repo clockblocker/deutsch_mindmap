@@ -4,18 +4,24 @@ die [[Heißwäschen]]
 ---
 
 ---
-Synonyme: 
+
+Synonyme:
+
 - [[Warmwäsche]]
 
 ---
+
 Übersetzung: hot wash
 
 ---
+
 Morpheme:
-[[heiß]][[Wäsche]]
+[[heiß]], [[Wäsche]]
 
 ---
+
 Einzigartige mögliche Formen: [[Heißwäsches]], [[Heißwäsche]], [[Heißwäschen]], [[Heißwäschen]]
 
 ---
+
 #Substantiv #Neuter
