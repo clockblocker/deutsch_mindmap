@@ -69,3 +69,4 @@ Synonyme:
 
 [[läuft]] [[noch]] ein bisschen [[durch]] die Stadt
 , [[durchgängig]], [[durchführen]], [[durchsetzen]], [[DURCHDRINGUNG]], [[durchaus]], [[überdurchschnittlich]]
+, [[Durchschnittsgemeinde]]

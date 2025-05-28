@@ -4,6 +4,8 @@
 ---
 *[[Ingredient-Zugang-Zugriff#^2|^]]* Der [[Zugang]] `zu` Strom ist für Studierende oft [[eingeschränkt]]: In vielen Räumen der Universität gibt es nicht [[ausreichend]] [[Steckdose]]n, was das Arbeiten mit Laptops erheblich [[erschwert]]
 
+*[[C1-Lesen-T1-401-Text#^4|^]]* Ein weiteres Problem ist das [[Einnicken]] [[tagsüber]] und das Gefühl, ständig [[schläfrig]] zu sein, `denn` man [[eigentlich]] glaubt, [[ausreichend]] geschlafen zu haben.
+
 *[[C1-Hoehen-T3-301-Text#^33|^]]* Allerdings ist das eine [[langfristig]]e [[Aufgabe]], 
 die sich nicht `von` [[heute]] `auf` [[morgen]] [[erledigen]] `lässt`, 
 *(which cannot be [[done]] overnight)*
@@ -40,4 +42,4 @@ sufficient, adequate
 Adjektive: [[ausreichend]], [[ausreichender]], [[ausreichendst]]
 
 ---
-[[ausreichender]], [[ausreichendes]], [[ausreichende]], [[ausreichenden]], [[ausreichendem]], [[ausreichenderer]], [[ausreichenderes]], [[ausreichendere]], [[ausreichenderen]], [[ausreichenderem]], [[ausreichendster]], [[ausreichendstes]], [[ausreichendste]], [[ausreichendsten]], [[ausreichendstem]], [[passabel]]
+[[ausreichender]], [[ausreichendes]], [[ausreichende]], [[ausreichenden]], [[ausreichendem]], [[ausreichenderer]], [[ausreichenderes]], [[ausreichendere]], [[ausreichenderen]], [[ausreichenderem]], [[ausreichendster]], [[ausreichendstes]], [[ausreichendste]], [[ausreichendsten]], [[ausreichendstem]], [[passabel]], [[tagsüber]]

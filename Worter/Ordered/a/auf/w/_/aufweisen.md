@@ -3,6 +3,11 @@
 ---
 *[[C1-Lesen-T4-101-Text#^17|^]]* Unsere sensorischen und kognitiven [[Fähigkeit]]en kann keine Maschine [[aufweisen]]
 
+*[[C1-Lesen-T1-403-Text#^2|^]]* Ägyptische Kinder hatten Spielzeug, das schon mehr [[Detail]]s [[aufwies]]
+*(Egyptian children had toys that already [[exhibited]] more [[detail]])*
+
+
+
 *[[C1-Hoehen-T2-200-Text#^44|^]]* Ich denke [[vielmehr]], dass [[Vorgesetzte]] bestimmte [[Fähigkeit]]en [[aufweisen]], die sie für diesen Posten eher qualifizieren: [[Fachwissen]], [[Ausstrahlung]], [[Durchsetzungsvermögen]] usw
 
 ---

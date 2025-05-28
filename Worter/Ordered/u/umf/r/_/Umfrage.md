@@ -4,6 +4,9 @@ die [[Umfragen]]
 ---
 *[[C1-Hoehen-T2-101-Text#^32|^]]* Das haben einige [[Umfrage]]n nun [[gezeigt]]
 
+*[[C1-Lesen-T2-301-Text#^1|^]]* Welches [[Ergebnis]] haben die im Text [[erwähnten]] [[Umfrage]]e?
+*What [[result]] did the [[survey]]s [[mentioned]] in the text have?*
+
 *[[2 Unter Druck nach oben#^15|^]]* In den neuesten [[Umfragen]] gaben die Unternehmen der Sozialkompetenz den ersten [[Rang]], statt Platz vier vor zwei Jahren.
 
 *[[C1-Hoehen-T2-202-Text#^1|^]]* Sie [[befassen]] sich mit der Auswertung und [[Interpretation]] von [[Umfragen]], die die Politik [[betreffen]]

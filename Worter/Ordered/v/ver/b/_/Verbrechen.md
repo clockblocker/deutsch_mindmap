@@ -44,3 +44,4 @@ Dative: dem [[Verbrechen]], den [[Verbrechen]]
 ---
 
 , [[stöhnen]], [[verhaften]], [[Verbrecher]], [[Tat]], [[verschulden]]
+, [[Sünde]]

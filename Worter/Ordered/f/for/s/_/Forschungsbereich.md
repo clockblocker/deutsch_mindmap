@@ -1,1 +1,1 @@
-, [[Wissenschaftszweig]]
+, [[Wissenschaftszweig]], [[Forschungsabteilung]]

@@ -1,8 +1,9 @@
 ➡️ [[weiterhin]], [ˈvaɪ̯tɐˌhɪn](https://youglish.com/pronounce/weiterhin/german)
 
 ---
-*[[042-C1-Schreiben-T2#^2|^]]* Ihr Unternehmen hat beschlossen, aus Kostengründen ältere technische [[Gerät]]e wie Laptops und Telefone [[weiterhin]] im [[Einsatz]] zu lassen. ^2
+*[[042-C1-Schreiben-T2#^2|^]]* Ihr Unternehmen hat beschlossen, aus Kostengründen ältere technische [[Gerät]]e wie Laptops und Telefone [[weiterhin]] im [[Einsatz]] zu lassen
 
+*[[C1-Lesen-T1-403-Text#^5|^]]* [[Geschlechtsspezifisches]] Spielzeug findet man [[weiterhin]] `im` [[Mittelalter]], `wo` Jungen [[lernten]], mit Pfeil und Bogen umzugehen
 
 *[[C1-Hoehen-T3-301-Text#^51|^]]* Wenn wir [[weiterhin]] unsere hohen [[Qualitätsstandard]]s [[beibehalten]] wollen, dann können wir nicht [[unbegrenzt]] [[Löhne]] und [[Gehälter]] [[erhöhen]]
 

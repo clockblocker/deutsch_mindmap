@@ -1,1 +1,1 @@
-, [[preußisch]], [[Königsweg]]
+, [[preußisch]], [[Königsweg]], [[König]]

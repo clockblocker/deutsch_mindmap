@@ -1,1 +1,1 @@
-, [[Abgrenzung]], [[Gemisch]], [[Mischung]], [[Vermengung]]
+, [[Abgrenzung]], [[Gemisch]], [[Mischung]], [[Vermengung]], [[Schichtung]]

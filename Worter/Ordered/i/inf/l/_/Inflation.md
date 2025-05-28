@@ -1,1 +1,1 @@
-, [[Preisanstieg]], [[Mietpreisspirale]]
+, [[Preisanstieg]], [[Mietpreisspirale]], [[Preissteigerung]]

@@ -27,4 +27,4 @@ accurate, correct, appropriate
 Adjektive: [[zutreffend]], [[zutreffender]], [[zutreffendst]]
 
 ---
-[[zutreffender]], [[zutreffendes]], [[zutreffende]], [[zutreffenden]], [[zutreffendem]], [[zutreffenderer]], [[zutreffenderes]], [[zutreffendere]], [[zutreffenderen]], [[zutreffenderem]], [[zutreffendster]], [[zutreffendstes]], [[zutreffendste]], [[zutreffendsten]], [[zutreffendstem]]
+[[zutreffender]], [[zutreffendes]], [[zutreffende]], [[zutreffenden]], [[zutreffendem]], [[zutreffenderer]], [[zutreffenderes]], [[zutreffendere]], [[zutreffenderen]], [[zutreffenderem]], [[zutreffendster]], [[zutreffendstes]], [[zutreffendste]], [[zutreffendsten]], [[zutreffendstem]], [[unzutreffen]]

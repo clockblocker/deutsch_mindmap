@@ -26,4 +26,4 @@ A: das [[Einkaufsverhalten]], die [[Einkaufsverhaltensweisen]]
 G: des [[Einkaufsverhaltens]], der [[Einkaufsverhaltensweisen]]
 D: dem [[Einkaufsverhalten]], den [[Einkaufsverhaltensweisen]]
 
-#Neuter 
+#Neuter , [[Verbraucherverhalten]]

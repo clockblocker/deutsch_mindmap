@@ -108,4 +108,4 @@
 🪨 [[grob]] *(rough: sandpaper personality)*  
 💭 [[implizit]] *(implicit: said without saying)*  
 🤐 [[unausgesprochen]] *(unspoken: heavy silence)*  
-🧹 [[schlampig]] *(sloppy: details spilled everywhere, duct-tape vibe)*
+🧹 [[schlampig]] *(sloppy: details spilled everywhere, duct-tape vibe)*, [[lügen]]

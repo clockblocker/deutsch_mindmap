@@ -3,6 +3,8 @@
 ---
 Ты встречаешь подругу – Du triffst deine Freundin.
 
+*[[C1-Lesen-T3-301-Text#^16|^]]* Die [[Wahl]] war offensichtlich gut [[getroffen]], denn die [[Auswertung]]en, die die Gesellschaft für [[Konsumforschung]] hier [[durchführte]], [[voraussagen|sagten]] zu 90 Prozent die späteren [[Marktdaten]] voraus
+
 *[[08-C1-Schreiben-T2-M#^4|^]]* - Denken Sie an einen höflichen E-Mail-/[[Briefanfang]], wobei Sie [[Verständnis]] für die [[getroffene]] [[Regelung]] zeigen. ^4
 
 
@@ -41,4 +43,4 @@ PI: [[treffend]], PII: [[getroffen]], Zu+inf: [[zu treffen]]
 , [[Verabredung]]
 , [[kennenlernen]], [[messe]], [[stoßen]]
 
-#Feminin , [[Trefferquote]], [[gegenüberstehen]]
+#Feminin , [[Trefferquote]], [[gegenüberstehen]], [[unzutreffen]]

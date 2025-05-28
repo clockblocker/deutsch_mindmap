@@ -3,6 +3,7 @@
 🔵 [[vorhersagen]] | [[sagte vor|sagte vor]], haben [[vorhergesagt]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^16|^]]* Die [[Wahl]] war offensichtlich gut [[getroffen]], denn die [[Auswertung]]en, die die Gesellschaft für [[Konsumforschung]] hier [[durchführte]], [[voraussagen|sagten]] zu 90 Prozent die späteren [[Marktdaten]] voraus
 
 - [[Wettervorhersage]]
 

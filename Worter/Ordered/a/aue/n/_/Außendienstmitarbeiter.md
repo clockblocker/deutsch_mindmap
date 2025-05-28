@@ -28,3 +28,4 @@ G: des [[Außendienstmitarbeitenden]], der [[Außendienstmitarbeitenden]]
 D: dem [[Außendienstmitarbeitenden]], den [[Außendienstmitarbeitenden]]
 
 
+#Maskulin 

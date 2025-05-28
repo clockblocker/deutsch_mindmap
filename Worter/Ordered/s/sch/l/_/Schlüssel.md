@@ -21,4 +21,4 @@ Einzigartige mögliche Formen: [[Schlüssels]], [[Schlüssel]], [[Schlüsseln]],
 
 ---
 #Substantiv #Maskulin, [[manchmal]]
-, [[einschließlich]], [[frühkindlich]], [[entschlüsseln]]
+, [[einschließlich]], [[frühkindlich]], [[entschlüsseln]], [[erschließen]]

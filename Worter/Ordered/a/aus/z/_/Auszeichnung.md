@@ -27,4 +27,4 @@ A: die [[Auszeichnung]], die [[Auszeichnungen]]
 G: der [[Auszeichnung]], der [[Auszeichnungen]]
 D: der [[Auszeichnung]], den [[Auszeichnungen]]
 
-#Feminin , [[Siegerprämie]]
+#Feminin , [[Siegerprämie]], [[Umweltzertifikat]]

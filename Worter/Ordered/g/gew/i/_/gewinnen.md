@@ -4,4 +4,4 @@
 
 *[[C1-Hoehen-T2-100-Text#^28|^]]* Natürlich [[erfordert]] jede [[gewonnene]] Freiheit immer auch, dass man sich aktiv mit den gewonnenen Möglichkeiten [[auseinandersetzt]]
 
-[[verlieren]], [[aufgeben]], [[erzielen]], [[Gewinn]], [[besiegen]], [[siegen]], [[unterliegen]], [[rausholen]], [[w-l]], [[liebgewinnen]], [[verspielen]], [[melken]], [[Kunde]], [[erobern]], [[Siegerprämie]], [[abwerben]]
+[[verlieren]], [[aufgeben]], [[erzielen]], [[Gewinn]], [[besiegen]], [[siegen]], [[unterliegen]], [[rausholen]], [[w-l]], [[liebgewinnen]], [[verspielen]], [[melken]], [[Kunde]], [[erobern]], [[Siegerprämie]], [[abwerben]], [[akquirieren]]

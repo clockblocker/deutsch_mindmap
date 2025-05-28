@@ -36,3 +36,4 @@ P: [[unaufmerksamen]], [[unaufmerksameren]], [[unaufmerksamsten]]
 
 [[Aufmerksamkeit]], [[aufmerksam]], [[Unaufmerksamkeit]]
 , [[ungestört]], [[aufopfernd]], [[oberflächlich]]
+, [[unbewusst]]

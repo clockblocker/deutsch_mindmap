@@ -29,4 +29,4 @@ A: die [[Vorschrift]], die [[Vorschriften]]
 G: der [[Vorschrift]], der [[Vorschriften]]
 D: der [[Vorschrift]], den [[Vorschriften]]
 
-#Feminin 
+#Feminin , [[Umweltstandard]]

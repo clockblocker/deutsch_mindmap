@@ -21,7 +21,7 @@ Synonyme:
 Morphems:
 [[Lügn]], [[er]]
 
-[[Lügen]]
+[[lügen]]
 
 ---
 

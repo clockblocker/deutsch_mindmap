@@ -32,4 +32,4 @@ G: des [[Verlaufs]], der [[Verläufe]]
 D: dem [[Verlauf]], den [[Verläufen]]
 
 
-#Maskulin 
+#Maskulin , [[Trend]]

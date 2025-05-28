@@ -5,6 +5,8 @@
 
 Es geht um auf langer Tradition [[beruhende]] modernisierte [[Behandlungsformen]]
 
+*[[C1-Lesen-T3-301-Text#^24|^]]* Zum anderen: Die [[Teilnahme]] an der [[Marktforschung]] [[beruhte]] auf [[Freiwilligkeit]]
+
 
 ---
 = [[basieren]], [[gründen]], [[abhangen]], [[zugrunde]]

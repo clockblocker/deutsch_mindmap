@@ -6,6 +6,8 @@
 *[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden. ^34
 
 
+*[[C1-Lesen-T2-301-Text#^9|^]]* Greenwashing kann man [[betreiben]], [[indem]] man [[Lügen]] über die eigene [[Umweltfreundlichkeit]] [[verbreitet]]
+
 *[[C1-Lesen-T2-101-Text#^9|^]]* Außerdem stammten 4,4 Prozent von westlichen Jägern und Sammlern und 13,5 Prozent von der Jamnaja-Kultur, die sich in der Bronzezeit aus der Region nördlich des Schwarzen Meeres bis weit nach Europa (7) [[verbreitete]] . ^9
 
 

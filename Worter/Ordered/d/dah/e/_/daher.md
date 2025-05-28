@@ -33,4 +33,4 @@ therefore, hence
 
 , [[deshalb]]
 , [[Texte/Misc/Anki]]
-, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]], [[demnach]]
+, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]], [[demnach]], [[wohingegen]]

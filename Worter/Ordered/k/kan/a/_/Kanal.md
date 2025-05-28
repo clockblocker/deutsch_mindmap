@@ -26,4 +26,4 @@ A: den [[Kanal]], die [[Kanäle]]
 G: des [[Kanals]], der [[Kanäle]]
 D: dem [[Kanal]], den [[Kanälen]]
 
-#Maskulin 
+#Maskulin , [[Fernsehkanal]]

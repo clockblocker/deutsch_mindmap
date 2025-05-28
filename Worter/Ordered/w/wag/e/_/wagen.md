@@ -4,6 +4,8 @@
 Sie haben ihn gefragt, wie er es [[wagen]] konnte, ohne Einladung zu kommen.
 *Они спросили его, как он [[посмел]] прийти без приглашения.* 
 
+*[[C1-Lesen-T3-301-Text#^9|^]]* [[Nähern]] wir uns der [[Gemeinde]] Haßloch in Rheinland-Pfalz und [[wagen]] wir einen genaueren Blick
+
 *[[C1-Lesen-T4-103-Text#^23|^]]* Man wird nicht mehr für das Sparen in Form von [[Zins]]en und [[Rendite]] [[belohnt]], sondern sogar bestraft, weil man es [[wagt]], ein [[Vermögen]] [[anzuhäufen]]
 
 

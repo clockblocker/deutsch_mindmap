@@ -3,6 +3,7 @@
 ---
 *[[002-C1-Schreiben-T2#^5|^]]* das [[Risiko]] [[bergen]], dass [[sensible]] Informationen von [[unbeteiligten]] Mitarbeitenden [[mitgehört]] werden.
 
+*[[C1-Lesen-T1-402-Text#^4|^]]* `Bei` [[kaum]] jemandem sind die Hände [[während]] des Sprechens [[unbeteiligt]]
 
 ---
 = [[neutral]], [[passiv]], [[indifferent]]

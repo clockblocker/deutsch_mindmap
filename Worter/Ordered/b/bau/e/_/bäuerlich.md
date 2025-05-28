@@ -1,1 +1,1 @@
-, [[Bauernhof]], [[Bauer]]
+, [[Bauernhof]], [[Bauer]], [[dörflich]]

@@ -27,4 +27,4 @@ D: dem [[Bewusstsein]]
 , [[Karrierebewusstsein]], [[verantwortungsbewusst]]--> [[🗣️ Ingredient-Meinung]] <--
 
 
-#Neuter 
+#Neuter , [[unbewusst]]

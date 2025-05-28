@@ -3,8 +3,9 @@
 [[w-l]] 😌 [[bewältigen]], [bəˈvɛltɪɡn̩] | [[bewältigte]], haben [[bewältigt]]
 
 ---
-*[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]]* Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen sprießen lassen, schließlich wird vieles gleichzeitig reif. ^35
+*[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]]* Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen sprießen lassen, schließlich wird vieles gleichzeitig reif
 
+*[[C1-Lesen-T1-401-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu höherer [[Leistung]] 7 [[fähig]] waren
 
 Heute wird kontrovers darüber diskutiert, was die Menschen für die Klimaschutz tun könnte, um die [[Herausforderung]]en des Klimawechsels zu [[bewältigen]].
 

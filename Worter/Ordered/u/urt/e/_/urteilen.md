@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-203-Text#^42|^]]* Man will da einfach nicht zu [[vorschnell]] [[urteilen]]
 
+*[[C1-Lesen-T3-301-Text#^23|^]]* Zum einen waren in Haßloch die Kundinnen und Kunden wirklich [[König]], sie [[urteilten]] – wenn auch [[unbewusst]] – über die [[Zukunft]] von Produkten und [[mitbestimmten|bestimmten]] so den [[Konsummarkt]] der Bundesrepublik mit. ^23die [[Könige]]
+
 [[vorschnell]] [[urteilen]] = [[übereilt]] [[Urteil]]e [[fällen]]
 
 

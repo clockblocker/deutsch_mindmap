@@ -3,6 +3,7 @@
 nicht [[schwer]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^5|^]]* So hat der technische [[Fortschritt]] eine [[leicht]]e [[Analyse]] von [[Konsumverhalten]] möglich gemacht
 
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 

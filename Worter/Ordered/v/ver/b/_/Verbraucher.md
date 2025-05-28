@@ -6,6 +6,8 @@ Das [[Bewertungssystem]] soll für den [[Verbraucher]] [[transparent]] werden
 
 *[[C1-Hoehen-T4-100-Text#^7|^]]* Meine Damen und Herren, in meinem Vortrag heute zum Thema Online-[[Handel]] und [[Verbraucherschutz]] möchte ich mich mit der Frage beschäftigen, wie Verbraucherinnen und [[Verbraucher]] besser vor [[Fehlinformation]]en [[unseriöser]] [[Händler]] geschützt werden können
 
+*[[C1-Lesen-T2-301-Text#^2|^]]* Den [[Verbraucher]] ist klar, dass umweltfreundliche Produkte höhere Preise bedeuten
+
 ---
 = [[Konsument]], [[Käufer]], [[Verbraucherzentrale]], [[verbrauchen]], [[Kunde]], [[Konsument]]
 ≈ [[Kunde]], [[Abnehmer]]

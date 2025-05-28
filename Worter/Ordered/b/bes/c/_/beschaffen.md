@@ -44,4 +44,4 @@ sie, [[beschaffen]], [[beschafften]], [[beschaffen]], [[beschafften]], [[beschaf
 Adjektive: [[beschaffend]], [[beschaffender]], [[beschaffendst]]
 
 ---
-[[beschaffender]], [[beschaffendes]], [[beschaffende]], [[beschaffenden]], [[beschaffendem]], [[beschaffenderer]], [[beschaffenderes]], [[beschaffendere]], [[beschaffenderen]], [[beschaffenderem]], [[beschaffendster]], [[beschaffendstes]], [[beschaffendste]], [[beschaffendsten]], [[beschaffendstem]], [[Beschaffenheit]], [[aufkaufen]]
+[[beschaffender]], [[beschaffendes]], [[beschaffende]], [[beschaffenden]], [[beschaffendem]], [[beschaffenderer]], [[beschaffenderes]], [[beschaffendere]], [[beschaffenderen]], [[beschaffenderem]], [[beschaffendster]], [[beschaffendstes]], [[beschaffendste]], [[beschaffendsten]], [[beschaffendstem]], [[Beschaffenheit]], [[aufkaufen]], [[akquirieren]]

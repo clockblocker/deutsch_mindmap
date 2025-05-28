@@ -2,6 +2,7 @@
 die [[Haushalte]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^4|^]]* Damit konnten [[Warenkörbe]] einzelner [[Haushalt]]e genau analysiert werden
 
 Hans findet es [[doof]], dass Tanja die meiste Zeit am Computer verbringt, [[während]] er sich um den [[Haushalt]] [[kümmern]] muss.
 
@@ -30,3 +31,5 @@ Dative: dem [[Haushalt]], den [[Haushalten]]
 ---
 
 [[haushalten]], [[haushälterisch]], [[Haushaltsplan]], [[Haushaltsposten]], [[Haushaltsgerät]], [[Sozialhaushalt]], [[Sozialhaushalt]]
+
+#Maskulin 

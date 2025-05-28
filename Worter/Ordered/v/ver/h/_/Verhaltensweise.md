@@ -30,4 +30,4 @@ A: die [[Verhaltensweise]], die [[Verhaltensweisen]]
 G: der [[Verhaltensweise]], der [[Verhaltensweisen]]
 D: der [[Verhaltensweise]], den [[Verhaltensweisen]]
 
-#Feminin 
+#Feminin , [[Umweltverhalten]]

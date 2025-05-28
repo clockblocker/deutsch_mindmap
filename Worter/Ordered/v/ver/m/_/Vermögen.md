@@ -40,3 +40,4 @@ Dative: dem [[Vermögen]], den [[Vermögen]]
 , [[Durchhaltevermögen]], [[Durchsetzungsvermögen]], [[Schuldenpaket]], [[Beherrschung]], [[Kompetenz]]
 
 #Neuter , [[Ersparnis]], [[Denkvermögen]], [[Abstraktionsvermögen]], [[Finanz]]
+, [[Leistungsfähigkeit]]

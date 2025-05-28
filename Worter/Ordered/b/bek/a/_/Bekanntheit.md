@@ -1,1 +1,1 @@
-, [[Bekanntheitsgrad]]
+, [[Bekanntheitsgrad]], [[Vertrautheit]]

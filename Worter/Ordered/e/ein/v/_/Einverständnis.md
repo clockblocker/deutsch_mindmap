@@ -28,4 +28,4 @@ D: dem [[Einverständnis]], den [[Einverständnissen]]
 ---
 [[einverstanden]], [[verstehen]], [[zustimmen]], [[genehmigen]]
 
-#Neuter 
+#Neuter , [[Bedenken]]

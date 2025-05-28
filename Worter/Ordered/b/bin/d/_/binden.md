@@ -3,9 +3,9 @@
 🤝 [[binden]], [ˈbɪndən] | [[band]], haben [[gebunden]]
 
 ---
+*[[C1-Hoehen-T3-301-Text#^62|^]]* Die [[Löhne]] und [[Gehälter]] sind ein Aspekt, aber es wird [[künftig]] auch immer wichtiger, qualifizierte Arbeitskräfte zu [[binden]]
 
 ---
-
 [[verbinden]] - [[ver]] = [[binden]] / to connect, to link, to join
 
 ---
@@ -40,3 +40,4 @@ Zu+infinifive: [[zu binden]]
 
 [[freimachen]], [[heiraten]], [[trauen]], [[hängen]], [[ledig]], [[auflösen]]
 , [[Bindungsurlaub]], [[unterbinden]], [[fesseln]], [[Einband]], [[verpflichten]]
+, [[Kundenbindung]]

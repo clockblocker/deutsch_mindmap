@@ -6,6 +6,8 @@
 ---
 [[14 perfekt#^14|^]] [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. 
 
+*[[C1-Lesen-T1-401-Text#^4|^]]* Ein weiteres Problem ist das [[Einnicken]] [[tagsüber]] und das Gefühl, ständig [[schläfrig]] zu sein, `denn` man [[eigentlich]] glaubt, [[ausreichend]] geschlafen zu haben.
+
 *[[C1-Hoehen-T1-202-Text#^7|^]]* Der Autor will uns also helfen, durch sorgsames Kaufen [[klarzumachen]], dass wir beim Einkaufen differenziert [[hinschauen]], was wir [[eigentlich]] [[unterstützen]]
 
 *[[C1-Hoehen-T1-201-Text#^4|^]]* Bereits in den ersten Szenen [[erfahren]] die [[Zuschauer]], dass das [[Urteil]] im [[bevorstehend]]en Prozess [[eigentlich]] bereits [[feststeht]]. ^4
@@ -40,4 +42,4 @@ Adverbial Form: [[eigentlich]], [[eigentlicher]], [[eigentlichst]]
 [[Eigenheit]], [[eigentümlich]], [[Eigentlichkeit]]
 
 , [[eingehen]], [[Risiko]]
-, [[Einwand]], [[grundsätzlich]], [[s1 e1]], [[Abtönungspartikeln]]
+, [[Einwand]], [[grundsätzlich]], [[s1 e1]], [[Abtönungspartikeln]], [[tagsüber]]

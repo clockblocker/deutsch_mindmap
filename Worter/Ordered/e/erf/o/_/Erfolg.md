@@ -48,3 +48,4 @@ Dative: dem [[Erfolg]], den [[Erfolgen]]
 , [[Versuch]], [[Karriere]], [[Erfolgsfaktor]], [[Großtat]], [[Aufgabenerfüllung]], [[Fehlgriff]], [[Bildungserfolg]], [[erbringen]], [[Ausdauersport]]
 
 #Maskulin , [[Rendite]], [[Fehlentscheidung]]
+, [[Erfolgsschlager]]

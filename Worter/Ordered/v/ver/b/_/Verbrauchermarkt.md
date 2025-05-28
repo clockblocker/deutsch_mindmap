@@ -1,1 +1,1 @@
-, [[Supermarkt]]
+, [[Supermarkt]], [[Konsummarkt]]

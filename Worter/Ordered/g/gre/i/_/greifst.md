@@ -1,1 +1,1 @@
-, [[greifen]], [[Fehlgriff]], [[Eingriff]]
+, [[greifen]], [[Fehlgriff]], [[Eingriff]], [[zurückgreifen]]

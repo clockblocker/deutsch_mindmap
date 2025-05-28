@@ -3,6 +3,9 @@
 ---
 Ohne [[Mühe]], lernt man keine [[Fremdsprache]]
 
+*[[C1-Lesen-T3-301-Text#^17|^]]* Mit dem Musterdorf hat man sich auch sehr viel [[Mühe]] gegeben. ^17
+
+
 1. Sich (D) die [[Mühe]] geben.
 
 ---

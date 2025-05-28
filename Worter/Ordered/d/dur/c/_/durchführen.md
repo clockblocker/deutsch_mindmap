@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-201-Text#^32|^]]* Viele [[Studierende]] auf [[Lehramt]] haben in ihrer Schulzeit schon selbst [[erlebt]], dass der Mathematikunterricht allem abstrakt [[durchgeführt]] wurde und sind damit gut [[zurechtgekommen]]
 
+*[[C1-Lesen-T3-301-Text#^16|^]]* Die [[Wahl]] war offensichtlich gut [[getroffen]], denn die [[Auswertung]]en, die die Gesellschaft für [[Konsumforschung]] hier [[durchführte]], [[voraussagen|sagten]] zu 90 Prozent die späteren [[Marktdaten]] voraus
+
 *[[C1-Hoehen-T4-100-Text#^19|^]]* Nach den neuen Regelungen müssen Online-Händler jetzt [[überprüfen]], wie Bewertungen [[durchgeführt]] werden, wer [[bewerten]] darf, wie [[Gesamtbewertung]]en [[ermittelt]] werden
 
 *[[C1-Hoehen-T1-102-Text#^9|^]]* In "Wirtschaftsethik leicht gemacht" vergleicht der [[künftig]]e [[Wirtschaftswissenschaftler]] [[verschieden]]e [[Universität]]en, an denen er [[bspw.]] [[Zufriedenheitsumfrage]]n mit den [[Studierend]]en [[durchgeführt]] hat und [[aussprechen|spricht]] auf dieser Basis auch Studien- und [[Universitätsempfehlung]]en aus

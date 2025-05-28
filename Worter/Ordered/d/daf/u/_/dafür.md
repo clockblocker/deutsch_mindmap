@@ -29,4 +29,4 @@ Morphems:
 #Adverb
 [[Dazu]], [[dabei]], [[sparen]], [[da]], [[hierfür]]
 
-[[ver]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]
+[[ver]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]], [[entscheiden]]

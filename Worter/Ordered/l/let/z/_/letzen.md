@@ -2,6 +2,9 @@ letzen, [ˈlɛtsən]
 nicht [[ersten]], nicht [[ersten]]
 
 ---
+*[[C1-Lesen-T1-403-Text#^7|^]]* Als neueste Errungenschaften galten Nachahmungen von Dampfmaschine und [[Spielzeugeisenbahn]]. [[Letztere]] war der [[Erfolgsschlager]] der Firma Märklin und sie lebt in ihrer modernen Form als elektrische Modelleisenbahn heute noch fort. ^7
+
+
 , [[verletzen]], [[allerletzten]]
 
 

@@ -2,7 +2,9 @@ bunt, [ˈbʊnt]
 nicht [[einfarbig]]
 
 ---
-Ihre Freundin Natalja hatte so ihre Zweifel, ob die beiden sich dort wohlfühlen würden, denn bei Freddie und Amelie war es immer [[bunt]] und laut und ziemlich unordentlich. 
+Ihre Freundin Natalja hatte so ihre Zweifel, ob die beiden sich dort wohlfühlen würden, denn bei Freddie und Amelie war es immer [[bunt]] und laut und ziemlich unordentlich
+
+*[[C1-Lesen-T3-301-Text#^5|^]]* Die Haßlocher [[Bevölkerung]] bekam also ihre eigene [[bunt]]e [[Konsumwelt]]
 
 271. Was ist in Deutschland ein [[Brauch]] zu Weihnachten? (97%)
 	- [ ] [[bunte]] Eier [[verstecken]]

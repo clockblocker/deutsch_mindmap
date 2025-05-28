@@ -58,3 +58,4 @@ _Adverb_ 💪🔥 [[trotzdem]]
 
 [[See]]
 , [[absehen]], [[insofern]]
+, [[wohingegen]]

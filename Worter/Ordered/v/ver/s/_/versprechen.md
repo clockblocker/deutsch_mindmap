@@ -4,6 +4,10 @@ haben [[versprochen]]
 
 ---
 
+*[[C1-Lesen-T1-301-Text#^5|^]]* 4_[[Davon]]_  [[verspricht]] man sich eine wachsende Loyalität zum Unternehmen, eine emotionale Bindung und intrinsische Motivation
+*(4_[[From this]],_ one [[expects]])* 
+
+
 Er hat ihr [[versprochen]], dass er einen [[echten]] alten Buddha [[unbedingt]] findet. [[14 perfekt#^3|^]]
 
 _[[C1-Hoehen-T1-102-Text#^2|^]]_ "Kauft sie glücklich" [[thront]] als Titel auf dem [[Einband]] und ich [[verspreche]] euch, die zweite [[Auflage]] des Spiegel-Bestsellers wird euren Horizont [[erweitern]].

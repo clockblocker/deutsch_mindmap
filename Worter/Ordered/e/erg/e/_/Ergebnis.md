@@ -7,6 +7,8 @@ die [[Ergebnisse]]
 
 Die [[Suche]] bleibt ohne [[Ergebnis]].
 
+*[[C1-Lesen-T2-301-Text#^1|^]]* Welches [[Ergebnis]] haben die im Text [[erwähnten]] [[Umfrage]]e?
+
 _[[C1-Lesen-T4-101-Text#^4|^]]_ Würde man dieses Geld bei [[rein]] robotischen Missionen [[verwenden]], könnte man ungleich mehr wissenschaftliche [[Ergebnis]]se [[erzielen]] als bei bemannten [[Raumflügen]]. ^4
 
 Wird das Kriterium [[Aufgabenerfüllung]] für eine Aufgabe mit E (0 Punkte) [[bewertet]], dann ist das [[Ergebnis]] für diese Aufgabe [[insgesamt]] 0 Punkte.

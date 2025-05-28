@@ -27,3 +27,4 @@ G: des [[Willens]], der [[Willen]]
 D: dem [[Willen]], den [[Willen]]
 
 #Maskulin 
+, [[Freiwilligkeit]]

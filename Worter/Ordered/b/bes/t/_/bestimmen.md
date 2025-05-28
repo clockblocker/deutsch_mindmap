@@ -33,4 +33,4 @@ PI: [[bestimmend]], PII: [[bestimmt]], Zu+inf: [[zu bestimmen]]
 [[Bestimmung]], [[Bestimmer]], [[bestimmbar]], [[bestimmend]], [[unbestimmt]], [[Bestimmungswort]]
 
 [[regeln]], [[aussuchen]], [[ausmachen]], [[wählen]], [[abhängen]], [[entscheiden]], [[beschließen]], [[erlassen]], [[festlegen]], [[bestimmt]]
-, [[Festlegung]], [[selbstauferlegen]], [[auferlegen]], [[abgrenzen]], [[orten]], [[auswählen]], [[vorherrschen]], [[abstimmen]], [[feststehen]], [[ankreuzen]], [[Begriffsbestimmung]], [[vermessen]], [[Bestimmungsort]]
+, [[Festlegung]], [[selbstauferlegen]], [[auferlegen]], [[abgrenzen]], [[orten]], [[auswählen]], [[vorherrschen]], [[abstimmen]], [[feststehen]], [[ankreuzen]], [[Begriffsbestimmung]], [[vermessen]], [[Bestimmungsort]], [[mitbestimmen]]

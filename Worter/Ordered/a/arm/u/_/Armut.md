@@ -26,4 +26,4 @@ D: der [[Armut]], den [[Armuten]]
 [[arm]], [[verarmen]], [[Armutsgrenze]], [[armutsgefährdet]], [[Armutszeugnis]]
 
 [[Taschengeld]], [[Wirtschaft]]
-, [[Texte/Misc/Anki]], [[Grundeinkommen]], [[Basiseinkommen]], [[Existenzsicherung]]
+, [[Texte/Misc/Anki]], [[Grundeinkommen]], [[Basiseinkommen]], [[Existenzsicherung]], [[Konsumwelt]]

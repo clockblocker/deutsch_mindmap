@@ -6,6 +6,8 @@ die [[Forschungen]]
 ---
 Sie hören einen kurzen Vortrag zu einem aktuellen Thema aus den [[Themenbereich]]en [[Gesellschaft]], [[Politik]] und [[Forschung]]
 
+*[[C1-Lesen-T2-301-Text#^14|^]]* Die [[Forschung]] [[beitragen|trägt]] zur [[Überprüfbarkeit]] von [[Umweltstandards]] bei
+
 Die Forscher forschen die Forschung
 
 ---
@@ -31,4 +33,4 @@ A: die [[Forschung]], die [[Forschungen]]
 G: der [[Forschung]], der [[Forschungen]]  
 D: der [[Forschung]], den [[Forschungen]]
 
-#Feminin , [[Naturwissenschaft]]
+#Feminin , [[Naturwissenschaft]], [[Marktforschung]], [[Forschungsabteilung]], [[Konsumforschung]]

@@ -64,4 +64,4 @@ sie, [[liegen]], [[lagen]], [[liegen]], [[lägen]], [[liegen]]
 Adjektive: [[liegend]], [[liegender]], [[liegendst]]
 
 ---
-[[liegender]], [[liegendes]], [[liegende]], [[liegenden]], [[liegendem]], [[liegenderer]], [[liegenderes]], [[liegendere]], [[liegenderen]], [[liegenderem]], [[liegendster]], [[liegendstes]], [[liegendste]], [[liegendsten]], [[liegendstem]]
+[[liegender]], [[liegendes]], [[liegende]], [[liegenden]], [[liegendem]], [[liegenderer]], [[liegenderes]], [[liegendere]], [[liegenderen]], [[liegenderem]], [[liegendster]], [[liegendstes]], [[liegendste]], [[liegendsten]], [[liegendstem]], [[naheliegen]]

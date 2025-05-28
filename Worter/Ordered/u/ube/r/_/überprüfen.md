@@ -52,4 +52,4 @@ sie, [[überprüfen]], [[überprüften]], [[überprüfen]], [[überprüften]], [
 Adjektive: [[überprüfend]], [[überprüfender]], [[überprüfendst]]
 
 ---
-[[überprüfender]], [[überprüfendes]], [[überprüfende]], [[überprüfenden]], [[überprüfendem]], [[überprüfenderer]], [[überprüfenderes]], [[überprüfendere]], [[überprüfenderen]], [[überprüfenderem]], [[überprüfendster]], [[überprüfendstes]], [[überprüfendste]], [[überprüfendsten]], [[überprüfendstem]]
+[[überprüfender]], [[überprüfendes]], [[überprüfende]], [[überprüfenden]], [[überprüfendem]], [[überprüfenderer]], [[überprüfenderes]], [[überprüfendere]], [[überprüfenderen]], [[überprüfenderem]], [[überprüfendster]], [[überprüfendstes]], [[überprüfendste]], [[überprüfendsten]], [[überprüfendstem]], [[Überprüfbarkeit]]

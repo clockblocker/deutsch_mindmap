@@ -27,4 +27,4 @@ G: der [[Freundschaft]], der [[Freundschaften]]
 D: der [[Freundschaft]], den [[Freundschaften]]
 
 
-[[klein]]
+[[klein]], [[umweltfreundlich]], [[Haßloch]]

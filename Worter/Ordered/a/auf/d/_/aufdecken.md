@@ -38,3 +38,4 @@ PI: [[aufdeckend]], PII: [[aufgedeckt]], Zu+inf: [[aufzudecken]]
 
 , [[enthüllen]], [[hüllen]], [[abdecken]], [[decken]], [[verdecken]], [[verkleiden]], [[Verheimlichen]], [[demaskieren]]
 , [[herausfinden]], [[aufspüren]], [[bedecken]], [[eruieren]], [[offenlegen]]
+, [[erschließen]]

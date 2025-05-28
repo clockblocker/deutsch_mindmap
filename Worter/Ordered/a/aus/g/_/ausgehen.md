@@ -6,6 +6,8 @@
 ---
 Wir [[ausgehen|gehen]] davon aus, dass du kommst.
 
+*[[C1-Lesen-T1-403-Text#^1|^]]* Man hat sie in historischen Kindergräbern als Grabbeigaben gefunden und [[ausgehen|geht]] [[davon]] [[aus]], dass sie vermutlich auch im Alltag den Nachwuchs unterhalten haben
+
 *[[C1-Hoehen-T1-101-Text#^9|^]]* [[Ausgehend]] davon, dass Aminosäuren, Vitamine und [[Mineralstoffe]] das [[Gerüst]] unseres Körpers [[ausmachen]] und an den [[Stoffwechselprozessen]] [[beteiligt]] sind, wirft die Ökotrophologin Alev Bükey-Schneider in ihrem Ratgeber einen Blick auf den [[Nährstoffgehalt]] von Obst und Gemüse in unseren Supermärkten
 
 *[[C1-Hoehen-T1-301-Text#^12|^]]* Wir erhalten anhand der Geschichte [[einzeln]]er [[Traumziele]] nicht nur einen neuen Blick auf die Geschichte des [[ausgehenden]] *(late)* 19 und 20

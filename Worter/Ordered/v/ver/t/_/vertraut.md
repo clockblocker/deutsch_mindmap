@@ -1,3 +1,3 @@
 🛡 [[vertrauen]]
 , [[bekannt]], [[fremd]], [[Unbekannten]]
-, [[fern]], [[heimisch]], [[anvertrauen]]
+, [[fern]], [[heimisch]], [[anvertrauen]], [[Vertrautheit]]

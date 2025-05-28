@@ -1,2 +1,2 @@
 , [[Erbarmen]]
-, [[gut]]
+, [[gut]], [[Sünde]]

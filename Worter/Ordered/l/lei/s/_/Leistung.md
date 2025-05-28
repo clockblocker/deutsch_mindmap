@@ -2,6 +2,7 @@
 die [[Leistungen]]
 
 ---
+*[[C1-Lesen-T1-401-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu [[höh]]erer [[Leistung]] 7 [[fähig]] waren
 
 _[[01-C1-Schreiben-T2-M#^7|^]]_ Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]
 
@@ -43,3 +44,4 @@ D: der [[Leistung]], den [[Leistungen]]
 , [[Anstrengung]], [[Großtat]], [[Aufgabenerfüllung]], [[Strom]], [[Bildungserfolg]], [[Angebot]], [[Unterstützungsangebot]]
 
 #Feminin , [[Kapazität]], [[Trefferquote]], [[nutzen]], [[Geldleistung]], [[Dienstleistung]], [[erbringen]], [[Leistungssportler]], [[Sozialleistung]], [[Leistungsabbau]], [[Kassenleistung]], [[Gewährleistung]], [[Ableisten]], [[Bildungsergebnis]]
+, [[Leistungsfähigkeit]]

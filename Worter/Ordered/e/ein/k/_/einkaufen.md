@@ -3,6 +3,7 @@
 haben [[eingekauft]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^25|^]]* Für eine genauere [[Untersuchung]] des Kaufverhaltens wurde ein Teil der [[Einkaufenden]] mit einer Karte der GfK [[ausgestattet]]
 
 ![[006-C1-Schreiben-T2#^5|^]]
 

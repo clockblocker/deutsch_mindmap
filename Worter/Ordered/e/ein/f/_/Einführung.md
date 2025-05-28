@@ -2,12 +2,13 @@
 die [[Einführungen]]
 
 ---
-
 Der Kurs beginnt mit einer [[allgemeinen]] [[Einführung]] in das Thema.
 
 _[[C1-Hoehen-T2-100-Text#^20|^]]_ Andere Wissenschaftler sehen das kritischer, da sie der [[Auffassung]] sind, bestimmte Sozialleistungen müssten auch nach [[Einführung]] des bedingungslosen Grundeinkommens [[bestehen]] bleiben
 
-_[[C1-Hoehen-T2-100-Text#^19|^]]_ Wenn man bei [[Einführung]] des [[bedingungslos]]en [[Grundeinkommen]]s gleichzeitig [[bestehend]]e [[Ausgabe]]n für Sozialleistungen [[abschaffen]] würde, wäre die Finanzierung machbar. ^19
+*[[C1-Lesen-T3-301-Text#^11|^]]* In dem Zeitraum zwischen 1986 und 2021 nutzte die [[Marktbeobachtung]]s- und [[Forschungsabteilung]] der [[Gesellschaft]] für [[Konsumforschung]] (GfK) diese Gemeinde mit ca. 20.000 Einwohnerinnen und Einwohnern als Testmarkt zur [[Einführung]] neuer [[Konsumartikel]]
+
+_[[C1-Hoehen-T2-100-Text#^19|^]]_ Wenn man bei [[Einführung]] des [[bedingungslos]]en [[Grundeinkommen]]s gleichzeitig [[bestehend]]e [[Ausgabe]]n für Sozialleistungen [[abschaffen]] würde, wäre die Finanzierung machbar
 
 An Ihrem Arbeitsplatz ist eine neue Software eingeführt worden, zu der es jedoch nur eine 10-minütige [[Einführung]] gab.
 
@@ -45,3 +46,4 @@ D: der [[Einführung]], den [[Einführungen]]
 [[einführen]], [[Einführender]], [[einführend]], [[Einführungsveranstaltung]], [[Einführungskurs]], [[Texte/Misc/Anki]], [[Aufhebung]]
 
 #Feminin , [[Wegfall]], [[Pitch]], [[Vorarbeit]], [[Abschaffung]]
+, [[Markteinführung]]

@@ -1,3 +1,3 @@
 [[Waschmittel]]
 
-[[Waschen]], [[Waschbecken]], [[Waschbär]]
+[[Waschen]], [[Waschbecken]], [[Waschbär]], [[gehirnwaschen]]

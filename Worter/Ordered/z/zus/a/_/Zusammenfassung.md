@@ -25,4 +25,4 @@ D: der [[Zusammenfassung]], den [[Zusammenfassungen]]
 [[zusammenfassen]], [[zusammengefasst]], [[kurz]], [[bündig]], [[prägnant]]
 
 , [[Einführung]], [[Überblick]]
-, [[Schlusssatz]]
+, [[Schlusssatz]], [[Analyse]]

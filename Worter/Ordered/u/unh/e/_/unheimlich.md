@@ -37,3 +37,4 @@ Einzigartige mögliche Formen:
 [[unheimlicher]], [[unheimlichere]], [[unheimlicheres]], [[unheimlicheren]], [[unheimlicherem]], [[unheimlicherer]], [[unheimlicheren]]
 [[unheimlichsten]], [[unheimlichster]], [[unheimlichste]], [[unheimlichstes]], [[unheimlichsten]], [[unheimlichstem]], [[unheimlichster]], [[unheimlichsten]], [[s1 e1]]
 , [[viel]], [[angenehm]], [[beklemmend]]
+, [[düster]]

@@ -30,4 +30,4 @@ N: [[letztendliches]], [[letztendlicheres]], [[letztendlichstes]]
 P: [[letztendlichen]], [[letztendlicheren]], [[letztendlichsten]]  
 
 ---
-[[letzte]], [[endlich]], [[schließlich]], [[letzten Endes]], [[insgesamt]], [[Konnektivpartikeln]]
+[[letzte]], [[endlich]], [[schließlich]], [[letzten Endes]], [[insgesamt]], [[Konnektivpartikeln]], [[entscheiden]]

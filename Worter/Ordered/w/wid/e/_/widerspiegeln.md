@@ -1,22 +1,18 @@
 🪞 [[widerspiegeln]] + sich Akk, [ˈvɪdɐʃpiːɡl̩n]
-[[spiegelte wider|spiegelte wider]]
-haben [[widergespiegelt]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^13|^]]* [[Altersstruktur]] und soziale [[Schichtung]] sowie [[Einkommen]] und [[Konsumverhalten]] [[widerspiegeln|spiegeln]] die [[Verhältnis]]se im ganzen Land wider
 
-Neben den Museumsbesuchen und dem Kauf von Bildern [[spiegelt]] sich das gewachsene Kunstinteresse in der Anzahl der Studierenden im Bereich der bildenden Kunst [[wider]].
+Neben den Museumsbesuchen und dem Kauf von Bildern [[spiegelt]] sich das gewachsene Kunstinteresse in der Anzahl der Studierenden im Bereich der bildenden Kunst [[wider]]
 
 ---
-
 Synonyme: [[reflektieren]], [[spiegeln]], [[abbilden]], [[darstellen]], [[wiedergeben]]
 Antonyme: [[verbergen]], [[verstecken]], [[verzerren]]
 
 ---
-
 Übersetzung: to reflect, to mirror
 
 ---
-
 Morpheme: [[wider]], [[spieg]], [[el]], [[n]]
 #Verb #Untrennbar
 

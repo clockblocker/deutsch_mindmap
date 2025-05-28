@@ -6,10 +6,13 @@ nicht [[schmutzig]]
 ---
 6: Selig, die [[rein]] sind im Herzen; denn sie werden Gott schauen.
 
-*[[C1-Hoehen-T1-201-Text#^26|^]]* Dennoch ist der Film keine [[rein]]e [[Blödelei]], sondern fein mit Schweizerischem Humor und [[hintergründig]]er Kritik und Selbstkritik gespickt. ^26
+*[[C1-Lesen-T3-301-Text#^6|^]]* Auch [[einnehmen|nimmt]] der Ort eine [[Mittelstellung]] zwischen einer [[rein]] [[dörflichen]] und rein städtischen [[Siedlung]] ein
 
+*[[C1-Hoehen-T1-201-Text#^26|^]]* Dennoch ist der Film keine [[rein]]e [[Blödelei]], sondern fein mit Schweizerischem Humor und [[hintergründig]]er Kritik und Selbstkritik gespickt
 
-*[[C1-Lesen-T4-101-Text#^4|^]]* Würde man dieses Geld bei [[rein]] robotischen Missionen [[verwenden]], könnte man ungleich mehr wissenschaftliche [[Ergebnis]]se [[erzielen]] als bei bemannten [[Raumflügen]]. ^4
+*[[C1-Lesen-T4-101-Text#^4|^]]* Würde man dieses Geld bei [[rein]] robotischen Missionen [[verwenden]], könnte man ungleich mehr wissenschaftliche [[Ergebnis]]se [[erzielen]] als bei bemannten [[Raumflügen]]
+
+*[[C1-Lesen-T3-301-Text#^6|^]]* Auch [[einnehmen|nimmt]] der Ort eine [[Mittelstellung]] zwischen einer [[rein]] [[dörflichen]] und rein städtischen [[Siedlung]] ein
 
 
 ---

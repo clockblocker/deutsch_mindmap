@@ -1,1 +1,1 @@
-, [[Durchschnittsdeutsche]]
+, [[Durchschnittsdeutsche]], [[Durchschnittsgemeinde]]

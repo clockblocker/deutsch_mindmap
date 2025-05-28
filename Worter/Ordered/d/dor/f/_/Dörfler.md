@@ -1,1 +1,1 @@
-, [[Dorfbewohner]]
+, [[Dorfbewohner]], [[dörflich]]

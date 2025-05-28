@@ -1,1 +1,1 @@
-, [[Vertraulichkeit]], [[vertraulich]], [[Freund]]
+, [[Vertraulichkeit]], [[vertraulich]], [[Freund]], [[Vertrautheit]]

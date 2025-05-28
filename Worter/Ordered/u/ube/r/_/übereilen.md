@@ -53,3 +53,4 @@ Adjektive: [[übereilend]], [[übereilender]], [[übereilendst]]
 ---
 
 [[übereilender]], [[übereilendes]], [[übereilende]], [[übereilenden]], [[übereilendem]], [[übereilenderer]], [[übereilenderes]], [[übereilendere]], [[übereilenderen]], [[übereilenderem]], [[übereilendster]], [[übereilendstes]], [[übereilendste]], [[übereilendsten]], [[übereilendstem]]
+, [[Bedenken]]

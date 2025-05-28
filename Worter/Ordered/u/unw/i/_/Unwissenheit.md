@@ -1,1 +1,1 @@
-, [[Auskunft]], [[Erfahrung]], [[Geburtsvorbereitung]], [[Erkenntnis]], [[Erlernung]], [[Fachwissen]], [[Einblick]], [[Information]], [[Forschungsgebiet]]--> [[🗣️ Ingredient-Meinung]] <--, [[Aufklärung]], [[Vorkenntnis]]
+, [[Auskunft]], [[Erfahrung]], [[Geburtsvorbereitung]], [[Erkenntnis]], [[Erlernung]], [[Fachwissen]], [[Einblick]], [[Information]], [[Forschungsgebiet]]--> [[🗣️ Ingredient-Meinung]] <--, [[Aufklärung]], [[Vorkenntnis]], [[Marktforschung]], [[Marktbeobachtung]], [[Konsumforschung]]

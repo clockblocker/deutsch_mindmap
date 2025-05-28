@@ -48,4 +48,4 @@ Adjektive: [[andauernd]], [[andauernder]], [[andauerndst]]
 ---
 [[andauernder]], [[andauerndes]], [[andauernde]], [[andauernden]], [[andauerndem]], [[andauernderer]], [[andauernderes]], [[andauerndere]], [[andauernderen]], [[andauernderem]], [[andauerndster]], [[andauerndstes]], [[andauerndste]], [[andauerndsten]], [[andauerndstem]]
 
-, [[ausdauern]]
+, [[ausdauern]], [[fortleben]]

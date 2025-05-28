@@ -2,6 +2,7 @@
 die [[Veränderungen]]
 
 ---
+*[[C1-Lesen-T2-301-Text#^4|^]]* Zu [[Veränderung]]en im [[Verbraucherverhalten]] lassen sich keine klaren [[Aussage]]n machen
 
 Heute werden Sie eine [[Veränderung]] im Beruf haben, für mehr Geld
 

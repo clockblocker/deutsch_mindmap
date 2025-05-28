@@ -5,6 +5,8 @@
 🔗 während, [ˈveːʀʌnt]
 
 ---
+*[[C1-Lesen-T1-402-Text#^4|^]]* `Bei` [[kaum]] jemandem sind die Hände [[während]] des Sprechens [[unbeteiligt]]
+
 ![[006-C1-Schreiben-T2#^2|^]]
 
 Wenn Sie keine Möglichkeit haben, [[vorübergehend]] von zu Hause aus zu arbeiten, schlage ich vor, den Hund [[während]] der Arbeitszeit [[betreuen]] zu lassen. 
@@ -53,4 +55,4 @@ Morpheme:
 
 ---
 #Präposition, [[s1 e1]], [[warten]], [[innerhalb]], [[Konjunktoren]], [[Konnektoren]], [[Währenddessen]], [[wobei]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]
-, [[als]], [[indem]], [[im Laufe]], [[aufwendig]]
+, [[als]], [[indem]], [[im Laufe]], [[aufwendig]], [[wohingegen]]

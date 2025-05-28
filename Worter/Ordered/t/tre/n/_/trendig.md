@@ -1,1 +1,1 @@
-, [[modisch]]
+, [[modisch]], [[Trend]]

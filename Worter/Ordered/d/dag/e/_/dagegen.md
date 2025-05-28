@@ -37,3 +37,4 @@ against, in contrast
 
 - Wie lange [[hast]] du [[dagegengehalten]]?
 - Seit dem Anfang der Diskussion.
+, [[wohingegen]]

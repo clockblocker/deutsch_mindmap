@@ -4,6 +4,8 @@
 die [[Behauptungen]]
 
 ---
+*[[C1-Lesen-T2-301-Text#^7|^]]* Greenwashing ist eine Methode, um das Image von Unternehmen mit [[unzutreffen]]den [[Behauptung]]en zu verbessern
+
  Wann ist die Meinungsfreiheit in Deutschland [[eingeschränkt]]? (80%)
 - [x] bei der [[öffentlichen]] [[Verbreitung]] falscher [[Behauptung]] über [[Einzelne]] Personen
 

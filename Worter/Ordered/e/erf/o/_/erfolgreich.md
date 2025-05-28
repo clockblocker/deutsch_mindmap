@@ -51,3 +51,4 @@ Plural: [[erfolgreichen]], [[erfolgreicheren]], [[erfolgreichsten]]
 
 , [[vergebens]], [[Erfolg]]
 , [[Erfolgen]], [[w-l]], [[abheben]], [[Erfolgsfaktor]], [[Bildungserfolg]], [[Bildungsergebnis]]
+, [[Erfolgsschlager]]

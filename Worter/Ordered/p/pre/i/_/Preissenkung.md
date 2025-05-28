@@ -28,3 +28,4 @@ G: der [[Preissenkung]], der [[Preissenkungen]]
 D: der [[Preissenkung]], den [[Preissenkungen]]
 
 #Feminin 
+, [[Preissteigerung]]

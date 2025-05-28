@@ -47,3 +47,4 @@ Einzigartige mögliche Formen: [[Fähigkeit]], [[Fähigkeiten]], [[Fähigkeiten]
 ---
 
 #Substantiv #Feminin , [[arbeitsunfähig]], [[Begabung]], [[Eigenschaft]], [[Teamfähigkeit]], [[Beherrschung]], [[Kapazität]], [[Zusatzqualifikation]], [[Händchen]], [[Intelligenzgrad]], [[lernfähig]], [[Intelligenzquotient]], [[Denkvermögen]], [[Lernniveau]]
+, [[Leistungsfähigkeit]]

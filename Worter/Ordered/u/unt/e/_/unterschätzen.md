@@ -5,9 +5,11 @@ Midorima to Taiga: Aber [[unterschätz]] mich nicht
 
 Ihr [[Einfluss]] auf [[Kaufentscheidung]]en wird oft [[unterschätzt]]
 
+*[[C1-Lesen-T1-401-Text#^1|^]]* Die [[Folge]]n `von` Schlafstörungen und Schlafmangel dürfen [[keinesfalls]] [[unterschätzt]] werden
+
 *[[C1-Hoehen-T2-200-Text#^23|^]]* Aber dennoch spielen die Gene eine nicht zu [[unterschätzende]] Rolle
 
-0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. ✅ a
+0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]
 
 *[[C1-Hoehen-T2-200-Text#^6|^]]* 12 Untersuchungen [[zeigten]], dass man die Intelligenz von Frauen [[unterschätzt]]
 

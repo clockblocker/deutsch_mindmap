@@ -1,7 +1,9 @@
 🏢 [[betrieblich]], [bəˈtriːplɪç](https://youglish.com/pronounce/betrieblich/german)
 
 ---
-*[[C1-Lesen-T4-102-Text#^22|^]]* Außerdem bekommen die [[Fremdfirmen]] [[Einsicht]] in [[betrieblich]]e Interna und man macht sich [[abhängig]] von ihnen.
+*[[C1-Lesen-T4-102-Text#^22|^]]* Außerdem bekommen die [[Fremdfirmen]] [[Einsicht]] in [[betrieblich]]e Interna und man macht sich [[abhängig]] von ihnen
+
+*[[C1-Hoehen-T3-301-Text#^63|^]]* Und neueste Forschungen haben ergeben, dass die [[Vereinbarkeit]] von Familie und Beruf sowie flexible [[Arbeitszeit]]en und [[betrieblich]] [[geförderte]] [[Kinderbetreuung]] eine ebenso große Rolle spielen wie ein [[angemessen]]es [[Gehalt]]
 
 - Verspätete Information über wichtige [[betriebliche]] [[Änderungen]]
 - Unflexible Home-Office-Regelung trotz [[betrieblicher]] Möglichkeiten

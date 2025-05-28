@@ -32,4 +32,4 @@ G: des [[Kaufverhaltens]], der [[Kaufverhaltensweisen]]
 D: dem [[Kaufverhalten]], den [[Kaufverhaltensweisen]]
 
 
-#Neuter 
+#Neuter , [[Verbraucherverhalten]]

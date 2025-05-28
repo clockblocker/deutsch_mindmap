@@ -56,3 +56,4 @@ _Zu + Inf_: zu [[aufpassen]], P1: [[aufpassend]], P2: [[aufgepasst]]
 ---
 
 [[vorstellen]]
+, [[ablenken]]

@@ -32,3 +32,4 @@ Morpheme: [[nick]], [[en]]
 
 Partizip I: [[nickend]], Partizip II: [[genickt]]
 [[nicken]] - keine Vorsilbe = [[nicken]], [[ablehnen]]
+, [[einnicken]]

@@ -4,6 +4,8 @@
 *[[C1-Hoehen-T2-100-Text#^21|^]]* Würde man dann [[überhaupt]] noch arbeiten gehen? 
 Kritiker der bedingungslosen Grundeinkommens sagen ja, [[hierdurch]] werde [[Faulheit]] [[belohnt]]
 
+*[[C1-Lesen-T3-301-Text#^26|^]]* Auch die [[Nutzung]] dieser Karte war natürlich freiwillig, auch wenn sie mit [[Rabattaktion]]en [[belohnt]] wurde
+
 *[[C1-Hoehen-T2-203-Text#^18|^]]* Und da [[belohnt]], egal ob man spielt oder [[chattet]], die sogenannten Cookies spionieren genau unsere Interessen und unser [[Kaufverhalten]] aus, denn die [[Betreiber]] der Websites haben mit der Verbindung einen [[Vertrag]] zum [[Schnüffelgeschäft]]:
 
 *[[C1-Lesen-T4-103-Text#^23|^]]* Man wird nicht mehr für das Sparen in Form von [[Zins]]en und [[Rendite]] [[belohnt]], 

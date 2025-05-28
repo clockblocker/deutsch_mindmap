@@ -37,3 +37,4 @@ G: der [[Studie]], der [[Studien]]
 D: der [[Studie]], den [[Studien]]
 
 #Feminin , [[Abhandlung]], [[Auswertung]], [[Meinungsumfrage]], [[Zufriedenheitsumfrage]], [[studienvorbereiten]]
+, [[Marktforschung]], [[Marktbeobachtung]], [[Konsumforschung]]

@@ -1,1 +1,1 @@
-, [[Einzelhändler]]
+, [[Einzelhändler]], [[Einzelhandel]]

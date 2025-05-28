@@ -97,3 +97,4 @@ D: dem [[verhalten]], den [[verhalten]]
 
 #Neuter , [[Spielverhalten]], [[Einkaufsverhalten]], [[Wissen]], [[Verbraucher]]
 , [[Kaufverhalten]], [[Alltagsverhaltensweise]], [[Lebenswandel]], [[Reiseverhalten]]
+, [[Verbraucherverhalten]], [[Umweltverhalten]], [[Schlafverhalten]]

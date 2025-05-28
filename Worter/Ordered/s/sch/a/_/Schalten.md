@@ -1,6 +1,8 @@
 ⚙️ [[schalten]], [ˈʃaltn̩](https://youglish.com/pronounce/schalten/german) → [[schaltete]] → [[geschaltet]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^19|^]]* Darüber hinaus wurde auch – extra für die Konsumentinnen und Konsumenten – [[Werbung]] im örtlichen [[Fernsehkanal]] und in einigen [[Zeitschrift]]en [[geschaltet]]die [[Fernsehkanäle]]
+ 
  [[abschalten]] to switch off, to turn off
  [[einschalten]] to switch on, to turn on  
  [[freischalten]] to unlock, to activate  

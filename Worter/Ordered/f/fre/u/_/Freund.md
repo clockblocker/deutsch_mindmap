@@ -26,4 +26,4 @@ D: dem [[Freund]], den [[Freunden]]
 [[freundlich]], [[Freundschaft]], [[befreunden]], [[Freundin]], [[Freundschaftlich]]
 , [[Brieffreund]], [[Liebhaber]], [[Kontrahent]], [[klimafreundlich]]
 
-#Maskulin 
+#Maskulin , [[umweltfreundlich]], [[Umweltfreundlichkeit]]

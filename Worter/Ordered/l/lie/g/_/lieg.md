@@ -1,1 +1,1 @@
-, [[liegen]], [[anliegen]]
+, [[liegen]], [[anliegen]], [[naheliegen]]

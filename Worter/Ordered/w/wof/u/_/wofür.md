@@ -28,3 +28,4 @@ Tags:
 
 Morphems:
 [[Wo]], [[für]], [[wodurch]], [[Grammatik-Pronomen-Interrogative]]
+, [[entscheiden]]

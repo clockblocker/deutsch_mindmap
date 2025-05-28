@@ -30,4 +30,4 @@ A: die [[Tugend]], die [[Tugenden]]
 G: der [[Tugend]], der [[Tugenden]]
 D: der [[Tugend]], den [[Tugenden]]
 
-#Feminin 
+#Feminin , [[Sünde]]

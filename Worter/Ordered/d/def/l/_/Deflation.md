@@ -1,1 +1,1 @@
-, [[Preisanstieg]]
+, [[Preisanstieg]], [[Preissteigerung]]

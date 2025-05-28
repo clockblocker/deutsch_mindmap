@@ -44,4 +44,4 @@ D: der [[Verwaltung]], den [[Verwaltungen]]
 [[Aufsicht]], [[leiten]], [[Regierung]], [[Behörde]], [[Bundesbezirk]], [[Ordnungsamt]], [[Einwohnermeldeamt]], [[Standesamt]], [[Behördenleiter]]
 , [[Amt]], [[Gemeindeverwaltung]], [[Verwaltungsaufbau]], [[Landräte]], [[Innensenator]], [[Stadtverwaltung]], [[Bürgerei]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]]
 
-#Feminin , [[behördlich]], [[Gebäudeverwaltung]], [[Hausverwaltung]]
+#Feminin , [[behördlich]], [[Gebäudeverwaltung]], [[Hausverwaltung]], [[Forschungsabteilung]]

@@ -1,1 +1,1 @@
-, [[lichten]], [[klären]], [[ermitteln]], [[beraten]], [[aufdecken]], [[Aufklärung]]
+, [[lichten]], [[klären]], [[ermitteln]], [[beraten]], [[aufdecken]], [[Aufklärung]], [[gehirnwaschen]]

@@ -1,1 +1,1 @@
-, [[rauchen]], [[verschlucken]], [[Konsum]], [[Konsument]]
+, [[rauchen]], [[verschlucken]], [[Konsum]], [[Konsument]], [[Konsumwelt]], [[Konsumforschung]]

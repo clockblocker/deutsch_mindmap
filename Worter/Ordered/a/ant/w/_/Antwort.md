@@ -25,3 +25,4 @@ Morphems:
 ---
 
 #Substantiv #Feminin, [[Lösung]], [[Auskunft]], [[Bescheid]], [[Verantwortung]], [[verantworten]], [[Musterlösung]], [[Aufgabenstellung]], [[verantwortungsvoll]], [[Rückmeldung]]
+, [[Ausgangsfrage]]

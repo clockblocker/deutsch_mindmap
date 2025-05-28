@@ -1,8 +1,14 @@
 🤷 [[Versehen]], [fɛɐ̯ˈzeːən] | [[versah]], haben [[versehen]]
 
 ---
-[[17 zu inf#^12|^]] «Warum nach Australien?» fragte meine Frau. 
-«Aus [[Versehen]]», sagte ich.  ^12
+*[[17 zu inf#^12|^]]* «Warum nach Australien?» fragte meine Frau. 
+«Aus [[Versehen]]», sagte ich
+
+*[[C1-Lesen-T1-403-Text#^3|^]]* Aus Holz geschnitzte Krokodile und Löwen hatten [[bewegliche]] [[Unterkiefer]] und die Puppen trugen bereits Kleider und Schmuck, waren `mit` Haaren [[versehen]] und konnten ihre [[Gliedmaßen]] bewegen
+*(were [[provided]] `with` hair and could move their [[limbs]])*
+
+
+
 
 ---
 = [[Fehler]], [[Versehentlich]], [[Irrtum]]

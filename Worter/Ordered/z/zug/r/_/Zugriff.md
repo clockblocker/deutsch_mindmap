@@ -43,4 +43,4 @@ G: des [[Zugriffs]], der [[Zugriffe]]
 D: dem [[Zugriff]], den [[Zugriffen]]
 
 
-#Maskulin, [[Internetzugang]], [[Verpflegung]], [[Erholung]]
+#Maskulin, [[Internetzugang]], [[Verpflegung]], [[Erholung]], [[zurückgreifen]]

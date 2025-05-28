@@ -4,6 +4,8 @@
 
 Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
 
+*[[C1-Lesen-T3-301-Text#^20|^]]* Was von dem Muster­markt Haßloch nicht [[angenommen]] wurde, bekam der Rest der Republik oft gar nicht zu [[Gesicht]]
+
 _[[C1-Hoehen-T2-100-Text#^24|^]]_ Ich wäre nicht gezwungen, eine Arbeit [[anzunehmen]], die mir gar nicht gefällt.
 
 _[[C1-Lesen-T2-102-Text#^4|^]]_ Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg von der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]]. ^4

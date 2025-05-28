@@ -50,3 +50,4 @@ PI: [[aufmachend]], PII: [[aufgemacht]], Zu+inf: [[aufzumachen]]
 
 [[Aufmachung]], [[auf]], [[machen]], [[Aufwand]], [[Aufgabe]]
 , [[aufschlagen]]
+, [[erschließen]]

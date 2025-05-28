@@ -1,1 +1,1 @@
-, [[Produkt]]
+, [[Produkt]], [[Warenkorb]]

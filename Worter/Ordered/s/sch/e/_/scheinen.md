@@ -1,6 +1,7 @@
 💡 [[scheinen]] + Dat, [ʃaɪ̯nən], [[schien]], [[geschienen]]
 
 ---
+*[[C1-Lesen-T1-402-Text#^1|^]]* In allen Kulturen [[scheint]] der [[Gesichtsausdruck]] `bei` elementaren Gefühlen gleich zu sein
 
 [[von]] Schmuck [[scheint]] er nicht viel zu verstehen.
 

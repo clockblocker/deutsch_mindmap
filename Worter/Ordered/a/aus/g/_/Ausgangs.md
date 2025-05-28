@@ -1,1 +1,1 @@
-, [[Ausgang]]
+, [[Ausgang]], [[Ausgangsfrage]]

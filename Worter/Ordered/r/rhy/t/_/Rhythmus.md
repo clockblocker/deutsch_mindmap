@@ -1,1 +1,1 @@
-, [[Tempo]]
+, [[Tempo]], [[Trend]]

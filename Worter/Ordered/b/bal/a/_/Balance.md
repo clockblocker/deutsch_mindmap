@@ -28,4 +28,4 @@ G: der [[Balance]], der [[Balancen]]
 D: der [[Balance]], den [[Balancen]]
 
 
-#Feminin 
+#Feminin , [[Mittelstellung]]

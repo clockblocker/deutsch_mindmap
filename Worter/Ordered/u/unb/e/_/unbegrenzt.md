@@ -2,6 +2,8 @@
 🌐 [[unbegrenzt]], [ˈʊnbəˌɡʁɛntst] ≠ [[begrenzt]]
 
 ---
+*[[C1-Hoehen-T3-301-Text#^51|^]]* Wenn wir [[weiterhin]] unsere hohen [[Qualitätsstandard]]s [[beibehalten]] wollen, dann können wir nicht [[unbegrenzt]] [[Löhne]] und [[Gehälter]] [[erhöhen]]
+
 
 260. In Deutschland hat ein Kind in der Schule … (86%)
 	- [ ] Recht auf [[unbegrenzte]] Freizeit.

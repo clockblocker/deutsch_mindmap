@@ -63,3 +63,4 @@ Einzigartige mögliche Formen:
 [[treu]], [[treuer]], [[Treue]], [[treues]], [[treuen]], [[treuem]], [[treuer]], [[treuen]]
 [[treuerer]], [[treuere]], [[treueres]], [[treueren]], [[treueren]], [[treuerster]], [[treueste]], [[treuestes]], [[treuesten]], [[treuesten]], [[treuesten]]
 ''', [[eingefleischt]]
+, [[Kundenbindung]]

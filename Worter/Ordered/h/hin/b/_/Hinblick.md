@@ -6,6 +6,8 @@
 *[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^5|^]]* Zunächst einmal sollte man sich selbst fragen: „Was ist mir persönlich wichtig?“, weiter, 
 `in` [[Hinblick]] `auf` einen beruflichen Wechsel, sollte man sich auf persönliche Fragen genauer [[betrachten]]
 
+*[[C1-Lesen-T1-301-Text#^6|^]]* Der Ansatz ist vor allem 3_`im` [[Hinblick]] `auf`_ die Arbeitsmotivation einzigartig, da er das Ziel verfolgt, eine stärker selbstbestimmte Arbeit zu erreichen
+
 *[[C1-Hoehen-T1-203-Text#^12|^]]* *Durch diese Dokumentation wird deutlich,* 
 dass es `im` [[Hinblick]] `auf` die [[Handhabung]] von Mutterschaft durch die [[Verbände]] noch viel [[Entwicklungspotenzial]] gibt
 

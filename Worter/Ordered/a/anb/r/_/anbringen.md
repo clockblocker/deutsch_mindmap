@@ -46,4 +46,4 @@ sie, [[bringen an]], [[brachten an]], [[bringen an]], [[brächten an]], [[bringe
 Adjektive: [[anbringend]], [[anbringender]], [[anbringendst]]
 
 ---
-[[anbringender]], [[anbringendes]], [[anbringende]], [[anbringenden]], [[anbringendem]], [[anbringenderer]], [[anbringenderes]], [[anbringendere]], [[anbringenderen]], [[anbringenderem]], [[anbringendster]], [[anbringendstes]], [[anbringendste]], [[anbringendsten]], [[anbringendstem]], [[voranbringen]], [[anlegen]], [[verankern]]
+[[anbringender]], [[anbringendes]], [[anbringende]], [[anbringenden]], [[anbringendem]], [[anbringenderer]], [[anbringenderes]], [[anbringendere]], [[anbringenderen]], [[anbringenderem]], [[anbringendster]], [[anbringendstes]], [[anbringendste]], [[anbringendsten]], [[anbringendstem]], [[voranbringen]], [[anlegen]], [[verankern]], [[unangebracht]]

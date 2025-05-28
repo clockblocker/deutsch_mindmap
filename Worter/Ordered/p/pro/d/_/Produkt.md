@@ -27,4 +27,4 @@ A: das [[Produkt]], die [[Produkte]]
 G: des [[Produkts]], der [[Produkte]]
 D: dem [[Produkt]], den [[Produkten]]
 
-#Neuter 
+#Neuter , [[Konsumartikel]]

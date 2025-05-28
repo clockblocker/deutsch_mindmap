@@ -4,6 +4,8 @@ nicht [[bescheiden]]
 ---
 Die Dursleys hatten einen kleinen Sohn namens Dudley und in ihren [[Augen]] gab es [[nirgendwo]] einen [[prächtigeren]] Jungen.
 
+*[[C1-Lesen-T1-403-Text#^4|^]]* Mädchen mithilfe von Puppen, Miniaturmöbeln und [[prächtig]] ausgestatteten Puppenstuben sich langsam an ihre Pflichten `als` Mutter und Hausfrau gewöhnen konnten
+
 ---
 = [[herrlich]], [[großartig]], [[prunkvoll]]
 ≈ [[majestätisch]], [[imposant]], [[glänzend]], [[stattlich]]

@@ -35,4 +35,4 @@ Einzigartige mögliche Formen:
 [[schmutzig]], [[schmutziger]], [[schmutzige]], [[schmutziges]], [[schmutzigen]], [[schmutzigem]], [[schmutziger]], [[schmutzigen]]
 [[schmutziger]], [[schmutzigerer]], [[schmutzigere]], [[schmutzigeres]], [[schmutzigeren]], [[schmutzigereम]], [[schmutzigerer]], [[schmutzigeren]]
 [[schmutzigsten]], [[schmutzigster]], [[schmutziгste]], [[schmutzigвtes]], [[schmutzigsten]], [[schmutzigвtем]], [[schmutzigster]], [[schmutzigsten]]
-''', [[frisch]], [[dreckigen]], [[beleidigen]], [[Geschirr]], [[unrein]], [[staubig]]
+''', [[frisch]], [[dreckigen]], [[beleidigen]], [[Geschirr]], [[unrein]], [[staubig]], [[umweltfreundlich]]

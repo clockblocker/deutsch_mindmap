@@ -29,4 +29,4 @@ A: den [[Qualitätsstandard]], die [[Qualitätsstandards]]
 G: des [[Qualitätsstandards]], der [[Qualitätsstandards]]
 D: dem [[Qualitätsstandard]], den [[Qualitätsstandards]]
 
-#Maskulin , [[qualifiziert]]
+#Maskulin , [[qualifiziert]], [[Umweltstandard]]

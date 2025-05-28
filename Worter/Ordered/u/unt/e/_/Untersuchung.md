@@ -3,6 +3,7 @@
 die [[Untersuchungen]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^25|^]]* Für eine genauere [[Untersuchung]] des Kaufverhaltens wurde ein Teil der [[Einkaufenden]] mit einer Karte der GfK [[ausgestattet]]
 
 Die [[Untersuchung]] [[ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
@@ -43,3 +44,4 @@ D: der [[Untersuchung]], den [[Untersuchungen]]
 , [[Texte/Misc/Anki]], [[ergeben]], [[Studie]], [[Abstrich]]
 
 #Feminin , [[Erkundung]], [[Abhandlung]], [[Auswertung]], [[Erhebung]]
+, [[Marktforschung]], [[Marktbeobachtung]], [[Konsumforschung]]

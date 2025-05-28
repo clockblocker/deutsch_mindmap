@@ -7,6 +7,8 @@ die [[Verfügungen]]
 ---
 Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienstwagen
 
+*[[C1-Lesen-T1-403-Text#^6|^]]* Solch [[ausgewähltes]] Spielzeug stand natürlich nicht allen Kindern `zur` [[Verfügung]]
+
 *[[C1-Lesen-T2-101-Text#^12|^]]* Die Wissenschaftler fanden dabei [[heraus]], dass [[diejenigen]] Kinder viel kreativer waren, die weniger Spielzeug zur [[Verfügung]] hatten. ^12
 
 [[zur Verfügung stellen]]

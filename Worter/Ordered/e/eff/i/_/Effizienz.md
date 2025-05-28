@@ -1,1 +1,1 @@
-, [[Zeiträuber]], [[Ergebnisorientierung]], [[effizient]], [[Kosteneffizienz]], [[Auslastung]], [[Ressourcenschonung]]
+, [[Zeiträuber]], [[Ergebnisorientierung]], [[effizient]], [[Kosteneffizienz]], [[Auslastung]], [[Ressourcenschonung]], [[Leistungsfähigkeit]]

@@ -28,4 +28,4 @@ A: das [[Konsumverhalten]], die [[Konsumverhaltens]]
 G: des [[Konsumverhaltens]], der [[Konsumverhaltens]]
 D: dem [[Konsumverhalten]], den [[Konsumverhaltens]]
 
-#Neuter 
+#Neuter , [[Verbraucherverhalten]], [[Konsumwelt]]

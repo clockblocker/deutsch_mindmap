@@ -35,4 +35,4 @@ G: des [[Verbraucherschutzes]], -
 D: dem [[Verbraucherschutz]], -
 
 #Maskulin 
-, [[Verbraucherschutzgesetz]]
+, [[Verbraucherschutzgesetz]], [[Verbraucherverhalten]]

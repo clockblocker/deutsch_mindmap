@@ -3,6 +3,8 @@
 ---
 Hier im Schlafzimmer [[herrschen|herrscht]] das größte Durcheinander. 
 
+*[[C1-Lesen-T1-402-Text#^7|^]]* Oder [[entscheiden]] wir uns [[provozierend]] `gegen` den [[herrschenden]] Dresscode und geben uns [[unangepasst]]
+
 *[[C1-Hoehen-T2-202-Text#^14|^]]* Man kann es auch daran [[ablesen]], dass sich Menschen in der Politik nicht mehr [[engagieren]] oder dass in den großen Parteien ein [[Mitgliederschwund]] [[herrscht]]
 
 ---

@@ -1,9 +1,12 @@
 🧐 [[absehen]], [ˈapˌzeːən](https://youglish.com/pronounce/absehen/german) → [[sah ab]] → [[abgesehen]]
 
 ---
-*[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] davon werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]
+*[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] `davon` werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]
 
-*[[C1-Hoehen-T4-100-Text#^15|^]]* Davon [[abgesehen]] haben wir oft ein ungutes Gefühl, ob die Bewertungen wirklich der Realität [[entsprechen]]
+*[[C1-Lesen-T1-403-Text#^8|^]]* Kinder ärmerer Schichten mussten sich mit dem Einfachsten begnügen. [[Abgesehen]] `davon`, dass sie nur wenig Freizeit hatten, ^8
+
+
+*[[C1-Hoehen-T4-100-Text#^15|^]]* `Davon` [[abgesehen]] haben wir oft ein ungutes Gefühl, ob die Bewertungen wirklich der Realität [[entsprechen]]
 
 ---
 = [[ausgenommen]], [[außer]], [[ohne]]

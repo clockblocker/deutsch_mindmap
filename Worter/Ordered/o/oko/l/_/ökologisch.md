@@ -1,1 +1,1 @@
-, [[nachhaltig]], [[klimafreundlich]]
+, [[nachhaltig]], [[klimafreundlich]], [[umweltfreundlich]]

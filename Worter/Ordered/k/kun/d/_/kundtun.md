@@ -52,3 +52,4 @@ Adjektive: [[kundtuend]], [[kundtuender]], [[kundtuendst]]
 ---
 
 [[kundtuender]], [[kundtuendes]], [[kundtuende]], [[kundtuenden]], [[kundtuendem]], [[kundtuenderer]], [[kundtuenderes]], [[kundtuendere]], [[kundtuenderen]], [[kundtuenderem]], [[kundtuendster]], [[kundtuendstes]], [[kundtuendste]], [[kundtuendsten]], [[kundtuendstem]]
+, [[bekunden]]

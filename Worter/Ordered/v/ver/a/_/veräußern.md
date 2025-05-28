@@ -1,2 +1,2 @@
 , [[verkaufen]]
-, [[bekommen]], [[erwerben]], [[anmieten]], [[aufkaufen]]
+, [[bekommen]], [[erwerben]], [[anmieten]], [[aufkaufen]], [[akquirieren]]

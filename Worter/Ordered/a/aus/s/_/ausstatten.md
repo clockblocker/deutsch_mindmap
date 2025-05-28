@@ -3,6 +3,9 @@
 🛋️ [[ausstatten]], [ˈaʊ̯sˌʃtatn̩](https://youglish.com/pronounce/ausstatten/german) → [[stattete aus]] → haben [[ausgestattet]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^25|^]]* Für eine genauere [[Untersuchung]] des Kaufverhaltens wurde ein Teil der [[Einkaufenden]] mit einer Karte der GfK [[ausgestattet]]
+
+
 *[[06-C1-Schreiben-T2-M#^9|^]]* Leider stehen wir Mitarbeitende nun durch das Schließen der Kantine vor einer größeren [[Herausforderung]]: Wie Sie sicher wissen, gibt es keine anderen Restaurants oder Supermärkte im [[Umkreis]] und selbst, wenn wir uns unser Essen mitbringen würden, könnten wir es dennoch nicht warm machen, da die Teeküchen nicht dafür [[ausgestattet]] sind. ^9
 
 

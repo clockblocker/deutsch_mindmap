@@ -1,18 +1,17 @@
 🤔 [[entscheiden]], [ɛntˈʃaɪ̯dən]
-[[entschied]]
-haben [[entschieden]]
 
 ---
+*[[C1-Lesen-T1-402-Text#^7|^]]* Oder [[entscheiden]] wir uns [[provozierend]] `gegen` den herrschenden Dresscode und geben uns [[unangepasst]]
 
 Er kann sich nicht [[entschieden]], was er essen möchte
 
 damit ist der Kampf [[entschieden]]
 
-_[[3  Ein Selbstversuch als Hobbybäuerin#^27|^]]_ So gesehen bin ich [[zumindest]] eine [[Ackerheldin]], die den Kampf für sich [[entscheiden]] konnte. ^27
+_[[3  Ein Selbstversuch als Hobbybäuerin#^27|^]]_ So gesehen bin ich [[zumindest]] eine [[Ackerheldin]], die den Kampf für sich [[entscheiden]] konnte
 
-_[[3  Ein Selbstversuch als Hobbybäuerin#^8|^]]_ Ich muss mich bis Ende Oktober [[entscheiden]], ob ich mein Stück Gartenland auch im nächsten Jahr wieder bestellen will. ^8
+_[[3  Ein Selbstversuch als Hobbybäuerin#^8|^]]_ Ich muss mich bis Ende Oktober [[entscheiden]], ob ich mein Stück Gartenland auch im nächsten Jahr wieder bestellen will
 
-3. [[2 Unter Druck nach oben#^24|^]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine [[entscheidende]] Rolle. ^24
+3. [[2 Unter Druck nach oben#^24|^]] [[Erziehung]] und [[Herkunft]] spielen für die Karriere eine [[entscheidende]] Rolle
 
 Der Staat [[entscheidet]] [[Ü/über]] [[Gesetze]] und [[Steuern]].
 

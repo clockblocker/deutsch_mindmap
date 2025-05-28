@@ -3,7 +3,9 @@
 ---
 *[[C1-Hoehen-T1-102-Text#^4|^]]* Lina Sandrock, selbst [[ehemalig]]e [[BWL]]-erin, beschreibt die [[Folge]]n [[wirtschaftlich]] [[ethisch]]en [[Handeln]]s von Klein- und Großunternehmen
 
-Die [[Folge]]n des [[Handeln]]s von [[Konsumenten]] werden hier aufgezeigt.  
+*[[C1-Lesen-T1-401-Text#^1|^]]* Die [[Folge]]n `von` Schlafstörungen und Schlafmangel dürfen [[keinesfalls]] [[unterschätzt]] werden
+
+Die [[Folge]]n des [[Handeln]]s von [[Konsumenten]] werden hier [[aufgezeigt]].  
 
 *[[C1-Hoehen-T1-202-Text#^2|^]]* Aber welche katastrophalen [[Folge]]n kann so ein [[Kauf]] haben?
 

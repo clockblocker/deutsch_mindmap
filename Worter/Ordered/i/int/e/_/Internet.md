@@ -29,4 +29,4 @@ G: des [[Internets]], der [[Internets]]
 D: dem [[Internet]], den [[Internets]]
 
 
-#Neuter , [[Internetsucht]]
+#Neuter , [[Internetsucht]], [[Internetauftritt]]

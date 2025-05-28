@@ -5,7 +5,9 @@
 die [[Aufwände]]
 
 ---
-0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. ✅ a
+0 Den [[Aufwand]] bei einer [[Unternehmens­eröffnung]] darf man nicht [[unterschätzen]]. 
+
+*[[C1-Lesen-T3-301-Text#^32|^]]* Denn der zu [[betreibend]]e [[Aufwand]] hat sich nicht mehr [[gelohnt]]
 
 *[[C1-Lesen-T2-102-Text#^36|^]]* Der Unterschied mache jedoch, wie der Studienleiter betont, der [[Aufwand]]: Die Walker waren täglich 40 Minuten unterwegxs, die Intensiv-Sportler nur knapp 24
 

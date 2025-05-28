@@ -1,1 +1,1 @@
-, [[herausfordern]], [[fordern]], [[hervorrufen]]
+, [[herausfordern]], [[fordern]], [[hervorrufen]], [[provozierend]]

@@ -3,14 +3,11 @@ die [[Buntwäschen]]
 
 ---
 
+
 ---
-
-Synonyme:
-
 - [[Buntwaschung]], [[Colorwäsche]], [[Farbwäsche]]
 
 ---
-
 Übersetzung: colored laundry
 
 ---

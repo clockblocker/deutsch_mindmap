@@ -60,4 +60,4 @@ sie, [[beeinflussen]], [[beeinflussten]], [[beeinflussen]], [[beeinflussten]], [
 Adjektive: [[beeinflussend]], [[beeinflussender]], [[beeinflussendst]]
 
 ---
-[[beeinflussender]], [[beeinflussendes]], [[beeinflussende]], [[beeinflussenden]], [[beeinflussendem]], [[beeinflussenderer]], [[beeinflussenderes]], [[beeinflussendere]], [[beeinflussenderen]], [[beeinflussenderem]], [[beeinflussendster]], [[beeinflussendstes]], [[beeinflussendste]], [[beeinflussendsten]], [[beeinflussendstem]], [[Umwelteinfluss]], [[Einflussfaktor]], [[verführen]], [[wohlhabend]]
+[[beeinflussender]], [[beeinflussendes]], [[beeinflussende]], [[beeinflussenden]], [[beeinflussendem]], [[beeinflussenderer]], [[beeinflussenderes]], [[beeinflussendere]], [[beeinflussenderen]], [[beeinflussenderem]], [[beeinflussendster]], [[beeinflussendstes]], [[beeinflussendste]], [[beeinflussendsten]], [[beeinflussendstem]], [[Umwelteinfluss]], [[Einflussfaktor]], [[verführen]], [[wohlhabend]], [[gehirnwaschen]]

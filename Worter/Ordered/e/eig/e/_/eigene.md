@@ -4,6 +4,8 @@ nicht [[fremd]]
 ---
 NIC: Dann können wir jetzt unsere [[eigene]] süße Musik spielen, Babe …  
 
+*[[C1-Lesen-T2-301-Text#^9|^]]* Greenwashing kann man [[betreiben]], [[indem]] man [[Lügen]] über die [[eigene]] [[Umweltfreundlichkeit]] [[verbreitet]]
+
 13 Kleingärtner:innen kultivieren Obst und Gemüse ausschließlich für den [[eigene]]n [[Bedarf]].  
 
 26 [[Eigenen]] Mitarbeitenden wird die Chance zur Weiterbildung genommen.  

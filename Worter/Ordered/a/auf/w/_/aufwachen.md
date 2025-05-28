@@ -35,3 +35,4 @@ PI: [[aufwachend]], PII: [[aufgewacht]], Zu+inf: [[aufzuwachen]]
 
 [[Aufwachen]], [[wach]], [[wachsam]], [[wachsen]], [[wachsend]]
 , [[schlummern]]
+, [[einnicken]]

@@ -53,3 +53,4 @@ Zu+infinitive: [[zu überzeugen]]
 [[Überzeugung]], [[Überzeugungskraft]], [[Überzeugungstäter]], [[überzeugend]], [[überzeugt]], [[Selbstüberzeugung]]
 
 [[zeugen]], [[Überzeugungsarbeit]], [[schaden]], [[zwingen]]
+, [[gehirnwaschen]]

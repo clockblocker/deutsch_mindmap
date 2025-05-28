@@ -45,3 +45,4 @@ Morpheme: [[ob]], [[wohl]]
 
 #Konjunktion #Nebensatz
 , [[trotz]], [[Konjunktoren]], [[Konnektoren]], [[Texte/Misc/Anki]], [[unterhalten]], [[ungeachtet]], [[insofern]]
+, [[wohingegen]]

@@ -2,11 +2,10 @@
 fähiger, fähigste ≠ [[unfähig]]
 
 ---
-, [[geeignet]], [[arbeitsunfähig]]
-
+*[[C1-Lesen-T1-401-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu [[höh]]erer [[Leistung]] 7 [[fähig]] waren
 
 ---
-= [[kompetent]], [[tauglich]], [[geeignet]]
+= [[kompetent]], [[tauglich]], [[geeignet]], [[geeignet]], [[arbeitsunfähig]]
 ≈ [[begabt]], [[talentiert]], [[qualifiziert]], [[vermögend]]
 ≠ [[unfähig]], [[untauglich]], [[ungeeignet]], [[inkompetent]]
 
@@ -26,4 +25,4 @@ N: [[fähiges]], [[fähigeres]], [[fähigstes]], [[das Fähige]], [[die Fähigen
 P: [[fähigen]], [[fähigeren]], [[fähigsten]], [[die Fähigen]], [[die Fähigen]], [[die Fähigen]]  
 
 ---
-[[Fähigkeit]], [[Fähigkeitsnachweis]], [[unfähig]], [[Unfähigkeit]], [[unfähig]], [[fähig]], [[Teamfähigkeit]], [[widerstandsfähig]], [[tragfähig]], [[einsatzfähig]], [[veranlagt]], [[lernfähig]], [[Merkfähigkeit]], [[geschickt]], [[Widerstandsfähigkeit]], [[machtlos]]
+[[Fähigkeit]], [[Fähigkeitsnachweis]], [[unfähig]], [[Unfähigkeit]], [[unfähig]], [[fähig]], [[Teamfähigkeit]], [[widerstandsfähig]], [[tragfähig]], [[einsatzfähig]], [[veranlagt]], [[lernfähig]], [[Merkfähigkeit]], [[geschickt]], [[Widerstandsfähigkeit]], [[machtlos]], [[Leistungsfähigkeit]]

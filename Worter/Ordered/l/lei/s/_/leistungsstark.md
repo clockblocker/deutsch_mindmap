@@ -1,1 +1,1 @@
-, [[Leistung]]
+, [[Leistung]], [[Leistungsfähigkeit]]

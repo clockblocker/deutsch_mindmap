@@ -33,3 +33,4 @@ Dative: dem [[Abschluss]], den [[Abschlüssen]]
 
 , [[durch]], [[Schluss]], [[Abschlussbericht]]
 , [[Einführung]], [[Anfang]], [[Bildungserfolg]], [[Pitch]], [[Vorarbeit]], [[Semesterende]], [[Bildungsergebnis]]
+, [[Zwischenzeit]]

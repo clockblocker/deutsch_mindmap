@@ -1,7 +1,13 @@
 🛠️ [[betreiben]], [bəˈtʁaɪ̯bn̩](https://youglish.com/pronounce/betreiben/german) → [[betrieb]] → haben/sein [[betrieben]]
 
 ---
-*[[C1-Lesen-T4-101-Text#^1|^]]* Natürlich ist es [[wesentlich]] [[kostengünstiger]], die [[Erkundung]] von Planeten mit Robotern zu [[betreiben]]. ^1
+*[[C1-Lesen-T4-101-Text#^1|^]]* Natürlich ist es [[wesentlich]] [[kostengünstiger]], die [[Erkundung]] von Planeten mit Robotern zu [[betreiben]]
+
+*[[C1-Lesen-T3-301-Text#^32|^]]* Denn der zu [[betreibend]]e [[Aufwand]] hat sich nicht mehr [[gelohnt]]
+
+*[[C1-Lesen-T2-301-Text#^9|^]]* Greenwashing kann man [[betreiben]], [[indem]] man [[lügen]] über die eigene [[Umweltfreundlichkeit]] [[verbreitet]]
+
+*[[C1-Lesen-T2-301-Text#^8|^]]* Greenwashing kann man [[betreiben]], [[indem]] man anerkannte [[Umweltzertifikat]]e falsch [[verwendet]]
 
 
 ---

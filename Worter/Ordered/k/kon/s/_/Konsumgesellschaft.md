@@ -1,1 +1,1 @@
-, [[Verschwendungsgesellschaft]]
+, [[Verschwendungsgesellschaft]], [[Konsumwelt]]

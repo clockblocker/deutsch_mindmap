@@ -2,4 +2,4 @@
 
 ---
 [[Wo]] schlaft ihr?[[irgendwo]], [[Woraus]], [[woran]], [[wodurch]], [[wobei]], [[Nebensatz Conector]]
-, [[nirgendwo]], [[Grammatik-Pronomen-Interrogative]], [[womöglich]]
+, [[nirgendwo]], [[Grammatik-Pronomen-Interrogative]], [[womöglich]], [[wohingegen]]

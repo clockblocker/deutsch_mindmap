@@ -32,4 +32,4 @@ A: den [[Verkauf]], die [[Verkäufe]]
 G: des [[Verkaufes]], der [[Verkäufe]]  
 D: dem [[Verkauf]], den [[Verkäufen]]
 
-#Maskulin , [[Wohnungsverkauf]], [[Herstellungsprozess]], [[Umtausch]], [[Rückgabe]]
+#Maskulin , [[Wohnungsverkauf]], [[Herstellungsprozess]], [[Umtausch]], [[Rückgabe]], [[Einzelhandel]]

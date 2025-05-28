@@ -24,4 +24,4 @@ to age
 Adjektive: [[alternd]], [[alternder]], [[alterndst]]
 
 ---
-[[alternder]], [[alterndes]], [[alternde]], [[alternden]], [[alterndem]], [[alternderer]], [[alternderes]], [[alterndere]], [[alternderen]], [[alternderem]], [[alterndster]], [[alterndstes]], [[alterndste]], [[alterndsten]], [[alterndstem]]
+[[alternder]], [[alterndes]], [[alternde]], [[alternden]], [[alterndem]], [[alternderer]], [[alternderes]], [[alterndere]], [[alternderen]], [[alternderem]], [[alterndster]], [[alterndstes]], [[alterndste]], [[alterndsten]], [[alterndstem]], [[Altersstruktur]]

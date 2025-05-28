@@ -1,1 +1,1 @@
-[[Treu]], [[treulos]]
+[[Treu]], [[treulos]], [[Kundenbindung]]

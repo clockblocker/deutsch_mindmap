@@ -49,3 +49,4 @@ Morpheme: [[be]]Teil]], [[ig]], [[en]]
 
 Partizip I: [[beteiligend]], Partizip II: [[beteiligt]]
 [[beteiligen]] - [[be]] = [[teilen]], [[Beteiligung]], [[einlassen]], [[Anteil]], [[beitragen]], [[teilhaben]], [[engagieren]]
+, [[mitbestimmen]]

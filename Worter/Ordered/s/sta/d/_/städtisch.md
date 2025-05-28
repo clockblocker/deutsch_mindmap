@@ -1,1 +1,1 @@
-, [[Stadtoberhaupt]], [[Stadträte]], [[Heimatstadt]], [[Stadt]]
+, [[Stadtoberhaupt]], [[Stadträte]], [[Heimatstadt]], [[Stadt]], [[dörflich]]

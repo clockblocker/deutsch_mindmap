@@ -1,1 +1,1 @@
-, [[dauerhaft]], [[unaufhörlich]]
+, [[dauerhaft]], [[unaufhörlich]], [[unentwegt]]

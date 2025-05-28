@@ -1,1 +1,1 @@
-between, [[inzwischen]], [[da]], [[Zwischenergebnis]], [[Wechselpräposition]], [[zwischenmenschlich]], [[dazwischenfunken]]
+between, [[inzwischen]], [[da]], [[Zwischenergebnis]], [[Wechselpräposition]], [[zwischenmenschlich]], [[dazwischenfunken]], [[Zwischenzeit]]

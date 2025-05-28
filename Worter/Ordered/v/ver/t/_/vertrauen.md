@@ -44,4 +44,4 @@ PI: [[vertrauend]], PII: [[vertraut]], Zu+inf: [[zu vertrauen]]
 [[Vertrauen]], [[vertrauenswürdig]], [[vertraulich]], [[Vertrauensperson]]
 , [[Vertrauensschwund]], [[fürchten]], [[Befürchtung]], [[mangeln]], [[gegenseitig]]
 
-#Feminin , [[Vertraulichkeit]], [[Geborgenheit]], [[Überzeugung]], [[Schnüffelgeschäft]], [[Hoffnung]], [[Zuversicht]]
+#Feminin , [[Vertraulichkeit]], [[Geborgenheit]], [[Überzeugung]], [[Schnüffelgeschäft]], [[Hoffnung]], [[Zuversicht]], [[Vertrautheit]]

@@ -4,7 +4,11 @@
 die [[aussagen]]
 
 ---
-Ich [[betrachte]] diese [[Aussage]] als nicht relevant.
+Ich [[betrachte]] diese [[Aussage]] als nicht relevant
+
+*[[C1-Lesen-T2-301-Text#^10|^]]* Greenwashing kann man betreiben, indem man über die Natürlichkeit von [[Stoff]]en [[unzutreffende]] [[Aussage]]n macht
+
+*[[C1-Lesen-T2-301-Text#^4|^]]* Zu [[Veränderung]]en im [[Verbraucherverhalten]] lassen sich keine klaren [[Aussage]]n machen
 
 Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussage]]n im Hörtext
 

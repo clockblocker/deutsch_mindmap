@@ -24,4 +24,4 @@ however, on the other hand, whereas
 [[hin]] + [[gegen]]
 
 
-, [[wiederum]], [[einerseits]]
+, [[wiederum]], [[einerseits]], [[wohingegen]]

@@ -1,4 +1,4 @@
-[[0-C1-Lesen-T2-Ubung-List|Ubung-List|]]
+[[0-C1-Lesen-T2-Ubung-List|Ubung-List|List]]
 
 ---
 
@@ -21,36 +21,36 @@ Doch wie sollten Sprachregeln durchgesetzt werden? In Deutschland dürfen alle M
 ---
 
 9. Was ist der aktuelle Stand der Auseinandersetzung um gendergerechtes Deutsch?
-a) Viele Menschen stören sich an neuen Begriffen wie gendersensibel oder Genderei.  
-b) Viele Menschen werden immer kompromissloser in ihren Ansichten.  
-c) Kritik kommt vor allem an der mangelhaften Umsetzung in Lehrmaterial.  
+   a) Viele Menschen stören sich an neuen Begriffen wie gendersensibel oder Genderei.  
+   b) Viele Menschen werden immer kompromissloser in ihren Ansichten.  
+   c) Kritik kommt vor allem an der mangelhaften Umsetzung in Lehrmaterial.
 
 10. Geschlechtliche Vielfalt in der Sprache ...
-a) wird bereits seit längerer Zeit ohne konkretes Ergebnis erörtert.  
-b) kann auch durch die maskulinen Formen im Deutschen vermittelt werden.  
-c) wird heute anders als in der Vergangenheit diskutiert.  
+    a) wird bereits seit längerer Zeit ohne konkretes Ergebnis erörtert.  
+    b) kann auch durch die maskulinen Formen im Deutschen vermittelt werden.  
+    c) wird heute anders als in der Vergangenheit diskutiert.
 
 11. Der Stern hat den Vorteil, ...
-a) dass er besser zu verstehen ist als Doppelpunkte oder Unterstriche.  
-b) dass er im Gegensatz zu den anderen Möglichkeiten umsetzbar ist.  
-c) dass sich Menschen mit unterschiedlichen Geschlechtsidentitäten vertreten und angesprochen fühlen.  
+    a) dass er besser zu verstehen ist als Doppelpunkte oder Unterstriche.  
+    b) dass er im Gegensatz zu den anderen Möglichkeiten umsetzbar ist.  
+    c) dass sich Menschen mit unterschiedlichen Geschlechtsidentitäten vertreten und angesprochen fühlen.
 
 12. Wo stößt der Stern an seine Grenzen?
-a) Bei bestimmten sprachlichen Strukturen.  
-b) Bei der realen Abbildung sozialer Verhältnisse.  
-c) Bei den rechtlichen Regeln der deutschen Sprache.  
+    a) Bei bestimmten sprachlichen Strukturen.  
+    b) Bei der realen Abbildung sozialer Verhältnisse.  
+    c) Bei den rechtlichen Regeln der deutschen Sprache.
 
 13. Welches Argument wird für die Beibehaltung des generischen Maskulinums angeführt?
-a) Bewährte Sprachstrukturen dürften nicht verändert werden.  
-b) Die geschlechtliche Bedeutung spiele bei der Verwendung keine Rolle.  
-c) Es gebe kein gesellschaftliches Interesse an einer gendergerechten Sprache.  
+    a) Bewährte Sprachstrukturen dürften nicht verändert werden.  
+    b) Die geschlechtliche Bedeutung spiele bei der Verwendung keine Rolle.  
+    c) Es gebe kein gesellschaftliches Interesse an einer gendergerechten Sprache.
 
 14. Die Auseinandersetzung über eine gendergerechte Sprache ...
-a) bestimmte auch die letzte Bundestagswahl.  
-b) wird durch ein Sprachgesetz geklärt werden.  
-c) wird heute in traditionellen und neuen Medien geführt.  
+    a) bestimmte auch die letzte Bundestagswahl.  
+    b) wird durch ein Sprachgesetz geklärt werden.  
+    c) wird heute in traditionellen und neuen Medien geführt.
 
 15. Der Autor wünscht sich, ...
-a) dass man in Deutschland weiter frei sagen kann, was man möchte.  
-b) dass juristische Regelungen eingeführt werden.  
-c) dass die Auseinandersetzung zu dem Thema in Zukunft konstruktiver verläuft.
+    a) dass man in Deutschland weiter frei sagen kann, was man möchte.  
+    b) dass juristische Regelungen eingeführt werden.  
+    c) dass die Auseinandersetzung zu dem Thema in Zukunft konstruktiver verläuft.

@@ -7,6 +7,7 @@
 *[[035-C1-Schreiben-T2#^2|^]]* Nun informiert Sie das [[Sprachenzentrum]] der Universität, dass der Kurs nicht wie [[angekündigt]] [[studienbegleitend]], sondern als [[Blockveranstaltung]] nach [[Semesterende]] [[stattfinden]] soll. ^2
 
 
+*[[C1-Lesen-T2-301-Text#^18|^]]* Wenn Unternehmen ökologische Ziele [[ankündigen]], ändert sich das allgemeine [[Umweltverhalten]] in der Firma
 
 ---
 = [[bekannt geben]], [[ansagen]], [[annoncieren]]

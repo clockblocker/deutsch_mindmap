@@ -2,7 +2,9 @@
 📈 [[erhöhen]], [ɛɐ̯ˈhøːən] | [[erhöhte]], haben [[erhöht]]
 
 ---
-*[[031-C1-Schreiben-T2#^2|^]]* `Vom` nächsten [[Semester]] an soll die monatliche [[Warmmiete]] `von` 400 € `auf` 600 € erhöht werden. ^2
+*[[031-C1-Schreiben-T2#^2|^]]* `Vom` nächsten [[Semester]] an soll die monatliche [[Warmmiete]] `von` 400 € `auf` 600 € erhöht werden
+
+*[[C1-Hoehen-T3-301-Text#^51|^]]* Wenn wir [[weiterhin]] unsere hohen [[Qualitätsstandard]]s [[beibehalten]] wollen, dann können wir nicht [[unbegrenzt]] [[Löhne]] und [[Gehälter]] [[erhöhen]]
 
 
 *[[C1-Hoehen-T1-100-Text#^21|^]]* Auch wenn es kaum möglich sein wird, in bestimmten Stadtteilen eine [[Mietpreisspirale]] [[durchzusetzen]], für Städte die Möglichkeit, private [[Wohnungsbestände]] [[aufzukaufen]] und die [[Anzahl]] von Sozialwohnungen zu [[erhöhen]].

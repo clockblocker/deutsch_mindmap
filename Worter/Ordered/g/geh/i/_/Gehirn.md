@@ -28,3 +28,4 @@ Einzigartige mögliche Formen: [[Gehirns]], [[Gehirne]], [[Gehirnen]]
 ---
 
 #Substantiv #Neuter
+, [[gehirnwaschen]]

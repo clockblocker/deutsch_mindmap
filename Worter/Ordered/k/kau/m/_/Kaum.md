@@ -6,6 +6,8 @@
 ---
 [[Kaum]] hat man ein Mädchen dabei, schon geht alles [[schief]]!
 
+*[[C1-Lesen-T1-402-Text#^4|^]]* `Bei` [[kaum]] jemandem sind die Hände [[während]] des Sprechens [[unbeteiligt]]
+
 Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den neuen Kollegen [[kaum]] Arbeitsraum [[vorhanden]] ist. 
 
 *[[3. Schuldenpaket. Vergeigen es die Grünen?#^1|^]]* Ich kann es mir [[kaum]] mit [[ansehen]]. ^1

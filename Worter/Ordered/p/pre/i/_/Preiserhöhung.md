@@ -1,2 +1,2 @@
 
-, [[Rabatt]], [[Preisnachlass]], [[Preissenkung]]
+, [[Rabatt]], [[Preisnachlass]], [[Preissenkung]], [[Preissteigerung]]

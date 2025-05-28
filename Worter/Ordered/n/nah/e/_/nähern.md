@@ -2,7 +2,10 @@
 🚶 [[nähern]], [ˈnɛːɐ̯n](https://youglish.com/pronounce/nähern/german) → [[näherte]] → [[genähert]] | [[sich nähern]]
 
 ---
-*[[C1-Lesen-T1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und [[einleitet|leitet]] eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]. ^11
+*[[C1-Lesen-T1-000-Loesung#^11|^]]* „[[Dabei]]“ kann hier im Sinne von „bei dieser [[Gelegenheit]]“ oder „[[währenddessen]]“ [[verwendet]] werden und [[einleitet|leitet]] eine mögliche Schwierigkeit ein, die [[auftreten]] kann, wenn sich der Roboter dem Müll [[nähert]]
+
+*[[C1-Lesen-T3-301-Text#^9|^]]* [[Nähern]] wir uns der [[Gemeinde]] Haßloch in Rheinland-Pfalz und wagen wir einen genaueren Blick
+
 
 ---
 = [[annähern]], [[heranrücken]] | [[sich nähern]]

@@ -3,6 +3,8 @@
 ---
 Machen Sie einen Vorschlag, wie jeder [[Einzelne]] `zum` Klimaschutz [[beitragen]] kan
 
+*[[C1-Lesen-T2-301-Text#^14|^]]* Die [[Forschung]] [[beitragen|trägt]] zur [[Überprüfbarkeit]] von [[Umweltstandards]] bei
+
 *[[C1-Hoehen-T2-101-Text#^21|^]]* Die Urbanisierung [[beitragen|trägt]] u. a. dazu bei, dass Kinder und Jugendliche eine immer [[schwäch]]ere [[Bindung]] zu der Natur haben und diese somit immer mehr zu etwas [[Abstraktem]] wird
 
 Interviews mit der [[Zielgruppe]] [[beitragen|trugen]] `zur` [[Entstehung]] dieses Buches [[bei]]

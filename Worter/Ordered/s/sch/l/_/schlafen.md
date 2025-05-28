@@ -29,4 +29,4 @@ PI: [[schlafend]], PII: [[geschlafen]], Zu+inf: [[zu schlafen]]
 
 ---
 [[Schlaf]], [[Schläfer]], [[Schläferin]], [[schläfrig]], [[einschlafen]], [[Schlafzimmer]], [[ausschlafen]], [[träumen]]
-, [[aufwachen]]
+, [[aufwachen]], [[einnicken]], [[Schlafverhalten]]

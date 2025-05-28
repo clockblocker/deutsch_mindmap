@@ -40,4 +40,4 @@ G: des [[Geschäftes]], der [[Geschäfte]]
 D: dem [[Geschäft]], den [[Geschäften]]
 
 #Neuter
-, [[Schnüffelgeschäft]]
+, [[Schnüffelgeschäft]], [[Einzelhandel]]

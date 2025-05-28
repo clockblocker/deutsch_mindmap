@@ -1,3 +1,3 @@
 --> 📊 [[Grad-Verteilung]] <--
 --> 🧩 [[Grad-Wahrheit]] <--
-, [[unerhört]], [[günstig]], [[vertretbar]], [[passabel]]
+, [[unerhört]], [[günstig]], [[vertretbar]], [[passabel]], [[Akzeptanz]]

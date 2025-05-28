@@ -6,8 +6,9 @@
 🚨 🔵 der [[Einsatz]], [ˈaɪ̯nzats](https://youglish.com/pronounce/Einsatz/german)
 
 ---
-*[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden. ^34
+*[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden
 
+*[[C1-Lesen-T3-301-Text#^33|^]]* Sie ahnen es schon: In den Zeiten von [[Punktesystem]]en, [[Kundenkarte]]n und Apps und Online-[[Befragung]]en kommen Firmen viel leichter und mit [[gering]]erem [[Einsatz]] an [[valid]]e [[Datenmenge]]n über das [[Kaufverhalten]] alter und neu zu erschließender Zielgruppen
 
 Dr. Frentzen sagt, dass [[verpflichtende]] soziale [[Einsätze]] [[überzeugen]]de [[Gründe]] haben müssen. 
 

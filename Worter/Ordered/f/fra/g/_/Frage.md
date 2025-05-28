@@ -27,4 +27,4 @@ A: die [[Frage]], die [[Fragen]]
 G: der [[Frage]], der [[Fragen]]
 D: der [[Frage]], den [[Fragen]]
 
-#Feminin , [[nachfragen]], [[Logikaufgabe]]
+#Feminin , [[nachfragen]], [[Logikaufgabe]], [[Ausgangsfrage]]

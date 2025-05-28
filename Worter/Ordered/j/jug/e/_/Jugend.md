@@ -1,1 +1,1 @@
-, [[Taschengeld]], [[Jugendamt]], [[Jugendliche]], [[Lebensjahr]], [[Nachwuchs]], [[Kindesalter]], [[Jugendsprache]], [[Kindheit]], [[Lebensalter]], [[jugendlich]], [[Durchschnittsalter]]
+, [[Taschengeld]], [[Jugendamt]], [[Jugendliche]], [[Lebensjahr]], [[Nachwuchs]], [[Kindesalter]], [[Jugendsprache]], [[Kindheit]], [[Lebensalter]], [[jugendlich]], [[Durchschnittsalter]], [[Altersstruktur]]

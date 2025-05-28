@@ -5,6 +5,8 @@
 ---
 Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den neuen Kollegen [[kaum]] Arbeitsraum [[vorhanden]] ist. 
 
+*[[C1-Lesen-T1-401-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[fähig]]
+
 Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]. ^5
 
 

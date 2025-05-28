@@ -22,4 +22,4 @@ therefore, consequently, thus
 [[so]]|[[mit]]
 
 ---
-[[also]], [[mithin]], [[demzufolge]], [[folglich]], [[demnach]], [[Konnektivpartikeln]], [[derart]]
+[[also]], [[mithin]], [[demzufolge]], [[folglich]], [[demnach]], [[Konnektivpartikeln]], [[derart]], [[wohingegen]]

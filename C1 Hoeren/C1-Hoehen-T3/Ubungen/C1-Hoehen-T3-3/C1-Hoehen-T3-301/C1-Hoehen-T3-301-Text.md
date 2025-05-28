@@ -41,13 +41,13 @@
 ---
 
 22 Herr Osterholz warnt vor ...
-- [ ] a steigenden Lohnkosten
+- [x] a steigenden Lohnkosten
 - [ ] b Streit mit südeuropäischen Ländern
 - [ ] c zu hohen Qualitätsstandards bei der Ausbildung  
 
 23 Für Frau Ebner-Perotti sind ...
 - [ ] a faire Bezahlung und passende Sozialleistungen  wichtig
-- [ ] b Forschungen zur Vereinbarkeit von Familie und Beruf wünschenswert
+- [x] b Forschungen zur Vereinbarkeit von Familie und Beruf wünschenswert
 - [ ] c kostenlose Kinderbetreuungsangebote in den Betrieben notwendig
 
 ---

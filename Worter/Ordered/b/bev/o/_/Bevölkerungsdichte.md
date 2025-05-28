@@ -1,1 +1,1 @@
-, [[Bevölkerung]], [[Bevölkerungsstruktur]]
+, [[Bevölkerung]], [[Bevölkerungsstruktur]], [[Durchschnittsbevölkerung]]

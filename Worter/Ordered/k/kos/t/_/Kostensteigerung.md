@@ -1,1 +1,1 @@
-, [[Kosteneinsparung]], [[Preisanstieg]]
+, [[Kosteneinsparung]], [[Preisanstieg]], [[Preissteigerung]]

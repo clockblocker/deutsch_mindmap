@@ -28,4 +28,4 @@ D: dem [[Ausgleich]], den [[Ausgleichen]]
 ---
 [[ausgleichen]], [[ausgeglichen]], [[Ausgleicher]], [[Ausgleichsmotor]], [[Ausgleichssport]], [[Abrechnung]], [[Stressabbau]], [[Wiedergutmachung]]
 
-#Maskulin 
+#Maskulin , [[Mittelstellung]]

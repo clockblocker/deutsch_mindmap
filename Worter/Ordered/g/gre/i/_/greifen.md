@@ -34,4 +34,4 @@ Morpheme: [[greifen]]
 Partizip I: [[greifend]], Partizip II: [[gegriffen]]
 
 +[[an]] = [[angreifen]]
-, [[fangen]], [[schnappen]], [[nehmen]], [[begreifen]], [[anfassen]], [[Fehlgriff]], [[griffbereit]], [[eingreifen]], [[greifbar]], [[Eingriff]]
+, [[fangen]], [[schnappen]], [[nehmen]], [[begreifen]], [[anfassen]], [[Fehlgriff]], [[griffbereit]], [[eingreifen]], [[greifbar]], [[Eingriff]], [[zurückgreifen]]

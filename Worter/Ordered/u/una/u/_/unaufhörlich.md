@@ -27,4 +27,4 @@ unceasingly, incessantly
 Adjektive: [[unaufhörlich]], [[unaufhörlicher]], [[unaufhörlichst]]
 
 ---
-[[unaufhörlicher]], [[unaufhörliches]], [[unaufhörliche]], [[unaufhörlichen]], [[unaufhörlichem]], [[unaufhörlicherer]], [[unaufhörlicheres]], [[unaufhörlichere]], [[unaufhörlicheren]], [[unaufhörlicherem]], [[unaufhörlichster]], [[unaufhörlichstes]], [[unaufhörlichste]], [[unaufhörlichsten]], [[unaufhörlichstem]]
+[[unaufhörlicher]], [[unaufhörliches]], [[unaufhörliche]], [[unaufhörlichen]], [[unaufhörlichem]], [[unaufhörlicherer]], [[unaufhörlicheres]], [[unaufhörlichere]], [[unaufhörlicheren]], [[unaufhörlicherem]], [[unaufhörlichster]], [[unaufhörlichstes]], [[unaufhörlichste]], [[unaufhörlichsten]], [[unaufhörlichstem]], [[unentwegt]]

@@ -24,4 +24,4 @@ D: der [[Schwäche]], den [[Schwächen]]
 
 ---
 [[schwach]], [[schwächen]], [[schwächlich]], [[schwächeln]], [[Willenskraft]], [[Unantastbarkeit]], [[Begabung]], [[Talent]]
-, [[Durchhaltevermögen]], [[abschwächen]], [[Leistung]], [[Bedürftigkeit]], [[Leistungsabbau]], [[Widerstandsfähigkeit]], [[Zerbrechlichkeit]]
+, [[Durchhaltevermögen]], [[abschwächen]], [[Leistung]], [[Bedürftigkeit]], [[Leistungsabbau]], [[Widerstandsfähigkeit]], [[Zerbrechlichkeit]], [[Leistungsfähigkeit]]

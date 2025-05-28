@@ -3,6 +3,8 @@
 ---
 *Die Weltgesundheitsorganisation (WHO)* [[anerkennt|erkennt]] *bestimmte Online-Exzesse* `als` *Sucht* [[an]]
 
+*[[C1-Lesen-T2-301-Text#^8|^]]* Greenwashing kann man [[betreiben]], [[indem]] man [[anerkannte]] [[Umweltzertifikat]]e falsch [[verwendet]]
+
 *[[C1-Hoehen-T1-101-Text#^7|^]]* Betont wird in diesem Sachbuch, dass sich die Schulmedizin in Deutschland mit alternativer Medizin noch [[schwertut]] und die EAV wohl trotz großer [[Erfolg]]e noch einen langen Weg vor sich hat, bevor sie als [[Kassenleistung]] [[anerkannt]] wird
 
 *[[C1-Hoehen-T2-203-Text#^31|^]]* [[Computerspielsucht]] könnte die erste Sucht sein, die tatsächlich als [[Sucht]] [[anerkannt]] wird

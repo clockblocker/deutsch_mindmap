@@ -3,6 +3,8 @@
 ---
 *0 (Beispiel) Es* [[geht um]] [[Kritik]] `am` [[Verbraucherverhalten]]
 
+*[[C1-Lesen-T2-301-Text#^4|^]]* Zu [[Veränderung]]en im [[Verbraucherverhalten]] lassen sich keine klaren [[Aussage]]n machen
+
 ---
 = [[Konsumverhalten]], [[Einkaufsverhalten]]
 ≈ [[Kaufverhalten]], [[Marktverhalten]]

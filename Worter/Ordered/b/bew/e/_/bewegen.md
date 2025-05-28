@@ -3,6 +3,7 @@
 haben [[bewegt]]
 
 ---
+*[[C1-Lesen-T1-403-Text#^3|^]]* Aus Holz geschnitzte Krokodile und Löwen hatten [[bewegliche]] [[Unterkiefer]] und die Puppen trugen bereits Kleider und Schmuck, waren [[mit]] Haaren [[versehen]] und konnten ihre [[Gliedmaßen]] bewegen
 
 Damit hat sie ein Thema angesprochen, das viele [[bewegt]]: Ihr Artikel wurde über 20.000 Mal [[geteilt]] und [[tausendfach]] kommentiert. [[Den Nagel auf den Kopf treffen.md#^3|(Quelle: Den Nagel auf den Kopf treffen)]]
 

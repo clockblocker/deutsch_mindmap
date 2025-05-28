@@ -4,7 +4,9 @@ haben [[gelohnt]]
 
 ---
 
-_[[C1-Lesen-T1-001-Text#^19|^]]_ Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]. ^19
+_[[C1-Lesen-T1-001-Text#^19|^]]_ Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]
+
+*[[C1-Lesen-T3-301-Text#^32|^]]* Denn der zu [[betreibend]]e [[Aufwand]] hat sich nicht mehr [[gelohnt]]
 
 _[[C1-Lesen-T4-103-Text#^20|^]]_ [[Gewiss]]e äußere [[Einflussfaktor]]en führen [[womöglich]] dazu, dass sich das [[Beiseitelegen]] von Geld nicht mehr [[derart]] [[lohnt]] wie noch vor [[einig]]en Jahren
 

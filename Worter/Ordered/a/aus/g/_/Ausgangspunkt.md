@@ -1,1 +1,1 @@
-, [[Grundlage]], [[Basiswert]], [[Anfang]], [[Ausgang]]
+, [[Grundlage]], [[Basiswert]], [[Anfang]], [[Ausgang]], [[Ausgangsfrage]]

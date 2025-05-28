@@ -6,6 +6,8 @@ die [[Fortschritte]]
 ---
 Wie [[misst]] du deinen [[fortschritt]]?Machst du mock-tests oder einfach nur [[gefühltes]] [[verständnis]]?
 
+*[[C1-Lesen-T3-301-Text#^5|^]]* So hat der technische [[Fortschritt]] eine [[leicht]]e [[Analys]]e von [[Konsumverhalten]] möglich gemacht
+
 ---
 = [[Entwicklung]], [[Vorwärts]], [[Verbesserung]]
 ≈ [[Weiterentwicklung]], [[Aufstieg]], [[Evolution]]

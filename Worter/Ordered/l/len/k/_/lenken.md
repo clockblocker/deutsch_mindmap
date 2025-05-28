@@ -63,4 +63,4 @@ sie, [[lenken]], [[lenkten]], [[lenken]], [[lenkten]], [[lenken]]
 Adjektive: [[lenkend]], [[lenkender]], [[lenkendst]]
 
 ---
-[[lenkender]], [[lenkendes]], [[lenkende]], [[lenkenden]], [[lenkendem]], [[lenkenderer]], [[lenkenderes]], [[lenkendere]], [[lenkenderen]], [[lenkenderem]], [[lenkendster]], [[lenkendstes]], [[lenkendste]], [[lenkendsten]], [[lenkendstem]]
+[[lenkender]], [[lenkendes]], [[lenkende]], [[lenkenden]], [[lenkendem]], [[lenkenderer]], [[lenkenderes]], [[lenkendere]], [[lenkenderen]], [[lenkenderem]], [[lenkendster]], [[lenkendstes]], [[lenkendste]], [[lenkendsten]], [[lenkendstem]], [[gehirnwaschen]]

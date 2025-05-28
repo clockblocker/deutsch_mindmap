@@ -1,1 +1,1 @@
-, [[Mitgliedschaft]], [[Fremde]], [[Zugehörigkeit]]
+, [[Mitgliedschaft]], [[Fremde]], [[Zugehörigkeit]], [[Vertrautheit]]

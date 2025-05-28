@@ -7,6 +7,8 @@ die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer 
 
 _[[C1-Hoehen-T3-301-Text#^23|^]]_ Das ist schon richtig, aber es [[ausreicht|reicht]] bei [[Weitem]] nicht aus, den [[demografisch]]en [[Wandel]] in unserer schnell [[alternden]] [[Gesellschaft]] zu [[kompensieren]]
 
+*[[C1-Lesen-T3-301-Text#^11|^]]* In dem Zeitraum zwischen 1986 und 2021 nutzte die [[Marktbeobachtung]]s- und [[Forschungsabteilung]] der [[Gesellschaft]] für [[Konsumforschung]] (GfK) diese Gemeinde mit ca. 20.000 Einwohnerinnen und Einwohnern als Testmarkt zur Einführung neuer Konsumartikel
+
 _[[C1-Hoehen-T1-301-Text#^5|^]]_ Der Podcast [[zeichnet]] eine [[Gesellschaft]], deren [[Wert]] [[weit]] über den als [[Urlaubsparadies]] [[hinausgeht]]
 
 Sie hören einen kurzen Vortrag zu einem aktuellen Thema aus den [[Themenbereich]]en [[Gesellschaft]], [[Politik]] und [[Forschung]]
@@ -53,3 +55,4 @@ Einzigartige mögliche Formen: [[Gesellschaft]], [[Gesellschaften]], [[Gesellsch
 #Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]], [[Texte/Misc/Anki]]
 , [[Stehempfang]]
 , [[Mensch]], [[Wettbewerbsgesellschaft]], [[gesellschaftlich]], [[Gesamtgesellschaft]], [[Firma]], [[Staat]], [[Bevölkerungsgruppe]], [[Sozialsystem]], [[Verschwendungsgesellschaft]], [[Mitmensch]], [[Milieu]], [[Allgemeinheit]], [[Bürgertum]], [[Großkonzern]], [[Gesellschaftsschicht]]
+, [[Konsumwelt]]

@@ -2,8 +2,9 @@
 (no plural form)
 
 ---
-*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^4|^]]* Damit wird nicht nur die [[Vereinbarkeit]] von Beruf und Privatleben [[verbessert]], sondern auch Raum geschaffen, in dem Mitarbeitende [[eigenverantwortlich]] und in ihrem individuellen Tempo arbeiten können. ^4
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^4|^]]* Damit wird nicht nur die [[Vereinbarkeit]] von Beruf und Privatleben [[verbessert]], sondern auch Raum geschaffen, in dem Mitarbeitende [[eigenverantwortlich]] und in ihrem individuellen Tempo arbeiten können
 
+*[[C1-Hoehen-T3-301-Text#^63|^]]* Und neueste Forschungen haben ergeben, dass die [[Vereinbarkeit]] von Familie und Beruf sowie flexible [[Arbeitszeit]]en und [[betrieblich]] [[geförderte]] [[Kinderbetreuung]] eine ebenso große Rolle spielen wie ein [[angemessen]]es [[Gehalt]]
 
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^2|^]]* Mitarbeiter in Branchen wie IT, Werbung, Buchhaltung, oder [[Verwaltung]] entscheiden sich, an den heimischen Schreibtischen zu bleiben, weil es die [[Vereinbarkeit]] von Beruf- und Privatleben verbessert und Raum für Arbeit im individuellen Tempo [[schafft]]. ^2
 

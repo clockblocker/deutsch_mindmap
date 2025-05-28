@@ -1,8 +1,10 @@
 📝 [[anmelden]], [ˈanˌmɛldən] | [[meldete an]], haben [[angemeldet]]
 
 ---
+*[[C1-Lesen-T3-301-Text#^22|^]]* An dieser Stelle könnte man erste [[Bedenken]] [[anmelden]], handelte es sich hier doch um eine Art „Menschenversuch“, bei dem [[düstere]] [[Endzeitvision]]en von manipulierten und [[gehirngewaschenen]] Konsumentinnen und Konsumenten [[naheliegen]]
 
-_[[035-C1-Schreiben-T2#^1|^]]_ Sie beginnen nächsten Monat Ihr Studium an einer deutschen Universität und haben sich dort für den Kurs „Mündliche Präsentationen im Studium halten“ [[angemeldet]]. ^1
+_[[035-C1-Schreiben-T2#^1|^]]_ Sie beginnen nächsten Monat Ihr Studium an einer deutschen Universität und haben sich dort für den Kurs „Mündliche Präsentationen im Studium halten“ [[angemeldet]]
+
 
 288. Bei welchem [[Amt]] muss man in Deutschland in der Regel seinen Hund [[anmelden]]? (81%)
 

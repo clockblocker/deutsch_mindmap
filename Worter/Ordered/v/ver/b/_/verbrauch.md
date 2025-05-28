@@ -1,1 +1,1 @@
-, [[verbrauchen]], [[Aufwand]], [[Verwertung]], [[Ausgabe]], [[Konsum]], [[Verbraucher]], [[Kaufverhalten]], [[Verzehr]], [[Verbraucherschutz]], [[Verbraucherschutzgesetz]], [[Verbraucheragenda]]
+, [[verbrauchen]], [[Aufwand]], [[Verwertung]], [[Ausgabe]], [[Konsum]], [[Verbraucher]], [[Kaufverhalten]], [[Verzehr]], [[Verbraucherschutz]], [[Verbraucherschutzgesetz]], [[Verbraucheragenda]], [[Verbraucherverhalten]]

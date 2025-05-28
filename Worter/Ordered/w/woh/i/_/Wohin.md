@@ -4,4 +4,4 @@
 Wohin mit der Komode?
 SASCHA: Ja, aber [[Wohin]]?  
 
-, [[Woraus]], [[Grammatik-Pronomen-Interrogative]]
+, [[Woraus]], [[Grammatik-Pronomen-Interrogative]], [[wohingegen]]

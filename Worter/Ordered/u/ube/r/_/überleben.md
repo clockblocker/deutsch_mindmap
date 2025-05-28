@@ -40,3 +40,4 @@ PI: [[überlebend]], PII: [[überlebt]], Zu+inf: [[zu überleben]]
 [[Leben]], [[eingehen]], [[überlebt]]
 
 🧘 [[überleben]], [[w-l]]
+, [[fortleben]]

@@ -30,3 +30,4 @@ Dative: der [[Weile]], den [[Weilen]]
 ---
 
 [[weilen]], [[verweilen]], [[zeitlich]], [[mittlerweile]], [[jeweilig]], [[kurzweilig]], [[langwierig]]
+, [[Zwischenzeit]]

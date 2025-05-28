@@ -27,4 +27,4 @@ A: die [[Vorhersage]], die [[Vorhersagen]]
 G: der [[Vorhersage]], der [[Vorhersagen]]
 D: der [[Vorhersage]], den [[Vorhersagen]]
 
-#Feminin 
+#Feminin , [[Endzeitvision]]

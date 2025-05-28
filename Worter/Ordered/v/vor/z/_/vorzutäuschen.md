@@ -3,6 +3,8 @@
 ---
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 
+*[[C1-Lesen-T2-301-Text#^16|^]]* Bilder in Publikationen und in Internetauftritten von Unternehmen dienen dazu, [[Umweltfreundlichkeit]] der Unternehmen [[vorzutäuschen]]
+
 ---
 = [[simulieren]], [[fingieren]], [[heucheln]]
 ≈ [[spielen]], [[inszenieren]], [[vorspiegeln]], [[schauspielern]]

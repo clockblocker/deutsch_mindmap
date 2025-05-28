@@ -37,4 +37,4 @@ A: den [[Konsumenten]], die [[Konsumenten]]
 G: des [[Konsumenten]], der [[Konsumenten]]
 D: dem [[Konsumenten]], den [[Konsumenten]]
 
-#Maskulin , [[Werbeobjekt]], [[Sparer]], [[Händler]]
+#Maskulin , [[Werbeobjekt]], [[Sparer]], [[Händler]], [[Konsumwelt]]

@@ -1,3 +1,3 @@
 --> [[Grad-gut]] <--
 
-, [[mürrisch]]
+, [[mürrisch]], [[Umweltfreundlichkeit]], [[düster]]

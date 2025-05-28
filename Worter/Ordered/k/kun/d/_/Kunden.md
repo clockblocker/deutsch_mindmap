@@ -1,3 +1,3 @@
 der [[Kunde]]
 
-clients, [[Kundenbewertung]]
+clients, [[Kundenbewertung]], [[Kundenbindung]]

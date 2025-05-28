@@ -31,4 +31,4 @@ A: die [[Herkunft]], die [[Herkünfte]]
 G: der [[Herkunft]], der [[Herkünfte]]
 D: der [[Herkunft]], den [[Herkünften]]
 
-#Feminin , [[Herkunftsland]], [[Pitch]], [[Vorarbeit]]
+#Feminin , [[Herkunftsland]], [[Pitch]], [[Vorarbeit]], [[entscheiden]]

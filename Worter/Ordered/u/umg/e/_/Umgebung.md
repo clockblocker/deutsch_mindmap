@@ -7,6 +7,8 @@ die [[Umgebungen]]
 
 ---
 
+*[[C1-Lesen-T1-402-Text#^5|^]]* Schon kleine Kinder benutzen ihre Hände, noch [[bevor]] sie sprechen können, um mit ihrer [[Umgebung]] zu interagieren
+
 Ohne auf ihre [[Umgebung]] zu [[achten]], läuft sie [[weiter]] –, bis sie ein lautes [[Quietschen]] hört. Carola blickt hoch: Sie steht mitten auf der Straße, neben ihr hat ein Auto eine [[Vollbremsung]] gemacht.
 
 _[[C1-Hoehen-T2-200-Text#^26|^]]_ Aber darüber [[streitet]] ja die Wissenschaft schon seit der Antike: Welchen [[Stellenwert]] [[genießt]] das [[angeborene]] Talent und welche Rolle spielt die [[Umgebung]], in die das Kind [[hineingeboren]] wird?

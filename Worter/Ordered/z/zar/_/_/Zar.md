@@ -1,1 +1,1 @@
-, [[Monarch]]
+, [[Monarch]], [[König]]

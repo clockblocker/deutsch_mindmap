@@ -4,6 +4,8 @@
 ---
 Ich [[verwende]] mein Telefon auch, um Fotos zu machen.
 
+*[[C1-Lesen-T2-301-Text#^8|^]]* Greenwashing kann man [[betreiben]], [[indem]] man [[anerkannte]] [[Umweltzertifikat]]e falsch [[verwendet]]
+
 *[[C1-Lesen-T4-101-Text#^4|^]]* Würde man dieses Geld bei [[rein]] robotischen Missionen [[verwenden]], könnte man ungleich mehr wissenschaftliche [[Ergebnis]]se [[erzielen]] als bei bemannten [[Raumflügen]]. ^4
 
 
@@ -46,4 +48,4 @@ PI: [[verwendend]], PII: [[verwendet]], Zu+inf: [[zu verwenden]]
 
 ---
 [[Verwendung]], [[verwendbar]], [[Verwendbarkeit]], [[Anwendung]], [[Einsatz]], [[Artikelverwendung]], [[verbrauchen]]
-, [[vermeiden]], [[meiden]], [[aufwendig]], [[heranziehen]], [[weiterverwenden]]
+, [[vermeiden]], [[meiden]], [[aufwendig]], [[heranziehen]], [[weiterverwenden]], [[zurückgreifen]]

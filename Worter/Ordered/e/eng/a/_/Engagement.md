@@ -31,4 +31,4 @@ A: das [[Engagement]], die [[Engagements]]
 G: des [[Engagements]], der [[Engagements]]
 D: dem [[Engagement]], den [[Engagements]]
 
-#Neuter , [[Freiwilligendienst]]
+#Neuter , [[Freiwilligendienst]], [[Freiwilligkeit]]

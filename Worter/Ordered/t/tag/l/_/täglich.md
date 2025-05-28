@@ -31,3 +31,4 @@ Einzigartige mögliche Formen:
 [[täglich]], [[tägliche]], [[tägliches]], [[täglichen]], [[täglichem]], [[täglicher]], [[täglichen]]
 [[täglicher]], [[täglichere]], [[tägliches]], [[täglicheren]], [[täglicherem]], [[täglicherer]], [[täglicheren]]
 [[täglichsten]], [[täglichster]], [[täglichste]], [[täglichstes]], [[täglichsten]], [[täglichstem]], [[täglichster]], [[täglichsten]]
+, [[tagsüber]]

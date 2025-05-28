@@ -3,6 +3,9 @@
 ---
 *[[C1-Hoehen-T2-202-Text#^1|^]]* Sie [[befassen]] sich mit der [[Auswertung]] und [[Interpretation]] von [[Umfragen]], die die Politik [[betreffen]]. Und dabei insbesondere mit der sogenannten Politikverdrossenheit
 
+*[[C1-Lesen-T3-301-Text#^16|^]]* Die [[Wahl]] war offensichtlich gut [[getroffen]], denn die [[Auswertung]]en, die die Gesellschaft für [[Konsumforschung]] hier [[durchführte]], [[voraussagen|sagten]] zu 90 Prozent die späteren [[Marktdaten]] voraus
+
+
 ---
 = [[Analyse]], [[Bewertung]], [[Beurteilung]]
 ≈ [[Untersuchung]], [[Erhebung]], [[Studie]], [[Ermittlung]]

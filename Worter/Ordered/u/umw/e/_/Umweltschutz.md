@@ -28,4 +28,4 @@ D: dem [[Umweltschutz]], -
 
 [[Umweltprojekt]], [[Umwelt]], [[Naturschutz]], [[Umweltbelastung]], [[Klimaschutz]], [[Ressourcenschonung]], [[Nachhaltigkeit]]
 
-#Maskulin 
+#Maskulin , [[umweltfreundlich]], [[Umweltfreundlichkeit]], [[Umweltsünde]]

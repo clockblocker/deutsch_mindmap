@@ -1,1 +1,1 @@
-, [[Abwanderung]], [[abwerben]], [[abwerben]], [[abwandern]], [[abseits]]
+, [[Abwanderung]], [[abwerben]], [[abwerben]], [[abwandern]], [[abseits]], [[ablenken]], [[abdecken]]

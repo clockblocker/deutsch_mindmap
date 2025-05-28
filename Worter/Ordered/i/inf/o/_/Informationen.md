@@ -1,1 +1,1 @@
-, [[Nutzungsdaten]], [[Information]]
+, [[Nutzungsdaten]], [[Information]], [[Marktdaten]], [[Datenmenge]]

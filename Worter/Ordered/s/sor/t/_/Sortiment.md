@@ -1,1 +1,1 @@
-, [[Auswahl]], [[Kräutervielfalt]]
+, [[Auswahl]], [[Kräutervielfalt]], [[Warenkorb]]

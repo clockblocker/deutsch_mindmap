@@ -31,4 +31,4 @@ temporary, occasionally
 Adjektive: [[zeitweise]], [[zeitweiser]], [[zeitweisest]]
 
 ---
-[[zeitweiseer]], [[zeitweisees]], [[zeitweisee]], [[zeitweiseen]], [[zeitweiseem]], [[zeitweiserer]], [[zeitweiseres]], [[zeitweisere]], [[zeitweiseren]], [[zeitweiserem]], [[zeitweisester]], [[zeitweisestes]], [[zeitweiseste]], [[zeitweisesten]], [[zeitweisestem]]
+[[zeitweiseer]], [[zeitweisees]], [[zeitweisee]], [[zeitweiseen]], [[zeitweiseem]], [[zeitweiserer]], [[zeitweiseres]], [[zeitweisere]], [[zeitweiseren]], [[zeitweiserem]], [[zeitweisester]], [[zeitweisestes]], [[zeitweiseste]], [[zeitweisesten]], [[zeitweisestem]], [[unentwegt]]

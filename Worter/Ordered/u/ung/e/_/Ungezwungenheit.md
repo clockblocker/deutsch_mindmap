@@ -1,1 +1,1 @@
-, [[Zwang]]
+, [[Zwang]], [[Freiwilligkeit]]

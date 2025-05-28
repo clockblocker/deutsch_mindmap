@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-202-Text#^17|^]]* So werden [[Nachhaltigkeit]] und damit Klimaschutz [[erlebbar]]
 
+*[[C1-Lesen-T2-301-Text#^3|^]]* Es gibt einen [[Trend]] zur [[Akzeptanz]] von [[Preissteigerung]]en, wenn es um [[Nachhaltigkeit]] geht
+
 *[[C1-Lesen-T4-103-Text#^16|^]]* Doch ist unserem System auf vielen [[Ebene]]n die [[Nachhaltigkeit]] verloren gegangen
 
 *[[C1-Hoehen-T1-202-Text#^22|^]]* Interessant war für mich dabei zu [[erfahren]], dass sich schon römische Kaiser für [[Nachhaltigkeit]] [[ausgesprochen]] hatten
@@ -33,4 +35,4 @@ G: der [[Nachhaltigkeit]], der [[Nachhaltigkeiten]]
 D: der [[Nachhaltigkeit]], den [[Nachhaltigkeiten]]
 
 
-#Feminin , [[Überbewirtschaftung]]
+#Feminin , [[Überbewirtschaftung]], [[Umweltfreundlichkeit]]

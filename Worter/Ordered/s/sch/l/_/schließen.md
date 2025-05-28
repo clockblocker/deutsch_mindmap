@@ -6,6 +6,8 @@ haben [[geschlossen]]
 
 Der Richter erklärt den Fall für [[geschlossen]].
 
+*[[C1-Lesen-T3-301-Text#^3|^]]* Ende 2021 wurde das [[Musterdorf]] [[geschlossen]]
+
 [[hattest]] du nicht [[daran]] gedacht, es zu [[schließen]], Brigitte?
 
 SEXY VOICE: Ah, komm herein, setz dich hin und [[schließ]] die [[Augen]] …
@@ -106,3 +108,4 @@ Konjunktiv II:
 - Wenn sie die Tür [[schlössen]], wäre es dunkel., [[11 08]], [[einschließen]], [[aufgehen]], [[aufmachen]], [[aufzukriegen]], [[auseinanderklapfen]], [[entschließen]], [[schließlich]], [[gründen]], [[eröffnen]], [[öffnen]], [[Lücke]], [[s1 e1]]
   , [[einschließlich]]
   , [[zudrücken]], [[Schlusssatz]], [[Aufrufen]], [[sperren]], [[fächern]], [[auslaufen]], [[ablesen]], [[Entschluss]], [[aufbrechen]]
+, [[erschließen]]

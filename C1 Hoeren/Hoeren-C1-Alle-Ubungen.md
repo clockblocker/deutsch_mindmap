@@ -1,10 +1,13 @@
 [[Hoeren-C1-Alle-Ubungen]]
-[[Passiv-Vocab-Operation-Room]]
+[[Lesen-C1-Alle-Ubungen]]
 
-- [ ] [[0-C1-Hoehen-T1-Ubung-List|T1 ]]
-- [ ] [[0-C1-Hoehen-T2-Ubung-List|T2]] 
-- [ ] [[0-C1-Hoehen-T3-Ubung-List|T3]] 
-- [ ] [[0-C1-Hoehen-T4-Ubung-List|T4 ]]
+*[[Passiv-Vocab-Operation-Room]]*
+
+#### [[0-C1-Hoehen-T1-Ubung-List|Teil 1: In which text which info]] 
+#### [[0-C1-Hoehen-T2-Ubung-List|Teil 2: Yes / No / Not in text]]  
+#### [[0-C1-Hoehen-T3-Ubung-List|Teil 3: Which if 3 to what speaker]]   
+#### [[0-C1-Hoehen-T4-Ubung-List|Teil 4: Which of three in essay]] 
+ 
 
 - [ ] Rename
 ```

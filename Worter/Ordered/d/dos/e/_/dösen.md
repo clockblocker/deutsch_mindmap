@@ -1,1 +1,1 @@
-[[erwachen]], [[schlafen]], [[träumen]], [[schlummern]]
+[[erwachen]], [[schlafen]], [[träumen]], [[schlummern]], [[einnicken]]

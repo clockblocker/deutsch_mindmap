@@ -3,6 +3,8 @@ die [[Nähen]]
 
 ---
 
+*[[C1-Lesen-T1-402-Text#^3|^]]* Eine zu große [[körperlich]]e [[Nähe]] [[empfindet]] z. B. ein Japaner `als` [[äußerst]] [[unangebracht]] oder gar [[peinlich]], [[wohingegen]] es für einen Europäer eher [[Vertrautheit]] signalisiert
+
 „Ist das in der [[Nähe]] von Berlin?“ „Nein, Berlin liegt im Osten von Deutschland und Köln im Westen.“
 
 _[[06-C1-Schreiben-T2-M#^3|^]]_ Es gibt keine Restaurants oder Supermärkte in der [[Nähe]] und in der [[Teeküche]] kann man sich auch kein Essen [[zubereiten]]. ^3
@@ -41,3 +43,4 @@ Dative: der [[Nähe]], den [[Nähen]]
 , [[nah]], [[unweit]]
 
 #Feminin , [[Entfremdung]], [[nähern]], [[näherbringen]]
+, [[naheliegen]]

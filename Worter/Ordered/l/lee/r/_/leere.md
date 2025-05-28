@@ -2,4 +2,4 @@
 
 --> [[⛪ Ingredient-Plazt]] <--
 
-, [[Nährstoffgehalt]]
+, [[Nährstoffgehalt]], [[Warenkorb]], [[Datenmenge]]

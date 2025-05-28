@@ -1,3 +1,3 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
 
-, [[Aufstand]], [[Einspruch]], [[Widerspruch]], [[Ablehnung]], [[Demonstration]]
+, [[Aufstand]], [[Einspruch]], [[Widerspruch]], [[Ablehnung]], [[Demonstration]], [[Akzeptanz]]

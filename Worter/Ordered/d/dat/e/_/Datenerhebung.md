@@ -1,1 +1,1 @@
-, [[Erhebung]]
+, [[Erhebung]], [[Marktdaten]], [[Datenmenge]]

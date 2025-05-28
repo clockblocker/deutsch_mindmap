@@ -1,2 +1,2 @@
 , [[mustern]], [[Vorlage]]
-, [[Vorbild]], [[Musterlösung]], [[Modell]]
+, [[Vorbild]], [[Musterlösung]], [[Modell]], [[Musterdorf]]

@@ -1,1 +1,1 @@
-, [[Arbeitsdruck]]
+, [[Arbeitsdruck]], [[Leistungsfähigkeit]]
