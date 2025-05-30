@@ -210,7 +210,7 @@ _ruhig_, _klein_, _böse_, _lecker_, _dunkel_, [[gewöhnlich]], [[sauber]], [[he
 
 - Оно лежало на столе.
 
-12. К сожалению, я не поняла это правило. Lieder habe ich diese [[Regel]] nicht verstanden
+12. К сожалению, я не поняла это правило. Lieder habe ich diese [[C1 Schreiben/misc/Regel]] nicht verstanden
     Помоги мне, пожалуйста.
 13. Во сколько вы приехали домой с работы?
 

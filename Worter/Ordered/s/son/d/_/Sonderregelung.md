@@ -19,7 +19,7 @@ special regulation, special provision
 [[Regelung]], [[sondern]]
 
 ---
-[[Sonder]]|[[regel]]|[[ung]]
+[[Sonder]]|[[C1 Schreiben/misc/Regel]]|[[ung]]
 [[Sonderregelung]]
 
 

@@ -39,3 +39,4 @@ D: dem [[Geist]], den [[Geistern]]
 
 #Maskulin
 , [[Gedächtnis]], [[geistreich]], [[Intelligenzgrad]], [[Denkvermögen]]
+, [[Erscheinung]]

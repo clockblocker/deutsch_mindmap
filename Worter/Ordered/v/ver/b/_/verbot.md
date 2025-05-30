@@ -14,7 +14,7 @@ die [[Verbote]]
 
 ---
 = [[Untersagung]], [[Verweigerung]], [[Einschränkung]]
-≈ [[Regel]], [[Bestimmung]], [[Gesetz]], [[Maßnahme]]
+≈ [[C1 Schreiben/misc/Regel]], [[Bestimmung]], [[Gesetz]], [[Maßnahme]]
 ≠ [[Erlaubnis]], [[Genehmigung]], [[Zulassung]], [[Freigabe]]
 
 ---

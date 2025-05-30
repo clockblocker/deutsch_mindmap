@@ -1,2 +1,2 @@
 , [[trösten]]
-, [[mitfühlend]], [[bemitleiden]]
+, [[mitfühlend]], [[bemitleiden]], [[hineinversetzen]]

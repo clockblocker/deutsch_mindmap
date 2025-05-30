@@ -23,7 +23,7 @@ Antonyme: [[unregelmäßig]], [[sporadisch]], [[zufällig]], [[unberechenbar]]
 
 ---
 
-[[Regel]], [[mäßig]]
+[[Worter/Ordered/r/reg/e/_/Regel]], [[mäßig]]
 
 ---
 

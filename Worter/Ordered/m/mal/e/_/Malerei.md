@@ -1,1 +1,1 @@
-, [[Kunst]], [[Malbuch]], [[malen]], [[bemalen]], [[Zeichnung]], [[Kleck­serei]], [[Gauguin]]
+, [[Kunst]], [[Malbuch]], [[malen]], [[bemalen]], [[Zeichnung]], [[Kleck­serei]], [[Gauguin]], [[Malversuch]]

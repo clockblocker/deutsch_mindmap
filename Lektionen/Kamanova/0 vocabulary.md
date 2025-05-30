@@ -293,7 +293,7 @@
 
 ##### Feminin (f)
 
-- [[Regel]], [[Regeln]] - правило
+- [[C1 Schreiben/misc/Regel]], [[Regeln]] - правило
 - [[Flasche]], [[Flaschen]] - бутылка
 - [[Gesundheit]] - здоровье
 - [[Zitrone]], [[Zitronen]] - лимон

@@ -18,7 +18,7 @@ regulation
 регулирование
 
 ---
-[[regulieren]], [[Regel]]
+[[regulieren]], [[C1 Schreiben/misc/Regel]]
 
 ---
 [[Regulier]]|[[ung]]

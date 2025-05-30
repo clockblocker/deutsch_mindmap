@@ -3,6 +3,8 @@
 ---
 „Zugang zu Hochschulen darf nicht `vom` [[Einkommen]] [[abhängen]].“
 
+*[[C1-Lesen-T1-404-Text#^16|^]]* In `7 welcher` Farbe sie [[leuchten]], [[abhängt]] `von` der [[Entfernung]] [[ab]], in der die Atome [[wechselwirken]]
+
 Kinder sollen [[erkennen]], wie [[abhängig]] die Natur auch `vom` Menschen ist.  
 
 *[[C1-Hoehen-T2-203-Text#^28|^]]* Sind bestimmte Menschen wirklich `vom` Internet [[abhängig]] oder nur von bestimmten [[Inhalt]]en?

@@ -7,7 +7,7 @@ Wir haben [[uns]] total [[verlaufen]], aber [[schließlich]] sind wir doch noch 
 
 _[[C1-Hoehen-T2-101-Text#^19|^]]_ [[Konsumverhalten|Konsum]]- und [[Reiseverhalten]], was ja mit den [[Einkommensverhältnis]]sen in [[Verbindung]] steht, [[auswirken|wirkt]] sich [[schließlich]] direkt aufs Klima aus
 
-_[[000-C1-Schreiben-T1#^14|^]]_ Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
+_[[000-C1-Schreiben-T1#^14|^]]_ Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
 
 Er war etwas [[zerknittert]] - [[schließlich]] hatte er zwölf Jahre im Koffer gelegen - aber sonst in gutem [[Zustand]]. [[17 zu inf#^15|^]]
 

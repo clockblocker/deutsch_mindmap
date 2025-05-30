@@ -5,7 +5,7 @@ die [[Vereinbarungen]]
 
 Die braunen Blätter der Pflanzen liegen schon seit [[Wochen]] auf dem [[Boden]]. Martin ist [[sauer]]: „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“
 
-_[[2 prap.md#^15|^]]_ [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
+_[[2 prap.md#^15|^]]_ [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[C1 Schreiben/misc/Regel]] ^15
 
 ---
 

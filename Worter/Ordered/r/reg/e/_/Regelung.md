@@ -21,10 +21,10 @@ regulation, rule
 регулирование, правило
 
 ---
-[[regeln]], [[Regel]], [[geregelt]]
+[[regeln]], [[Worter/Ordered/r/reg/e/_/Regel]], [[geregelt]]
 
 ---
-[[Regel]]|[[ung]]
+[[Worter/Ordered/r/reg/e/_/Regel]]|[[ung]]
 [[Regelung]]
 
 

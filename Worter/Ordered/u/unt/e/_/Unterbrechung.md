@@ -26,4 +26,4 @@ A: die [[Unterbrechung]], die [[Unterbrechungen]]
 G: der [[Unterbrechung]], der [[Unterbrechungen]]
 D: der [[Unterbrechung]], den [[Unterbrechungen]]
 
-#Feminin , [[Anwerbestopp]]
+#Feminin , [[Anwerbestopp]], [[Vorgang]]

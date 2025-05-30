@@ -16,7 +16,7 @@ case-by-case regulation, individual case ruling
 [[Einzelfall]], [[Regelung]], [[regeln]], [[Ausnahme]], [[Sonderfall]]
 
 ---
-[[Einzel]]|[[fall]]|[[regel]]|[[ung]]
+[[Einzel]]|[[fall]]|[[C1 Schreiben/misc/Regel]]|[[ung]]
 [[Einzelfall]] + [[Regelung]]
 
 

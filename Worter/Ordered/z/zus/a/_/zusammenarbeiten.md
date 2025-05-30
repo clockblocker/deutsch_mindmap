@@ -1,1 +1,1 @@
-, [[zusammen]], [[Zusammenarbeit]]
+, [[zusammen]], [[Zusammenarbeit]], [[wechselwirken]]

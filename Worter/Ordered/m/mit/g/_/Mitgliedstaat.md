@@ -2,7 +2,7 @@
 die [[Mitgliedstaaten]]
 
 ---
-*[[C1-Hoehen-T4-100-Text#^2|^]]* Der Verbraucherschutz kann verbessert werden, indem [[Regel]]n aus dem Jahr 2012 von den [[Mitgliedstaaten]] der EU zum [[Gesetz]] werden
+*[[C1-Hoehen-T4-100-Text#^2|^]]* Der Verbraucherschutz kann verbessert werden, indem [[C1 Schreiben/misc/Regel]]n aus dem Jahr 2012 von den [[Mitgliedstaaten]] der EU zum [[Gesetz]] werden
 
 ---
 = [[Mitgliedsland]]

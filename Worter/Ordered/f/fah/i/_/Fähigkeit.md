@@ -2,6 +2,7 @@ die [[Fähigkeit]], [fɛˈçɪçkaɪ̯t]
 die [[Fähigkeiten]]
 
 ---
+*[[C1-Lesen-T1-405-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
 
 Und obwohl seine [[Fähigkeiten]] erstaunlich sind, muss er noch eine Menge lernen.
 

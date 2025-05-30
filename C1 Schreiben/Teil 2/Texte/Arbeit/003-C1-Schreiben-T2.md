@@ -25,7 +25,7 @@ Zurzeit leite ich ein Team von sechs Softwareingenieur:innen bei der Entwicklung
 Allerdings ist es durch den neuen Arbeitsplatz im Büro deutlich enger geworden. ^6
 
 
-Unser Großraumbüro ist für sieben Personen ausgelegt, sodass für den neuen Kollegen kaum Arbeitsraum vorhanden ist. Der vorhandene Raum ist sehr begrenzt, was die Konzentration aller erheblich beeinträchtigt. ^5
+Unser Großraumbüro ist für sieben Personen ausgelegt, sodass der neuen Kollege kaum Arbeitsraum findet. Der vorhandene Raum ist sehr begrenzt, was die Konzentration aller erheblich beeinträchtigt. ^5
 
 
 Wenn kein größeres Büro angeboten werden kann, schlage ich vor, dem Team die Möglichkeit zu geben, an ein bis zwei Tagen pro Woche im Homeoffice zu arbeiten. ^4

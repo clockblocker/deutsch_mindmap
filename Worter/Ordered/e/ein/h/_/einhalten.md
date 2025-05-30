@@ -38,4 +38,4 @@ PI: [[einhaltend]], PII: [[eingehalten]], Zu+inf: [[einzuhalten]]
 [[einhalten]] - [[ein]] = [[halten]] / to observe, to comply with, to keep
 
 ---
-[[Einhaltung]], [[Einhalten]], [[Haltung]], [[Vorschrift]], [[Regel]], [[versäumen]]
+[[Einhaltung]], [[Einhalten]], [[Haltung]], [[Vorschrift]], [[C1 Schreiben/misc/Regel]], [[versäumen]]

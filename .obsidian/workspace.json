@@ -4,88 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "5360772869941614",
+        "id": "88dd8a08d162296a",
         "type": "tabs",
-        "dimension": 61.85446009389671,
         "children": [
           {
-            "id": "0ce16a1771611eca",
+            "id": "82fce4c2e0105ab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-403/C1-Lesen-T1-403-Text.md",
+                "file": "C1 Schreiben/C1-Schreiben-Root.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-T1-403-Text"
+              "title": "C1-Schreiben-Root"
             }
           },
           {
-            "id": "58226350e24dd874",
+            "id": "e0bc1966238ef19d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/fortleben.md",
+                "file": "C1 Schreiben/C1-Schreiben-Root.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fortleben"
+              "title": "C1-Schreiben-Root"
             }
           },
           {
-            "id": "15a1f7f7645dcd0a",
+            "id": "c445c697d709a248",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Ordered/l/let/z/_/letztere.md",
+                "file": "C1 Schreiben/Teil 1/T1-Schreiben-Ubungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "letztere"
+              "title": "T1-Schreiben-Ubungen"
+            }
+          },
+          {
+            "id": "61c3f76ed93b6ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bro-schrieben-c1-001"
+            }
+          },
+          {
+            "id": "75680fe5d036682a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bro-schrieben-c1-001"
             }
           }
-        ]
-      },
-      {
-        "id": "78e0f208eac4ab21",
-        "type": "tabs",
-        "dimension": 38.14553990610329,
-        "children": [
-          {
-            "id": "b431bda072f40706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-403/C1-Lesen-T1-403-Loesung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-T1-403-Loesung"
-            }
-          },
-          {
-            "id": "19923f812dffcbc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Schlafverhalten.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schlafverhalten"
-            }
-          }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 301.50271224975586
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -158,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-1/С1-Lesen-T2-102/C1-Lesen-T2-102-Text.md",
+                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C1-Lesen-T2-102-Text"
+              "title": "Backlinks for bro-schrieben-c1-001"
             }
           },
           {
@@ -236,53 +229,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ce16a1771611eca",
+  "active": "75680fe5d036682a",
   "lastOpenFiles": [
-    "Worter/Ordered/f/for/t/fortlebendstem.md",
-    "Worter/Ordered/f/for/t/fortlebendsten.md",
-    "Worter/Ordered/f/for/t/fortlebendste.md",
-    "Worter/Ordered/f/for/t/fortlebendstes.md",
-    "Worter/Ordered/f/for/t/fortlebendster.md",
-    "Worter/Ordered/f/for/t/fortlebenderem.md",
-    "Worter/Erfolgsschlager.md",
-    "Worter/Ordered/f/for/t/fortlebenderen.md",
-    "Worter/fortlebt.md",
-    "Worter/Ordered/f/for/t/fortlebendere.md",
-    "Worter/fortleben.md",
-    "Worter/Ordered/f/for/t/fortlebenderes.md",
-    "Worter/Ordered/f/for/t/fortlebenderer.md",
-    "Worter/Ordered/f/for/t/fortlebendem.md",
-    "Worter/Ordered/f/for/t/fortlebenden.md",
-    "Worter/Ordered/f/for/t/fortlebende.md",
-    "Worter/Ordered/f/for/t/fortlebendes.md",
-    "Worter/Ordered/f/for/t/fortlebendst.md",
-    "Worter/Ordered/f/for/t/fortlebender.md",
-    "Worter/Ordered/f/for/t/fortlebend.md",
-    "Worter/Ordered/l/leb/e/lebet fort.md",
-    "Worter/Ordered/l/leb/t/lebtet fort.md",
-    "Worter/Ordered/l/leb/t/lebten fort.md",
-    "Worter/Ordered/l/leb/e/leben fort.md",
-    "Worter/Ordered/l/leb/t/lebt fort.md",
-    "Worter/Ordered/l/leb/t/lebtest fort.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-002.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-001.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-015-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-014-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-013-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-012-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-011-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-010-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-009-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-008-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-007-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-006-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-005-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-004-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-002-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched/bro-schrieben-c1-001-untouched.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-012.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-015.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/untouched",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-014.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-013.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-011.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-010.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-009.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-008.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-007.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s",
+    "C1 Schreiben/misc",
+    "C1 Schreiben/0-new",
+    "Worter/Ordered/t/td1/_/_/td_new",
+    "Worter/Ordered/m/mal/v",
+    "Anhänge/Pasted image 20250528071457.png",
+    "Worter/Ordered/s/spu/k",
+    "Anhänge/Pasted image 20250528065432.png",
     "Worter/Ordered/h/hit/l",
     "Worter/Ordered/h/hit/p",
     "Anhänge/Pasted image 20250528055347.png",
     "Worter/Ordered/u/uub/e",
-    "Worter/Ordered/u/uub",
     "Anhänge/Pasted image 20250528052930.png",
-    "Worter/Ordered/a/amt/a",
     "Anhänge/Pasted image 20250528050245.png",
     "Anhänge/Pasted image 20250528044458.png",
-    "Worter/Ordered/l/lag/n",
-    "Worter/Ordered/t/tvk/a",
-    "Worter/Ordered/t/tvk",
-    "Worter/Ordered/l/lan/c",
-    "Worter/Ordered/d/dat/_",
     "Anhänge/Pasted image 20250527075828.png",
     "Anhänge/Pasted image 20250527075646.png",
     "Anhänge/Pasted image 20250527075512.png",
-    "Anhänge/Pasted image 20250527075352.png",
-    "Anhänge/Pasted image 20250527061233.png",
-    "Anhänge/Pasted image 20250526131443.png"
+    "Anhänge/Pasted image 20250527075352.png"
   ]
 }

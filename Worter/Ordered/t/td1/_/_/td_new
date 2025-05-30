@@ -1,0 +1,100 @@
+arc = {
+    plain: {
+        damage: 100,
+        d_damage: 20,
+        
+        crit_damage: 1.8,
+        d_crit_damage: 0.4,
+
+        crit_chance: 1,
+        d_crit_chance: 0,
+        
+        fire_rate: 0.55,
+        d_fire_rate: 0.11,
+    },
+    w_statue: {
+        damage: 125,
+        d_damage: 20,
+        
+        crit_damage: 1.8,
+        d_crit_damage: 0.4,
+        
+        crit_chance: 1,
+        d_crit_chance: 0,
+        
+        fire_rate: 0.55,
+        d_fire_rate: 0.11,
+    },
+    w_statue_and_crit_damagei: {
+        damage: 215,
+        d_damage: 20,
+        
+        crit_damage: 7.77,
+        d_crit_damage: 0.4,
+
+        crit_chance: 1,
+        d_crit_chance: 0,
+        
+        fire_rate: 1.82,
+        d_fire_rate: 0.11,
+    },
+    custom: {
+        damage: 255,
+        d_damage: 20,
+        
+        crit_damage: 3.78,
+        d_crit_damage: 0.4,
+
+        crit_chance: 1,
+        d_crit_chance: 0,
+        
+        fire_rate: 1.76,
+        d_fire_rate: 0.11,
+    }
+}
+
+let {damage,
+d_damage,
+crit_damage,
+d_crit_damage,
+fire_rate,
+d_fire_rate,
+crit_chance,
+d_crit_chance,
+} = arc["custom"];
+
+const dps = ({ damage, crit_damage, crit_chance, fire_rate }) => {
+    return damage * fire_rate * crit_chance * crit_damage + (damage * fire_rate * 1 - crit_chance);
+}
+
+for (let i = 0; i < 25; i++) {
+    const arr = [
+        {name: 'damage', value: dps({damage: damage + d_damage, crit_damage, fire_rate, crit_chance})},
+        {name: 'crit_damage', value: dps({damage, crit_damage: crit_damage + d_crit_damage, fire_rate, crit_chance})},
+        {name: 'fire_rate', value: dps({damage, crit_damage, fire_rate: fire_rate + d_fire_rate, crit_chance})},
+        {name: 'crit_chance', value: dps({damage, crit_damage, fire_rate, crit_chance: crit_chance + d_crit_chance})},
+    ];
+
+    const brr = arr.sort((a, b) => b.value - a.value);
+
+    const [max, ...rest] = brr;
+
+    switch (max.name) { 
+        case 'damage':
+            damage += d_damage;
+            console.log('damage', max.value);
+            break;
+        case 'crit_damage':  
+            crit_damage += d_crit_damage;
+            console.log('crit_damage', max.value);
+            break;
+        case 'fire_rate':   
+            fire_rate += d_fire_rate;
+            console.log('fire_rate', max.value);
+            break;
+        case 'crit_chance':   
+            crit_chance += d_crit_chance;
+            console.log('crit_chance', max.value);
+            break;
+    }
+}

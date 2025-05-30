@@ -9,7 +9,7 @@ die [[Ordnungen]]
 
 Synonyme:
 
-- [[System]], [[Struktur]], [[Regel]], [[Organisation]], [[Arrangement]]
+- [[System]], [[Struktur]], [[C1 Schreiben/misc/Regel]], [[Organisation]], [[Arrangement]]
 
 ---
 

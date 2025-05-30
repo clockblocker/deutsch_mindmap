@@ -6,6 +6,8 @@ haben [[entwickelt]]
 
 ---
 
+*[[C1-Lesen-T1-405-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
+
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]].
 
 _[[000-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11

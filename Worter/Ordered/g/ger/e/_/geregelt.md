@@ -14,10 +14,10 @@ regulated, organized
 урегулированный, организованный
 
 ---
-[[regeln]], [[Regelung]], [[Regel]]
+[[regeln]], [[Regelung]], [[C1 Schreiben/misc/Regel]]
 
 ---
-[[regel]]|[[t]]
+[[C1 Schreiben/misc/Regel]]|[[t]]
 [[regeln]]
 
 

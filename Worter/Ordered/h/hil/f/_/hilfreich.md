@@ -3,7 +3,7 @@
 ---
 [[Hilfreiche]] Tipps finden Sie unter "Zustellung vorbereiten".
 
-*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]. ^14
+*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]. ^14
 
 
 ---

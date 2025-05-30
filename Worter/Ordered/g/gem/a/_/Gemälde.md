@@ -5,3 +5,4 @@ Das bisher höchste Ergebnis erzielte ein Gemälde von Claude Monet mit einem Pr
 
 
 , [[Stillleben]], [[malen]]
+, [[Malversuch]]

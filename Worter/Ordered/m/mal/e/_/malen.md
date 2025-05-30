@@ -30,4 +30,4 @@ PI: [[malend]], PII: [[gemalt]], Zu+inf: [[zu malen]]
 [[malen]] - no separate prefix / to paint, to draw
 
 ---
-[[Maler]], [[Malerin]], [[Gemälde]], [[Malerei]], [[malerisch]], [[Malstock]], [[bemalen]]
+[[Maler]], [[Malerin]], [[Gemälde]], [[Malerei]], [[malerisch]], [[Malstock]], [[bemalen]], [[Malversuch]]

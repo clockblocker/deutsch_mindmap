@@ -9,7 +9,7 @@ Der Staat [[entscheidet]] `über` [[Gesetze]] und [[Steuern]].
 
 _[[C1-Hoehen-T4-100-Text#^10|^]]_ Damit [[Richtlinie]]n [[Verbindlichkeit]] [[erhalten]], müssen sie von den Mitgliedsländern als [[Gesetz]] [[verabschiedet]] werden
 
-_[[C1-Hoehen-T4-100-Text#^2|^]]_ Der Verbraucherschutz kann verbessert werden, indem [[Regel]]n aus dem Jahr 2012 von den [[Mitgliedstaaten]] der EU zum [[Gesetz]] werden
+_[[C1-Hoehen-T4-100-Text#^2|^]]_ Der Verbraucherschutz kann verbessert werden, indem [[C1 Schreiben/misc/Regel]]n aus dem Jahr 2012 von den [[Mitgliedstaaten]] der EU zum [[Gesetz]] werden
 
 17. Die deutschen [[Gesetze]] [[verbieten]] … (78%)
 
@@ -43,7 +43,7 @@ Deutschland ist ein Rechtsstaat. Was ist damit gemeint? (94%) - [x] Alle Einwohn
 
 ---
 
-= [[Vorschrift]], [[Regel]], [[Bestimmung]]
+= [[Vorschrift]], [[C1 Schreiben/misc/Regel]], [[Bestimmung]]
 ≈ [[Verordnung]], [[Erlass]], [[Verfahrensregel]], [[Norm]]
 ≠ [[Willkür]], [[Chaos]], [[Anarchie]]
 

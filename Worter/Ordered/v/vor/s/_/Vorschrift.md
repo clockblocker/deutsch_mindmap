@@ -7,7 +7,7 @@ die [[Vorschriften]]
 *[[C1-Hoehen-T4-100-Text#^30|^]]* Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschrift]]en [[gehalten]] wird
 
 ---
-= [[Regel]], [[Bestimmung]], [[Anleitung]], [[Regel]], [[Gesetz]], [[Regelung]]
+= [[C1 Schreiben/misc/Regel]], [[Bestimmung]], [[Anleitung]], [[C1 Schreiben/misc/Regel]], [[Gesetz]], [[Regelung]]
 ≈ [[Anweisung]], [[Gebot]], [[Richtlinie]], [[Auflage]]
 ≠ [[Ausnahme]]
 

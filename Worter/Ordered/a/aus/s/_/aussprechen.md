@@ -1,8 +1,9 @@
 🗣️ [[aussprechen]], [ˈaʊ̯sˌʃpʁɛçən] | [[sprach aus]], haben [[ausgesprochen]]
 
 ---
-
 Ich möchte dir meinen tiefen Dank [[aussprechen]]
+
+*[[C1-Lesen-T1-404-Text#^14|^]]* Sind die Sonnenstürme besonders [[heftig]], ist das `5 welcher` [[ausgesprochen]] spektakulär
 
 _[[C1-Hoehen-T3-301-Text#^12|^]]_ Frau Ebner-Perotti [[aussprechen|spricht]] sich gegen die [[Entscheidung]]en aus der Politik aus
 

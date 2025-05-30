@@ -54,4 +54,4 @@ G: der [[Vorgehensweise]], der [[Vorgehensweisen]]
 D: der [[Vorgehensweise]], den [[Vorgehensweisen]]
 
 
-#Feminin , [[Spielweise]], [[Königsweg]], [[Patentrezept]]
+#Feminin , [[Spielweise]], [[Königsweg]], [[Patentrezept]], [[Vorgang]]

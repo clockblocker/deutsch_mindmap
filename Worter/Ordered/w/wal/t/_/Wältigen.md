@@ -34,4 +34,4 @@ sie, [[wältigen]], [[wältigten]], [[wältigen]], [[wältigten]], [[wältigen]]
 Adjektive: [[wältigend]], [[wältigender]], [[wältigendst]]
 
 ---
-[[wältigender]], [[wältigendes]], [[wältigende]], [[wältigenden]], [[wältigendem]], [[wältigenderer]], [[wältigenderes]], [[wältigendere]], [[wältigenderen]], [[wältigenderem]], [[wältigendster]], [[wältigendstes]], [[wältigendste]], [[wältigendsten]], [[wältigendstem]], [[Wältigen]]
+[[wältigender]], [[wältigendes]], [[wältigende]], [[wältigenden]], [[wältigendem]], [[wältigenderer]], [[wältigenderes]], [[wältigendere]], [[wältigenderen]], [[wältigenderem]], [[wältigendster]], [[wältigendstes]], [[wältigendste]], [[wältigendsten]], [[wältigendstem]], [[Wältigen]], [[überwältigend]]

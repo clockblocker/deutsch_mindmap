@@ -25,4 +25,4 @@ Alle Formen:
 | Accusative  | das Bild          | die Bilder       |
 | Dative      | dem Bild          | den Bildern      |
 | Genitive    | des Bildes        | der Bilder       |, [[Bildgefühl]], [[Abbildung]], [[Bildschirm]], [[Bildband]], [[Zeichnung]], [[Bildmotive]], [[Nutzungsdaten]]
-, [[Vorbild]], [[Meinungsbildung]], [[Bildrecht]], [[Foto]], [[Nahaufnahme]], [[Fortbildung]], [[bilden]]
+, [[Vorbild]], [[Meinungsbildung]], [[Bildrecht]], [[Foto]], [[Nahaufnahme]], [[Fortbildung]], [[bilden]], [[Malversuch]]

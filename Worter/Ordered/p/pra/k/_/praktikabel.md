@@ -2,7 +2,7 @@
 
 ---
 *[[000-C1-Schreiben-T1#^10|^]]* *[[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]],* 
-[[praktikable]] [[Regel]]n zu [[etablieren]], 
+[[praktikable]] [[C1 Schreiben/misc/Regel]]n zu [[etablieren]], 
 *um die Online-Zeit [[konsequent]] zu [[begrenzen]].*
 
 ---

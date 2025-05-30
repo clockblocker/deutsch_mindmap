@@ -79,7 +79,7 @@ entsprechend → Dativ
 [[2 prap.md#^14|^]] [[Entsprechend]] unserem [[Vorschlag]] ^14
 
 gemäß → Dativ  
-[[2 prap.md#^15|^]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
+[[2 prap.md#^15|^]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[C1 Schreiben/misc/Regel]] ^15
 
 
 Gemäß kann im Singular auch ohne Begleiter benutzt werden:  

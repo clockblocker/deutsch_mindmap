@@ -4,6 +4,9 @@ die [[Leistungen]]
 ---
 *[[C1-Lesen-T1-401-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu [[höh]]erer [[Leistung]] 7 [[fähig]] waren
 
+*[[C1-Lesen-T1-405-Text#^4|^]]* Männer lügen [[bevorzugt]] bei Themen wie Beruf, Gehalt oder persönlicher [[Leistung]]. ^4
+
+
 _[[01-C1-Schreiben-T2-M#^7|^]]_ Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]
 
 _[[C1-Hoehen-T2-100-Text#^6|^]]_ Bei [[denjenig]]en Menschen, die aktuell Sozialleistungen [[beziehen]], könnte ein bedingungsloses Grundeinkommen die [[meisten]] dieser [[Leistung]]en [[ersetzen]]

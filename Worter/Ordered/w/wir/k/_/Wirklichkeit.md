@@ -34,3 +34,4 @@ Einzigartige mögliche Formen: [[Wirklichkeit]], [[Wirklichkeiten]]
 #Substantiv #Feminin
 
 nicht [[Zaubertrick]], [[Wahrheit]], [[Phantasie]], [[verwirklichen]], [[Realwelt]], [[Gegenwelt]]
+, [[Erscheinung]]

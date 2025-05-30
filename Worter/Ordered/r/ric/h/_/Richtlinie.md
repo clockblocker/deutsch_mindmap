@@ -7,7 +7,7 @@ die [[Richtlinien]]
 
 ---
 = [[Vorschrift]], [[Anweisung]], [[Direktive]], [[Anleitung]]
-≈ [[Norm]], [[Regel]], [[Leitfaden]], [[Vorgabe]], [[Prinzip]]
+≈ [[Norm]], [[C1 Schreiben/misc/Regel]], [[Leitfaden]], [[Vorgabe]], [[Prinzip]]
 ≠ [[Willkür]], [[Beliebigkeit]], [[Unverbindlichkeit]]
 
 ---

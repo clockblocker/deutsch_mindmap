@@ -1,7 +1,7 @@
 🔗 [[gemäß]], [ɡəˈmɛːs]
 
 ---
-[[2 prap.md#^15|^]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[Regel]] ^15
+[[2 prap.md#^15|^]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[C1 Schreiben/misc/Regel]] ^15
 
 [[erwartungsgemäß]]
 

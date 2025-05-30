@@ -1,1 +1,1 @@
-, [[vergleichen]], [[Vergleich]]
+🤝 [[vergleichen]]

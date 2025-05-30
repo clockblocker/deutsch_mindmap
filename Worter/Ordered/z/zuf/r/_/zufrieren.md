@@ -4,7 +4,7 @@ sein [[zugefroren]]
 
 ---
 
-In der [[Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem [[zugefrorenen]] See.
+In der [[C1 Schreiben/misc/Regel]] ist es gefährlich, wenn das Eis bricht, zum Beispiel auf einem [[zugefrorenen]] See.
 
 ---
 

@@ -1,28 +1,13 @@
-[[Format-Teil-1]]
+[[C1-Schreiben-Root]]
 
 ----
+[[Format-Teil-1]]
 
-###### [[Thema-Social-Medien]]
 - [ ] [[000-C1-Schreiben-T1|000]] Soziale Medien – Fluxh oder Segen?
-
-###### [[Thema-Klima]]
 - [x] [[001-C1-Schreiben-T1|001]] Klimaschutz – aber wie?
-
-###### [[Thema-Arbeit]] + [[Thema-Kinder]]
-- [ ] [[002-C1-Schreiben-T1|002]] 002-C1-Schreiben-T1
-
-
-###### [[Thema-Homeoffice]]
+- [ ] [[002-C1-Schreiben-T1|002]] Familie + Arbeit
 - [ ] [[100-C1-Schreiben-T1|100]] Home-Office oder Arbeitsplatz im Büro einer Firma?
-
-###### [[Thema-Burnout]]
 - [ ] [[101-C1-Schreiben-T1|101]] Work Life Balance: Wie schaffen wir ein ausgewogenes Verhältnis zwischen Berufsleben und Privatleben?
-
-###### [[Thema-Studium]]
-[[0 Studieren - aber was?]]
-
-
-
-###### [[Thema-KI]]
+- [ ] [[0 Studieren - aber was?]]
 
 

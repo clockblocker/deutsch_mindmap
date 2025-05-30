@@ -1,4 +1,4 @@
-In der [[Regel]] ist es [[gefährlich]], wenn das Eis bricht, zum Beispiel auf einem [[zugefrorenen]] See. Anderswo ist das aber sehr [[erwünscht]]. Ein Abend kann dann schon mal viel [[entspannter]] [[verlaufen]].
+In der [[C1 Schreiben/misc/Regel]] ist es [[gefährlich]], wenn das Eis bricht, zum Beispiel auf einem [[zugefrorenen]] See. Anderswo ist das aber sehr [[erwünscht]]. Ein Abend kann dann schon mal viel [[entspannter]] [[verlaufen]].
   
 Miriams Freunde sind [[neugierig]]: Heute Abend will sie ihren neuen Freund Sebastian zum Grillen [[mitbringen]]. Den wollen sie natürlich kennenlernen. 
 

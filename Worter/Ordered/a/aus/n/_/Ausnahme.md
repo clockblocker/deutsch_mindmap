@@ -6,8 +6,8 @@ Aber solche [[Ausnahmen]] finde ich als nur [[Symptombehandlung]].
 
 ---
 = [[Sonderfall]], [[Abweichung]]
-≈ [[Regel]], [[Spezialfall]], [[Besonderheit]]
-≠ [[Regel]], [[Normalfall]], [[Standard]]
+≈ [[C1 Schreiben/misc/Regel]], [[Spezialfall]], [[Besonderheit]]
+≠ [[C1 Schreiben/misc/Regel]], [[Normalfall]], [[Standard]]
 
 , [[Umstand]], [[ausnehmen]], [[Seltenheit]], [[Regelung]], [[Ausnahmeregelung]]
 

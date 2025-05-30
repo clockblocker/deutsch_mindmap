@@ -1,9 +1,9 @@
 🎼 🔴 die [[Note]], [ˈnoːtə]
-die [[Noten]]
+die [[Worter/Ordered/n/not/e/_/Noten]]
 
 ---
 
-Sie haben meinem Sohn eine Fünf gegeben! Bei seinem alten Lehrer hatte er immer gute [[Noten]]!
+Sie haben meinem Sohn eine Fünf gegeben! Bei seinem alten Lehrer hatte er immer gute [[Worter/Ordered/n/not/e/_/Noten]]!
 
 ---
 
@@ -27,7 +27,7 @@ Morpheme:
 ---
 
 Einzigartige mögliche Formen:
-[[Note]], [[Notes]], [[Noten]], [[Noten]]
+[[Note]], [[Notes]], [[Worter/Ordered/n/not/e/_/Noten]], [[Worter/Ordered/n/not/e/_/Noten]]
 
 ---
 

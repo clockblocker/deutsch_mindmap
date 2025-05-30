@@ -16,7 +16,7 @@ Schreiben Sie circa 120 Wörter.
 
 Sehr geehrter Herr Heine, 
 
-Ich habe vollstes Verständnis dafür, dass eine längere Einführung in neue Softwareprogramme grundsätzlich schwierig sein kann – insbesondere, da eine Projektpräsentation bereits in der nächsten Woche ansteht. ^1
+Ich habe vollstes Verständnis dafür, dass eine längere Einführung in neue Softwareprogramme grundsätzlich schwierig sein kann – insbesondere, unter der Zeitdruck der bevorstehenden Projektpräsentation ^1
 
 
 Allerdings sind zehn Minuten leider zu wenig, um ein neues Werkzeug sinnvoll zu erlernen. ^5

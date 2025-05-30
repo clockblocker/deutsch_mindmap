@@ -6,13 +6,13 @@
 [[Regulierung]] klimafreundlich [[gestalten]]       *(Shape)*
 [[Regulierung]] [[umsetzen]]                                 *(Implement)*
 
-❤️ [[Regel]]n [[etablieren]]       *(Establish / Normalize)*
-[[Regel]]n [[aufstellen]]            *(Set up / Formulate)*
-[[Regel]]n [[einhalten]]             *(Follow / Comply with)*
-[[Regel]]n [[befolgen]]             *(Obey / Adhere to)*
-[[Regel]]n [[durchsetzen]]       *(Enforce / Impose)*
-[[Regel]]n [[anpassen]]           *(Adapt / Modify)*
-[[Regel]]n [[übertreten]]         *(Violate / Break)*
+❤️ [[C1 Schreiben/misc/Regel]]n [[etablieren]]       *(Establish / Normalize)*
+[[C1 Schreiben/misc/Regel]]n [[aufstellen]]            *(Set up / Formulate)*
+[[C1 Schreiben/misc/Regel]]n [[einhalten]]             *(Follow / Comply with)*
+[[C1 Schreiben/misc/Regel]]n [[befolgen]]             *(Obey / Adhere to)*
+[[C1 Schreiben/misc/Regel]]n [[durchsetzen]]       *(Enforce / Impose)*
+[[C1 Schreiben/misc/Regel]]n [[anpassen]]           *(Adapt / Modify)*
+[[C1 Schreiben/misc/Regel]]n [[übertreten]]         *(Violate / Break)*
 
 #### ➕ Add / Insert / Attach
 - **🔩 Functional insertion / integration**

@@ -7,6 +7,10 @@ die [[Eindrücke]]
 
 _[[C1-Hoehen-T2-202-Text#^4|^]]_ Auch die [[lebhaft]]en Diskussionen über Politik in sozialen Netzwerken [[bestätigen]] diesen [[Eindruck]]
 
+*[[C1-Lesen-T1-404-Text#^3|^]]* Auch bei nordischen Völkern, `1 obwohl` für sie Polarlichter ein weit weniger seltenes Phänomen sind, [[hinterließen]] sie einen tiefen [[Eindruck]]
+*(they [[left]] a deep [[impression]])*
+
+
 _[[C1-Hoehen-T1-301-Text#^8|^]]_ Wir [[begleiten]] ihn bei seiner [[Erkundung]] des längsten [[Küstenwanderweg]]s der Welt und [[lauschen]] seinen [[Eindrücken]], Kämpfen und [[Erkenntnis]]sen
 _(his [[impressions]], struggles, and [[insights]])_
 

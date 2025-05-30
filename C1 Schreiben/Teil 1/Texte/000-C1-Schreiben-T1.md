@@ -59,6 +59,6 @@ Ich persönlich habe es als sinnvoll empfunden, meinen Zugriff auf Twitter auf 3
 
 *[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13
 
-*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
+*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
 
 

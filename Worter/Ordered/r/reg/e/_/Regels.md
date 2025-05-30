@@ -1,1 +1,1 @@
-, [[Regel]]
+, [[Worter/Ordered/r/reg/e/_/Regel]]

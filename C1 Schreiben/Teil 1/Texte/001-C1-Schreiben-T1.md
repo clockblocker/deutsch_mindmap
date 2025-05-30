@@ -39,9 +39,6 @@ Auf der anderen Seite sind viele Kritiker:innen der festen Überzeugung, dass di
 
 Meiner Meinung nach ist das Wichtigste, was jeder Einzelne zum Klimaschutz beitragen kann, die Teilnahme an Wahlen. Denn ohne einen gut ausgebauten ÖPNV, gepaart mit verbreiterten Geh- und Radwegen, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu erwarten. Außerdem kann staatliche Regulierung Unternehmen beim Umstieg auf recycelbare Verpackungsmaterialien durch Fördermittel und steuerliche Anreize unterstützen. 
 
-Umsteig auf
-Fördersmittel
-
 Abschließend lässt sich sagen, dass neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden muss, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen.
 
 [[ausgewogen]] [[Lebensstil]]

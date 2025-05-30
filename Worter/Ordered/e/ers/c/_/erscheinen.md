@@ -44,3 +44,4 @@ Partizip I: [[erscheinend]], Partizip II: [[erschienen]]
 
 [[untergehen]], [[aussehen]], [[aufgehen]], [[untertauchen]], [[verschwinden]], [[versinken]], [[auftauchten]], [[kommen]], [[wirken]]
 , [[scheinbar]], [[unscheinbar]], [[Vorschein]], [[Ankunft]], [[antreten]], [[ersichtlich]], [[ankommen]], [[einleuchten]]
+, [[Erscheinung]]

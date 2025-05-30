@@ -20,7 +20,7 @@ exception rule
 [[Ausnahme]], [[Regelung]]
 
 ---
-[[Ausnahme]]|[[regel]]|[[ung]]
+[[Ausnahme]]|[[C1 Schreiben/misc/Regel]]|[[ung]]
 [[Ausnahmeregelung]]
 
 

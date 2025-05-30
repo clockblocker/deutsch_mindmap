@@ -5,20 +5,17 @@
 haben [[verglichen]]
 
 ---
+Die Schüler sprechen über den [[Vergleich]] von Männern und Frauen
 
-Die Schüler sprechen über den [[Vergleich]] von Männern und Frauen.
+_[[4 Autofrei#^7|^]]_ Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, [[verglichen]] mit Angebot "ein Motor pro 100 Personen", die die Stadt mit dem [[öffentlichen]] Transport erreichen können
 
-_[[4 Autofrei#^7|^]]_ Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, [[verglichen]] mit Angebot "ein Motor pro 100 Personen", das die Stadt mit dem [[öffentlichen]] Transport erreichen können. ^7
-
-Meine Oma [[vergleicht]] immer die Preise, bevor sie ein Produkt kauft.
+Meine Oma [[vergleicht]] immer die Preise, bevor sie ein Produkt kauft
 
 ---
-
 Synonyme: [[gegenüberstellen]], [[kontrastieren]], [[abgleichen]], [[eichen]], [[prüfen]]
 Antonyme: [[unterschieden]], [[getrennt]], [[trennen]]
 
 ---
-
 Übersetzung: to compare
 
 ---
