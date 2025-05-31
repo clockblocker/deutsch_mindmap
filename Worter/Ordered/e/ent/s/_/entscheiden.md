@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T1-402-Text#^7|^]]* Oder [[entscheiden]] wir uns [[provozierend]] `gegen` den herrschenden Dresscode und geben uns [[unangepasst]]
 
+*[[bro-schrieben-c1-t1-002#^14|^]]* [[Jugendlich]]e und [[arbeitende]] Menschen sollten `selbst` [[entscheiden]], welches Format des Lernens ihnen passt
+
 Er kann sich nicht [[entschieden]], was er essen möchte
 
 damit ist der Kampf [[entschieden]]

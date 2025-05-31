@@ -1,1 +1,1 @@
-, [[zeitgemäß]]
+, [[zeitgemäß]], [[Zeit]]

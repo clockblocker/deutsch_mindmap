@@ -32,4 +32,4 @@ D: dem [[Unterschied]], den [[Unterschieden]]
  [[verschieden]], [[Vergleich]], [[Bedeutungsunterschied]]
 , [[Analogie]], [[Geschlecht]]
 
-#Maskulin 
+#Maskulin , [[Gegensatz]]

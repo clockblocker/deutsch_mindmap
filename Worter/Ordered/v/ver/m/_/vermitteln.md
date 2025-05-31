@@ -63,4 +63,4 @@ sie, [[vermitteln]], [[vermittelten]], [[vermitteln]], [[vermittelten]], [[vermi
 Adjektive: [[vermittelnd]], [[vermittelnder]], [[vermittelndst]]
 
 ---
-[[vermittelnder]], [[vermittelndes]], [[vermittelnde]], [[vermittelnden]], [[vermittelndem]], [[vermittelnderer]], [[vermittelnderes]], [[vermittelndere]], [[vermittelnderen]], [[vermittelnderem]], [[vermittelndster]], [[vermittelndstes]], [[vermittelndste]], [[vermittelndsten]], [[vermittelndstem]], [[näherbringen]], [[Unmittelbarkeit]]
+[[vermittelnder]], [[vermittelndes]], [[vermittelnde]], [[vermittelnden]], [[vermittelndem]], [[vermittelnderer]], [[vermittelnderes]], [[vermittelndere]], [[vermittelnderen]], [[vermittelnderem]], [[vermittelndster]], [[vermittelndstes]], [[vermittelndste]], [[vermittelndsten]], [[vermittelndstem]], [[näherbringen]], [[Unmittelbarkeit]], [[Mittels]]

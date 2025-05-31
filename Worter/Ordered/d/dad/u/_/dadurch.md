@@ -24,4 +24,4 @@ thereby, through that, as a result
 [[da]]|[[durch]]
 
 ---
-[[womit]], [[wodurch]], [[deshalb]], [[infolge]], [[daher]], [[anregen]], [[Konjunktoren]], [[Auswirkung]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]
+[[womit]], [[wodurch]], [[deshalb]], [[infolge]], [[daher]], [[anregen]], [[Konjunktoren]], [[Auswirkung]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]], [[demzufolge]]

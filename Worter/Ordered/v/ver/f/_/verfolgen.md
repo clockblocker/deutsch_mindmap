@@ -1,8 +1,11 @@
 🕵️[[verfolgen]] + Akk, [fɛɐ̯ˈfɔlɡən], [[verfolgte]], haben [[verfolgt]]
 
 ---
-
 [[Lieferung]] [[verfolgen]]
+
+*[[bro-schrieben-c1-t1-002#^2|^]]* Liebe [[Forumsteilnehmer]], seit langem [[verfolge]] ich eure [[Beiträge]] im Forum und das neue Thema hat mich so [[angesprochen]], dass ich mich [[gerne]] `an` der Diskussion [[beteiligen]] möchte
+
+*[[bro-schrieben-c1-t1-002#^3|^]]* Ich [[verfolge]] schon seit [[geraum]]er [[Zeit]] eure [[Beiträge]] zu Online-[[Sprachkurs]]en und möchte nun auch [[etwas]] [[dazu]] schreiben
 
 _[[C1-Hoehen-T2-202-Text#^3|^]]_ Wir lesen ja immer wieder über die [[angeblich]]e [[Politikverdrossenheit]] der Deutschen, sehen aber andererseits, dass die [[Berichterstattung]] über politische Themen im Fernsehen, in Zeitungen oder Radio immer stärker präsent ist und mit großem Interesse [[verfolgt]] wird.
 

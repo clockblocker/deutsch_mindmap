@@ -29,3 +29,4 @@ Einzigartige mögliche Formen: [[Führers]], [[Führern]], [[Führer]], [[Führe
 #Substantiv #Maskulin #historisch #Politik
 
 , [[entführen]]
+, [[anführen]]

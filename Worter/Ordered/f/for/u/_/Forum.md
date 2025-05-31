@@ -27,4 +27,4 @@ G: des [[Forums]], der [[Foren]]
 D: dem [[Forum]], den [[Foren]]
 
 
-#Neuter 
+#Neuter , [[Forumsteilnehmer]]

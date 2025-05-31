@@ -5,6 +5,10 @@
 haben [[beteiligt]]
 
 ---
+*[[bro-schrieben-c1-t1-002#^2|^]]* Liebe [[Forumsteilnehmer]], seit langem [[verfolge]] ich eure [[Beiträge]] im Forum und das neue Thema hat mich so [[angesprochen]], dass ich mich [[gerne]] `an` der Diskussion [[beteiligen]] möchte
+
+*[[bro-schrieben-c1-t1-002#^13|^]]* Ich stehe auf dem [[Standpunkt]], dass ein [[sinnvoll]]es [[Lernmodell]] wäre, Kinder an Präsenzkursen zu [[beteiligen]], da sie dabei nicht nur die Sprache lernen können, sondern auch kommunikative [[Fähigkeit]]en [[entwickeln]] können
+
 
 Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war.
 Es war an den ersten [[Angriff]]en der Feuernation [[beteiligt]].
@@ -15,12 +19,11 @@ _[[C1-Hoehen-T2-202-Text#^20|^]]_ Wir müssen den [[Politikverdrossenen]] zeigen
 
 _[[3  Ein Selbstversuch als Hobbybäuerin#^14|^]]_ Eine Freundin, die sich an einem [[Nachmittag]] als [[Erntehelferin]] [[beteiligt]] hatte, wurde von einer [[Wespe]] ins Ohr [[gestochen]] und musste sich in ärztliche [[Behandlung]] [[begeben]]. ^14
 
-_[[3 Soll man Geld spenden?#^11|^]]_ Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]. ^11
+_[[3 Soll man Geld spenden?#^11|^]]_ Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]
 
-134. Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
+Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
 
-
-    - [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
+- [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
 
 ---
 
@@ -49,4 +52,4 @@ Morpheme: [[be]]Teil]], [[ig]], [[en]]
 
 Partizip I: [[beteiligend]], Partizip II: [[beteiligt]]
 [[beteiligen]] - [[be]] = [[teilen]], [[Beteiligung]], [[einlassen]], [[Anteil]], [[beitragen]], [[teilhaben]], [[engagieren]]
-, [[mitbestimmen]]
+, [[mitbestimmen]], [[bro-schrieben-c1-t1-002]]

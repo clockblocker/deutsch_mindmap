@@ -12,7 +12,6 @@ Synonyme: [[aufschrecken]], [[emporschrecken]], [[zusammenzucken]], [[auffahren]
 Antonyme: [[beruhigen]], [[entspannen]], [[ruhig bleiben]]
 
 ---
-
 Übersetzung: to jump up startled, to jerk up suddenly
 
 ---

@@ -12,3 +12,10 @@
 
 *[[bro-schrieben-c1-t1-001#^6|^]]* Außerdem sei die positive Wirkung ... bekannt, weil es ... wesentlich verkürzt
 
+
+
+*[[bro-schrieben-c1-t1-002#^5|^]]* [[Demzufolge]] [[entstand]] die [[Notwendigkeit]], ...
+
+keine [[Zeit]] beim [[Pendeln]] [[verliere]]
+
+*[[bro-schrieben-c1-t1-002#^12|^]]* [[Dagegen]] spricht, dass es [[während]] dieses Lernens mehrere [[Ablenkung]]en gäbe, da man sich nicht in einem [[Klassenzimmer]] befindet, sondern meistens zu Hause, wo [[Familienmitglieder]] [[Aufmerksamkeit]] fordern können. ^12

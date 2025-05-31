@@ -5,6 +5,8 @@
 ---
 *[[1 Präpositionen Übungen.md#^1|^]]* [[Verbinde]] die Sätze mit einer [[passenden]] Präposition, [[sodass]] ein komplexer Satz [[entsteht]]:
 
+*[[bro-schrieben-c1-t1-002#^13|^]]* Im [[Gegensatz]] dazu bieten [[Präsenzkurs]]e eine [[passend]]e [[Atmosphäre]] zum [[ruhig]]en und [[entspannten]] [[Sprachenlernen]]
+
 *[[C1-Hoehen-T3-301-Text#^20|^]]* Für Frau Ebner-Perotti sind [[fair]]e [[Bezahlung]] und [[passend]]e [[Sozialleistung]]en wichtig
 
 *[[C1-Hoehen-T1-201-Text#^6|^]]* Dabei werden die [[tatsächlichen]] [[Ereignisse]] jedoch so [[zurechtgebogen]], dass man [[passende]] Gesetze findet und [[erfindet]], um es am Ende zu einer [[Verurteilung]] kommen zu lassen
@@ -33,4 +35,4 @@ P: [[passenden]], [[passenderen]], [[passendsten]]
 ---
 [[passen]], [[Passform]], [[Passbild]], [[passend gemacht]], [[passgenau]]
 </ideal_output>
-, [[gelegen]], [[Anpassung]], [[zurecht]]
+, [[gelegen]], [[Anpassung]], [[zurecht]], [[bro-schrieben-c1-t1-002]]

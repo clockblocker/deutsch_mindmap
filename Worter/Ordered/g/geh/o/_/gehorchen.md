@@ -1,3 +1,3 @@
 , [[widerstehen]], [[folgen]], [[leiten]], [[regieren]]
 , [[sträuben]]
-, [[ungehorsam]], [[befolgen]], [[herrschen]], [[thronen]]
+, [[ungehorsam]], [[befolgen]], [[herrschen]], [[thronen]], [[anführen]]

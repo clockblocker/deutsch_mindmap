@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82fce4c2e0105ab9",
+            "id": "18232a3d1d13452f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/C1-Schreiben-Root.md",
+                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-002.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Schreiben-Root"
-            }
-          },
-          {
-            "id": "afecafc8f382a27d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-s-t1-root"
-            }
-          },
-          {
-            "id": "ad088e493341135a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-001.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-schrieben-c1-t1-001"
-            }
-          },
-          {
-            "id": "64ea0b15ba1d84b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-s-t1-root"
-            }
-          },
-          {
-            "id": "57caa7a80b02a619",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Pferdesport.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pferdesport"
+              "title": "bro-schrieben-c1-t1-002"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.50271224975586
+    "width": 200
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -230,44 +173,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64ea0b15ba1d84b6",
+  "active": "18232a3d1d13452f",
   "lastOpenFiles": [
-    "Worter/Ordered/e/ein/n/_/Einnahme.md",
-    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-001.md",
-    "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
-    "Worter/Ordered/s/sow/e/_/soweit.md",
+    "Worter/Ordered/s/spr/a/_/Sprachenlernen.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-002.md",
+    "Worter/Ordered/p/pen/d/_/pendeln.md",
     "Worter/Ordered/b/bei/t/_/Beitrag.md",
-    "Worter/Ordered/r/ruc/k/_/Rückmeldung.md",
-    "Worter/Ordered/p/pfl/e/_/pflegen.md",
-    "Worter/Ordered/a/abw/e/_/abwechslungsreiche.md",
-    "Worter/Ordered/a/abw/e/_/abwechslungsreich.md",
-    "Worter/Ordered/m/met/h/_/Methode.md",
-    "Worter/Ordered/e/ein/z/_/einzusetzen.md",
-    "Worter/Ordered/e/ein/s/_/einsetzen.md",
-    "Worter/Ordered/v/vor/s/_/Vorschlag.md",
-    "Worter/Ordered/s/ste/i/_/Steigerung.md",
-    "Worter/Dekompressionskammer.md",
-    "Worter/Ordered/l/lei/s/_/Leistung.md",
-    "Worter/Ordered/l/lie/g/_/liegen.md",
-    "Worter/Sauerstoffniveau.md",
-    "Worter/Ordered/s/sau/e/Sauerstoffversorgung.md",
-    "Worter/Ordered/s/sti/c/Stickstoffgehalt.md",
-    "Worter/Ordered/p/peg/e/Pegel.md",
+    "Worter/Ordered/e/ent/s/_/entscheiden.md",
+    "Worter/Ordered/j/jug/e/_/jugendlich.md",
+    "Worter/arbeitende.md",
+    "Worter/Ordered/a/arb/e/_/arbeiten.md",
+    "Worter/Ordered/a/aba/r/abarbeiten.md",
+    "Worter/Ordered/a/arb/e/arbeitendstem.md",
+    "Worter/Ordered/a/arb/e/arbeitendsten.md",
+    "Worter/Ordered/a/arb/e/arbeitendste.md",
+    "Worter/Ordered/a/arb/e/arbeitendstes.md",
+    "Worter/Ordered/a/arb/e/arbeitendster.md",
+    "Worter/Ordered/a/arb/e/arbeitenderem.md",
+    "Worter/Ordered/a/arb/e/arbeitenderen.md",
+    "Worter/Ordered/a/arb/e/arbeitendere.md",
+    "Worter/Ordered/a/arb/e/arbeitenderes.md",
+    "Worter/Ordered/a/arb/e/arbeitenderer.md",
+    "Worter/Ordered/a/arb/e/arbeitendem.md",
+    "Worter/Ordered/a/arb/e/arbeitenden.md",
+    "Worter/Ordered/a/arb/e/arbeitendes.md",
+    "Worter/Ordered/a/arb/e/arbeitendst.md",
+    "Worter/Ordered/a/arb/e/arbeitender.md",
+    "Worter/Ordered/a/arb/e/arbeitetet.md",
+    "Worter/Ordered/a/arb/e/arbeiteten.md",
+    "Worter/Ordered/f/fla/i",
+    "Worter/Ordered/a/aum/_",
+    "Worter/Ordered/a/aum",
     "Worter/Ordered/p/peg/e",
     "Worter/Ordered/p/peg",
-    "Worter/Ordered/s/sau/e/Sauerstoffniveaus.md",
-    "Worter/Ordered/k/kom/p/kompression.md",
-    "Worter/Ordered/d/dek/o/dekomprimieren.md",
-    "Worter/Ordered/b/beh/a/Behandlungsraum.md",
-    "Worter/Ordered/s/sau/e/Sauerstoffkammer.md",
     "Worter/Ordered/a/arz/n",
     "Worter/Ordered/d/dop/e",
     "Worter/Ordered/p/pla/c",
     "Worter/Ordered/a/ana/b",
     "Worter/Ordered/d/dop/i",
-    "Worter/Ordered/p/put/s",
-    "Worter/Ordered/d/dro/g",
-    "C1 Schreiben/Teil 2/Texte/Bro-s",
     "Anhänge/Pasted image 20250528071457.png",
     "Anhänge/Pasted image 20250528065432.png",
     "Anhänge/Pasted image 20250528055347.png",

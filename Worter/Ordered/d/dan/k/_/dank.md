@@ -19,4 +19,4 @@ thanks to, due to
 
 ---
 [[danken]], [[Dank]], [[dankbar]], [[Dankbarkeit]], [[dankenswert]]
-, [[beherzt]], [[dankenswerterweise]]
+, [[beherzt]], [[dankenswerterweise]], [[Mittels]]

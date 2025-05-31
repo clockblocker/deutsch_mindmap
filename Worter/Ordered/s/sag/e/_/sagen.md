@@ -29,4 +29,4 @@ PI: [[sagend]], PII: [[gesagt]], Zu+inf: [[zu sagen]]
 [[sagen]] - pure verb / to say, to tell
 
 ---
-[[Sage]], [[Sagbar]], [[Aussage]], [[absagen]], [[ansagen]], [[zusagen]], [[besagen]], [[melden]], [[leichter gesagt als getan]], [[einwenden]], [[bekunden]]
+[[Sage]], [[Sagbar]], [[Aussage]], [[absagen]], [[ansagen]], [[zusagen]], [[besagen]], [[melden]], [[leichter gesagt als getan]], [[einwenden]], [[bekunden]], [[anführen]]

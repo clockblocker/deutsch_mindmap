@@ -5,6 +5,8 @@ haben [[eingekauft]]
 ---
 *[[C1-Lesen-T3-301-Text#^25|^]]* Für eine genauere [[Untersuchung]] des Kaufverhaltens wurde ein Teil der [[Einkaufenden]] mit einer Karte der GfK [[ausgestattet]]
 
+*[[bro-schrieben-c1-t1-002#^10|^]]* Wenn ich selbst nur online lerne und keine Zeit beim [[Pendeln]] [[verliere]], benutze ich innere Kräfte, um mehr [[Lernaufgabe]]n [[erfolgreich]] zu [[bewältigen]] und am [[selben]] Tag [[einkaufen]] zu gehen
+
 ![[006-C1-Schreiben-T2#^5|^]]
 
 Wir haben viel [[eingekauft]].
@@ -68,3 +70,4 @@ to shop, to buy
 **Morphems of only infinitive:**
 
 - [[ein]], [[kaufen]], [[Kauf]], [[Einkaufsbereich]], [[Supermarkt]]
+, [[bro-schrieben-c1-t1-002]]

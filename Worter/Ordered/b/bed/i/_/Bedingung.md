@@ -5,7 +5,7 @@ die [[Bedingungen]]
 ---
 •	Erklären Sie, unter welchen [[Bedingungen]] sich ein Arbeitgeber für Home-Office aussprechen sollte.
 
-Unter diesen [[Bedingung]]en ist produktives [[Arbeiten]] kaum möglich.
+Unter diesen [[Bedingung]]en ist produktives [[arbeiten]] kaum möglich.
 
 
 Unter [[solchen]] [[Bedingungen]] kann ich nicht arbeiten.

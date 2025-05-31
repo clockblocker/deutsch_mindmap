@@ -23,3 +23,4 @@ by means of, on the basis of
 
 ---
 [[Hand]], [[Handbuch]], [[Handhabung]], [[behandeln]], [[verhandeln]]
+, [[Mittels]]

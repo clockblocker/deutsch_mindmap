@@ -1,1 +1,1 @@
-, [[Pendler]]
+, [[Pendler]], [[pendeln]]

@@ -29,4 +29,4 @@ G: der [[Präsenz]], der [[Präsenzen]]
 D: der [[Präsenz]], den [[Präsenzen]]
 
 
-#Feminin , [[gegenseitig]], [[Unmittelbarkeit]]
+#Feminin , [[gegenseitig]], [[Unmittelbarkeit]], [[Präsenzkurs]]

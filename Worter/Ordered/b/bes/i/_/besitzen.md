@@ -1,6 +1,7 @@
 🏠 [[besitzen]], [bəˈzɪtsn̩] | [[besaß]], haben [[besessen]]
 
 ---
+*[[bro-schrieben-c1-t1-002#^7|^]]* Meiner [[Einschätzung]] nach sind solche Kurse sinnvoll, wenn man wenige Möglichkeiten [[besitzt]], persönlich zu lernen
 
 Mrs Dursley war dünn und blond und [[besaß]] [[doppelt]] so viel Hals, wie [[notwendig]] gewesen wäre, was [[allerdings]] sehr [[nützlich]] war, denn so konnte sie den Hals über den [[Gartenzaun]] [[recken]] und zu den Nachbarn [[hinüberspähen]].
 

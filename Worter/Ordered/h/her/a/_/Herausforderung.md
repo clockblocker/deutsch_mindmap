@@ -2,6 +2,7 @@
 die [[Herausforderung]]en
 
 ---
+*[[bro-schrieben-c1-t1-002#^6|^]]* Eine große [[Menge]] von [[Beschäftigten]] [[überwindet]] die sprachlichen [[Herausforderung]]en [[mittels]] der Online-Sprachkurse
 
 Probleme gibt es im Leben genug. [[Ständig]] bekommt man neue [[Aufgaben]], die man [[erfolgreich]] [[lösen]] muss. Doch es gibt manche [[Herausforderung]], die so groß sind, dass man daraus ein Sprichwort machen muss.
 
@@ -34,3 +35,4 @@ Dative: der [[Herausforderung]], den [[Herausforderung]]en
 [[herausfordern]], [[herausfordernd]], [[herausforderungsvoll]], [[bewältigen]], [[Hürde]], [[Wettbewerb]], [[Hauptproblem]]
 
 #Feminin
+, [[Familienaufgabe]], [[bro-schrieben-c1-t1-002]]

@@ -37,4 +37,4 @@ Partizip I: [[wirkend]], Partizip II: [[gewirkt]]
 
 - [[Wirk]], [[en]], [[aussehen]], [[spinnen]]
   , [[Auswirkung]], [[bemüht]], [[bestreben]], [[auswirken]], [[Auswirkung]], [[Wirkung]], [[reagieren]], [[Zehrung]], [[entgegenwirken]], [[Wechselwirkung]], [[Wirkungsweise]], [[wirksam]], [[weben]]
-, [[wechselwirken]], [[Wirkstoff]]
+, [[wechselwirken]], [[Wirkstoff]], [[arbeiten]]

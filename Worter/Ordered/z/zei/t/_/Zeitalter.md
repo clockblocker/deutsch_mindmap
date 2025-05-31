@@ -33,3 +33,4 @@ G: des [[Zeitalters]], der [[Zeitalter]]
 D: dem [[Zeitalter]], den [[Zeitaltern]]
 
 #Neuter , [[zeitlich]]
+, [[Zeit]]

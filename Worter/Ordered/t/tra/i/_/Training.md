@@ -33,3 +33,4 @@ D: dem [[Training]], den [[Trainings]]
 ---
 
 [[trainieren]], [[Trainer]], [[trainierbar]], [[Trainingsanzug]], [[Trainingslager]], [[Sport]], [[Achtsamkeitstraining]], [[Kurs]], [[Fortbildung]], [[Ausdauertraining]], [[Muskelaufbau]]
+, [[Lernaufgabe]]

@@ -34,3 +34,4 @@ D: dem [[Kurs]], den [[Kursen]]
 
 #Maskulin
 , [[Sprachenzentrum]], [[Fortbildung]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Spotpreis]]
+, [[Präsenzkurs]], [[Sprachkurs]]

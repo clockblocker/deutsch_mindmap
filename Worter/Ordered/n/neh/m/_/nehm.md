@@ -38,4 +38,4 @@ Partizip I: [[nehmend]], Partizip II: [[genommen]]
 
 [[nehmen]] - [[neh]] = [[men]]
 , [[zunehmen]], [[abnehmen]], [[ablehnen]], [[Arbeitnehmer]], [[aufnehmen]], [[ausnehmen]], [[festnehmen]], [[wahrnehmen]], [[einnehmen]], [[Nahaufnahme]], [[genehmigen]], [[teilnehmen]], [[Teilnahme]], [[Wahrnehmung]], [[Abnahme]], [[Zunahme]], [[mitnehmen]]
-, [[Einnahme]]
+, [[Einnahme]], [[Forumsteilnehmer]]

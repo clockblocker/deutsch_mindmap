@@ -1,1 +1,1 @@
-, [[abarbeiten]], [[ausarbeiten]], [[Ausarbeitung]]
+, [[abarbeiten]], [[ausarbeiten]], [[Ausarbeitung]], [[arbeiten]]

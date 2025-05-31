@@ -4,6 +4,8 @@ die [[Fähigkeiten]]
 ---
 *[[C1-Lesen-T1-405-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
 
+*[[bro-schrieben-c1-t1-002#^13|^]]* Ich stehe auf dem [[Standpunkt]], dass ein [[sinnvoll]]es [[Lernmodell]] wäre, Kinder an Präsenzkursen zu [[beteiligen]], da sie dabei nicht nur die Sprache lernen können, sondern auch kommunikative [[Fähigkeit]]en [[entwickeln]] können
+
 Und obwohl seine [[Fähigkeiten]] erstaunlich sind, muss er noch eine Menge lernen.
 
 _[[C1-Hoehen-T2-200-Text#^22|^]]_ Natürlich kann man durch [[Fleiß]] und Üben seine [[Fähigkeit]]en [[ausbauen]]
@@ -29,11 +31,9 @@ _[[1 ADHD#^9|^]]_ [[vermeidet]] neue [[Herausforderung]]en [[mangels]] [[Vertrau
 ---
 
 Synonyme:
-
 - [[Können]], [[Kompetenz]], [[Talent]], [[Fertigkeit]], [[Geschicklichkeit]]
 
 ---
-
 Übersetzung: abilities, skills, capabilities
 
 ---
@@ -42,10 +42,10 @@ Morpheme:
 [[fähig]], [[keit]], [[en]]
 
 ---
-
 Einzigartige mögliche Formen: [[Fähigkeit]], [[Fähigkeiten]], [[Fähigkeiten]], [[Fähigkeiten]]
 
 ---
 
-#Substantiv #Feminin , [[arbeitsunfähig]], [[Begabung]], [[Eigenschaft]], [[Teamfähigkeit]], [[Beherrschung]], [[Kapazität]], [[Zusatzqualifikation]], [[Händchen]], [[Intelligenzgrad]], [[lernfähig]], [[Intelligenzquotient]], [[Denkvermögen]], [[Lernniveau]]
-, [[Leistungsfähigkeit]]
+#Substantiv #Feminin 
+
+[[arbeitsunfähig]], [[Begabung]], [[Eigenschaft]], [[Teamfähigkeit]], [[Beherrschung]], [[Kapazität]], [[Zusatzqualifikation]], [[Händchen]], [[Intelligenzgrad]], [[lernfähig]], [[Intelligenzquotient]], [[Denkvermögen]], [[Lernniveau]], [[Leistungsfähigkeit]]

@@ -36,3 +36,4 @@ Einzigartige mögliche Formen: [[Gefühls]], [[Gefühle]], [[Gefühlen]]
 ---
 
 #Substantiv #Neuter
+, [[Atmosphäre]]

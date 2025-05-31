@@ -1,5 +1,8 @@
 🚗 [[pendeln]], [ˈpɛndl̩n](https://youglish.com/pronounce/pendeln/german)
 
+---
+*[[bro-schrieben-c1-t1-002#^10|^]]* Wenn ich selbst nur online lerne und keine [[Zeit]] beim [[Pendeln]] [[verliere]], benutze ich innere Kräfte, um mehr [[Lernaufgabe]]n [[erfolgreich]] zu [[bewältigen]] und am [[selben]] Tag [[einkaufen]] zu gehen. ^10
+
 
 ---
 = [[zur Arbeit fahren]], [[reisen]]
@@ -45,3 +48,6 @@ Adjektive: [[commutend]], [[commutender]], [[commutendst]]
 
 ---
 [[commutender]], [[commutendes]], [[commutende]], [[commutenden]], [[commutendem]], [[commutenderer]], [[commutenderes]], [[commutendere]], [[commutenderen]], [[commutenderem]], [[commutendster]], [[commutendstes]], [[commutendste]], [[commutendsten]], [[commutendstem]]
+
+
+#Neuter , [[bro-schrieben-c1-t1-002]]

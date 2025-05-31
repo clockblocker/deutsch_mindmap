@@ -35,3 +35,6 @@ D: dem [[Beschluss]], den [[Beschlüssen]]
 ---
 
 [[beschließen]], [[beschlossen]], [[beschlussfähig]], [[Beschlussfassung]], [[Beschlussvorlage]], [[Rat]], [[Urteile]], [[Urteil]], [[Entschluss]]
+
+
+#Maskulin 

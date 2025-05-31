@@ -7,6 +7,8 @@ ohne inere und äusere Bevegung
 SASCHA: Aber ich weiß, wie ich [[ruhig]] bleiben kann 
 (Ich will) Ich will die [[Ruhe]] stören  
 
+*[[bro-schrieben-c1-t1-002#^13|^]]* Im [[Gegensatz]] dazu bieten [[Präsenzkurs]]e eine [[passend]]e [[Atmosphäre]] zum [[ruhig]]en und [[entspannten]] [[Sprachenlernen]]
+
 Bleib [[ruhig]]!
 
 Nach der Pause hat sie ein Elterngespräch. Da geht es hoffentlich etwas [[ruhiger]] zu.
@@ -41,4 +43,4 @@ Einzigartige mögliche Formen:
 , [[lichterloh]], [[leis]], [[Flüsternd]], [[unbeeindruckt]], [[beruhig]], [[beruhigen]], [[beruhigenden]], [[ungeduldig]], [[wild]], [[zornig]], [[entspannter]], [[zittern]], [[entsetzt]], [[aufgebracht]], [[wütend]], [[gereizt]], [[leise]]
 , [[ungestüm]]
 , [[hitzig]]
-, [[zappelig]], [[ungestört]], [[Abtönungspartikeln]], [[langsam]], [[gemächlich]], [[beunruhigen]]
+, [[zappelig]], [[ungestört]], [[Abtönungspartikeln]], [[langsam]], [[gemächlich]], [[beunruhigen]], [[bro-schrieben-c1-t1-002]]

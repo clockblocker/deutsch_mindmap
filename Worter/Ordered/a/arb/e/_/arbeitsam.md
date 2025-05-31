@@ -1,1 +1,1 @@
-, [[Arbeitsbedingungen]]
+, [[Arbeitsbedingungen]], [[arbeiten]]

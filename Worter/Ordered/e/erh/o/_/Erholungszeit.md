@@ -27,4 +27,4 @@ A: die [[Erholungszeit]], die [[Erholungszeiten]]
 G: der [[Erholungszeit]], der [[Erholungszeiten]]
 D: der [[Erholungszeit]], den [[Erholungszeiten]]
 
-#Feminin 
+#Feminin , [[Zeit]]

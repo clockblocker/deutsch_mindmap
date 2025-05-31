@@ -5,4 +5,4 @@
 [[so]]
 
 Also pass auf., [[Konnektoren]], [[somit]]
-, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]], [[demnach]]
+, [[nun]], [[Konnektivpartikeln]], [[Konjunktoren]], [[demnach]], [[demzufolge]]

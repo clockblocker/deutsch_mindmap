@@ -27,4 +27,4 @@ A: die [[Endzeitvision]], die [[Endzeitvisionen]]
 G: der [[Endzeitvision]], der [[Endzeitvisionen]]
 D: der [[Endzeitvision]], den [[Endzeitvisionen]]
 
-#Feminin 
+#Feminin , [[Zeit]]

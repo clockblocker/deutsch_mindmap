@@ -6,6 +6,8 @@ die [[Notwendigkeiten]]
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
 
+*[[bro-schrieben-c1-t1-002#^5|^]]* [[Demzufolge]] [[entstand]] die [[Notwendigkeit]], mehrere Sprachen zu [[beherrschen]]
+
 *[[06-C1-Schreiben-T2-M#^4|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie Ihr Verständnis für die [[Notwendigkeit]] der [[Umbauarbeiten]] zeigen. ^4
 
 
@@ -37,4 +39,4 @@ D: der [[Notwendigkeit]], den [[Notwendigkeiten]]
 , [[unentbehrlich]]
 , [[Modebegriff]]
 
-#Feminin , [[Arbeitsform]], [[Sachzwang]], [[Forschungsbedarf]], [[Wahlmöglichkeit]], [[Handlungsbedarf]]
+#Feminin , [[Arbeitsform]], [[Sachzwang]], [[Forschungsbedarf]], [[Wahlmöglichkeit]], [[Handlungsbedarf]], [[bro-schrieben-c1-t1-002]]

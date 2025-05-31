@@ -23,3 +23,4 @@ Morphems:
 ---
 
 #Substantiv #Maskulin , [[Weile]], [[Punkt]], [[Zeitraum]]
+, [[Zeit]]

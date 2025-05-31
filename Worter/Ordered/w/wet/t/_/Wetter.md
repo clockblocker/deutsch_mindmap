@@ -24,4 +24,4 @@ D: dem [[Wetter]], den [[Wettern]]
 
 ---
 [[wettern]], [[wetterfest]], [[Wetterbericht]], [[wetterfühlig]], [[Wettervorhersage]]
-, [[Unwetter]], [[Extremwetter]], [[Monsun]], [[Klimabedingung]], [[Sichtverhältnis]], [[Temperaturrekord]], [[Beschaffenheit]]
+, [[Unwetter]], [[Extremwetter]], [[Monsun]], [[Klimabedingung]], [[Sichtverhältnis]], [[Temperaturrekord]], [[Beschaffenheit]], [[Atmosphäre]]

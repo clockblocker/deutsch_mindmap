@@ -1,2 +1,2 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-, [[ablesen]], [[näherbringen]], [[abhandeln]], [[vertuschen]], [[preisgeben]], [[aufzeigen]], [[erläutern]], [[zurückführen]], [[Erwähnung]], [[bekunden]]
+, [[ablesen]], [[näherbringen]], [[abhandeln]], [[vertuschen]], [[preisgeben]], [[aufzeigen]], [[erläutern]], [[zurückführen]], [[Erwähnung]], [[bekunden]], [[anführen]]

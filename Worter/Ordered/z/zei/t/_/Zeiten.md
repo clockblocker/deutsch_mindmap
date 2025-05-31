@@ -16,3 +16,4 @@ time
 ---
 
 #Substantiv #Feminin
+, [[Zeit]]

@@ -1,1 +1,1 @@
-, [[Weile]], [[Vergangenheit]], [[Punkt]], [[Zeitraum]], [[Ereignis]], [[Zeitdauer]], [[Zwischenzeit]]
+, [[Weile]], [[Vergangenheit]], [[Punkt]], [[Zeitraum]], [[Ereignis]], [[Zeitdauer]], [[Zwischenzeit]], [[Zeit]]

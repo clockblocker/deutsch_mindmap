@@ -2,6 +2,7 @@
 nicht [[erfolglos]]
 
 ---
+*[[bro-schrieben-c1-t1-002#^10|^]]* Wenn ich selbst nur online lerne und keine Zeit beim [[Pendeln]] [[verliere]], benutze ich innere Kräfte, um mehr [[Lernaufgabe]]n [[erfolgreich]] zu [[bewältigen]] und am [[selben]] Tag [[einkaufen]] zu gehen
 
 Ich lerne Deutsch, um die Prüfung [[erfolgreich]] zu [[bestehen]]
 
@@ -51,4 +52,4 @@ Plural: [[erfolgreichen]], [[erfolgreicheren]], [[erfolgreichsten]]
 
 , [[vergebens]], [[Erfolg]]
 , [[Erfolgen]], [[w-l]], [[abheben]], [[Erfolgsfaktor]], [[Bildungserfolg]], [[Bildungsergebnis]]
-, [[Erfolgsschlager]]
+, [[Erfolgsschlager]], [[bro-schrieben-c1-t1-002]]

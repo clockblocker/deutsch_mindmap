@@ -1,1 +1,1 @@
-, [[Gedanke]], [[Vorstellung]], [[Begriff]], [[Urkunde]], [[Geschäftsidee]], [[Arbeitsmodell]], [[Lösungsansatz]], [[Modell]], [[Arbeitskonzept]], [[Skizze]]
+, [[Gedanke]], [[Vorstellung]], [[Begriff]], [[Urkunde]], [[Geschäftsidee]], [[Arbeitsmodell]], [[Lösungsansatz]], [[Modell]], [[Arbeitskonzept]], [[Skizze]], [[Lernmodell]]

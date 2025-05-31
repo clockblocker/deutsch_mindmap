@@ -1,9 +1,11 @@
 💪 [[beherrschen]], [bəˈhɛʁʃn̩](https://youglish.com/pronounce/beherrschen/german) → [[beherrschte]] → haben [[beherrscht]]
 
 ---
-Nur der Avatar [[beherrschte]] alle vier Elemente, nur er hätte den gewaltigen Angriff der Feuerbändiger aufhalten können.
+Nur der Avatar [[beherrschte]] alle vier Elemente, nur er hätte den gewaltigen Angriff der Feuerbändiger aufhalten können
 
-*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^4|^]]* _Allerdings würde das bedeuten, dass es für alle_ [[Beamten]] [[Voraussetzung]] _wäre,_ [[fließend]] _Englisch zu_ [[beherrschen]] _. ^4
+*[[bro-schrieben-c1-t1-002#^5|^]]* [[Demzufolge]] [[entstand]] die [[Notwendigkeit]], mehrere Sprachen zu [[beherrschen]]
+
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^4|^]]* _Allerdings würde das bedeuten, dass es für alle_ [[Beamten]] [[Voraussetzung]] _wäre,_ [[fließend]] _Englisch zu_ [[beherrschen]] _.
 
 
 Nein. Ihr seid zu ungeduldig. Ihr müsst zuerst die Grundlagen richtig [[beherrschen]]! Weiterüben.
@@ -49,4 +51,4 @@ sie, [[beherrschen]], [[beherrschten]], [[beherrschen]], [[beherrschten]], [[beh
 Adjektive: [[beherrschend]], [[beherrschender]], [[beherrschendst]]
 
 ---
-[[beherrschender]], [[beherrschendes]], [[beherrschende]], [[beherrschenden]], [[beherrschendem]], [[beherrschenderer]], [[beherrschenderes]], [[beherrschendere]], [[beherrschenderen]], [[beherrschenderem]], [[beherrschendster]], [[beherrschendstes]], [[beherrschendste]], [[beherrschendsten]], [[beherrschendstem]], [[handhaben]], [[vorherrschen]], [[unterwerfen]], [[umgeben]], [[aneignen]], [[thronen]]
+[[beherrschender]], [[beherrschendes]], [[beherrschende]], [[beherrschenden]], [[beherrschendem]], [[beherrschenderer]], [[beherrschenderes]], [[beherrschendere]], [[beherrschenderen]], [[beherrschenderem]], [[beherrschendster]], [[beherrschendstes]], [[beherrschendste]], [[beherrschendsten]], [[beherrschendstem]], [[handhaben]], [[vorherrschen]], [[unterwerfen]], [[umgeben]], [[aneignen]], [[thronen]], [[bro-schrieben-c1-t1-002]]

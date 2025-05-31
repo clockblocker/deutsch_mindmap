@@ -41,7 +41,7 @@ _[[1 ADHD#^20|^]]_ ist manchmal mit etwas so [[beschäftigt]], dass sie nichts u
 
 ---
 
-Synonyme: [[Arbeiten]], [[anstellen]], [[unterhalten]], [[tätig sein]], [[engagieren]]
+Synonyme: [[arbeiten]], [[anstellen]], [[unterhalten]], [[tätig sein]], [[engagieren]]
 Antonyme: [[entlassen]], [[feuern]], [[kündigen]], [[freisetzen]]
 
 ---

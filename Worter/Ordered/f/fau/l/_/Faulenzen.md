@@ -1,1 +1,1 @@
-, [[Arbeitsbedingungen]], [[faul]]
+, [[Arbeitsbedingungen]], [[faul]], [[arbeiten]]

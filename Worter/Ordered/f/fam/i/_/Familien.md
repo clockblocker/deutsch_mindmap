@@ -1,1 +1,1 @@
-, [[Familienmitglied]], [[Familienministerium]]
+, [[Familienmitglied]], [[Familienministerium]], [[Familienaufgabe]]

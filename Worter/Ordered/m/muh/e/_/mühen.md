@@ -16,7 +16,6 @@ Synonyme: [[anstrengen]], [[bemühen]], [[plagen]], [[quälen]]
 Antonyme: [[ausruhen]], [[entspannen]], [[leichtfallen]]
 
 ---
-
 Übersetzung: to toil, to labor, to strain oneself
 
 ---

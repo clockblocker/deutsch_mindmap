@@ -3,8 +3,9 @@
 😤 [[entfernen]], [ɛntˈfɛʁnən] | [[entfernte]], haben [[entfernt]]
 
 ---
+*[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können
 
-_[[03-C1-Schreiben-T2-M#^12|^]]_ Ich möchte Sie daher fragen, ob Sie einverstanden sind, wenn wir den großen [[Kopierer]] aus dem [[Großraumbüro]] [[entfernen]] und [[stattdessen]] im [[Flur]] [[aufstellen]]. ^12
+_[[03-C1-Schreiben-T2-M#^12|^]]_ Ich möchte Sie daher fragen, ob Sie einverstanden sind, wenn wir den großen [[Kopierer]] aus dem [[Großraumbüro]] [[entfernen]] und [[stattdessen]] im [[Flur]] [[aufstellen]]
 
 ---
 

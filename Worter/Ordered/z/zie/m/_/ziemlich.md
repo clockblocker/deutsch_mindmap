@@ -42,3 +42,4 @@ Grammatikalische Besonderheiten:
 - Drückt einen mittleren Grad aus
 
 [[ziemlich]] - Ursprung aus [[ziemen]] (to befit, to be appropriate)
+, [[geraum]]

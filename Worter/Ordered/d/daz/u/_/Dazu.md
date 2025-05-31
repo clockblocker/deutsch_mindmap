@@ -4,6 +4,8 @@
 
 ---
 
+*[[bro-schrieben-c1-t1-002#^3|^]]* Ich [[verfolge]] schon seit [[geraum]]er [[Zeit]] eure [[Beiträge]] zu Online-[[Sprachkurs]]en und möchte nun auch [[etwas]] [[dazu]] schreiben
+
 Erich, rede keine Dummheiten! [[Dazu]] ist jetzt nicht der richtige Augenblick.
 CHARLOTTE: Die Butter [[dazu]] geben …
 
@@ -11,7 +13,8 @@ _[[C1-Hoehen-T1-200-Text#^9|^]]_ Die seit Jahrzehnten zu [[beobachtenden]] [[ste
 
 \_Katara bewegt ihre Hände und der Wasserball mit dem Fisch bewegt sich passend [[dazu]].
 
-Wer etwas verliert und es wiederhaben will, muss suchen – in dieser Ecke oder in [[jener]]. Den [[redensartlichen]] [[Faden]] findet man dort aber nicht. [[Dazu]] muss man schon in die Tiefe seines eigenen Geistes [[eindringen]].
+Wer etwas verliert und es wiederhaben will, muss suchen – in dieser Ecke oder in [[jener]]. Den [[redensartlichen]] [[Faden]] findet man dort aber nicht. [[Dazu]] muss man schon in die Tiefe seines eigenen Geistes [[eindringen]]
+
 
 ---
 
@@ -42,3 +45,4 @@ Morphems:
 [[Da]], [[zu]]
 
 , [[11 08]], [[Faden]], [[da]], [[s1 e1]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]], [[hierbei]], [[tief]], [[hierzu]]
+, [[bro-schrieben-c1-t1-002]]

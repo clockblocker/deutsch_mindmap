@@ -1,1 +1,1 @@
-, [[verdrehen]], [[Verkehrsmittel]]
+, [[verdrehen]], [[Verkehrsmittel]], [[pendeln]]

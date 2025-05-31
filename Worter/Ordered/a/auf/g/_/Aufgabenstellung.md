@@ -40,3 +40,4 @@ D: der [[Aufgabenstellung]], den [[Aufgabenstellungen]]
 , [[thematisieren]]
 
 #Feminin
+, [[Familienaufgabe]]

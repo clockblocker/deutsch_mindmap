@@ -47,4 +47,4 @@ Morpheme:
 , [[sterben]], [[bald]], [[Konnektoren]], [[dadurch]], [[somit]], [[hierfür]], [[Texte/Misc/Anki]]
 
 , [[1 Präpositionen Übungen]], [[Konnektivpartikeln]], [[Konjunktoren]], [[weshalb]], [[demnach]], [[Flug]], [[derart]], [[hierzu]]
-, [[wohingegen]]
+, [[wohingegen]], [[demzufolge]]

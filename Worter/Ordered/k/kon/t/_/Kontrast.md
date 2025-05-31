@@ -1,1 +1,1 @@
-, [[Unterschied]], [[Entgegensetzung]], [[konträr]], [[Gegenteil]], [[Spannungsverhältnis]]
+, [[Unterschied]], [[Entgegensetzung]], [[konträr]], [[Gegenteil]], [[Spannungsverhältnis]], [[Gegensatz]]

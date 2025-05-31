@@ -1,1 +1,1 @@
-, [[Lerntyp]]
+, [[Lerntyp]], [[Lernmodell]]

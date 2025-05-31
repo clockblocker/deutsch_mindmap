@@ -4,6 +4,8 @@ haben [[angesprochen]]
 
 ---
 
+*[[bro-schrieben-c1-t1-002#^2|^]]* Liebe [[Forumsteilnehmer]], seit langem [[verfolge]] ich eure [[Beiträge]] im Forum und das neue Thema hat mich so [[angesprochen]], dass ich mich [[gerne]] `an` der Diskussion [[beteiligen]] möchte
+
 Endlich [[gelingt]] es Mona, sie [[anzusprechen]]
 
 Der Inhalt der Aussage [[anspricht|spricht]] ein anderes Thema als das, was im Hörtext [[angesprochen]] wird, an.

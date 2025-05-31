@@ -3,6 +3,8 @@
 ---
 *[[amazon.md#^4|^]]* Artikel [[zurücksenden]] oder [[ersetzen]]
 
+*[[bro-schrieben-c1-t1-002#^1|^]]* Sprachen lernen – aber wie? Sollten Online-Sprachkurse die [[Präsenzkurse]] [[ersetzen]]?
+
 *[[C1-Hoehen-T2-201-Text#^18|^]]* Die [[Lehrkraft]] kann durch Computeranimation nicht [[ersetzt]] werden
 
 *[[C1-Hoehen-T2-100-Text#^6|^]]* Bei [[denjenig]]en Menschen, die aktuell Sozialleistungen [[beziehen]], könnte ein bedingungsloses Grundeinkommen die [[meisten]] dieser [[Leistung]]en [[ersetzen]]
@@ -39,4 +41,4 @@ PI: [[ersetzend]], PII: [[ersetzt]], Zu+inf: [[zuersetzen]]
 
 ---
 [[Ersetzen]], [[Ersatz]], [[Ersatzteil]], [[ersetzbar]], [[unersetzlich]]
-, [[verdrängen]], [[Ersatzdienst]], [[kompensieren]]
+, [[verdrängen]], [[Ersatzdienst]], [[kompensieren]], [[bro-schrieben-c1-t1-002]]

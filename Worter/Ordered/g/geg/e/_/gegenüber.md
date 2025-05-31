@@ -43,3 +43,4 @@ Varianten:
 - [[gegenüber]] + Dativ
 - [[gegenüber von]] + Dativ
   ''', [[wider]], [[entgegen]], [[Gegenteil]], [[seitens]], [[gegenüberstehen]], [[gegenüberstellen]]
+, [[Gegensatz]]

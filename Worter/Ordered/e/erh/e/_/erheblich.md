@@ -33,4 +33,4 @@ Adjektive: [[erheblich]], [[erheblicher]], [[erheblichst]]
 [[erheblicher]], [[erhebliches]], [[erhebliche]], [[erheblichen]], [[erheblichem]], [[erheblicherer]], [[erheblicheres]], [[erheblichere]], [[erheblicheren]], [[erheblicherem]], [[erheblichster]], [[erheblichstes]], [[erheblichste]], [[erheblichsten]], [[erheblichstem]]
 
 , [[erheben]], [[bedeutend]]
-, [[niedrig]]
+, [[niedrig]], [[geraum]]

@@ -19,3 +19,4 @@ MARIA: Sam, am Flughafen heute, da habe ich diese alte [[Zeitschrift]]
 Tags:
 #Substantiv
 #Feminin, [[Bildband]]
+, [[Zeit]]

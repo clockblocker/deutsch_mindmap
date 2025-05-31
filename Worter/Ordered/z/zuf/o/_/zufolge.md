@@ -25,3 +25,4 @@ according to, pursuant to
 [[zu]]|[[folg]]|[[e]]
 [[zu]] + [[Folge]]
 
+, [[demzufolge]]

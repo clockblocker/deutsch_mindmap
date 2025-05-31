@@ -1,5 +1,5 @@
 💼 die [[Arbeit]], [ˈaɐ̯baɪ̯t]
-die [[Arbeiten]]
+die [[arbeiten]]
 
 ---
 
@@ -21,10 +21,10 @@ work, job, occupation, labor
 
 ---
 
-N: die [[Arbeit]], die [[Arbeiten]]  
-A: die [[Arbeit]], die [[Arbeiten]]  
-G: der [[Arbeit]], der [[Arbeiten]]  
-D: der [[Arbeit]], den [[Arbeiten]]
+N: die [[Arbeit]], die [[arbeiten]]  
+A: die [[Arbeit]], die [[arbeiten]]  
+G: der [[Arbeit]], der [[arbeiten]]  
+D: der [[Arbeit]], den [[arbeiten]]
 
 ---
 

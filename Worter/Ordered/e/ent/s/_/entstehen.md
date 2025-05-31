@@ -3,6 +3,8 @@
 ---
 *[[Aschenputtel.md#^2|^]]* Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]
 
+*[[bro-schrieben-c1-t1-002#^5|^]]* [[Demzufolge]] [[entstand]] die [[Notwendigkeit]], mehrere Sprachen zu [[beherrschen]]
+
 *[[C1-Hoehen-T4-100-Text#^17|^]]* Es ist ein [[richtig]]er [[Handel]] mit falschen [[Bewertung]]en [[entstanden]]
 
 *[[C1-Lesen-T1-404-Text#^4|^]]* So [[entstanden]] Mythen und Legenden rund `2 um` deren [[Erscheinung]]

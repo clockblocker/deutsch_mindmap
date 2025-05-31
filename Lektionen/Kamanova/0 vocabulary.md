@@ -145,7 +145,7 @@
 
 - [[Karte]], [[Karten]] - билет
 - [[zeit]], [[Zeiten]] - время
-- [[Arbeit]], [[Arbeiten]] - работа
+- [[Arbeit]], [[arbeiten]] - работа
 - [[Neuigkeit]], [[Neuigkeiten]] - новость
 - [[Uhr]], [[Uhren]] - часы
 - [[Sache]], [[Sachen]] - вещь, дело

@@ -1,1 +1,1 @@
-, [[Sprachunterricht]], [[Sprachenzentrum]], [[Sprachkenntnis]]
+, [[Sprachunterricht]], [[Sprachenzentrum]], [[Sprachkenntnis]], [[Sprachkurs]]

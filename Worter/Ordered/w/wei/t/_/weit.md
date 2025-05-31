@@ -4,6 +4,9 @@ nicht [[eng]]
 ---
 Der Junge wirft einen Speer zu Sokka, der ihn fängt und sofort einen [[weiteren]] [[Angriff]] auf Zuko startet
 
+*[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können
+
+
 *[[C1-Hoehen-T3-301-Text#^23|^]]* Das ist schon richtig, aber 
 es [[ausreicht|reicht]] `bei` [[Weitem]] nicht aus, 
 *(it is by no means [[enough]])*
@@ -91,4 +94,4 @@ A: die [[Weite]], die [[Weiten]]
 G: der [[Weite]], der [[Weiten]]
 D: der [[Weite]], den [[Weiten]]
 
-#Maskulin 
+#Maskulin , [[geraum]], [[bro-schrieben-c1-t1-002]]

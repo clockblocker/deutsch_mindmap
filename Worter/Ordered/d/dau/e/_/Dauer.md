@@ -28,4 +28,4 @@ G: der [[Dauer]], der [[Dauern]]
 D: der [[Dauer]], den [[Dauern]]
 
 
-#Feminin , [[ausdauern]], [[Ausdauersport]], [[Ausdauersportler]], [[Zeitdauer]], [[Dauerunterbrechung]]
+#Feminin , [[ausdauern]], [[Ausdauersport]], [[Ausdauersportler]], [[Zeitdauer]], [[Dauerunterbrechung]], [[Zeit]]

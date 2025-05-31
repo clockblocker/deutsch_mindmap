@@ -31,4 +31,4 @@ D: dem [[Arbeitgebenden]], den [[Arbeitgebenden]]
 , [[Erwerbstätigkeit]]
 
 
-#Maskulin 
+#Maskulin , [[arbeiten]]

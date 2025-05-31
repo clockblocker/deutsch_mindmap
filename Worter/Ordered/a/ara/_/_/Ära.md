@@ -1,1 +1,1 @@
-, [[Zeitalter]], [[Zeitraum]]
+, [[Zeitalter]], [[Zeitraum]], [[Zeit]], [[Jahrtausend]]

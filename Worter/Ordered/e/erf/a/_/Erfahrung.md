@@ -2,6 +2,7 @@
 die [[Erfahrung]]en
 
 ---
+*[[bro-schrieben-c1-t1-002#^9|^]]* Hierzu möchte ich ein [[Beispiel]] `aus` meiner eigenen [[Erfahrung]] [[anführen]]
 
 _[[16 Plusquamperfekt#^24|^]]_ Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht
 
@@ -62,3 +63,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[Erfahrung]], [[Erfahrung]], [[Erfahrung]]en, [[Erfahrung]]en, [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[1 Präpositionen Übungen]], [[Fachwissen]], [[Laufbahn]], [[erlebbar]], [[Einzelschicksal]], [[Praxis]], [[Vorkenntnis]]
+, [[bro-schrieben-c1-t1-002]]

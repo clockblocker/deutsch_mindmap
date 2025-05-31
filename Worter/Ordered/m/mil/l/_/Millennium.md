@@ -1,1 +1,1 @@
-, [[Jahrtausendwende]]
+, [[Jahrtausendwende]], [[Jahrtausend]]

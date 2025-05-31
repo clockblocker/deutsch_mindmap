@@ -1,11 +1,16 @@
 --> [[⛪ Ingredient-Plazt]] <--
 
 ---
+---
+
 📜 🔴 die [[Verfügung]], [fɛɐ̯ˈfyːɡʊŋ](https://youglish.com/pronounce/Verfügung/german)
 die [[Verfügungen]]
 
 ---
+
 Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienstwagen
+
+*[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können
 
 *[[C1-Lesen-T1-403-Text#^6|^]]* Solch [[ausgewähltes]] Spielzeug stand natürlich nicht allen Kindern `zur` [[Verfügung]]
 
@@ -21,12 +26,9 @@ Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienst
 
 Geld zur [[Verfügung]] stellen
 
-, [[Entscheidung]], [[Beschluss]]
-, [[verfügbar]]
-
 ---
 = [[Anordnung]], [[Bestimmung]], [[Regelung]]
-≈ [[Entscheidung]], [[Erlass]], [[Dekret]]
+≈ [[Entscheidung]], [[Erlass]], [[Dekret]], [[Entscheidung]], [[Beschluss]]
 ≠ [[Unordnung]], [[Chaos]], [[Verwirrung]]
 
 ---
@@ -48,4 +50,4 @@ G: der [[Verfügung]], der [[Verfügungen]]
 D: der [[Verfügung]], den [[Verfügungen]]
 
 
-#Feminin 
+#Feminin , [[bro-schrieben-c1-t1-002]]

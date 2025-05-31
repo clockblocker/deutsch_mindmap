@@ -1,1 +1,1 @@
-, [[entgegen]], [[Entgegensetzung]]
+, [[entgegen]], [[Entgegensetzung]], [[Gegensatz]]

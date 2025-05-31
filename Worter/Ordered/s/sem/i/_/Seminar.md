@@ -1,1 +1,1 @@
-, [[Vorlesung]], [[Kurs]], [[Schulung]], [[Blockveranstaltung]], [[Fortbildung]], [[Bildungsfreistellung]], [[Bildungsurlaub]]
+, [[Vorlesung]], [[Kurs]], [[Schulung]], [[Blockveranstaltung]], [[Fortbildung]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Präsenzkurs]], [[Sprachkurs]]

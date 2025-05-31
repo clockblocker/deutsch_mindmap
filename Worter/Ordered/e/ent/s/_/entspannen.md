@@ -3,22 +3,50 @@
 haben [[entspannt]]
 
 ---
+*[[bro-schrieben-c1-t1-002#^13|^]]* Im [[Gegensatz]] dazu bieten [[Präsenzkurs]]e eine [[passend]]e [[Atmosphäre]] zum [[ruhig]]en und [[entspannten]] [[Sprachenlernen]]
 
-[[1 Präpositionen Übungen.md#^7|^]] Ich freue mich auf die Ferien um mich zu [[entspannen]] ^7
+*[[1 Präpositionen Übungen.md#^7|^]]* Ich freue mich auf die Ferien um mich zu [[entspannen]] ^7
 
-[[entspannt]]
-
----
-
-Synonyme: [[beruhigen]], [[relaxen]], [[erholen]], [[abschalten 1]], [[ausspannen]]
-Antonyme: [[anstrengen]], [[stressen]], [[belasten]]
 
 ---
 
+Synonyme: 
+[[beruhigen]] *(calm down)*
+[[relaxen]] *(relax)*
+[[erholen]] *(recover)*
+[[ausspannen]] *(unwind)*
+[[wohlfühlen]] *(feel good)*
+[[abhotten]] *(cool down)*
+[[abschalten]] *(switch off)*
+[[schlummern]] *(slumber)*
+[[bequem]] *(comfortable)*
+[[ausgeruht]] *(rested)*
+[[entspannen]] *(relax)*
+[[gemächlich]] *(leisurely)*
+[[lässig]] *(casual)*
+
+Antonyme: 
+[[anstrengen]] *(strain)*
+[[stressen]] *(stress)*
+[[belasten]] *(burden)*
+[[spannen]] *(tense)*
+[[anspannen]] *(strain)*
+[[mühen]] *(strive)*
+[[hochschrecken]] *(startle)*
+[[schrecken]] *(frighten)*
+[[aufregen]] *(excite)*
+[[aufbrausen]] *(flare up)*
+[[aufgebracht]] *(upset)*
+[[friedlich]] *(peaceful)*
+[[unruhig]] *(restless)*
+[[zappelig]] *(fidgety)*
+[[anstrengend]] *(strenuous)*
+[[schweißtreibend]] *(sweaty)*
+
+---
 Übersetzung: to relax, to unwind
 
 ---
-
 Morpheme: [[ent]], [[spann]], [[en]]
 #Verb #Trennbar
 
@@ -34,7 +62,4 @@ Morpheme: [[ent]], [[spann]], [[en]]
 Partizip I: [[entspannend]], Partizip II: [[entspannt]]
 [[entspannen]] - [[ent]] = [[spannen]]
 
-, [[spannen]], [[anspannen]], [[mühen]], [[hochschrecken]], [[schrecken]]
 
-, [[wohlfühlen]], [[aufregen]], [[1 Präpositionen Übungen]], [[abhotten]]
-, [[aufbrausen]], [[abschalten]], [[schlummern]]

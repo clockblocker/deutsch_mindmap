@@ -1,2 +1,2 @@
 [[handeln]], [[beschäftigen]], [[schäftigen]]
-, [[verträumen]], [[agieren]]
+, [[verträumen]], [[agieren]], [[arbeiten]]

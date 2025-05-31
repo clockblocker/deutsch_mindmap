@@ -5,6 +5,8 @@ haben [[überwunden]]
 ---
 *[[bro-schrieben-c1-t1-001#^4|^]]* Sportforscher aus den USA [[behaupten]], es gebe natürliche Grenzen eines Körpers, die sich nicht ohne künstlich produzierte Hormone [[überwinden]] `lassen`
 
+*[[bro-schrieben-c1-t1-002#^6|^]]* Eine große [[Menge]] von [[Beschäftigten]] [[überwindet]] die sprachlichen [[Herausforderung]]en [[mittels]] der Online-Sprachkurse
+
 Wenn du eine Bändigerin sein willst, musst du deine Angst [[überwinden]].
 
 Im Grundgesetz gibt es schwer zu [[überwinden]]de [[Hindernis]]se für [[obligatorisch]]e Sozialdienste

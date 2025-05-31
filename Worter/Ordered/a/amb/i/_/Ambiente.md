@@ -1,2 +1,2 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-, [[Umgebung]], [[Stimmung]], [[Milieu]]
+, [[Umgebung]], [[Stimmung]], [[Milieu]], [[Atmosphäre]]

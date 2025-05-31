@@ -47,3 +47,4 @@ Morpheme: [[fahr]], [[en]]
 Partizip I: [[fahrend]], Partizip II: [[Gefahren]]
 
 [[paddeln]], [[losfahren]], [[überfahren]], [[Hochfahren]], [[erfahren]], [[s1 e1]], [[aus der Haut fahren]], [[wagen]], [[Lastenrad]], [[Fahrzeug]], [[Lastwagenfahrer]]
+, [[pendeln]]

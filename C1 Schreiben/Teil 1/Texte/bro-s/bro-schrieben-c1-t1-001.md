@@ -3,11 +3,11 @@
 ---
 ###### Hohlkiestingssporte und Doping
 
-Liebe Forumsteilnehmer,
+*Liebe Forumsteilnehmer,*
 
-seit langem verfolge ich eure Beiträge im Forum und das neue Thema hat mich so sehr angesprochen, dass ich mich gerne an der Diskussion beteiligen möchte. 
-*[[bro-schrieben-c1-t1-001#^1|^]]* Ich war selbst während meiner Schulzeit Teilnehmer an einem sportlichen [[Wettbewerb]] und habe gegen die Sportler gekämpft, die hormonelle [[Aufputschmittel]] [[eingenommen]] haben und dafür disqualifiziert wurden. ^1
+*seit langem verfolge ich eure Beiträge im Forum und das neue Thema hat mich so sehr angesprochen, dass ich mich gerne an der Diskussion beteiligen möchte.* 
 
+*[[bro-schrieben-c1-t1-001#^1|^]] Ich war selbst während meiner Schulzeit Teilnehmer an einem sportlichen [[Wettbewerb]] und habe gegen die Sportler gekämpft, die hormonelle [[Aufputschmittel]] [[eingenommen]] haben und dafür disqualifiziert wurden. ^1*
 
 *[[bro-schrieben-c1-t1-001#^2|^]]* Der wichtigste Grund für die [[Einnahme]] eines [[Dopingmittel]]s ist, die [[Leistungsfähigkeit]] zu erhöhen und die [[Grenze]] des menschlichen Organismus zu [[erweitern]]. ^2
 
@@ -34,4 +34,4 @@ Dazu kommt auch, dass manche [[Art]]en von Doping die [[Erholungszeit]] [[positi
 *[[bro-schrieben-c1-t1-001#^11|^]]* Eine andere Möglichkeit wäre, eine [[abwechslungsreiche]] [[Methode]] aus dem Bereich “Massage” [[einzusetzen]], um den Körper besser zu [[pflegen]]. ^11
 
 
-[[Soweit]] meine [[Überlegung]]en zum Thema. Ich hoffe, dass ihr meinen [[Beitrag]] interessant findet und freue mich auf eure [[Rückmeldung]]en.
+*[[Soweit]] meine [[Überlegung]]en zum Thema. Ich hoffe, dass ihr meinen [[Beitrag]] interessant findet und freue mich auf eure [[Rückmeldung]]en.*

@@ -20,4 +20,4 @@ as a result of, due to
 ---
 [[Folge]], [[folgen]], [[folgend]], [[Folgerung]], [[infolgedessen]]
 , [[Unwetter]]
-, [[Kriegsausbruch]]
+, [[Kriegsausbruch]], [[Mittels]]
