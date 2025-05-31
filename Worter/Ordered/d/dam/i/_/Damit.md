@@ -43,4 +43,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[Damit]]
-, [[11 08]], [[aufmachen]], [[Konnektoren]], [[daß]], [[Texte/Misc/Anki]], [[Nebensatz Conector]], [[Konjunktoren]], [[damalig]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]
+, [[11 08]], [[aufmachen]], [[Konnektoren]], [[daß]],  [[Nebensatz Conector]], [[Konjunktoren]], [[damalig]], [[Grammatik-Pronomen-Demonstrativ-Pronominaladverbien]]

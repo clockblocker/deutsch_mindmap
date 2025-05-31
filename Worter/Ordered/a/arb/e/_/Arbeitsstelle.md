@@ -33,3 +33,4 @@ G: der [[Arbeitsstelle]], der [[Arbeitsstellen]]
 D: der [[Arbeitsstelle]], den [[Arbeitsstellen]]
 
 #Feminin
+, [[Arbeitsplatzwechsel]]

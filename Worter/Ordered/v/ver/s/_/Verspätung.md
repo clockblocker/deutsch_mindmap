@@ -25,6 +25,6 @@ G: der [[Verspätung]], der [[Verspätungen]]
 D: der [[Verspätung]], den [[Verspätungen]]  
 
 ---
-[[verschießen]], [[verspekulieren]], [[versteuern]], [[versuchen]], [[1 Präpositionen Übungen]], [[Zuspätkommen]]
+[[verschießen]], [[verspekulieren]], [[versteuern]], [[versuchen]], [[Zuspätkommen]]
 
 #Feminin 

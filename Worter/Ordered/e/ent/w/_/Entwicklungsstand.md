@@ -1,1 +1,1 @@
-, [[Entwicklungsstufe]]
+, [[Entwicklungsstufe]], [[Entwickler]]

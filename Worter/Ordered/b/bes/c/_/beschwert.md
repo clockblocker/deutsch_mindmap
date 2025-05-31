@@ -31,4 +31,4 @@ Feminine: [[beschwerte]], [[beschwertere]], [[beschwerste]]
 Neuter: [[beschwerteres]], [[beschwertereres]], [[beschwertertes]]  
 Plural: [[beschwerten]], [[beschwerteren]], [[beschwersten]]
 
-[[beschweren]], [[Beschwerde]], [[beschwerlich]], [[1 Präpositionen Übungen]], [[unbelastet]]
+[[beschweren]], [[Beschwerde]], [[beschwerlich]], [[unbelastet]]

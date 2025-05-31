@@ -4,6 +4,8 @@
 ---
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
 
+*[[bro-schrieben-c1-t1-003#^6|^]]* Dazu kommt, dass man sein soziales Leben `von` [[Anfang]] `an` [[aufbauen]] muss und es eine Möglichkeit [[besteht]], in einem anderen Staat einsam zu leben
+
 *[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]
 
 [[Worin]] [[besteht]] die [[Reform]] der [[Preisgestaltung]]?

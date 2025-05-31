@@ -4,6 +4,8 @@
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
+*[[bro-schrieben-c1-t1-003#^5|^]]* Mein [[Vorschlag]] wäre, dass man bei der Wahl eines Ziellandes [[folgend]]e Kriterien [[berücksichtig]]en muss: die [[Anforderung]]en für das [[Fachkräfte]]-Visum, die aktuelle Situation auf dem Arbeits- und [[Wohnungsmarkt]] und [[potenziell]]e [[Gehaltsausgabe]]n
+
 *[[001-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]
 
 *[[C1-Hoehen-T4-100-Text#^11|^]]* In Deutschland wurde sie [[inzwischen]] in das Gesetz gegen [[unlauteren]] [[Wettbewerb]] [[aufgenommen]], ein Gesetz für [[ehrlich]]e Konkurrenz und Verbraucherschutz, etwas, was [[bisher]] in der digitalen Welt noch zu [[wenig]] [[berücksichtigt]] wird

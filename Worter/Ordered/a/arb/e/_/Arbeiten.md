@@ -3,6 +3,8 @@
 ---
 *[[bro-schrieben-c1-t1-002#^14|^]]* [[Jugendlich]]e und [[arbeitende]] Menschen sollten selbst [[entscheiden]], welches Format des Lernens ihnen passt
 
+*[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheiten]] [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
+
 Unter diesen [[Bedingung]]en ist produktives [[arbeiten]] kaum möglich.
 
 
@@ -62,3 +64,5 @@ Adjektive: [[arbeitend]], [[arbeitender]], [[arbeitendst]]
 
 [[lauben]], [[Arbeitsgericht]], [[Arbeitsplatz]], [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Schwarzarbeiter]], [[Schichtarbeiter]], [[arbeitsunfähig]], [[Zwangsarbeit]], [[schlafen]], [[Arbeit]], [[Arbeitsbedingungen]]
 , [[erholen]], [[bemüht]], [[bestreben]], [[verarbeiten]], [[ticken]], [[abarbeiten]], [[Arbeitsdruck]], [[Arbeitsstelle]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitszeitmodell]], [[Arbeitsprozess]], [[Bauarbeiter]], [[ausarbeiten]], [[Ausarbeitung]], [[Außendienstmitarbeiter]], [[Arbeitsbelastung]], [[Arbeitsraum]], [[spicken]], [[Erdarbeit]], [[Arbeitskraft]], [[Arbeitszeit]]
+
+#Neuter 

@@ -55,4 +55,4 @@ Einzigartige mögliche Formen: [[Gesellschaft]], [[Gesellschaften]], [[Gesellsch
 #Substantiv #Feminin, [[Handelsgesellschaft]], [[Bevölkerung]], [[Texte/Misc/Anki]]
 , [[Stehempfang]]
 , [[Mensch]], [[Wettbewerbsgesellschaft]], [[gesellschaftlich]], [[Gesamtgesellschaft]], [[Firma]], [[Staat]], [[Bevölkerungsgruppe]], [[Sozialsystem]], [[Verschwendungsgesellschaft]], [[Mitmensch]], [[Milieu]], [[Allgemeinheit]], [[Bürgertum]], [[Großkonzern]], [[Gesellschaftsschicht]]
-, [[Konsumwelt]]
+, [[Konsumwelt]], [[gesamtgesellschaftlich]]

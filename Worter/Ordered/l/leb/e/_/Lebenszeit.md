@@ -1,1 +1,1 @@
-, [[Leben]], [[Lebensalter]], [[Lebenserwartung]]
+, [[Leben]], [[Lebensalter]], [[Lebenserwartung]], [[Lebensdauer]]

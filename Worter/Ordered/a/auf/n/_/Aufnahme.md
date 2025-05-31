@@ -30,4 +30,4 @@ D: der [[Aufnahme]], den [[Aufnahmen]]
 
 ---
 
-[[aufnehmen]], [[aufnehmbar]], [[Aufnahmebedingungen]], [[Aufnahmeverfahren]], [[aufnahmefähig]], [[Texte/Misc/Anki]], [[Unterbringung]], [[Foto]], [[Nahaufnahme]], [[Video]], [[Verdrängung]], [[aufsaugen]]
+[[aufnehmen]], [[aufnehmbar]], [[Aufnahmebedingungen]], [[Aufnahmeverfahren]], [[aufnahmefähig]],  [[Unterbringung]], [[Foto]], [[Nahaufnahme]], [[Video]], [[Verdrängung]], [[aufsaugen]]

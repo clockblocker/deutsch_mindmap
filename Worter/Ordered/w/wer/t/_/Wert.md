@@ -45,7 +45,7 @@ G: des [[Wertes]], der [[Werte]]
 D: dem [[Wert]], den [[Werten]]  
 
 ---
-[[werten]], [[wertvoll]], [[Wertsache]], [[Wertschätzung]], [[bewerten]], [[Texte/Misc/Anki]], [[Informationswert]]
+[[werten]], [[wertvoll]], [[Wertsache]], [[Wertschätzung]], [[bewerten]],  [[Informationswert]]
 , [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
 
 

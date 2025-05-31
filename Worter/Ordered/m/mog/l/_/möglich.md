@@ -37,3 +37,4 @@ Einzigartige mögliche Formen:
 [[möglich]], [[mögliche]], [[mögliches]], [[möglichen]], [[möglicher]], [[möglichem]]
 [[möglicher]], [[möglichere]], [[möglicheres]], [[möglicheren]], [[möglicherer]], [[möglicherem]]
 [[möglichsten]], [[möglichster]], [[möglichste]], [[möglichstes]], [[möglichsten]], [[möglichstem]], [[Extra 8]], [[Möglichkeit]], [[erlaubt]], [[ermöglichen]], [[s1 e1]], [[einhalten]], [[womöglich]], [[größtmöglich]], [[höchstmögliche]], [[umsetzbar]], [[Wahlmöglichkeit]]
+, [[potenziell]]

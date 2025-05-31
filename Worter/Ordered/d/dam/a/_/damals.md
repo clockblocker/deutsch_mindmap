@@ -33,4 +33,4 @@ Morpheme:
 
 #Adverb #Temporaladverb, [[bald]]🕰️ [[damals]]
 
-, [[daß]], [[s1 e1]], [[Texte/Misc/Anki]], [[heutzutage]], [[damalige]], [[damalig]]
+, [[daß]], [[s1 e1]],  [[heutzutage]], [[damalige]], [[damalig]]

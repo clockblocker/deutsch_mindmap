@@ -1,1 +1,1 @@
-, [[Lebensversicherung]], [[Lebensstil]], [[Lebenslage]], [[langlebig]]
+, [[Lebensversicherung]], [[Lebensstil]], [[Lebenslage]], [[langlebig]], [[Lebensdauer]]

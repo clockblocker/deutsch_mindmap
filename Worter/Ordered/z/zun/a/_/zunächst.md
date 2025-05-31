@@ -42,4 +42,4 @@ Superlativ: nicht üblich
 
 ---
 
-[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[Konnektoren]], [[winken]], [[Texte/Misc/Anki]], [[einmal]], [[Konnektivpartikeln]], [[wiederum]], [[letztendlich]], [[gedeihen]], [[zuallererst]]
+[[zunächst einmal]], [[bis zunächst]], [[vorerst]], [[Konnektoren]], [[winken]],  [[einmal]], [[Konnektivpartikeln]], [[wiederum]], [[letztendlich]], [[gedeihen]], [[zuallererst]]

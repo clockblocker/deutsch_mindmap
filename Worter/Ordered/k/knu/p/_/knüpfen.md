@@ -1,11 +1,14 @@
 🔗 [[knüpfen]], [ˈknʏpfən] | [[knüpfte]], haben [[geknüpft]]
 
 ---
+*[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheiten]] [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
 
-291. Warum muss man in Deutschland bei der [[Steuererklärung]] [[aufschreiben]], ob man zu einer Kirche gehört oder nicht? Weil … (97%)
+
+Warum muss man in Deutschland bei der [[Steuererklärung]] [[aufschreiben]], ob man zu einer Kirche gehört oder nicht? Weil … (97%)
+- [x] es eine [[Kirchensteuer]] gibt, die an die Einkommen- und [[Lohnsteuer]] [[geknüpft]] ist.
+*(there is a [[church tax]] that is [[linked]] to income and [[wage tax]].)*
 
 
-    - [x] es eine [[Kirchensteuer]] gibt, die an die Einkommen- und [[Lohnsteuer]] [[geknüpft]] ist.
 
 ---
 

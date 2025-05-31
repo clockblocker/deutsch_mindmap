@@ -6,6 +6,8 @@ die [[Vorschläge]]
 ---
 Mein [[Vorschlag]] ist Sälze beiden 
 
+*[[bro-schrieben-c1-t1-003#^5|^]]* Mein [[Vorschlag]] wäre, dass man bei der Wahl eines Ziellandes [[folgend]]e Kriterien [[berücksichtig]]en muss: die [[Anforderung]]en für das [[Fachkräfte]]-Visum, die aktuelle Situation auf dem Arbeits- und [[Wohnungsmarkt]] und [[potenziell]]e [[Gehaltsausgabe]]n
+
 *[[bro-schrieben-c1-t1-001#^10|^]]* Ich würde einen [[Vorschlag]] zur [[Steigerung]] der [[Leistung]] ohne Dopingmittel [[unterbreiten]]. Eine Möglichkeit wäre, nach dem Training in einer [[Dekompressionskammer]] zu [[liegen]], um das [[Sauerstoffniveau]] im Blut zu erhöhen
 
 *[[02-C1-Schreiben-T2-M#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6

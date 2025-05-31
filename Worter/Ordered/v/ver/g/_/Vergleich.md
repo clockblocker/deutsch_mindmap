@@ -74,7 +74,7 @@ PI: [[vergleichend]], PII: [[verglichen]], Zu+inf: [[zu vergleichen]]
 ---
 [[Vergleich]], [[vergleichbar]], [[vergleichsweise]], [[verglichen]], [[Vergleichbarkeit]]
 
-, [[Texte/Misc/Anki]], [[Analogie]]
+,  [[Analogie]]
 
 
 #Maskulin --> [[🗣️ Ingredient-Meinung]] <--, [[Abwägung]], [[dergleichen]]

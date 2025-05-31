@@ -21,4 +21,4 @@ you see, namely, that is to say, specifically
 
 ---
 [[erklären]], [[verdeutlichen]], [[präzisieren]], [[spezifizieren]]
-, [[Texte/Misc/Anki]], [[Konnektivpartikeln]]
+,  [[Konnektivpartikeln]]

@@ -3,6 +3,7 @@
 haben [[gelohnt]]
 
 ---
+Für die Arbeit das Land wechseln – [[Lohnt]] `sich` das?
 
 _[[C1-Lesen-T1-001-Text#^19|^]]_ Es hat sich [[gelohnt]]: Aus einer Metallbox [[fällt]] ihr ein [[Leckerbissen]] vor die [[Füße]]
 

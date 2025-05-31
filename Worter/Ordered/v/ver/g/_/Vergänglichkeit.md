@@ -1,1 +1,1 @@
-, [[Dauer]]
+, [[Dauer]], [[Lebensdauer]]

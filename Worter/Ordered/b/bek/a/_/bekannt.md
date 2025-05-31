@@ -2,6 +2,7 @@
 nicht [[unbekannt]]
 
 ---
+*[[bro-schrieben-c1-t1-003#^8|^]]* Einer meiner [[Bekannt]]en hat nach einer 15-jährigen Karriere als [[Entwickler]] ein eigenes [[Logistiksystem]] entwickelt und ein Unternehmen gegründet, das seine App [[verkauft]] und Support-[[Leistung]]en anbietet
 
 _[[000-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
 
@@ -32,7 +33,7 @@ Morpheme:
 ---
 
 Einzigartige mögliche Formen:
-[[bekannt]], [[bekannter]], [[Bekannte]], [[bekanntes]], [[bekannten]], [[bekanntem]], [[bekannter]], [[bekannten]]
+[[bekannt]], [[Bekannter]], [[Bekannte]], [[bekanntes]], [[bekannten]], [[bekanntem]], [[Bekannter]], [[bekannten]]
 [[bekanntere]], [[bekannterer]], [[bekanntere]], [[bekannteres]], [[bekannteren]], [[bekannterem]], [[bekannterer]], [[bekannteren]]
 [[bekanntesten]], [[bekanntester]], [[bekannteste]], [[bekanntestes]], [[bekanntesten]], [[bekannlestem]], [[bekanntester]], [[bekanntesten]], [[heimlich]], [[kund]], [[Unbekannten]]
 , [[fern]], [[heimisch]], [[vertraulich]], [[Bekanntheitsgrad]], [[namhaft]]

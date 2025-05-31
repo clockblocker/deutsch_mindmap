@@ -69,5 +69,5 @@ Beispiele:
 - Ich gehe wegen des Regens nicht nach draußen.
 - Aufgrund der Krankheit konnte er nicht kommen.
 - Die Schule fiel wegen des Schnees aus.
-''', [[daß]], [[Texte/Misc/Anki]], [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]
+''', [[daß]],  [[15 genetiv]], [[Gen Prap]], [[1 Präpositionen Übungen]]
 , [[dank]], [[Deinetwegen]], [[Kantine]], [[halber]]

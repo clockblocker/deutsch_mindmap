@@ -42,7 +42,7 @@ Einzigartige mögliche Formen: [[Schulde]], [[Schulden]], [[Schuldest]], [[Schul
 
 ---
 
-#Substantiv #Feminin, [[s1 e1]], [[verurteilen]], [[Texte/Misc/Anki]], [[Pfand]], [[Abrechnung]]
+#Substantiv #Feminin, [[s1 e1]], [[verurteilen]],  [[Pfand]], [[Abrechnung]]
 , [[Spende]]
 , [[Zahlung]], [[ergeben]], [[Schuldenpaket]], [[Betrag]], [[Schuldner]], [[Schuldenberg]], [[schulden]]
 , [[Sünde]]

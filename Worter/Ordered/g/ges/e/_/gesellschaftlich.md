@@ -35,4 +35,4 @@ social, societal
 Adjektive: [[gesellschaftlich]], [[gesellschaftlicher]], [[gesellschaftlichst]]
 
 ---
-[[gesellschaftlicher]], [[gesellschaftliches]], [[gesellschaftliche]], [[gesellschaftlichen]], [[gesellschaftlichem]], [[gesellschaftlicherer]], [[gesellschaftlicheres]], [[gesellschaftlichere]], [[gesellschaftlicheren]], [[gesellschaftlicherem]], [[gesellschaftlichster]], [[gesellschaftlichstes]], [[gesellschaftlichste]], [[gesellschaftlichsten]], [[gesellschaftlichstem]], [[ethnisch]], [[Gesellschaftsschicht]]
+[[gesellschaftlicher]], [[gesellschaftliches]], [[gesellschaftliche]], [[gesellschaftlichen]], [[gesellschaftlichem]], [[gesellschaftlicherer]], [[gesellschaftlicheres]], [[gesellschaftlichere]], [[gesellschaftlicheren]], [[gesellschaftlicherem]], [[gesellschaftlichster]], [[gesellschaftlichstes]], [[gesellschaftlichste]], [[gesellschaftlichsten]], [[gesellschaftlichstem]], [[ethnisch]], [[Gesellschaftsschicht]], [[gesamtgesellschaftlich]]

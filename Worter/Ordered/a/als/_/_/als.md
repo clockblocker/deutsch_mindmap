@@ -36,3 +36,4 @@ as, when
 
 [[als ob]], [[alsdann]], [[alsbald]], [[als auch]]
 , [[Konnektivpartikeln]], [[Konjunktoren]], [[leichter gesagt als getan]], [[anerkennen]]
+, [[erachten]]

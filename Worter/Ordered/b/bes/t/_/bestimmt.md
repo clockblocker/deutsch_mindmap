@@ -37,4 +37,4 @@ N: [[bestimmtes]], [[bestimmteres]], [[bestimmtestes]]
 P: [[bestimmten]], [[bestimmteren]], [[bestimmtesten]]  
 
 ---
-[[bestimmen]], [[Bestimmung]], [[unbestimmt]], [[Bestimmtheit]], [[bestimmbar]], [[s1 e1]], [[Texte/Misc/Anki]], [[speziell]], [[zielgerichtet]], [[womöglich]], [[geregelt]], [[Begriffsbestimmung]]
+[[bestimmen]], [[Bestimmung]], [[unbestimmt]], [[Bestimmtheit]], [[bestimmbar]], [[s1 e1]],  [[speziell]], [[zielgerichtet]], [[womöglich]], [[geregelt]], [[Begriffsbestimmung]]

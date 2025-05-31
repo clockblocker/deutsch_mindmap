@@ -3,6 +3,7 @@
 haben [[verkauft]]
 
 ---
+*[[bro-schrieben-c1-t1-003#^8|^]]* Einer meiner [[Bekannt]]en hat nach einer 15-jährigen Karriere als [[Entwickler]] ein eigenes [[Logistiksystem]] entwickelt und ein Unternehmen gegründet, das seine App [[verkauft]] und Support-[[Leistung]]en anbietet
 
 So [[verkaufte]] der englische Künstler
 

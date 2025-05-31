@@ -39,4 +39,4 @@ D: dem [[Gehalt]], den [[Gehältern]]
 [[Bedeutung]], [[Gehaltsvorstellungen]], [[Gehaltszahlungen]], [[unbezahlt]]
 , [[Nominallohn]], [[Verdienst]], [[Provision]], [[Lohnniveau]]
 
-#Maskulin , [[Abstraktionsgehalt]], [[Nährstoffgehalt]], [[Lohngefälle]]
+#Maskulin , [[Abstraktionsgehalt]], [[Nährstoffgehalt]], [[Lohngefälle]], [[Gehaltsausgabe]]

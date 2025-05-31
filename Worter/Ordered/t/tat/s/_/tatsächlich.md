@@ -50,4 +50,4 @@ Morpheme: Tat]], [[sächlich]]
 #Adverb
 
 [[allerdings]], [[eigentlich]], [[echt]]
-, [[begrüßen]], [[zerbrechen]], [[erwarten]], [[sogenannt]], [[Texte/Misc/Anki]], [[erfüllen]], [[Tat]], [[Tatsache]], [[ernsthaft]]
+, [[begrüßen]], [[zerbrechen]], [[erwarten]], [[sogenannt]],  [[erfüllen]], [[Tat]], [[Tatsache]], [[ernsthaft]]

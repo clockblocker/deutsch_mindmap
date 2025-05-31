@@ -6,6 +6,8 @@ haben [[entwickelt]]
 
 ---
 
+*[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheiten]] [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die [[Welt]] zu [[entwickeln]]
+
 *[[C1-Lesen-T1-405-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
 
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]].
@@ -49,5 +51,6 @@ Partizip I: [[entwickelnd]], Partizip II: [[entwickelt]]
 [[entwickeln]] - [[ent]] = [[wickeln]]
 
 , [[Aufwachsen]], [[erfinden]]
-, [[erstellen]], [[Entwicklung]], [[ableiten]], [[entwerfen]], [[Entfaltung]], [[Texte/Misc/Anki]], [[bleiben]]
+, [[erstellen]], [[Entwicklung]], [[ableiten]], [[entwerfen]], [[Entfaltung]],  [[bleiben]]
 , [[fehlentwicklung]], [[Persönlichkeitsentwicklung]], [[Teamentwicklung]], [[erweitern]], [[weiterentwickeln]], [[voranbringen]], [[ausbauen]], [[ausreifen]], [[reifen]], [[Entwicklungspotenzial]], [[Entwicklungsstufe]], [[bilden]], [[Weiterentwicklung]]
+, [[Entwickler]]

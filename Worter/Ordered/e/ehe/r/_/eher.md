@@ -46,4 +46,4 @@ Superlativ: [[am ehesten]]
 [[ehern]], [[Ehre]], [[ehrenhaft]], [[ehrenamtlich]]
 
 [[nachher]], [[zuvor]], [[Besteck]], [[Bestecken]]
-, [[als-zu]], [[Texte/Misc/Anki]], [[vielmehr]], [[tendenziell]]
+, [[als-zu]],  [[vielmehr]], [[tendenziell]]

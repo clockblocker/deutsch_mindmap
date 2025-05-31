@@ -1,1 +1,2 @@
 [[Energie]], [[Kraft]], [[Potenzrechnung]]
+, [[potenziell]]

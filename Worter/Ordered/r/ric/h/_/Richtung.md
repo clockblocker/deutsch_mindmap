@@ -49,7 +49,7 @@ Einzigartige mögliche Formen:
 
 ---
 
-#Substantiv #Maskulin, [[zusteuern]], [[östlich]], [[s1 e1]], [[Texte/Misc/Anki]], [[Fachrichtung]], [[Richtungsänderung]]
+#Substantiv #Maskulin, [[zusteuern]], [[östlich]], [[s1 e1]],  [[Fachrichtung]], [[Richtungsänderung]]
 , [[Richtungsangabe]]
 , [[Achse]], [[richtungsgebend]], [[zielgerichtet]]
 , [[Trend]]

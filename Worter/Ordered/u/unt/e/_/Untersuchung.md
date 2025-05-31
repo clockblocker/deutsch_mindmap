@@ -41,7 +41,7 @@ D: der [[Untersuchung]], den [[Untersuchungen]]
 [[untersuchen]], [[untersuchenswert]], [[Untersuchungsausschuss]], [[Untersuchungsbericht]]
 
 , [[suche]], [[Zwischenergebnis]]
-, [[Texte/Misc/Anki]], [[ergeben]], [[Studie]], [[Abstrich]]
+,  [[ergeben]], [[Studie]], [[Abstrich]]
 
 #Feminin , [[Erkundung]], [[Abhandlung]], [[Auswertung]], [[Erhebung]]
 , [[Marktforschung]], [[Marktbeobachtung]], [[Konsumforschung]]

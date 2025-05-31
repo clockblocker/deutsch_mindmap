@@ -28,6 +28,6 @@ D: dem [[Beweis]], den [[Beweisen]]
 
 ---
 
-[[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]], [[Texte/Misc/Anki]], [[Glaskugel]], [[Geschenkbestätigung]], [[ergeben]]
+[[beweisen]], [[beweisbar]], [[Beweislast]], [[Beweismittel]], [[beweiskräftig]],  [[Glaskugel]], [[Geschenkbestätigung]], [[ergeben]]
 
 #Maskulin , [[Tatsache]]

@@ -7,9 +7,11 @@ sein [[gestiegen]]
 
 ---
 
-_[[100-C1-Schreiben-T2#^2|^]]_ Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist.
+_[[100-C1-Schreiben-T2#^2|^]]_ Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist
 
-_[[C1-Hoehen-T3-301-Text#^52|^]]_ Soweit ich weiß, ist die Zahl der Studierenden in den MINT-Fächern in den vergangenen Jahren doch [[stetig]] [[gestiegen]]. ^52
+*[[bro-schrieben-c1-t1-003#^2|^]]* Das Thema „[[Arbeitsplatzwechsel]] ins Ausland“ finde ich sehr aktuell, da in den letzten Jahren die Zahl der [[Expat]]s [[drastisch]] [[gestiegen]] ist
+
+_[[C1-Hoehen-T3-301-Text#^52|^]]_ Soweit ich weiß, ist die Zahl der Studierenden in den MINT-Fächern in den vergangenen Jahren doch [[stetig]] [[gestiegen]]
 
 _[[C1-Hoehen-T2-201-Text#^4|^]]_ 10 Es gibt [[Jugendlich]]e, die das [[Abstraktionsvermögen]] mit [[steigend]]em Alter [[verlieren]]
 

@@ -60,4 +60,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[verschiedene]], [[verschiedener]], [[verschiedenes]], [[verschiedenen]], [[verschiedenem]]
 [[verschiedenere]], [[verschiedenerer]], [[verschiedeneres]], [[verschiedeneren]], [[verschiedenerem]]
-[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]], [[mehrere]], [[Texte/Misc/Anki]], [[am besten]], [[zahlreich]], [[jenig]]
+[[verschiedensten]], [[verschiedenster]], [[verschiedenstes]], [[verschiedensten]], [[verschiedenstem]], [[manche]], [[verschieden]], [[mehrere]],  [[am besten]], [[zahlreich]], [[jenig]]

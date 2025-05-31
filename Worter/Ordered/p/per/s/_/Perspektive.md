@@ -5,6 +5,8 @@
 ---
 Neue [[Perspektive]]n und [[Kompetenz]]en sind immer ein Gewinn.
 
+*[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheiten]] [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die [[Welt]] zu [[entwickeln]]
+
 *[[C1-Hoehen-T2-101-Text#^8|^]]* Es gibt aber auch andere [[Perspektive]]n [[hierzu]]
 
 ich freue mich sehr, dass unser IT-Infrastruktur-Team durch Herrn Muller [[verstärkt]] wird. Neue [[Perspektive]]n und [[Kompetenz]]en sind immer ein [[Gewinn]]. ^1

@@ -1,1 +1,1 @@
-, [[Naturheilkunde]], [[Schulmedizin]]
+, [[Naturheilkunde]], [[Schulmedizin]], [[Alternative]]

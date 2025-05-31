@@ -53,4 +53,4 @@ Beispiele:
 
 - Hast du überhaupt etwas dagegen? (generell)
 - Ich mag Käse überhaupt nicht. (absolut)
-- Wir haben überhaupt keine Zeit mehr. (generell), [[Texte/Misc/Anki]], [[Konnektivpartikeln]], [[teilweise]]
+- Wir haben überhaupt keine Zeit mehr. (generell),  [[Konnektivpartikeln]], [[teilweise]]

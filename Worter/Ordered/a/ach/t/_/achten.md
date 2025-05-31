@@ -49,3 +49,4 @@ PI: [[achtend]], PII: [[geachtet]], Zu+inf: [[zu achten]]
 
 [[Achtung]], [[achtbar]], [[achtsam]], [[Achtsamkeit]], [[verachten]], [[beachten]], [[schätzen]], [[s1 e1]], [[zuhören]]
 , [[aufpassen]], [[ungeachtet]], [[beobachten]], [[hinschauen]], [[verehren]], [[lauschen]]
+, [[erachten]]

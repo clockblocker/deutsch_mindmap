@@ -1,1 +1,1 @@
-, [[langanhaltend]]
+, [[langanhaltend]], [[Lebensdauer]]

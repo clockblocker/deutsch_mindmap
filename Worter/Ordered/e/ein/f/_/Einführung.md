@@ -43,7 +43,7 @@ D: der [[Einführung]], den [[Einführungen]]
 
 ---
 
-[[einführen]], [[Einführender]], [[einführend]], [[Einführungsveranstaltung]], [[Einführungskurs]], [[Texte/Misc/Anki]], [[Aufhebung]]
+[[einführen]], [[Einführender]], [[einführend]], [[Einführungsveranstaltung]], [[Einführungskurs]],  [[Aufhebung]]
 
 #Feminin , [[Wegfall]], [[Pitch]], [[Vorarbeit]], [[Abschaffung]]
 , [[Markteinführung]]

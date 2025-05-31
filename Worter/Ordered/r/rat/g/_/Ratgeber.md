@@ -28,4 +28,4 @@ G: des [[Ratgebers]], der [[Ratgeber]]
 D: dem [[Ratgeber]], den [[Ratgebern]]
 
 
-#Maskulin 
+#Maskulin , [[Berater]]

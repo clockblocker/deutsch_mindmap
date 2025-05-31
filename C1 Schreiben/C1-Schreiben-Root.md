@@ -19,3 +19,6 @@
 keine [[Zeit]] beim [[Pendeln]] [[verliere]]
 
 *[[bro-schrieben-c1-t1-002#^12|^]]* [[Dagegen]] spricht, dass es [[während]] dieses Lernens mehrere [[Ablenkung]]en gäbe, da man sich nicht in einem [[Klassenzimmer]] befindet, sondern meistens zu Hause, wo [[Familienmitglieder]] [[Aufmerksamkeit]] fordern können. ^12
+
+
+Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]],

@@ -4,7 +4,10 @@
 die [[Anforderungen]]
 
 ---
-[[0 checklist#^2|^]] Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die [[Bewerbung]]?
+*[[0 checklist#^2|^]]* Du bist auf Wohnungssuche und dir [[schwirrt]] der Kopf vor [[Inseraten]] und [[Anforderungen]] für die [[Bewerbung]]?
+
+*[[bro-schrieben-c1-t1-003#^5|^]]* Mein [[Vorschlag]] wäre, dass man bei der Wahl eines Ziellandes [[folgend]]e Kriterien [[berücksichtig]]en muss: die [[Anforderung]]en für das [[Fachkräfte]]-Visum, die aktuelle Situation auf dem Arbeits- und [[Wohnungsmarkt]] und [[potenziell]]e [[Gehaltsausgabe]]n
+
  
 ---
 = [[Bedarf]], [[Erfordernis]], [[Forderung]], [[Bedingung]]

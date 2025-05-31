@@ -1,1 +1,1 @@
-, [[knapp]], [[unvorstellbar]], [[Denkvermögen]]
+, [[knapp]], [[unvorstellbar]], [[Denkvermögen]], [[potenziell]]

@@ -4,6 +4,8 @@
 *[[Wettlauf gegen die Zeit 1#^5|^]]* Belay ist ein Stammgast der Gottscheer Hall, seit er vor mehr als 60 Jahren nach Amerika [[auswanderte]]. ^5
 
 
+*[[bro-schrieben-c1-t1-003#^4|^]]* Außerdem könnte das [[Auswander]]n `nach` Ländern mit [[niedrig]]en [[Steuer]]n (z. B. [[Vereinig]]te [[Arabisch]]e Emirate) eine [[Gelegenheit]] sein, [[Personalvermögen]] [[aufzubauen]]. ^4
+
 
 *[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^11|^]]* Es gibt aber auch viele Vorteile, die zum [[Auswandern]], wenn ihr euch einfach nur [[beruflich]] verändern oder neue Karrieremöglichkeiten [[wünscht]]. ^11
 
@@ -82,4 +84,6 @@ Adjektive: [[auswandernd]], [[auswandernder]], [[auswanderndst]]
 - Weil wir an das Beste glauben.
 - Wie lange [[hast]] du [[gehofft]]?
 - Dein Leben lang
-, [[abwandern]]
+, [[abwandern]], [[bro-schrieben-c1-t1-003]]
+
+#Neuter 

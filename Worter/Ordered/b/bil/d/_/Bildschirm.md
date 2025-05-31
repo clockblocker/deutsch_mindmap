@@ -25,6 +25,6 @@ G: des [[Bildschirms]], der [[Bildschirme]]
 D: dem [[Bildschirm]], den [[Bildschirmen]] 
 
 ---
-[[bilden]], [[schirmen]], [[bildschirmfreundlich]], [[Bildschirmarbeit]], [[Bildschirmgerät]], [[Texte/Misc/Anki]], [[Großleinwand]], [[Leinwand]]
+[[bilden]], [[schirmen]], [[bildschirmfreundlich]], [[Bildschirmarbeit]], [[Bildschirmgerät]],  [[Großleinwand]], [[Leinwand]]
 
 #Neuter 

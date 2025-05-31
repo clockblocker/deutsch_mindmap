@@ -1,1 +1,1 @@
-[[Sorte]], [[Möglichkeit]], [[Version]], [[Sonderform]], [[Suchtform]]
+[[Sorte]], [[Möglichkeit]], [[Version]], [[Sonderform]], [[Suchtform]], [[Alternative]]

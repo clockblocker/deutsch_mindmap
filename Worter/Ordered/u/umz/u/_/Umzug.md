@@ -3,6 +3,8 @@
 ---
 Ich habe vollstes Verständnis dafür, dass ein [[Umzug]] unter Zeitdruck nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann.
 
+*[[bro-schrieben-c1-t1-003#^5|^]]* Ein wichtiges Argument gegen den [[Umzug]] ins Ausland ist, dass ein Migrant [[weit]] [[entfernt]] von seiner Familie ist
+
 *[[01-C1-Schreiben-T2-M#^1|^]]* Mit meinem Schreiben möchte ich auf das Thema Arbeitsbedingungen nach dem [[Umzug]] eingehen ^1
 
 

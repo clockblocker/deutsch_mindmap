@@ -32,3 +32,6 @@ Morpheme: [[tob]], [[en]]
 | Sie       | [[toben]] | [[tobten]]  | [[toben Sie]] | [[toben]]    | [[tobten]]    |
 
 Partizip I: [[tobend]], Partizip II: [[getobt]], [[stürmen]], [[s1 e1]], [[Herumtollen]]
+
+
+#Neuter 

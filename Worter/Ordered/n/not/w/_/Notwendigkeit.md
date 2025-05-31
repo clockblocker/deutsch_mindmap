@@ -39,4 +39,4 @@ D: der [[Notwendigkeit]], den [[Notwendigkeiten]]
 , [[unentbehrlich]]
 , [[Modebegriff]]
 
-#Feminin , [[Arbeitsform]], [[Sachzwang]], [[Forschungsbedarf]], [[Wahlmöglichkeit]], [[Handlungsbedarf]], [[bro-schrieben-c1-t1-002]]
+#Feminin , [[Arbeitsform]], [[Sachzwang]], [[Forschungsbedarf]], [[Wahlmöglichkeit]], [[Handlungsbedarf]], [[bro-schrieben-c1-t1-002]], [[Alternative]]

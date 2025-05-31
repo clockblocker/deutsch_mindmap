@@ -44,3 +44,4 @@ Einzigartige mögliche Formen:
 [[vereint]], [[einzeln]], [[aneinander]], [[zu zweit]]
 , [[Gemeinde]], [[Einzelne]]
 , [[einig]], [[Gemeinschaft]], [[gegenseitig]], [[Gemeinschaftstisch]]
+, [[gesamtgesellschaftlich]]

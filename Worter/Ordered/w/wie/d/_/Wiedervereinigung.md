@@ -23,3 +23,5 @@ D: der [[Wiedervereinigung]], den [[Wiedervereinigungen]]
 
 ---
 [[vereinigen]], [[wiedervereinen]], [[Wiederverein]], [[Einheit]]
+
+#Feminin 

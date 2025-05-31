@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-101-Text#^16|^]]* Spielen bestimmte [[Ernährungsweise]]n bei [[einig]]en [[Naturvölkern]] eine Rolle bei ihrer langen [[Lebenserwartung]]?
 
+*[[bro-schrieben-c1-t1-004#^15|^]]* Erklären Sie, wie sich die [[Lebenserwartung]] des Menschen entwickelt bzw. [[zukünftig]] [[entwickeln]] dürfte
+
 ---
 = [[Lebensdauer]], [[Überlebensrate]]
 ≈ [[Sterblichkeit]], [[Gesundheit]], [[Alter]]

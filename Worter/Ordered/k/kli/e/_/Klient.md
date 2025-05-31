@@ -1,1 +1,1 @@
-, [[Kunde]], [[Auftraggeber]]
+, [[Kunde]], [[Auftraggeber]], [[Berater]]

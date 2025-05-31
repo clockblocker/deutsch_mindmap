@@ -1,1 +1,1 @@
-, [[Tonfall]], [[Kräutervielfalt]], [[Vielfalt]], [[Langeweile]]
+, [[Tonfall]], [[Kräutervielfalt]], [[Vielfalt]], [[Langeweile]], [[Abwechslung]]

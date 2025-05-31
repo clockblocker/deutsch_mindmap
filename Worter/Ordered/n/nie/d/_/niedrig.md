@@ -1,6 +1,7 @@
 📉 [[niedrig]], [ˈniːdʁɪç](https://youglish.com/pronounce/niedrig/german) | [[niedriger]], [[am niedrigsten]]
 
 ---
+*[[bro-schrieben-c1-t1-003#^4|^]]* Außerdem könnte das [[Auswander]]n `nach` Ländern mit [[niedrig]]en [[Steuer]]n (z. B. [[Vereinig]]te [[Arabisch]]e Emirate) eine [[Gelegenheit]] sein, [[Personalvermögen]] [[aufzubauen]]
 
 0 Trotz [[niedriger]] [[Zinsen]] sparen einige Bürgerinnen und Bürger immer noch. ✅ a
 

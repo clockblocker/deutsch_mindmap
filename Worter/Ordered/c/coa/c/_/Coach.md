@@ -1,1 +1,1 @@
-, [[Vereinstrainer]]
+, [[Vereinstrainer]], [[Berater]]

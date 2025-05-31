@@ -57,7 +57,7 @@ Dative: der [[Entscheidung]], den [[Entscheidung]]en
 [[entscheiden]], [[entscheidend]], [[unentschieden]], [[Entscheidungsträger]], [[Entscheidungsfindung]]
 
 , [[Auswahl]], [[entschließen]]
-, [[beschließen]], [[Rat]], [[Urteile]], [[Festlegung]], [[1 Präpositionen Übungen]], [[Entscheidungsfreude]]
+, [[beschließen]], [[Rat]], [[Urteile]], [[Festlegung]], [[Entscheidungsfreude]]
 
 Die wirtschaftlichen Argumente bestehen aus vielen Teilen. Zuerst ist es einfach wirklich teuer, ein Motor pro Person zu haben, verglichen mit einem Motor pro 100 Personen, die die Stadt mit offentlichen Transport erriehen konnen
 

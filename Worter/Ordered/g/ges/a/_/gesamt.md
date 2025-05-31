@@ -37,3 +37,4 @@ Einzigartige mögliche Formen:
 [[gesamtesten]], [[gesamtester]], [[gesamteste]], [[gesamtestes]], [[gesamtesten]], [[gesamtestem]], [[gesamtester]], [[gesamtesten]]
 , [[Gesamtschule]], [[sämtlich]], [[insgesamt]]
 , [[Alle]], [[Gesamtgesellschaft]], [[Gesamtbewertung]]
+, [[gesamtgesellschaftlich]]

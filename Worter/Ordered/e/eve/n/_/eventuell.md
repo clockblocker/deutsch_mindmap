@@ -1,1 +1,1 @@
-[[allerdings]], [[jedenfalls]], [[höchstwahrscheinlich]], [[womöglich]]
+[[allerdings]], [[jedenfalls]], [[höchstwahrscheinlich]], [[womöglich]], [[potenziell]]

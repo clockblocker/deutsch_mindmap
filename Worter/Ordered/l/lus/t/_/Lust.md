@@ -29,4 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lust]], [[Luste]], [[Lusten]]
 
 ---
-#Substantiv #Feminin, [[Texte/Misc/Anki]], [[hingehen]], [[lustlos]]
+#Substantiv #Feminin,  [[hingehen]], [[lustlos]]

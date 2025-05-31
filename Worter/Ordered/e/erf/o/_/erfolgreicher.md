@@ -1,1 +1,1 @@
-, [[erfolgreich]], [[1 Präpositionen Übungen]], [[Aufsteiger]]
+, [[erfolgreich]], [[Aufsteiger]]

@@ -1,1 +1,1 @@
-, [[wohl]], [[freilich]], [[wahrscheinlich]], [[höchstwahrscheinlich]]
+, [[wohl]], [[freilich]], [[wahrscheinlich]], [[höchstwahrscheinlich]], [[potenziell]]

@@ -4,6 +4,8 @@ die [[Erfahrung]]en
 ---
 *[[bro-schrieben-c1-t1-002#^9|^]]* Hierzu möchte ich ein [[Beispiel]] `aus` meiner eigenen [[Erfahrung]] [[anführen]]
 
+*[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
+
 _[[16 Plusquamperfekt#^24|^]]_ Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht
 
 _[[C1-Hoehen-T1-301-Text#^10|^]]_ Wenn man sich auf die [[wortgewaltig]]e [[Unmittelbarkeit]] der [[Erfahrung]]en, [[Empfindung]]en und [[Erlebnis]]se des Naturpilgers Wegorst [[einlässt]], geht man allerdings auf eine Reise, an deren Ende ein in unserer Zivilisation oft [[vergessener]] Respekt vor der [[rohen]] [[Gleichgültigkeit]] der Natur steht – aber auch eine neue [[Einsicht]] in die [[Einfachheit]] der essentiellen Bedürfnisse der Menschheit
@@ -62,5 +64,5 @@ Morpheme:
 ---
 
 Einzigartige mögliche Formen:
-[[Erfahrung]], [[Erfahrung]], [[Erfahrung]]en, [[Erfahrung]]en, [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[1 Präpositionen Übungen]], [[Fachwissen]], [[Laufbahn]], [[erlebbar]], [[Einzelschicksal]], [[Praxis]], [[Vorkenntnis]]
+[[Erfahrung]], [[Erfahrung]], [[Erfahrung]]en, [[Erfahrung]]en, [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[Fachwissen]], [[Laufbahn]], [[erlebbar]], [[Einzelschicksal]], [[Praxis]], [[Vorkenntnis]]
 , [[bro-schrieben-c1-t1-002]]

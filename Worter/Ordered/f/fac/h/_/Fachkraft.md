@@ -4,6 +4,8 @@ die [[Fachkräfte]]
 ---
 *[[C1-Hoehen-T3-301-Text#^4|^]]* Herr Osterholz [[beklagt]] den [[Mangel]] an [[Fachkräften]] mit [[Schwerpunkt]] [[Naturwissenschaft]]en
 
+*[[bro-schrieben-c1-t1-003#^5|^]]* Mein [[Vorschlag]] wäre, dass man bei der Wahl eines Ziellandes [[folgend]]e Kriterien [[berücksichtig]]en muss: die [[Anforderung]]en für das [[Fachkräfte]]-Visum, die aktuelle Situation auf dem Arbeits- und [[Wohnungsmarkt]] und [[potenziell]]e [[Gehaltsausgabe]]n
+
 *[[C1-Hoehen-T3-301-Text#^18|^]]* Frau Ebner-Perotti sieht die [[Abwanderung]] von [[Fachkräften]] problematisch
 
 *[[C1-Hoehen-T3-301-Text#^56|^]]* Nicht nur im Transport- oder im [[Gesundheitswesen]] zeigt sich bereits ein [[deutlich]]er Mangel an [[Fachkräften]];

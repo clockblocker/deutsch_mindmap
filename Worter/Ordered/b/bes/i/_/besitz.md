@@ -1,2 +1,2 @@
 , [[Waffenbesitz]], [[besitzen]]
-, [[Miete]], [[Grundstück]], [[Erwerb]], [[Besitzer]]
+, [[Miete]], [[Grundstück]], [[Erwerb]], [[Besitzer]], [[Personalvermögen]]

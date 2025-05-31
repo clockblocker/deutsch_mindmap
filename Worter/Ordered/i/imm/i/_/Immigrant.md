@@ -1,3 +1,3 @@
 , [[Einwanderer]]
 
-#Maskulin, [[Zuwanderer]]
+#Maskulin, [[Zuwanderer]], [[Expat]]

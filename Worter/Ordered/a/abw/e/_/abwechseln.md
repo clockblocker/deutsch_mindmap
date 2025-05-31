@@ -1,1 +1,1 @@
-, [[abwechslungsreich]]
+, [[abwechslungsreich]], [[Abwechslung]]

@@ -36,14 +36,12 @@
 *[[bro-schrieben-c1-t1-002#^10|^]]* Wenn ich selbst nur online lerne und keine Zeit beim [[Pendeln]] [[verliere]], benutze ich innere Kräfte, um mehr [[Lernaufgabe]]n [[erfolgreich]] zu [[bewältigen]] und am [[selben]] Tag [[einkaufen]] zu gehen. ^10
 
  
- 
 *[[bro-schrieben-c1-t1-002#^11|^]]* Das Online-Lernen passt aber nicht allen. ^11
 
 *[[bro-schrieben-c1-t1-002#^12|^]]* [[Dagegen]] spricht, dass es [[während]] dieses Lernens mehrere [[Ablenkung]]en gäbe, da man sich nicht in einem [[Klassenzimmer]] befindet, sondern meistens zu Hause, wo [[Familienmitglieder]] [[Aufmerksamkeit]] fordern können. ^12
 
 *[[bro-schrieben-c1-t1-002#^13|^]]* Im [[Gegensatz]] dazu bieten [[Präsenzkurs]]e eine [[passend]]e [[Atmosphäre]] zum [[ruhig]]en und [[entspannten]] [[Sprachenlernen]]. ^13
 
- 
  
 *[[bro-schrieben-c1-t1-002#^13|^]]* Ich stehe auf dem [[Standpunkt]], dass ein [[sinnvoll]]es [[Lernmodell]] wäre, Kinder an Präsenzkursen zu [[beteiligen]], da sie dabei nicht nur die Sprache lernen können, sondern auch kommunikative [[Fähigkeit]]en [[entwickeln]] können. ^13
 

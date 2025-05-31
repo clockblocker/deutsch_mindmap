@@ -4,6 +4,8 @@ haben [[erlebt]]
 
 ---
 
+*[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
+
 So einen schönen Tag [[erlebt]] man nur einmal im Leben.
 
 _[[C1-Hoehen-T2-201-Text#^32|^]]_ Viele [[Studierende]] auf [[Lehramt]] haben in ihrer Schulzeit schon selbst [[erlebt]], dass der Mathematikunterricht allem abstrakt [[durchgeführt]] wurde und sind damit gut [[zurechtgekommen]]
@@ -14,19 +16,16 @@ Im DDR-Museum können die Besucher ein Stück DDR-Kultur [[erleben]]: Wie ist da
 
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. Egal, wie man sich [[anstellt]], es klappt nicht! Da muss der [[Wurm]] [[drin]] sein …
 
-_[[Einen Korb bekommen#^13|^]]_ Jetzt erzählt Anna, was sie in letzter Zeit alles [[erlebt]] hat: Sie war mit Katharina in Paris, und es war so romantisch! ^13
+_[[Einen Korb bekommen#^13|^]]_ Jetzt erzählt Anna, was sie in letzter Zeit alles [[erlebt]] hat: Sie war mit Katharina in Paris, und es war so romantisch!
 
 ---
-
 Synonyme: [[erfahren]], [[miterleben]], [[mitbekommen]], [[durchmachen]], [[erleiden]], [[spüren]]
 Antonyme: [[verpassen]], [[ignorieren]], [[übersehen]]
 
 ---
-
 Übersetzung: to experience, to live through, to witness
 
 ---
-
 Morpheme: [[er]], [[leb]], [[en]]
 #Verb #Untrennbar
 
@@ -43,4 +42,5 @@ Morpheme: [[er]], [[leb]], [[en]]
 
 Partizip I: [[erlebend]], Partizip II: [[erlebt]]
 [[erleben]] - [[er]] = [[Leben]]
-''', [[genießen]], [[Erlebnis]], [[empfinden]], [[erlebbar]]
+
+[[genießen]], [[Erlebnis]], [[empfinden]], [[erlebbar]]

@@ -32,3 +32,4 @@ G: des [[Technikers]], der [[Techniker]]
 D: dem [[Techniker]], den [[Technikern]]
 
 #Maskulin
+, [[Entwickler]]

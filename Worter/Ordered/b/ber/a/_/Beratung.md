@@ -28,4 +28,4 @@ G: der [[Beratung]], der [[Beratungen]]
 D: der [[Beratung]], den [[Beratungen]]
 
 
-#Feminin , [[Sozialdienst]]
+#Feminin , [[Sozialdienst]], [[Consulting]]

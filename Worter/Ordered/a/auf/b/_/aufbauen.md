@@ -1,10 +1,10 @@
 --> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 
 ⚒️ [[aufbauen]] + Akk, [ˈaʊ̯fbauən]
-[[baute auf|baute auf]]
-haben [[aufgebaut]]
 
 ---
+
+*[[bro-schrieben-c1-t1-003#^4|^]]* Außerdem könnte das [[Auswander]]n `nach` Ländern mit [[niedrig]]en [[Steuer]]n (z. B. [[Vereinig]]te [[Arabisch]]e Emirate) eine [[Gelegenheit]] sein, [[Personalvermögen]] [[aufzubauen]]
 
 SAM: Ich helfe dir beim [[aufbauen]] … Wo ist die Anleitung?
 

@@ -4,8 +4,9 @@ nicht [[eng]]
 ---
 Der Junge wirft einen Speer zu Sokka, der ihn fängt und sofort einen [[weiteren]] [[Angriff]] auf Zuko startet
 
-*[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können
+*[[bro-schrieben-c1-t1-003#^5|^]]* Ein wichtiges Argument gegen den [[Umzug]] ins Ausland ist, dass ein Migrant [[weit]] [[entfernt]] von seiner Familie ist
 
+*[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können
 
 *[[C1-Hoehen-T3-301-Text#^23|^]]* Das ist schon richtig, aber 
 es [[ausreicht|reicht]] `bei` [[Weitem]] nicht aus, 

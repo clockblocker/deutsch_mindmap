@@ -43,3 +43,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[Auswahl]], [[Auswahle]], [[Auswahlen]], [[Auswahl]], [[Auswahl]], [[Auswahl]], [[Auswahl]], [[Auswahl]], [[Nationalmannschaft]]
 , [[aussuchen]], [[Kräutervielfalt]], [[Vielfalt]], [[auswählen]]
+, [[Alternative]]

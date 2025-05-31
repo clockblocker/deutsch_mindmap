@@ -27,3 +27,5 @@ D: der [[Einigkeit]], den [[Einigkeiten]]
 ---
 [[einig]], [[einigen]], [[vereinigen]], [[uneinig]], [[Einigung]], [[Recht]]
 , [[Wortgefecht]], [[Einklang]], [[Streiterei]], [[Zweikampf]], [[Spannungsverhältnis]], [[Konkurrenzkampf]]
+
+#Feminin 

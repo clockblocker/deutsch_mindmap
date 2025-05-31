@@ -22,4 +22,4 @@ each, every, any
 ---
 [[jeder]], [[jeweilig]], [[jeweils]], [[jemals]], [[jelänger]]
 
-, [[Texte/Misc/Anki]], [[Konjunktoren]], [[jeglich]]
+,  [[Konjunktoren]], [[jeglich]]

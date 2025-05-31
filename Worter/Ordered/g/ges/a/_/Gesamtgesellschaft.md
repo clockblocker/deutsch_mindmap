@@ -29,4 +29,4 @@ D: der [[Gesamtgesellschaft]], den [[Gesamtgesellschaften]]
 
 
 #Feminin
-, [[mangeln]]
+, [[mangeln]], [[gesamtgesellschaftlich]]

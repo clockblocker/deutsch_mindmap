@@ -38,3 +38,4 @@ P: [[allgemeinen]], [[allgemeineren]], [[allgemeinsten]]
 
 [[eigene]], [[öffentlich]], [[grundsätzlich]], [[bezogen]]
 , [[jeweils]], [[allenthalben]], [[allgemeingültig]], [[insbesondere]], [[persönlich]], [[abstrakt]]
+, [[gesamtgesellschaftlich]]

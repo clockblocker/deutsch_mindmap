@@ -38,4 +38,4 @@ Morpheme: [[be]], [[tret]], [[en]]
 | Sie       | [[betreten]]  | [[betraten]]  | [[betreten Sie]] | [[betreten]]  | [[beträten]]  |
 
 Partizip I: [[betretend]], Partizip II: [[betreten]]
-[[betreten]] - [[be]] = [[treten]], [[Texte/Misc/Anki]], [[einsteigen]]
+[[betreten]] - [[be]] = [[treten]],  [[einsteigen]]

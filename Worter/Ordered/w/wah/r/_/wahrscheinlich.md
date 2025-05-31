@@ -46,3 +46,4 @@ Plural: [[wahrscheinlichen]], [[wahrscheinlicheren]], [[wahrscheinlichsten]]
 
 , [[wohl]], [[Unglaublich]], [[hoffentlich]]
 , [[womöglich]]
+, [[potenziell]]

@@ -26,4 +26,4 @@ N: [[spannendes]], [[spanneneres]], [[spannendstes]]
 P: [[spannenden]], [[spannenderen]], [[spannensten]]  
 
 ---
-[[spannen]], [[Spannung]], [[spannungsreich]], [[unspannend]], [[Texte/Misc/Anki]], [[wechselvoll]], [[kurzweilig]]
+[[spannen]], [[Spannung]], [[spannungsreich]], [[unspannend]],  [[wechselvoll]], [[kurzweilig]]

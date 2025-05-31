@@ -36,4 +36,4 @@ Morpheme:
 [[eben]]
 
 ---
-[[Extra 8]], [[ebenfalls]], [[schnallen]], [[Ebene]], [[vorhin]], [[Texte/Misc/Anki]], [[ebenso]], [[Venedig]], [[Abtönungspartikeln]], [[derselbe]]
+[[Extra 8]], [[ebenfalls]], [[schnallen]], [[Ebene]], [[vorhin]],  [[ebenso]], [[Venedig]], [[Abtönungspartikeln]], [[derselbe]]

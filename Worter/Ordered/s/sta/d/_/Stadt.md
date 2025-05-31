@@ -7,6 +7,7 @@ die [[Städte]]
 *[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können
 
 
+
 ---
 = [[Metropole]], [[Gemeinde]]
 ≈ [[Ort]], [[Zentrum]], [[Urbanität]], [[Metropole]], [[Großstadt]], [[Ortschaft]], [[Gemeinde]], [[Ort]], [[Altstadt]], [[Bundesland]][[Stadtoberhaupt]], [[Stadträte]], [[Bezirk]], [[Heimatstadt]], [[Stadtverwaltung]], [[Bauernhof]], [[Stadtentwicklung]], [[Stadtmauer]], [[Innenstadt]], [[Städteplanung]], [[Stadtteil]]

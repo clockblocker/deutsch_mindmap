@@ -26,4 +26,4 @@ G: des [[Gastarbeiters]], der [[Gastarbeiter]]
 D: dem [[Gastarbeiter]], den [[Gastarbeitern]]  
 
 ---
-[[Gastarbeit]], [[Arbeitsmigration]], [[beschäftigen]], [[einwandern]]
+[[Gastarbeit]], [[Arbeitsmigration]], [[beschäftigen]], [[einwandern]], [[Expat]]

@@ -19,6 +19,6 @@ respectively, or rather, or
 
 ---
 [[Beziehung]], [[beziehen]], [[weise]], [[weisen]], [[beziehungslos]]
-[[Beziehung]], [[Beziehung]], [[Texte/Misc/Anki]], [[jeweils]], [[entweder]]
+[[Beziehung]], [[Beziehung]],  [[jeweils]], [[entweder]]
 
 [[der Deutscher]], [[Konnektivpartikeln]], [[Zugriff]]

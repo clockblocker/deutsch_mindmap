@@ -28,4 +28,4 @@ G: des [[Neuanfangs]], der [[Neuanfänge]]
 D: dem [[Neuanfang]], den [[Neuanfängen]]
 
 
-#Maskulin 
+#Maskulin , [[Arbeitsplatzwechsel]]

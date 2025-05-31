@@ -48,4 +48,4 @@ Typische Verwendung:
 - "Er ist bereits angekommen."
 - "Das Buch ist bereits ausverkauft."
 - "Ich habe das bereits erledigt."
-''', [[Grenz]], [[Texte/Misc/Anki]], [[Berufsfeld]]
+''', [[Grenz]],  [[Berufsfeld]]

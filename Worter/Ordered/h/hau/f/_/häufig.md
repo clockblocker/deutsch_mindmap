@@ -55,4 +55,4 @@ P: [[häufigen]], [[häufigeren]], [[häufigsten]]
 ---
 [[häufig]], [[Häufigkeit]], [[Häufung]], [[aufhäufen]], [[anhäufen]]
 
-, [[selten]], [[manchmal]], [[Texte/Misc/Anki]], [[Techniker]]
+, [[selten]], [[manchmal]],  [[Techniker]]

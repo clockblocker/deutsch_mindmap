@@ -26,4 +26,4 @@ Einzigartige mögliche Formen: [[Sprache]], [[Sprachen]], [[Sprache]], [[Sprache
 
 #Substantiv #Feminin, [[Sprachunterricht]], [[schriftsprachlich]]
 , [[Sprachschatz]], [[Behördensprache]], [[Dolmetscher]], [[Muttersprachler]], [[Amtssprache]], [[Zielsprache]], [[Landessprache]], [[Wortschatz]], [[mehrsprachig]], [[Sprachenzentrum]], [[Jugendsprache]], [[Spracherwerb]], [[Sprachkenntnis]]
-, [[Sprachkurs]], [[Sprachenlernen]]
+, [[Sprachkurs]], [[Sprachenlernen]], [[Arabisch]]

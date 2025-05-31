@@ -44,7 +44,7 @@ Einzigartige mögliche Formen: [[Ergebnisses]], [[Ergebnis]], [[Ergebnisse]], [[
 
 #Substantiv #Neuter
 
-, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergebenis]], [[Zwischenergebnis]], [[ergeben]], [[Texte/Misc/Anki]], [[Anlass]], [[1 Präpositionen Übungen]], [[Voraussetzung]], [[ergeben]], [[Ergebnisorientierung]]
+, [[Erfolg]], [[entgegenfiebern]], [[Rechercheergebenis]], [[Zwischenergebnis]], [[ergeben]],  [[Anlass]], [[Voraussetzung]], [[ergeben]], [[Ergebnisorientierung]]
 
 , [[Bilanz]], [[Auswirkung]]
 

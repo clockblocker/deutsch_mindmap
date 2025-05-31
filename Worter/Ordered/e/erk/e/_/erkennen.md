@@ -48,5 +48,5 @@ Partizip I: [[erkennend]], Partizip II: [[erkannt]]
 [[erkennen]] - [[er]] = [[kennen]]
 
 [[spüren]], [[bemerken]]
-, [[ausmachen]], [[merken]], [[begreifen]], [[Texte/Misc/Anki]], [[Erkenntnis]]
+, [[ausmachen]], [[merken]], [[begreifen]],  [[Erkenntnis]]
 , [[erkennbar]], [[herausfinden]], [[wiedererkennen]], [[ablesen]], [[anerkennen]]

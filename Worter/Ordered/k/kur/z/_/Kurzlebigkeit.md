@@ -1,1 +1,1 @@
-, [[Nachhaltigkeit]]
+, [[Nachhaltigkeit]], [[Lebensdauer]]

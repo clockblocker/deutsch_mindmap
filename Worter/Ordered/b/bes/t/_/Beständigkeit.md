@@ -1,2 +1,2 @@
 , [[Erhaltung]], [[Wende]]
-, [[Stimmungsschwankung]], [[bestehen]], [[Dauer]], [[Nachhaltigkeit]], [[Vorläufigkeit]]
+, [[Stimmungsschwankung]], [[bestehen]], [[Dauer]], [[Nachhaltigkeit]], [[Vorläufigkeit]], [[Lebensdauer]]

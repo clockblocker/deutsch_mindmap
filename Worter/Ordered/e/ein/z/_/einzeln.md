@@ -43,6 +43,6 @@ P: [[einzelnen]], [[einzelneren]], [[einzelnsten]]
 ---
 
 , [[Einzelausstellung]], [[Einzelhändler]], [[Einzelfallregelung]], [[Einzelschicksal]], [[Einzelheit]], [[einzeln]], [[Einzelhandel]]
-[[Einzelheit]], [[Einzelfall]], [[vereinzeln]], [[Einzelwerk]], [[Texte/Misc/Anki]], [[insgesamt]], [[zahlreich]], [[gemeinschaftlich]], [[Einzelschicksal]], [[Einzelheit]], [[Einzelausgabe]], [[einzeln]], [[Einzelperson]]
+[[Einzelheit]], [[Einzelfall]], [[vereinzeln]], [[Einzelwerk]],  [[insgesamt]], [[zahlreich]], [[gemeinschaftlich]], [[Einzelschicksal]], [[Einzelheit]], [[Einzelausgabe]], [[einzeln]], [[Einzelperson]]
 , [[dual]]
-, [[Einzelhandel]]
+, [[Einzelhandel]], [[gesamtgesellschaftlich]]
