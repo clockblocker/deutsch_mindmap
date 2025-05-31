@@ -1,2 +1,2 @@
 
-, [[erholen]], [[Urlaub]], [[Erholung]]
+, [[erholen]], [[Urlaub]], [[Erholung]], [[Erholungszeit]]

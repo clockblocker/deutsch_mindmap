@@ -2,7 +2,6 @@
 nicht [[undigen]]
 
 ---
-
 [[kündigen]] - [[kün]] = [[digen]]
 
 ---
@@ -14,7 +13,6 @@ Synonyme:
 - [[künstlich]], [[unecht]], [[falsch]], [[nachgemacht]]
 
 ---
-
 **Übersetzung**:
 inherent, intrinsic, innate
 

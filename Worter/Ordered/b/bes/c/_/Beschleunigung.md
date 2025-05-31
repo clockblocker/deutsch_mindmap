@@ -1,1 +1,1 @@
-, [[Verspätung]], [[Zeitdruck]], [[Verzögerung]], [[Geschwindigkeit]]
+, [[Verspätung]], [[Zeitdruck]], [[Verzögerung]], [[Geschwindigkeit]], [[beschleunigen]]

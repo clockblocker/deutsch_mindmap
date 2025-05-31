@@ -37,3 +37,4 @@ PI: [[erholend]], PII: [[erholt]], Zu+inf: [[zu erholen]]
 
 ---
 [[Erholung]], [[erholsam]], [[holen]], [[Erholungsurlaub]]
+, [[Erholungszeit]], [[Erholungsphase]]

@@ -1,1 +1,1 @@
-, [[Kaffeepause]], [[Kaffeepause]]
+, [[Kaffeepause]], [[Kaffeepause]], [[Erholungszeit]]

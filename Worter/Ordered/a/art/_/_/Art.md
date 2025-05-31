@@ -4,6 +4,8 @@ die [[Arten]]
 ---
 Herr Knizka sagt, dass alle [[Art]]en von Online-[[Sucht]] ein [[gemeinsam]]es [[Merkmal]] haben
 
+Dazu kommt auch, dass manche [[Art]]en von [[Doping]] die [[Erholungszeit]] [[positiv]] [[beeinflussen]] können
+
 *[[C1-Hoehen-T1-102-Text#^11|^]]* "Wirtschaftsethik" [[erläutert]] es [[Normalsterbliche]]n nämlich [[dankenswerterweise]] einmal und zwar als: [[Überbrückung]] des [[Spannungsverhältnis]]ses der [[marktwirtschaftlich]]en [[Gewinnorientierung]] und [[gesellschaftlich]]en [[Moralvorstellung]]en und [[einführen|führt]] auch weitere allgemeine [[Begriff]]e der Wirtschaftsethik auf eine einfache und verständliche [[Art]] und [[Weise]] ein
 
 Es gibt [[verschiedene]] [[Arten]] von Tieren.

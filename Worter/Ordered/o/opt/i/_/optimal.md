@@ -28,4 +28,4 @@ optimal
 Adjektive: [[optimal]], [[optimaler]], [[optimalsten]]
 
 ---
-[[optimaler]], [[optimales]], [[optimale]], [[optimalen]], [[optimalem]], [[optimalerer]], [[optimaleres]], [[optimalere]], [[optimaleren]], [[optimalerem]], [[optimalstener]], [[optimalstenes]], [[optimalstene]], [[optimalstenen]], [[optimalstenem]], [[größtmöglich]], [[höchstmögliche]]
+[[optimaler]], [[optimales]], [[optimale]], [[optimalen]], [[optimalem]], [[optimalerer]], [[optimaleres]], [[optimalere]], [[optimaleren]], [[optimalerem]], [[optimalstener]], [[optimalstenes]], [[optimalstene]], [[optimalstenen]], [[optimalstenem]], [[größtmöglich]], [[höchstmögliche]], [[positiv]]

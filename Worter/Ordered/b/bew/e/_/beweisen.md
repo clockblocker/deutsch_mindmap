@@ -1,8 +1,9 @@
 😤 [[beweisen]], [bəˈvaɪ̯zn̩] | [[bewies]], haben [[bewiesen]]
 
 ---
-*[[C1-Lesen-T1-001-Text#^37|^]]* Das Team um Volk (8) [[verlässt]] zwar auf Hundenasen, weil die ihre [[Eignung]] zum [[Aufspüren]] von Krankheiten aller Art [[bewiesen]] hätten. ^37
+*[[C1-Lesen-T1-001-Text#^37|^]]* Das Team um Volk (8) [[verlässt]] zwar auf Hundenasen, weil die ihre [[Eignung]] zum [[Aufspüren]] von Krankheiten aller Art [[bewiesen]] hätten
 
+*[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]
 
 *[[C1-Hoehen-T1-201-Text#^22|^]]* [[Verkörpert]] werden sie von Alexandra Heilmann und Marco Rufbach, eine [[Auswahl]], mit der Regisseur Eric Hofmann ein [[glückliches]] [[Händchen]] [[bewiesen]] hat
 

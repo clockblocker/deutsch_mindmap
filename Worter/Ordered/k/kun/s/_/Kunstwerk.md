@@ -1,1 +1,1 @@
-, [[Werk]], [[Stillleben]], [[Einzelausstellung]], [[künstlerischer]], [[Kunstgegenstand]], [[Malversuch]]
+, [[Werk]], [[Stillleben]], [[Einzelausstellung]], [[künstlerischer]], [[Kunstgegenstand]], [[Malversuch]], [[künstlich]]

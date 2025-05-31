@@ -4,8 +4,7 @@
 
 Here is the extracted and corrected content from the image in your preferred format:
 
-**Nachhaltig konsumieren – aber wie?  
-Wie oder was soll ich kaufen?**  
+**Nachhaltig konsumieren – aber wie? Wie oder was soll ich kaufen?**  
 - Erklären Sie, welche Kriterien dem Erwerb von Gebrauchsgegenständen zugrunde liegen könnten.  
 - Argumentieren Sie anhand eines Beispiels, welche Vorteile nachhaltiges Einkaufen bringen kann.  
 - Nennen Sie Gründe, die gegen den Kauf neuer Dinge sprechen könnten.  

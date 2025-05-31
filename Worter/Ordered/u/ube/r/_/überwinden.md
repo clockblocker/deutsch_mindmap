@@ -3,6 +3,7 @@
 haben [[überwunden]]
 
 ---
+*[[bro-schrieben-c1-t1-001#^4|^]]* Sportforscher aus den USA [[behaupten]], es gebe natürliche Grenzen eines Körpers, die sich nicht ohne künstlich produzierte Hormone [[überwinden]] `lassen`
 
 Wenn du eine Bändigerin sein willst, musst du deine Angst [[überwinden]].
 

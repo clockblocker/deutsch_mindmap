@@ -15,4 +15,4 @@ time
 ---
 
 #Substantiv #Feminin
-, [[Endzeitvision]], [[Zwischenzeit]]
+, [[Endzeitvision]], [[Zwischenzeit]], [[Erholungszeit]]

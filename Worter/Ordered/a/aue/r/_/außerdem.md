@@ -1,6 +1,7 @@
 🔍 [[außerdem]], [ˈaʊ̯səɐ̯ˌdem]
 
 ---
+*[[bro-schrieben-c1-t1-001#^6|^]]* [[Außerdem]] sei die [[positiv]]e [[Wirkung]] des Somatotropin-Hormons bekannt, weil es die [[Erholungsphase]] [[wesentlich]] [[verkürzt]]
 
 [[Außerdem]] kombinieren wir Wörter wie *gehen* mit Wörtern wie *an* oder *nach* (_angehen_, *nachgehen*).
 

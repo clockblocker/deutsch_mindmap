@@ -26,4 +26,4 @@ advantageous, beneficial
 Adjektive: [[vorteilhaft]], [[vorteilhafter]], [[vorteilhaftest]]
 
 ---
-[[vorteilhafter]], [[vorteilhaftes]], [[vorteilhafte]], [[vorteilhaften]], [[vorteilhaftem]], [[vorteilhafterer]], [[vorteilhafteres]], [[vorteilhaftere]], [[vorteilhafteren]], [[vorteilhafterem]], [[vorteilhaftester]], [[vorteilhaftestes]], [[vorteilhafteste]], [[vorteilhaftesten]], [[vorteilhaftestem]], [[wünschenswert]], [[zeitsparend]], [[lohnenswert]]
+[[vorteilhafter]], [[vorteilhaftes]], [[vorteilhafte]], [[vorteilhaften]], [[vorteilhaftem]], [[vorteilhafterer]], [[vorteilhafteres]], [[vorteilhaftere]], [[vorteilhafteren]], [[vorteilhafterem]], [[vorteilhaftester]], [[vorteilhaftestes]], [[vorteilhafteste]], [[vorteilhaftesten]], [[vorteilhaftestem]], [[wünschenswert]], [[zeitsparend]], [[lohnenswert]], [[positiv]]

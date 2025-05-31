@@ -50,3 +50,4 @@ D: dem [[Bezug]], den [[Bezügen]]
 , [[Abonnement]], [[Schulabgänger]], [[Hinsicht]]
 
 #Maskulin, [[miteinbeziehen]], [[diesbezüglich]]
+, [[Einnahme]]

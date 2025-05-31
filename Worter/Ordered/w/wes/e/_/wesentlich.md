@@ -6,6 +6,8 @@
 ---
 [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] = [[wesentlich]] = [[bedeutend]]
 
+*[[bro-schrieben-c1-t1-001#^6|^]]* [[Außerdem]] sei die [[positiv]]e [[Wirkung]] des Somatotropin-Hormons bekannt, weil es die [[Erholungsphase]] [[wesentlich]] [[verkürzt]]
+
 *[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en Wissen über [[Heilkunde]] [[hierzulande]] und international wuchs
 
 10 Herr Hansen ist der Meinung, dass ein bedingungsloses Grundeinkommen [[wesentlich]] höher als 1200 Euro monatlich sein müsste

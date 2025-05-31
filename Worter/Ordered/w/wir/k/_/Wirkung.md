@@ -1,15 +1,13 @@
-
 --> [[🗣️ Ingredient-Meinung]] <--
 
 ✨ 🔴 die [[Wirkung]], [ˈvɪʁkʊŋ]
 die [[Wirkungen]]
 
 ---
-, [[Auswirkung]], [[Anlass]]
-, [[Grund]]
+*[[bro-schrieben-c1-t1-001#^6|^]]* [[Außerdem]] sei die [[positiv]]e [[Wirkung]] des Somatotropin-Hormons bekannt, weil es die [[Erholungsphase]] [[wesentlich]] [[verkürzt]]
 
 ---
-= [[Effekt]], [[Auswirkung]], [[Resultat]]
+= [[Effekt]], [[Auswirkung]], [[Resultat]], [[Anlass]]
 ≈ [[Ergebnis]], [[Konsequenz]], [[Einfluss]]
 ≠ [[Ursache]], [[Grund]], [[Anlass]]
 

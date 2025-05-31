@@ -38,3 +38,4 @@ Morpheme: [[er]], [[leicht]], [[er]], [[n]]
 
 Partizip I: [[erleichternd]], Partizip II: [[erleichtert]]
 [[erleichtern]] - [[er]] = [[leichtern]], [[behindern]], [[Erleichterung]], [[beklemmen]], [[verschärfen]]
+, [[beschleunigen]]

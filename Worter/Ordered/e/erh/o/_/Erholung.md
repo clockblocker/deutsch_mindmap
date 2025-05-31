@@ -37,3 +37,4 @@ D: der [[Erholung]], den [[Erholungen]]
 
 #Feminin
 , [[Bauarbeit]], [[Überlastung]], [[Trauma]], [[Heilung]]
+, [[Erholungszeit]], [[Erholungsphase]]

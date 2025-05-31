@@ -1,4 +1,4 @@
-🟢 📊 die [[Zulassungsgrenze]], [t͡suˈlasʊŋsˌɡʁɛnt͡sə]
+📊 die [[Zulassungsgrenze]], [t͡suˈlasʊŋsˌɡʁɛnt͡sə]
 die [[Zulassungsgrenzen]]
 
 ---
@@ -29,3 +29,5 @@ D: der [[Zulassungsgrenze]], den [[Zulassungsgrenzen]]
 
 ---
 [[zulassen]], [[Zulassung]], [[Grenze]], [[Zulassungsbeschränkung]], [[Aufnahmeverfahren]]
+
+#Feminin 

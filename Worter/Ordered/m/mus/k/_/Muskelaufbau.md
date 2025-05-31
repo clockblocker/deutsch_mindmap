@@ -2,8 +2,9 @@
 kein Plural
 
 ---
+*[[bro-schrieben-c1-t1-001#^5|^]]* Dazu gehöre das Testosteron-Hormon, das den [[Muskelaufbau]] [[beschleunigt]]
 
-_[[C1-Lesen-T2-102-Text#^11|^]]_ Durch regelmäßiges Joggen und Radfahren komme es [[ebenfalls]] zum [[Muskelaufbau]], auch wenn der nicht so sichtbar ist. ^11
+_[[C1-Lesen-T2-102-Text#^11|^]]_ Durch regelmäßiges Joggen und Radfahren komme es [[ebenfalls]] zum [[Muskelaufbau]], auch wenn der nicht so sichtbar ist
 
 ---
 
@@ -32,3 +33,5 @@ A: den [[Muskelaufbau]], die [[Muskelaufbauten]]
 G: des [[Muskelaufbaus]], der [[Muskelaufbauten]]
 D: dem [[Muskelaufbau]], den [[Muskelaufbauten]]
 , [[sichtbar]]
+
+#Maskulin 

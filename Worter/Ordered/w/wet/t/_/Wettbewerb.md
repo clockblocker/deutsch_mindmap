@@ -4,7 +4,9 @@ die [[Wettbewerbe]]
 ---
 *[[C1-Lesen-T4-102-Text#^17|^]]* Sollten dann bestimmte Bereiche noch ins [[Ausland]] [[verlagert]] werden, wegen eines [[niedrigeren]] [[Lohnniveaus]] und einer billigeren [[Güterproduktion]], [[entsteht]] gegenüber [[einheimisch]]en Firmen ein klarer [[Exportvorteil]], was zu einem [[ungleich]]en [[Wettbewerb]] schafft
 
-`gegen` [[unlauteren]] [[Wettbewerb]] = `für` [[ehrlich]]e Konkurrenz und [[Verbraucherschutz]]
+`gegen` [[unlauter]]en [[Wettbewerb]] = `für` [[ehrlich]]e Konkurrenz und [[Verbraucherschutz]]
+
+*[[bro-schrieben-c1-t1-001#^1|^]]* Ich war selbst während meiner Schulzeit Teilnehmer an einem sportlichen [[Wettbewerb]] und habe gegen die Sportler gekämpft, die hormonelle [[Aufputschmittel]] [[eingenommen]] haben und dafür disqualifiziert wurden
 
 *[[C1-Hoehen-T4-100-Text#^11|^]]* In Deutschland wurde sie [[inzwischen]] in das Gesetz gegen [[unlauteren]] [[Wettbewerb]] [[aufgenommen]], ein Gesetz für [[ehrliche]] Konkurrenz und Verbraucherschutz, etwas, was [[bisher]] in der digitalen Welt noch zu [[wenig]] [[berücksichtigt]] wird
 

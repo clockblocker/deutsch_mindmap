@@ -3,6 +3,8 @@
 ---
 Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann
 
+Dazu kommt auch, dass manche [[Art]]en von [[Doping]] die [[Erholungszeit]] [[positiv]] [[beeinflussen]] können
+
 *[[C1-Hoehen-T4-100-Text#^12|^]]* [[Verschiedene]] Studien über den [[Einfluss]] von Online-[[Bewertung]]en auf unser [[Kaufverhalten]] haben gezeigt, dass mehr als zwei Drittel aller [[Kaufentscheidung]]en sich von [[abgegebenen]] [[Bewertung]]en [[beeinflussen]] [[lassen]]
 
 *[[C1-Hoehen-T4-100-Text#^12|^]]* Wir alle lassen uns von positiven [[Bewertung]]en im Internet [[beeinflussen]], beim Kauf technischer Geräte, bei einem Restaurantbesuch oder beim [[Hotelaufenthalt]]

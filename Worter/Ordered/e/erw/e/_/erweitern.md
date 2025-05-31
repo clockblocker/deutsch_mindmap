@@ -5,6 +5,8 @@
 ---
 *[[009-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke [[einbringen]] – [[wodurch]] die Firma potenziell neue Partner und Kunden [[gewinnen]] kann
 
+*[[bro-schrieben-c1-t1-001#^2|^]]* Der wichtigste Grund für die [[Einnahme]] eines [[Dopingmittel]]s ist, die [[Leistungsfähigkeit]] zu erhöhen und die [[Grenze]] des menschlichen Organismus zu [[erweitern]]
+
 Die [[Regelung]]en zum [[Datenschutz]] werden [[erweitert]].  
 
 *[[C1-Hoehen-T4-100-Text#^3|^]]* Der Verbraucherschutz kann verbessert werden, da Deutschland sein [[Verbraucherschutzgesetz]] [[erweitert]] hat

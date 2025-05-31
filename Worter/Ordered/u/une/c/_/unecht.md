@@ -1,1 +1,1 @@
-, [[wahr]], [[digen]], [[echten]], [[echt]], [[natürlich]]
+, [[wahr]], [[digen]], [[echten]], [[echt]], [[natürlich]], [[künstlich]]

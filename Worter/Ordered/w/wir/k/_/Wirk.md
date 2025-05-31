@@ -1,1 +1,1 @@
-, [[wirken]], [[Auswirkung]], [[auswirken]], [[Auswirkung]], [[Wirkung]], [[bewirken]], [[verwirklichen]], [[entgegenwirken]], [[Wechselwirkung]], [[wirksam]], [[wechselwirken]]
+, [[wirken]], [[Auswirkung]], [[auswirken]], [[Auswirkung]], [[Wirkung]], [[bewirken]], [[verwirklichen]], [[entgegenwirken]], [[Wechselwirkung]], [[wirksam]], [[wechselwirken]], [[Wirkstoff]]

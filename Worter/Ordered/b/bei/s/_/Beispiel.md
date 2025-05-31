@@ -1,11 +1,9 @@
 🔵 das [[Beispiel]]
 die [[Beispiele]]
 
-Beispiele:
+---
+*[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]
 
-- Ein gutes [[Beispiel]] für Mut ist, jemandem zu helfen.
-- Die Lehrerin erklärt es mit einem [[Beispiel]].
-- Wir können viele [[Beispiele]] für dieses Phänomen finden.
 
 ---
 Synonyme:

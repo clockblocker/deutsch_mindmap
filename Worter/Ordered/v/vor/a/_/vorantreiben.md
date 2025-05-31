@@ -1,1 +1,1 @@
-, [[treiben]], [[fördern]], [[verzögern]], [[voranbringen]], [[forcieren]]
+, [[treiben]], [[fördern]], [[verzögern]], [[voranbringen]], [[forcieren]], [[beschleunigen]]

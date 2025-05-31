@@ -2,9 +2,11 @@
 die [[Grenzen]]
 
 ---
-An der [[Grenze]] kontrolliert die Polizei die Autos.
- 
- [[Zulassungsgrenze]].
+An der [[Grenze]] kontrolliert die Polizei die Autos
+
+*[[bro-schrieben-c1-t1-001#^2|^]]* Der wichtigste Grund für die [[Einnahme]] eines [[Dopingmittel]]s ist, die [[Leistungsfähigkeit]] zu erhöhen und die [[Grenze]] des menschlichen Organismus zu [[erweitern]]
+
+[[Zulassungsgrenze]]
 
 219. Die Bundesrepublik Deutschland hat die [[Grenzen]] von heute seit … (71%)
 	- [ ] 1933.

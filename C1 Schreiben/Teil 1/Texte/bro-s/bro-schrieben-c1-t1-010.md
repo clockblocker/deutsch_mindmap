@@ -2,8 +2,6 @@
 
 ---
 
-Here is the extracted and corrected content from the image in your preferred format:
-
 **Fanatismus**  
 - Argumentieren Sie, warum es gut sein kann, eine Leidenschaft für ein Thema zu entwickeln.  
 - Nennen Sie Lebensbereiche, in denen intensive Begeisterung zu Fanatismus ausarten kann.  

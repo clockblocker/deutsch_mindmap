@@ -4,6 +4,8 @@
 ---
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
 
+*[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]
+
 [[Worin]] [[besteht]] die [[Reform]] der [[Preisgestaltung]]?
 
 *[[C1-Hoehen-T4-100-Text#^6|^]]* Internetplattformen müssen [[zusätzlich]] [[angeben]], welche [[Geschäftsbeziehung]]en zum [[Anbieter]] [[bestehen]]

@@ -36,4 +36,4 @@ D: der [[Arbeitszeit]], den [[Arbeitszeiten]]
 
 
 , [[Elternzeit]], [[Arbeitsplatz]]
-, [[Arbeitsauftrag]], [[Arbeitsstelle]], [[Arbeitszeitmodell]], [[Arbeitsform]], [[Mittagspause]]
+, [[Arbeitsauftrag]], [[Arbeitsstelle]], [[Arbeitszeitmodell]], [[Arbeitsform]], [[Mittagspause]], [[Erholungszeit]]

@@ -28,4 +28,4 @@ G: der [[Wirkungsweise]], der [[Wirkungsweisen]]
 D: der [[Wirkungsweise]], den [[Wirkungsweisen]]
 
 
-#Feminin 
+#Feminin , [[Wirkstoff]]

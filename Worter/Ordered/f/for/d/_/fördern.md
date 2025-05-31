@@ -49,4 +49,4 @@ PI: [[fördernd]], PII: [[gefördert]], Zu+inf: [[zufördern]]
 ---
 [[Förderung]], [[Förderer]], [[Förderung]], [[förderlich]], [[Förderband]]
 , [[schaden]], [[unterstützen]]
-, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]], [[steigern]], [[beitragen]], [[verstärken]], [[ausbauen]], [[Fördermittel]], [[Förderbetrag]], [[betreiben]], [[forcieren]], [[eindämmen]], [[hochtreiben]], [[bereichern]], [[entgegenwirken]], [[weiterhelfen]], [[unterbinden]]
+, [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]], [[steigern]], [[beitragen]], [[verstärken]], [[ausbauen]], [[Fördermittel]], [[Förderbetrag]], [[betreiben]], [[forcieren]], [[eindämmen]], [[hochtreiben]], [[bereichern]], [[entgegenwirken]], [[weiterhelfen]], [[unterbinden]], [[beschleunigen]]

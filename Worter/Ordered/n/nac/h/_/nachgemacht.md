@@ -1,1 +1,1 @@
-, [[digen]]
+, [[digen]], [[künstlich]]

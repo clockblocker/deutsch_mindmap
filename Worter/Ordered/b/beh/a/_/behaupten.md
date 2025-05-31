@@ -4,6 +4,7 @@
 🗣️ [[behaupten]], [bəˈhaʊ̯ptən] | [[behauptete]], haben [[behauptet]]
 
 ---
+*[[bro-schrieben-c1-t1-001#^4|^]]* Sportforscher aus den USA [[behaupten]], es gebe natürliche Grenzen eines Körpers, die sich nicht ohne künstlich produzierte Hormone [[überwinden]] lassen
 
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]]. [[Zumindest]] [[behauptet]] das eine [[Redewendung]]
 

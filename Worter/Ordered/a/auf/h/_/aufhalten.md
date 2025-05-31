@@ -69,4 +69,4 @@ sie, [[halten auf]], [[hielten auf]], [[halten auf]], [[hielten auf]], [[halten 
 Adjektive: [[aufhaltend]], [[aufhaltender]], [[aufhaltendst]]
 
 ---
-[[aufhaltender]], [[aufhaltendes]], [[aufhaltende]], [[aufhaltenden]], [[aufhaltendem]], [[aufhaltenderer]], [[aufhaltenderes]], [[aufhaltendere]], [[aufhaltenderen]], [[aufhaltenderem]], [[aufhaltendster]], [[aufhaltendstes]], [[aufhaltendste]], [[aufhaltendsten]], [[aufhaltendstem]], [[voranbringen]], [[festhalten]], [[unterbinden]], [[entscheiden]]
+[[aufhaltender]], [[aufhaltendes]], [[aufhaltende]], [[aufhaltenden]], [[aufhaltendem]], [[aufhaltenderer]], [[aufhaltenderes]], [[aufhaltendere]], [[aufhaltenderen]], [[aufhaltenderem]], [[aufhaltendster]], [[aufhaltendstes]], [[aufhaltendste]], [[aufhaltendsten]], [[aufhaltendstem]], [[voranbringen]], [[festhalten]], [[unterbinden]], [[entscheiden]], [[beschleunigen]]

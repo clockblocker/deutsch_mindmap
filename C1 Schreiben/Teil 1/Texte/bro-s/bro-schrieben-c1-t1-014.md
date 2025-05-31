@@ -2,10 +2,7 @@
 
 ---
 
-Here is the extracted and corrected content from the image in your preferred format:
-
-**Gute Erziehung – gibt es das?  
-Wie kann Erziehung gelingen?**  
+**Gute Erziehung – gibt es das? Wie kann Erziehung gelingen?**  
 - Erklären Sie, nach welchen Kriterien die Erziehung von Kindern als geglückt betrachtet werden kann.  
 - Argumentieren Sie anhand eines Beispiels für einen guten Erziehungsstil.  
 - Nennen Sie Gründe, die dagegen sprechen könnten, junge Menschen durch Erziehung formen zu wollen.  

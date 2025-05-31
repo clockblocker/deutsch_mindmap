@@ -4,6 +4,7 @@ verkürzt, [fɛɐ̯ˈkʏʁtst], [[verkürzen]]
 nicht [[verlängert]]
 
 ---
+*[[bro-schrieben-c1-t1-001#^6|^]]* [[Außerdem]] sei die [[positiv]]e [[Wirkung]] des Somatotropin-Hormons bekannt, weil es die [[Erholungsphase]] [[wesentlich]] [[verkürzt]]
 
 Wenn man aber die Gespräche um 50 Prozent [[verkürzt]], spart man eine Menge\* Zeit.
 

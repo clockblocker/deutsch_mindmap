@@ -22,4 +22,4 @@ D: der [[Richtungsänderung]], den [[Richtungsänderungen]]
 
 ---
 [[richten]], [[Richtung]], [[Ausrichtung]], [[abwärts]], [[aufwärts]], [[vorwärts]]
-, [[fehlentwicklung]]
+, [[fehlentwicklung]], [[beschleunigen]]

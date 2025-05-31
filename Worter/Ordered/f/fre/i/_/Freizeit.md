@@ -40,3 +40,4 @@ G: der [[Freizeit]], -
 D: der [[Freizeit]], -
 
 #Feminin , [[Privatleben]], [[Berufsleben]], [[Meeting]], [[Kurs]], [[Spiel]], [[Bürosituation]], [[Urlaubstag]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]], [[Dienstreise]], [[Bildungsurlaub]], [[Hauptbeschäftigung]], [[Arbeitszeit]]
+, [[Erholungszeit]]

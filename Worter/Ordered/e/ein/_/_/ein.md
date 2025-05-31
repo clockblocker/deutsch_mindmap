@@ -14,4 +14,4 @@
 • Nominative: [[Artikels_/ein]]
 • Accusative: [[Artikels_/ein]]
 • Genitive: [[eines]]
-• Dative: [[einem]], [[auseinandersetzen]], [[einwenden]], [[Markteinführung]], [[einnicken]], [[hineinversetzen]]
+• Dative: [[einem]], [[auseinandersetzen]], [[einwenden]], [[Markteinführung]], [[einnicken]], [[hineinversetzen]], [[Einnahme]]

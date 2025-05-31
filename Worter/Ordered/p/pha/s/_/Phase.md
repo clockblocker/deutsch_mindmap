@@ -1,1 +1,1 @@
-, [[Weile]], [[Kindesalter]], [[Zyklus]], [[Entwicklungsstufe]]
+, [[Weile]], [[Kindesalter]], [[Zyklus]], [[Entwicklungsstufe]], [[Erholungsphase]]
