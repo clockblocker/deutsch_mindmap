@@ -33,3 +33,4 @@ D: dem [[Anteil]], den [[Anteilen]]
 
 #Maskulin 
 
+, [[Sauerstoffniveau]]

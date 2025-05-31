@@ -1,2 +1,2 @@
 
-, [[Begleiter]], [[Kontrahent]]
+, [[Begleiter]], [[Kontrahent]], [[Gegner]]

@@ -30,4 +30,4 @@ G: des [[Sauerstoffs]], -
 D: dem [[Sauerstoff]], -
 
 
-#Maskulin , [[Kohlendioxid]]
+#Maskulin , [[Kohlendioxid]], [[Sauerstoffniveau]]

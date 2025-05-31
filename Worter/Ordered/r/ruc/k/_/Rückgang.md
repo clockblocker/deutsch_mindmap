@@ -38,4 +38,4 @@ G: des [[Rückgangs]], der [[Rückgänge]]
 D: dem [[Rückgang]], den [[Rückgängen]]
 
 
-#Maskulin 
+#Maskulin , [[Steigerung]]

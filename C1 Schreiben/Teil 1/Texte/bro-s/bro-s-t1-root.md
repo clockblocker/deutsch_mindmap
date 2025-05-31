@@ -2,7 +2,7 @@
 
 ---
 [[bro-s-t1-root]]
-- [ ] [[bro-schrieben-c1-t1-001|001]] Hohlkiestingssporte und Doping
+- [x] [[bro-schrieben-c1-t1-001|001]] Hohlkiestingssporte und Doping
 - [ ] [[bro-schrieben-c1-t1-002|002]] Online-Sprachkurse
 - [ ] [[bro-schrieben-c1-t1-003|003]] Für die Arbeit das Land wechseln
 - [ ] [[bro-schrieben-c1-t1-004|004]] Auswirkungen des demografischen Wandels

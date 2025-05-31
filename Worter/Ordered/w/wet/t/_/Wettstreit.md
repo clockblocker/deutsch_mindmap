@@ -1,2 +1,2 @@
 , [[Wettbewerb]]
-, [[Konkurrenz]]
+, [[Konkurrenz]], [[Konkurrenzkampf]]

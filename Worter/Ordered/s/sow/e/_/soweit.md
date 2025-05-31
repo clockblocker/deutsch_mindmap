@@ -3,7 +3,9 @@
 ---
 Nein, es reicht! Ich hab diese Sequenz den ganzen Tag lang geübt. Bringt mir die nächste bei! Ich bin schon lange [[soweit]]
 
-[[nackt.md#^3|^]]     ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]] ^3
+[[Soweit]] meine [[Überlegung]]en zum Thema. Ich hoffe, dass ihr meinen [[Beitrag]] interessant findet und freue mich auf eure [[Rückmeldung]]en.
+
+*[[nackt.md#^3|^]]* ohne [[Bekleidung]], [[Bedeckung]] ([[soweit]] sie im [[Allgemeinen]] [[üblich]] ist); [[unbekleidet]], [[unbedeckt]]
 
 [[Soweit]] ich verstehe, muss ich wirklich gut auf Hören/Lesen [[vorbereitet]] sein.
 

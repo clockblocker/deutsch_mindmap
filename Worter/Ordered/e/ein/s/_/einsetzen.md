@@ -3,6 +3,7 @@
 🖊️ [[einsetzen]] | [[setzte ein]], haben [[eingesetzt]]
 
 ---
+*[[bro-schrieben-c1-t1-001#^11|^]]* Eine andere Möglichkeit wäre, eine [[abwechslungsreich]]e [[Methode]] aus dem Bereich “Massage” [[einzusetzen]], um den Körper besser zu [[pflegen]]
 
 [[einsetzen|Setzen]] Sie die richtigen Wörter in die Lücken im Satz ein.
 

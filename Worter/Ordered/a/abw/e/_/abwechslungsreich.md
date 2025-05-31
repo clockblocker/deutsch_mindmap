@@ -5,6 +5,8 @@
 ---
 Hier wird [[bewertet]], ob Ihr Wortschatz und die Strukturen, die Sie [[verwenden]], [[angemessen]] und [[abwechslungsreich]] sind. E
 
+*[[bro-schrieben-c1-t1-001#^11|^]]* Eine andere Möglichkeit wäre, eine [[abwechslungsreich]]e [[Methode]] aus dem Bereich “Massage” [[einzusetzen]], um den Körper besser zu [[pflegen]]
+
 ---
 = [[vielfältig]], [[variabel]], [[bunt]]
 ≈ [[unterschiedlich]], [[abwechselnd]], [[verschiedenartig]]

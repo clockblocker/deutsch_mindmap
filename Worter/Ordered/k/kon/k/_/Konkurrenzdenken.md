@@ -1,1 +1,1 @@
-, [[Teamfähigkeit]]
+, [[Teamfähigkeit]], [[Konkurrenzkampf]]

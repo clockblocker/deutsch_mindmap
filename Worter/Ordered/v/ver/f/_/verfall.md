@@ -7,4 +7,4 @@
 🏚️ <span class="custom-color-for-der">der</span> [[Verfall]]
 *Form of a* *Verb* 🏚️ [[verfallen]]
 
-[[melken]], [[Gentrifizierung]]
+[[melken]], [[Gentrifizierung]], [[Steigerung]]

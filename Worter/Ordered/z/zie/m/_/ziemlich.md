@@ -8,6 +8,8 @@ nicht [[völlig]], nicht [[ganz]]
 ---
 Für andere kann das [[ziemlich]] nervig sein.
 
+*[[bro-schrieben-c1-t1-001#^9|^]]* Das ist [[ziemlich]] [[regelmäßig]] im Boxsport zu [[beobachten]]
+
 *[[C1-Hoehen-T2-101-Text#^6|^]]* Hm, das klingt ja [[erstmal]] so, als ob wir Individuen fast keinen [[Einfluss]] nehmen könnten. Ich muss [[zugeben]], dass ich das schon [[ziemlich]] [[entmutigend]] finde
 
 Das [[anhört|hört]] sich alles [[ziemlich]] kompliziert an.

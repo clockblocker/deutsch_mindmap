@@ -2,7 +2,9 @@
 die [[Beiträge]]
 
 ---
-Ich verfolge schon seit [[geraumer]] Zeit eure Beiträge zum Home-Office und möchte nun auch etwas dazu schreiben.
+Ich verfolge schon seit [[geraumer]] Zeit eure Beiträge zum Home-Office und möchte nun auch etwas dazu schreiben
+
+[[Soweit]] meine [[Überlegung]]en zum Thema. Ich hoffe, dass ihr meinen [[Beitrag]] interessant findet und freue mich auf eure [[Rückmeldung]]en.
 
 *[[C1-Hoehen-T1-301-Text#^4|^]]* Aus vielen [[Beiträgen]] wie auch aus den Kommentaren und Beschreibungen der durch die Reportage [[führenden]] Klimaaktivistin und Meeresbiologin ergibt sich eine [[bedrohte]], fragile Welt
 

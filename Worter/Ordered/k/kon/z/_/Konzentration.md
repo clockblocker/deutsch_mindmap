@@ -28,4 +28,4 @@ G: der [[Konzentration]], der [[Konzentrationen]]
 D: der [[Konzentration]], den [[Konzentrationen]]
 
 
-#Feminin , [[Spezialisierung]], [[Schwerpunkt]], [[Ballung]]
+#Feminin , [[Spezialisierung]], [[Schwerpunkt]], [[Ballung]], [[Sauerstoffniveau]]

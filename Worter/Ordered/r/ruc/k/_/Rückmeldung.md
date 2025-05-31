@@ -2,7 +2,9 @@
 die [[Rückmeldungen]]
 
 ---
-*[[03-C1-Schreiben-T2-M#^13|^]]* Bitte geben Sie mir eine kurze [[Rückmeldung]], damit wir, Ihr Einverständnis vorausgesetzt, die Veränderung möglichst bald vornehmen können. ^13
+*[[03-C1-Schreiben-T2-M#^13|^]]* Bitte geben Sie mir eine kurze [[Rückmeldung]], damit wir, Ihr Einverständnis vorausgesetzt, die Veränderung möglichst bald vornehmen können
+
+[[Soweit]] meine [[Überlegung]]en zum Thema. Ich hoffe, dass ihr meinen [[Beitrag]] interessant findet und freue mich auf eure [[Rückmeldung]]en.
 
 
 ---

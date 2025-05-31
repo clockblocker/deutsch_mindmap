@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "7003e0031e17fac3",
+            "id": "afecafc8f382a27d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "538a4713e9f29358",
+            "id": "ad088e493341135a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "4d86e11eef42e57d",
+            "id": "64ea0b15ba1d84b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,189 +64,21 @@
             }
           },
           {
-            "id": "f270acb2bcd511b7",
+            "id": "57caa7a80b02a619",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/C1-Schreiben-Root.md",
+                "file": "Worter/Pferdesport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Schreiben-Root"
-            }
-          },
-          {
-            "id": "5f7aaabbc62b4e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-s-t1-root"
-            }
-          },
-          {
-            "id": "ba9d572e9edc829f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-001.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-schrieben-c1-t1-001"
-            }
-          },
-          {
-            "id": "fb1804ca8e352c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-s-t1-root"
-            }
-          },
-          {
-            "id": "1659c272619a3d09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/C1-Schreiben-Root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Schreiben-Root"
-            }
-          },
-          {
-            "id": "81c87afa083e476b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-s-t1-root"
-            }
-          },
-          {
-            "id": "c3758ad4bbcfbf93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-001.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-schrieben-c1-t1-001"
-            }
-          },
-          {
-            "id": "4fee31b4eef90d1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ordered/a/aue/r/_/außerdem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "außerdem"
-            }
-          },
-          {
-            "id": "779cd40dc3bed2eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ordered/p/pos/i/_/positiv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "positiv"
-            }
-          },
-          {
-            "id": "501e098daedcf2e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ordered/w/wir/k/_/Wirkung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wirkung"
-            }
-          },
-          {
-            "id": "fcbdc65de10709a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Erholungsphase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Erholungsphase"
-            }
-          },
-          {
-            "id": "a945ee8e94c42d07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ordered/w/wes/e/_/wesentlich.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wesentlich"
-            }
-          },
-          {
-            "id": "7e44a5371a7547b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ordered/v/ver/k/_/verkürzt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "verkürzt"
+              "title": "Pferdesport"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -299,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -319,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worter/Ordered/v/ver/k/_/verkürzt.md",
+                "file": "C1 Schreiben/C1-Schreiben-Root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for verkürzt"
+              "title": "Backlinks for C1-Schreiben-Root"
             }
           },
           {
@@ -397,34 +230,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e44a5371a7547b3",
+  "active": "64ea0b15ba1d84b6",
   "lastOpenFiles": [
-    "Worter/Ordered/a/abg/e/abgekürzt.md",
-    "Worter/Ordered/w/wes/e/_/wesentlich.md",
-    "Worter/Erholungsphase.md",
-    "Worter/Ordered/b/bel/a/Belastungsphase.md",
-    "Worter/Ordered/r/reg/e/Regenerationsphase.md",
-    "Worter/Ordered/e/erh/o/Erholungsphasen.md",
-    "Worter/Ordered/w/wir/k/_/Wirkung.md",
-    "Worter/Ordered/p/pos/i/_/positiv.md",
-    "Worter/Ordered/a/aue/r/_/außerdem.md",
+    "Worter/Ordered/e/ein/n/_/Einnahme.md",
     "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-001.md",
-    "Worter/beschleunigt.md",
-    "Worter/Ordered/b/bes/c/_/beschleunigen.md",
-    "Worter/Ordered/m/mus/k/_/Muskelaufbau.md",
-    "Worter/Ordered/b/bes/c/beschleunigendstem.md",
-    "Worter/Ordered/b/bes/c/beschleunigendsten.md",
-    "Worter/Ordered/b/bes/c/beschleunigendste.md",
-    "Worter/Ordered/b/bes/c/beschleunigendstes.md",
-    "Worter/Ordered/b/bes/c/beschleunigendster.md",
-    "Worter/Ordered/b/bes/c/beschleunigenderem.md",
-    "Worter/Ordered/b/bes/c/beschleunigenderen.md",
-    "Worter/Ordered/b/bes/c/beschleunigendere.md",
-    "Worter/Ordered/b/bes/c/beschleunigenderes.md",
-    "Worter/Ordered/b/bes/c/beschleunigenderer.md",
-    "Worter/Ordered/b/bes/c/beschleunigendem.md",
-    "Worter/Ordered/b/bes/c/beschleunigenden.md",
-    "Worter/Ordered/b/bes/c/beschleunigende.md",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
+    "Worter/Ordered/s/sow/e/_/soweit.md",
+    "Worter/Ordered/b/bei/t/_/Beitrag.md",
+    "Worter/Ordered/r/ruc/k/_/Rückmeldung.md",
+    "Worter/Ordered/p/pfl/e/_/pflegen.md",
+    "Worter/Ordered/a/abw/e/_/abwechslungsreiche.md",
+    "Worter/Ordered/a/abw/e/_/abwechslungsreich.md",
+    "Worter/Ordered/m/met/h/_/Methode.md",
+    "Worter/Ordered/e/ein/z/_/einzusetzen.md",
+    "Worter/Ordered/e/ein/s/_/einsetzen.md",
+    "Worter/Ordered/v/vor/s/_/Vorschlag.md",
+    "Worter/Ordered/s/ste/i/_/Steigerung.md",
+    "Worter/Dekompressionskammer.md",
+    "Worter/Ordered/l/lei/s/_/Leistung.md",
+    "Worter/Ordered/l/lie/g/_/liegen.md",
+    "Worter/Sauerstoffniveau.md",
+    "Worter/Ordered/s/sau/e/Sauerstoffversorgung.md",
+    "Worter/Ordered/s/sti/c/Stickstoffgehalt.md",
+    "Worter/Ordered/p/peg/e/Pegel.md",
+    "Worter/Ordered/p/peg/e",
+    "Worter/Ordered/p/peg",
+    "Worter/Ordered/s/sau/e/Sauerstoffniveaus.md",
+    "Worter/Ordered/k/kom/p/kompression.md",
+    "Worter/Ordered/d/dek/o/dekomprimieren.md",
+    "Worter/Ordered/b/beh/a/Behandlungsraum.md",
+    "Worter/Ordered/s/sau/e/Sauerstoffkammer.md",
     "Worter/Ordered/a/arz/n",
     "Worter/Ordered/d/dop/e",
     "Worter/Ordered/p/pla/c",
@@ -433,8 +268,6 @@
     "Worter/Ordered/p/put/s",
     "Worter/Ordered/d/dro/g",
     "C1 Schreiben/Teil 2/Texte/Bro-s",
-    "C1 Schreiben/Teil 1/Texte/bro-s/untouched",
-    "C1 Schreiben/Teil 1/Texte/bro-s",
     "Anhänge/Pasted image 20250528071457.png",
     "Anhänge/Pasted image 20250528065432.png",
     "Anhänge/Pasted image 20250528055347.png",

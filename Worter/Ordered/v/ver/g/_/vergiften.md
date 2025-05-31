@@ -79,3 +79,4 @@ Konjunktiv II:
 - Wenn sie skrupellos wären, [[vergifteten]] sie die Menschen.
 
 , [[verschmutzen]], [[Gift]]
+, [[Vergiftung]]

@@ -1,1 +1,1 @@
-das [[Pferd]]
+das [[Pferd]], [[Pferdesport]]

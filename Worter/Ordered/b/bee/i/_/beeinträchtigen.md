@@ -3,8 +3,9 @@
 😟 [[beeinträchtigen]], [bəˈʔiːntʁɛçtɪɡn̩](https://youglish.com/pronounce/beeinträchtigen/german) → [[beeinträchtigte]] → haben [[beeinträchtigt]]
 
 ---
-Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]. ^5
+Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]
 
+*[[bro-schrieben-c1-t1-001#^7|^]]* Es gibt auch [[weiter]]e [[Aspekt]]e [[außer]] Doping, die einen [[fair]]en [[Konkurrenzkampf]] [[beeinträchtigen]] könnten, [[nämlich]] eine [[Vergiftung]] des [[Gegner]]s, z. B. im [[Pferdesport]]
 
 Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration.
 

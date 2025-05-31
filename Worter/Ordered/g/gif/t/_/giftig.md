@@ -37,3 +37,4 @@ Tags:
 
 Morphems:
 [[gift]], [[ig]], [[essbar]], [[Gift]]
+, [[Vergiftung]]

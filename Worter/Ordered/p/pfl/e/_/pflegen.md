@@ -2,6 +2,7 @@
 🌿 [[pflegen]], [ˈpfleːɡən] | [[pflegte]], haben [[gepflegt]]
 
 ---
+*[[bro-schrieben-c1-t1-001#^11|^]]* Eine andere Möglichkeit wäre, eine [[abwechslungsreiche]] [[Methode]] aus dem Bereich “Massage” [[einzusetzen]], um den Körper besser zu [[pflegen]]
 
 _[[Lektionen/Bekker/verben/2#^2|^]]_ Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]
 

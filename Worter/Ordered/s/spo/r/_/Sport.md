@@ -29,3 +29,4 @@ D: dem [[Sport]], den [[Sportarten]]
 ---
 
 [[sportlich]], [[sporttreiben]], [[Sportsgeist]], [[Sportler]], [[sporteln]], [[Bewegungsmangel]], [[Betriebssport]], [[Spiel]], [[Ausdauersport]], [[Ausdauersportler]], [[Langstreckenlauf]], [[Leistungssportler]], [[Leistungssport]], [[Spitzensportlerin]], [[Ausdauersportart]]
+, [[Pferdesport]]

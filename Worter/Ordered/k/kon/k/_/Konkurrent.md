@@ -1,2 +1,2 @@
 , [[Gegnern]]
-, [[Konkurrenz]], [[Mitbewerber]], [[Bewerber]], [[Kontrahent]], [[Kollege]]
+, [[Konkurrenz]], [[Mitbewerber]], [[Bewerber]], [[Kontrahent]], [[Kollege]], [[Konkurrenzkampf]], [[Gegner]]

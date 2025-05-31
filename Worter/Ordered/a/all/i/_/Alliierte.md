@@ -27,3 +27,5 @@ D: der [[Alliierten]], den [[Alliierten]]
 
 ---
 [[alliieren]], [[Allianz]], [[verbündet]], [[Bündnis]]
+
+#Feminin 

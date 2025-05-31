@@ -27,3 +27,6 @@ D: dem [[Begleiter]], den [[Begleitern]]
 
 ---
 [[begleiten]], [[Begleitung]], [[Begleitperson]], [[Begleitfahrzeug]], [[Begleitmusik]]
+
+
+#Maskulin 

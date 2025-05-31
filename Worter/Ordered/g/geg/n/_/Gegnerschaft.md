@@ -1,1 +1,1 @@
-, [[Gegnern]], [[Patenschaft]]
+, [[Gegnern]], [[Patenschaft]], [[Gegner]]

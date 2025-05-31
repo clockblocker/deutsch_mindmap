@@ -1,8 +1,7 @@
 🔴 😩 die [[Erschöpfung]], [ɛɐ̯ˈʃpœp͡fʊŋ]
 
 ---
-
-[[erholen.md#^1|^]] sich selbst aus der [[Erschöpfung]] [[zurückholen]] ^1
+[[erholen.md#^1|^]] sich selbst aus der [[Erschöpfung]] [[zurückholen]]
 
 ---
 
@@ -30,3 +29,5 @@ D: der [[Erschöpfung]], den [[Erschöpfungen]]
 
 [[erschöpfen]], [[erschöpft]], [[Erschöpfungszustand]]
 , [[Burnout]], [[Überlastung]], [[Leistungsabbau]]
+
+#Feminin 

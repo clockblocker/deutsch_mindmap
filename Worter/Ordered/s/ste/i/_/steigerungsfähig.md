@@ -1,1 +1,1 @@
-, [[steigern]]
+, [[steigern]], [[Steigerung]]

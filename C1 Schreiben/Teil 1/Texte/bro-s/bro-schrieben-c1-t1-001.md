@@ -22,8 +22,16 @@ Dazu kommt auch, dass manche [[Art]]en von Doping die [[Erholungszeit]] [[positi
 *[[bro-schrieben-c1-t1-001#^6|^]]* [[Außerdem]] sei die [[positiv]]e [[Wirkung]] des Somatotropin-Hormons bekannt, weil es die [[Erholungsphase]] [[wesentlich]] [[verkürzt]]. ^6
 
 
-Es gibt auch weitere Aspekte außer Doping, die einen fairen Konkurrenzkampf beeinträchtigen könnten, nämlich eine Vergiftung des Gegners, z. B. im Pferdesport. Hinzu kommt auch, dass der Ort eines Wettbewerbs ständig geändert werden kann, was zu Müdigkeit infolge vieler Reisen führt. Das ist ziemlich regelmäßig im Boxsport zu beobachten.
+*[[bro-schrieben-c1-t1-001#^7|^]]* Es gibt auch [[weiter]]e [[Aspekt]]e [[außer]] Doping, die einen [[fair]]en [[Konkurrenzkampf]] [[beeinträchtigen]] könnten, [[nämlich]] eine [[Vergiftung]] des [[Gegner]]s, z. B. im [[Pferdesport]]. ^7
 
-Ich würde einen Vorschlag zur Steigerung der Leistung ohne Dopingmittel unterbreiten. Eine Möglichkeit wäre, nach dem Training in einer Dekompressionskammer zu liegen, um das Sauerstoffniveau im Blut zu erhöhen. Eine andere Möglichkeit wäre, eine abwechslungsreiche Methode aus dem Bereich “Massage” einzusetzen, um den Körper besser zu pflegen.
+*[[bro-schrieben-c1-t1-001#^8|^]]* [[Hinzu]] [[kommt]] `auch`, dass der Ort eines [[Wettbewerb]]s ständig geändert werden kann, was zu [[Müdigkeit]] [[infolge]] vieler Reisen führt. ^8
 
-Soweit meine Überlegungen zum Thema. Ich hoffe, dass ihr meinen Beitrag interessant findet und freue mich auf eure Rückmeldungen.
+*[[bro-schrieben-c1-t1-001#^9|^]]* Das ist [[ziemlich]] [[regelmäßig]] im Boxsport zu [[beobachten]]. ^9
+
+
+*[[bro-schrieben-c1-t1-001#^10|^]]* Ich würde einen [[Vorschlag]] zur [[Steigerung]] der [[Leistung]] ohne Dopingmittel [[unterbreiten]]. Eine Möglichkeit wäre, nach dem Training in einer [[Dekompressionskammer]] zu [[liegen]], um das [[Sauerstoffniveau]] im Blut zu erhöhen. ^10
+
+*[[bro-schrieben-c1-t1-001#^11|^]]* Eine andere Möglichkeit wäre, eine [[abwechslungsreiche]] [[Methode]] aus dem Bereich “Massage” [[einzusetzen]], um den Körper besser zu [[pflegen]]. ^11
+
+
+[[Soweit]] meine [[Überlegung]]en zum Thema. Ich hoffe, dass ihr meinen [[Beitrag]] interessant findet und freue mich auf eure [[Rückmeldung]]en.

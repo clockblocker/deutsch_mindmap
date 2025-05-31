@@ -1,1 +1,1 @@
-, [[Versteigerung]], [[Aufsteiger]], [[steigern]], [[Qualitätssteigerung]], [[Preissteigerung]]
+, [[Versteigerung]], [[Aufsteiger]], [[steigern]], [[Qualitätssteigerung]], [[Preissteigerung]], [[Steigerung]]

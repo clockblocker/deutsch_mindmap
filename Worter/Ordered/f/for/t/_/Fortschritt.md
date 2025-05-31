@@ -29,4 +29,4 @@ D: dem [[Fortschritt]], den [[Fortschritten]]
 [[fortschrittlich]], [[fortschreiten]], [[voranschreiten]], [[progressiv]]
 , [[fehlentwicklung]], [[Karriere]], [[Niedergang]], [[Wachstum]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Technologie]], [[Wandel]]
 
-#Maskulin , [[Qualitätssteigerung]], [[Entwicklungsstufe]]
+#Maskulin , [[Qualitätssteigerung]], [[Entwicklungsstufe]], [[Steigerung]]

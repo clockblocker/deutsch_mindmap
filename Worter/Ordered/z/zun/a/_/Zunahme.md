@@ -30,4 +30,4 @@ G: der [[Zunahme]], der [[Zunahmen]]
 D: der [[Zunahme]], den [[Zunahmen]]
 
 
-#Feminin 
+#Feminin , [[Steigerung]]

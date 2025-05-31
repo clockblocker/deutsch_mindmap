@@ -5,6 +5,8 @@
 ---
 _Zuko [[beobachtet]] die Beiden mit einem Fernrohr._
 
+*[[bro-schrieben-c1-t1-001#^9|^]]* Das ist [[ziemlich]] [[regelmäßig]] im Boxsport zu [[beobachten]]
+
 *[[C1-Hoehen-T1-200-Text#^9|^]]* Die seit Jahrzehnten zu [[beobachtenden]] [[steigenden]] Temperaturen haben [[dazu]] geführt, dass zahlreiche Pflanzen und Tiere zu den [[jeweilig]]en [[Polen]] der Erde [[wandern]] oder sich in [[tiefere]] [[Gewässer]] [[zurückziehen]]. ^9
 
 

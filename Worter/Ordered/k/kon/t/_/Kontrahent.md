@@ -2,7 +2,7 @@
 die [[Kontrahenten]]
 
 ---
-*[[3  Ein Selbstversuch als Hobbybäuerin#^26|^]]* [[Immerhin]] stellte ich mich [[allwöchentlich]] dem Kampf gegen einen [[unerbittlichen]] [[Kontrahenten]]: das [[Unkraut]]. ^26
+*[[3  Ein Selbstversuch als Hobbybäuerin#^26|^]]* [[Immerhin]] stellte ich mich [[allwöchentlich]] dem Kampf gegen einen [[unerbittlichen]] [[Kontrahenten]]: das [[Unkraut]]
 
 ---
 = [[Gegner]], [[Widersacher]], [[Rivale]], [[Feind]], [[Gegnern]]
@@ -26,3 +26,5 @@ A: den [[Kontrahenten]], die [[Kontrahenten]]
 G: des [[Kontrahenten]], der [[Kontrahenten]]  
 D: dem [[Kontrahenten]], den [[Kontrahenten]]
 , [[konträr]]
+
+#Maskulin 
