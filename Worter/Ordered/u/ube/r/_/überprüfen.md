@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T2-102-Text#^32|^]]* Bei intensiven [[Kurzzeitbelastung]]en wird also im menschlichen Körper besonders viel Lac-Phe [[freigesetzt]]. Ob das auch besonders stark den Appetit [[hemmt]], wurde allerdings nicht [[überprüft]]
 
+*[[bro-schrieben-c1-t1-011#^5|^]]* [[Arbeitgebende]] sind `in` der [[Lage]], [[gesetzte]] Ziele monatlich zu [[überprüfen]] und zu [[adaptieren]]
+
 *[[C1-Hoehen-T4-100-Text#^30|^]]* Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschriften]] [[gehalten]] wird
 
 *[[C1-Hoehen-T4-100-Text#^24|^]]* Bei [[Kundenbewertung]]en müssen die Plattformen [[überprüfen]], ob diese Kundinnen und Kunden [[tatsächlich]] das [[bewertete]] Produkt [[erworben]] haben

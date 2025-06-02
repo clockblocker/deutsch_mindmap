@@ -1,6 +1,7 @@
 📜 [[zufolge]], [tsuˈfɔlɡə](https://youglish.com/pronounce/zufolge/german)
 
 ---
+*[[bro-schrieben-c1-t1-004#^7|^]]* [[Forschungsergebnis]]sen [[zufolge]] sind Bürger aus entwickelten Ländern, wo die Lebensdauer [[wesentlich]] [[höher]] ist, im [[Durchschnitt]] `um` etwa 20% glücklicher, da sie nicht unter Druck stehen, jede [[Herausforderung]] der Welt in kurzer Zeit zu [[überwinden]]
 
 *[[C1-Hoehen-T2-101-Text#^9|^]]* [[Bedienen]] wir uns doch mal den [[Erkenntnis]]sen der [[Soziologie]]: Ihr [[zufolge]] kann man [[Gesellschaft]]en in [[Individualistisch]]e und [[Kollektivistisch]]e [[einteilen]]
 

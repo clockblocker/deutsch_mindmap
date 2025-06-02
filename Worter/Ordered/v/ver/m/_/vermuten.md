@@ -3,6 +3,8 @@
 ---
 „Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war
 
+*[[bro-schrieben-c1-t1-004#^3|^]]* Die [[bisherige]] [[Entwicklung]] der [[Lebenserwartung]] lässt [[vermuten]], dass es [[eben]] die größere [[Auswahl]] `an` medizinischen [[Verfahren]] geben wird, die die Lebensdauer erhöhen könnten
+
 *[[C1-Hoehen-T1-301-Text#^2|^]]* Wie der Titel schon [[vermuten]] lässt, [[entführt]] die atmosphärisch und [[klang]]lich sehr [[dicht]] [[gewobene]] Reportage in eines der letzten Paradiese dieser Welt – auf eine der vielen [[Südseeinseln]], die schon [[Gauguin]] als exotische [[Gegenwelt]] in seinen Bildern [[verewigte]]. ^2
 
 

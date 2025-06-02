@@ -12,7 +12,7 @@ Der Podcast setzt sich mit den [[Auswirkung]]en des [[Breitentourismus]] [[ausei
 
 *[[C1-Hoehen-T2-101-Text#^33|^]]* Und wie ist Ihre [[Einschätzung]] [[bezüglich]] der [[Auswirkung]]en der [[Demonstration]]en?
 
-*[[001-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]
+*[[102-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]
 
 ---
 = [[Effekt]], [[Folge]], [[Konsequenz]], [[Einfluss]]

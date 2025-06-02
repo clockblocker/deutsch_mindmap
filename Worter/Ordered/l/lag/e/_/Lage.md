@@ -6,6 +6,7 @@
 die [[Lagen]]
 
 ---
+*[[bro-schrieben-c1-t1-011#^5|^]]* [[Arbeitgebende]] sind `in` der [[Lage]], [[gesetzte]] Ziele monatlich zu [[überprüfen]] und zu [[adaptieren]]
 
 Wer war nicht schon einmal in einer schwierigen [[Lage]]? Gut, wenn man dann nicht alleine ist.
 

@@ -3,7 +3,7 @@
 ↔️ [[verbreitern]], [fɛɐ̯ˈbʁaɪ̯tɐn](https://youglish.com/pronounce/verbreitern/german) → [[verbreiterte]] → [[verbreitert]]
 
 ---
-*[[001-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
+*[[102-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
 
 
 ---

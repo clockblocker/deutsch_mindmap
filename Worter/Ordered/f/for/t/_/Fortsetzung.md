@@ -1,1 +1,1 @@
-, [[weitergehen]], [[Kündigung]], [[weiterführen]], [[Dauerunterbrechung]]
+, [[weitergehen]], [[Kündigung]], [[weiterführen]], [[Dauerunterbrechung]], [[fortsetzen]]

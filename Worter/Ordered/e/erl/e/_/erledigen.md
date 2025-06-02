@@ -4,6 +4,8 @@
 ---
 Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]]
 
+*[[bro-schrieben-c1-t1-011#^2|^]]* Ich bin selbst [[ITler]] und stehe stets unter Druck, [[riesig]]e [[Menge]]n an [[Arbeitsaufgabe]]n in einem [[eng]] begrenzten [[Zeitfenster]] zu [[erledigen]]
+
 *[[C1-Hoehen-T3-301-Text#^33|^]]* Allerdings ist das eine [[langfristig]]e [[Aufgabe]], 
 die sich nicht `von` [[heute]] `auf` [[morgen]] [[erledigen]] `lässt`, 
 *(which cannot be [[done]] overnight)*

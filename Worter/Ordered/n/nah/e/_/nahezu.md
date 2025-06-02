@@ -4,10 +4,10 @@
 
 ---
 
-*[[001-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
+*[[102-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
 
 
-*[[000-C1-Schreiben-T1#^5|^]]* Über WhatsApp bleiben Eltern auch aus dem Ausland [[erreichbar]], Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[unbeschränkt]]. 
+*[[101-C1-Schreiben-T1#^5|^]]* Über WhatsApp bleiben Eltern auch aus dem Ausland [[erreichbar]], Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[unbeschränkt]]. 
 
 
 ---

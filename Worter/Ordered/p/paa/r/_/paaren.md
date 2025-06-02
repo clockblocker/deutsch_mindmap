@@ -4,10 +4,10 @@
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^2|^]]* Dieser permanente Stress, [[gepaart]] mit zu wenig sozialem [[Austausch]] und dem [[fehlen]] klar definierter Grenzen zwischen Arbeitszeit und Freizeit, kann [[rasch]] in einen Burnout [[münden]]. ^2
 
 
-*[[001-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
+*[[102-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
 
 
-*[[100-C1-Schreiben-T2#^4|^]]* Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
+*[[203-C1-Schreiben-T2#^4|^]]* Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
 
 
 ---

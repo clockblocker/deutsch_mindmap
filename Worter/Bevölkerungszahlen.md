@@ -1,0 +1,1 @@
+📈 [[Bevölkerungszahl]]

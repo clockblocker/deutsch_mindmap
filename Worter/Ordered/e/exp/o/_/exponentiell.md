@@ -3,7 +3,7 @@
 📈 [[exponentiell]], [ɛkspoˈnɛnt͡si̯ɛl](https://youglish.com/pronounce/exponentiell/german)
 
 ---
-*[[000-C1-Schreiben-T1#^1|^]]* In den letzten fünf [[Jahrzehnten]] ist die [[Zahl]] der [[Internetnutzer]]:innen [[exponentiell]] [[gestiegen]]. ^1
+*[[101-C1-Schreiben-T1#^1|^]]* In den letzten fünf [[Jahrzehnten]] ist die [[Zahl]] der [[Internetnutzer]]:innen [[exponentiell]] [[gestiegen]]. ^1
 
 
 ---

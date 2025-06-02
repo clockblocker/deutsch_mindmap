@@ -4,7 +4,7 @@
 die [[Verbote]]
 
 ---
-*[[100-C1-Schreiben-T2#^4|^]]* Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
+*[[203-C1-Schreiben-T2#^4|^]]* Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
 
 
 *[[4 Autofrei#^21|^]]* [[Tatsächlich]] findet man eine so drastische [[Veränderung]] wie das [[Autoverbot]] als [[risikoreich]]. ^10 ^21

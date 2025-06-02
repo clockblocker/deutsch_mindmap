@@ -4,7 +4,7 @@
 
 ---
 
-_[[100-C1-Schreiben-T2#^5|^]]_ Wenn keine [[zusätzliche]] Steckdosen momentan [[eingebaut]] werden können, schlage ich vor, die Nutzung von Powerbanks bis zum Ende der Umbauarbeiten zu [[erlauben]]. ^5
+_[[203-C1-Schreiben-T2#^5|^]]_ Wenn keine [[zusätzliche]] Steckdosen momentan [[eingebaut]] werden können, schlage ich vor, die Nutzung von Powerbanks bis zum Ende der Umbauarbeiten zu [[erlauben]]. ^5
 
 96. Wie kann jemand, der den Holocaust [[leugnet]], [[bestraft]] werden? (100%)
     - [ ] gar nicht, [[Holocaustleugnung]] ist [[erlaubt]]

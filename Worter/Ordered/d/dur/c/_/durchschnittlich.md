@@ -1,2 +1,2 @@
 --> 💸 [[Grad-Preis]] <--
-, [[hervorragend]], [[großartig]], [[gewöhnlich]], [[rekordverdächtig]], [[Durchschnittsalter]], [[überdurchschnittlich]]
+, [[hervorragend]], [[großartig]], [[gewöhnlich]], [[rekordverdächtig]], [[Durchschnittsalter]], [[überdurchschnittlich]], [[Durchschnitt]]

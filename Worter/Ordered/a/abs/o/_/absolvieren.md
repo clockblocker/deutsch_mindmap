@@ -5,6 +5,8 @@
 ---
 *[[C1-Lesen-T1-001-Text#^20|^]]* Cordula ist einer von [[insgesamt]] 15 Hunden, die im [[Rahmen]] einer [[Studie]] ein [[einwöchiges]] Spezialtraining [[absolviert]] haben
 
+*[[214-C1-Schreiben-T2#^1|^]]* Sie studieren [[derzeit]] [[Wirtschaftsinformatik]] `an` der Hochschule Ihrer Stadt und möchten Ihr [[obligatorisch]]es [[Praxissemester]] in einem innovativen Unternehmen [[absolvieren]]
+
 *[[C1-Hoehen-T2-301-Text#^25|^]]* Es wäre beispielsweise denkbar, dass alle, die einen Beruf [[erlernen]] möchten, in dem sie später mit Menschen zu tun haben, berufs- oder [[studienvorbereitende]] soziale [[Praktika]] [[absolvieren]]
 
 *[[C1-Hoehen-T2-201-Text#^45|^]]* Die [[Lernenden]] sollen im Unterricht ein [[gemeinsam]]es [[Grundprogramm]] [[absolvieren]], so dass alle ein bestimmtes Level erreichen

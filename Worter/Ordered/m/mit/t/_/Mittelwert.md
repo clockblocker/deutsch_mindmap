@@ -1,1 +1,1 @@
-, [[Durchschnittsalter]]
+, [[Durchschnittsalter]], [[Durchschnitt]]

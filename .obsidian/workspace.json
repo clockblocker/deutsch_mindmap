@@ -6,6 +6,7 @@
       {
         "id": "0354de94e5a486d8",
         "type": "tabs",
+        "dimension": 80.51330798479087,
         "children": [
           {
             "id": "8aa1345eaf79c88a",
@@ -13,12 +14,90 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-004.md",
+                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bro-schrieben-c1-t1-004"
+              "title": "bro-s-t1-root"
+            }
+          },
+          {
+            "id": "8721bc1fdba27d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/C1-Schreiben-Root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Schreiben-Root"
+            }
+          },
+          {
+            "id": "0453c3d75a5a2695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/C1-Schreiben-Root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Schreiben-Root"
+            }
+          },
+          {
+            "id": "ffbaa8652312580d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 2/Texte/v1/211-C1-Schreiben-T2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "211-C1-Schreiben-T2"
+            }
+          },
+          {
+            "id": "fba78980eb9ff891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/k/koh/l/_/Kohleabbau.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kohleabbau"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "5d683fa58e1ef44d",
+        "type": "tabs",
+        "dimension": 19.486692015209126,
+        "children": [
+          {
+            "id": "8898ad39586b9337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 2/Texte/Arbeit/201-C1-Schreiben-T2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "201-C1-Schreiben-T2"
             }
           }
         ]
@@ -53,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Soziale Medien – Fluxh oder Segen?\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +153,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -173,44 +252,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8aa1345eaf79c88a",
+  "active": "fba78980eb9ff891",
   "lastOpenFiles": [
-    "Worter/Ordered/l/leb/e/_/Lebenserwartung.md",
-    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-004.md",
-    "Worter/Logistiksystem.md",
+    "C1 Schreiben/Teil 2/Texte/v1/211-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/201-C1-Schreiben-T2.md",
+    "C1 Schreiben/C1-Schreiben-Root.md",
     "C1 Schreiben/Teil 1/Texte/bro-s/bro-s-t1-root.md",
-    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-003.md",
-    "Worter/gesamtgesellschaftlich.md",
-    "Worter/Ordered/a/aus/w/_/Auswirkung.md",
-    "Worter/Ordered/a/ans/t/_/Anstieg.md",
-    "Worter/Ordered/l/leb/e/_/Lebensdauer.md",
-    "Worter/Ordered/e/ein/f/_/Einfluss.md",
-    "Worter/Ordered/l/leb/e/Lebensdauern.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichstem.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichsten.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichste.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichstes.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichster.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlicherem.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlicheren.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichere.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlicheres.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlicherer.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichem.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichen.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftliche.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftliches.md",
-    "Worter/Ordered/g/ges/a/gesamtgesellschaftlichst.md",
-    "Worter/Ordered/c/con/s",
-    "Worter/Ordered/a/ara/b",
-    "Worter/Ordered/j/job/w",
-    "Worter/Ordered/f/fla/i",
-    "Worter/Ordered/a/aum/_",
-    "Worter/Ordered/a/aum",
-    "Worter/Ordered/p/peg/e",
-    "Worter/Ordered/p/peg",
-    "Worter/Ordered/a/arz/n",
-    "Worter/Ordered/d/dop/e",
+    "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-011.md",
+    "C1 Schreiben/Teil 1/T1-Schreiben-Ubungen.md",
+    "C1 Schreiben/Teil 2/Texte/Bro-s/bro-s-t2-root.md",
+    "C1 Schreiben/Teil 1/Texte/v1/111-C1-Schreiben-T1.md",
+    "C1 Schreiben/Teil 2/Texte/v1/212-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/v1/214-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 2/Texte/Arbeit/202-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 1/Texte/004-C1-Schreiben-T1.md",
+    "C1 Schreiben/Teil 1/Texte/003-C1-Schreiben-T1.md",
+    "C1 Schreiben/Teil 1/Texte/102-C1-Schreiben-T1.md",
+    "C1 Schreiben/Teil 1/Texte/101-C1-Schreiben-T1.md",
+    "C1 Schreiben/Teil 2/Texte/Uni/203-C1-Schreiben-T2.md",
+    "C1 Schreiben/Cookbook/Themen/Thema-Platzdruck.md",
+    "C1 Schreiben/Teil 2/Texte/v1/213-C1-Schreiben-T2.md",
+    "C1 Schreiben/Teil 1/Texte/103-C1-Schreiben-T1.md",
+    "Worter/Ordered/p/per/s/_/Personalabteilung.md",
+    "Worter/Ordered/p/per/s/Personalmanagement.md",
+    "Worter/Ordered/p/per/s/Personaler.md",
+    "Worter/Ordered/p/per/s/Personalwesen.md",
+    "Worter/Ordered/h/hra/b/HR-Abteilung.md",
+    "Worter/Ordered/h/hra/b",
+    "Worter/Ordered/h/hra",
+    "Worter/Ordered/p/per/s/Personalabteilungen.md",
+    "Worter/Praxissemester.md",
+    "C1 Schreiben/Teil 2/Texte/v1",
+    "C1 Schreiben/Teil 1/Texte/v1",
+    "Worter/Ordered/n/nal/_",
+    "Worter/Ordered/i/itl/e",
+    "Worter/Ordered/i/itl",
+    "Worter/Ordered/i/it_/_",
+    "Worter/Ordered/i/it_",
+    "Worter/Ordered/i/ite/x",
     "Anhänge/Pasted image 20250528071457.png",
     "Anhänge/Pasted image 20250528065432.png",
     "Anhänge/Pasted image 20250528055347.png",

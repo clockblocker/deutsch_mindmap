@@ -52,3 +52,4 @@ Die Firma würde sich vor neuen [[Aufträgen]] nicht [[retten]] können.
 , [[geigen]], [[aufgeben]], [[andauern]]
 
 [[grossartig]], [[antreten]], [[unaufhörlich]], [[existieren]], [[in Gang kommen]], [[anfallen]], [[fortschreiten]], [[aufbrechen]]
+, [[fortsetzen]]

@@ -2,8 +2,9 @@
 die [[Schwierigkeiten]]
 
 ---
+*[[bro-schrieben-c1-t1-004#^17|^]]* Nennen Sie [[Schwierigkeit]]en, die `durch` eine [[ständig]] [[alternde]] Gesellschaft [[entstehen]] könnten
 
-Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]].
+Alleine arbeitet man manchmal am besten. Denn wenn viele Menschen mit [[unterschiedlichen]] Meinungen und Methoden zusammen etwas machen wollen, kann das zu [[Schwierigkeiten]] [[führen]]
 
 [[1 ADHD#^17|^]] macht [[Flüchtigkeitsfehler]] oder hat [[Schwierigkeiten]], auf Details zu achten. ^17
 
@@ -38,3 +39,6 @@ Dative: der [[Schwierigkeit]], den [[Schwierigkeiten]]
 ---
 
 [[schwierig]], [[erschweren]], [[vereinfachen]], [[meistern]], [[Herausforderung]], [[schwer]], [[Gegenwind]], [[Nachteil]], [[Engpass]], [[Bedrängnis]], [[Beschwernis]], [[Hauptproblem]]
+
+
+#Feminin 

@@ -4,6 +4,9 @@ die [[Altersvorsorgen]]
 ---
 *[[C1-Lesen-T4-103-Text#^19|^]]* Es gehört automatisch zur [[Altersvorsorge]] dazu und soll auch vor [[unvorhergesehen]]en [[Ereignis]]sen schützen
 
+*[[bro-schrieben-c1-t1-004#^11|^]]* Ein Beispiel wäre, ein staatliches Programm zur [[Altersvorsorge]] [[einzuführen]]
+
+
 ---
 = [[Rentenversicherung]], [[Altersversorgung]]
 ≈ [[Vorsorge]], [[Absicherung]], [[Rente]], [[Altersheim]], [[Rentenversicherung]], [[Rentenberechnung]]

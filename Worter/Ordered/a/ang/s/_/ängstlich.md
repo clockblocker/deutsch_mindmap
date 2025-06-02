@@ -27,4 +27,4 @@ P: [[ängstlichen]], [[ängstlicheren]], [[ängstlichsten]]
 
 ---
 [[Angst]], [[ängstigen]], [[Ängstlichkeit]], [[beängstigen]], [[ängstlich machen]], [[scheu]], [[wagend]]
-, [[beherzt]]
+, [[beherzt]], [[sorglos]]

@@ -11,10 +11,10 @@ die [[Regeln]]
 
 *[[C1-Hoehen-T4-100-Text#^2|^]]* Der Verbraucherschutz kann verbessert werden, indem [[Worter/Ordered/r/reg/e/_/Regel]]n aus dem Jahr 2012 von den [[Mitgliedstaaten]] der EU zum [[Gesetz]] werden
 
-*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Worter/Ordered/r/reg/e/_/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
+*[[101-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[Worter/Ordered/r/reg/e/_/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
 
 
-*[[000-C1-Schreiben-T1#^10|^]]* *[[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]],* 
+*[[101-C1-Schreiben-T1#^10|^]]* *[[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]],* 
 [[praktikable]] [[Worter/Ordered/r/reg/e/_/Regel]]n zu [[etablieren]], 
 *um die Online-Zeit [[konsequent]] zu [[begrenzen]].*
 

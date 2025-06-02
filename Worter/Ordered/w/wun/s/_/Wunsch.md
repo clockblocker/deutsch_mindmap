@@ -4,7 +4,7 @@ die [[Wünsche]]
 ---
 Mutter Birgit seufzt: „Wie sollen wir all diese [[Wünsche]] unter einen Hut bringen?“ 
 
-*[[000-C1-Schreiben-T1#^4|^]]* Auf der einen Seite ist der [[Nutz]]en sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
+*[[101-C1-Schreiben-T1#^4|^]]* Auf der einen Seite ist der [[Nutz]]en sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
 
 Ich [[wünsche]] dir viel [[Erfolg]] bei deinen [[Prüfungen]].
 

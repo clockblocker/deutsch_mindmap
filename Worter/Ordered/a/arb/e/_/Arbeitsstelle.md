@@ -2,6 +2,7 @@
 die [[Arbeitsstellen]]
 
 ---
+*[[bro-schrieben-c1-t1-004#^6|^]]* Außerdem bekommt man dabei [[Gelegenheit]], ein bisschen mehr das Leben zu [[genießen]] und als Jugendliche länger und [[ziemlich]] [[sorglos]] nach einer idealen [[Arbeitsstelle]] zu suchen
 
 _[[C1-Lesen-T4-102-Text#^23|^]]_ Es schafft natürlich auch eine [[gewisse]] Unruhe unter den Mitarbeitenden, weil diese [[befürchten]], dass eines Tages auch ihre [[Arbeitsstelle]] [[ausgelagert]] werden könnte.
 

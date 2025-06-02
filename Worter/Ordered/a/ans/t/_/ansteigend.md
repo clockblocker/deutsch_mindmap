@@ -1,1 +1,1 @@
-, [[steigende]]
+📈 [[ansteigen]]

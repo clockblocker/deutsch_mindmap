@@ -2,17 +2,18 @@
 die [[Verfahren]]
 
 ---
+*[[bro-schrieben-c1-t1-004#^3|^]]* Die [[bisherige]] [[Entwicklung]] der [[Lebenserwartung]] lässt [[vermuten]], dass es [[eben]] die größere [[Auswahl]] `an` medizinischen [[Verfahren]] geben wird, die die [[Lebensdauer]] erhöhen könnten
+
+*[[bro-schrieben-c1-t1-004#^4|^]]* Meiner [[Einschätzung]] nach sollten diese [[Verfahren]] [[gesetzlich]] mit dem Alter von 100 Jahren begrenzt werden
+
+
 
 146. Wie nennt man in Deutschland ein [[Verfahren]] vor einem [[Gericht]]? (91%)
+- [x] [[Prozess]]
 
-
-    - [x] [[Prozess]]
-
-116. Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das … (88%)
-
-
-    - [ ] aktives Wahl[[verfahren]].
-    - [x] aktives Wahlrecht.
+146. Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das … (88%)
+- [ ] aktives Wahl[[verfahren]].
+- [x] aktives Wahlrecht.
 
 ---
 

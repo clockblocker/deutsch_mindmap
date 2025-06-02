@@ -31,3 +31,4 @@ Einzigartige mögliche Formen: [[Ausbildung]], [[Ausbildungen]]
 [[Gesellenprüfung]], [[Erzie­hung]], [[Weiterbildung]], [[Lehrstellensuche]], [[Studiengang]]
 
 #Feminin , [[Ausbildungsstelle]], [[Berufsausbildung]], [[Ausbildungsstätte]]
+, [[Praxissemester]]

@@ -1,6 +1,7 @@
 🌱 [[werden]] , [[wurde]], sein [[geworden]]
 
 ---
+*[[bro-schrieben-c1-t1-004#^8|^]]* Ein wichtiges Argument gegen eine immer älter [[werdende]] [[Gesellschaft]] ist, dass [[infolge]] [[steigen]]der [[Bevölkerungszahlen]] ein [[Mangel]] an [[Naturressourcen]] wie Wasser und Lebensmitteln entstehen könnte
 
 _[[C1-Hoehen-T1-301-Text#^14|^]]_ Jahrhunderts [[jenseits]] von Kriegen und großen Daten, wir [[erhalten]] auch einen [[entlarvenden]], aber doch immer amüsanten Einblick in die europäische [[Verfasstheit]] und den immer stärker [[werdenden]] [[Drang]] zu einem [[gelungenen]] und prestigereichen Urlaub
 

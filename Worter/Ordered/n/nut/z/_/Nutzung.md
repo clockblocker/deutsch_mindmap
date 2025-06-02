@@ -11,7 +11,7 @@ die [[Nutzungen]]
 
 die [[Nutzung]] _des Parkplatzes_ zu [[gewähren]].
 
-_[[000-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 Der größte Zeitkiller aber ist die multimediale Nutzung unseres Smartphones, die das Fernsehen als Zeiträuber Nummer eins in den letzten Jahren abgelöst hat.
 

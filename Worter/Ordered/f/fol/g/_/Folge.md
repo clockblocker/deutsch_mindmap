@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-102-Text#^4|^]]* Lina Sandrock, selbst [[ehemalig]]e [[BWL]]-erin, beschreibt die [[Folge]]n [[wirtschaftlich]] [[ethisch]]en [[Handeln]]s von Klein- und Großunternehmen
 
+Erklären Sie, welche [[Folge]]n ein zu hoher [[Arbeitsdruck]] haben kann
+
 *[[C1-Lesen-T1-401-Text#^1|^]]* Die [[Folge]]n `von` Schlafstörungen und Schlafmangel dürfen [[keinesfalls]] [[unterschätzt]] werden
 
 Die [[Folge]]n des [[Handeln]]s von [[Konsumenten]] werden hier [[aufgezeigt]].  

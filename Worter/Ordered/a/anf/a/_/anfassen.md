@@ -34,4 +34,4 @@ PI: [[anfassend]], PII: [[angefasst]], Zu+inf: [[anzufassen]]
 [[anfassen]] - [[an]] = [[fassen]] / to touch, to feel, to handle
 
 ---
-[[Anfassung]], [[befühlen]], [[erspüren]], [[tasten]]
+[[Anfassung]], [[befühlen]], [[erspüren]], [[tasten]], [[ergreifen]]

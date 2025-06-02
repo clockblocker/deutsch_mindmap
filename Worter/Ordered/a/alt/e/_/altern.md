@@ -1,7 +1,9 @@
 👴 [[altern]], [ˈaltɐn](https://youglish.com/pronounce/altern/german) → [[alterte]] → [[gealtert]]
 
 ---
-*[[C1-Hoehen-T3-301-Text#^23|^]]* Das ist schon richtig, aber es [[ausreicht|reicht]] bei [[Weitem]] nicht aus, den [[demografisch]]en [[Wandel]] in unserer ц [[Gesellschaft]] zu [[kompensieren]]
+*[[C1-Hoehen-T3-301-Text#^23|^]]* Das ist schon richtig, aber es [[ausreicht|reicht]] bei [[Weitem]] nicht aus, den [[demografisch]]en [[Wandel]] in unserer [[Gesellschaft]] zu [[kompensieren]]
+
+*[[bro-schrieben-c1-t1-004#^17|^]]* Nennen Sie [[Schwierigkeit]]en, die `durch` eine [[ständig]] [[alternde]] [[Gesellschaft]] [[entstehen]] könnten
 
 ---
 = [[veralten]], [[alt werden]]

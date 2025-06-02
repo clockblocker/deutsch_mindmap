@@ -1,1 +1,1 @@
-, [[geeignet]], [[verantwortlich]], [[erfahrenen]], [[fähig]], [[verantwortungsvoll]], [[Kompetenz]], [[qualifiziert]]
+, [[geeignet]], [[verantwortlich]], [[erfahrenen]], [[fähig]], [[verantwortungsvoll]], [[Kompetenz]], [[qualifiziert]], [[berufserfahren]]

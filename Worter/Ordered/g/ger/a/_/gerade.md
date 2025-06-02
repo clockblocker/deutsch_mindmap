@@ -1,7 +1,7 @@
 🕒 [[gerade]], [ˈɡeːʁaːdə]
 
 ---
-*[[000-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
+*[[101-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
 
 
 *das flackert lustig, knistert laut,*  

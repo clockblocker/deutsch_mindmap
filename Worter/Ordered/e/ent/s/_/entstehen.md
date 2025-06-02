@@ -3,6 +3,8 @@
 ---
 *[[Aschenputtel.md#^2|^]]* Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]
 
+*[[bro-schrieben-c1-t1-004#^17|^]]* Nennen Sie [[Schwierigkeit]]en, die `durch` eine [[ständig]] [[alternde]] [[Gesellschaft]] [[entstehen]] könnten
+
 *[[bro-schrieben-c1-t1-002#^5|^]]* [[Demzufolge]] [[entstand]] die [[Notwendigkeit]], mehrere Sprachen zu [[beherrschen]]
 
 *[[C1-Hoehen-T4-100-Text#^17|^]]* Es ist ein [[richtig]]er [[Handel]] mit falschen [[Bewertung]]en [[entstanden]]
@@ -73,7 +75,7 @@ Adjektive: [[entstehend]], [[entstehender]], [[entstehendst]]
 
 ---
 [[entstehender]], [[entstehendes]], [[entstehende]], [[entstehenden]], [[entstehendem]], [[entstehenderer]], [[entstehenderes]], [[entstehendere]], [[entstehenderen]], [[entstehenderem]], [[entstehendster]], [[entstehendstes]], [[entstehendste]], [[entstehendsten]], [[entstehendstem]]
-*[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+*[[101-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
 
 
 Nennen Sie Probleme, die durch die Schließung [[entstehen]] könnten.

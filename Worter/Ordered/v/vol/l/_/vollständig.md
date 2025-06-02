@@ -8,7 +8,7 @@ _[[Golfstorm#^7|^]]_ die [[Forschenden]] fanden jedoch keine [[Hinweis]]e auf ei
 
 Dr. Frentzen gibt einen [[vollständig]]en [[Überblick]] über die für ein soziales Praktikum [[geeignet]]en [[Berufsgruppe]]n.
 
-_[[000-C1-Schreiben-T1#^13|^]]_ [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13
+_[[101-C1-Schreiben-T1#^13|^]]_ [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13
 
 29 Der [[vollständige]] [[Ersatz]] des Menschen durch Roboter [[erfolgt]] in den nächsten Jahrzehnten. b?
 

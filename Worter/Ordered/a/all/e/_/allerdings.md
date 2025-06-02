@@ -2,7 +2,7 @@
 
 ---
 
-_[[000-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
+_[[101-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
 
 Diese zentralen Präfixe sind [[sämtlich]] [[einheimisch]] Präfixe und wir nutzen sie [[vielfach]], [[allerdings]] [[ausschließlich]], um Verben zu bilden.
 

@@ -4,7 +4,10 @@
 die [[Anzahlen]]
 
 ---
-*[[100-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen
+*[[203-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen
+
+*[[bro-schrieben-c1-t1-004#^9|^]]* Hinzu kommt auch, dass die [[unbeschränkt]]e [[Anzahl]] `von` [[Rentner]]n [[unfinanzierbar]] ist. ^9
+
 
 Die [[Anzahl]] an positiven [[Bewertung]]en ist nicht allein [[entscheidend]]
 

@@ -1,7 +1,7 @@
 🔓 [[zugänglich]], [ˈt͡suːˌɡɛŋlɪç](https://youglish.com/pronounce/zugänglich/german)
 
 ---
-*[[000-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
+*[[101-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
 
 
 ---

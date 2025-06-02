@@ -2,7 +2,7 @@
 
 ---
 
-_[[001-C1-Schreiben-T1#^8|^]]_ Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]. ^8
+_[[102-C1-Schreiben-T1#^8|^]]_ Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]. ^8
 
 Was gehört zu den Aufgaben des deutschen Bundespräsidenten / der deutschen Bundespräsidentin? - [x] Er / Sie [[vorschlägt|schlägt]] den Kanzler / die Kanzlerin zur Wahl vor.
 

@@ -80,7 +80,7 @@ Partizip I: [[nutzend]], Partizip II: [[genutzt]]
 
 ---
 
-_[[000-C1-Schreiben-T1#^4|^]]_ Auf der einen Seite ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
+_[[101-C1-Schreiben-T1#^4|^]]_ Auf der einen Seite ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
 
 ---
 
@@ -110,4 +110,4 @@ G: des [[Nutzens]], der [[Nutzen]]
 D: dem [[Nutzen]], den [[Nutzen]]
 
 #Maskulin , [[heranziehen]], [[weiterverwenden]]
-, [[zurückgreifen]]
+, [[zurückgreifen]], [[ergreifen]]

@@ -2,6 +2,9 @@ die [[Gesellschaft]], [gəˈzɛlʃaft]
 die [[Gesellschaften]]
 
 ---
+*[[bro-schrieben-c1-t1-004#^8|^]]* Ein wichtiges Argument gegen eine immer älter [[werdende]] [[Gesellschaft]] ist, dass [[infolge]] [[steigen]]der [[Bevölkerungszahlen]] ein [[Mangel]] an [[Naturressourcen]] wie Wasser und Lebensmitteln entstehen könnte
+
+*[[bro-schrieben-c1-t1-004#^17|^]]* Nennen Sie [[Schwierigkeit]]en, die `durch` eine [[ständig]] [[alternde]] [[Gesellschaft]] [[entstehen]] könnten
 
 die Frage, was KI alles leisten kann und welchen [[Stellenwert]] sie in unserer [[Gesellschaft]] [[einnehmen]] soll, finde ich auch sehr spannend
 

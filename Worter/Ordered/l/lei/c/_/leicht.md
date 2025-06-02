@@ -7,7 +7,7 @@ nicht [[schwer]]
 
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 
-_[[001-C1-Schreiben-T1#^4|^]]_ Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher klimafreundlichen [[Handlungen]] im [[Alltag]] [[leichter]] gesagt als getan ist. ^4
+_[[102-C1-Schreiben-T1#^4|^]]_ Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher klimafreundlichen [[Handlungen]] im [[Alltag]] [[leichter]] gesagt als getan ist. ^4
 
 _[[03-C1-Schreiben-T2-M#^13|^]]_ So hätten auch die Kolleginnen und Kollegen aus den anderen Büros [[leichter]] [[Zugang]] zum Kopierer und wir hätten wieder Platz für den [[Gemeinschaftstisch]]. ^13
 
@@ -46,3 +46,4 @@ Einzigartige mögliche Formen:
 
 [[schwierig]], [[einfachen]], [[schwer]], [[unbequem]], [[ernst]], [[einfach]]
 , [[bitterlich]], [[leichtsinnig]], [[tief]], [[hellblau]], [[erleichtern]], [[leichtern]], [[beschwert]], [[bequem]], [[schlank]], [[anspruchsvoll]], [[Erleichterung]], [[leichter gesagt als getan]], [[schweißtreibend]]
+, [[Steuererleichterung]]

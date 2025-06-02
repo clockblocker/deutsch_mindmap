@@ -4,6 +4,8 @@ die [[Arbeitgeber]] | die [[Arbeitgeberinnen]]
 ---
 * Erläutern Sie, was [[Arbeitgebende]] für eine gute Work Life Balance tun können.
 
+*[[bro-schrieben-c1-t1-011#^5|^]]* [[Arbeitgebende]] sind `in` der [[Lage]], [[gesetzte]] Ziele monatlich zu [[überprüfen]] und zu [[adaptieren]]
+
 ---
 = [[Dienstherr]], [[Unternehmer]] | [[Dienstherrin]], [[Unternehmerin]]
 ≈ [[Chef]], [[Leiter]], [[Manager]] | [[Chefin]], [[Leiterin]], [[Managerin]]

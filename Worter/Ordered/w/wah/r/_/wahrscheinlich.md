@@ -6,7 +6,7 @@ nicht [[unwahrscheinlich]]
 
 [[0 wiederholung.md#^2|^]] [[Wahrscheinlich]] werden sie heute [[wieder]] verloren. Возможно, сегодня они опять проиграют.
 
-_[[000-C1-Schreiben-T1#^8|^]]_ Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+_[[101-C1-Schreiben-T1#^8|^]]_ Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
 
 Das hat [[wahrscheinlich]] jeder schon mal [[erlebt]]: Man probiert etwas aus und es funktioniert nicht. Und dann noch mal. Und noch mal. Egal, wie man sich [[anstellt]], es klappt nicht! Da muss der [[Wurm]] [[drin]] sein …
 

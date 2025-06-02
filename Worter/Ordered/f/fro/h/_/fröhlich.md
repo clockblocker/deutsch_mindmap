@@ -43,4 +43,4 @@ Einzigartige mögliche Formen:
 [[fröhlichster]], [[fröhlichster]], [[fröhlichste]], [[fröhlischstes]], [[fröhlichsten]], [[fröhlichstem]], [[fröhlichster]], [[fröhlichsten]], [[Extra 8]], [[munter]], [[beleidigt]], [[deprimiert]], [[s1 e1]]
 , [[raustogig]]
 , [[launisch]], [[froh]], [[gelaunt]], [[mürrisch]], [[tragisch]]
-, [[düster]]
+, [[düster]], [[sorglos]]

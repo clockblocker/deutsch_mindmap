@@ -12,7 +12,7 @@ haben [[entwickelt]]
 
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird das neues Medikament [[dagegen]] [[entwickelt]].
 
-_[[000-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
+_[[101-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
 
 Ich interessiere mich dafür, wie sich unsere [[Gesellschaft]] [[entwickelt]].
 

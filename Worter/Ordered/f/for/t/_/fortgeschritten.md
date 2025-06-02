@@ -1,1 +1,1 @@
-, [[fortschreiten]]
+, [[fortschreiten]], [[fortsetzen]]

@@ -9,7 +9,7 @@ Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer.
 
 _[[3 Soll man Geld spenden?#^8|^]]_ Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[gewissen]] [[Mehrwert]] zu [[bieten]]. ^8
 
-_[[100-C1-Schreiben-T2#^3|^]]_ Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
+_[[203-C1-Schreiben-T2#^3|^]]_ Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
 
 Das neue Museum [[bietet]] einen [[Überblick]] über moderne Kunst.
 

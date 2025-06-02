@@ -1,6 +1,7 @@
 😋 [[genießen]], [ɡəˈniːsən] | [[genoss]], haben [[genossen]]
 
 ---
+*[[bro-schrieben-c1-t1-004#^6|^]]* Außerdem bekommt man dabei [[Gelegenheit]], ein bisschen mehr das Leben zu [[genießen]] und als Jugendliche länger und ziemlich [[sorglos]] nach einer idealen [[Arbeitsstelle]] zu suchen
 
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]].
 

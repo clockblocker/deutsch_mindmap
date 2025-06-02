@@ -9,7 +9,7 @@ Nun ist es nicht [[sinnvoll]], auf den Klatsch zu verzichten, denn aus den Fehle
 
 _[[C1-Hoehen-T2-203-Text#^2|^]]_ Es geht dabei darum, ab wann die [[durchaus]] [[sinnvoll]]e Nutzung der digitalen Medien in eine [[Sucht]] [[umschlägt]]
 
-_[[000-C1-Schreiben-T1#^12|^]]_ Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]
+_[[101-C1-Schreiben-T1#^12|^]]_ Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]
 
 _[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]_ Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden
 

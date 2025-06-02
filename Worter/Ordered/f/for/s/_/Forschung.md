@@ -33,4 +33,4 @@ A: die [[Forschung]], die [[Forschungen]]
 G: der [[Forschung]], der [[Forschungen]]  
 D: der [[Forschung]], den [[Forschungen]]
 
-#Feminin , [[Naturwissenschaft]], [[Marktforschung]], [[Forschungsabteilung]], [[Konsumforschung]]
+#Feminin , [[Naturwissenschaft]], [[Marktforschung]], [[Forschungsabteilung]], [[Konsumforschung]], [[Forschungsergebnis]]

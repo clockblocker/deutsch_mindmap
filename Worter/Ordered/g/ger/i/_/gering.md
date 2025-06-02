@@ -19,7 +19,7 @@ Die [[Spirale]] des [[gering]]eren politischen Interesses: Wie ist denn da der T
 ###### Welche [[Eigenschaft]] macht das [[Kiriholz]] in der [[Baubranche]] so beliebt?
 a) Sein [[geringes]] [[Gewicht]].  
 
-*[[100-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen. ^1
+*[[203-C1-Schreiben-T2#^1|^]]* ich wende mich an Sie, um auf die [[geringe]] [[Anzahl]] der Arbeitsplätze in der [[Universitätsbibliothek]] einzugehen. ^1
 
 
 *[[C1-Lesen-T2-101-Text#^11|^]]* Bei ihr war der (8) [[Ertrag]] an genetischem Material jedoch für weitere Analysen zu [[gering]]. ^11

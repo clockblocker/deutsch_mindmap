@@ -8,7 +8,7 @@
 
 *[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 
 
-*[[000-C1-Schreiben-T1#^10|^]]* *[[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]],* 
+*[[101-C1-Schreiben-T1#^10|^]]* *[[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]],* 
 [[praktikable]] [[C1 Schreiben/misc/Regel]]n zu [[etablieren]], 
 *um die Online-Zeit [[konsequent]] zu [[begrenzen]].*
 

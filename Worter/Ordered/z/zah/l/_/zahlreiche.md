@@ -4,11 +4,11 @@ nicht [[wenige]]
 ---
 *[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]
 
-_[[000-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind
+_[[101-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind
 
 _[[C1-Hoehen-T1-101-Text#^6|^]]_ Zur Therapie [[gehören]] bei der EAV eine [[Beratung]] zur gesunden [[Ernährung]] und bei [[zahlreiche]]n [[Praktizierend]]en eine [[Injektionstherapie]]
 
-_[[001-C1-Schreiben-T1#^2|^]]_ Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt. ^2
+_[[102-C1-Schreiben-T1#^2|^]]_ Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt. ^2
 
 Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es [[zahlreiche]] persönliche [[Maßnahmen]] zum Schutz der [[Umwelt]] gibt.
 

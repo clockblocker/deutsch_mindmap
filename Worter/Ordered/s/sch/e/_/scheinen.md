@@ -7,7 +7,7 @@
 
 _[[C1-Lesen-T4-103-Text#^24|^]]_ [[Somit]] [[scheint]] Konsum oder Schulden zu machen die bessere Alternative zu sein
 
-_[[000-C1-Schreiben-T1#^5|^]]_ Über WhatsApp bleiben Eltern auch aus dem Ausland [[erreichbar]], Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[unbeschränkt]]. ^5
+_[[101-C1-Schreiben-T1#^5|^]]_ Über WhatsApp bleiben Eltern auch aus dem Ausland [[erreichbar]], Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[unbeschränkt]]. ^5
 
 _Mich interessiert kein Gleichgewicht_  
 _Mir [[scheint]] die Sonne ins Gesicht_

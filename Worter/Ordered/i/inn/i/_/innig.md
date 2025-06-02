@@ -1,1 +1,1 @@
-, [[zärtlich]]
+, [[zärtlich]], [[emotional]]

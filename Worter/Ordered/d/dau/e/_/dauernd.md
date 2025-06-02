@@ -26,4 +26,4 @@ Morpheme:
 [[dauernd]]
 
 ---, [[dauern]], [[Extra 8]]
-, [[lang]], [[Dauer]], [[stetig]], [[unentwegt]]
+, [[lang]], [[Dauer]], [[stetig]], [[unentwegt]], [[stets]]

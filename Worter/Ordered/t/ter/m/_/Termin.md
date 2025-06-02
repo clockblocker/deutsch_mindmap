@@ -1,3 +1,3 @@
 , [[vereinbaren]], [[versäumen]]
 , [[Termindruck]]
-, [[Verabredung]], [[Behördengang]], [[Geschäftsreise]], [[Meeting]], [[Frist]], [[terminlich]]
+, [[Verabredung]], [[Behördengang]], [[Geschäftsreise]], [[Meeting]], [[Frist]], [[terminlich]], [[Zeitfenster]]

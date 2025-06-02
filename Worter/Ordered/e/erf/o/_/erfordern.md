@@ -3,7 +3,7 @@
 🤔 [[erfordern]], [ɛɐ̯ˈfɔʁdɐn](https://youglish.com/pronounce/erfordern/german) → [[erforderte]] → [[erfordert]]
 
 ---
-*[[000-C1-Schreiben-T1#^10|^]]* [[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]], [[praktikable]] [[Regeln]] zu [[etablieren]], um die Online-Zeit [[konsequent]] zu [[begrenzen]].
+*[[101-C1-Schreiben-T1#^10|^]]* [[Leider]] ist das [[leichter gesagt als getan]], denn es [[erfordert]] enorme [[Disziplin]], [[praktikable]] [[Regeln]] zu [[etablieren]], um die Online-Zeit [[konsequent]] zu [[begrenzen]].
 
 *[[C1-Hoehen-T2-100-Text#^28|^]]* Natürlich [[erfordert]] jede [[gewonnene]] Freiheit immer auch, dass man sich aktiv mit den gewonnenen Möglichkeiten [[auseinandersetzt]]
 

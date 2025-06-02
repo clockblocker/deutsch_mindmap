@@ -1,1 +1,1 @@
-, [[MINT]]
+, [[MINT]], [[ITler]], [[Wirtschaftsinformatik]]

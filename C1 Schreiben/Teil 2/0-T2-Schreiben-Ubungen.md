@@ -9,11 +9,11 @@
 - [x] [[007-C1-Schreiben-T2|007]] Unzureichende Einführung neuer Software führt zu Verzögerungen im Arbeitsprozess
 - [x] [[008-C1-Schreiben-T2|008]] Neue Parkplatzregelung schließt Mitarbeitende mit Wohnortnähe aus
 - [x] [[021-C1-Schreiben-T2|021]] Heiztemperatur reduziert werden
-- [x] [[009-C1-Schreiben-T2|009]] Bildungsurlaub
-- [x] [[0010-C1-Schreiben-T2|0010]] Schließung unserer Kantine einzugehen
+- [x] [[201-C1-Schreiben-T2|009]] Bildungsurlaub
+- [x] [[202-C1-Schreiben-T2|0010]] Schließung unserer Kantine einzugehen
 
 #### Uni
-- [x] [[100-C1-Schreiben-T2|100]] Kein Arbeitsplatz in der Bibliothek
+- [x] [[203-C1-Schreiben-T2|100]] Kein Arbeitsplatz in der Bibliothek
 
 #### Other
 - [ ] [[030-C1-Schreiben-T2|030]] Meetings = schlecht 
@@ -38,10 +38,10 @@
 - [ ] [[C1 Schreiben/Teil 2/Texte/Arbeit/048-C1-Schreiben-T2|048]] Platzmangel
 
 #### Uni
-- [ ] [[101-C1-Schreiben-T2|101]] Zu wenige Arbeitsplätze in der Bibliothek
-- [ ] [[102-C1-Schreiben-T2|102]] Internetprobleme oder Stromausfälle in Lernräumen
-- [ ] [[103-C1-Schreiben-T2|103]] Eingeschränkte Öffnungszeiten der Bibliothek oder Lernräume
-- [ ] [[104-C1-Schreiben-T2|104]] Veraltete oder fehlende Literatur / fehlende Bücher
+- [ ] [[C1 Schreiben/Teil 2/Texte/Uni/101-C1-Schreiben-T2|101]] Zu wenige Arbeitsplätze in der Bibliothek
+- [ ] [[C1 Schreiben/Teil 2/Texte/Uni/102-C1-Schreiben-T2|102]] Internetprobleme oder Stromausfälle in Lernräumen
+- [ ] [[C1 Schreiben/Teil 2/Texte/Uni/103-C1-Schreiben-T2|103]] Eingeschränkte Öffnungszeiten der Bibliothek oder Lernräume
+- [ ] [[C1 Schreiben/Teil 2/Texte/Uni/104-C1-Schreiben-T2|104]] Veraltete oder fehlende Literatur / fehlende Bücher
 - [ ] [[105-C1-Schreiben-T2|105]] Lärm in der Bibliothek (z.B. durch andere Studierende oder Bauarbeiten)
 - [ ] [[106-C1-Schreiben-T2|106]] Kampus
 - [ ] [[107-C1-Schreiben-T2|107]] Raumänderungen oder kurzfristige Raumabsagen bei Veranstaltungen

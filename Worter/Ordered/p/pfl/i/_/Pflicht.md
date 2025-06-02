@@ -47,4 +47,4 @@ G: der [[Pflicht]], der [[Pflichten]]
 D: der [[Pflicht]], den [[Pflichten]]
 
 
-#Feminin , [[Verbindlichkeit]], [[verpflichten]], [[Freiwilligkeit]], [[Familienaufgabe]]
+#Feminin , [[Verbindlichkeit]], [[verpflichten]], [[Freiwilligkeit]], [[Familienaufgabe]], [[Arbeitsaufgabe]]

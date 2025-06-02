@@ -1,1 +1,1 @@
-, [[Aufgabe]], [[Arbeitsbelastung]]
+, [[Aufgabe]], [[Arbeitsbelastung]], [[Arbeitsaufgabe]]

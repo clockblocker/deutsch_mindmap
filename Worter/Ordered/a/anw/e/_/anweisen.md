@@ -3,7 +3,7 @@
 ---
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^2|^]]* _Besonders bei_ [[Behördengängen]] _verstehen viele oft nur wenig und sind auf einen_ [[Dolmetscher]] [[angewiesen]] _. Wer schon einmal einen Brief von einer_ [[Behörde]] _bekommen hat, weiß, dass diese komplizierten_ [[Satzkonstruktionen]] _auch für_ [[Muttersprachler]] _eine_ [[Herausforderung]] _sein können.
 
-*[[100-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
+*[[203-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
 
 
 Obwohl ich in der Nähe des Arbeitsplatzes wohne, bin ich auf den Parkplatz [[angewiesen]], weil ich mich nur mit einem [[Rollstuhl]] [[fortbewegen]] kann.

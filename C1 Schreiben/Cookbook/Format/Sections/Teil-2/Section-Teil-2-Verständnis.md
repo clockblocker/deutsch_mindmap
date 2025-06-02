@@ -159,7 +159,7 @@ dass es angesichts des Arbeits- und Zeitdrucks nicht immer möglich ist, alle W�
 
 ---
 
-![[009-C1-Schreiben-T2#^1|^]]
+![[201-C1-Schreiben-T2#^1|^]]
 
 die Firma unter Personalmangel und Arbeitsdruck nicht alle Bedürfnisse berücksichtigen kann ^31
 
@@ -169,7 +169,7 @@ die Vorstellung des Projekts bereits in den nächsten Monaten ansteht. ^32
 
 
 ---
-![[100-C1-Schreiben-T2#^2|^]]
+![[203-C1-Schreiben-T2#^2|^]]
 
 die Bibliothek angesichts der Umbauarbeiten nicht alle Bedürfnisse berücksichtigen kann ^30
 

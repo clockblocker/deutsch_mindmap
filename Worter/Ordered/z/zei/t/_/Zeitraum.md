@@ -36,4 +36,4 @@ G: des [[Zeitraums]], der [[Zeiträume]]
 D: dem [[Zeitraum]], den [[Zeiträumen]]
 
 
-#Maskulin , [[umfassen]], [[Jahrzehnt]], [[zeitlich]], [[Zyklus]], [[zeitweise]], [[Zeitdauer]], [[Jahrtausend]], [[Lebensdauer]]
+#Maskulin , [[umfassen]], [[Jahrzehnt]], [[zeitlich]], [[Zyklus]], [[zeitweise]], [[Zeitdauer]], [[Jahrtausend]], [[Lebensdauer]], [[Zeitfenster]]

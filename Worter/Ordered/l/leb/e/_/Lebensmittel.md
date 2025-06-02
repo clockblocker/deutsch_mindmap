@@ -1,7 +1,7 @@
 🍎 🟢 das [[Lebensmittel]], [ˈleːbn̩sˌmiːtl̩](https://youglish.com/pronounce/Lebensmittel/german)
 
 ---
-*[[001-C1-Schreiben-T1#^5|^]]* Nicht nur würde die [[alltägliche]] Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in Form höherer [[Energiepreis]]s, [[kostspieliger]] recycelbarer [[Verpackung]]en oder teurer Bio-[[Lebensmittel]]. ^5
+*[[102-C1-Schreiben-T1#^5|^]]* Nicht nur würde die [[alltägliche]] Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in Form höherer [[Energiepreis]]s, [[kostspieliger]] recycelbarer [[Verpackung]]en oder teurer Bio-[[Lebensmittel]]. ^5
 
 
 ---

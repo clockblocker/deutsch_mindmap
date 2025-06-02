@@ -2,7 +2,7 @@
 die [[Hitzewellen]]
 
 ---
-*[[001-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
+*[[102-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
 
 
 *[[C1-Lesen-T2-103-Text#^5|^]]* Für neue [[Flächen]] gibt es [[Bedarf]], denn [[Stürme]], [[Dürren]], [[Hitzewellen]] und die starke [[Vermehrung]] des [[Borkenkäfers]] haben in deutschen Wäldern seit einigen Jahren massiv [[geschadet]]. ^5

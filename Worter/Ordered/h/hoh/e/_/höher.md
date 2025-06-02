@@ -1,1 +1,1 @@
-[[hoch]] , [[Weniger]], [[nächsthöher]], [[höherstellen]], [[erhöhen]], [[höchstwahrscheinlich]]
+[[hoch]] , [[Weniger]], [[nächsthöher]], [[höherstellen]], [[erhöhen]], [[höchstwahrscheinlich]], [[Durchschnitt]]

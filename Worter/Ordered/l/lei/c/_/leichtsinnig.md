@@ -31,3 +31,4 @@ Einzigartige mögliche Formen:
 [[leichtsinnig]], [[leichtsinniger]], [[leichtsinnige]], [[leichtsinniges]], [[leichtsinnigen]], [[leichtsinnigem]], [[leichtsinniger]], [[leichtsinnigen]]
 [[leichtsinnigste]], [[leichtsinnigster]], [[leichtsinnigste]], [[leichtsinnigstes]], [[leichtsinnigsten]], [[leichtsinnigstem]], [[leichtsinnigster]], [[leichtsinnigsten]]
 , [[nachdenklich]], [[verantwortungsvoll]], [[verantwortungsbewusst]]
+, [[sorglos]]

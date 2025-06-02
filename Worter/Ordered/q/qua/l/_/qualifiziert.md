@@ -24,4 +24,4 @@ qualified
 Adjektive: [[qualifiziert]], [[qualifizierter]], [[qualifiziertest]]
 
 ---
-[[qualifizierter]], [[qualifiziertes]], [[qualifizierte]], [[qualifizierten]], [[qualifiziertem]], [[qualifizierterer]], [[qualifizierteres]], [[qualifiziertere]], [[qualifizierteren]], [[qualifizierterem]], [[qualifiziertester]], [[qualifiziertestes]], [[qualifizierteste]], [[qualifiziertesten]], [[qualifiziertestem]]
+[[qualifizierter]], [[qualifiziertes]], [[qualifizierte]], [[qualifizierten]], [[qualifiziertem]], [[qualifizierterer]], [[qualifizierteres]], [[qualifiziertere]], [[qualifizierteren]], [[qualifizierterem]], [[qualifiziertester]], [[qualifiziertestes]], [[qualifizierteste]], [[qualifiziertesten]], [[qualifiziertestem]], [[berufserfahren]]

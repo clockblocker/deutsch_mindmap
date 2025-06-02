@@ -31,4 +31,4 @@ D: der [[Verpflichtung]], den [[Verpflichtungen]]
 , [[Freizeitaktivität]]
 , [[Auftrag]], [[Entlastung]], [[Zwang]], [[Pflicht]], [[Versicherungspflicht]], [[Anwesenheitspflicht]]
 
-#Feminin , [[Zwangsdienst]]
+#Feminin , [[Zwangsdienst]], [[Arbeitsaufgabe]]

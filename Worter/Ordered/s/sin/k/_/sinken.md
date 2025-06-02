@@ -8,7 +8,7 @@ Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem
 
 _[[C1-Hoehen-T3-301-Text#^16|^]]_ Frau Ebner-Perotti [[befürchtet]] [[sinken]]de Löhne durch billige [[Arbeitskräfte]]
 
-_[[000-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 _[[C1-Lesen-T1-000-Text#^3|^]]_ Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
 
@@ -86,3 +86,4 @@ Konjunktiv II:
 - Wenn wir schwerer wären, [[sänken]] wir schneller.
 - Wenn ihr mutiger wäret, [[sänket]] ihr tiefer.
 - Wenn sie aufgeben, [[sänken]] sie ab., [[steigen]], [[tauchten]], [[schweben]], [[zunehmen]], [[absinken]], [[zurückgehen]], [[nachlassen]]
+, [[ansteigen]]

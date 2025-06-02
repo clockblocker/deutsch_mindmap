@@ -1,1 +1,1 @@
-, [[forschen]]
+, [[forschen]], [[Forschungsergebnis]]

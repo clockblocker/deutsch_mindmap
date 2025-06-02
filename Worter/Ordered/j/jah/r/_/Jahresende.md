@@ -2,7 +2,7 @@
 die [[Jahresenden]]
 
 ---
-*[[100-C1-Schreiben-T2#^2|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist. ^2
+*[[203-C1-Schreiben-T2#^2|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist. ^2
 
 
 ---

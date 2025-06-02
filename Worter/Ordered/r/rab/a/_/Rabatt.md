@@ -26,4 +26,4 @@ D: dem [[Rabatt]], den [[Rabatten]]
 [[rabattieren]], [[Rabattaktion]], [[Rabattcode]], [[Rabattmarke]]
 , [[Wiedergutmachung]]
 
-#Maskulin , [[Schnäppchen]], [[Gutschein]], [[Preissenkung]]
+#Maskulin , [[Schnäppchen]], [[Gutschein]], [[Preissenkung]], [[Steuererleichterung]]

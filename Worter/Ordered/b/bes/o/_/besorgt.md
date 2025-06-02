@@ -1,1 +1,1 @@
-[[nervös]], [[ängstlich]]
+[[nervös]], [[ängstlich]], [[sorglos]]

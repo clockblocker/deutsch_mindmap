@@ -1,1 +1,1 @@
-, [[Durchschnittsbevölkerung]]
+, [[Durchschnittsbevölkerung]], [[Durchschnitt]]

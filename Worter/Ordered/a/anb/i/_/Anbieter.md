@@ -1,7 +1,7 @@
 🧑‍💼 🔵 der [[Anbieter]], [ˈaːnˌbiːtɐ](https://youglish.com/pronounce/Anbieter/german)
 
 ---
-*[[001-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]
+*[[102-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]
 
 *[[C1-Hoehen-T4-100-Text#^22|^]]* Sie müssen `gegenüber` dem [[Konsument]]en [[offenlegen]], ob der [[Anbieter]] ein [[Händler]] ist oder ob es sich um ein [[Angebot]] von einer [[Privatperson]] [[handelt]]
 

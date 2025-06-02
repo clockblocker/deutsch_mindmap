@@ -42,3 +42,4 @@ Verwandte Ausdrücke:
 [[manchmal]] ≈ [[selten]]
 
 [[manchmalig]], [[häufig]], [[teilweise]], [[stellenweise]], [[ausnahmslos]]
+, [[stets]]

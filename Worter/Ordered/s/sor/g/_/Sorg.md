@@ -1,2 +1,2 @@
 , [[Sorgen]], [[versorgen]], [[sorgsam]]
-, [[Sorgfalt]], [[Abfallentsorgung]], [[Entsorgung]]
+, [[Sorgfalt]], [[Abfallentsorgung]], [[Entsorgung]], [[sorglos]]

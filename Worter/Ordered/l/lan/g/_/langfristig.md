@@ -1,9 +1,10 @@
 --> ⏱️ [[Temporal-Perspektive]] <--
 ⏳ [[langfristig]], [ˈlaŋˌfʁɪstɪç](https://youglish.com/pronounce/langfristig/german)
 
-
 ---
-*[[C1-Hoehen-T3-301-Text#^33|^]]* Allerdings ist das eine [[langfristig]]e [[Aufgabe]], die sich nicht von heute auf morgen [[erledigen]] lässt, denn ohne [[ausreichend]]e [[Sprachkenntnis]]se funktioniert das nicht. ^33
+*[[C1-Hoehen-T3-301-Text#^33|^]]* Allerdings ist das eine [[langfristig]]e [[Aufgabe]], die sich nicht von heute auf morgen [[erledigen]] lässt, denn ohne [[ausreichend]]e [[Sprachkenntnis]]se funktioniert das nicht
+
+*[[bro-schrieben-c1-t1-011#^3|^]]* Viele [[Arbeitnehmende]] werden [[stets]] [[gefordert]], ihre [[Leistung]] regelmäßig auf ein höheres Niveau zu bringen, was zu [[langfristig]]er [[emotional]]er [[Überforderung]] führen könnte
 
 
  *[[Atom#^29|^]]* Unsere Menge an Atommüll, die [[langfristig]] [[gelagert]] werden muss, ist global gesehen minimal. Ich bin [[überzeugt]], dass wir ein tiefes [[Lager]] finden werden, wo wir den Abfall sicher deponieren können.

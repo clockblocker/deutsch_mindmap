@@ -1,1 +1,1 @@
-[[Tag]], [[Woche]], [[Weile]], [[Zeitraum]], [[Zeitdauer]]
+[[Tag]], [[Woche]], [[Weile]], [[Zeitraum]], [[Zeitdauer]], [[Zeitfenster]]

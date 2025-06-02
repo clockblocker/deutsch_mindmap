@@ -1,1 +1,1 @@
-, [[unschätzbar]], [[erschwinglich]]
+, [[unschätzbar]], [[erschwinglich]], [[unfinanzierbar]]

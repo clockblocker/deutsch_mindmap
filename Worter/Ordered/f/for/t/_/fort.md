@@ -21,4 +21,4 @@ Morphologie:
 
 [[hinaus]], [[vorwärts]], [[Herbei]]
 , [[anwesend]], [[hinweg]], [[forttragen]], [[Fortschritt]]
-, [[nirgendwo]], [[Fortbildung]], [[heraus]], [[fortschreiten]], [[fortleben]]
+, [[nirgendwo]], [[Fortbildung]], [[heraus]], [[fortschreiten]], [[fortleben]], [[fortsetzen]]

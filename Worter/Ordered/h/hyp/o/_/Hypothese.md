@@ -1,1 +1,1 @@
-, [[Rechercheergebenis]], [[Rechercheergebnis]], [[Theorie]]
+, [[Rechercheergebenis]], [[Rechercheergebnis]], [[Theorie]], [[Forschungsergebnis]]

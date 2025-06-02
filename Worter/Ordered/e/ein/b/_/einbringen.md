@@ -5,7 +5,7 @@
 ---
 neue [[Netzwerk]]e [[einbringen]] 
 
-*[[009-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke [[einbringen]] – [[wodurch]] die Firma potenziell neue Partner und Kunden [[gewinnen]] kann. 
+*[[201-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke [[einbringen]] – [[wodurch]] die Firma potenziell neue Partner und Kunden [[gewinnen]] kann. 
 
 *[[3 Soll man Geld spenden?#^6|^]]* Wenn man jedoch die Frage stellt, ob es für einen Menschen *nützlich* ist, sich in [[wohltätige]] Aktivitäten [[einzubringen]], ist [[festzustellen]], dass der Mensch mit der Entwicklung des Internets jede Gruppe nach seinen Interessen finden kann. ^6
 

@@ -5,7 +5,7 @@
 die [[Zugriffe]]
 
 ---
-*[[000-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]. ^12
+*[[101-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]. ^12
 
 
 *schnelles Internet* [[Zugriff]] `auf` [[Datenbank]]*en und technische* [[Ausstattungen]]

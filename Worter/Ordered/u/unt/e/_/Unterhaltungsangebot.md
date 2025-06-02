@@ -1,7 +1,7 @@
 🎭 🟢 das [[Unterhaltungsangebot]], [ʊntɐˈhaltʊŋsʔaːnɡəˌbɔt](https://youglish.com/pronounce/Unterhaltungsangebot/german)
 
 ---
-*[[000-C1-Schreiben-T1#^5|^]]* Über WhatsApp bleiben Eltern auch aus dem Ausland [[erreichbar]], Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[unbeschränkt]]. ^5
+*[[101-C1-Schreiben-T1#^5|^]]* Über WhatsApp bleiben Eltern auch aus dem Ausland [[erreichbar]], Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[unbeschränkt]]. ^5
 
 ---
 = [[Freizeitangebot]], [[Entertainment]]

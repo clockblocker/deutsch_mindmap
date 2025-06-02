@@ -6,6 +6,10 @@
 ---
 [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] = [[wesentlich]] = [[bedeutend]]
 
+*[[bro-schrieben-c1-t1-004#^7|^]]* [[Forschungsergebnis]]sen [[zufolge]] sind Bürger aus entwickelten Ländern, wo die Lebensdauer [[wesentlich]] [[höher]] ist, im [[Durchschnitt]] `um` etwa 20% glücklicher, da sie nicht unter Druck stehen, jede [[Herausforderung]] der Welt in kurzer Zeit zu [[überwinden]]
+
+*[[bro-schrieben-c1-t1-004#^7|^]]* [[Forschungsergebnis]]sen [[zufolge]] sind Bürger aus entwickelten Ländern, wo die Lebensdauer [[wesentlich]] [[höher]] ist, im [[Durchschnitt]] `um` etwa 20% glücklicher, da sie nicht unter Druck stehen, jede [[Herausforderung]] der Welt in kurzer Zeit zu [[überwinden]]
+
 *[[bro-schrieben-c1-t1-001#^6|^]]* [[Außerdem]] sei die [[positiv]]e [[Wirkung]] des Somatotropin-Hormons bekannt, weil es die [[Erholungsphase]] [[wesentlich]] [[verkürzt]]
 
 *[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en Wissen über [[Heilkunde]] [[hierzulande]] und international wuchs

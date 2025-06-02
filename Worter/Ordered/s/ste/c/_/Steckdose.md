@@ -5,7 +5,7 @@ die [[Steckdosen]]
 
 [[Internetzugang]] und [[Stromanschluss]] + [[Steckdosen]]
 
-_[[100-C1-Schreiben-T2#^4|^]]_ Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
+_[[203-C1-Schreiben-T2#^4|^]]_ Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
 
 Waschmaschine an die [[Steckdose]] anschließen oder:
 

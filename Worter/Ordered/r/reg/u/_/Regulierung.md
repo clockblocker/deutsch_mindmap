@@ -5,7 +5,7 @@
 ---
 ❤️ [[Regulierung]] [[einführen]]                              *(Introduce)*
 
-*[[001-C1-Schreiben-T1#^7|^]]* Außerdem kann [[staatliche]] [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf [[recycelbar]]e [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreize]] unterstützen. ^7
+*[[102-C1-Schreiben-T1#^7|^]]* Außerdem kann [[staatliche]] [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf [[recycelbar]]e [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreize]] unterstützen. ^7
 
 
 ---

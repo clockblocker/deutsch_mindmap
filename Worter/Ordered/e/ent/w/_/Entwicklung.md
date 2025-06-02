@@ -6,6 +6,8 @@ die [[Entwicklungen]]
 ---
 Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
 
+*[[bro-schrieben-c1-t1-004#^3|^]]* Die [[bisherige]] [[Entwicklung]] der [[Lebenserwartung]] lässt [[vermuten]], dass es [[eben]] die größere [[Auswahl]] `an` medizinischen [[Verfahren]] geben wird, die die Lebensdauer erhöhen könnten
+
 *[[C1-Hoehen-T3-301-Text#^28|^]]* Es braucht jetzt ein [[Bündel]] an ganz [[unterschiedlich]]en Maßnahmen, da man ja auch in der Politik zu lange [[tatenlos]] [[zugesehen]] hat, obwohl es seit Jahren genügend Studien gab, 
 die diese [[Entwicklung]] [[eindeutig]] belegen
 *([[clearly]] [[prove]] this [[development]])*
@@ -17,7 +19,7 @@ Regelmäßig wurde untersucht, wie sie sich fühlten und ob diese [[Leistung]] f
 *[[C1-Hoehen-T1-100-Text#^5|^]]* Eva Meisner, Hausbesitzerin im Ostend, möchte an dieser [[Entwicklung]] [[teilhaben]] und mit ihren Wohnungen einen [[höchstmöglichen]] [[Gewinn]] [[erzielen]], wie so viele Mieter [[wehren]]. ^5
 
 
-*[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+*[[101-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
 
 
 Zurzeit [[leite]] ich ein Team von sechs Softwareingenieur:innen bei der [[Entwicklung]] unseres [[intern]]en „E-Ledger“-Projekts für den [[Buchhaltungsbereich]]. ^2

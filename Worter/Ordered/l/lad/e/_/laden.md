@@ -3,7 +3,7 @@ der [[Laden]] - store
 
 ---
 
-_[[001-C1-Schreiben-T1#^3|^]]_ Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]. ^3
+_[[102-C1-Schreiben-T1#^3|^]]_ Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]. ^3
 
 Eigentlich [[versteht]] Uli viel von Computern, aber hier ist er wirklich [[ratlos]]. Also bringt er den [[Rechner]] zurück in den [[Laden]].
 

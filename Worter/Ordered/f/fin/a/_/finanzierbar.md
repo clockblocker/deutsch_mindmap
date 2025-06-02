@@ -1,1 +1,1 @@
-, [[erschwinglich]], [[Finanzierbarkeit]]
+, [[erschwinglich]], [[Finanzierbarkeit]], [[unfinanzierbar]]

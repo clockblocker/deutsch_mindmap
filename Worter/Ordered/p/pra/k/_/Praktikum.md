@@ -27,4 +27,4 @@ A: das [[Praktikum]], die [[Praktika]]
 G: des [[Praktikums]], der [[Praktika]]
 D: dem [[Praktikum]], den [[Praktika]]
 
-#Neuter , [[Ausbildungsberuf]], [[Ausbildungsstelle]], [[Berufsausbildung]]
+#Neuter , [[Ausbildungsberuf]], [[Ausbildungsstelle]], [[Berufsausbildung]], [[Praxissemester]]

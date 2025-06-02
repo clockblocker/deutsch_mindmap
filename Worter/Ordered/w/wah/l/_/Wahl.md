@@ -2,7 +2,7 @@
 die [[Wahlen]]
 
 ---
-*[[001-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
+*[[102-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
 
 
 13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)

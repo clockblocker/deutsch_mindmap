@@ -11,7 +11,7 @@ _[[C1-Hoehen-T1-101-Text#^4|^]]_ Sollte ein Patient beispielsweise aus großer [
 
 Es thematisiert die [[Ursache]]e des [[Waldsterbens]].
 
-_[[000-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 ---
 

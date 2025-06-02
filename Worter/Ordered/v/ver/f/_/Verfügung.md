@@ -8,6 +8,8 @@ die [[Verfügungen]]
 
 ---
 
+*[[bro-schrieben-c1-t1-011#^6|^]]* Außerdem ist es [[wesentlich]] [[nötig]], verschiedene Möglichkeiten zur Entspannung auf dem Arbeitsplatz `zur` [[Verfügung]] `zu` stellen
+
 Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienstwagen
 
 *[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können

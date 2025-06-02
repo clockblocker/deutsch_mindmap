@@ -9,7 +9,7 @@ _[[C1-Hoehen-T1-102-Text#^11|^]]_ "Wirtschaftsethik" [[erläutert]] es [[Normals
 
 _[[C1-Hoehen-T2-202-Text#^5|^]]_ Ich möchte zunächst einmal [[festhalten]], dass Politikverdrossenheit ein [[umgangssprachlicher]] [[Begriff]] ist
 
-_[[000-C1-Schreiben-T1#^8|^]]_ Ohne die [[Entwicklung]] der [[Empfehlungssystem]]e auf [[Plattform]]en wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+_[[101-C1-Schreiben-T1#^8|^]]_ Ohne die [[Entwicklung]] der [[Empfehlungssystem]]e auf [[Plattform]]en wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
 
 _[[Große Koalition#^2|^]]_ Der [[Begriff]] wird [[hauptsächlich]] in Deutschland und Österreich benutzt. ^2
 

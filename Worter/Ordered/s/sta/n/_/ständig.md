@@ -4,15 +4,16 @@
 nicht [[vorübergehend]]
 
 ---
-[[Eine Extrawurst bekommen.md#^4|^]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird. ^4
+*[[Eine Extrawurst bekommen.md#^4|^]]* Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird
 
+*[[bro-schrieben-c1-t1-004#^17|^]]* Nennen Sie [[Schwierigkeit]]en, die `durch` eine [[ständig]] [[alternde]] Gesellschaft [[entstehen]] könnten
 
-*[[C1-Hoehen-T1-201-Text#^19|^]]* Durch die [[ständig]]en Hochs und Tiefs, die Max durchleben muss, bleibt der Film bis zum Schluss spannend. ^19
+*[[C1-Hoehen-T1-201-Text#^19|^]]* Durch die [[ständig]]en Hochs und Tiefs, die Max durchleben muss, bleibt der Film bis zum Schluss spannend
 
 
 Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Meeting]]s mit [[extern]]en [[Partner]]n teil. 
 
-*[[001-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]. ^3
+*[[102-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]. ^3
 
 
 Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration. 
@@ -57,4 +58,4 @@ Verwandte Ausdrücke:
 
 [[manchmal]] ≠ [[immer]]
 [[manchmal]] ≠ [[nie]]
-[[manchmal]] ≈ [[selten]], [[selbständig]], [[einmal]], [[verständigen]], [[durchgängig]], [[chronisch]], [[Vervollständigen]], [[eigenständig]], [[unentwegt]]
+[[manchmal]] ≈ [[selten]], [[selbständig]], [[einmal]], [[verständigen]], [[durchgängig]], [[chronisch]], [[Vervollständigen]], [[eigenständig]], [[unentwegt]], [[stets]]

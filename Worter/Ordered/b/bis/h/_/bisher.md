@@ -5,6 +5,8 @@
 ---
 [[Bisher]] gab es noch keinen Regen, aber bestimmt [[bald]].
 
+*[[bro-schrieben-c1-t1-004#^3|^]]* Die [[bisherige]] [[Entwicklung]] der [[Lebenserwartung]] lässt [[vermuten]], dass es [[eben]] die größere [[Auswahl]] `an` medizinischen [[Verfahren]] geben wird, die die Lebensdauer erhöhen könnten
+
 *[[C1-Hoehen-T4-100-Text#^11|^]]* In Deutschland wurde sie [[inzwischen]] in das Gesetz gegen [[unlauteren]] [[Wettbewerb]] [[aufgenommen]], ein Gesetz für [[ehrlich]]e Konkurrenz und Verbraucherschutz, etwas, was [[bisher]] in der digitalen Welt noch zu [[wenig]] [[berücksichtigt]] wird
 
 *[[C1-Lesen-T2-102-Text#^1|^]]* [[Bisher]] war der [[Königsweg]] klar definiert: Wer [[abnehmen]] will, soll [[ausdauernd]] trainieren. ^1

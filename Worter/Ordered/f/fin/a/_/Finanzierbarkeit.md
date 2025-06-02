@@ -26,4 +26,4 @@ A: die [[Finanzierbarkeit]], die [[Finanzierbarkeiten]]
 G: der [[Finanzierbarkeit]], der [[Finanzierbarkeiten]]
 D: der [[Finanzierbarkeit]], den [[Finanzierbarkeiten]]
 
-#Feminin 
+#Feminin , [[unfinanzierbar]]

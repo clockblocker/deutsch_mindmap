@@ -4,6 +4,7 @@
 die [[Kenntnisse]]
 
 ---
+*[[bro-schrieben-c1-t1-004#^5|^]]* Einen großen [[Vorteil]] der [[ansteigend]]en Lebensdauer sehe ich darin, dass es der [[Gesellschaft]] ermöglicht, von den [[Kenntnis]]sen [[berufserfahrener]] Menschen länger zu profitieren
 
 _[[C1-Hoehen-T2-201-Text#^1|^]]_ 7 Frau Friedrich kritisiert die Art der [[Vermittlung]] mathematischer [[Kenntnisse]]
 

@@ -7,6 +7,9 @@ die [[Gelegenheiten]]
 ---
 *[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
 
+*[[bro-schrieben-c1-t1-004#^6|^]]* Außerdem bekommt man dabei [[Gelegenheit]], ein bisschen mehr das Leben zu [[genießen]] und als Jugendliche länger und ziemlich [[sorglos]] nach einer idealen [[Arbeitsstelle]] zu suchen. ^6
+
+
 *[[bro-schrieben-c1-t1-003#^4|^]]* Außerdem könnte das [[Auswander]]n `nach` Ländern mit [[niedrig]]en [[Steuer]]n (z. B. [[Vereinig]]te [[Arabisch]]e Emirate) eine [[Gelegenheit]] sein, [[Personalvermögen]] [[aufzubauen]]
 
 *[[1 ADHD#^21|^]]* bei anderen [[Gelegenheiten]] wird sie von allem [[abgelenkt]]
@@ -39,4 +42,4 @@ D: der [[Gelegenheit]], den [[Gelegenheiten]]
 [[gelegen]], [[legen]], [[Gelegenheitsarbeit]], [[Gelegenheitskauf]], [[Gelegenheitsfund]]
 , [[gelegentlich]], [[Mitfahrgelegenheit]]
 
-#Feminin , [[nähern]], [[Zufall]], [[Schnäppchen]]
+#Feminin , [[nähern]], [[Zufall]], [[Schnäppchen]], [[Zeitfenster]]

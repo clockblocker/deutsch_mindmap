@@ -27,3 +27,4 @@ Morphems:
 ---
 
 #Substantiv #Neuter, [[frönen]], [[Fenstern]], [[Tür]], [[Küchenfenster]]
+, [[Zeitfenster]]

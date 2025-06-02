@@ -6,13 +6,13 @@
 ---
 Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
 
-*[[000-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
+*[[101-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
 
 Was müssen Internetplattformen [[zusätzlich]] [[angeben]]?
 
 *[[C1-Lesen-T1-001-Text#^38|^]]* Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren
 
-*[[100-C1-Schreiben-T2#^5|^]]* Wenn keine [[zusätzliche]] Steckdosen momentan [[eingebaut]] werden können, schlage ich vor, die Nutzung von Powerbanks bis zum Ende der Umbauarbeiten zu [[erlauben]]
+*[[203-C1-Schreiben-T2#^5|^]]* Wenn keine [[zusätzliche]] Steckdosen momentan [[eingebaut]] werden können, schlage ich vor, die Nutzung von Powerbanks bis zum Ende der Umbauarbeiten zu [[erlauben]]
 
 *[[C1-Lesen-T1-000-Text#^9|^]]* Bei guten [[Sichtverhältnissen]] sorgt [[zusätzlich]] eine Drohne aus der Luft [6], dass weiterer Müll im Wasser [[erkannt]] wird
 

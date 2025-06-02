@@ -28,4 +28,4 @@ A: die [[Praxis]], die [[Praxen]]
 G: der [[Praxis]], der [[Praxen]]
 D: der [[Praxis]], den [[Praxen]]
 
-#Feminin , [[Alltagsverhaltensweise]], [[Praktikum]]
+#Feminin , [[Alltagsverhaltensweise]], [[Praktikum]], [[Praxissemester]]

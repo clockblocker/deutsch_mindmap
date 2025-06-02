@@ -6,6 +6,8 @@ haben [[gesetzt]]
 
 ---
 
+*[[bro-schrieben-c1-t1-011#^5|^]]* [[Arbeitgebende]] sind `in` der [[Lage]], [[gesetzte]] Ziele monatlich zu [[überprüfen]] und zu [[adaptieren]]
+
 schließ die Augen und setz dich [[hin]]
 
 Kurs [[setzen]] auf die Feuernation!
@@ -48,4 +50,4 @@ Morpheme: [[setz]], [[en]]
 Partizip I: [[setzend]], Partizip II: [[gesetzt]]
 
 [[setzen]] - [[setz]] = [[en]], [[einsetzen]], [[besetzen]], [[übersetzen]], [[s1 e1]], [[ersetzen]], [[aussetzen]], [[auseinandersetzen]], [[umsetzen]], [[voraussetzen]], [[aufs Spiel setzen]], [[zusammensetzen]], [[durchsetzen]], [[Einsatz]], [[anbringen]], [[Setzling]], [[freisetzen]], [[umsetzbar]], [[außer Kraft setzen]]
-, [[Gegensatz]]
+, [[Gegensatz]], [[fortsetzen]]

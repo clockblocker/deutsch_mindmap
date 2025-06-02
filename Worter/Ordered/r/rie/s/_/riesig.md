@@ -6,6 +6,9 @@
 
 _[[C1-Hoehen-T2-203-Text#^14|^]]_ Das ist natürlich ein [[riesig]]es [[Geschäft]]
 
+*[[bro-schrieben-c1-t1-011#^2|^]]* Ich bin selbst [[ITler]] und stehe stets unter Druck, [[riesig]]e [[Menge]]n an [[Arbeitsaufgabe]]n in einem [[eng]] begrenzten [[Zeitfenster]] zu [[erledigen]]. ^2
+
+
 _[[C1-Hoehen-T1-202-Text#^6|^]]_ Oder [[Produzent]]en, die sich dem [[Preisdiktat]] [[riesig]]er Discounter [[beugen]] müssen
 
 _[[C1-Lesen-T4-101-Text#^3|^]]_ Die [[riesigen]] Mehrkosten allerdings, die beim [[Einsatz]] von Menschen [[im All entstehen]], scheinen mir, trotz des [[erwähnten]] [[Vorteil]]s, nicht [[gerechtfertigt]]. ^3

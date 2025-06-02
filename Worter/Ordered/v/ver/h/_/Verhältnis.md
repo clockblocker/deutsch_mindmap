@@ -4,6 +4,8 @@ die [[Verhältnisse]]
 ---
 *[[C1-Lesen-T1-000-Loesung#^1|^]]* Die Präposition „gegenüber“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]
 
+Work Life Balance: Wie schaffen wir ein [[ausgewogen]]es [[Verhältnis]] `zwischen` Berufsleben und Privatleben?
+
 *[[C1-Lesen-T3-301-Text#^13|^]]* [[Altersstruktur]] und soziale [[Schichtung]] sowie [[Einkommen]] und [[Konsumverhalten]] [[widerspiegeln|spiegeln]] die [[Verhältnis]]se im ganzen Land wider
 
 *[[Golfstorm#^15|^]]* Durch zusätzliches Süßwasser wird das [[Verhältnis]] von Temperatur und Salz im Meerwasser gestört, was [[wiederum]] die Stärke der Strömungen [[verringert]]

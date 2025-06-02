@@ -3,6 +3,7 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
 
 ---
+*[[214-C1-Schreiben-T2#^1|^]]* Sie studieren [[derzeit]] [[Wirtschaftsinformatik]] `an` der Hochschule Ihrer Stadt und möchten Ihr [[obligatorisch]]es [[Praxissemester]] in einem innovativen Unternehmen [[absolvieren]]
 
 _„Der Parkplatz ist [[derzeit]] [[gesperrt]].“_
 

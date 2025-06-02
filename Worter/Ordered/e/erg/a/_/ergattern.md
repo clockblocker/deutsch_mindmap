@@ -1,2 +1,2 @@
 
-, [[bekommen]]
+, [[bekommen]], [[ergreifen]]

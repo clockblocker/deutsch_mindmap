@@ -1,1 +1,1 @@
-, [[Finanzkrise]], [[finanziell]], [[Finanzsenator]], [[stiften]], [[unterhalten]], [[spendieren]], [[Finanzierbarkeit]], [[bestreiten]], [[Finanz]], [[Immobilienfinanzierung]]
+, [[Finanzkrise]], [[finanziell]], [[Finanzsenator]], [[stiften]], [[unterhalten]], [[spendieren]], [[Finanzierbarkeit]], [[bestreiten]], [[Finanz]], [[Immobilienfinanzierung]], [[unfinanzierbar]]

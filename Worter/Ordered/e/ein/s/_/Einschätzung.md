@@ -8,6 +8,8 @@ die [[Einschätzungen]]
 ---
 Wie ist Ihre [[Einschätzung]]?
 
+*[[bro-schrieben-c1-t1-004#^4|^]]* Meiner [[Einschätzung]] nach sollten diese [[Verfahren]] [[gesetzlich]] mit dem Alter von 100 Jahren begrenzt werden
+
 *[[bro-schrieben-c1-t1-002#^7|^]]* Meiner [[Einschätzung]] nach sind solche Kurse sinnvoll, wenn man wenige Möglichkeiten [[besitzt]], persönlich zu lernen
 
 *[[C1-Hoehen-T2-101-Text#^33|^]]* Und wie ist Ihre [[Einschätzung]] [[bezüglich]] der [[Auswirkung]]en der [[Demonstration]]en?

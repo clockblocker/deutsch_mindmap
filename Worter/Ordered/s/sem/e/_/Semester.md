@@ -29,4 +29,4 @@ G: des [[Semesters]], der [[Semester]]
 D: dem [[Semester]], den [[Semestern]]
 
 
-#Neuter 
+#Neuter , [[Praxissemester]]

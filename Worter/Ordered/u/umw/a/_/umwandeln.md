@@ -34,3 +34,4 @@ Partizip I: [[umwandelnd]], Partizip II: [[umgewandelt]]
 
 [[verändern]], [[ändern]], [[werden]]
 , [[s1 e1]], [[verarbeiten]], [[Umwandlung]]
+, [[adaptieren]]

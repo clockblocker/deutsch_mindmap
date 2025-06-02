@@ -4,7 +4,9 @@
 🏋️ [[fordern]], [ˈfɔʁdɐn] | [[forderte]], haben [[gefordert]]
 
 ---
-Sie [[fordern]] den gleichen [[Lohn]] für alle.
+Sie [[fordern]] den gleichen [[Lohn]] für alle
+
+*[[bro-schrieben-c1-t1-011#^3|^]]* Viele [[Arbeitnehmende]] werden [[stets]] [[gefordert]], ihre [[Leistung]] regelmäßig auf ein höheres Niveau zu bringen, was zu [[langfristig]]er [[emotional]]er [[Überforderung]] führen könnte
 
 *[[C1-Hoehen-T3-301-Text#^17|^]]* Frau Ebner-Perotti [[fordert]], die [[Anwerbung]] junger, gut [[ausgebildeter]] Menschen zu stoppen
 *(Ms. Ebner-Perotti [[demands]] to stop the [[recruitment]] of young, well-[[trained]] people)*

@@ -1,1 +1,1 @@
-, [[Temperaturrekord]]
+, [[Temperaturrekord]], [[Durchschnitt]]

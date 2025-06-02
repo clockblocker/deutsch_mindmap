@@ -1,1 +1,1 @@
-, [[gleichen]], [[Gleichheit]], [[Ungleichheit]], [[anpassen]], [[ausgleichen]]
+, [[gleichen]], [[Gleichheit]], [[Ungleichheit]], [[anpassen]], [[ausgleichen]], [[adaptieren]]

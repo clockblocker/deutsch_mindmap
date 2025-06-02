@@ -1,7 +1,7 @@
 ❤️ [[empfinden]], [ɛmˈp͡fɪndn̩](https://youglish.com/pronounce/empfinden/german) → [[empfand]] → [[empfunden]]
 
 ---
-*[[000-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]
+*[[101-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]
 
 *[[C1-Hoehen-T2-202-Text#^34|^]]* Viele Deutsche [[empfinden]], dass die [[Schere]] zwischen Arm und Reich immer größer wird, was ja einen guten Nährboden für Populismus bietet
 

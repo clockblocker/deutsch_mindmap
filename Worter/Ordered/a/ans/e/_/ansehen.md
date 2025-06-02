@@ -12,7 +12,7 @@ _[[C1-Hoehen-T2-201-Text#^16|^]]_ Wenn ich mir am [[Bildschirm]] [[ansehen]] kan
 
 _[[C1-Hoehen-T2-100-Text#^18|^]]_ Was die [[Finanzierbarkeit]] [[betrifft]], so [[ansehen|sehen]] einige Modelle und auch ich die Finanzierbarkeit als [[machbar]] an, während andere das [[bestreiten]]
 
-_[[000-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 _[[3. Schuldenpaket. Vergeigen es die Grünen?#^1|^]]_ Ich kann es mir [[kaum]] mit [[ansehen]]. ^1
 

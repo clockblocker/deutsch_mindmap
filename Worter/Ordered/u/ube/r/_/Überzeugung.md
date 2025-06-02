@@ -7,10 +7,10 @@
 
 *[[C1-Hoehen-T1-203-Text#^5|^]]* Als [[selbsternannt]]er [[Chauvinist]] war er der [[fest]]en [[Überzeugung]], dass ein Mann selbst in seinem Alter die Tennisspielerin schlagen könne
 
-*[[001-C1-Schreiben-T1#^4|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher klimafreundlichen [[Handlungen]] im [[Alltag]] [[leichter]] gesagt als getan ist. ^4
+*[[102-C1-Schreiben-T1#^4|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher klimafreundlichen [[Handlungen]] im [[Alltag]] [[leichter]] gesagt als getan ist. ^4
 
 
-*[[000-C1-Schreiben-T1#^6|^]]* Auf der anderen Seite sind viele der [[fest]]en [[Überzeugung]], dass die [[dauerhaft]]e [[Verschmelzung]] von Online- und [[Realwelt]] [[zahlreich]]e [[Gefahr]]en mit sich [[mitbringen|bringt]]. ^6
+*[[101-C1-Schreiben-T1#^6|^]]* Auf der anderen Seite sind viele der [[fest]]en [[Überzeugung]], dass die [[dauerhaft]]e [[Verschmelzung]] von Online- und [[Realwelt]] [[zahlreich]]e [[Gefahr]]en mit sich [[mitbringen|bringt]]. ^6
 
 
 

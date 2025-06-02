@@ -28,3 +28,4 @@ D: der [[Betriebswirtschaftslehre]], den [[Betriebswirtschaftslehren]]
 
 
 #Feminin 
+, [[Wirtschaftsinformatik]]

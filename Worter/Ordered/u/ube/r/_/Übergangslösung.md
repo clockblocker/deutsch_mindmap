@@ -2,7 +2,7 @@
 die [[Übergangslösungen]]
 
 ---
-*[[101-C1-Schreiben-T2#^1|^]]* Übergangslösung ^1
+*[[C1 Schreiben/Teil 2/Texte/Uni/101-C1-Schreiben-T2#^1|^]]* Übergangslösung ^1
 
 ---
 = [[Zwischenlösung]], [[Interimslösung]]

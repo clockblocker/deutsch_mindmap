@@ -1,2 +1,2 @@
 , [[fröhlich]], [[leicht]], [[entspannter]], [[beschwert]], [[beleidigt]], [[schwer]]
-, [[bedrückt]], [[unbelastet]], [[heiter]]
+, [[bedrückt]], [[unbelastet]], [[heiter]], [[sorglos]]

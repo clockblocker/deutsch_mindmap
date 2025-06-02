@@ -1,1 +1,1 @@
-, [[beibehalten]], [[weiterführen]]
+, [[beibehalten]], [[weiterführen]], [[fortsetzen]]

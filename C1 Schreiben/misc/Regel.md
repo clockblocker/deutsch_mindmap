@@ -146,4 +146,4 @@ Sie dürfen Fehler machen, Ein Muttersprachler muss Sie aber ohne Probleme verst
 Bewertet werden Aussprache und Satzmelodie. Natürlich müssen Sie nicht akzentfrei sprechen.  
 Auch hier ist ein wichtiges Bewertungskriterium, ob ein Muttersprachler Sie problemlos verstehen kann.
 
-Let me know if you’d like a summarized version or a translation!
+Let me know if you’d like a summarized version or a translation!, [[Durchschnitt]]

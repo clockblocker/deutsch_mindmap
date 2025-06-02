@@ -3,9 +3,9 @@ die [[Umwelten]]
 
 ---
 
-_[[001-C1-Schreiben-T1#^2|^]]_ Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt. ^2
+_[[102-C1-Schreiben-T1#^2|^]]_ Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt. ^2
 
-_[[001-C1-Schreiben-T1#^8|^]]_ Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]. ^8
+_[[102-C1-Schreiben-T1#^8|^]]_ Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]. ^8
 
 Dann sieht sie [[zufällig]] eine Dokumentation über ein [[Umweltprojekt]] in Norddeutschland. Und sie weiß sofort: Dabei will sie mitmachen!
 

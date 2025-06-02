@@ -5,7 +5,7 @@ die [[Diskussionen]]
 
 Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[einsetzen]]. Und [[darüber]] [[freuen]] sich die [[wenigsten]].
 
-_[[000-C1-Schreiben-T1#^3|^]]_ Soziale Medien stehen nicht nur im [[Mittelpunkt]] öffentlicher [[Diskussion]]en – sie sind auch der Ort, an dem diese Diskussionen [[stattfinden]]. ^3
+_[[101-C1-Schreiben-T1#^3|^]]_ Soziale Medien stehen nicht nur im [[Mittelpunkt]] öffentlicher [[Diskussion]]en – sie sind auch der Ort, an dem diese Diskussionen [[stattfinden]]. ^3
 
 ---
 

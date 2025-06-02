@@ -51,3 +51,4 @@ Partizip I: [[verfolgend]], Partizip II: [[verfolgt]]
 
 , [[nachjagen]], [[hinterherlaufen]]
 , [[folgend]], [[Verfolgung]],  [[plagen]], [[zugucken]], [[anstreben]], [[betreiben]], [[beobachten]], [[weiterführen]], [[lauschen]], [[zusehen]]
+, [[fortsetzen]]

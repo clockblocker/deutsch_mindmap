@@ -31,4 +31,4 @@ D: der [[Wirtschaft]], den [[Wirtschaften]]
 , [[Wirtschaftsform]], [[Marktwirtschaft]], [[Wirtschaftsgemeinschaft]]
 
 #Feminin
-, [[Finanzwesen]], [[Restaurant]], [[Finanzbereich]], [[Forstwirtschaft]], [[Bewirtschaftung]], [[BWL]], [[Wirtschaftswissenschaftler]], [[marktwirtschaftlich]], [[Finanz]], [[Wirtschaftsbranche]], [[Konsumwelt]], [[Konsummarkt]]
+, [[Finanzwesen]], [[Restaurant]], [[Finanzbereich]], [[Forstwirtschaft]], [[Bewirtschaftung]], [[BWL]], [[Wirtschaftswissenschaftler]], [[marktwirtschaftlich]], [[Finanz]], [[Wirtschaftsbranche]], [[Konsumwelt]], [[Konsummarkt]], [[Wirtschaftsinformatik]]

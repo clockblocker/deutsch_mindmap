@@ -1,3 +1,3 @@
 , [[steigen]], [[versteigen]], [[steigende]]
 , [[umsteigen]]
-, [[aussteigen]], [[Aufsteiger]], [[Aussteiger]], [[einsteigen]]
+, [[aussteigen]], [[Aufsteiger]], [[Aussteiger]], [[einsteigen]], [[ansteigen]]

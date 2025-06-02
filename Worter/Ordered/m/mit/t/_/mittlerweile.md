@@ -7,7 +7,7 @@ Das Buch ist [[mittlerweile]] [[in]] 37 Sprachen [[übersetzt]] worden
 
 *[[C1-Hoehen-T1-203-Text#^14|^]]* In den meisten Profisportarten werden [[zwar]] [[mittlerweile]] gleiche Preisgelder auf Top-Niveau gezahlt
 
-*[[001-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]
+*[[102-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]
 
 Anja und Fatima arbeiten schon lange zusammen. [[Mittlerweile]] sind sie sogar Freundinnen und [[erzählen]] sich alles
 

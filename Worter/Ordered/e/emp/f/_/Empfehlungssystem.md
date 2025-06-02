@@ -2,7 +2,7 @@
 die [[Empfehlungssysteme]]
 
 ---
-*[[000-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+*[[101-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
 
 
 ---

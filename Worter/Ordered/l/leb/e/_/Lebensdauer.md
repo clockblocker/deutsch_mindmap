@@ -4,6 +4,9 @@ die [[Lebensdauern]]
 ---
 *[[bro-schrieben-c1-t1-004#^16|^]]* Argumentieren Sie anhand eines Beispiels für [[gesamtgesellschaftlich]] positive [[Auswirkung]]en eines [[Anstieg]]s der menschlichen [[Lebensdauer]]
 
+*[[bro-schrieben-c1-t1-004#^3|^]]* Die [[bisherige]] [[Entwicklung]] der [[Lebenserwartung]] lässt [[vermuten]], dass es [[eben]] die größere [[Auswahl]] `an` medizinischen [[Verfahren]] geben wird, die die [[Lebensdauer]] erhöhen könnten
+
+
 ---
 = [[Haltbarkeit]], [[Beständigkeit]], [[Lebzeiten]],  [[Lebenserwartung]]
 ≈ [[Dauer]], [[Zeitraum]], [[Periode]], [[Existenz]]

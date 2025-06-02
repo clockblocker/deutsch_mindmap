@@ -1,1 +1,1 @@
-, [[erschwinglich]], [[Bezahlung]]
+, [[erschwinglich]], [[Bezahlung]], [[unfinanzierbar]]

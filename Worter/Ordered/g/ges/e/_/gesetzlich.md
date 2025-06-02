@@ -2,6 +2,7 @@
 nicht [[illegal]]
 
 ---
+*[[bro-schrieben-c1-t1-004#^4|^]]* Meiner [[Einschätzung]] nach sollten diese [[Verfahren]] [[gesetzlich]] mit dem Alter von 100 Jahren begrenzt werden
 
 - Diskutieren Sie, ob das Recht auf Nicht-[[Erreichbarkeit]] [[gesetzlich]] [[geregelt]] werden sollte.
 

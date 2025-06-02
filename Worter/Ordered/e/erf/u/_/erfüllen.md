@@ -8,7 +8,7 @@ Erklären Sie, welche Kriterien Angestellte in [[Behörden]] mit [[Publikumsverk
 
 *[[bro-schrieben-c1-t1-002#^8|^]]* Dazu kommt, dass man beim Online-Lernen Zeit sparen kann, um [[Familienaufgabe]]n zu [[erfüllen]]
 
-*[[000-C1-Schreiben-T1#^4|^]]* Auf der einen Seite ist der [[Nutz]]en sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
+*[[101-C1-Schreiben-T1#^4|^]]* Auf der einen Seite ist der [[Nutz]]en sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
 
 Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] [[erfüllt]]. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]]. 
 

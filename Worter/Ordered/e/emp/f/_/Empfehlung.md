@@ -1,7 +1,7 @@
 👍 🔴 die [[Empfehlung]], [ɛmˈpfeːʊŋ](https://youglish.com/pronounce/Empfehlung/german)
 
 ---
-*[[000-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]
+*[[101-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]
 
 *[[C1-Hoehen-T1-102-Text#^13|^]]* Auch in meiner dritten [[Empfehlung]] geht es um Wirtschaft: Kim Leuters [[aussprechen|spricht]] `sich` in seinem neuen Werk "Fit für Finanzen" für das [[Schulfach]] "[[Finanz]]en" aus, das seiner Meinung nach ein Muss in jeder [[Schulform]] sei
 

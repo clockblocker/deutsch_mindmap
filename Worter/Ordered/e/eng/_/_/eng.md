@@ -3,6 +3,8 @@
 ---
 Um den Gürtel enger schnallen zu können, muss man weniger essen. 
 
+*[[bro-schrieben-c1-t1-011#^2|^]]* Ich bin selbst [[ITler]] und stehe stets unter Druck, [[riesig]]e [[Menge]]n an [[Arbeitsaufgabe]]n in einem [[eng]] begrenzten [[Zeitfenster]] zu [[erledigen]]
+
 *[[C1-Hoehen-T2-200-Text#^5|^]]* 11 In der Antike war man der [[Auffassung]], dass Intelligenz [[eng]] an natürliche [[Begabung]] [[gekoppelt]] ist
 
 Allerdings ist es durch den neuen Arbeitsplatz im Büro [[deutlich]] [[eng]]er geworden. ^6

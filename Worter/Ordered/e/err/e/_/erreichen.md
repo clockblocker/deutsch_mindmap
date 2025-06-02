@@ -6,7 +6,7 @@
 ---
 _Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht werfen wir mit diesen Verben auf eine Szene und [[wodurch]] [[erreichen]] wir den illuminierenden Effekt?
 
-*[[000-C1-Schreiben-T1#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt sich die [[Frage]], wie man einen [[ausgewogenen]] [[Lebensstil]] mit sozialen Medien im [[Alltag]] [[erreichen]] kann. ^9
+*[[101-C1-Schreiben-T1#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt sich die [[Frage]], wie man einen [[ausgewogenen]] [[Lebensstil]] mit sozialen Medien im [[Alltag]] [[erreichen]] kann. ^9
 
 
 *[[033-C1-Schreiben-T2#^1|^]]* Der Kopierer, den Sie [[inklusive]] [[Wartung]] und [[Techniker]] bei einer Firma für [[Bürotechnik]] [[gemietet]] haben, hat [[häufig]] einen [[Papierstau]] und die Firma ist nur schwer zu [[erreichen]]. ^1

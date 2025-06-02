@@ -2,7 +2,7 @@
 die [[Waldbrände]]
 
 ---
-*[[001-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]].
+*[[102-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]].
 
 *[[C1-Hoehen-T1-200-Text#^18|^]]* Doch gerade der Mensch macht dem Wald den [[Garaus]]: [[Verheerende]] [[Waldbrände]], von der Industrie [[geförderte]], [[rücksichtslose]] [[Rodungen]] und falsche Agrarökonomie führen zur [[Vernichtung]] des Waldes.
 

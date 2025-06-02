@@ -5,11 +5,13 @@ die [[Mängel]]
 ---
 Andererseits ist der [[Bewegungsmangel]] im Home-Office ein großes Problem.
 
+*[[bro-schrieben-c1-t1-004#^8|^]]* Ein wichtiges Argument gegen eine immer älter [[werdende]] [[Gesellschaft]] ist, dass [[infolge]] [[steigen]]der [[Bevölkerungszahlen]] ein [[Mangel]] an [[Naturressourcen]] wie Wasser und Lebensmitteln entstehen könnte
+
 *[[C1-Hoehen-T3-301-Text#^3|^]]* Der Fachkräftemangel könnte dazu führen, dass viele Supermärkte aus [[Mangel]] an [[Ware]]n schließen
 
 *[[C1-Hoehen-T3-301-Text#^4|^]]* Herr Osterholz [[beklagt]] den [[Mangel]] an [[Fachkräften]] mit [[Schwerpunkt]] [[Naturwissenschaft]]en
 
-*[[100-C1-Schreiben-T2#^4|^]]* Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
+*[[203-C1-Schreiben-T2#^4|^]]* Der [[Mangel]] an [[Steckdose]]n, [[gepaart]] mit dem [[Verbot]] von Powerbanks, macht die Arbeit mit Laptops in der Bibliothek für alle Studierenden kaum möglich. ^4
 
 
 ---

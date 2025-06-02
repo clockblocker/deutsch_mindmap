@@ -1,2 +1,2 @@
 , [[beeindruckt]], [[sachlich]], [[ersinnlich]], [[weltfremd]]
-, [[verträumt]]
+, [[verträumt]], [[emotional]]
