@@ -17,7 +17,7 @@
     - Fristen werden nicht eingehalten (Kollegen liefern zu spät): [[002-C1-Schreiben-T2|002]], [[C1 Schreiben/Teil 2/Texte/Uni/102-C1-Schreiben-T2|102]], [[202-C1-Schreiben-T2|202]],
     - Meetings werden zu kurzfristig angesetzt: [[022-C1-Schreiben-T2|022]], [[C1 Schreiben/Teil 2/Texte/Uni/102-C1-Schreiben-T2|102]],
     - Keine Einführung / schlechte Schulung: [[007-C1-Schreiben-T2|007]], [[C1 Schreiben/Teil 2/Texte/Uni/101-C1-Schreiben-T2|101]], [[107-C1-Schreiben-T2|107]], [[207-C1-Schreiben-T2|207]],
-    - Software-/Technikprobleme: [[007-C1-Schreiben-T2|007]], [[C1 Schreiben/Teil 2/Texte/Uni/101-C1-Schreiben-T2|101]], [[C1 Schreiben/Teil 2/Texte/v1/211-C1-Schreiben/211-C1-Schreiben-Model|201]],
+    - Software-/Technikprobleme: [[007-C1-Schreiben-T2|007]], [[C1 Schreiben/Teil 2/Texte/Uni/101-C1-Schreiben-T2|101]], [[211-C1-Schreiben-Model|201]],
 
   - ###### 🧍‍♀️ TEAM / SOZIALES
     - Kein Rückzugsort / keine Ruhe: [[001-C1-Schreiben-T2|001]], [[004-C1-Schreiben-T2|004]], [[C1 Schreiben/Teil 2/Texte/Uni/104-C1-Schreiben-T2|104]], [[204-C1-Schreiben-T2|204]],
@@ -90,7 +90,7 @@
 - [ ] [[107-C1-Schreiben-T2|107]]
 - [ ] [[108-C1-Schreiben-T2|108]]
 
-- [ ] [[C1 Schreiben/Teil 2/Texte/v1/211-C1-Schreiben/211-C1-Schreiben-Model|201]]
+- [ ] [[211-C1-Schreiben-Model|201]]
 - [ ] [[202-C1-Schreiben-T2|202]]
 - [ ] [[203-C1-Schreiben-T2|203]]
 - [ ] [[204-C1-Schreiben-T2|204]]

@@ -11,7 +11,7 @@
 - [ ] [[115-C1-Schreiben-T1|115]] Blue color jobs
 
 ###### T2-V1
-- [ ] [[C1 Schreiben/Teil 2/Texte/v1/211-C1-Schreiben/211-C1-Schreiben-Model|211]] Bildungsurlaub
+- [ ] [[211-C1-Schreiben-Model|211]] Bildungsurlaub
 - [ ] [[212-C1-Schreiben-T2|212]] Schließung unserer Kantine einzugehen
 - [ ] [[213-C1-Schreiben-T2|213]] Kein Arbeitsplatz in der Bibliothek
 - [ ] [[214-C1-Schreiben-T2|214]] Praktikum
