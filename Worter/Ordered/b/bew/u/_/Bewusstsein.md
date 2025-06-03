@@ -2,6 +2,9 @@
 (no plural)
 
 ---
+*[[C1-Lesen-431-Text#^3|^]]* Neben dem Smartphone können sich auch Lärm, Musik oder die Präsenz anderer Menschen in unser [[Bewusstsein]] [[schleichen]] und die Lesekonzentration [[gefährden]]. ^3
+
+
 , [[schuldbewusst]], [[bewusst]], [[Erkenntnis]], [[Verantwortungsbewusstsein]]
 
 ---

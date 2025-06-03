@@ -43,3 +43,4 @@ Partizip I: [[untergehend]], Partizip II: [[untergegangen]]
 
 [[untergehen]] - [[unter]] = [[gehen]]
 , [[aushalten]], [[scheinen]], [[zusinken]], [[kontern]], [[entstehen]], [[vorkommen]], [[scheitern]], [[w-l]], [[profilieren]], [[existieren]]
+, [[Eintauchen]]

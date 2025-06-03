@@ -1,1 +1,1 @@
-, [[von vornherein]]
+, [[von vornherein]], [[wieder von vorn]]

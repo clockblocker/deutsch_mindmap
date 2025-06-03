@@ -86,4 +86,4 @@ Konjunktiv II:
 - Wenn wir schwerer wären, [[sänken]] wir schneller.
 - Wenn ihr mutiger wäret, [[sänket]] ihr tiefer.
 - Wenn sie aufgeben, [[sänken]] sie ab., [[steigen]], [[tauchten]], [[schweben]], [[zunehmen]], [[absinken]], [[zurückgehen]], [[nachlassen]]
-, [[ansteigen]]
+, [[ansteigen]], [[Eintauchen]]

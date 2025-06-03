@@ -45,6 +45,8 @@ T2-V0
 - [ ] [[0 Studieren - aber was?]]
 
 
+*[[C1-Lesen-431-Text#^9|^]]* `22 e` Ein [[ernst zu nehmen]]der Tipp wäre also, alle Störfaktoren auszuschalten
+
 
 *[[bro-schrieben-c1-t1-004#^1|^]]* Liebe Forumsteilnehmer, ^1
 

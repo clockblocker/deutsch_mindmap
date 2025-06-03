@@ -7,6 +7,7 @@
 ---
 Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den neuen Kollegen [[kaum]] Arbeitsraum [[vorhanden]] ist. 
 
+*[[C1-Lesen-411-Text#^8|^]]* Im Tiefschlaf wird Wissen reaktiviert, verarbeitet und [[sodass]] besser [[gespeichert]]
 
 (Ballt die Handschuhe zu [[Fäusten]], [[sodass]] Wasser aus ihnen tropft)
 

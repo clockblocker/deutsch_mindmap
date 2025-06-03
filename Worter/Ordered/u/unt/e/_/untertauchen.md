@@ -8,7 +8,7 @@ Und es klang, als spräche wer, der in Schlagsahne [[untergetaucht]] worden ist.
 
 ---
 
-Synonyme: [[eintauchen]], [[versinken]], [[abtauchen]], [[eintauchen]], [[tauchen]]
+Synonyme: [[Eintauchen]], [[versinken]], [[abtauchen]], [[Eintauchen]], [[tauchen]]
 Antonyme: [[auftauchen]], [[erscheinen]], [[hervortreten]]
 
 ---

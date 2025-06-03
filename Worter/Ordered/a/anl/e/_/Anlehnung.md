@@ -1,1 +1,1 @@
-, [[lehnen]]
+, [[lehnen]], [[Abhängigkeit]]

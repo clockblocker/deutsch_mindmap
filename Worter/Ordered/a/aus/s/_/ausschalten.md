@@ -3,6 +3,7 @@
 haben [[ausgeschaltet]]
 
 ---
+*[[C1-Lesen-431-Text#^9|^]]* `22 e` Ein [[ernst zu nehmen]]der Tipp wäre also, alle Störfaktoren [[auszuschalten]]
 
 20. Stecker aus der Steckdose ziehen oder Hauptschalter [[ausschalten]].
 

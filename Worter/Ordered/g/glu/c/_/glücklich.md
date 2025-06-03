@@ -38,4 +38,4 @@ Einzigartige mögliche Formen:
 [[glücklichsten]], [[glücklichster]], [[glücklichste]], [[glücklichstes]], [[glücklichsten]], [[glücklichstem]], [[glücklichster]], [[glücklichsten]]
 
 , [[tragisch]], [[Glückshormon]]
-, [[sorglos]]
+, [[sorglos]], [[erfolglos]]

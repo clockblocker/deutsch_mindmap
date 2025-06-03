@@ -23,8 +23,9 @@
 3.  
 	- [ ] a [[weshalb]]
     - [ ] b dennoch
-    - [ ] c obwohl
-    - [x] d denn
+    - [x] c obwohl
+    - [ ] d denn
+
 
 4.  
 	- [ ] a was

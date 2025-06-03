@@ -3,6 +3,9 @@
 ---
 Was [[gilt]] `bei` dem [[Erwerb]] von Software, E-Books usw.?
 
+*[[C1-Lesen-431-Text#^5|^]]* Das [[gilt]] in besonders hohem Maße für [[ungeübte]] Lesende. ^5
+
+
 *[[C1-Hoehen-T4-100-Text#^23|^]]* In diesem Fall muss `darauf` [[hingewiesen]] werden, dass die Regelungen zum Verbraucherschutz wie [[Recht]] `auf` [[Umtausch]] oder [[Rückgabe]] `beim` [[Privatkauf]] nicht [[gelten]]
 
 *[[C1-Hoehen-T4-100-Text#^22|^]]* Diese [[Regelung]]en [[gelten]] auch `für` Plattformen und Marktplätze wie Ebay oder Amazon

@@ -1,3 +1,3 @@
 , [[Kreislauf]], [[Zirkel]], [[Bundesland]]
 , [[Achse]]
-, [[Ring]], [[Polarkreis]], [[Umkreis]], [[Wasserkreislauf]], [[Spirale]], [[Blutkreislauf]]
+, [[Ring]], [[Polarkreis]], [[Umkreis]], [[Wasserkreislauf]], [[Spirale]], [[Blutkreislauf]], [[kreisen]]

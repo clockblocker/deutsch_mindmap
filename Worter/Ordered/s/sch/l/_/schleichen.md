@@ -3,6 +3,7 @@
 sein [[geschlichen]]
 
 ---
+*[[C1-Lesen-431-Text#^3|^]]* Neben dem Smartphone können sich auch Lärm, Musik oder die Präsenz anderer Menschen in unser [[Bewusstsein]] [[schleichen]] und die Lesekonzentration [[gefährden]]
 
 _Da mit der Peitsch herzu sich [[schleichen|schlich]]_  
 _der bitterböse Friederich;_

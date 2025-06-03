@@ -45,3 +45,4 @@ Partizip I: [[übend]], Partizip II: [[geübt]]
 , [[s1 e1]], [[üblich]], [[Übungsbuch]]
 
 #Maskulin
+, [[ungeübt]]

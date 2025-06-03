@@ -1,1 +1,1 @@
-, [[steigen]], [[tauchten]], [[zusinken]], [[erklimmen]]
+, [[steigen]], [[tauchten]], [[zusinken]], [[erklimmen]], [[Eintauchen]]

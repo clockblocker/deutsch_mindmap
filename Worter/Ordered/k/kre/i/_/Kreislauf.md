@@ -27,3 +27,4 @@ Einzigartige mögliche Formen: [[Kreislaufs]], [[Kreislaufe]], [[Kreisläufe]], 
 ---
 
 #Substantiv #Neuter, [[s1 e1]], [[Umwälzzirkulation]], [[Wasserkreislauf]], [[Blutkreislauf]]
+, [[kreisen]]

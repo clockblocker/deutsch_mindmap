@@ -1,2 +1,2 @@
 Inf: [[können]]
-, [[Teekanne]]
+, [[Teekanne]], [[unbewältigen]]

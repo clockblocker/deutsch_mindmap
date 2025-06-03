@@ -18,4 +18,4 @@ Synonyme:
 ---
 
 #Substantiv #Feminin, [[üben]], [[Vorlesung]], [[üblich]], [[Lückentext]], [[Übungsbuch]], [[Ausübung]]
-, [[Lernaufgabe]]
+, [[Lernaufgabe]], [[ungeübt]]

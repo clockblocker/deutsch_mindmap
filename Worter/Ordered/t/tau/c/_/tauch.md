@@ -1,2 +1,2 @@
 , [[tauchten]], [[untertauchen]], [[auftauchten]]
-, [[Taucher]], [[auftauchen]]
+, [[Taucher]], [[auftauchen]], [[Eintauchen]]

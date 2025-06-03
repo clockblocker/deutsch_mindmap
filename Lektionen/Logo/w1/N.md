@@ -1,2 +1,2 @@
 кончик языка к верхним бугорочкам![[Pasted image 20240915203840.png]]
-, [[altern]], [[abwandern]], [[fördern]]
+, [[altern]], [[abwandern]], [[fördern]], [[speichern]]

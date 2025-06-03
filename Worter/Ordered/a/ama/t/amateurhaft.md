@@ -1,1 +1,1 @@
-, [[berufserfahren]]
+, [[berufserfahren]], [[ungeübt]]

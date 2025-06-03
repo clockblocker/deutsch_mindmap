@@ -13,7 +13,7 @@ _wie auch der Kaspar »Feuer« rief._
 
 ---
 
-Synonyme: [[eintauchen]], [[untertauchen]], [[abtauchen]], [[abtriften]], [[sinken]]
+Synonyme: [[Eintauchen]], [[untertauchen]], [[abtauchen]], [[abtriften]], [[sinken]]
 Antonyme: [[auftauchen]], [[aufsteigen]], [[schwimmen]], [[emporsteigen]]
 
 ---

@@ -26,4 +26,4 @@ N: [[auswendiges]], [[auswendigeres]], [[auswendigstes]]
 P: [[auswendigen]], [[auswendigeren]], [[auswendigsten]]  
 
 ---
-[[lernen]], [[Gedächtnis]], [[memorieren]], [[wiedergeben]], [[kennen]], [[Vorlage]], [[durchmogeln]], [[1 Präpositionen Übungen]]
+[[lernen]], [[Gedächtnis]], [[memorieren]], [[wiedergeben]], [[kennen]], [[Vorlage]], [[durchmogeln]], [[1 Präpositionen Übungen]], [[speichern]]

@@ -28,4 +28,4 @@ G: des [[Tauchers]], der [[Taucher]]
 D: dem [[Taucher]], den [[Tauchern]]
 
 
-#Maskulin 
+#Maskulin , [[Eintauchen]]

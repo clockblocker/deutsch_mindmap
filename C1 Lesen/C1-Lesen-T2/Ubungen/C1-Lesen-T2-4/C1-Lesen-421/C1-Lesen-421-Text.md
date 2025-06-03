@@ -58,3 +58,5 @@ Auch weiter nördlich, in Berlin, ist Overtourismus nicht unbekannt. Darum umwir
 - [ ] _a_ hat kaum Außenbezirke mit sehenswerten Örtlichkeiten.
 - [ ] _b_ ist der Klassifizierung als Destination mit Overtourismus bisher entgangen.
 - [ ] _c_ vermeldet immer neue Rekorde bei den Besucherzahlen.
+
+

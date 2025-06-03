@@ -4,6 +4,8 @@
 ---
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
 
+*[[C1-Lesen-431-Text#^8|^]]* [[Bestanden]] hat, wer sich am Ende noch gut an den Text erinnern kann und nicht [[wieder von vorn]] beginnen muss
+
 *[[bro-schrieben-c1-t1-003#^6|^]]* Dazu kommt, dass man sein soziales Leben `von` [[Anfang]] `an` [[aufbauen]] muss und es eine Möglichkeit [[besteht]], in einem anderen Staat einsam zu leben
 
 *[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]

@@ -1,1 +1,1 @@
-, [[Taucher]]
+, [[Taucher]], [[Eintauchen]]

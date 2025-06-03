@@ -1,1 +1,1 @@
-, [[Reif]], [[unreif]], [[erfahren]], [[erfahrenen]], [[weltfremd]], [[berufserfahren]]
+, [[Reif]], [[unreif]], [[erfahren]], [[erfahrenen]], [[weltfremd]], [[berufserfahren]], [[ungeübt]]

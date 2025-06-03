@@ -1,2 +1,2 @@
 🐳 [[tauchen]], [ˈtaʊ̯xn̩]
-, [[auftauchen]]
+, [[auftauchen]], [[Eintauchen]]

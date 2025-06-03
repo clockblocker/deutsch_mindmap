@@ -1,1 +1,1 @@
-, [[umgeben]], [[Umkreis]]
+, [[umgeben]], [[Umkreis]], [[kreisen]]

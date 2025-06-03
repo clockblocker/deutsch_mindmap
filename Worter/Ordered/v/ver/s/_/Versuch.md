@@ -6,8 +6,9 @@
 die [[Versuche]]
 
 ---
+*[[C1-Lesen-411-Text#^2|^]]* Dazu gehört auch die Schwierigkeit, die ganze Nacht durchzuschlafen bzw. der [[erfolglos]]e [[Versuch]] wieder einzuschlafen, wenn man einmal aufgewacht ist
 
-[[1 ADHD#^11|^]] ist beim [[Versuch]], sich zu konzentrieren, leicht [[abgelenkt]] durch Dinge, die sie sieht oder hört. ^11
+[[1 ADHD#^11|^]] ist beim [[Versuch]], sich zu konzentrieren, leicht [[abgelenkt]] durch Dinge, die sie sieht oder hört
 
 ---
 

@@ -1,1 +1,1 @@
-, [[wünschen]], [[bitten]], [[anflehen]], [[fordern]], [[unerbittlich]]
+, [[wünschen]], [[bitten]], [[anflehen]], [[fordern]], [[unerbittlich]], [[heischen]]

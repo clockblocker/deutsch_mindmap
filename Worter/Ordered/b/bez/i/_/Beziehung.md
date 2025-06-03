@@ -44,3 +44,4 @@ D: der [[Beziehung]], den [[Beziehungen]]
 , [[Interaktion]], [[Kommunikation]], [[Anschluss]], [[Unabhängigkeit]]
 
 #Feminin , [[Zusammenspiel]], [[Wechselwirkung]], [[Partnerwahl]], [[Spannungsverhältnis]], [[Geschäftsbeziehung]], [[Verbindlichkeit]]
+, [[Abhängigkeit]]

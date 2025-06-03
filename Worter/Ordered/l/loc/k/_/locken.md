@@ -4,6 +4,8 @@
 *[[C1-Lesen-T2-102-Text#^1|^]]* [[Gelockt]] wird sie von [[Gemüse]], das sie aus [[Dutzenden]] Metern [[Entfernung]] [[riechen]] kann. ^1
 
 
+*[[C1-Lesen-431-Text#^4|^]]* Beim [[Eintauchen]] in einen Text im Internet [[locken]] uns zusätzlich andere dort bereitstehende Artikel, YouTube-Videos oder E-Mails, die während des Lesens unsere [[Aufmerksamkeit]] [[heischen]]
+
 ---
 = [[anlocken]], [[anziehen]], [[verführen]]
 ≈ [[reizen]], [[interessieren]], [[begeistern]],  [[winken]]

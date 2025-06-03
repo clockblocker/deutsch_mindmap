@@ -1,14 +1,14 @@
-[[Spur]], [[Buchstabe]]
 🖊️🟢 das [[Zeichen]], [ˈtsaɪ̯çən]
 die [[Zeichen]]
 
 ---
+*[[C1-Lesen-431-Text#^6|^]]* [[Zeichen]] einer schlechten Konzentration ist [[auf alle Fälle]], wenn man oft im Text zurückspringen muss, um zu verstehen
 
 ---
 
 Synonyme:
 
-- [[Symbol]], [[Markierung]], [[Hinweis]], [[Signal]], [[Indikator]]
+- [[Symbol]], [[Markierung]], [[Hinweis]], [[Signal]], [[Indikator]][[Spur]], [[Buchstabe]]
 
 ---
 

@@ -9,7 +9,7 @@ haben [[ausgewrungen]]
 ---
 
 Synonyme: [[abtropfen]], [[auspulen]], [[ausquetschen]], [[ausdrücken]], [[entfeuchten]]
-Antonyme: [[eintauchen]], [[einwässern]], [[befeuchten]]
+Antonyme: [[Eintauchen]], [[einwässern]], [[befeuchten]]
 
 ---
 

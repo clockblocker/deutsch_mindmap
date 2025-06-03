@@ -3,6 +3,8 @@
 ⚠️ [[gefährden]], [ɡəˈfɛːɐ̯dn̩](https://youglish.com/pronounce/gefährden/german) → [[gefährdete]] → haben [[gefährdet]]
 
 ---
+*[[C1-Lesen-431-Text#^3|^]]* Neben dem Smartphone können sich auch Lärm, Musik oder die Präsenz anderer Menschen in unser [[Bewusstsein]] [[schleichen]] und die Lesekonzentration [[gefährden]]
+
 Falls wir bis Ende der Woche mit einer ersten Version der Präsentation nicht fertig sind, können wir den [[Auftrag]] [[gefährden]] – und damit monatelange [[Vorarbeit]] aufs Spiel setzen. 
 
 *[[C1-Hoehen-T1-202-Text#^26|^]]* *Heute fordern die [[Vereinten]] Nationen eine Entwicklung beim Klimaschutz, die den [[Erfordernis]]sen der heutigen Generationen [[zwar]] [[entspricht]],* 

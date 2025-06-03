@@ -6,8 +6,6 @@
 *[[C1-Lesen-411-Text#^2|^]]* Die [[Kriterien]] für guten oder schlechten Schlaf `lassen` `sich` `an` drei einfachen Fragen [[festmachen]]:
 *(The [[criteria]] for good or bad sleep `can` `be` [[determined]] by three simple questions)*
 
-
-
 ---
 = [[befestigen]], [[anbinden]], [[fixieren]] | [[bestimmen]], [[festlegen]], [[entscheiden]]
 ≈ [[verankern]], [[sichern]], [[fixieren]] | [[vereinbaren]], [[beschließen]], [[vereinbaren]], [[schnallen]], [[zusammenschrauben]], [[entschließen]], [[anlegen]], [[festlegen]], [[bestimmen]], [[anheften]], [[wurzeln]]

@@ -3,18 +3,17 @@
 ---
 🔴 👁️ die [[Aufmerksamkeit]], [ˈaʊ̯fmerkˌzaːmkɐɪ̯t]
 
-*[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
-
-
 ---
-[[1 ADHD#^8|^]] hat Schwierigkeiten, ihre [[Aufmerksamkeit]] bei der Arbeit oder in der Freizeit [[aufrechtzuerhalten]]. ^8  
+*[[C1-Lesen-431-Text#^4|^]]* Beim [[Eintauchen]] in einen Text im Internet [[locken]] uns zusätzlich andere dort bereitstehende Artikel, YouTube-Videos oder E-Mails, die während des Lesens unsere [[Aufmerksamkeit]] [[heischen]]
 
 *Vielen Dank `für` Ihre* [[Aufmerksamkeit]].
 
+*[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
 
-*[[4 Autofrei#^2|^]]* Obwohl es nur ein Teil der großen Diskussion über die [[Abhängigkeit]] vom Auto ist, zieht dieses Thema viel [[Aufmerksamkeit]] auf sich, weil es so einfach ist, es praktisch [[umzusetzen]]. ^2
 
-*[[3 Soll man Geld spenden?#^11|^]]* Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]. ^11
+*[[4 Autofrei#^2|^]]* Obwohl es nur ein Teil der großen Diskussion über die [[Abhängigkeit]] vom Auto ist, zieht dieses Thema viel [[Aufmerksamkeit]] auf sich, weil es so einfach ist, es praktisch [[umzusetzen]]
+
+*[[3 Soll man Geld spenden?#^11|^]]* Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]
 
 ---
 = [[Zuwendung]], [[Interesse]], [[Konzentration]], [[aufmerksam]], [[zuhören]]

@@ -1,1 +1,1 @@
-Inf: [[üben]], [[erfahrenen]]
+Inf: [[üben]], [[erfahrenen]], [[ungeübt]]
