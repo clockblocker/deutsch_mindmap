@@ -1,1 +1,3 @@
-, [[nicken]], [[hinweisen]], [[weisen]], [[zeigen]], [[hindeuten]]
+= [[anspielen]], [[weisen]], [[hindeuten]]
+≈ [[zeigen]], [[nicken]], [[hinweisen]]
+≠ 

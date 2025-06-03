@@ -46,3 +46,4 @@ Partizip I: [[tuend]], Partizip II: [[getan]]
 
 [[tun]] - keine Trennbarkeit
 ''', [[reintun]], [[ablehnen]], [[antun]], [[begehen]], [[kundtun]], [[Tat]], [[leichter gesagt als getan]], [[schwertun]]
+, [[planen]]

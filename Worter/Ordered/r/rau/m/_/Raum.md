@@ -28,4 +28,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Raumes]], [[Raum]], [[Räume]], [[Räumen]]
 
 ---
-#Maskulin , [[Zeitraum]], [[Raumflug]], [[Weltall]], [[Weltraum]], [[Raumfahrt]], [[Wohnraum]]
+#Maskulin , [[Zeitraum]], [[Raumflug]], [[Weltall]], [[Weltraum]], [[Raumfahrt]], [[Wohnraum]], [[Funktionsraum]]

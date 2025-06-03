@@ -36,3 +36,4 @@ D: dem [[Urlaub]], den [[Urlauben]]
 - , [[Bindungsurlaub]], [[Reise]], [[Abwesenheit]], [[Arbeitsform]]
 
 #Maskulin , [[Bürosituation]], [[Urlaubstag]], [[Dienstreise]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Reiseverhalten]], [[Hotelaufenthalt]], [[Urlaubsparadies]], [[Breitentourismus]], [[Arbeitszeit]]
+, [[Arbeitsalltag]]

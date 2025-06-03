@@ -14,6 +14,20 @@ Sie studieren derzeit an der Hochschule Ihrer Stadt und möchten Ihr obligatoris
 
 ---
 
+*Sehr geehrte Frau Dr. Weber,*  
+
+*ich wende mich an Sie,* da ich auf Ihrer Unternehmenswebsite gelesen habe, `dass` Sie ein Praktikum im KI R&D-Team anbieten. `Hiermit` möchte ich mein Interesse bekunden, mein Praxissemester in Ihrem Team zu absolvieren.
+
+`Seitdem` Ihr Kollege, Herr Dr. Mayer, uns eine Vorlesung `über` Ihre Forschung gehalten hat, verfolge ich aufmerksam die externen Mitteilungen Ihres Teams.
+
+*Zurzeit* studiere ich im zweiten Semester der Technischen Universität München. In meiner Freizeit nehme ich `an` Hackathons `im` Bereich KI und Datenanalyse teil. Deshalb hoffe ich, in kurzer Zeit Ihr Team mit meinen Fähigkeiten bereichern zu können. 
+
+*Sollten* Sie Interesse haben, *schlage ich vor, dass* wir ein kurzes Telefonat vereinbaren und uns anschließend persönlich austauschen.
+
+*Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.*
+
+*Mit freundlichen Grüßen*  
+*Denis Popov*
 
 
 
@@ -27,7 +41,7 @@ Sie studieren derzeit an der Hochschule Ihrer Stadt und möchten Ihr obligatoris
 
 
 
-
+---
 
 
 *[[214-C1-Schreiben-T2#^1|^]]* Sie studieren [[derzeit]] [[Wirtschaftsinformatik]] `an` der Hochschule Ihrer Stadt und möchten Ihr [[obligatorisch]]es [[Praxissemester]] in einem innovativen Unternehmen [[absolvieren]]. ^1

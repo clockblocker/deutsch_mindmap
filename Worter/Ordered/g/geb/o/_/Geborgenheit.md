@@ -1,5 +1,3 @@
---> [[Ingredient-Risiko-Schutz-Nomen]] <--
-
 😌 🔴 die [[Geborgenheit]], [ɡəˈbɔʁɡn̩haɪ̯t](https://youglish.com/pronounce/Geborgenheit/german)
 
 ---
@@ -32,3 +30,6 @@ G: der [[Geborgenheit]], der [[Geborgenheiten]]
 D: der [[Geborgenheit]], den [[Geborgenheiten]]
 
 #Feminin 
+
+
+--> [[Ingredient-Risiko-Schutz-Nomen]] <--

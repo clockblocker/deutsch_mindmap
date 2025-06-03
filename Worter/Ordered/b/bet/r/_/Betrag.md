@@ -30,4 +30,4 @@ D: dem [[Betrag]], den [[Beträgen]]
 , [[belaufen]]
 
 
-#Maskulin , [[Förderbetrag]], [[Fehlbetrag]]
+#Maskulin , [[Förderbetrag]], [[Fehlbetrag]], [[Anzahl]]

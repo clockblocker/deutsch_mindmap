@@ -41,9 +41,10 @@ Die Kamera [[zeigt]] den eisigen Südpol und schwingt über einen [[riesigen]], 
 | _Appa steht auf und [[läuft]] los, fliegt aber nicht._                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ---
-= [[vorführen]], [[darstellen]], [[demonstrieren]]
-≈ [[hinweisen]], [[andeuten]], [[offenbaren]], [[präsentieren]]
+= [[vorführen]], [[darstellen]], [[demonstrieren]], [[nachweisen]], [[aufzeigen]]
+≈ [[hinweisen]], [[andeuten]], [[offenbaren]], [[präsentieren]], [[bewähren]], [[ausweisen]], [[belegen]],  [[herausstellen]], [[entlarven]], [[bekunden]]
 ≠ [[verbergen]], [[verheimlichen]], [[verdecken]]
+
 
 ---
 to show, to demonstrate
@@ -91,4 +92,5 @@ sie, [[zeigen]], [[zeigten]], [[zeigen]], [[zeigten]], [[zeigen]]
 Adjektive: [[zeigend]], [[zeigender]], [[zeigendst]]
 
 ---
-[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]], [[Sachzwang]], [[bewähren]], [[belegen]], [[ausweisen]], [[herausstellen]], [[aufweisen]], [[aufzeigen]], [[nachweisen]], [[entlarven]], [[bekunden]]
+[[zeigender]], [[zeigendes]], [[zeigende]], [[zeigenden]], [[zeigendem]], [[zeigenderer]], [[zeigenderes]], [[zeigendere]], [[zeigenderen]], [[zeigenderem]], [[zeigendster]], [[zeigendstes]], [[zeigendste]], [[zeigendsten]], [[zeigendstem]]
+

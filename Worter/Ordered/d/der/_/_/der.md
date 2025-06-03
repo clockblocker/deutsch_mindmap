@@ -6,4 +6,4 @@ der [[Tod]]
 
 --- 
 
-#Relativpronomen #pronomen 
+#Relativpronomen #pronomen , [[fördern]]

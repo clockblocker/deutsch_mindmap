@@ -26,3 +26,6 @@ N: der [[Wissenschaftszweig]], die [[Wissenschaftszweige]]
 A: den [[Wissenschaftszweig]], die [[Wissenschaftszweige]]
 G: des [[Wissenschaftszweigs]], der [[Wissenschaftszweige]]
 D: dem [[Wissenschaftszweig]], den [[Wissenschaftszweigen]]
+
+
+#Maskulin 

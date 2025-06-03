@@ -1,1 +1,1 @@
-, [[vorhaben]], [[planenden]], [[Grobplanung]], [[Vorarbeit]], [[Vorbereitung]], [[Umsetzung]], [[Städteplanung]], [[Bauplan]], [[Vorausberechnung]]
+, [[vorhaben]], [[planenden]], [[Grobplanung]], [[Vorarbeit]], [[Vorbereitung]], [[Umsetzung]], [[Städteplanung]], [[Bauplan]], [[Vorausberechnung]], [[planen]]

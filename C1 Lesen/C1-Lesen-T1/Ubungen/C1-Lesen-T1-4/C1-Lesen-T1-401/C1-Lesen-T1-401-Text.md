@@ -1,4 +1,5 @@
-[[0-C1-Lesen-T1-Ubung-List|List]]
+[[0-C1-Lesen-T1-Ubung-List|Tiles]]
+[[Lesen-C1-Models|Models]]
 
 ---
 
@@ -41,50 +42,58 @@ Wenn das Gehirn nachts nicht genug Ruhe bekommt, versucht es, am Tag 8 ... zu ko
 Das schädigt das Gehirn dauerhaft. Die Studie kommt zu dem Ergebnis, dass regelmäßige Schlafenszeiten ausgesprochen wichtig sind. Der Schlaf sollte erholsam sein und die Schlafdauer möglichst konstant bleiben.
 
 ---
-
 ---
 
-0.  - [ ] a jedenfalls
+0. 
+	- [ ] a jedenfalls
     - [ ] b in diesem Fall
-    - [x] c keinesfalls
+    - [ ] c keinesfalls
     - [ ] d falls
 
-1.  - [x] a lassen
-    - [ ] b können ?
+1.  
+	- [ ] a lassen
+    - [ ] b können 
     - [ ] c werden
     - [ ] d würden
 
-2.  - [x] a Versuch
+2.  
+	- [ ] a Versuch
     - [ ] b Bereich
     - [ ] c Fehler
     - [ ] d Umgang
 
-3.  - [ ] a weshalb
+3.  
+	- [ ] a weshalb
     - [ ] b dennoch
     - [ ] c obwohl ?
     - [ ] d denn
 
-4.  - [ ] a was
+4.  
+	- [ ] a was
     - [ ] b das
     - [ ] c wie
     - [ ] d die
 
-5.  - [ ] a womit
+5.  
+	- [ ] a womit
     - [ ] b wodurch
     - [ ] c somit
     - [ ] d sodass
 
-6.  - [ ] a gestrichen
+6.  
+	- [ ] a gestrichen
     - [ ] b untersucht
     - [ ] c beobachtet
     - [ ] d integriert
 
-7.  - [ ] a entschlossen
+7.  
+	- [ ] a entschlossen
     - [ ] b überzeugt
     - [ ] c fähig
     - [ ] d nötig
 
-8.  - [ ] a in Bewegung
+8.  
+	- [ ] a in Bewegung
     - [ ] b zur Vernunft
     - [ ] c in Kontakt
-    - [x] d zur Ruhe
+    - [ ] d zur Ruhe

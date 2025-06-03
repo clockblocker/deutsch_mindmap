@@ -1,9 +1,11 @@
 --> [[🎯 Ingredient-Result-Verb]] <--
 
-🆙 [[fördern]], [ˈfœʁdɐn] | [[förderte]], haben [[gefördert]]
+🆙 [[fördern]]  [ˈfœʁdɐn](https://youglish.com/pronounce/fördern/german) | [[förderte]], haben [[gefördert]]
 
 ---
 *[[M1A1.md#^1|^]]* Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn?
+
+*[[212-C1-Schreiben-Model#^1|^]]* *ich habe vollstes Verständnis dafür, dass* geplante Funktionsräume die interne Kommunikation [[fördern]] – ein Aspekt, der `im` [[Arbeitsalltag]] [[unabdingbar]] ist
 
 *[[C1-Hoehen-T3-301-Text#^43|^]]* [[Gezielte]] [[Zuwanderung]] für die duale [[Berufsausbildung]] sollte [[ebenso]] [[beworben]] und [[gefördert]] werden wie der Studienstandort Deutschland
 
@@ -50,3 +52,8 @@ PI: [[fördernd]], PII: [[gefördert]], Zu+inf: [[zufördern]]
 [[Förderung]], [[Förderer]], [[Förderung]], [[förderlich]], [[Förderband]]
 , [[schaden]], [[unterstützen]]
 , [[benachteiligen]], [[stärken]], [[verzögern]], [[beeinträchtigen]], [[steigern]], [[beitragen]], [[verstärken]], [[ausbauen]], [[Fördermittel]], [[Förderbetrag]], [[betreiben]], [[forcieren]], [[eindämmen]], [[hochtreiben]], [[bereichern]], [[entgegenwirken]], [[weiterhelfen]], [[unterbinden]], [[beschleunigen]]
+
+Adjektive: [[fördernd]], [[fördernder]], [[förderndst]]
+
+---
+[[fördernder]], [[förderndes]], [[fördernde]], [[fördernden]], [[förderndem]], [[fördernderer]], [[fördernderes]], [[förderndere]], [[fördernderen]], [[fördernderem]], [[förderndster]], [[förderndstes]], [[förderndste]], [[förderndsten]], [[förderndstem]]

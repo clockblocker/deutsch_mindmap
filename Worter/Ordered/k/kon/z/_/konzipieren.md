@@ -1,1 +1,1 @@
-, [[erfinden]], [[entwerfen]], [[designen]], [[Arbeitskonzept]], [[ausdenken]]
+, [[erfinden]], [[entwerfen]], [[designen]], [[Arbeitskonzept]], [[ausdenken]], [[planen]]

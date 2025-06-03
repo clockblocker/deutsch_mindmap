@@ -28,4 +28,4 @@ G: des [[Wohnraums]], der [[Wohnräume]]
 D: dem [[Wohnraum]], den [[Wohnräumen]]
 
 
-#Maskulin 
+#Maskulin , [[Funktionsraum]]

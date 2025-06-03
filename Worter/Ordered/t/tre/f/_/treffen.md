@@ -1,7 +1,8 @@
 🤝 [[treffen]], [ˈtʁɛfn̩] | [[traf]], haben [[getroffen]]
 
 ---
-Ты встречаешь подругу – Du triffst deine Freundin.
+*[[212-C1-Schreiben-Model#^5|^]]* *Sollte die Entscheidung* zur Schließung der Kantine *nicht rückgängig gemacht werden können,* *schlage ich vor,* mit einem Lieferdienst eine [[Firmenvereinbarung]] zu [[treffen]]. ^5
+
 
 *[[C1-Lesen-T3-301-Text#^16|^]]* Die [[Wahl]] war offensichtlich gut [[getroffen]], denn die [[Auswertung]]en, die die Gesellschaft für [[Konsumforschung]] hier [[durchführte]], [[voraussagen|sagten]] zu 90 Prozent die späteren [[Marktdaten]] voraus
 

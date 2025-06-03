@@ -1,1 +1,1 @@
-, [[Wahllokals]]
+, [[Wahllokals]], [[Funktionsraum]]

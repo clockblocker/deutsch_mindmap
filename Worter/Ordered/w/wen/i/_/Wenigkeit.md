@@ -1,2 +1,2 @@
 --> 🧮 [[Grad-Quantität]] <--
-, [[Unmenge]], [[Vielzahl]]
+, [[Unmenge]], [[Vielzahl]], [[Anzahl]]

@@ -1,1 +1,1 @@
-, [[überlegen]], [[spontan]]
+, [[überlegen]], [[spontan]], [[planen]]

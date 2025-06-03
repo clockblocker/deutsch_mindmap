@@ -8,6 +8,10 @@
 ---
 *[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden
 
+*[[213-C1-Schreiben-Model#^5|^]]* *erschwert das Arbeiten mit Laptops für*
+alle Studierenden, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], erheblich
+*(all students `whose` studies [[require]] `the` use of laptops, considerably)*
+
 *[[C1-Lesen-T3-301-Text#^33|^]]* Sie ahnen es schon: In den Zeiten von [[Punktesystem]]en, [[Kundenkarte]]n und Apps und Online-[[Befragung]]en kommen Firmen viel leichter und mit [[gering]]erem [[Einsatz]] an [[valid]]e [[Datenmenge]]n über das [[Kaufverhalten]] alter und neu zu erschließender Zielgruppen
 
 Dr. Frentzen sagt, dass [[verpflichtende]] soziale [[Einsätze]] [[überzeugen]]de [[Gründe]] haben müssen. 

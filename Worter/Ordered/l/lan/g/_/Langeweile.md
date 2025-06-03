@@ -31,3 +31,5 @@ A: die [[Langeweile]], die [[Langweilen]]
 G: der [[Langeweile]], der [[Langweilen]]
 D: der [[Langeweile]], den [[Langweilen]]
 , [[langwierig]]
+
+#Feminin 

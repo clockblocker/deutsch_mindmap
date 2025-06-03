@@ -11,17 +11,40 @@
 
 ---
 ###### *Model*
-Um an dem vor Ort stattfindenden Studium teilnehmen zu können, benötige ich
+Aufgabenbereich erweitern, sondern auch wertvolle
 
 ###### *Versuch* 
+Aufgabenbereich erweitern, sondern auch wertvolle
+
 
 ---
 ###### *Model*
-zukünftiges MBA-Studium an der Technischen Universität München einzugehen.
+vollständich im Homeoffice
 
 ###### *Versuch* 
-zukünftiges MBA-Studium an der Technischen Universität München einzugehen.
+vollständlich im Homeoffice
 
+
+---
+###### *Model*
+Um an dem vor Ort stattfindenden Studium teilnehmen zu können, benötige ich
+
+###### *Versuch* 
+Um an dem vor Ort stattfindenden Studium teilnehmen zu können, benötige ich
+
+---
+###### *Model*
+mein zukünftiges MBA-Studium an der Technischen Universität München einzugehen.
+
+###### *Versuch* 
+mein zukünftiges MBA-Studuim an der Technischen Universität München einzugehen.
+
+---
+###### *Model*
+Sollte zurzeit keine längere Freistellung ermöglicht werden können,
+
+###### *Versuch* 
+Sollte zurzeit keine längere Freistellung ermöglicht werden können,
 
 
 ---
@@ -44,8 +67,6 @@ Sehr geehrte Frau Keller
 ich wende mich an Sie, um auf mein zukünftiges MBA-Studium an der Technischen Universität München einzugehen.
 
 ###### *Versuch* 
-ich wende mich an Sie, um auf mein zukünftiges MBA-Studium an der Technischen Universität München einzugehen.
-
 
 
 ---
@@ -53,8 +74,6 @@ ich wende mich an Sie, um auf mein zukünftiges MBA-Studium an der Technischen U
 Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel und Arbeitsdruck nicht alle Bedürfnisse berücksichtigen kann.
 
 ###### *Versuch* 
-Ich habe vollstes Verständnis dafur, dass die Firma unter Personalmangel und Arbeitsdruck nicht alle Bedürfnisse berücksichtigen kann.
-
 
 
 ---
@@ -62,7 +81,6 @@ Ich habe vollstes Verständnis dafur, dass die Firma unter Personalmangel und Ar
 Allerdings habe ich zwei Jahre daran gearbeitet, einen Platz im Programm zu sichern. Um an dem vor Ort stattfindenden Studium teilnehmen zu können, benötige ich eine sechsmonatige Bildungsfreistellung.
 
 ###### *Versuch* 
-Allerdings habe ich zwei Jahre daran gearbeitet, einen Platz im Programm zu sichern. Um an dem stattfindenden Studium teilnehmen zu können, benötige ich eine sechsmonatige Bildungsfreistellung. 
 
 
 ---
@@ -70,15 +88,13 @@ Allerdings habe ich zwei Jahre daran gearbeitet, einen Platz im Programm zu sich
 Am Ende des Programms könnte ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch wertvolle Netzwerke mitbringen - wodurch die Firma neue Kunden und Partner gewinnen könnte.
 
 ###### *Versuch* 
-Am Ende des Programms, könnte ich nicht nur meinen aktuellen Aufgabenberich erweitern, sondern auch wertvolle Netzwerke mitbringen - wodurch die Firma neue Kunde und Partner gewinnen könnte.
 
 
 ---
 ###### *Model*
-Sollte momentan keine längere Freistellung ermöglicht werden können, schlage ich vor, dass ich während des Studiums vollständig aus dem Homeoffice arbeiten darf.
+Sollte derzeit keine längere Freistellung ermöglicht werden können, schlage ich vor, dass ich während des Studiums vollständig aus dem Homeoffice arbeiten darf.
 
 ###### *Versuch* 
-Sollte momentan keine längere Freistellung ermöglicht werden können, schlage ich vor, dass ich während des Studiums vollständig aus dem Homeoffice arbeiten darf 
 
 
 ---
@@ -86,7 +102,6 @@ Sollte momentan keine längere Freistellung ermöglicht werden können, schlage 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
 ###### *Versuch* 
-Ich freue mich auf Ihre Rückmeldiung und danke Ihnen im Voraus
 
 
 
@@ -96,7 +111,5 @@ Mit freundlichen Grüßen
 Denis Popov
 
 ###### *Versuch* 
-Mit freudlichen Grüßen
-Denis Popov
 
 

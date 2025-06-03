@@ -45,4 +45,4 @@ D: der [[Abteilung]], den [[Abteilungen]]
 [[abteilungsintern]], [[abteilungsübergreifend]], [[abtrennen]], [[aufteilen]], [[abteilen]], [[Einkaufsbereich]]
 
 #Feminin , [[Referat]]
-, [[Forschungsabteilung]], [[Personalabteilung]]
+, [[Forschungsabteilung]], [[Personalabteilung]], [[Funktionsraum]]

@@ -23,6 +23,7 @@
 
 ---
 ###### *Model*
+Ich möchte mich zunächst dafür bedanken, dass Sie unsere zweiwöchige Gruppenreise so kompetent begleitet haben. Besonders gefielen mir die sorgfältig ausgewählten Ausflüge und die freundliche Betreuung `durch` Sie und Ihr Team.
 
 
 ###### *Versuch* 
@@ -30,21 +31,7 @@
 
 ---
 ###### *Model*
-
-
-###### *Versuch* 
-
-
-
----
-###### *Model*
-
-
-###### *Versuch* 
-
-
----
-###### *Model*
+Allerdings bin ich trotz dieser positiven Erlebnisse unzufrieden, da die Busfahrten mehrfach verspätet waren und in den gebuchten Unterkünften die Sauberkeit und Verpflegung nicht dem beschriebenen Standard entsprachen.
 
 
 ###### *Versuch* 
@@ -53,6 +40,7 @@
 
 ---
 ###### *Model*
+Könnte in diesem Zusammenhang eine Entschädigung für die entstandenen Unannehmlichkeiten in Betracht gezogen werden?
 
 
 ###### *Versuch* 
@@ -60,21 +48,7 @@
 
 ---
 ###### *Model*
-
-
-###### *Versuch* 
-
-
-
----
-###### *Model*
-
-
-###### *Versuch* 
-
-
----
-###### *Model*
+Um solche Mängel zukünftig zu vermeiden, *schlage ich vor,* Verträge mit zuverlässigen Transportunternehmen abzuschließen und die Unterkunftsqualität vor Reisebeginn regelmäßig zu überprüfen.
 
 
 ###### *Versuch* 
@@ -83,30 +57,7 @@
 
 ---
 ###### *Model*
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
-
-###### *Versuch* 
-
-
----
-###### *Model*
-
-
-###### *Versuch* 
-
-
-
----
-###### *Model*
-
-
-###### *Versuch* 
-
-
----
-###### *Model*
-
-
-###### *Versuch* 
-
-
+Mit freundlichen Grüßen
+Denis Popov

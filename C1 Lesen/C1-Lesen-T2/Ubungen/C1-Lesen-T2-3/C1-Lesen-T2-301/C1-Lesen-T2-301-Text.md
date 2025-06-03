@@ -4,7 +4,7 @@
 
 Über Methoden und Probleme von Greenwashing
 
-Verbraucherumfragen der letzten Jahre zeigen einen eindeutigen Trend: Immer mehr Verbraucherinnen und Verbraucher achten bei ihren Einkäufen auf Fragen der Nachhaltigkeit und des Umweltschutzes – und immer mehr sind bereit, dafür einen höheren Preis zu zahlen. Laut einer kürzlich durchgeführten Befragung von über 14-Jährigen in Deutschland gab über ein Drittel an, für umweltfreundliche Produkte mehr Geld ausgeben zu wollen.
+Verbraucherumfragen der letzten Jahre [[zeigen]] einen eindeutigen Trend: Immer mehr Verbraucherinnen und Verbraucher achten bei ihren Einkäufen auf Fragen der Nachhaltigkeit und des Umweltschutzes – und immer mehr sind bereit, dafür einen höheren Preis zu zahlen. Laut einer kürzlich durchgeführten Befragung von über 14-Jährigen in Deutschland gab über ein Drittel an, für umweltfreundliche Produkte mehr Geld ausgeben zu wollen.
 
 Studien zeigen darüber hinaus, dass umweltfreundliches Engagement den Ruf von Unternehmen verbessern kann und so nicht nur die Kaufabsichten der Verbraucherinnen und Verbraucher beeinflusst, sondern auch für eine stärkere Kundbindung sorgt. In dieser Situation geben allerdings einige Unternehmen der Versuchung nach, „Greenwashing“ zu betreiben, d. h. sie nutzen verschiedene Verschleierungsmaßnahmen, um ihre Aktivitäten und Produkte umweltfreundlicher darzustellen als sie eigentlich sind.
 

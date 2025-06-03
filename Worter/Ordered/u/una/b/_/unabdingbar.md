@@ -1,7 +1,8 @@
 💯 [[unabdingbar]], [ˈʊnʔapˌdɪŋbaːɐ̯](https://youglish.com/pronounce/unabdingbar/german)
 
 ---
-der im Arbeitsalltag unabdingbar ist,
+*[[212-C1-Schreiben-Model#^1|^]]* *ich habe vollstes Verständnis dafür, dass* geplante Funktionsräume die interne Kommunikation [[fördern]] – ein Aspekt, der `im` [[Arbeitsalltag]] [[unabdingbar]] ist
+
 
 ---
 = [[unerlässlich]], [[notwendig]], [[unverzichtbar]]

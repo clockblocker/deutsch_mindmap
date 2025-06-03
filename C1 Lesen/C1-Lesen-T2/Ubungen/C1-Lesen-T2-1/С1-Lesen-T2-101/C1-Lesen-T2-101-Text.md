@@ -36,17 +36,17 @@ b) Sie gehen produktiver damit um.
 c) Spielzeug wird oft zum Streitobjekt.
 
 ---
-*[[C1-Lesen-T2-101-Text#^15|^]]* Natürlich [[weiterentwickeln|entwickeln]] sich unsere [[Sprössling]]e während des Kleinkindalters ständig weiter. ^15
+*[[C1-Lesen-T2-101-Text#^15|^]]* Natürlich [[weiterentwickeln|entwickeln]] sich unsere [[Sprössling]]e während des [[Kleinkindalter]]s ständig weiter. ^15
 
 *[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]], sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
 
 *[[C1-Lesen-T2-101-Text#^17|^]]* Diese Funktion wird erst später im Leben entwickelt. ^17
 
-*[[C1-Lesen-T2-101-Text#^18|^]]* Liegt zum Beispiel im Kleinkindalter zu viel Spielzeug [[griffbereit]], so führt das zur [[Ablenkung]] und das [[Spielverhalten]] wird gestört. ^18
+*[[C1-Lesen-T2-101-Text#^18|^]]* Liegt zum [[Beispiel]] im [[Kleinkindalter]] zu viel [[Spielzeug]] [[griffbereit]], so führt das zur [[Ablenkung]] und das [[Spielverhalten]] wird gestört. ^18
 
-*[[C1-Lesen-T2-101-Text#^20|^]]* Die Kids [[beschäftigen]] sich dann [[oberflächlich]] mit einem Spielzeug und [[übergehen|gehen]] einfach zum nächsten über. ^20
+*[[C1-Lesen-T2-101-Text#^20|^]]* Die [[Kids]] [[beschäftigen]] sich dann [[oberflächlich]] mit einem [[Spielzeug]] und [[übergehen|gehen]] einfach zum nächsten über. ^20
 
-*[[C1-Lesen-T2-101-Text#^19|^]]* Auch die [[Dauer]] des Spiels wird kürzer und es stellt sich schnell Langeweile ein. ^19
+*[[C1-Lesen-T2-101-Text#^19|^]]* Auch die [[Dauer]] des [[Spiel]]s wird kürzer und es stellt sich schnell [[Langeweile]] ein. ^19
 
 
 **11. Was könnte ein [[Zuviel]] an Spielzeug [[erzeugen]]?**  
@@ -108,6 +108,21 @@ c) Kinder brauchen mehr [[Gelegenheit]]en zum [[Toben]].
 ---
 
 
+
+
+
+
+*[[C1-Lesen-T2-101-Text#^15|^]]* Natürlich entwickeln sich unsere [[Sprössling]]e während des [[Kleinkindalter]]s ständig weiter. ^15
+
+*[[C1-Lesen-T2-101-Text#^16|^]]* Was jedoch ihre [[Aufmerksamkeit]] betrifft, sind sie noch nicht in der [[Lage]] diese zu kontrollieren. ^16
+
+*[[C1-Lesen-T2-101-Text#^17|^]]* Diese [[Funktion]] wird erst später im [[Leben]] entwickelt. ^17
+
+*[[C1-Lesen-T2-101-Text#^18|^]]* Liegt zum [[Beispiel]] im [[Kleinkindalter]] zu viel [[Spielzeug]] griffbereit, so führt das zur [[Ablenkung]] und das [[Spielverhalten]] wird gestört. ^18
+
+*[[C1-Lesen-T2-101-Text#^20|^]]* Die [[Kids]] beschäftigen sich dann oberflächlich mit einem [[Spielzeug]] und gehen einfach zum nächsten über. ^20
+
+*[[C1-Lesen-T2-101-Text#^19|^]]* Auch die [[Dauer]] des [[Spiel]]s wird kürzer und es stellt sich schnell [[Langeweile]] ein. ^19
 
 
 

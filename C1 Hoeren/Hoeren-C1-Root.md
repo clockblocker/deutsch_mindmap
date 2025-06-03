@@ -1,5 +1,5 @@
-[[Hoeren-C1-Alle-Ubungen]]
-[[Lesen-C1-Alle-Ubungen]]
+[[Hoeren-C1-Root]]
+[[Lesen-C1-Root]]
 
 *[[Passiv-Vocab-Operation-Room]]*
 

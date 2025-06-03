@@ -1,13 +1,17 @@
 [[C1-Schreiben-Root]]
 
 ---
+---
+
+[[C1-Schreiben-compare-model]]
+[[C1-Schreiben-compare-versuch]]
 
 ###### T2-V1
-- [ ] [[211-C1-Schreiben-Model|211]] Bildungsurlaub
-- [ ] [[212-C1-Schreiben-Model|212]] Schließung der Kantine
-- [ ] [[213-C1-Schreiben-Model|213]] Kein Arbeitsplatz in der Bibliothek
-- [ ] [[214-C1-Schreiben-Model|214]] Praktikum
-- [ ] [[215-C1-Schreiben-Model|215]] Schlecht Urlaub
+- [x] [[211-C1-Schreiben-Model|211]] Bildungsurlaub
+- [x] [[212-C1-Schreiben-Model|212]] Schließung der Kantine
+- [x] [[213-C1-Schreiben-Model|213]] Kein Arbeitsplatz in der Bibliothek
+- [x] [[214-C1-Schreiben-Model|214]] Praktikum
+- [x] [[215-C1-Schreiben-Model|215]] Schlecht Urlaub
 
 ###### T1-V1
 - [ ] [[111-C1-Schreiben-Model|111]] Soziale Medien – Fluxh oder Segen?
@@ -23,17 +27,17 @@
 ---
 [[Format-Teil-1]]
 
+T2-V0
+- [x] [[201-C1-Schreiben-T2|201]] Bildungsurlaub
+- [x] [[202-C1-Schreiben-T2|202]] Schließung unserer Kantine einzugehen
+- [x] [[203-C1-Schreiben-T2|203]] Kein Arbeitsplatz in der Bibliothek
 
 ###### T1-V0
 - [x] [[101-C1-Schreiben-T1|101]] Soziale Medien – Fluxh oder Segen?
 - [x] [[102-C1-Schreiben-T1|102]] Klimaschutz – aber wie?
 - [x] [[103-C1-Schreiben-T1|103]] Familie + Arbeit
 
-###### T2-V0
-- [x] [[201-C1-Schreiben-T2|201]] Bildungsurlaub
-- [x] [[202-C1-Schreiben-T2|202]] Schließung unserer Kantine einzugehen
-- [x] [[203-C1-Schreiben-T2|203]] Kein Arbeitsplatz in der Bibliothek
-
+###### 
 
 ###### Shit
 - [ ] [[101-C1-Schreiben-T1|100]] Home-Office oder Arbeitsplatz im Büro einer Firma?

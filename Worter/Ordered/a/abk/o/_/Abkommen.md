@@ -26,4 +26,4 @@ D: dem [[Abkommen]], den [[Abkommen]]
 ---
 [[abkommen]], [[abkommend]], [[vereinbaren]], [[vertraglich]]
 [[Handel]], [[Vertrag]]
-, [[Werbevertrag]]
+, [[Werbevertrag]], [[Firmenvereinbarung]]
