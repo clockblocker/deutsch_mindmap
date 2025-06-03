@@ -1,7 +1,7 @@
 🤝 [[wechselwirken]], [ˈvɛksl̩ˌvɪʁkn̩](https://youglish.com/pronounce/wechselwirken/german) → [[wirkte wechselseitig]] → [[wechselgewirkt]]
 
 ---
-*[[C1-Lesen-T1-404-Text#^16|^]]* In `7 welcher` Farbe sie [[leuchten]], [[abhängt]] `von` der [[Entfernung]] [[ab]], in der die Atome [[wechselwirken]]
+*[[C1-Lesen-414-Text#^16|^]]* In `7 welcher` Farbe sie [[leuchten]], [[abhängt]] `von` der [[Entfernung]] [[ab]], in der die Atome [[wechselwirken]]
 
 ---
 = [[interagieren]], [[aufeinander wirken]]

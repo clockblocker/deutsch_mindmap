@@ -6,7 +6,7 @@
 ---
 [[14 perfekt#^14|^]] [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. 
 
-*[[C1-Lesen-T1-401-Text#^4|^]]* Ein weiteres Problem ist das [[Einnicken]] [[tagsüber]] und das Gefühl, ständig [[schläfrig]] zu sein, `denn` man [[eigentlich]] glaubt, [[ausreichend]] geschlafen zu haben.
+*[[C1-Lesen-411-Text#^4|^]]* Ein weiteres Problem ist das [[Einnicken]] [[tagsüber]] und das Gefühl, ständig [[schläfrig]] zu sein, `denn` man [[eigentlich]] glaubt, [[ausreichend]] geschlafen zu haben.
 
 *[[C1-Hoehen-T1-202-Text#^7|^]]* Der Autor will uns also helfen, durch sorgsames Kaufen [[klarzumachen]], dass wir beim Einkaufen differenziert [[hinschauen]], was wir [[eigentlich]] [[unterstützen]]
 

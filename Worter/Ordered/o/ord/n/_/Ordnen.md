@@ -1,7 +1,7 @@
 🗂️ [[ordnen]], [ˈɔʁdnən](https://youglish.com/pronounce/ordnen/german) → [[ordnete]] → haben [[geordnet]]
 
 ---
-*[[C1-Lesen-T1-401-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[integriert]]
+*[[C1-Lesen-411-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[integriert]]
 
 
 ---

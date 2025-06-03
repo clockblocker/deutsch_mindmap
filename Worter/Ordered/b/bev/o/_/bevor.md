@@ -6,7 +6,7 @@
 ---
 Und das möglichst noch [[bevor]] du erfroren bist?
 
-*[[C1-Lesen-T1-402-Text#^5|^]]* Schon kleine Kinder benutzen ihre Hände, noch [[bevor]] sie sprechen können, um mit ihrer [[Umgebung]] zu interagieren
+*[[C1-Lesen-412-Text#^5|^]]* Schon kleine Kinder benutzen ihre Hände, noch [[bevor]] sie sprechen können, um mit ihrer [[Umgebung]] zu interagieren
 
 ---
 Synonyme: [[ehe]], [[ehe dass]], [[bis]], [[vorher]]

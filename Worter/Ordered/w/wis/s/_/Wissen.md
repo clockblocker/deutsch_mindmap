@@ -4,7 +4,7 @@
 *[[C1-Hoehen-T1-200-Text#^13|^]]* [[Entwarnung]] gibt die Autorin aber dennoch nicht: 
 Damit wir die [[existenzbedrohenden]] [[Folge]]n des Klimawandels begrenzen können, müssen wir über das [[Verhalten]] von [[Lebewesen]] genau [[Bescheid]] [[Wissen]]
 
-*[[C1-Lesen-T1-401-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[integriert]]
+*[[C1-Lesen-411-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[integriert]]
 
 
 *[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem breiten [[Bürgertum]] an [[Wissen]] [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]]

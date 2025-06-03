@@ -7,7 +7,7 @@ die [[Umgebungen]]
 
 ---
 
-*[[C1-Lesen-T1-402-Text#^5|^]]* Schon kleine Kinder benutzen ihre Hände, noch [[bevor]] sie sprechen können, um mit ihrer [[Umgebung]] zu interagieren
+*[[C1-Lesen-412-Text#^5|^]]* Schon kleine Kinder benutzen ihre Hände, noch [[bevor]] sie sprechen können, um mit ihrer [[Umgebung]] zu interagieren
 
 Ohne auf ihre [[Umgebung]] zu [[achten]], läuft sie [[weiter]] –, bis sie ein lautes [[Quietschen]] hört. Carola blickt hoch: Sie steht mitten auf der Straße, neben ihr hat ein Auto eine [[Vollbremsung]] gemacht.
 

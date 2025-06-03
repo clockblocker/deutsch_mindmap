@@ -1,7 +1,7 @@
 🙅 [[unangepasst]], [ˈʊnʔanɡəˌpast](https://youglish.com/pronounce/unangepasst/german)
 
 ---
-*[[C1-Lesen-T1-402-Text#^7|^]]* Oder [[entscheiden]] wir uns [[provozierend]] `gegen` den [[herrschenden]] Dresscode und geben uns [[unangepasst]]
+*[[C1-Lesen-412-Text#^7|^]]* Oder [[entscheiden]] wir uns [[provozierend]] `gegen` den [[herrschenden]] Dresscode und geben uns [[unangepasst]]
 
 ---
 = [[abweichend]], [[unangepasst]], [[andersartig]]

@@ -6,7 +6,7 @@
 ---
 [[Kaum]] hat man ein Mädchen dabei, schon geht alles [[schief]]!
 
-*[[C1-Lesen-T1-402-Text#^4|^]]* `Bei` [[kaum]] jemandem sind die Hände [[während]] des Sprechens [[unbeteiligt]]
+*[[C1-Lesen-412-Text#^4|^]]* `Bei` [[kaum]] jemandem sind die Hände [[während]] des Sprechens [[unbeteiligt]]
 
 Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den neuen Kollegen [[kaum]] Arbeitsraum [[vorhanden]] ist. 
 

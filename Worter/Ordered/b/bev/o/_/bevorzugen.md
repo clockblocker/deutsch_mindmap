@@ -3,7 +3,7 @@
 ---
 [[Eine Extrawurst bekommen.md#^4|^]] Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird
 
-*[[C1-Lesen-T1-405-Text#^4|^]]* Männer lügen [[bevorzugt]] bei Themen wie Beruf, Gehalt oder persönlicher [[Leistung]]. ^4
+*[[C1-Lesen-415-Text#^4|^]]* Männer lügen [[bevorzugt]] bei Themen wie Beruf, Gehalt oder persönlicher [[Leistung]]. ^4
 
 
 25 Aus Kostengründen sollte man unbemannte [[Raumflüge]] [[bevorzugen]].  a

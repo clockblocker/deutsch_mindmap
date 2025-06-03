@@ -2,7 +2,7 @@
 die [[Erfolgsschlager]]
 
 ---
-*[[C1-Lesen-T1-403-Text#^7|^]]* Als neueste Errungenschaften galten Nachahmungen von Dampfmaschine und [[Spielzeugeisenbahn]]. [[Letztere]] war der [[Erfolgsschlager]] der Firma Märklin und sie [[fortlebt|lebt]] in ihrer modernen Form als elektrische Modelleisenbahn heute noch fort
+*[[C1-Lesen-413-Text#^7|^]]* Als neueste Errungenschaften galten Nachahmungen von Dampfmaschine und [[Spielzeugeisenbahn]]. [[Letztere]] war der [[Erfolgsschlager]] der Firma Märklin und sie [[fortlebt|lebt]] in ihrer modernen Form als elektrische Modelleisenbahn heute noch fort
 
 ---
 = [[Hit]], [[Bestseller]]

@@ -1,7 +1,7 @@
 🗣️ [[bekunden]], [bəˈkuːndn̩](https://youglish.com/pronounce/bekunden/german) → [[bekundete]] → haben [[bekundet]]
 
 ---
-*[[C1-Lesen-T1-402-Text#^6|^]]* Fährt sich eine Frau mit der Hand [[unentwegt]] durchs Haar, [[bekundet]] sie [[Bereitschaft]] `auf` das andere Geschlecht [[einzugehen]]
+*[[C1-Lesen-412-Text#^6|^]]* Fährt sich eine Frau mit der Hand [[unentwegt]] durchs Haar, [[bekundet]] sie [[Bereitschaft]] `auf` das andere Geschlecht [[einzugehen]]
 
 ---
 = [[äußern]], [[zeigen]], [[kundtun]], [[ausdrücken]]

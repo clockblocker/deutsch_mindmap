@@ -1,7 +1,7 @@
 🤔 [[hineinversetzen]], [hɪˈnaɪ̯nfɛɐ̯ˌzɛt͡sn̩](https://youglish.com/pronounce/hineinversetzen/german) → [[versetzte hinein]] → [[hineinversetzt]]
 
 ---
-*[[C1-Lesen-T1-405-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
+*[[C1-Lesen-415-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
 
 ---
 = [[sich einfühlen]], [[empathisch sein]]

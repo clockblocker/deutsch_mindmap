@@ -4,7 +4,7 @@
 ---
 Martin lernt in der Therapie, `mit` Angst und Stress [[umzugehen]]
 
-*[[C1-Lesen-T1-405-Text#^5|^]]* Frauen nehmen es mit Alter, Gewicht und Einkäufen nicht so ernst und [[umgehen]] `4 mit` Freundschaftsbeziehungen und Komplimenten freizügig um
+*[[C1-Lesen-415-Text#^5|^]]* Frauen nehmen es mit Alter, Gewicht und Einkäufen nicht so ernst und [[umgehen]] `4 mit` Freundschaftsbeziehungen und Komplimenten freizügig um
 
 *[[C1-Lesen-T2-100-Text#^3|^]]* Das erklärt auch, warum bei zwei Menschen mit dem gleichen genetischen Bauplan der eine schwere Krankheiten bekommt und der andere nicht oder weshalb der eine `mit` Stress gut [[umgehen]] kann und der andere nicht
 

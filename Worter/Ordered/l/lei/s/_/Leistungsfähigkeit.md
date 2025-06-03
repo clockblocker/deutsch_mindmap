@@ -1,7 +1,7 @@
 💪 🔴 die [[Leistungsfähigkeit]], [ˈlaɪ̯stʊŋsˌfɛːɪçkaɪ̯t](https://youglish.com/pronounce/Leistungsfähigkeit/german)
 
 ---
-*[[C1-Lesen-T1-401-Text#^5|^]]* Dass [[Schlafverhalten]] die [[Leistungsfähigkeit]] [[beeinflusst]], `das` belegen zahlreiche Laborstudien
+*[[C1-Lesen-411-Text#^5|^]]* Dass [[Schlafverhalten]] die [[Leistungsfähigkeit]] [[beeinflusst]], `das` belegen zahlreiche Laborstudien
 
 ---
 = [[Effizienz]], [[Produktivität]], [[Kapazität]]

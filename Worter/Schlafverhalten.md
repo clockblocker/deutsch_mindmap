@@ -1,7 +1,7 @@
 😴 🟢 das [[Schlafverhalten]], [ˈʃlaːfˌfɛɐ̯haltn̩](https://youglish.com/pronounce/Schlafverhalten/german)
 
 ---
-*[[C1-Lesen-T1-401-Text#^5|^]]* Dass [[Schlafverhalten]] die [[Leistungsfähigkeit]] [[beeinflusst]], `das` belegen zahlreiche Laborstudien
+*[[C1-Lesen-411-Text#^5|^]]* Dass [[Schlafverhalten]] die [[Leistungsfähigkeit]] [[beeinflusst]], `das` belegen zahlreiche Laborstudien
 
 ---
 = [[Schlafgewohnheiten]]

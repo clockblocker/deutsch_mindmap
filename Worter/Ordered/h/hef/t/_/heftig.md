@@ -5,7 +5,7 @@
 ---
 *[[C1-Lesen-T1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]
 
-*[[C1-Lesen-T1-404-Text#^14|^]]* Sind die Sonnenstürme besonders [[heftig]], ist das `5 Schauspiel` [[ausgesprochen]] spektakulär
+*[[C1-Lesen-414-Text#^14|^]]* Sind die Sonnenstürme besonders [[heftig]], ist das `5 Schauspiel` [[ausgesprochen]] spektakulär
 
 
 ---

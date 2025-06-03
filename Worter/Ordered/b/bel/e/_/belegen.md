@@ -3,7 +3,7 @@
 ---
 *[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden
 
-*[[C1-Lesen-T1-401-Text#^5|^]]* Dass [[Schlafverhalten]] die [[Leistungsfähigkeit]] [[beeinflusst]], `das` [[belegen]] zahlreiche Laborstudien
+*[[C1-Lesen-411-Text#^5|^]]* Dass [[Schlafverhalten]] die [[Leistungsfähigkeit]] [[beeinflusst]], `das` [[belegen]] zahlreiche Laborstudien
 
 *[[C1-Lesen-T1-301-Text#^3|^]]* Eine Studie des Instituts für Arbeitsmarkt- und [[Berufsforschung]] 8_[[belegt]]_ , dass „Remote Work“, also das standortunabhängige Arbeiten und das damit einhergehende „Work-Life-Blending“ auch durchaus ambivalent eingeschätzt werden
 

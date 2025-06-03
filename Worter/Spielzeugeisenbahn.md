@@ -2,7 +2,7 @@
 die [[Spielzeugeisenbahnen]]
 
 ---
-*[[C1-Lesen-T1-403-Text#^7|^]]* [[Letztere]] war der Erfolgsschlager der Firma Märklin und sie lebt in ihrer modernen Form als elektrische Modelleisenbahn heute noch fort.
+*[[C1-Lesen-413-Text#^7|^]]* [[Letztere]] war der Erfolgsschlager der Firma Märklin und sie lebt in ihrer modernen Form als elektrische Modelleisenbahn heute noch fort.
 
 ---
 = [[Modelleisenbahn]]

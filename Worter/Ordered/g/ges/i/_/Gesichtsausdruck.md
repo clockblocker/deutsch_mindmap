@@ -2,7 +2,7 @@
 die [[Gesichtsausdrücke]]
 
 ---
-*[[C1-Lesen-T1-402-Text#^1|^]]* In allen Kulturen [[scheint]] der [[Gesichtsausdruck]] `bei` elementaren Gefühlen gleich zu sein
+*[[C1-Lesen-412-Text#^1|^]]* In allen Kulturen [[scheint]] der [[Gesichtsausdruck]] `bei` elementaren Gefühlen gleich zu sein
 
 Wird richtig sauer, macht einen bösen Gesichtsausdruck und fuchtelt mit den Armen
 

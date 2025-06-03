@@ -2,7 +2,7 @@
 die [[Leistungen]]
 
 ---
-*[[C1-Lesen-T1-401-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu [[höh]]erer [[Leistung]] 7 [[fähig]] waren
+*[[C1-Lesen-411-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu [[höh]]erer [[Leistung]] 7 [[fähig]] waren
 
 *[[bro-schrieben-c1-t1-011#^3|^]]* Viele [[Arbeitnehmende]] werden [[stets]] [[gefordert]], ihre [[Leistung]] regelmäßig auf ein höheres Niveau zu bringen, was zu [[langfristig]]er [[emotional]]er [[Überforderung]] führen könnte
 
@@ -10,7 +10,7 @@ die [[Leistungen]]
 
 *[[bro-schrieben-c1-t1-001#^10|^]]* Ich würde einen [[Vorschlag]] zur [[Steigerung]] der [[Leistung]] ohne Dopingmittel [[unterbreiten]]. Eine Möglichkeit wäre, nach dem Training in einer [[Dekompressionskammer]] zu [[liegen]], um das [[Sauerstoffniveau]] im Blut zu erhöhen
 
-*[[C1-Lesen-T1-405-Text#^4|^]]* Männer lügen [[bevorzugt]] bei Themen wie Beruf, Gehalt oder persönlicher [[Leistung]]. ^4
+*[[C1-Lesen-415-Text#^4|^]]* Männer lügen [[bevorzugt]] bei Themen wie Beruf, Gehalt oder persönlicher [[Leistung]]. ^4
 
 
 _[[01-C1-Schreiben-T2-M#^7|^]]_ Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]

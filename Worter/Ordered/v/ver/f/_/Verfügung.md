@@ -14,7 +14,7 @@ Ein Auto, das einem vom Arbeitgeber zur [[Verfügung]] gestellt wird: der Dienst
 
 *[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können
 
-*[[C1-Lesen-T1-403-Text#^6|^]]* Solch [[ausgewähltes]] Spielzeug stand natürlich nicht allen Kindern `zur` [[Verfügung]]
+*[[C1-Lesen-413-Text#^6|^]]* Solch [[ausgewähltes]] Spielzeug stand natürlich nicht allen Kindern `zur` [[Verfügung]]
 
 *[[C1-Lesen-T2-101-Text#^12|^]]* Die Wissenschaftler fanden dabei [[heraus]], dass [[diejenigen]] Kinder viel kreativer waren, die weniger Spielzeug zur [[Verfügung]] hatten. ^12
 

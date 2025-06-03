@@ -7,7 +7,7 @@
 
 *[[bro-schrieben-c1-t1-002#^10|^]]* Wenn ich selbst nur online lerne und keine Zeit beim [[Pendeln]] [[verliere]], benutze ich innere Kräfte, um mehr [[Lernaufgabe]]n [[erfolgreich]] zu [[bewältigen]] und am [[selben]] Tag [[einkaufen]] zu gehen
 
-*[[C1-Lesen-T1-401-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu höherer [[Leistung]] 7 [[fähig]] waren
+*[[C1-Lesen-411-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu höherer [[Leistung]] 7 [[fähig]] waren
 
 Heute wird kontrovers darüber diskutiert, was die Menschen für die Klimaschutz tun könnte, um die [[Herausforderung]]en des Klimawechsels zu [[bewältigen]].
 

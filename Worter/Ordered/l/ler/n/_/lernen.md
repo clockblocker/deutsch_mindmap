@@ -3,7 +3,7 @@
 haben [[gelernt]]
 
 ---
-*[[C1-Lesen-T1-403-Text#^5|^]]* [[Geschlechtsspezifisches]] Spielzeug findet man [[weiterhin]] `im` [[Mittelalter]], `wo` Jungen [[lernten]], mit Pfeil und Bogen umzugehen
+*[[C1-Lesen-413-Text#^5|^]]* [[Geschlechtsspezifisches]] Spielzeug findet man [[weiterhin]] `im` [[Mittelalter]], `wo` Jungen [[lernten]], mit Pfeil und Bogen umzugehen
 
 [[1 Präpositionen Übungen.md#^8|^]] Ich bin oft in schwierigen Situationen gewesen, aber ich habe immer versucht, [[aus]] den [[Herausforderung]]en zu [[lernen]]. ^8
 

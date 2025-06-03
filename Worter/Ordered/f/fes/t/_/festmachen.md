@@ -3,7 +3,7 @@
 ---
 *[[C1-Hoehen-T2-200-Text#^17|^]]* Intelligenz lässt sich nicht nur an der [[Fähigkeit]] [[festmachen]], wie schnell man logische [[Zusammenhänge]] [[erfasst]]
 
-*[[C1-Lesen-T1-401-Text#^2|^]]* Die [[Kriterien]] für guten oder schlechten Schlaf `lassen` `sich` `an` drei einfachen Fragen [[festmachen]]:
+*[[C1-Lesen-411-Text#^2|^]]* Die [[Kriterien]] für guten oder schlechten Schlaf `lassen` `sich` `an` drei einfachen Fragen [[festmachen]]:
 *(The [[criteria]] for good or bad sleep `can` `be` [[determined]] by three simple questions)*
 
 

@@ -3,7 +3,7 @@
 ---
 *[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^4|^]]* Die Frage, nach welchen Kriterien man „seinen“ neuen Arbeitsplatz [[auswählt]], ist dabei nicht immer so einfach zu beantworten
 
-*[[C1-Lesen-T1-403-Text#^6|^]]* Solch [[ausgewähltes]] Spielzeug stand natürlich nicht allen Kindern `zur` [[Verfügung]]
+*[[C1-Lesen-413-Text#^6|^]]* Solch [[ausgewähltes]] Spielzeug stand natürlich nicht allen Kindern `zur` [[Verfügung]]
 
 *[[C1-Hoehen-T1-102-Text#^12|^]]* Außerdem nennt er auch [[Forschende]] [[ausgewählt]]er Hochschulen, deren Studien über Kompatibilität und höheren Nutzen der Kombination beider Konzepte für Unternehmen bereits erfolgreich in die Praxis übertragen werden.
 

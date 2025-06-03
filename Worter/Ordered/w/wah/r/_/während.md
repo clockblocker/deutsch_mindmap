@@ -5,7 +5,7 @@
 🔗 während, [ˈveːʀʌnt]
 
 ---
-*[[C1-Lesen-T1-402-Text#^4|^]]* `Bei` [[kaum]] jemandem sind die Hände [[während]] des Sprechens [[unbeteiligt]]
+*[[C1-Lesen-412-Text#^4|^]]* `Bei` [[kaum]] jemandem sind die Hände [[während]] des Sprechens [[unbeteiligt]]
 
 ![[006-C1-Schreiben-T2#^2|^]]
 

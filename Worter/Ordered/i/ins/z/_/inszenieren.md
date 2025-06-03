@@ -1,7 +1,7 @@
 🎬 [[inszenieren]], [ɪnzɛˈniːʁən](https://youglish.com/pronounce/inszenieren/german) → [[inszenierte]] → [[inszeniert]]
 
 ---
-*[[C1-Lesen-T1-405-Text#^12|^]]* Interessant ist eine [[inszenierte]] Situation, bei der eine Frau vor ihren [[mangelhaften]] [[Malversuchen]] traurig [[zugestand]], dass sie nicht gut malen könne. ^12
+*[[C1-Lesen-415-Text#^12|^]]* Interessant ist eine [[inszenierte]] Situation, bei der eine Frau vor ihren [[mangelhaften]] [[Malversuchen]] traurig [[zugestand]], dass sie nicht gut malen könne. ^12
 
 
 Erklären Sie, warum viele Menschen ihr Leben auf sozialen Medien [[inszenieren]].

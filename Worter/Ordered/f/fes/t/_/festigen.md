@@ -1,7 +1,7 @@
 💪 [[festigen]], [ˈfɛstɪɡn̩](https://youglish.com/pronounce/festigen/german) → [[festigte]] → [[gefestigt]]
 
 ---
-*[[C1-Lesen-T1-401-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[integriert]]
+*[[C1-Lesen-411-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[integriert]]
 
 *[[C1-Hoehen-T2-301-Text#^21|^]]* Es könnte dazu beitragen, sozialen [[Zusammenhalt]] in unserer [[auseinanderdriftend]]en modernen Gesellschaft und sogar innerhalb Europas zu [[festigen]] oder zu [[erneuern]]
 

@@ -7,7 +7,7 @@ die [[Eindrücke]]
 
 _[[C1-Hoehen-T2-202-Text#^4|^]]_ Auch die [[lebhaft]]en Diskussionen über Politik in sozialen Netzwerken [[bestätigen]] diesen [[Eindruck]]
 
-*[[C1-Lesen-T1-404-Text#^3|^]]* Auch bei nordischen Völkern, `1 obwohl` für sie Polarlichter ein weit weniger seltenes Phänomen sind, [[hinterließen]] sie einen tiefen [[Eindruck]]
+*[[C1-Lesen-414-Text#^3|^]]* Auch bei nordischen Völkern, `1 obwohl` für sie Polarlichter ein weit weniger seltenes Phänomen sind, [[hinterließen]] sie einen tiefen [[Eindruck]]
 *(they [[left]] a deep [[impression]])*
 
 

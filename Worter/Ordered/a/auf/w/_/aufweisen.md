@@ -3,7 +3,7 @@
 ---
 *[[C1-Lesen-T4-101-Text#^17|^]]* Unsere sensorischen und kognitiven [[Fähigkeit]]en kann keine Maschine [[aufweisen]]
 
-*[[C1-Lesen-T1-403-Text#^2|^]]* Ägyptische Kinder hatten Spielzeug, das schon mehr [[Detail]]s [[aufwies]]
+*[[C1-Lesen-413-Text#^2|^]]* Ägyptische Kinder hatten Spielzeug, das schon mehr [[Detail]]s [[aufwies]]
 *(Egyptian children had toys that already [[exhibited]] more [[detail]])*
 
 

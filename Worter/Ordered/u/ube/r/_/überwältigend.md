@@ -3,7 +3,7 @@
 😲 [[überwältigend]], [yːbɐˈvɛltɪɡn̩t](https://youglish.com/pronounce/überwältigend/german)
 
 ---
-*[[C1-Lesen-T1-404-Text#^11|^]]* So [[überwältigend]] Polarlichter sind, so komplex ist der physikalische [[Vorgang]] `4 ihrer` [[Entstehung]]
+*[[C1-Lesen-414-Text#^11|^]]* So [[überwältigend]] Polarlichter sind, so komplex ist der physikalische [[Vorgang]] `4 ihrer` [[Entstehung]]
 
 
 ---

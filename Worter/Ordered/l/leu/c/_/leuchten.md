@@ -3,7 +3,7 @@
 haben [[geleuchtet]]
 
 ---
-*[[C1-Lesen-T1-404-Text#^16|^]]* In `7 welcher` Farbe sie [[leuchten]], [[abhängt]] `von` der [[Entfernung]] [[ab]], in der die Atome [[wechselwirken]]
+*[[C1-Lesen-414-Text#^16|^]]* In `7 welcher` Farbe sie [[leuchten]], [[abhängt]] `von` der [[Entfernung]] [[ab]], in der die Atome [[wechselwirken]]
 
 _Doch weh! die Flamme faßt das Kleid,_  
 _die Schürze brennt, es [[leuchtet]] weit._

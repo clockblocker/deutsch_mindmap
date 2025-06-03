@@ -2,7 +2,7 @@
 fähiger, fähigste ≠ [[unfähig]]
 
 ---
-*[[C1-Lesen-T1-401-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu [[höh]]erer [[Leistung]] 7 [[fähig]] waren
+*[[C1-Lesen-411-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu [[höh]]erer [[Leistung]] 7 [[fähig]] waren
 
 ---
 = [[kompetent]], [[tauglich]], [[geeignet]], [[geeignet]], [[arbeitsunfähig]]

@@ -2,7 +2,7 @@
 die [[Malversuche]]
 
 ---
-*[[C1-Lesen-T1-405-Text#^12|^]]* Interessant ist eine [[inszenierte]] Situation, `bei` der eine Frau `vor` ihren [[mangelhaften]] [[Malversuchen]] traurig [[zugestand]], dass sie nicht gut malen könne
+*[[C1-Lesen-415-Text#^12|^]]* Interessant ist eine [[inszenierte]] Situation, `bei` der eine Frau `vor` ihren [[mangelhaften]] [[Malversuchen]] traurig [[zugestand]], dass sie nicht gut malen könne
 
 ---
 = [[Gemälde]], [[Skizze]], [[Entwurf]]

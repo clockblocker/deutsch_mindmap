@@ -1,7 +1,7 @@
 🤝 [[annähern]], [ˈanˌnɛːɐ̯n](https://youglish.com/pronounce/annähern/german) → [[näherte an]] → haben/sein [[angenähert]]
 
 ---
-*[[C1-Lesen-T1-402-Text#^6|^]]* Fährt sich eine Frau mit der Hand unentwegt durchs Haar, bekundet sie Bereitschaft auf das andere Geschlecht 7 ... ^6
+*[[C1-Lesen-412-Text#^6|^]]* Fährt sich eine Frau mit der Hand unentwegt durchs Haar, bekundet sie Bereitschaft auf das andere Geschlecht 7 ... ^6
 
 ---
 = [[sich nähern]], [[heranrücken]]

@@ -2,7 +2,7 @@ die [[Fähigkeit]], [fɛˈçɪçkaɪ̯t]
 die [[Fähigkeiten]]
 
 ---
-*[[C1-Lesen-T1-405-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
+*[[C1-Lesen-415-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
 
 *[[bro-schrieben-c1-t1-002#^13|^]]* Ich stehe auf dem [[Standpunkt]], dass ein [[sinnvoll]]es [[Lernmodell]] wäre, Kinder an Präsenzkursen zu [[beteiligen]], da sie dabei nicht nur die Sprache lernen können, sondern auch kommunikative [[Fähigkeit]]en [[entwickeln]] können
 
