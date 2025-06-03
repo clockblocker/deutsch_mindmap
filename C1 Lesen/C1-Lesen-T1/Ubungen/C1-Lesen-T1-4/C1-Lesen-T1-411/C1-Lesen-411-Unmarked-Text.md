@@ -1,11 +1,13 @@
-[[0-C1-Lesen-T1-Ubung-List|List]]
+[[0-C1-Lesen-T1-Ubung-List|Tiles]]
+[[Lesen-C1-Models|Models]]
 
+---
 ---
 
 Gesunder Schlaf  
 Schlafmangel führt zu Schädigung des Gehirns
 
-Die moderne Industriegesellschaft mit ihrem 24-Stunden-Rhythmus bringt immer mehr Menschen um ihren Schlaf. Die Folgen von Schlafstörungen und Schlafmangel dürfen `Beispiel 0` unterschätzt werden. Sie können langfristig zu schwerwiegenden Beeinträchtigungen der Leistungs- und Konzentrationsfähigkeit führen. Auch psychische Störungen zählen zu den Langzeitfolgen von Schlafstörungen.
+Die moderne Industriegesellschaft mit ihrem 24-Stunden-Rhythmus bringt immer mehr Menschen um ihren Schlaf. Die Folgen von Schlafstörungen und Schlafmangel dürfen `0 ...` unterschätzt werden. Sie können langfristig zu schwerwiegenden Beeinträchtigungen der Leistungs- und Konzentrationsfähigkeit führen. Auch psychische Störungen zählen zu den Langzeitfolgen von Schlafstörungen.
 
 Die Kriterien für guten oder schlechten Schlaf `1 ...` sich an drei einfachen Fragen festmachen: Schlafe ich leicht ein? Habe ich ruhig durchgeschlafen? Wie bewerte ich selbst die Qualität meines Schlafs? Und wie definiert die Wissenschaft Schlafstörungen? Einschlafstörungen sind das meistverbreitete Problem. Dazu gehört auch die Schwierigkeit, die ganze Nacht durchzuschlafen bzw. der erfolglose `2 ...` wieder einzuschlafen, wenn man einmal aufgewacht ist. Die Ursachen sind hauptsächlich psychischer Art: unbewältigte Stresssituationen, Gedanken, die ständig im Kopf kreisen und einen nicht zur Ruhe kommen lassen. Ein weiteres Problem ist das Einnicken tagsüber und das Gefühl, ständig schläfrig zu sein, `3 ...` man eigentlich glaubt, ausreichend geschlafen zu haben. Schlafwandeln, Albträume oder Zähneknirschen werden ebenso als Schlafstörungen verzeichnet wie chronische Müdigkeit.
 
@@ -19,7 +21,7 @@ Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten
 0.  
 	- [ ] a jedenfalls
     - [ ] b in diesem Fall
-    - [x] c keinesfalls
+    - [ ] c keinesfalls
     - [ ] d falls
 
 1.  

@@ -2,47 +2,56 @@
 
 ---
 
-0.  - [ ] a jedenfalls
+0.  
+	- [ ] a jedenfalls
     - [ ] b in diesem Fall
     - [x] c keinesfalls
     - [ ] d falls
 
-1.  - [x] a lassen
+1.  
+	- [x] a lassen
     - [ ] b können
     - [ ] c werden
     - [ ] d würden
 
-2.  - [x] a Versuch
+2.  
+	- [x] a Versuch
     - [ ] b Bereich
     - [ ] c Fehler
     - [ ] d Umgang
 
-3.  - [ ] a [[weshalb]]
+3.  
+	- [ ] a [[weshalb]]
     - [ ] b dennoch
     - [ ] c obwohl
     - [x] d denn
 
-4.  - [ ] a was
+4.  
+	- [ ] a was
     - [x] b das
     - [ ] c wie
     - [ ] d die
 
-5.  - [ ] a womit
+5.  
+	- [ ] a womit
     - [ ] b wodurch
     - [x] c somit
     - [ ] d sodass
 
-6.  - [ ] a gestrichen
+6.  
+	- [ ] a gestrichen
     - [ ] b untersucht
     - [ ] c beobachtet
     - [x] d integriert
 
-7.  - [ ] a entschlossen _determined_
+7.  
+	- [ ] a entschlossen _determined_
     - [ ] b überzeugt _convinced_
     - [x] c fähig _capable_
     - [ ] d nötig _necessary_
 
-8.  - [ ] a in Bewegung
+8.  
+	- [ ] a in Bewegung
     - [ ] b zur Vernunft
     - [ ] c in Kontakt
     - [x] d zur Ruhe

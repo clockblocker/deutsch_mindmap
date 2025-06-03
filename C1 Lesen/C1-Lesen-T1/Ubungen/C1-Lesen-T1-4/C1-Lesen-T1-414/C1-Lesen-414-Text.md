@@ -7,101 +7,66 @@
 Polarlichter  
 Zauber am Nachthimmel
 
-Polarlichter sind einzigartige, beeindruckende Erscheinungen am Nachthimmel. [Beispiel 0] dieses Naturspektakel einmal gesehen hat, wird sich immer daran erinnern und fasziniert bleiben. Polarlichterscheinungen sind, wie der Name schon sagt, überwiegend in den Polarregionen sichtbar: die Aurora borealis im Norden und die Aurora australis am Südpol. In unseren Breitengraden sind sie äußerst selten.
+Polarlichter sind einzigartige, beeindruckende Erscheinungen am Nachthimmel. `0 ...` dieses Naturspektakel einmal gesehen hat, wird sich immer daran erinnern und fasziniert bleiben. Polarlichterscheinungen sind, wie der Name schon sagt, überwiegend in den Polarregionen sichtbar: die Aurora borealis im Norden und die Aurora australis am Südpol. In unseren Breitengraden sind sie äußerst selten.
+
+Früher verband man solche Lichtspiele, wenn man sie in Mitteleuropa einmal zu sehen bekam, mit Unheil und Katastrophen. Sie galten als Vorboten von Krieg, Krankheit und Not. Auch bei nordischen Völkern, `1 ...` für sie Polarlichter ein weit weniger seltenes Phänomen sind, hinterließen sie einen tiefen Eindruck. So entstanden Mythen und Legenden rund `2 ...` deren Erscheinung. In Sibirien und Alaska fasste man sie als ein Zeichen der Götter auf, mit ihnen in Verbindung zu treten. Die Ureinwohner Skandinaviens sahen in ihnen Vorboten eines Unglücks, das die Toten herbeiführten, reagierten aber gelassen: Sie erlaubten den Kindern nicht, aus dem Haus zu gehen, und warteten ab, bis sich die Toten wieder beruhigt hatten. Als Brücke hinüber zur anderen Welt `3 ...` die Inuit die Lichter. Die Brücke werde von den Toten beleuchtet und weise den Gestorbenen den Weg ins Jenseits. Ähnlich emotional ist die Erklärung aus Kanada. Ihr Gott, in Licht gehüllt, wolle sich vergewissern, dass es den Menschen gut gehe.
+
+So überwältigend Polarlichter sind, so komplex ist der physikalische Vorgang `4 ...` Entstehung. Die Sonne stößt eruptionsartig große Mengen von Materie ins All, den sogenannten Sonnenwind. Wenn diese energiegeladenen Teilchen auf das Magnetfeld der Erde treffen, entstehen die Polarlichter. Sind die Sonnenstürme besonders heftig, ist das `5 ...` ausgesprochen spektakulär. Dann bewegen sich die Polarlichter wie Schleier im Wind `6 ...` und die Farben wechseln. In `7 ...` Farbe sie leuchten, hängt von der Entfernung ab, in der die Atome wechselwirken. Übrigens, wenn Polarlichter entstehen, dann an beiden Polen `8 ...`.
+
+Polarlichter mögen ein spannendes Naturschauspiel sein, aber die erzeugten elektromagnetischen Felder können Kommunikationssatelliten, Flugverkehr, Funk- und Stromnetze auf der Erde stören. Wissen möchte man sie aber trotzdem nicht!
 
 ---
 
-*[[C1-Lesen-414-Text#^1|^]]* Früher verband man solche Lichtspiele, wenn man sie in Mitteleuropa einmal zu sehen bekam, mit Unheil und Katastrophen. ^1
+0.  
+    - [ ] a Jeder  
+    - [ ] b Wenn  
+    - [ ] c Welcher  
+    - [ ] d Wer
 
-*[[C1-Lesen-414-Text#^2|^]]* Sie galten als Vorboten von Krieg, Krankheit und Not. ^2
+1.  
+    - [ ] a weil  
+    - [ ] b obwohl  
+    - [ ] c damit  
+    - [ ] d dennoch
 
-*[[C1-Lesen-414-Text#^3|^]]* Auch bei nordischen Völkern, `1 ...` für sie Polarlichter ein weit weniger seltenes Phänomen sind, [[hinterließen]] sie einen tiefen Eindruck. ^3
+2.  
+    - [ ] a um  
+    - [ ] b zu  
+    - [ ] c über  
+    - [ ] d seit
 
-*[[C1-Lesen-414-Text#^4|^]]* So [[entstanden]] Mythen und Legenden rund `2 um` deren [[Erscheinung]]. ^4
+3.  
+    - [ ] a evaluieren  
+    - [ ] b anerkennen  
+    - [ ] c interpretieren  
+    - [ ] d bezeugen
 
-*[[C1-Lesen-414-Text#^5|^]]* In Sibirien und Alaska fasste man sie als ein Zeichen der Götter auf, mit ihnen in Verbindung zu treten. ^5
+4.  
+    - [ ] a derer  
+    - [ ] b seine  
+    - [ ] c ihrer  
+    - [ ] d dessen
 
-*[[C1-Lesen-414-Text#^6|^]]* Die Ureinwohner Skandinaviens sahen in ihnen Vorboten eines Unglücks, das die Toten herbeiführten, reagierten aber gelassen: Sie erlaubten den Kindern nicht, aus dem Haus zu gehen, und warteten ab, bis sich die Toten wieder beruhigt hatten. ^6
+5.  
+    - [ ] a Anzeichen  
+    - [ ] b Theater  
+    - [ ] c Experiment  
+    - [ ] d Schauspiel
 
-*[[C1-Lesen-414-Text#^7|^]]* Als Brücke hinüber zur anderen Welt `3 ...` die Inuit die Lichter. ^7
+6.  
+    - [ ] a ab und zu  
+    - [ ] b hin und her  
+    - [ ] c hin und wieder  
+    - [ ] d an und aus
 
-*[[C1-Lesen-414-Text#^8|^]]* Die Brücke werde von den Toten beleuchtet und weise den Gestorbenen den Weg ins Jenseits. ^8
+7.  
+    - [ ] a der  
+    - [ ] b dieser  
+    - [ ] c mancher  
+    - [ ] d welcher
 
-*[[C1-Lesen-414-Text#^9|^]]* Ähnlich emotional ist die Erklärung aus Kanada. ^9
-
-*[[C1-Lesen-414-Text#^10|^]]* Ihr Gott, in Licht gehüllt, wolle sich vergewissern, dass es den Menschen gut gehe. ^10
-
-
----
-
-*[[C1-Lesen-414-Text#^11|^]]* So [[überwältigend]] Polarlichter sind, so komplex ist der physikalische [[Vorgang]] `4 ihrer` [[Entstehung]]. ^11
-
-*[[C1-Lesen-414-Text#^12|^]]* Die Sonne stößt eruptionsartig große Mengen von Materie ins All, den sogenannten Sonnenwind. ^12
-
-*[[C1-Lesen-414-Text#^13|^]]* Wenn diese energiegeladenen Teilchen auf das Magnetfeld der Erde treffen, entstehen die Polarlichter. ^13
-
-*[[C1-Lesen-414-Text#^14|^]]* Sind die Sonnenstürme besonders [[heftig]], ist das `5 Schauspiel` [[ausgesprochen]] spektakulär. ^14
-
-*[[C1-Lesen-414-Text#^15|^]]* Dann bewegen sich die Polarlichter wie Schleier im Wind, `6 ...` und die Farben wechseln. ^15
-
-*[[C1-Lesen-414-Text#^16|^]]* In `7 welcher` Farbe sie [[leuchten]], [[hängt]] `von` der [[Entfernung]] [[ab]], in der die Atome [[wechselwirken]]. ^16
-
-*[[C1-Lesen-414-Text#^17|^]]* Übrigens, wenn Polarlichter entstehen, dann an beiden Polen `8 gleichzeitig` ^17
-
-
----
----
-
-0. 
-	- [ ] a Jeder
-	- [ ] b Wenn
-	- [ ] c Welcher
-	- [x] d Wer
-
-1. 
-	- [ ] a weil
-	- [x] b obwohl
-	- [ ] c damit
-	- [ ] d dennoch ?
-
-2. 
-	- [x] a um
-	- [ ] b zu
-	- [ ] c über
-	- [ ] d seit
-
-3. 
-	- [ ] a evaluieren
-	- [ ] b anerkennen ?
-	- [ ] c interpretieren
-	- [x] d bezeugen
-
-4. 
-	- [ ] a derer
-	- [ ] b seine
-	- [x] c ihrer
-	- [ ] d dessen
-
-5. 
-	- [ ] a Anzeichen ?
-	- [ ] b Theater
-	- [ ] c Experiment
-	- [x] d Schauspiel
-
-6. 
-	- [ ] a ab und zu
-	- [x] b hin und her
-	- [ ] c hin und wieder
-	- [ ] d an und aus
-
-7. 
-	- [ ] a der
-	- [ ] b dieser
-	- [ ] c mancher
-	- [x] d welcher
-
-8. 
-	- [ ] a entgegengesetzt
-	- [x] b gleichzeitig
-	- [ ] c rechtzeitig
-	- [ ] d rückwirkend
+8.  
+    - [ ] a entgegengesetzt  
+    - [ ] b gleichzeitig  
+    - [ ] c rechtzeitig  
+    - [ ] d rückwirkend

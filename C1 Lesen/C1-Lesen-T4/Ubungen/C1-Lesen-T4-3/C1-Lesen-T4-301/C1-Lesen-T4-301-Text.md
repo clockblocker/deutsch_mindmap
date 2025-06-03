@@ -14,27 +14,31 @@ Die Digitalisierung verändert die Arbeitswelt drastisch. Ein Treiber des Wandel
 KI ist ohne Zweifel die Zukunftstechnologie schlechthin. Die Anwendungsmöglichkeiten reichen von der Datenanalyse über Chatbots bis hin zu neuen Dienstleistungen, Produkten und Geschäftsmodellen. Das Potenzial ist riesig. Allerdings wird dieses Potenzial meist noch nicht ausgeschöpft. Denn KI wird derzeit häufig leider nur zur Entlastung der Mitarbeiterinnen und Mitarbeiter, etwa bei Routinetätigkeiten und Analyseprozessen, eingesetzt. Dabei spielen zwei Befürchtungen eine Rolle: Zum einen sind viele Menschen besorgt, dass sich autonome KI-Systeme dem menschlichen Zugriff entziehen könnten. Zum anderen treibt sie die Sorge vor Arbeitsplatzverlusten um. Fakt ist jedoch, dass es in nicht allzu ferner Zukunft nur noch selten Geschäftsmodelle ohne Rückgriff auf Methoden der Künstlichen Intelligenz geben wird. Dabei ist KI keine Frage allein von IT-Spezialistinnen und -spezialisten, sondern ein Großteil der Belegschaft eines Unternehmens wird in Zukunft in der Lage sein müssen, KI zu nutzen. Deshalb ist das Thema lebenslanges Lernen immens wichtig. Um mit der technologischen Entwicklung Schritt zu halten, brauchen wir auch die Bereitschaft der Beschäftigten, weiterzulernen und sich weiterentwickeln zu wollen.
 
 ---
+---
 
-*0. Maschinen werden die menschliche Arbeitskraft nicht in vielen Berufen überflüssig machen.*
-*a*
+0. Maschinen werden die menschliche Arbeitskraft nicht in vielen Berufen überflüssig machen*
+	- [x] a  
+
+----
 
 24. Der Einsatz von KI wird nicht dazu führen, dass es weniger Arbeitsplätze gibt 
-	a  |  b  |  c  |  0
+	- [ ] a  |  b  |  c  |  0
 
 25. Menschen arbeiten heutzutage immer noch besser als Maschinen 
-	a  |  b  |  c  |  0
+	- [ ] a  |  b  |  c  |  0
 
 26. Noch werden die Möglichkeiten der KI nicht in vollem Umfang genutzt 
-	a  |  b  |  c  |  0
+	- [ ] a  |  b  |  c  |  0
 
 27. Viele Menschen haben Angst, dass man die Kontrolle über KI-Systeme verlieren könnte 
-	a  |  b  |  c  |  0
+	- [ ] a  |  b  |  c  |  0
 
 28. Zentrales Ziel des Einsatzes von KI ist es, uns die Arbeit zu erleichtern 
-	a  |  b  |  c  |  0
+	- [ ] a  |  b  |  c  |  0
 
 29. KI wird die Menschen nicht aus den Jobs verdrängen, sondern sie bei der Arbeit entlasten 
-	a  |  b  |  c  |  0
+	- [ ] a  |  b  |  c  |  0
 
 30. In der Arbeitswelt sollen die besonderen menschlichen Fähigkeiten und die Möglichkeiten der KI kombiniert werden 
-	a  |  b  |  c  |  0
+	- [ ] a  |  b  |  c  |  0
+
