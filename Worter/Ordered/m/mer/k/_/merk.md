@@ -1,1 +1,1 @@
-, [[bemerken]], [[merken]], [[aufmerksam]], [[Merkmal]], [[merkwürdige]], [[bemerkbar]], [[bemerkenswert]], [[Merkfähigkeit]], [[Anmerkung]]
+, [[bemerken]], [[merken]], [[aufmerksam]], [[Merkmal]], [[merkwürdige]], [[bemerkbar]], [[bemerkenswert]], [[Merkfähigkeit]], [[Anmerkung]], [[Bemerkung]]

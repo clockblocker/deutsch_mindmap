@@ -27,4 +27,4 @@ A: die [[Truppe]], die [[Truppen]]
 G: der [[Truppe]], der [[Truppen]]
 D: der [[Truppe]], den [[Truppen]]
 
-#Feminin 
+#Feminin , [[Besuchermasse]]

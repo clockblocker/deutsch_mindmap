@@ -52,3 +52,4 @@ Adjektive: [[initiierend]], [[initiierender]], [[initiierendst]]
 домашнее обучение
 Das häusliche Lernen
 
+, [[in Gang setzen]]

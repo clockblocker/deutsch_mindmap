@@ -1,1 +1,1 @@
-, [[Urlaub]], [[Urlaubstag]]
+, [[Urlaub]], [[Urlaubstag]], [[Urlaubsort]], [[Kreuzfahrttourist]]

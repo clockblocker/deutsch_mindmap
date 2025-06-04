@@ -27,4 +27,4 @@ D: dem [[Park]], den [[Parks]]
 ---
 parken, parkend, Parkanlage, Parkbank, Parkplatz, [[Rasenfläche]], [[Parkberechtigung]]
 
-#Maskulin 
+#Maskulin , [[Naherholungsgebiet]]

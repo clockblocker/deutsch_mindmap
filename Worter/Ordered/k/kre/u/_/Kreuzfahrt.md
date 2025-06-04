@@ -1,1 +1,1 @@
-, [[Ostasienfahrt]]
+, [[Ostasienfahrt]], [[Kreuzfahrttourist]], [[Kreuzfahrttourismus]]

@@ -34,3 +34,4 @@ Morpheme: [[schie]], [[ben]]
 Partizip I: [[schiebend]], Partizip II: [[geschoben]]
 
 [[ziehen]], [[Schubst]], [[rücken]], [[schleudern]], [[schleppen]]
+, [[drängeln]]

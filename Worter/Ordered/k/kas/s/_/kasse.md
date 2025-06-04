@@ -1,1 +1,1 @@
-, [[Krankenkasse]], [[Kassenleistung]]
+, [[Krankenkasse]], [[Kassenleistung]], [[zur Kasse bitten]]

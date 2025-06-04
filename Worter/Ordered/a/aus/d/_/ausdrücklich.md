@@ -26,4 +26,4 @@ explicitly, expressly
 Adjektive: [[ausdrücklich]], [[ausdrücklicher]], [[ausdrücklichsten]]
 
 ---
-[[ausdrücklicher]], [[ausdrückliches]], [[ausdrückliche]], [[ausdrücklichen]], [[ausdrücklichem]], [[ausdrücklicherer]], [[ausdrücklicheres]], [[ausdrücklichere]], [[ausdrücklicheren]], [[ausdrücklicherem]], [[ausdrücklichstener]], [[ausdrücklichstenes]], [[ausdrücklichstene]], [[ausdrücklichstenen]], [[ausdrücklichstenem]], [[ausgerechnet]]
+[[ausdrücklicher]], [[ausdrückliches]], [[ausdrückliche]], [[ausdrücklichen]], [[ausdrücklichem]], [[ausdrücklicherer]], [[ausdrücklicheres]], [[ausdrücklichere]], [[ausdrücklicheren]], [[ausdrücklicherem]], [[ausdrücklichstener]], [[ausdrücklichstenes]], [[ausdrücklichstene]], [[ausdrücklichstenen]], [[ausdrücklichstenem]], [[ausgerechnet]], [[verbal]]

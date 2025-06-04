@@ -38,3 +38,4 @@ Zu+infinifive: [[einzudringen]]
 
 , [[angreifen]], [[dringen]], [[eintreten]], [[Faden]]
 , [[einschleichen]], [[dringend]], [[DURCHDRINGUNG]]
+, [[Ansturm]]

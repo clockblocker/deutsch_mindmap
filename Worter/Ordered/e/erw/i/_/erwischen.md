@@ -1,1 +1,1 @@
-, [[fangen]], [[schnappen]], [[verpassen]], [[packen]], [[ergreifen]]
+, [[fangen]], [[schnappen]], [[verpassen]], [[packen]], [[ergreifen]], [[entgehen]]

@@ -1,1 +1,1 @@
-, [[beitreten]]
+, [[beitreten]], [[eintreten]]

@@ -33,3 +33,4 @@ haben [[überfallen]]
 Partizip I: [[überfallénd]], Partizip II: [[überfalléñ]]
 
 [[überfallen]] - [[Ü/über]] = [[fallen]], [[Deutschland]], [[stürmen]], [[anfallen]]
+, [[attackieren]]

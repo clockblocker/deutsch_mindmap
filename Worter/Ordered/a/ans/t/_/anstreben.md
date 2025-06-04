@@ -4,6 +4,8 @@
 *[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
 
 
+*[[C1-Lesen-421-Text#^18|^]]* Um dem Overtourismus in Berlin vorzubeugen, wird eine [[Abnahme]] der [[Besucherzahl]]en [[angestrebt]]
+
 ---
 = [[erstreben]], [[verfolgen]], [[nachstreben]]
 ≈ [[wünschen]], [[zielen]], [[planen]]

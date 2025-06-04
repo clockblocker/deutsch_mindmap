@@ -51,4 +51,4 @@ sie, [[verlangsamen]], [[verlangsamten]], [[verlangsamen]], [[verlangsamten]], [
 Adjektive: [[verlangsamend]], [[verlangsamender]], [[verlangsamendst]]
 
 ---
-[[verlangsamender]], [[verlangsamendes]], [[verlangsamende]], [[verlangsamenden]], [[verlangsamendem]], [[verlangsamenderer]], [[verlangsamenderes]], [[verlangsamendere]], [[verlangsamenderen]], [[verlangsamenderem]], [[verlangsamendster]], [[verlangsamendstes]], [[verlangsamendste]], [[verlangsamendsten]], [[verlangsamendstem]], [[voranbringen]], [[forcieren]]
+[[verlangsamender]], [[verlangsamendes]], [[verlangsamende]], [[verlangsamenden]], [[verlangsamendem]], [[verlangsamenderer]], [[verlangsamenderes]], [[verlangsamendere]], [[verlangsamenderen]], [[verlangsamenderem]], [[verlangsamendster]], [[verlangsamendstes]], [[verlangsamendste]], [[verlangsamendsten]], [[verlangsamendstem]], [[voranbringen]], [[forcieren]], [[erlahmen]], [[befeueren]]

@@ -1,2 +1,2 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-, [[Anmerkung]]
+, [[Anmerkung]], [[Bemerkung]]

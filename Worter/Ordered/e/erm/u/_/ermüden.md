@@ -1,1 +1,1 @@
-, [[langweilen]]
+, [[langweilen]], [[erlahmen]]

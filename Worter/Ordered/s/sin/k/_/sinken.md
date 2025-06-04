@@ -3,6 +3,7 @@
 🌊 [[sinken]]
 
 ---
+*[[C1-Lesen-421-Text#^1|^]]* In Venedig bringen Kreuzfahrttouristen [[sinkende]] [[Umsätze]] mit sich
 
 Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem Schrecken davon.
 

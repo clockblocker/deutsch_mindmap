@@ -35,3 +35,4 @@ Morpheme: [[er]], [[find]], [[en]]
 
 Partizip I: [[erfindend]], Partizip II: [[erfunden]]
 [[erfinden]] - [[er]] = [[finden]], [[ausdenken]]
+, [[nacherzählen]]

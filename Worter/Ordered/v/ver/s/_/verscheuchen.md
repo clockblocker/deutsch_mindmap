@@ -3,6 +3,8 @@
 haben [[verscheucht]]
 
 ---
+*[[C1-Lesen-421-Text#^44|^]]* Am idyllischen Walchensee sorgen Ranger zusammen mit freiwilligen [[Helfern]] teilweise rund um die Uhr für Ordnung, um Dauerparker und Wildcamper zu [[verscheuchen]]
+
 
 Nicht so laut, sonst [[verscheuchst]] du ihn Katara
 

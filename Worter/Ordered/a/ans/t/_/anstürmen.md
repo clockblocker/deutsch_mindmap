@@ -1,1 +1,1 @@
-, [[stürmen]], [[vorstürmen]]
+, [[stürmen]], [[vorstürmen]], [[Ansturm]]

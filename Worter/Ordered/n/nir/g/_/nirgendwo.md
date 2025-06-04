@@ -24,4 +24,4 @@ nowhere
 
 ---
 [[nirgends]], [[irgendwo]], [[irgendwie]], [[irgendwann]]
-, [[Negationspartikel]]
+, [[Negationspartikel]], [[Örtlichkeit]]

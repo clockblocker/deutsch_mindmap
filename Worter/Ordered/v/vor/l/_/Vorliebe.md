@@ -29,4 +29,4 @@ G: der [[Vorliebe]], der [[Vorlieben]]
 D: der [[Vorliebe]], den [[Vorlieben]]
 
 
-#Feminin 
+#Feminin , [[Belieben]]

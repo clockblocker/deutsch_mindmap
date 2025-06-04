@@ -1,1 +1,1 @@
-, [[verpflichten]], [[obligatorisch]]
+, [[verpflichten]], [[obligatorisch]], [[verbindlich]]

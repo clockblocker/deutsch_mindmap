@@ -37,4 +37,4 @@ Einzigartige mögliche Formen:
 [[bekanntere]], [[bekannterer]], [[bekanntere]], [[bekannteres]], [[bekannteren]], [[bekannterem]], [[bekannterer]], [[bekannteren]]
 [[bekanntesten]], [[bekanntester]], [[bekannteste]], [[bekanntestes]], [[bekanntesten]], [[bekannlestem]], [[bekanntester]], [[bekanntesten]], [[heimlich]], [[kund]], [[Unbekannten]]
 , [[fern]], [[heimisch]], [[vertraulich]], [[Bekanntheitsgrad]], [[namhaft]]
-, [[bekunden]]
+, [[bekunden]], [[alteingesessen]]

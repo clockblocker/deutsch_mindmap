@@ -1,7 +1,10 @@
 ✅ [[erweisen]], [ɛɐ̯ˈvaɪ̯zn̩] | [[erwies]], haben [[erwiesen]]
 
 ---
-4.	[[2 Unter Druck nach oben#^25|^]] Zur Suche nach [[geeigneten]] Bewerbern kann sich ein Bewerbungsgespräch als hilfreich [[erweisen]]. `X` ^25
+Zur Suche nach [[geeigneten]] Bewerbern kann sich ein Bewerbungsgespräch als hilfreich [[erweisen]]
+
+*[[C1-Lesen-421-Text#^40|^]]* Während sich ein besonders beliebtes Reiseziel, die Ostseeküste Mecklenburg-Vorpommerns, als Region mit hoher Tourismusakzeptanz [[erweist]], liegt Bayern mit dem Alpenvorland und seinen attraktiven Seen unter dem deutschen Durchschnitt. ^40
+
 
 
 *[[101-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]. ^13

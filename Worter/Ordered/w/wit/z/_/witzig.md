@@ -2,6 +2,7 @@
 nicht [[ernst]]
 
 ---
+*[[C1-Lesen-441-Text#^26|^]]* Grund für die [[vermeintlich]]e Humorlosigkeit der Deutschen ist wahrscheinlich, dass sie alles viel zu ernst nehmen und [[witzig]] gemeinte [[Bemerkung]]en zu wörtlich [[auffassen]]
 
 
 ---

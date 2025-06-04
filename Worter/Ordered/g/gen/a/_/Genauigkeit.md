@@ -1,6 +1,7 @@
 🎯 🔴 die [[Genauigkeit]], [ɡəˈnaʊ̯ɪçˌkaɪ̯t](https://youglish.com/pronounce/Genauigkeit/german)
 
 ---
+*[[C1-Lesen-441-Text#^20|^]]* Zudem lässt die [[Genauigkeit]] der deutschen Grammatik und die [[geregelt]]e Satzbildung wenig Freiheit für Wortspiele und Verwechslungen
 
 
 ---

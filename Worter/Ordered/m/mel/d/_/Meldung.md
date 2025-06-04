@@ -32,3 +32,4 @@ Dative: der [[Meldung]], den [[Meldungen]]
 [[melden]], [[Anmeldung]], [[Abmeldung]], [[Vorwarnung]], [[Anzeige]], [[Rückmeldung]]
 
 #Feminin
+, [[vermelden]]

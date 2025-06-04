@@ -1,1 +1,1 @@
-, [[neigen]], [[veranlagt]]
+, [[neigen]], [[veranlagt]], [[Neigung]]

@@ -44,8 +44,12 @@ T2-V0
 - [ ] [[112-C1-Schreiben-T1|101]] Work Life Balance: Wie schaffen wir ein ausgewogenes Verhältnis zwischen Berufsleben und Privatleben?
 - [ ] [[0 Studieren - aber was?]]
 
+*[[C1-Lesen-421-Text#^51|^]]* Darüber hinaus soll die Aufmerksamkeit auf die Randgebiete Berlins [[gelenkt]] werden, die auch nicht wenig Ansprechendes zu bieten haben. ^51
+
 
 *[[C1-Lesen-431-Text#^9|^]]* `22 e` Ein [[ernst zu nehmen]]der Tipp wäre also, alle Störfaktoren auszuschalten
+
+*[[C1-Lesen-421-Text#^45|^]]* Am Tegernsee werden [[Parkgelegenheit]]en nur noch für Anwohner [[ausgewiesen]], durch bessere [[Zugverbindung]]en und [[Radschneilweg]]e sollen autofahrende Gäste zum [[Umsteig]]en bewegt werden. ^45
 
 
 *[[bro-schrieben-c1-t1-004#^1|^]]* Liebe Forumsteilnehmer, ^1

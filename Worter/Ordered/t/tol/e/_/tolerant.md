@@ -28,4 +28,4 @@ tolerant
 Adjektive: [[tolerant]], [[toleranter]], [[tolerantest]]
 
 ---
-[[toleranter]], [[tolerantes]], [[tolerante]], [[toleranten]], [[tolerantem]], [[toleranterer]], [[toleranteres]], [[tolerantere]], [[toleranteren]], [[toleranterem]], [[tolerantester]], [[tolerantestes]], [[toleranteste]], [[tolerantesten]], [[tolerantestem]]
+[[toleranter]], [[tolerantes]], [[tolerante]], [[toleranten]], [[tolerantem]], [[toleranterer]], [[toleranteres]], [[tolerantere]], [[toleranteren]], [[toleranterem]], [[tolerantester]], [[tolerantestes]], [[toleranteste]], [[tolerantesten]], [[tolerantestem]], [[freizügig]]

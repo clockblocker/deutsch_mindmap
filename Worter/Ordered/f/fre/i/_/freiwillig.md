@@ -3,6 +3,7 @@
 nicht [[gezwungen]]
 
 ---
+*[[C1-Lesen-421-Text#^13|^]]* In Südbayern ist die [[freiwillig]]e [[Feuerwehr]] im [[Einsatz]], um der [[Besuchermassen]] [[Herr zu werden]]
 
 132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
 
@@ -10,7 +11,7 @@ nicht [[gezwungen]]
     - [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
     - [ ] Sie arbeiten in der [[Bundesregierung]].
 
-122. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
+133. Welchem Grundsatz [[unterliegen]] Wahlen in Deutschland? Wahlen in Deutschland sind … (82%)
 
 
     - [x] [[frei]], [[gleich]], [[geheim]].
@@ -45,3 +46,4 @@ P: [[freiwilligen]], [[freiwilligeren]], [[freiwilligsten]]
 ---
 
 [[Freiwilligkeit]], [[Freiwillige]], [[freiwillig melden]], [[Freiwilligenarbeit]], [[Freiwilligendienst]], [[freien]], [[zwangsweise]], [[spontan]], [[zwangsläufig]], [[obligatorisch]]
+, [[verbindlich]]

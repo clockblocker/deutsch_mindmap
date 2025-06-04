@@ -4,6 +4,7 @@
 🚧 [[einschränken]], [ˈaɪ̯nˌʃʁɛŋkən] | [[schränkte ein]], haben [[eingeschränkt]]
 
 ---
+[[Verbindlich]]e Sprachregeln [[einschränken|schränken]] eine humoristische [[Entfaltung]] ein 
 
 Der [[Zugang]] `zu` Strom ist `für` Studierende oft eingeschränkt: *In vielen Räumen der Universität gibt es nicht ausreichend Steckdosen, was das Arbeiten mit Laptops erheblich erschwert.* [[Ingredient-Zugang-Zugriff#^2|^]] 
 

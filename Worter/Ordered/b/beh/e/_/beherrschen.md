@@ -51,4 +51,4 @@ sie, [[beherrschen]], [[beherrschten]], [[beherrschen]], [[beherrschten]], [[beh
 Adjektive: [[beherrschend]], [[beherrschender]], [[beherrschendst]]
 
 ---
-[[beherrschender]], [[beherrschendes]], [[beherrschende]], [[beherrschenden]], [[beherrschendem]], [[beherrschenderer]], [[beherrschenderes]], [[beherrschendere]], [[beherrschenderen]], [[beherrschenderem]], [[beherrschendster]], [[beherrschendstes]], [[beherrschendste]], [[beherrschendsten]], [[beherrschendstem]], [[handhaben]], [[vorherrschen]], [[unterwerfen]], [[umgeben]], [[aneignen]], [[thronen]], [[bro-schrieben-c1-t1-002]]
+[[beherrschender]], [[beherrschendes]], [[beherrschende]], [[beherrschenden]], [[beherrschendem]], [[beherrschenderer]], [[beherrschenderes]], [[beherrschendere]], [[beherrschenderen]], [[beherrschenderem]], [[beherrschendster]], [[beherrschendstes]], [[beherrschendste]], [[beherrschendsten]], [[beherrschendstem]], [[handhaben]], [[vorherrschen]], [[unterwerfen]], [[umgeben]], [[aneignen]], [[thronen]], [[bro-schrieben-c1-t1-002]], [[Herr werden]]

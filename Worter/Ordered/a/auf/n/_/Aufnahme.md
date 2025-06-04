@@ -31,3 +31,4 @@ D: der [[Aufnahme]], den [[Aufnahmen]]
 ---
 
 [[aufnehmen]], [[aufnehmbar]], [[Aufnahmebedingungen]], [[Aufnahmeverfahren]], [[aufnahmefähig]],  [[Unterbringung]], [[Foto]], [[Nahaufnahme]], [[Video]], [[Verdrängung]], [[aufsaugen]]
+, [[Verdrängungsprozess]]

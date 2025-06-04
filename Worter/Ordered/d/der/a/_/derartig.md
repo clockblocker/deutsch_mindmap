@@ -5,7 +5,7 @@
 🤔 [[derartig]], [ˈdeːɐ̯ˌʔaːɐ̯tɪç](https://youglish.com/pronounce/derartig/german)
 
 ---
-
+*[[C1-Lesen-441-Text#^24|^]]* Der Humor in englischen Stand-up-Comedys im Fernsehen basiert auf [[derartig]]en Wortspielen
 
 ---
 = [[solcherart]], [[dergleichen]]

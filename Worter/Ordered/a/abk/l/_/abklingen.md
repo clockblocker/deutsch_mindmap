@@ -1,1 +1,1 @@
-, [[schäumen]], [[abkühlen]], [[Abklingzeit]]
+, [[schäumen]], [[abkühlen]], [[Abklingzeit]], [[erlahmen]]

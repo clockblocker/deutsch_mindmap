@@ -1,1 +1,1 @@
-, [[schrecken]], [[aufregen]], [[alarmieren]]
+, [[schrecken]], [[aufregen]], [[alarmieren]], [[vergraulen]]

@@ -1,1 +1,1 @@
-, [[hoffentlich]], [[wahrscheinlich]], [[scheinbar]]
+, [[hoffentlich]], [[wahrscheinlich]], [[scheinbar]], [[vermeintlich]]

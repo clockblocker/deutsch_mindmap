@@ -1,1 +1,1 @@
-[[handeln]],  [[bedürftig]]
+[[handeln]],  [[bedürftig]], [[lenken]]

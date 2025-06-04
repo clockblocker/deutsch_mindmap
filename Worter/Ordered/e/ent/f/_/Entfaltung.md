@@ -2,6 +2,8 @@
 die [[Entfaltungen]]
 
 ---
+[[Verbindlich]]e Sprachregeln schränken eine humoristische [[Entfaltung]] ein
+
 170. Was gab es während der Zeit des Nationalsozialismus in Deutschland? (76%)
 	- [ ] das Recht zur freien [[Entfaltung]] der [[Persönlichkeit]]
 

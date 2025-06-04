@@ -4,6 +4,7 @@
 ➡️ [[entsprechend]], [ɛntˈʃpʁɛçn̩t] | [[entsprechen]]
 
 ---
+*[[C1-Lesen-421-Text#^48|^]]* Wer kommt, sollte möglichst länger bleiben und pro Person [[entsprechend]] mehr [[ausgeben]]
 
 [[Entsprechend]] unserem [[Vorschlag]]
 

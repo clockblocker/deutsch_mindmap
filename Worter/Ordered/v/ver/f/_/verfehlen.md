@@ -48,4 +48,4 @@ sie, [[verfehlen]], [[verfehlten]], [[verfehlen]], [[verfehlten]], [[verfehlen]]
 Adjektive: [[verfehlend]], [[verfehlender]], [[verfehlendst]]
 
 ---
-[[verfehlender]], [[verfehlendes]], [[verfehlende]], [[verfehlenden]], [[verfehlendem]], [[verfehlenderer]], [[verfehlenderes]], [[verfehlendere]], [[verfehlenderen]], [[verfehlenderem]], [[verfehlendster]], [[verfehlendstes]], [[verfehlendste]], [[verfehlendsten]], [[verfehlendstem]], [[beherrschen]], [[verwirklichen]], [[verlaufen]], [[hinausgehen]], [[unzutreffen]]
+[[verfehlender]], [[verfehlendes]], [[verfehlende]], [[verfehlenden]], [[verfehlendem]], [[verfehlenderer]], [[verfehlenderes]], [[verfehlendere]], [[verfehlenderen]], [[verfehlenderem]], [[verfehlendster]], [[verfehlendstes]], [[verfehlendste]], [[verfehlendsten]], [[verfehlendstem]], [[beherrschen]], [[verwirklichen]], [[verlaufen]], [[hinausgehen]], [[unzutreffen]], [[ansteuern]], [[entgehen]], [[auffassen]]

@@ -2,24 +2,11 @@
 nicht [[unzuständig]]
 
 ---
+*[[C1-Lesen-421-Text#^5|^]]* Heftige Reaktionen auf Overtourismus in Deutschland haben bei den [[zuständig]]en Institutionen für eine [[Sensibilisierung]] gesorgt
 
 Meine Kusine, Ihre Vermieterin, hat diese Woche Urlaub - also bin ich [[zuständig]]
 
 _[[C1-Hoehen-T2-202-Text#^32|^]]_ Dafür sind ja auch die Oppositionsparteien [[zuständig]]
-
-80. Welches [[Gericht]] in Deutschland ist [[zuständig]] für die [[Auslegung]] des Grundgesetzes? (79%)
-
-    - [ ] [[Oberlandesgericht]]
-    - [ ] [[Amtsgericht]]
-    - [x] [[Bundesverfassungsgericht]]
-    - [ ] [[Verwaltungsgericht]]
-
-81. Welches [[Gericht]] ist in Deutschland bei [[Konflikten]] in der [[Arbeitswelt]] [[zuständig]]? (93%)
-
-    - [x] das [[Arbeitsgericht]]
-
-82. Ein [[Ehepaar]] möchte in Deutschland ein Restaurant [[eröffnen]]. Was braucht es dazu [[unbedingt]]? (93%)
-    - [x] eine [[Gaststättenerlaubnis]] von der [[zuständigen]] [[Behörde]]
 
 ---
 

@@ -3,6 +3,8 @@
 🧐 [[einzeln]], [ˈaɪ̯ntsəln] | [[einzelnen]] | [[Einzelne]],
 
 ---
+*[[C1-Lesen-421-Text#^36|^]]* Bundesweit werden dazu seit zwei Jahren Befragungen durchgeführt, bei denen [[ermittelt]] werden soll, ob und wie sich der Tourismus positiv oder negativ auf den Wohnort und das Leben des [[Einzelnen]] auswirkt
+
 
 Ich spreche jedes Wort [[einzeln]]
 

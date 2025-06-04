@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-201-Text#^25|^]]* Einiges ist in diesem Film [[überzogen]], aber es handelt sich ja schließlich um eine Komödie mit allen [[Irrungen]] und [[Wirrungen]] der Liebe
 
+*[[C1-Lesen-421-Text#^6|^]]* Heftige Reaktionen auf Overtourismus in Deutschland [[verdeutlichen]], wie [[überzogen]] die [[Ansprüche]] der [[Einheimischen]] sind
+
 ---
 = [[übertreiben]], [[übertrieben]] | [[exzessiv]], [[übermäßig]]
 ≈ [[vergrößern]], [[ausweiten]] | [[üppig]], [[extrem]], [[bedecken]], [[lackiertes]]

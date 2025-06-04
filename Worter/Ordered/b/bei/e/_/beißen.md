@@ -43,4 +43,4 @@ sie, [[beißen]], [[bissen]], [[beißen]], [[bissen]], [[bissen]]
 Adjektive: [[beißend]], [[beißender]], [[beißendst]]
 
 ---
-[[beißender]], [[beißendes]], [[beißende]], [[beißenden]], [[beißendem]], [[beißenderer]], [[beißenderes]], [[beißendere]], [[beißenderen]], [[beißenderem]], [[beißendster]], [[beißendstes]], [[beißendste]], [[beißendsten]], [[beißendstem]], [[schonen]], [[zulassen]], [[freigeben]]
+[[beißender]], [[beißendes]], [[beißende]], [[beißenden]], [[beißendem]], [[beißenderer]], [[beißenderes]], [[beißendere]], [[beißenderen]], [[beißenderem]], [[beißendster]], [[beißendstes]], [[beißendste]], [[beißendsten]], [[beißendstem]], [[schonen]], [[zulassen]], [[freigeben]], [[attackieren]]

@@ -1,1 +1,1 @@
-, [[streng]]
+, [[streng]], [[freizügig]]

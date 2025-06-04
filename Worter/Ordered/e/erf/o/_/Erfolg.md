@@ -2,6 +2,7 @@
 die [[Erfolge]]
 
 ---
+Der [[Erfolg]] deutscher Witze, die Leute zum Lachen zu bringen, wird [[angezweifelt]]
 
 [[16 Plusquamperfekt#^26|^]] Der exzentrischste Künstler der Welt Salvator Dali ist eine Legende. Schon **[[während]] seines Lebens und auch nach seinem Tod** hatte er großen [[Erfolg]]
 

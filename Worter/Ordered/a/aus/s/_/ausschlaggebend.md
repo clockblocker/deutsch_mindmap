@@ -4,7 +4,9 @@
 
 
 ---
-*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^7|^]]* _Da spielt die_ [[Beherrschung]] _der_ [[Landessprache]] _eine_ [[ausschlaggebende]] _Rolle. ^7
+*[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^7|^]]* _Da spielt die_ [[Beherrschung]] _der_ [[Landessprache]] _eine_ [[ausschlaggebende]] _Rolle
+
+*[[C1-Lesen-441-Text#^22|^]]* Man kann das Verb nicht nach [[Belieben]] setzen oder bis zum Ende des Satzes warten, um das für die Pointe [[ausschlaggebende]] Wort zu [[platzieren]]
 
 
 ---

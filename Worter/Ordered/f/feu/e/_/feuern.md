@@ -35,3 +35,4 @@ Morpheme: [[feu]], [[er]], [[n]]
 
 Partizip I: [[feuernd]], Partizip II: [[gefeuert]]
 , [[beschäftigen]], [[anstellen]]
+, [[befeueren]]

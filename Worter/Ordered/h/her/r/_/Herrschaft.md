@@ -1,1 +1,1 @@
-, [[unterworfen]], [[Beherrschung]], [[vorherrschen]], [[herrschen]]
+, [[unterworfen]], [[Beherrschung]], [[vorherrschen]], [[herrschen]], [[Herr werden]]

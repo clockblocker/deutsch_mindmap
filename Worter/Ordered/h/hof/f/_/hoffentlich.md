@@ -15,3 +15,4 @@ Antonyme: [[sicher]], [[definitiv]], [[garantiert]]
 
 Verwandte Wörter:
 [[hoffen]], [[Hoffnung]]
+, [[erhoffen]]

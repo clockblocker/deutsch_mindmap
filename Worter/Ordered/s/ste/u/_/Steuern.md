@@ -44,4 +44,4 @@ PI: [[steuernd]], PII: [[gesteuert]], Zu+inf: [[zusteuern]]
 [[Steuerung]], [[Steuerrad]], [[Steuermann]], [[Steuergerät]], [[steuerbar]]
 
 ,  [[beeinflussen]], [[Grünsteuer]], [[lenken]], [[dirigieren]]
-, [[entscheiden]]
+, [[entscheiden]], [[ansteuern]]

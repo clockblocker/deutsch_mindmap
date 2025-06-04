@@ -1,1 +1,1 @@
-, [[Ausflug]], [[Sehenswürdigkeit]]
+, [[Ausflug]], [[Sehenswürdigkeit]], [[Urlaubsort]]

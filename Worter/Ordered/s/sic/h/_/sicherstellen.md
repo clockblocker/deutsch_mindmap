@@ -1,2 +1,2 @@
 --> [[Ingredient-Verben-Bedürfnis]] <--
-, [[gewährleisten]]
+, [[gewährleisten]], [[sichergehen]]

@@ -1,1 +1,1 @@
-[[seidig]], [[dick]], [[fein]], [[bullig]], [[klein]], [[sanft]], [[derb]], [[männlich]]
+[[seidig]], [[dick]], [[fein]], [[bullig]], [[klein]], [[sanft]], [[derb]], [[männlich]], [[subtil]]

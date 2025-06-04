@@ -1,6 +1,7 @@
 [[woanders]], [ˈvoandɐs]
 
 ---
+*[[C1-Lesen-421-Text#^29|^]]* Eine Studie der Hochschule Kempten ergab, dass schon jeder [[vierte]] Urlauber [[überlegt]], [[woanders]] [[hinzufahren]], um den Massen zu [[entgehen]]
 
 MARIA: Kannst du das Fahrrad [[woanders]] hinstellen?
 

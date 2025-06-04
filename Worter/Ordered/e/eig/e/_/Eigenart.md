@@ -1,6 +1,7 @@
 🤔 🔴 die [[Eigenart]], [ˈaɪ̯ɡn̩ˌʔaːɐ̯t](https://youglish.com/pronounce/Eigenart/german)
 
 ---
+*[[C1-Lesen-441-Text#^18|^]]* Der Grund für die [[angeblich]]e Humorlosigkeit der Deutschen liegt wohl in den Eigenschaften der deutschen Sprache selbst und der [[Eigenart]] der Deutschen
 
 ---
 = [[Besonderheit]], [[Charakteristik]], [[Merkmal]]

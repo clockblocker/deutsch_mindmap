@@ -35,4 +35,4 @@ D: dem [[Arbeitsplatz]], den [[Arbeitsplätzen]]
 , [[Arbeitsauftrag]], [[Arbeitsstelle]], [[Arbeitsumfeld]]
 
 #Maskulin , [[Homeoffice]], [[Arbeitsform]], [[Büroraum]], [[Großraumbüro]], [[Bürosituation]], [[Open Space]], [[Arbeitsraum]], [[Wohnraum]], [[Ausbildungsstelle]], [[Ausbildungsstätte]]
-, [[Arbeitsplatzwechsel]]
+, [[Arbeitsplatzwechsel]], [[Urlaubsort]]

@@ -1,1 +1,1 @@
-, [[gelöst]]
+, [[gelöst]], [[verbal]]

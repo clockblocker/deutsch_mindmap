@@ -34,4 +34,4 @@ future, in the future
 Adjektive: [[künftig]], [[künftiger]], [[künftigst]]
 
 ---
-[[künftiger]], [[künftiges]], [[künftige]], [[künftigen]], [[künftigem]], [[künftigerer]], [[künftigeres]], [[künftigere]], [[künftigeren]], [[künftigerem]], [[künftigster]], [[künftigstes]], [[künftigste]], [[künftigsten]], [[künftigstem]]
+[[künftiger]], [[künftiges]], [[künftige]], [[künftigen]], [[künftigem]], [[künftigerer]], [[künftigeres]], [[künftigere]], [[künftigeren]], [[künftigerem]], [[künftigster]], [[künftigstes]], [[künftigste]], [[künftigsten]], [[künftigstem]], [[bislang]]

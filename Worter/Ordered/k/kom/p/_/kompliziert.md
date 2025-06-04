@@ -42,4 +42,4 @@ Tags:
 
 Morphems:
 [[kompli]], [[ziert]], [[einfachen]], [[schwer]], [[leicht]], [[anspruchsvoll]], [[schlicht]], [[aufwendig]]
-, [[unbewältigen]]
+, [[unbewältigen]], [[überschaubar]]

@@ -27,4 +27,4 @@ A: die [[Verwechslung]], die [[Verwechslungen]]
 G: der [[Verwechslung]], der [[Verwechslungen]]
 D: der [[Verwechslung]], den [[Verwechslungen]]
 
-#Feminin 
+#Feminin , [[lenken]]

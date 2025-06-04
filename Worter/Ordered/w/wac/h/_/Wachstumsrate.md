@@ -1,1 +1,1 @@
-, [[wachsend]], [[wachsen]]
+, [[wachsend]], [[wachsen]], [[Steigerungsquote]]

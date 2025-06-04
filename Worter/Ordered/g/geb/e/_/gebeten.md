@@ -1,1 +1,1 @@
-[[bitten]], [[Hantelgewicht]]
+[[bitten]], [[Hantelgewicht]], [[zur Kasse bitten]]

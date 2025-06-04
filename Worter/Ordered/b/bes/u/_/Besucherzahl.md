@@ -28,4 +28,4 @@ A: die [[Besucherzahl]], die [[Besucherzahlen]]
 G: der [[Besucherzahl]], der [[Besucherzahlen]]
 D: der [[Besucherzahl]], den [[Besucherzahlen]]
 
-#Feminin 
+#Feminin , [[Gästezahl]]

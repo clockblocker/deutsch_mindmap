@@ -2,14 +2,15 @@
 nicht [[ungeeignet]]
 
 ---
+*[[C1-Lesen-441-Text#^8|^]]* Schon Mark Twain meinte, deutsche Witze seien nicht zum Lachen [[geeignet]]
 
 _[[0 checklist#^5|^]]_ Die [[geeigneten]] [[Unterlagen]] präsentieren dich als Mieter, der seine [[Zahlung]]en [[pünktlich]] [[leistet]]
 
-_[[C1-Hoehen-T2-301-Text#^14|^]]_ Wäre denn nicht jetzt der [[geeignet]]e Zeitpunkt, dies dadurch zu [[revidieren]], dass man ein obligatorisches soziales Jahr für all die [[einführt]], die sich nicht bei der Bundeswehr [[verpflichten]]? ^14
+_[[C1-Hoehen-T2-301-Text#^14|^]]_ Wäre denn nicht jetzt der [[geeignet]]e Zeitpunkt, dies dadurch zu [[revidieren]], dass man ein obligatorisches soziales Jahr für all die [[einführt]], die sich nicht bei der Bundeswehr [[verpflichten]]?
 
 Dr. Frentzen gibt einen [[vollständig]]en [[Überblick]] über die für ein soziales Praktikum [[geeignet]]en [[Berufsgruppe]]n.
 
-_[[TD#^3|^]]_ Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten. ^3
+_[[TD#^3|^]]_ Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten
 
 Zunächst möchte ich erst einmal feststellen, dass das Arbeiten von zu Hause aus für Berufsgruppen aus der IT-Branche, [[Werbung]], [[Buchhaltung]] und [[Verwaltung]] [[geeignet]] ist, vor allem, wenn bestimmte Bedingungen zu Hause [[erfüllt]] sind, wie z. B. schnelles Internet, Zugriff auf [[Datenbanken]] und technische [[Ausstattungen]]
 

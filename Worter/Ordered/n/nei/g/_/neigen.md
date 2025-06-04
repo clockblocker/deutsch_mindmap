@@ -3,6 +3,8 @@
 ---
 15 Deutsche [[neigen]] weniger zu Populismus als andere Nationen.
 
+*[[C1-Lesen-441-Text#^3|^]]* Wie sehr man zu Humor [[neigt]], variiert in Deutschland von [[Gegend]] zu Gegend
+
 ---
 = [[tendieren]], [[bevorzugen]], [[hinneigen]],  [[beugen]], [[biegen]],
 ≈ [[anlehnen]], [[beugen]], [[veranlagt sein]]

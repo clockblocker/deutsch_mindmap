@@ -1,6 +1,7 @@
 💸 [[ausgeben]] | [[gab aus|gab aus]], haben [[ausgegeben]]
 
 ---
+*[[C1-Lesen-421-Text#^48|^]]* Wer kommt, sollte möglichst länger bleiben und pro Person [[entsprechend]] mehr [[ausgeben]]
 
 STEFAN: Ich? Ich würde nie Geld für dich [[ausgeben]]! Niemals!
 

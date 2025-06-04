@@ -28,4 +28,4 @@ open, frank, candid
 Adjektive: [[offen]], [[offener]], [[offenst]]
 
 ---
-[[offener]], [[offenes]], [[offene]], [[offenen]], [[offenem]], [[offenerer]], [[offeneres]], [[offenere]], [[offeneren]], [[offenerem]], [[offenster]], [[offenstes]], [[offenste]], [[offensten]], [[offenstem]], [[vertraulich]], [[zugänglich]], [[sichtbar]], [[transparent]], [[unbesetzt]]
+[[offener]], [[offenes]], [[offene]], [[offenen]], [[offenem]], [[offenerer]], [[offeneres]], [[offenere]], [[offeneren]], [[offenerem]], [[offenster]], [[offenstes]], [[offenste]], [[offensten]], [[offenstem]], [[vertraulich]], [[zugänglich]], [[sichtbar]], [[transparent]], [[unbesetzt]], [[freizügig]]

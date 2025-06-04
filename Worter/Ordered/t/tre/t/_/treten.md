@@ -81,4 +81,4 @@ sie, [[treten]], [[traten]], [[treten]], [[träten]], [[treten]]
 Adjektive: [[tretend]], [[tretender]], [[tretendst]]
 
 ---
-[[tretender]], [[tretendes]], [[tretende]], [[tretenden]], [[tretendem]], [[tretenderer]], [[tretenderes]], [[tretendere]], [[tretenderen]], [[tretenderem]], [[tretendster]], [[tretendstes]], [[tretendste]], [[tretendsten]], [[tretendstem]]
+[[tretender]], [[tretendes]], [[tretende]], [[tretenden]], [[tretendem]], [[tretenderer]], [[tretenderes]], [[tretendere]], [[tretenderen]], [[tretenderem]], [[tretendster]], [[tretendstes]], [[tretendste]], [[tretendsten]], [[tretendstem]], [[eintreten]]

@@ -6,6 +6,8 @@
 ---
 Sie [[fordern]] den gleichen [[Lohn]] für alle
 
+*[[C1-Lesen-421-Text#^24|^]]* Eine örtliche Initiative [[fordert]] [[derweil]] ein komplettes Verbot von Kreuzfahrtschiffen
+
 *[[bro-schrieben-c1-t1-011#^3|^]]* Viele [[Arbeitnehmende]] werden [[stets]] [[gefordert]], ihre [[Leistung]] regelmäßig auf ein höheres Niveau zu bringen, was zu [[langfristig]]er [[emotional]]er [[Überforderung]] führen könnte
 
 *[[C1-Hoehen-T3-301-Text#^17|^]]* Frau Ebner-Perotti [[fordert]], die [[Anwerbung]] junger, gut [[ausgebildeter]] Menschen zu stoppen
@@ -47,4 +49,4 @@ PI: [[fordernd]], PII: [[gefordert]], Zu+inf: [[zufordern]]
 [[fordern]] - [[Stamm]] = [[fordern]] / to demand, to request, to challenge
 
 ---
-[[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]], [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]], [[Überforderung]], [[erfordern]], [[drängen]], [[appellieren]], [[einfordern]], [[Erfordernis]], [[beantragen]], [[Aufforderung]], [[heischen]]
+[[Forderung]], [[Herausforderung]], [[Anspruch]], [[forschend]], [[fordernd]], [[Forderer]], [[Forderung]], [[erforderlich]], [[überfordern]], [[benötigen]], [[Aufrufen]], [[dringen]], [[Überforderung]], [[erfordern]], [[drängen]], [[appellieren]], [[einfordern]], [[Erfordernis]], [[beantragen]], [[Aufforderung]], [[heischen]], [[zur Kasse bitten]]

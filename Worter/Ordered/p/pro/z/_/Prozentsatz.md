@@ -1,1 +1,1 @@
-, [[Anteil]]
+, [[Anteil]], [[Steigerungsquote]]

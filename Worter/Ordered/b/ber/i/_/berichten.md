@@ -33,4 +33,4 @@ PI: [[berichtend]], PII: [[berichtet]], Zu+inf: [[zuberichten]]
 [[Bericht]], [[Berichterstatter]], [[Berichterstattung]], [[berichtswürdig]], [[Berichtsheft]]
 
 [[sagen]], [[erzählen]], [[Abschlussbericht]], [[anzeigen]], [[aussagen]], [[s1 e1]]
-, [[schildern]]
+, [[schildern]], [[nacherzählen]]

@@ -29,4 +29,4 @@ A: die [[Hoffnung]], die [[Hoffnungen]]
 G: der [[Hoffnung]], der [[Hoffnungen]]
 D: der [[Hoffnung]], den [[Hoffnungen]]
 
-#Feminin 
+#Feminin , [[erhoffen]]

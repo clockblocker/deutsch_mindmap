@@ -42,3 +42,4 @@ Partizip I: [[fassend]], Partizip II: [[gefasst]]
 '''
 
 [[greifen]], [[Extra 8]], [[entwischen]], [[nehmen]], [[s1 e1]], [[Zusammenfassung]], [[zusammenfassen]], [[anfassen]], [[verfassen]], [[erfassen]], [[Auffassung]]
+, [[auffassen]]

@@ -1,1 +1,1 @@
-, [[zweifelt]], [[zweifeln]], [[Zweifel]]
+, [[zweifelt]], [[zweifeln]], [[Zweifel]], [[anzweifeln]]

@@ -45,4 +45,4 @@ Dative: der [[Umgebung]], den [[Umgebungen]]
 , [[quietschen]], [[Nähe]], [[Arbeitsumfeld]], [[Bürosituation]]
 
 #Feminin , [[Arbeitsumgebung]], [[Nachbarschaft]], [[Plattform]]
-, [[Atmosphäre]]
+, [[Atmosphäre]], [[Außenbezirk]], [[Randgebiet]]

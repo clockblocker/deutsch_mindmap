@@ -1,1 +1,1 @@
-, [[fein]], [[sensibel]]
+, [[fein]], [[sensibel]], [[subtil]]

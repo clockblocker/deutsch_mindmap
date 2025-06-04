@@ -1,1 +1,1 @@
-, [[Landschaft]], [[Gelände]]
+, [[Landschaft]], [[Gelände]], [[Gegend]]

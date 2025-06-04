@@ -1,3 +1,3 @@
 --> [[⛪ Ingredient-Plazt]] <--
 
-, [[Schlachtfeld]]
+, [[Schlachtfeld]], [[Gegend]]

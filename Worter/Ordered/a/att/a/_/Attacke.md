@@ -1,1 +1,1 @@
-, [[Angriff]], [[Aggression]], [[Überfall]], [[Anfall]], [[Vorstoß]]
+, [[Angriff]], [[Aggression]], [[Überfall]], [[Anfall]], [[Vorstoß]], [[attackieren]]

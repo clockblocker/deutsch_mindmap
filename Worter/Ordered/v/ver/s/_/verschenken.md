@@ -1,1 +1,1 @@
-, [[sammeln]], [[erben]]
+, [[sammeln]], [[erben]], [[zur Kasse bitten]]

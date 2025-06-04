@@ -53,3 +53,10 @@ Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 Mit freundlichen Grüßen
 Denis Popov
 
+
+
+Allerdings habe ich zwei Jahre daran gearbeitet, einen Platz im Programm zu sichern. Um an dem vor Ort stattfindenden Studium teilnehmen zu können, benötige ich eine sechsmonatige Bildungsfreistellung.
+
+
+However, I worked on it for two years to secure a place in the program. In order to be able to participate in the on-site study, I need a six-month educational leave.
+

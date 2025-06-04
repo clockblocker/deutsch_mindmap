@@ -4,6 +4,8 @@
 die [[Rückgänge]]
 
 ---
+*[[C1-Lesen-421-Text#^2|^]]* In Venedig ist der Tourismus mittlerweile im [[Rückgang]] [[begriffen]]
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^10|^]]* Ohne diese persönlichen [[Interaktion]]en kann es zu einem [[Rückgang]] der kreativen [[Zusammenarbeit]] und einer [[allgemeinen]] [[Entfremdung]] unter Kollegen kommen. ^10
 
 
@@ -38,4 +40,4 @@ G: des [[Rückgangs]], der [[Rückgänge]]
 D: dem [[Rückgang]], den [[Rückgängen]]
 
 
-#Maskulin , [[Steigerung]]
+#Maskulin , [[Steigerung]], [[Ansturm]], [[Steigerungsquote]]

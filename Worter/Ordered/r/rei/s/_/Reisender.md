@@ -1,1 +1,1 @@
-, [[einreisen]], [[reisen]], [[verreisen]], [[Reise]], [[Pendler]]
+, [[einreisen]], [[reisen]], [[verreisen]], [[Reise]], [[Pendler]], [[Kreuzfahrttourist]]

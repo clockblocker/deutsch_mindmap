@@ -1,1 +1,1 @@
-, [[stellenweise]], [[Ort]], [[hiesig]]
+, [[stellenweise]], [[Ort]], [[hiesig]], [[Örtlichkeit]]

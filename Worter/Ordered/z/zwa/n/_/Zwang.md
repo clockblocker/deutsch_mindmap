@@ -40,4 +40,4 @@ A: den [[Zwang]], die [[Zwänge]]
 G: des [[Zwangs]], der [[Zwänge]]
 D: dem [[Zwang]], den [[Zwängen]]
 
-#Maskulin, [[Freiwilligendienst]], [[Zwangsdienst]], [[Wahlmöglichkeit]], [[Alternative]]
+#Maskulin, [[Freiwilligendienst]], [[Zwangsdienst]], [[Wahlmöglichkeit]], [[Alternative]], [[Belieben]]

@@ -7,6 +7,9 @@ die [[Bewertungen]]
 ---
 - [x] [[C1-Hoehen-T4-100-Text|100]] [[Verbraucherschutz]] / [[Bewertung]]
 
+*[[C1-Lesen-421-Text#^11|^]]* Bei der [[Bewertung]] des Tourismus fallen subjektive Kriterien stark ins [[Gewicht]]
+*(Subjective criteria carry a lot of [[weight]] in the [[assessment]] of tourism)*
+
 Welche [[Rolle]] [[spielen]] Online-[[Bewertung]]en bei [[Kaufentscheidung]]en?
 
 *[[C1-Hoehen-T4-100-Text#^17|^]]* Es ist ein [[richtig]]er [[Handel]] mit falschen [[Bewertung]]en [[entstanden]]

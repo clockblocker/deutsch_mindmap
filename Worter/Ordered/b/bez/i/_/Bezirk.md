@@ -2,6 +2,10 @@
 die [[Bezirke]]
 
 ---
+*[[C1-Lesen-421-Text#^17|^]]* Um dem Overtourismus in Berlin [[vorzubeugen]], sollen nur wenige zentrale [[Bezirk]]e [[gezielt]] von Touristen [[angesteuert]] werden
+
+
+
 322. Welches ist ein [[Bezirk]] von Berlin? (96%)
 	- [ ] Altona
 	- [ ] Prignitz
@@ -31,3 +35,5 @@ D: dem [[Bezirk]], den [[Bezirken]]
 
 , [[Gebiet]], [[Bundesbezirk]]
 , [[Bezirksverordnetenversammlung]], [[Viertel]], [[Stadtteil]]
+
+#Maskulin , [[Außenbezirk]]

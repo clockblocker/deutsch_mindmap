@@ -1,1 +1,1 @@
-, [[dunkel]], [[transparent]]
+, [[dunkel]], [[transparent]], [[überschaubar]]

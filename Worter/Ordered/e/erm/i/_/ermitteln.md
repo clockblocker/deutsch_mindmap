@@ -1,6 +1,8 @@
 🕵️ [[ermitteln]], [ɛɐ̯ˈmɪtn̩] | [[ermittelte]], haben [[ermittelt]]
 
 ---
+*[[C1-Lesen-421-Text#^36|^]]* Bundesweit werden dazu seit zwei Jahren Befragungen durchgeführt, bei denen [[ermittelt]] werden soll, ob und wie sich der Tourismus positiv oder negativ auf den Wohnort und das Leben des Einzelnen auswirkt
+
 
 _[[C1-Hoehen-T2-203-Text#^6|^]]_ Man hat zu Beginn versucht, mit [[Fragebogen]] diese [[Zeitdauer]] zu [[ermitteln]], was sich jedoch als [[recht]] schwierig [[gestaltete]], denn die [[Einschätzung]]en der Probandinnen und Probanden waren sehr subjektiv und am Ende meist falsch
 

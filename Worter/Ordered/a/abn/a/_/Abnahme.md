@@ -3,6 +3,7 @@
 📉 🔴 die [[Abnahme]], [ˈapˌnaːmə](https://youglish.com/pronounce/Abnahme/german)
 
 ---
+*[[C1-Lesen-421-Text#^18|^]]* Um dem Overtourismus in Berlin vorzubeugen, wird eine [[Abnahme]] der [[Besucherzahl]]en [[angestrebt]]
 
 ---
 = [[Reduzierung]], [[Verringerung]], [[Minderung]] | [[Akzeptanz]], [[Genehmigung]]
@@ -30,3 +31,4 @@ D: der [[Abnahme]], den [[Abnahmen]]
 
 #Feminin 
 
+, [[Steigerungsquote]]

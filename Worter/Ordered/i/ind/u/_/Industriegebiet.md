@@ -1,1 +1,1 @@
-, [[Traumstrand]]
+, [[Traumstrand]], [[Naherholungsgebiet]]

@@ -1,2 +1,2 @@
 [[drücken]], [[wringen]]
-, [[zudrücken]], [[eindrücken]]
+, [[zudrücken]], [[eindrücken]], [[drängeln]]

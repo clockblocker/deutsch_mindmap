@@ -1,1 +1,1 @@
-, [[Hoffnung]]
+, [[Hoffnung]], [[erhoffen]]

@@ -63,4 +63,4 @@ sie, [[kündigen an]], [[kündigten an]], [[kündigen an]], [[kündigten an]], [
 Adjektive: [[ankündigend]], [[ankündigender]], [[ankündigst]]
 
 ---
-[[ankündigender]], [[ankündigendes]], [[ankündigende]], [[ankündigenden]], [[ankündigendem]], [[ankündigenderer]], [[ankündigenderes]], [[ankündigendere]], [[ankündigenderen]], [[ankündigenderem]], [[ankündigster]], [[ankündigstes]], [[ankündigste]], [[ankündigsten]], [[ankündigstem]]--> [[🗣️ Ingredient-Meinung]] <--
+[[ankündigender]], [[ankündigendes]], [[ankündigende]], [[ankündigenden]], [[ankündigendem]], [[ankündigenderer]], [[ankündigenderes]], [[ankündigendere]], [[ankündigenderen]], [[ankündigenderem]], [[ankündigster]], [[ankündigstes]], [[ankündigste]], [[ankündigsten]], [[ankündigstem]]--> [[🗣️ Ingredient-Meinung]] <--, [[vermelden]]

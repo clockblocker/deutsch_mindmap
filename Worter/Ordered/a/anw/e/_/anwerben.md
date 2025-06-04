@@ -43,4 +43,4 @@ sie, [[werben an]], [[warben an]], [[werben an]], [[würben an]], [[würben an]]
 Adjektive: [[anwerbend]], [[anwerbender]], [[anwerbendst]]
 
 ---
-[[anwerbender]], [[anwerbendes]], [[anwerbende]], [[anwerbenden]], [[anwerbendem]], [[anwerbenderer]], [[anwerbenderes]], [[anwerbendere]], [[anwerbenderen]], [[anwerbenderem]], [[anwerbendster]], [[anwerbendstes]], [[anwerbendste]], [[anwerbendsten]], [[anwerbendstem]], [[abwerben]], [[akquirieren]]
+[[anwerbender]], [[anwerbendes]], [[anwerbende]], [[anwerbenden]], [[anwerbendem]], [[anwerbenderer]], [[anwerbenderes]], [[anwerbendere]], [[anwerbenderen]], [[anwerbenderem]], [[anwerbendster]], [[anwerbendstes]], [[anwerbendste]], [[anwerbendsten]], [[anwerbendstem]], [[abwerben]], [[akquirieren]], [[umwerben]]

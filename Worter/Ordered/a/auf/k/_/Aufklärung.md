@@ -28,4 +28,4 @@ A: die [[Aufklärung]], die [[Aufklärungen]]
 G: der [[Aufklärung]], der [[Aufklärungen]]
 D: der [[Aufklärung]], den [[Aufklärungen]]
 
-#Feminin 
+#Feminin , [[Sensibilisierung]]

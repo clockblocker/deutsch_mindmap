@@ -1,1 +1,1 @@
-, [[Laune]], [[enttäuschen]], [[verdrießen]]
+, [[Laune]], [[enttäuschen]], [[verdrießen]], [[vergraulen]]

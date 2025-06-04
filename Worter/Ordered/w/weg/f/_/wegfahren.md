@@ -29,4 +29,4 @@ PI: [[wegfahrend]], PII: [[weggefahren]], Zu+inf: [[wegzufahren]]
 
 ---
 [[Weg]], [[Fahrt]], [[fahren]]
-, [[ausgehen]]
+, [[ausgehen]], [[hinfahren]]

@@ -1,2 +1,2 @@
 , [[lächerlich]], [[Unglaublich]], [[weltfremd]]
-, [[verträumt]], [[Realisierung]], [[naturgetreu]]
+, [[verträumt]], [[Realisierung]], [[naturgetreu]], [[nüchtern]]

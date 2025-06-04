@@ -35,3 +35,4 @@ Morpheme: [[schenk]], [[en]]
 Partizip I: [[schenkend]], Partizip II: [[geschenkt]]
 
 [[schenken]] - [[en]] = [[schenk]], [[rauben]], [[Diebstahl]], [[widmen]], [[spendieren]], [[einfordern]]
+, [[zur Kasse bitten]]

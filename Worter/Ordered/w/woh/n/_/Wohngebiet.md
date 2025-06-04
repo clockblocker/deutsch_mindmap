@@ -1,2 +1,2 @@
 , [[Siedlung]], [[Wohnort]]
-, [[Werksgelände]]
+, [[Werksgelände]], [[Naherholungsgebiet]]

@@ -44,4 +44,4 @@ sie, [[beleben]], [[belebten]], [[beleben]], [[belebten]], [[beleben]]
 Adjektive: [[belebend]], [[belebender]], [[belebendst]]
 
 ---
-[[belebender]], [[belebendes]], [[belebende]], [[belebenden]], [[belebendem]], [[belebenderer]], [[belebenderes]], [[belebendere]], [[belebenderen]], [[belebenderem]], [[belebendster]], [[belebendstes]], [[belebendste]], [[belebendsten]], [[belebendstem]], [[auszehren]]
+[[belebender]], [[belebendes]], [[belebende]], [[belebenden]], [[belebendem]], [[belebenderer]], [[belebenderes]], [[belebendere]], [[belebenderen]], [[belebenderem]], [[belebendster]], [[belebendstes]], [[belebendste]], [[belebendsten]], [[belebendstem]], [[auszehren]], [[erlahmen]]

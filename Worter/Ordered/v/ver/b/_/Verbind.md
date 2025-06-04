@@ -1,1 +1,1 @@
-, [[Verbindlichkeit]]
+, [[Verbindlichkeit]], [[verbindlich]]

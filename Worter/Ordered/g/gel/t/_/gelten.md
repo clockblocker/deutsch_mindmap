@@ -3,6 +3,8 @@
 ---
 Was [[gilt]] `bei` dem [[Erwerb]] von Software, E-Books usw.?
 
+*[[C1-Lesen-441-Text#^19|^]]* Die Deutschen [[gelten]] als [[vernünftig]] und effizient, das bietet anscheinend wenig Raum für Humor
+
 *[[C1-Lesen-431-Text#^5|^]]* Das [[gilt]] in besonders hohem Maße für [[ungeübte]] Lesende. ^5
 
 

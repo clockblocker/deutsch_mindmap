@@ -43,3 +43,4 @@ PI: [[erinnernd]], PII: [[erinnert]], Zu+inf: [[zu erinnern]]
 ---
 
 [[Erinnerung]], [[erinnerlich]], [[Erinnerungsvermögen]], [[Erinnerungsfoto]], [[Erinnerungsstück]], [[verewigen]]
+, [[zurückblicken]]

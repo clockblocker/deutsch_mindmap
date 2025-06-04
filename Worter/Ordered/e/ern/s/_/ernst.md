@@ -4,8 +4,9 @@
 nicht [[leicht]], [[schwer]]
 
 ---
-*[[C1-Lesen-T1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]. ^5
+*[[C1-Lesen-T1-000-Loesung#^5|^]]* „[[Akut]]“ bedeutet [[dringend]], [[heftig]] oder [[gegenwärtig]]. Eine „akute Bedrohung“ beschreibt eine [[gegenwärtige]] und [[ernste]] [[Gefahr]], was im Kontext der Plastikmüll-Problematik für Tiere [[zutrifft]]
 
+*[[C1-Lesen-441-Text#^26|^]]* Grund für die [[vermeintlich]]e Humorlosigkeit der Deutschen ist wahrscheinlich, dass sie alles viel zu [[ernst]] nehmen und [[witzig]] gemeinte [[Bemerkung]]en zu wörtlich [[auffassen]]
 
 Der Film ist am Anfang [[amüsant]], wird dann aber [[ernst]]
 

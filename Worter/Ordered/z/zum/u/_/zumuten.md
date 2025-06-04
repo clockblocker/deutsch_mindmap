@@ -1,1 +1,1 @@
-, [[entmutigt]], [[Unmut]]
+, [[entmutigt]], [[Unmut]], [[Zumutung]]

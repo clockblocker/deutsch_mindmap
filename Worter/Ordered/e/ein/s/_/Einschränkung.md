@@ -33,4 +33,4 @@ A: die [[Einschränkung]], die [[Einschränkungen]]
 G: der [[Einschränkung]], der [[Einschränkungen]]
 D: der [[Einschränkung]], den [[Einschränkungen]]
 
-#Feminin , [[Ausbau]], [[Restriktion]], [[Minderung]], [[Denkverbot]]
+#Feminin , [[Ausbau]], [[Restriktion]], [[Minderung]], [[Denkverbot]], [[Eindämmung]]

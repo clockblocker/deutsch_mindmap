@@ -1,6 +1,9 @@
 👕 [[anziehen]], [ˈanˌt͡siːən] | [[zog an]], haben [[angezogen]]
 
 ---
+*[[C1-Lesen-421-Text#^47|^]]* Man will zwar keine Ausflügler [[vergraulen]], aber auch nicht noch mehr [[anziehen]]
+*(They don't want to [[scare away]] day-trippers, but they also don't want to [[attract]] even more.)*
+
 - Was [[ziehe]] ich an? Und was ziehst du an?  
 - SASCHA: Was ziehe ich an? Hilfe! Ich habe nichts [[anzuziehen]]!  
 

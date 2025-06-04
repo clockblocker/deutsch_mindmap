@@ -1,1 +1,1 @@
-, [[veröffentlichen]], [[verbreiten]], [[herausgeben]]
+, [[veröffentlichen]], [[verbreiten]], [[herausgeben]], [[vermelden]]

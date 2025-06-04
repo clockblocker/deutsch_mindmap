@@ -55,4 +55,4 @@ sie, [[lassen nach]], [[ließen nach]], [[lassen nach]], [[ließen nach]], [[las
 Adjektive: [[nachlassend]], [[nachlassender]], [[nachlassendst]]
 
 ---
-[[nachlassender]], [[nachlassendes]], [[nachlassende]], [[nachlassenden]], [[nachlassendem]], [[nachlassenderer]], [[nachlassenderes]], [[nachlassendere]], [[nachlassenderen]], [[nachlassenderem]], [[nachlassendster]], [[nachlassendstes]], [[nachlassendste]], [[nachlassendsten]], [[nachlassendstem]]
+[[nachlassender]], [[nachlassendes]], [[nachlassende]], [[nachlassenden]], [[nachlassendem]], [[nachlassenderer]], [[nachlassenderes]], [[nachlassendere]], [[nachlassenderen]], [[nachlassenderem]], [[nachlassendster]], [[nachlassendstes]], [[nachlassendste]], [[nachlassendsten]], [[nachlassendstem]], [[erlahmen]]

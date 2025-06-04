@@ -3,6 +3,8 @@
 ---
 In Pompeji starben etwa 2000 Menschen, (3) die noch nicht aus der Stadt [[geflohen]] waren,
 
+*[[C1-Lesen-421-Text#^41|^]]* Nicht nur die aus der Stadt [[fliehenden]] Münchener, sondern auch Urlauber aus allen Teilen Deutschlands oder dem Ausland [[drängeln]] sich in den bayrischen [[Naherholungsgebiet]]en rund um München
+
 ---
 = [[entkommen]], [[weglaufen]], [[ausbrechen]]
 ≈ [[flüchten]], [[davonlaufen]], [[sich entfernen]]

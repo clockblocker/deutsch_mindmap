@@ -2,6 +2,7 @@
 die [[Feuerwehren]]
 
 ---
+*[[C1-Lesen-421-Text#^13|^]]* In Südbayern ist die [[freiwillig]]e [[Feuerwehr]] im [[Einsatz]], um der [[Besuchermassen]] [[Herr zu werden]]
 
 Wenn etwas brennt, kann man die [[Feuerwehr]] rufen oder einen [[Eimer]] Wasser holen.
 
@@ -30,3 +31,5 @@ Genitive: des [[Feuerwehrs]], der [[Feuerwehren]]
 Dative: dem [[Feuerwehr]], den [[Feuerwehren]]
 
 [[feuerwehrmäßig]], [[Feuerwehrmann]], [[Feuerwehrfrau]], [[Feuerwehrauto]], [[Waldbrand]]
+
+#Maskulin 

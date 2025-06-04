@@ -1,1 +1,1 @@
-, [[Urkunde]], [[Zettel]], [[Punkt]], [[Anmerkung]]
+, [[Urkunde]], [[Zettel]], [[Punkt]], [[Anmerkung]], [[Bemerkung]]

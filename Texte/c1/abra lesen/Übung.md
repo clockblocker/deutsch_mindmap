@@ -16,4 +16,4 @@ Angaben zum Inhalt des Gesprächs finden Sie in der Aufgabe. Notieren Sie währe
 Zu diesem Gespräch sollen Sie 10 Aufgaben lösen. Sie hören das Gespräch einmal.  
 Sehen Sie sich jetzt die Aufgaben an. Lesen Sie bitte auch die Beispiele 01 und 02.
 
-(Es folgt eine Minute Pause. Nach dem Signalton beginnt der Hörtext.)
+(Es folgt eine Minute Pause. Nach dem Signalton beginnt der Hörtext.), [[Gewohnheit]]

@@ -3,6 +3,7 @@
 haben [[verstanden]]
 
 ---
+*[[C1-Lesen-441-Text#^13|^]]* Manchmal versteckt er sich hinter [[subtil]]en Wortspielen, die man erst nach kurzem [[Überlegen]] [[versteht]]
 
 (Ich will) Ich will, dass ihr mich [[versteht]]
 

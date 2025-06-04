@@ -3,6 +3,9 @@
 ---
 Was soll das? Aang ist nicht unser Feind! [[Begreift]] ihr's nicht? Aang hat uns etwas [[gebracht]], dass wir seit langer Zeit nicht mehr hatten! Spaß.
 
+*[[C1-Lesen-421-Text#^2|^]]* In Venedig ist der Tourismus mittlerweile im Rückgang [[begriffen]]
+*(In Venice, tourism is now [[in decline]])*
+
 *[[C1-Hoehen-T2-101-Text#^14|^]]* [[Begreifen]] wir eine Gesellschaft mal als System
 *(Let's [[understand]] a society as a system.)*
 
@@ -36,4 +39,4 @@ PI: [[begreifend]], PII: [[begriffen]], Zu+inf: [[zu begreifen]]
 [[begreifen]] - [[be]] = [[greifen]] / to comprehend, to understand
 
 ---
-[[Begreifen]], [[Begreifbarkeit]], [[begreiflich]], [[unbegreiflich]], [[Verständnis]], [[lehren]], [[raffen]], [[umfassen]], [[Auffassung]], [[greifbar]], [[zurechtfinden]], [[Wissen]], [[erschließen]]
+[[Begreifen]], [[Begreifbarkeit]], [[begreiflich]], [[unbegreiflich]], [[Verständnis]], [[lehren]], [[raffen]], [[umfassen]], [[Auffassung]], [[greifbar]], [[zurechtfinden]], [[Wissen]], [[erschließen]], [[auffassen]]

@@ -1,4 +1,4 @@
-[[Hoeren-C1-Root]]
+[[Hoeren-C1-Teils]]
 
 *100 - 2023 Prüfungstraining*
 - [x] [[C1-Hoehen-T1-100-Text|100]] Gentrifizierung

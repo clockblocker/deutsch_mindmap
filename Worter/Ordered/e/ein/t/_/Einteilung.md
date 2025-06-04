@@ -1,1 +1,1 @@
-, [[Abgrenzung]], [[einteilen]], [[Schichtung]]
+, [[Abgrenzung]], [[einteilen]], [[Schichtung]], [[Klassifizierung]]

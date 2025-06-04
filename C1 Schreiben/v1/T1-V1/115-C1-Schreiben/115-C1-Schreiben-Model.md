@@ -6,7 +6,7 @@
 ----
 ---
 
-**Arbeiten mit den Händen – sichere Jobs mit Zukunft?**  
+**Handwerkliche Arbeit – sichere Jobs im Zukunft**
 Viele Menschen entscheiden sich bewusst für handwerkliche oder praktische Berufe, da diese oft stabile Arbeitsmöglichkeiten bieten.  
 - Nach welchen Kriterien wählen Menschen einen Beruf aus?  
 - Warum kann es vorteilhaft sein, einen sogenannten „Blue-Collar“-Beruf zu ergreifen?  

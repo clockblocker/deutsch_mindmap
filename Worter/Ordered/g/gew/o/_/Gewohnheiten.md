@@ -1,1 +1,1 @@
-, [[Lebensstil]], [[Alltagsverhaltensweise]], [[Lebenswandel]]
+, [[Lebensstil]], [[Alltagsverhaltensweise]], [[Lebenswandel]], [[Gewohnheit]]

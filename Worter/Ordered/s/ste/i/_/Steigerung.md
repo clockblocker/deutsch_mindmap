@@ -29,4 +29,4 @@ A: die [[Steigerung]], die [[Steigerungen]]
 G: der [[Steigerung]], der [[Steigerungen]]
 D: der [[Steigerung]], den [[Steigerungen]]
 
-#Feminin 
+#Feminin , [[Steigerungsquote]]

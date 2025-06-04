@@ -51,7 +51,7 @@ concept, term, notion
 N: der [[Begriff]], die [[Begriffe]]  
 A: den [[Begriff]], die [[Begriffe]]  
 G: des [[Begriffs]], der [[Begriffe]]  
-D: dem [[Begriff]], den [[Begriffen]]
+D: dem [[Begriff]], den [[begriffen]]
 
 ---
 

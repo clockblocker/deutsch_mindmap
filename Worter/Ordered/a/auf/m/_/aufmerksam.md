@@ -4,6 +4,7 @@
 nicht [[unaufmerksam]]
 
 ---
+*[[C1-Lesen-441-Text#^2|^]]* Ausländische humoristische [[Sendung]]en haben die Gewohnheit, das Publikum auf den Witz [[aufmerksam]] zu machen
 
 _Hinter einer hohen Schneedüne kommt Appa zum [[Vorschein]]. Er [[brüllt]] und macht [[somit]] auf sich [[aufmerksam]]._
 

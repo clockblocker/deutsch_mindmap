@@ -29,4 +29,4 @@ G: der [[Schulung]], der [[Schulungen]]
 D: der [[Schulung]], den [[Schulungen]]
 
 #Feminin 
-, [[Fortbildung]], [[Berufsausbildung]]
+, [[Fortbildung]], [[Berufsausbildung]], [[Sensibilisierung]]

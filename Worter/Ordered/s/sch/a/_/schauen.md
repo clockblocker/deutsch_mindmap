@@ -48,3 +48,4 @@ Morpheme: [[schau]], [[en]]
 
 Partizip I: [[schauend]], Partizip II: [[geschaut]]
 , [[anblicken]], [[anfassen]], [[hinschauen]], [[umschauen]]
+, [[überschaubar]]

@@ -52,3 +52,4 @@ Imperativ:
 - [[Besuch]] heute eine Ausstellung!
 - [[besucht]] eure Freunde!
 - [[besuchen]] wir das Museum!, [[Kundenbesuch]], [[teilnehmen]]
+, [[Besuchermasse]]

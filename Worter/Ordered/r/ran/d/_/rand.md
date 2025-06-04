@@ -30,4 +30,4 @@ Einzigartige mögliche Formen: [[Randes]], [[Rande]], [[Ränder]], [[Rändern]]
 , [[Tellerrand]], [[Grenz]], [[Besatz]], [[Mittelpunkt]], [[Raummitte]]
 
 
-#Maskulin 
+#Maskulin , [[Randgebiet]]

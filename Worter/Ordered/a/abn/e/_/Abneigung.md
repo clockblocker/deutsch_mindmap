@@ -1,1 +1,1 @@
-, [[Vorliebe]], [[Geringschätzung]], [[Verlangen]], [[Drang]]
+, [[Vorliebe]], [[Geringschätzung]], [[Verlangen]], [[Drang]], [[Neigung]], [[Belieben]]

@@ -1,1 +1,1 @@
-, [[Restriktion]]
+, [[Restriktion]], [[freizügig]]

@@ -44,4 +44,4 @@ sie, [[verfälschen]], [[verfälschten]], [[verfälschen]], [[verfälschten]], [
 Adjektive: [[verfälschend]], [[verfälschender]], [[verfälschendst]]
 
 ---
-[[verfälschender]], [[verfälschendes]], [[verfälschende]], [[verfälschenden]], [[verfälschendem]], [[verfälschenderer]], [[verfälschenderes]], [[verfälschendere]], [[verfälschenderen]], [[verfälschenderem]], [[verfälschendster]], [[verfälschendstes]], [[verfälschendste]], [[verfälschendsten]], [[verfälschendstem]]
+[[verfälschender]], [[verfälschendes]], [[verfälschende]], [[verfälschenden]], [[verfälschendem]], [[verfälschenderer]], [[verfälschenderes]], [[verfälschendere]], [[verfälschenderen]], [[verfälschenderem]], [[verfälschendster]], [[verfälschendstes]], [[verfälschendste]], [[verfälschendsten]], [[verfälschendstem]], [[nacherzählen]]

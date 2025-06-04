@@ -1,0 +1,1 @@
+, [[Kreuzfahrttourismus]], [[Gästezahl]], [[Allgäu]], [[Gegend]], [[Bemerkung]]

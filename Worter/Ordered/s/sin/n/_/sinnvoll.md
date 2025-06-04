@@ -43,3 +43,4 @@ Einzigartige mögliche Formen:
 [[sinnvoller]], [[sinnvollerer]], [[sinnvollere]], [[sinnvolleres]], [[sinnvolleren]], [[sinnvollerem]], [[sinnvollerer]], [[sinnvolleren]]
 [[sinnvollsten]], [[sinnvollster]], [[sinnvollste]], [[sinnvollstes]], [[sinnvollsten]], [[sinnvollstem]], [[sinnvollster]], [[sinnvollsten]]
 , [[eigentlich]], [[Einwand]], [[nutzlos]], [[umsonst]], [[lohnenswert]]
+, [[Überflüssigerweise]]

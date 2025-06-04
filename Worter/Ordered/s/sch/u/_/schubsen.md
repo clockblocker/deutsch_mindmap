@@ -1,1 +1,1 @@
-, [[stoßen]], [[Schubst]], [[wegschubsen]], [[stupsen]], [[s1 e1]]
+, [[stoßen]], [[Schubst]], [[wegschubsen]], [[stupsen]], [[s1 e1]], [[drängeln]]

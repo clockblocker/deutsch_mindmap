@@ -1,0 +1,1 @@
+*[[C1-Lesen-421-Text#^45|^]]* Am Tegernsee werden [[Parkgelegenheit]]en nur noch für Anwohner [[ausgewiesen]], durch bessere [[Zugverbindung]]en und [[Radschneilweg]]e sollen autofahrende Gäste zum [[Umsteig]]en bewegt werden. ^45

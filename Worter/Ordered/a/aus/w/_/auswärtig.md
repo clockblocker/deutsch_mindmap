@@ -1,6 +1,9 @@
 🌍 [[auswärtig]], [ˈaʊ̯sˌvɛɐ̯tɪç] ≠ [[inländisch]]
 
 ---
+*[[C1-Lesen-421-Text#^3|^]]* In Venedig wohnen im Zentrum immer mehr [[Auswärtige]]. ^3
+
+
 56. Welches Amt gehört in Deutschland zur [[Gemeindeverwaltung]]? (80%)
 	- [x] [[Ordnungsamt]]
 	- [ ] [[Auswärtiges]] Amt
@@ -23,7 +26,7 @@ N: [[auswärtig]], [[auswärtiger]], [[auswärtigster]]
 A: [[auswärtigen]], [[auswärtigeren]], [[auswärtigsten]]  
 G: [[auswärtiger]], [[auswärtigeren]], [[auswärtigster]]  
 D: [[auswärtigem]], [[auswärtigerem]], [[auswärtigstem]]  
-F: [[auswärtige]], [[auswärtigere]], [[auswärtigste]]  
+F: [[Auswärtige]], [[auswärtigere]], [[auswärtigste]]  
 N: [[Auswärtiges]], [[auswärtigeres]], [[auswärtigstes]]  
 P: [[auswärtigen]], [[auswärtigeren]], [[auswärtigsten]]  
 

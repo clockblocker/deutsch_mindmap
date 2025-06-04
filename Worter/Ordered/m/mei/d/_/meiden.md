@@ -3,6 +3,8 @@
 ---
 [[vermeiden]] - [[ver]] = [[meiden]] / to avoid, to evade
 
+*[[C1-Lesen-421-Text#^55|^]]* Auf der Liste eines amerikanischen Reisebuchverlags mit Orten, die Reisende lieber [[meiden]] sollten, um Overtourismus zu [[entgehen]], fehlt die deutsche Metropole [[bislang]]
+
 ---
 = [[vermeiden]], [[ausweichen]], [[entgehen]]
 ≈ [[ignorieren]], [[umgehen]]

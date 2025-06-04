@@ -1,1 +1,1 @@
-, [[neidisch]], [[wohltätig]]
+, [[neidisch]], [[wohltätig]], [[zahlungsfreudig]]

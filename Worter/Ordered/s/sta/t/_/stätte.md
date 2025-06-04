@@ -1,1 +1,1 @@
-, [[Kita]], [[ausstatten]], [[Ausbildungsstätte]]
+, [[Kita]], [[ausstatten]], [[Ausbildungsstätte]], [[Örtlichkeit]]

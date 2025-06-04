@@ -26,4 +26,4 @@ Einzigartige mögliche Formen:
 [[offenbar]], [[offenbarer]], [[offenbare]], [[offenbares]], [[offenbaren]], [[offenbarem]], [[offenbarer]], [[offenbaren]]
 [[offenbarer]], [[offenbarerer]], [[offenbarere]], [[offenbareres]], [[offenbareren]], [[offenbarerem]], [[offenbarerer]], [[offenbareren]]
 [[offenbarsten]], [[offenbarster]], [[offenbarste]], [[offenbartes]], [[offenbarsten]], [[offenbarsten]], [[offenbarster]], [[offenbarsten]]
-, [[s1 e1]], [[höchstwahrscheinlich]]
+, [[s1 e1]], [[höchstwahrscheinlich]], [[vermeintlich]]

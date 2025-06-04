@@ -28,4 +28,4 @@ obligatory, mandatory
 Adjektive: [[obligatorisch]], [[obligatorischer]], [[obligatorischst]]
 
 ---
-[[obligatorischer]], [[obligatorisches]], [[obligatorische]], [[obligatorischen]], [[obligatorischem]], [[obligatorischerer]], [[obligatorischeres]], [[obligatorischere]], [[obligatorischeren]], [[obligatorischerem]], [[obligatorischster]], [[obligatorischstes]], [[obligatorischste]], [[obligatorischsten]], [[obligatorischstem]]
+[[obligatorischer]], [[obligatorisches]], [[obligatorische]], [[obligatorischen]], [[obligatorischem]], [[obligatorischerer]], [[obligatorischeres]], [[obligatorischere]], [[obligatorischeren]], [[obligatorischerem]], [[obligatorischster]], [[obligatorischstes]], [[obligatorischste]], [[obligatorischsten]], [[obligatorischstem]], [[verbindlich]]

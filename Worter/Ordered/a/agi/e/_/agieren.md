@@ -59,4 +59,4 @@ sie, [[agieren]], [[agierten]], [[agieren]], [[agierten]], [[agieren]]
 Adjektive: [[agierend]], [[agierender]], [[agierendst]]
 
 ---
-[[agierender]], [[agierendes]], [[agierende]], [[agierenden]], [[agierendem]], [[agierenderer]], [[agierenderes]], [[agierendere]], [[agierenderen]], [[agierenderem]], [[agierendster]], [[agierendstes]], [[agierendste]], [[agierendsten]], [[agierendstem]]
+[[agierender]], [[agierendes]], [[agierende]], [[agierenden]], [[agierendem]], [[agierenderer]], [[agierenderes]], [[agierendere]], [[agierenderen]], [[agierenderem]], [[agierendster]], [[agierendstes]], [[agierendste]], [[agierendsten]], [[agierendstem]], [[attackieren]]

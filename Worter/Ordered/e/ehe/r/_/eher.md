@@ -2,6 +2,8 @@
 
 ---
 
+*[[C1-Lesen-421-Text#^50|^]]* Darum [[umwirbt]] das neue Tourismuskonzept der Hauptstadt jetzt [[eher]] finanzkräftige Kongressbesucher, Feinschmecker und Kulturbegeisterte, [[anstatt]] `wie` [[bisher]] `auf` immer höhere [[Steigerungsquoten]] zu setzen
+
 [[Eher]] [[ziehe]] ich wieder zu meinen Eltern, [[als-zu|als]] einen Tag länger bei dir zu wohnen.
 
 _[[C1-Hoehen-T3-301-Text#^30|^]]_ Da bin ich aus mehreren Gründen [[eher]] skeptisch

@@ -57,4 +57,4 @@ sie, [[leiten ein]], [[leiteten ein]], [[leiten ein]], [[leiteten ein]], [[leite
 Adjektive: [[einleitend]], [[einleitender]], [[einleitendst]]
 
 ---
-[[einleitender]], [[einleitendes]], [[einleitende]], [[einleitenden]], [[einleitendem]], [[einleitenderer]], [[einleitenderes]], [[einleitendere]], [[einleitenderen]], [[einleitenderem]], [[einleitendster]], [[einleitendstes]], [[einleitendste]], [[einleitendsten]], [[einleitendstem]]
+[[einleitender]], [[einleitendes]], [[einleitende]], [[einleitenden]], [[einleitendem]], [[einleitenderer]], [[einleitenderes]], [[einleitendere]], [[einleitenderen]], [[einleitenderem]], [[einleitendster]], [[einleitendstes]], [[einleitendste]], [[einleitendsten]], [[einleitendstem]], [[in Gang setzen]]

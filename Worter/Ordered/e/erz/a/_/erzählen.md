@@ -44,3 +44,4 @@ Partizip: [[erzählend]], [[erzählt]], [[zuerzählen]]
 [[Erzählung]], [[Erzähler]], [[Erzählerin]], [[Erzählkunst]], [[Erzählstil]], [[Kurzerzählung]]
 
 [[sagen]], [[aussagen]], [[s1 e1]], [[Erzählstruktur]]
+, [[nacherzählen]]

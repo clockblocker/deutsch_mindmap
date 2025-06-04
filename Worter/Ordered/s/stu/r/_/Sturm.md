@@ -24,4 +24,4 @@ Einzigartige mögliche Formen: [[Sturms]], [[Stürme]], [[Stürmen]]
 
 ---
 #Substantiv #Maskulin, [[stürmen]], [[vorstürmen]]
-, [[ungestüm]], [[Extremwetter]]
+, [[ungestüm]], [[Extremwetter]], [[Ansturm]]

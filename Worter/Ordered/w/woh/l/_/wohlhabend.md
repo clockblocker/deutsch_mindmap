@@ -3,6 +3,11 @@
 ---
 10 Insbesondere [[wohlhabend]]e Menschen können den Klimawandel [[beeinflussen]]
 
+*[[C1-Lesen-421-Text#^16|^]]* Um dem Overtourismus in Berlin [[vorzubeugen]], [[erhofft]] man sich verstärkt [[wohlhabend]]e Reisende
+*(To [[prevent]] overtourism in Berlin, they [[hope]] for more [[affluent]] travelers.)*
+
+
+
 ---
 = [[reich]], [[vermögend]], [[Reiche]], [[Wohlstand]], [[gutbetucht]],
 ≈ [[begütert]], [[finanzstark]], [[wohlhabend]]

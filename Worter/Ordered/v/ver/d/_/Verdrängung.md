@@ -30,4 +30,4 @@ G: der [[Verdrängung]], der [[Verdrängungen]]
 D: der [[Verdrängung]], den [[Verdrängungen]]
 
 #Feminin 
-, [[verdeutlichen]]
+, [[verdeutlichen]], [[Verdrängungsprozess]]

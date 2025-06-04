@@ -3,6 +3,7 @@
 haben [[angesprochen]]
 
 ---
+*[[C1-Lesen-421-Text#^51|^]]* Darüber hinaus soll die Aufmerksamkeit auf die [[Randgebiet]]e Berlins [[gelenkt]] werden, die auch nicht wenig [[Ansprechende]]s zu [[bieten]] haben
 
 *[[bro-schrieben-c1-t1-002#^2|^]]* Liebe [[Forumsteilnehmer]], seit langem [[verfolge]] ich eure [[Beiträge]] im Forum und das neue Thema hat mich so [[angesprochen]], dass ich mich [[gerne]] `an` der Diskussion [[beteiligen]] möchte
 

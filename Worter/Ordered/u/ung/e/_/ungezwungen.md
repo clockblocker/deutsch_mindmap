@@ -1,1 +1,1 @@
-, [[spontanen]], [[lässig]]
+, [[spontanen]], [[lässig]], [[freizügig]]

@@ -28,3 +28,4 @@ P: [[hässlichen]], [[hässlicheren]], [[hässlichsten]]
 
 ---
 [[Hässlichkeit]], [[verhässlichen]], [[Hässling]], [[hässlichkeitsbedingt]]
+, [[sehenswert]]

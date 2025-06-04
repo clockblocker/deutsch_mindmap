@@ -59,3 +59,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 [[gebieten]], [[gebieterisch]], [[Gebietsreform]], [[Gebietsabtretung]], [[Gebietskörperschaft]]
 
 #Neuter , [[Abteil]], [[Themenbereich]]
+, [[Naherholungsgebiet]], [[Randgebiet]]

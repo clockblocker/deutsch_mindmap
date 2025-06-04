@@ -1,1 +1,1 @@
-, [[Spielkarten]], [[viermal]]
+, [[Spielkarten]], [[viermal]], [[vierte]]

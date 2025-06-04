@@ -1,1 +1,1 @@
-, [[wiederholen]]
+, [[wiederholen]], [[nacherzählen]]

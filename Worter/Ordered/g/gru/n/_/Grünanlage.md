@@ -1,3 +1,3 @@
 --> [[⛪ Ingredient-Plazt]] <--
 
-, [[Grünfläche]], [[Park]]
+, [[Grünfläche]], [[Park]], [[Naherholungsgebiet]]

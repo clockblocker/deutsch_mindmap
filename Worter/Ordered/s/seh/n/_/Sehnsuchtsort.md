@@ -4,6 +4,9 @@ die [[Sehnsuchtsorte]]
 ---
 *[[C1-Hoehen-T1-301-Text#^1|^]]* In unserer ersten Empfehlung „O-Ton aus dem Paradies“ werden Sie zu dem [[Sehnsuchtsort]] [[mitgenommen]]
 
+*[[C1-Lesen-421-Text#^20|^]]* Seit Jahrhunderten ist Venedig ein [[Sehnsuchtsort]] für Reisende. ^20
+
+
 ---
 = [[Traumziel]]
 ≈ [[Reiseziel]], [[Ort]], [[Ziel]]

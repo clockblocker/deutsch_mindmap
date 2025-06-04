@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-100-Text#^16|^]]* Im ersten Teil werden konkrete Beispiele der [[Verdrängung]] aus dem [[Wohnungsmarkt]] [[verdeutlicht]]
 
+*[[C1-Lesen-421-Text#^6|^]]* Heftige Reaktionen auf Overtourismus in Deutschland [[verdeutlichen]], wie überzogen die [[Ansprüche]] der [[Einheimischen]] sind
+
 ---
 = [[erklären]], [[präzisieren]], [[veranschaulichen]]
 ≈ [[aufzeigen]], [[darstellen]], [[erläutern]]

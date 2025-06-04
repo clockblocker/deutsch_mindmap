@@ -26,3 +26,5 @@ D: der [[Erzählung]], den [[Erzählungen]]
 
 , [[Geschichte]], [[Märchen]], [[erzählen]]
 , [[Übungsbuch]], [[Erzählstruktur]], [[Schilderung]]
+
+#Feminin 

@@ -1,1 +1,1 @@
-, [[bestätigen]], [[stätigen]], [[überprüfen]]
+, [[bestätigen]], [[stätigen]], [[überprüfen]], [[sichergehen]]

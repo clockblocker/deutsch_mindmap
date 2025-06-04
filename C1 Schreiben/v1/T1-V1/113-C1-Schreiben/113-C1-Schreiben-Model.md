@@ -6,7 +6,7 @@
 ----
 ---
 
-Arbeitende Eltern – eine Herausforderung für die Gesellschaft
+Kindlose Arbeitende – eine Herausforderung für die Gesellschaft
 Schreiben Sie zu diesem Thema einen Text. Gehen Sie dabei auf die folgenden Punkte ein:
 - Warum ist es gesellschaftlich sinnvoll, wenn Eltern mit Kindern berufstätig sind?
 - Welche Berufe lassen sich besonders gut mit Kindern vereinbaren – und warum?

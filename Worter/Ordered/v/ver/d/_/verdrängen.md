@@ -61,4 +61,4 @@ sie, [[verdrängen]], [[verdrängten]], [[verdrängen]], [[verdrängten]], [[ver
 Adjektive: [[verdrängend]], [[verdrängender]], [[verdrängendst]]
 
 ---
-[[verdrängender]], [[verdrängendes]], [[verdrängende]], [[verdrängenden]], [[verdrängendem]], [[verdrängenderer]], [[verdrängenderes]], [[verdrängendere]], [[verdrängenderen]], [[verdrängenderem]], [[verdrängendster]], [[verdrängendstes]], [[verdrängendste]], [[verdrängendsten]], [[verdrängendstem]]
+[[verdrängender]], [[verdrängendes]], [[verdrängende]], [[verdrängenden]], [[verdrängendem]], [[verdrängenderer]], [[verdrängenderes]], [[verdrängendere]], [[verdrängenderen]], [[verdrängenderem]], [[verdrängendster]], [[verdrängendstes]], [[verdrängendste]], [[verdrängendsten]], [[verdrängendstem]], [[Verdrängungsprozess]]

@@ -1,6 +1,7 @@
 🎯 [[zielen]] + Akk/auf + Akk, [ˈtsiːlən] | 🔵 der [[Ziel]]
 
 ---
+*[[C1-Lesen-421-Text#^17|^]]* Um dem Overtourismus in Berlin [[vorzubeugen]], sollen nur wenige zentrale [[Bezirk]]e [[gezielt]] von Touristen [[angesteuert]] werden
 
 _[[C1-Lesen-T4-101-Text#^23|^]]_ Roboter können aber auch [[gezielte]] Vorarbeit [[leisten]], bevor eine bemannte Mission zum Mars oder zum Mond startet
 
@@ -42,3 +43,4 @@ Morpheme: [[ziel]], [[en]]
 
 Partizip I: [[zielend]], Partizip II: [[gezielt]]
 , [[abfeuern]], [[anstreben]], [[Zielgruppe]]
+, [[ansteuern]]

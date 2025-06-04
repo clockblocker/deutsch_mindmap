@@ -30,4 +30,4 @@ earlier, formerly
 Adjektive: [[früh]], [[früher]], [[frühst]]
 
 ---
-[[früher]], [[frühes]], [[frühe]], [[frühen]], [[frühem]], [[früherer]], [[früheres]], [[frühere]], [[früheren]], [[früherem]], [[frühster]], [[frühstes]], [[frühste]], [[frühsten]], [[frühstem]], [[damalig]], [[einstig]], [[ehemalig]], [[künftig]]
+[[früher]], [[frühes]], [[frühe]], [[frühen]], [[frühem]], [[früherer]], [[früheres]], [[frühere]], [[früheren]], [[früherem]], [[frühster]], [[frühstes]], [[frühste]], [[frühsten]], [[frühstem]], [[damalig]], [[einstig]], [[ehemalig]], [[künftig]], [[bislang]]

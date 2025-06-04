@@ -32,4 +32,4 @@ D: der [[Zahl]], den [[Zahlen]]
 , [[Mengenangabe]], [[auszahlen]]
 , [[Zahlung]], [[Vielzahl]], [[Million]], [[Besucherzahl]]
 
-#Feminin , [[Mehrzahl]], [[Zahlenverständnis]]
+#Feminin , [[Mehrzahl]], [[Zahlenverständnis]], [[Gästezahl]]

@@ -41,4 +41,4 @@ Einzigartige mögliche Formen: [[Menge]], [[Mengen]], [[Menge]], [[Menge]], [[Me
 
 , [[Haufen]], [[Häuflein]]
 
-, [[Zahl]], [[Mengenangabe]], [[Erntemenge]], [[Menschenmenge]], [[Bestand]], [[Besucherzahl]], [[Dutzend]], [[Allgemeinheit]], [[Datenmenge]], [[bro-schrieben-c1-t1-002]]
+, [[Zahl]], [[Mengenangabe]], [[Erntemenge]], [[Menschenmenge]], [[Bestand]], [[Besucherzahl]], [[Dutzend]], [[Allgemeinheit]], [[Datenmenge]], [[bro-schrieben-c1-t1-002]], [[Besuchermasse]]

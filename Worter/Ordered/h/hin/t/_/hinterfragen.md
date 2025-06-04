@@ -46,4 +46,4 @@ sie, [[hinterfragen]], [[hinterfragten]], [[hinterfragen]], [[hinterfragten]], [
 Adjektive: [[hinterfragend]], [[hinterfragender]], [[hinterfragendst]]
 
 ---
-[[hinterfragender]], [[hinterfragendes]], [[hinterfragende]], [[hinterfragenden]], [[hinterfragendem]], [[hinterfragenderer]], [[hinterfragenderes]], [[hinterfragendere]], [[hinterfragenderen]], [[hinterfragenderem]], [[hinterfragendster]], [[hinterfragendstes]], [[hinterfragendste]], [[hinterfragendsten]], [[hinterfragendstem]]
+[[hinterfragender]], [[hinterfragendes]], [[hinterfragende]], [[hinterfragenden]], [[hinterfragendem]], [[hinterfragenderer]], [[hinterfragenderes]], [[hinterfragendere]], [[hinterfragenderen]], [[hinterfragenderem]], [[hinterfragendster]], [[hinterfragendstes]], [[hinterfragendste]], [[hinterfragendsten]], [[hinterfragendstem]], [[anzweifeln]]

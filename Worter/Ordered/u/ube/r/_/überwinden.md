@@ -40,4 +40,4 @@ Morpheme: [[Ü/über]], [[wind]], [[en]]
 
 Partizip I: [[überwindend]], Partizip II: [[überwunden]]
 [[überwinden]] - [[Ü/über]] = [[winden]], [[überstehen]], [[Hürde]], [[s1 e1]], [[erklimmen]]
-, [[Durchschnitt]]
+, [[Durchschnitt]], [[Herr werden]]

@@ -59,4 +59,4 @@ sie, [[gefallen]], [[gefielen]], [[gefallen]], [[gefielen]], [[gefallen]]
 Adjektive: [[gefallend]], [[gefallender]], [[gefallendst]]
 
 ---
-[[gefallender]], [[gefallendes]], [[gefallende]], [[gefallenden]], [[gefallendem]], [[gefallenderer]], [[gefallenderes]], [[gefallendere]], [[gefallenderen]], [[gefallenderem]], [[gefallendster]], [[gefallendstes]], [[gefallendste]], [[gefallendsten]], [[gefallendstem]]
+[[gefallender]], [[gefallendes]], [[gefallende]], [[gefallenden]], [[gefallendem]], [[gefallenderer]], [[gefallenderes]], [[gefallendere]], [[gefallenderen]], [[gefallenderem]], [[gefallendster]], [[gefallendstes]], [[gefallendste]], [[gefallendsten]], [[gefallendstem]], [[Belieben]]

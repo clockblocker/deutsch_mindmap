@@ -44,3 +44,4 @@ Zu+infinitive: [[zu befürchten]]
 
 [[Befürchtung]], [[Befürchter]], [[Befürchterin]], [[unbefürchtet]]
 [[befürchten]]
+, [[erhoffen]]

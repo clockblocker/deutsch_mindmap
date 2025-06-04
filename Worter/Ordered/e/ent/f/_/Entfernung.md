@@ -29,4 +29,4 @@ D: der [[Entfernung]], den [[Entfernungen]]
 ---
 [[entfernen]], [[entfernt]], [[fernhalten]], [[Distanz]], [[Rückzug]], [[Streichung]], [[Abwesenheit]], [[Präsenz]], [[Umkreis]], [[Reichweite]]
 
-#Feminin , [[Verdrängung]]
+#Feminin , [[Verdrängung]], [[Verdrängungsprozess]]

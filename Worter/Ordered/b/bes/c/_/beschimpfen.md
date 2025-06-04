@@ -1,6 +1,7 @@
 😠 [[beschimpfen]] | [[beschimpfte]], haben [[beschimpft]]
 
 ---
+*[[C1-Lesen-421-Text#^32|^]]* Der Trend zum Urlaub im Inland während der Pandemie hat die Konflikte [[befeuert]]: Tagestouristen in den Alpen wurden [[beschimpft]], auf [[Sylt]] [[eintraten|traten]] [[Einheimische]] für eine [[Beschränkung]] der [[Gästezahlen]] ein
 
 „Es gibt ein Problem mit Martin“, sagt Frau Schulte, „er ist seit dem ersten Schultag mit einem Mitschüler [[verfeindet]]. Fast jeden Morgen [[beschimpfen]] und [[prügeln]] sie sich. Und [[ansonsten]] reden sie [[überhaupt]] nicht miteinander. Das stört die Atmosphäre in unserer Klasse!“
 

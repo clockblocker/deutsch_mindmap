@@ -29,3 +29,4 @@ Einzigartige mögliche Formen: [[Angriffs]], [[Angriffen]], [[Angriffe]], [[Angr
 ---
 
 #Substantiv #Maskulin, [[s1 e1]], [[Aggression]], [[Angriffsgeschrei]], [[Rückzug]], [[anfallen]], [[Vorstoß]], [[Landesverteidigung]], [[weit]]
+, [[attackieren]], [[Ansturm]]

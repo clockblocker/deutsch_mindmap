@@ -46,4 +46,4 @@ sie, [[schildern]], [[schilderten]], [[schildern]], [[schilderten]], [[schildern
 Adjektive: [[schildernd]], [[schildernder]], [[schilderndst]]
 
 ---
-[[schildernder]], [[schilderndes]], [[schildernde]], [[schildernden]], [[schilderndem]], [[schildernderer]], [[schildernderes]], [[schilderndere]], [[schildernderen]], [[schildernderem]], [[schilderndster]], [[schilderndstes]], [[schilderndste]], [[schilderndsten]], [[schilderndstem]]
+[[schildernder]], [[schilderndes]], [[schildernde]], [[schildernden]], [[schilderndem]], [[schildernderer]], [[schildernderes]], [[schilderndere]], [[schildernderen]], [[schildernderem]], [[schilderndster]], [[schilderndstes]], [[schilderndste]], [[schilderndsten]], [[schilderndstem]], [[nacherzählen]]

@@ -1,1 +1,1 @@
-, [[sensibel]], [[sensibilisieren]]
+, [[sensibel]], [[sensibilisieren]], [[Sensibilisierung]]

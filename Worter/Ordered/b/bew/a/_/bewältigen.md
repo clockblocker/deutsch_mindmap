@@ -53,4 +53,4 @@ sie, [[bewältigen]], [[bewältigten]], [[bewältigen]], [[bewältigten]], [[bew
 Adjektive: [[bewältigend]], [[bewältigender]], [[bewältigendst]]
 
 ---
-[[bewältigender]], [[bewältigendes]], [[bewältigende]], [[bewältigenden]], [[bewältigendem]], [[bewältigenderer]], [[bewältigenderes]], [[bewältigendere]], [[bewältigenderen]], [[bewältigenderem]], [[bewältigendster]], [[bewältigendstes]], [[bewältigendste]], [[bewältigendsten]], [[bewältigendstem]], [[abarbeiten]], [[absolvieren]], [[zurechtfinden]], [[Wältigen]], [[Ableisten]], [[bro-schrieben-c1-t1-002]], [[unbewältigen]]
+[[bewältigender]], [[bewältigendes]], [[bewältigende]], [[bewältigenden]], [[bewältigendem]], [[bewältigenderer]], [[bewältigenderes]], [[bewältigendere]], [[bewältigenderen]], [[bewältigenderem]], [[bewältigendster]], [[bewältigendstes]], [[bewältigendste]], [[bewältigendsten]], [[bewältigendstem]], [[abarbeiten]], [[absolvieren]], [[zurechtfinden]], [[Wältigen]], [[Ableisten]], [[bro-schrieben-c1-t1-002]], [[unbewältigen]], [[Herr werden]]

@@ -1,1 +1,1 @@
-, [[Bewohner]], [[Einwohner]], [[Pendler]]
+, [[Bewohner]], [[Einwohner]], [[Pendler]], [[Kreuzfahrttourist]]

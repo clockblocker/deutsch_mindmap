@@ -1,1 +1,1 @@
-, [[Bewohner]], [[Publikumsverkehr]], [[Besucherzahl]], [[Zuschauer]]
+, [[Bewohner]], [[Publikumsverkehr]], [[Besucherzahl]], [[Zuschauer]], [[Besuchermasse]]

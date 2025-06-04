@@ -3,4 +3,4 @@
 , [[abhalten]], [[Erlaubnis]]
 , [[Gelegenheit]], [[Vorbeugung]], [[Hemmung]], [[verhindern]]
 
-#Feminin 
+#Feminin , [[Eindämmung]]

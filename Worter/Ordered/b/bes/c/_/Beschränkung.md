@@ -4,6 +4,7 @@
 die [[Beschränkungen]]
 
 ---
+*[[C1-Lesen-421-Text#^32|^]]* Der Trend zum Urlaub im Inland während der Pandemie hat die Konflikte [[befeuert]]: Tagestouristen in den Alpen wurden [[beschimpft]], auf [[Sylt]] [[eintraten|traten]] [[Einheimische]] für eine [[Beschränkung]] der [[Gästezahlen]] ein
 
 ---
 = [[Einschränkung]], [[Begrenzung]], [[Restriktion]],  [[Umfang]],

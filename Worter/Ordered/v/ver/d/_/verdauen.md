@@ -25,4 +25,4 @@ ihr: [[verdaut]], [[verdautet]], [[verdaut]], [[verdauet]], [[verdautet]]
 PI: [[verdauend]], PII: [[verdaut]], Zu+inf: [[zuverdauen]]
 
 ---
-[[verdauen]] - [[ver]] = [[dauen]] / to digest
+[[verdauen]] - [[ver]] = [[dauen]] / to digest, [[unverdaulich]]

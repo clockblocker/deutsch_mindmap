@@ -6,6 +6,8 @@ die [[Reihen]]
 ---
 *[[C1-Lesen-T2-102-Text#^21|^]]* Amerikanische Forscher haben gerade im [[renommiert]]en Fachjournal *Nature* eine [[Reihe]] von [[Untersuchung]]en publiziert
 
+*[[C1-Lesen-441-Text#^5|^]]* Deutschland kann auf eine lange [[Reihe]] von Humoristen [[zurückblicken]]
+
 Andere [[beherbergen]] Science-Fiction-Taschenbücher in [[Zweierreihen]], die hintere auf alten [[Pappkartons]] oder [[Holzplatten]] [[höhergestellt]], so dass man die Titel über die Bücher der [[vorderen]] [[Reihe]] hinweg lesen kann.
 
 [[2 ADHD.md#^12|^]] Ich bin [[ungeduldig]] und kann nicht warten, bis ich an der [[Reihe]] bin (z.B. beim Einkaufen). ^12

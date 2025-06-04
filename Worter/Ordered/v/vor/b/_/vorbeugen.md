@@ -1,6 +1,10 @@
 🛡️ [[vorbeugen]], [ˈfoːɐ̯ˌbɔɪ̯ɡn̩](https://youglish.com/pronounce/vorbeugen/german) → [[beugte vor]] → [[vorgebeugt]]
 
 ---
+*[[C1-Lesen-421-Text#^16|^]]* Um dem Overtourismus in Berlin [[vorzubeugen]], [[erhofft]] man sich verstärkt [[wohlhabend]]e Reisende
+
+*[[C1-Lesen-421-Text#^17|^]]* Um dem Overtourismus in Berlin [[vorzubeugen]], sollen nur wenige zentrale [[Bezirke]] [[gezielt]] von Touristen [[angesteuert]] werden
+
 - Diskutieren Sie, wie man [[vorbeugend]] eine gesunde Unternehmenskultur schaffen kann.
 
 ---

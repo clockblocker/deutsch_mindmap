@@ -1,2 +1,2 @@
 --> 🧩 [[Grad-Wahrheit]] <--
-, [[bitterlich]]
+, [[bitterlich]], [[Allzu]]

@@ -1,2 +1,2 @@
 
-, [[Ausbruch]], [[freisetzen]], [[Emission]]
+, [[Ausbruch]], [[freisetzen]], [[Emission]], [[Eindämmung]]

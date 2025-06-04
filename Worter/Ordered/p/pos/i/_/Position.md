@@ -27,4 +27,4 @@ A: die [[Position]], die [[Positionen]]
 G: der [[Position]], der [[Positionen]]
 D: der [[Position]], den [[Positionen]]
 
-#Feminin 
+#Feminin , [[Örtlichkeit]]

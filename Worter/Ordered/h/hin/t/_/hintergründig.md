@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-201-Text#^26|^]]* Dennoch ist der Film keine [[rein]]e [[Blödelei]], sondern fein mit Schweizerischem Humor und [[hintergründig]]er Kritik und Selbstkritik gespickt
 
+*[[C1-Lesen-441-Text#^14|^]]* Das macht ihn [[hintergründig]] und für andere Nationen [[mitunter]] [[unverdaulich]]
+
 ---
 = [[tiefgründig]], [[subtil]], [[bedeutungsvoll]]
 ≈ [[komplex]], [[anspruchsvoll]], [[vielschichtig]]

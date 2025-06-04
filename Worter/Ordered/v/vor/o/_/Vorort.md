@@ -1,1 +1,1 @@
-, [[Innenstadt]]
+, [[Innenstadt]], [[Außenbezirk]]

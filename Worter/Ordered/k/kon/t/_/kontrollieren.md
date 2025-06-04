@@ -36,3 +36,4 @@ Partizip I: [[kontrollierend]], Partizip II: [[kontrolliert]]
 
 [[kontrollieren]] - [[kontroll]] = [[ieren]], [[regeln]], [[dienen]], [[beherrschen]], [[steuere]], [[durchknallen]], [[checken]], [[durchchecken]], [[bändigen]], [[regieren]], [[überwachen]], [[einschränken]]
 , [[zichten]], [[prüfen]], [[unterwerfen]], [[eindämmen]]
+, [[Herr werden]], [[sichergehen]]

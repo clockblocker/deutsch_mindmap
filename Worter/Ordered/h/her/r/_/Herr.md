@@ -1,1 +1,1 @@
-, [[Weib]], [[herrlich]], [[Herrchen]], [[Beherrschung]], [[beherrschen]], [[Besitzer]], [[König]]
+, [[Weib]], [[herrlich]], [[Herrchen]], [[Beherrschung]], [[beherrschen]], [[Besitzer]], [[König]], [[Herr werden]]

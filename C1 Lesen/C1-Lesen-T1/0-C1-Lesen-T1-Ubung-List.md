@@ -1,4 +1,4 @@
-[[Lesen-C1-Root]]
+[[Lesen-C1-Teils]]
 
 [[0-C1-Lesen-T1-Ubung-List]]
 [[0-Lesen-Teil-1-Lochtype]]

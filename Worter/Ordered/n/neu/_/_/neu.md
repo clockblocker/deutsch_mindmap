@@ -25,4 +25,4 @@ N: [[neues]], [[neueres]], [[neustes]]
 P: [[neuen]], [[neueren]], [[neuesten]]  
 
 ---
-[[neulich]], [[neuartig]], [[Neuerung]], [[neun]], [[neulich]], [[neugierig]], [[Neugier]], [[erneuerbar]], [[überholt]], [[Neuanfang]], [[langjährig]], [[ursprünglich]], [[Neuzüchtung]], [[erneuern]], [[jahrhundertealt]]
+[[neulich]], [[neuartig]], [[Neuerung]], [[neun]], [[neulich]], [[neugierig]], [[Neugier]], [[erneuerbar]], [[überholt]], [[Neuanfang]], [[langjährig]], [[ursprünglich]], [[Neuzüchtung]], [[erneuern]], [[jahrhundertealt]], [[alteingesessen]]

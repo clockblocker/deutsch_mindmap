@@ -1,1 +1,1 @@
-, [[etablierte]], [[etablieren]]
+, [[etablierte]], [[etablieren]], [[alteingesessen]]

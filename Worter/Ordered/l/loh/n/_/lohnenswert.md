@@ -29,4 +29,4 @@ worthwhile, rewarding
 Adjektive: [[lohnenswert]], [[lohnenswerter]], [[lohnenswertest]]
 
 ---
-[[lohnenswerter]], [[lohnenswertes]], [[lohnenswerte]], [[lohnenswerten]], [[lohnenswertem]], [[lohnenswerterer]], [[lohnenswerteres]], [[lohnenswertere]], [[lohnenswerteren]], [[lohnenswerterem]], [[lohnenswertester]], [[lohnenswertestes]], [[lohnenswerteste]], [[lohnenswertesten]], [[lohnenswertestem]], [[Lesenswert]], [[lebenswert]]
+[[lohnenswerter]], [[lohnenswertes]], [[lohnenswerte]], [[lohnenswerten]], [[lohnenswertem]], [[lohnenswerterer]], [[lohnenswerteres]], [[lohnenswertere]], [[lohnenswerteren]], [[lohnenswerterem]], [[lohnenswertester]], [[lohnenswertestes]], [[lohnenswerteste]], [[lohnenswertesten]], [[lohnenswertestem]], [[Lesenswert]], [[lebenswert]], [[sehenswert]]

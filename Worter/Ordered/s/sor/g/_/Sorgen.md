@@ -4,6 +4,9 @@
 die [[Sorgen]]
 
 ---
+*[[C1-Lesen-421-Text#^5|^]]* Heftige Reaktionen auf Overtourismus in Deutschland haben bei den [[zuständig]]en Institutionen für eine [[Sensibilisierung]] [[gesorgt]]
+*(Strong reactions to overtourism in Germany have [[ensured]] [[sensitization]] among the [[responsible]] institutions.)*
+
 
 Oh Mann. Ich mach mir [[Sorgen]] …
 
@@ -13,12 +16,11 @@ Bei guten Sichtverhältnissen [[sorgt]] zusätzlich eine Drohne aus der Luft [[d
 
 Die Menschen in diesem Land [[genießen]] den Tag, haben ganz viel Geld und keine [[Sorgen]].
 
-_[[2 Work Life Balance#^6|^]]_ _Eine gute Work-Life-Balance_ [[sorgt]] _dafür, dass wir_ [[gesünder]] \_sind und unsere Zeit effektiver und auch kreativer nutzen, da wir Prioritäten setzen. ^6
+_[[2 Work Life Balance#^6|^]]_ _Eine gute Work-Life-Balance_ [[sorgt]] _dafür, dass wir_ [[gesünder]] \_sind und unsere Zeit effektiver und auch kreativer nutzen, da wir Prioritäten setzen
 
 ---
 
 Synonyme:
-
 - [[Ängste]], [[Befürchtungen]], [[Nöte]], [[Probleme]], [[Schwierigkeiten]]
 
 ---

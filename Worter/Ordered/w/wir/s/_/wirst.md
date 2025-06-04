@@ -1,2 +1,2 @@
 Inf: [[werden]]
-, [[echt]], [[riesig]], [[Abschied]], [[emeritieren]]
+, [[echt]], [[riesig]], [[Abschied]], [[emeritieren]], [[Herr werden]]

@@ -26,4 +26,4 @@ unpopular
 Adjektive: [[unbeliebt]], [[unbeliebter]], [[unbeliebtest]]
 
 ---
-[[unbeliebter]], [[unbeliebtes]], [[unbeliebte]], [[unbeliebten]], [[unbeliebtem]], [[unbeliebterer]], [[unbeliebteres]], [[unbeliebtere]], [[unbeliebteren]], [[unbeliebterem]], [[unbeliebtester]], [[unbeliebtestes]], [[unbeliebteste]], [[unbeliebtesten]], [[unbeliebtestem]]
+[[unbeliebter]], [[unbeliebtes]], [[unbeliebte]], [[unbeliebten]], [[unbeliebtem]], [[unbeliebterer]], [[unbeliebteres]], [[unbeliebtere]], [[unbeliebteren]], [[unbeliebterem]], [[unbeliebtester]], [[unbeliebtestes]], [[unbeliebteste]], [[unbeliebtesten]], [[unbeliebtestem]], [[Belieben]]

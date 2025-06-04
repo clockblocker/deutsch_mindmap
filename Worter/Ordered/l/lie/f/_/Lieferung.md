@@ -25,4 +25,4 @@ D: der [[Lieferung]], den [[Lieferungen]]
 ---
 [[Lieferschein]], [[Anlieferung]], [[Auslieferung]], [[Lieferant]], [[Lieferadresse]], [[Lieferdienst]], [[Bestellung]], [[beliefern]], [[Lieferservice]], [[Abgabe]], [[ausliefern]]
 
-#Feminin 
+#Feminin , [[mitliefern]]

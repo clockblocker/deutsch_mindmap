@@ -1,1 +1,1 @@
-, [[Leitung]], [[zusteuern]], [[Steuern]], [[Bedienung]], [[Regulierung]], [[Fernbedienung]]
+, [[Leitung]], [[zusteuern]], [[Steuern]], [[Bedienung]], [[Regulierung]], [[Fernbedienung]], [[ansteuern]]

@@ -37,3 +37,4 @@ Einzigartige mögliche Formen:
 [[Alle]], [[aller]], [[Alles]], [[allen]], [[allem]], [[aller]], [[allen]]
 [[ganz]], [[ganze]], [[ganzes]], [[ganzen]], [[ganzem]], [[ganze]], [[ganzen]], [[überall]], [[Allgemeine]], [[allgemein]]
 , [[Alle]], [[allmählich]], [[allwöchentlich]], [[Alltag]], [[Weltall]], [[alltäglich]], [[Weltraum]], [[Allheilmittel]]
+, [[Allzu]]

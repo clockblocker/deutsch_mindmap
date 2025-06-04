@@ -55,4 +55,4 @@ Zu+infinitive: [[zu verbinden]]
 [[Verbindung]], [[Verbinder]], [[Verbindlichkeit]], [[Verbindungsstraße]], [[Verbindungsstelle]], [[Verbindungsfehler]]
 
 , [[koppeln]], [[Nervenzellenverbindung]], [[zuordnen]], [[verpflichten]], [[verankern]]
-, [[vereinigen]]
+, [[vereinigen]], [[verbindlich]]

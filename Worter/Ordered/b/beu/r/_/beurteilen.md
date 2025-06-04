@@ -26,4 +26,4 @@ PI: [[beurteilend]], PII: [[beurteilt]], Zu+inf: [[zu beurteilen]]
 
 ---
 [[Beurteilung]], [[Urteil]], [[beurteilt]]
---> [[🗣️ Ingredient-Meinung]] <--, [[einzuschätzen]], [[pathologisieren]], [[urteilen]], [[erachten]]
+--> [[🗣️ Ingredient-Meinung]] <--, [[einzuschätzen]], [[pathologisieren]], [[urteilen]], [[erachten]], [[auffassen]]

@@ -46,4 +46,4 @@ Partizip I: [[glaubend]], Partizip II: [[geglaubt]]
 
 , [[befürchten]], [[ungläubig]], [[Glaubensfreiheit]], [[s1 e1]], [[zweifelt]]
 , [[vertrauen]], [[hinterfragen]], [[Weltanschauung]]
-, [[erachten]]
+, [[erachten]], [[erhoffen]], [[anzweifeln]]

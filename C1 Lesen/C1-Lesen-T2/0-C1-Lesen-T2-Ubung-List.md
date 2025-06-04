@@ -1,4 +1,4 @@
-[[Lesen-C1-Root]]
+[[Lesen-C1-Teils]]
 
 *100 - 2023 Mit Erfolg Modellsätzen*
 - [ ] [[C1-Lesen-T2-100-Text|100]]

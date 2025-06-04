@@ -59,3 +59,4 @@ Adjektive: [[auswirkend]], [[auswirkender]], [[auswirkendst]]
 ---
 
 [[auswirkender]], [[auswirkendes]], [[auswirkende]], [[auswirkenden]], [[auswirkendem]], [[auswirkenderer]], [[auswirkenderes]], [[auswirkendere]], [[auswirkenderen]], [[auswirkenderem]], [[auswirkendster]], [[auswirkendstes]], [[auswirkendste]], [[auswirkendsten]], [[auswirkendstem]], [[Auswirkung]], [[Berichterstattung]]
+, [[stark ins Gewicht fallen]]

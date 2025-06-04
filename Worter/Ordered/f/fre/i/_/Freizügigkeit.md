@@ -28,3 +28,5 @@ D: der [[Freizügigkeit]], den [[Freizügigkeiten]]
 
 ---
 [[frei]], [[zügig]], [[freizügig]], [[Zügel]], [[bewegen]]
+
+#Feminin 

@@ -34,3 +34,4 @@
 - 🎯 [[Gewährleistung]] *(guarantee; formal assurance)*
 - 🎯 [[Garantie]] *(guarantee; legal/contractual protection)*
 - 🎯 [[Zusicherung]] *(assurance; promise of support or conditions)*
+, [[Eindämmung]]

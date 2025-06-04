@@ -6,6 +6,8 @@
 ---
 [[14 perfekt#^14|^]] [[Eigentlich]] wollte er die ganze [[Wahrheit]] erzählen, aber er bekam Angst. Plötzlich kam ihm eine andere Idee: er [[bat]] um die Adresse des Direktors im Museum. 
 
+*[[C1-Lesen-421-Text#^37|^]]* Dabei ergeben sich [[eigentlich]] [[Wahrnehmung]]en, nicht tatsächliche Effekte, denn es ist kaum zu definieren, was „zu viel“ ist
+
 *[[C1-Lesen-411-Text#^4|^]]* Ein weiteres Problem ist das [[Einnicken]] [[tagsüber]] und das Gefühl, ständig [[schläfrig]] zu sein, `denn` man [[eigentlich]] glaubt, [[ausreichend]] geschlafen zu haben.
 
 *[[C1-Hoehen-T1-202-Text#^7|^]]* Der Autor will uns also helfen, durch sorgsames Kaufen [[klarzumachen]], dass wir beim Einkaufen differenziert [[hinschauen]], was wir [[eigentlich]] [[unterstützen]]

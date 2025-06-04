@@ -1,0 +1,1 @@
+, [[Zumutung]], [[unangenehm]]

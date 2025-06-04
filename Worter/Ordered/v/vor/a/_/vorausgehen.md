@@ -44,4 +44,4 @@ sie, [[gehen voraus]], [[gingen voraus]], [[gehen voraus]], [[gingen voraus]], [
 Adjektive: [[vorausgehend]], [[vorausgehender]], [[vorausgehendst]]
 
 ---
-[[vorausgehender]], [[vorausgehendes]], [[vorausgehende]], [[vorausgehenden]], [[vorausgehendem]], [[vorausgehenderer]], [[vorausgehenderes]], [[vorausgehendere]], [[vorausgehenderen]], [[vorausgehenderem]], [[vorausgehendster]], [[vorausgehendstes]], [[vorausgehendste]], [[vorausgehendsten]], [[vorausgehendstem]]
+[[vorausgehender]], [[vorausgehendes]], [[vorausgehende]], [[vorausgehenden]], [[vorausgehendem]], [[vorausgehenderer]], [[vorausgehenderes]], [[vorausgehendere]], [[vorausgehenderen]], [[vorausgehenderem]], [[vorausgehendster]], [[vorausgehendstes]], [[vorausgehendste]], [[vorausgehendsten]], [[vorausgehendstem]], [[nachstehen]]

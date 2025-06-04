@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8e60cbb49aac1288",
+        "id": "f4fd69f53b346eab",
         "type": "tabs",
-        "dimension": 65.72413793103449,
+        "dimension": 47.14881780250348,
         "children": [
           {
-            "id": "6df02a911c3d9d12",
+            "id": "f300b49a5834f39c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,39 +23,67 @@
             }
           },
           {
-            "id": "b248483ac56e9b2d",
+            "id": "6602f11ba96ff1bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texte/Das-sagt-man-so/20-da-sagt-mann-so.md",
+                "file": "C1 Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-401/C1-Lesen-441-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20-da-sagt-mann-so"
+              "title": "C1-Lesen-441-Text"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "b1449799b06482d7",
+        "id": "88711c82b57f46e0",
         "type": "tabs",
-        "dimension": 34.275862068965516,
+        "dimension": 52.85118219749653,
         "children": [
           {
-            "id": "6b4c3b25a9700687",
+            "id": "3f1dcb07545b5ec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-411/C1-Lesen-411-Loesing.md",
+                "file": "C1 Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-401/C1-Lesen-441-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-411-Loesing"
+              "title": "C1-Lesen-441-Text"
+            }
+          },
+          {
+            "id": "870c141a91f75f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/a/ans/t/_/ansteuern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ansteuern"
+            }
+          },
+          {
+            "id": "70f172c855f71f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-421/C1-Lesen-421-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Lesen-421-Text"
             }
           }
         ]
@@ -115,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.50390243530273
+    "width": 270.50390243530273
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -209,47 +237,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b248483ac56e9b2d",
+  "active": "6602f11ba96ff1bc",
   "lastOpenFiles": [
-    "Texte/Das-sagt-man-so/21-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/19-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/20-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/18-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/17-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/16-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/15-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/14-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/13-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/12-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/11-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/10-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/9-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/8-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/7-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/6-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/5-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/4-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/3-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/2-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/1-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/48-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/47-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/46-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/45-da-sagt-mann-so.md",
-    "Texte/Das-sagt-man-so/44-da-sagt-mann-so.md",
-    "Texte/Das sagt man so!",
-    "Texte/b2 Das sagt man so! copy",
-    "Worter/Ordered/a/ans/u",
-    "Worter/Ordered/t/tas/k",
+    "C1 Lesen/Lesen-C1-Models.md",
+    "C1 Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Text.md",
+    "C1 Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-T3-402/C1-Lesen-432-Text.md",
+    "C1 Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
+    "C1 Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
+    "C1 Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-401/C1-Lesen-441-Text.md",
+    "Worter/Ordered/p/pei/n/_/peinlich.md",
+    "Worter/Ordered/u/uns/i/_/unsicher.md",
+    "C1 Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-401/C1-Lesen-441-Loesung.md",
+    "Worter/Ordered/v/ver/m/_/vermeintlich.md",
+    "Worter/Ordered/w/wit/z/_/witzig.md",
+    "Worter/Ordered/b/bem/e/_/Bemerkung.md",
+    "Worter/Ordered/a/auf/f/_/auffassen.md",
+    "Worter/Ordered/e/ern/s/_/ernst.md",
+    "Worter/Ordered/a/auf/f/auffassendstem.md",
+    "Worter/Ordered/a/auf/f/auffassendsten.md",
+    "Worter/Ordered/a/auf/f/auffassendste.md",
+    "Worter/Ordered/a/auf/f/auffassendstes.md",
+    "Worter/Ordered/a/auf/f/auffassendster.md",
+    "Worter/Ordered/a/auf/f/auffassenderem.md",
+    "Worter/Ordered/a/auf/f/auffassenderen.md",
+    "Worter/Ordered/a/auf/f/auffassendere.md",
+    "Worter/Ordered/a/auf/f/auffassenderes.md",
+    "Worter/Ordered/a/auf/f/auffassenderer.md",
+    "Worter/Ordered/a/auf/f/auffassendem.md",
+    "Worter/Ordered/a/auf/f/auffassenden.md",
+    "Worter/Ordered/r/ret/r",
+    "Worter/Ordered/u/umw/u",
+    "Worter/Ordered/u/umw/o",
+    "Worter/Ordered/b/bay/e",
+    "Worter/Ordered/b/bay",
+    "Worter/Ordered/s/syl/t",
+    "Worter/Ordered/s/syl",
+    "Worter/Ordered/4/4__/_",
+    "Worter/Ordered/4/4__",
+    "Worter/Ordered/z/zur/k",
     "Anhänge/Pasted image 20250603085149.png",
     "Anhänge/Pasted image 20250603085115.png",
     "Anhänge/Pasted image 20250603084654.png",
-    "Worter/Ordered/2/212/c",
-    "Worter/Ordered/2/212",
-    "C1 Schreiben/v1/T1-V1/115-C1-Schreiben",
-    "C1 Schreiben/v1/T1-V1/114-C1-Schreiben",
-    "C1 Schreiben/v1/T1-V1/113-C1-Schreiben",
-    "C1 Schreiben/v1/T1-V1/112-C1-Schreiben",
     "Anhänge/Pasted image 20250528071457.png",
     "Anhänge/Pasted image 20250528065432.png",
     "Anhänge/Pasted image 20250528055347.png",

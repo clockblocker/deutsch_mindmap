@@ -1,2 +1,2 @@
 [[weggehen]], [[zurückkehren]]
-, [[abfahren]], [[ankommen]]
+, [[abfahren]], [[ankommen]], [[hinfahren]]

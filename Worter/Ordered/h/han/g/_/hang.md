@@ -29,4 +29,4 @@ G: des [[Hangs]], der [[Hänge]]
 D: dem [[Hang]], den [[Hängen]]
 
 
-#Maskulin
+#Maskulin, [[Neigung]]

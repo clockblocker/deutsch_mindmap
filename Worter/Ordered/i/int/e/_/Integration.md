@@ -1,1 +1,1 @@
-, [[Abschottung]], [[Zugehörigkeit]], [[Verschmelzung]], [[Verdrängung]]
+, [[Abschottung]], [[Zugehörigkeit]], [[Verschmelzung]], [[Verdrängung]], [[Verdrängungsprozess]]

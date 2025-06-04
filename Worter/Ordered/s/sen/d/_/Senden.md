@@ -23,3 +23,4 @@ Morphems:
 ---
 
 #Substantiv #Maskulin, [[funkten]], [[hinschicken]], [[abschicken]], [[versenden]], [[zurücksenden]], [[Sender]], [[aussenden]], [[beliefern]], [[weiterleiten]], [[liefern]], [[ausliefern]]
+, [[mitliefern]]

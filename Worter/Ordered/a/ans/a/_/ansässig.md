@@ -1,1 +1,1 @@
-, [[einheimisch]], [[heimisch]], [[hiesig]]
+, [[einheimisch]], [[heimisch]], [[hiesig]], [[alteingesessen]]
