@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T4-Ubung-List|Ubung-List]]
-
----
-
 24 Insbesondere jüngere Menschen interessieren sich für Nachhaltigkeit.  
 25 Mitglieder von Naturvölkern finden heutzutage bei Diskussionen immer mehr Gehör.  
 26 Alte, natürliche Konstruktionen halten Naturkatastrophen stand.  

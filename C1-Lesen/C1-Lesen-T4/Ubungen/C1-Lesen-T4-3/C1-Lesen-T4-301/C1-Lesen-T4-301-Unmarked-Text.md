@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T4-Ubung-List|Ubung-List]]
-
----
-
 Künstliche Intelligenz und Arbeitswelt
 
 *a Heidrun Wargau, Direktorin des Instituts für Arbeitsmarktforschung*  

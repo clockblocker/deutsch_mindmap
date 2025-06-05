@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 Orchideenfächer – der Realität entrückt?
 
 In den letzten Jahren werben immer mehr Universitäten und Hochschulen für das Studium von Orchideenfächern, die abseits der konventionellen Fächer angeboten werden. So kann man in Göttingen Arboristik studieren, wo es um den Schutz und die Pflege von Grünflächen und Bäumen in der Stadt geht. Beispiel 0 Neumodischer Schnickschnack oder klar berechnetes Kalkül?

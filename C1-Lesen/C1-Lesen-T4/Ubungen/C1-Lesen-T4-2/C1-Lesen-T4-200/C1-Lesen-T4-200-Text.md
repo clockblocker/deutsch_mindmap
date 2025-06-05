@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T4-Ubung-List|Ubung-List]]
-
----
-
 **24** Es ist oft nicht einfach, staatliche Hilfe zur Elektromobilität zu bekommen.  
 **25** Verbraucherinnen und Verbraucher werden ihr Verhalten ändern müssen.  
 **26** Die Preise für Elektrofahrräder müssen gesenkt werden.  

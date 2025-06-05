@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 ![[Pasted image 20250527075646.png]]
 `16 b`
 `17 h`

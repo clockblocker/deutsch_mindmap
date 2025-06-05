@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T4-Ubung-List|Ubung-List]]
-
----
-
 ## Schritte zur Lösung  
 **Aufgaben 24–30 | 3 Kurztexte mit Beispiel | 7 Punkte | Zeit: 15 Minuten**
 

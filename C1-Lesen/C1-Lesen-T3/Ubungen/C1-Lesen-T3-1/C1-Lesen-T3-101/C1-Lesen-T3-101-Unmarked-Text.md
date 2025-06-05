@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 Wer treibt die Energiewende voran?
 
 Ja, wir hören es täglich: Wir wollen weg von fossilen Energieträgern und hin zu regenerativen Energiequellen wie Sonne und Wind, was ja auch schon gut angelaufen ist. Beispiel 0 Und das mit Energieprojekten, von denen alle etwas haben.

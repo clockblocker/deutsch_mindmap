@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 Kitas sollten Innovationslabore sein!
 
 Die Arbeit von Kitas verändert sich: In einer Einwanderungsgesellschaft nehmen kulturelle und sprachliche Vielfalt stetig zu. Beispiel 0 Gleichzeitig wird immer deutlicher, wie relevant die ersten Lebensjahre für die gesamte Bildungslaufbahn sind.

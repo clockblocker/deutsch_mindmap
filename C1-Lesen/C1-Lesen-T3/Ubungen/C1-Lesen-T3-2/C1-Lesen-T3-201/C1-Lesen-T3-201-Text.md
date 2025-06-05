@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 Öfter mal was Neues –  
 Arbeit in Zeiten der Gig-Economy
 

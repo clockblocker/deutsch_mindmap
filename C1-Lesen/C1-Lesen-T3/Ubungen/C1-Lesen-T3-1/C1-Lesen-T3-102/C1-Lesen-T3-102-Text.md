@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 Einfach mal wieder „Hallo“ sagen
 
 Eine Nachricht, ein Anruf, ein Gruß – wer sich nach längerer Funkstille bei einem Bekannten meldet, erfreut diesen viel mehr als gemeinhin gedacht.

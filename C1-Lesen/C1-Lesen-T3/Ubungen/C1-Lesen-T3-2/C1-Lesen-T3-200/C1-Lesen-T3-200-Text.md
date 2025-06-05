@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 Hat Deutsch als Wissenschaftssprache eine Zukunft?
 
 Viele wissenschaftliche Ergebnisse werden nur auf Englisch publiziert, insbesondere in den naturwissenschaftlichen Fächern. Die englische Sprache gilt als die Sprache schlechthin. Beispiel 0 Warum schreiben wir dann trotzdem noch wissenschaftliche Texte in Sprachen wie Deutsch, Französisch und Polnisch? Ist es überhaupt noch sinnvoll, Deutsch als Wissenschaftssprache zu nutzen? Hat Deutsch als Wissenschaftssprache eine Zukunft?

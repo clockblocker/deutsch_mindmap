@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 **Schritte zur Lösung**  
 **Aufgaben 16–23 | 1 Lesetext mit Beispiel | 8 Punkte | Zeit: 20 Minuten**
 

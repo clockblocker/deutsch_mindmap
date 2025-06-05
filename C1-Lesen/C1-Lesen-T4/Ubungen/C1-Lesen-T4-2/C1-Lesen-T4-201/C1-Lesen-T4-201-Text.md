@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T4-Ubung-List|Ubung-List]]
-
----
-
 24 Der individuelle Verdienst wird nur anfänglich zu sozialem Ungleichgewicht in der Nutzung von Technologien führen.  
 25 Schon in der Vergangenheit wurde am Transhumanismus Kritik geübt.  
 26 Die gesamte Menschheit soll jederzeit von der transhumanistischen Technologie profitieren.  

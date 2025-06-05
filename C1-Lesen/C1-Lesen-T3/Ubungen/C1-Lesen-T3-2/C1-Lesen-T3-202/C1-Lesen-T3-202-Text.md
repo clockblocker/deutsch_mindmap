@@ -1,7 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Ubung-List]]
-
----
-
 Partnersuche im digitalen Zeitalter
 
 **Online-Dating** – so die Behauptung der Dating-Portale – ist heutzutage so selbstverständlich wie Online-Shopping. Dennoch fällt vielen schwer zuzugeben, ihrem Liebesglück im Netz habhaft geworden zu sein. War das für Opa in jungen Jahren anders, als er Oma mit 21 über eine Anzeige in der Zeitung kennenlernte? Beispiel 0. Interessant ist hier die Frage, ob sich durch die virtuelle Welt auch die Art der Kontaktaufnahme verändert hat.
