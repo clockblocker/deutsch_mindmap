@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T2-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-426-Text|Text]]  | [[C1-Lesen-426-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-426-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-416-Text|←]]         [[C1-Lesen-436-Text|→]]
+
+---
+---
+
 Crowdfunding
 
 Laut einer Umfrage ist der Ausdruck Crowdfunding fast drei Viertel aller Deutschen schon einmal begegnet, und etwa ein Sechstel hat schon in ein Crowdfunding-Projekt investiert. Was verbirgt sich also hinter diesem Begriff? Angenommen, jemand hat eine großartige Idee für ein Projekt oder ein neu zu gründendes Unternehmen. Doch es fehlt dazu das notwendige Kapital und man schreckt vor Bankkrediten oder öffentlichen Förderprogrammen mit dem ganzen bürokratischen Aufwand zurück: Die Alternative könnte Crowdfunding sein.

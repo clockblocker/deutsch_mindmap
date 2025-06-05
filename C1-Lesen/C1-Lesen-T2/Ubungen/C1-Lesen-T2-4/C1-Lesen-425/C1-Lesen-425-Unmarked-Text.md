@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T2-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-425-Text|Text]]  | [[C1-Lesen-425-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-425-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-415-Text|←]]         [[C1-Lesen-435-Text|→]]
+
+---
+---
+
 Ungeliebte Mathematik
 
 Mathe ist das klassische Horrorfach. Würden Schülerinnen und Schüler in Deutschland zu Mathe befragt, wären „verhasst“ und „unbeliebt“ vermutlich gängige Bewertungen. Mathematikunterricht steht für Frustration und Versagen. Andererseits haben Mathe-Erklärvideos im Internet Hochkonjunktur, und jungen Youtuberinnen und Youtubern wird eine quasireligiöse Verehrung entgegengebracht, nur weil sie Mathematik freundlich und verständlich erklären können.

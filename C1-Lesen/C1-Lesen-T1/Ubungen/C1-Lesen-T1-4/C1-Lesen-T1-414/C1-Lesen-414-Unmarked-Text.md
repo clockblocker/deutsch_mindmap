@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-414-Text|Text]]  | [[C1-Lesen-414-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-414-Loesung|Loesung]]
+
+---
+
+←         [[C1-Lesen-424-Text|→]]
+
+---
+---
+
 Polarlichter  
 Zauber am Nachthimmel
 

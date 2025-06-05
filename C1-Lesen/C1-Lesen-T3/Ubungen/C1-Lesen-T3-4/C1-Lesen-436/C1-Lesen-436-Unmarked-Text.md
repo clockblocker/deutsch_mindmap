@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T3-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-436-Text|Text]]  | [[C1-Lesen-436-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-436-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-426-Text|←]]         [[C1-Lesen-446-Text|→]]
+
+---
+---
+
 Die Restitution von Kulturgütern
 
 Die Rückerstattung einst gestohlener oder illegal enteigener Kulturgüter an ihre legitimen Vorbesitzer oder deren Erben ist ein brisantes Thema. `Beispiel 0` Jeder Fall weist eine andere Geschichte auf und entsprechend unterschiedlich ist die Rechtslage und die Chance auf eine eventuelle Restitution.

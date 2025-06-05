@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-415-Text|Text]]  | [[C1-Lesen-415-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-415-Loesung|Loesung]]
+
+---
+
+←         [[C1-Lesen-425-Text|→]]
+
+---
+---
+
 Der Pinocchio-Effekt  
 Haben Lügner lange Nasen?
 

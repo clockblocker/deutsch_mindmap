@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T3-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-433-Text|Text]]  | [[C1-Lesen-433-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-433-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-423-Text|←]]         [[C1-Lesen-443-Text|→]]
+
+---
+---
+
 And the winner is ...
 
 Jedes Jahr im Herbst sehnen sich einige bekannte Persönlichkeiten nach einem Anruf aus Skandinavien. `Beispiel 0` Der begehrte internationale Preis wird in den Gebieten Physik, Chemie, Physiologie oder Medizin, Literatur und für Friedensbemühungen verliehen.

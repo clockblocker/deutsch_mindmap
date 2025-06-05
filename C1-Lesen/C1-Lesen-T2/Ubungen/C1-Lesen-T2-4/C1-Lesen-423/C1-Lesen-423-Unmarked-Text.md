@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T2-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-423-Text|Text]]  | [[C1-Lesen-423-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-423-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-413-Text|←]]         [[C1-Lesen-433-Text|→]]
+
+---
+---
+
 Die Rettung aussterbender Sprachen
 
 Von rund 7000 Sprachen weltweit ist knapp die Hälfte vom Aussterben bedroht, allein zwanzig davon in Europa. Etliche Initiativen bemühen sich, gegen das Sprachensterben anzugehen. Sprachen online zu dokumentieren, bevor sie verschwinden, ist einer der Wege. Im Sprachenrettungsprojekt eines Technologiegiganten sind bereits mehrere Tausend Sprachen dokumentiert; Auskünfte hinsichtlich Muttersprachler und Verbreitungsgebiet lassen sich abrufen und Sprachaufnahmen anhören.

@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T2-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-421-Text|Text]]  | [[C1-Lesen-421-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-421-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-411-Text|←]]         [[C1-Lesen-431-Text|→]]
+
+---
+---
+
 Wenn Touristen zum Problem werden
 
 Leben dort, wohin andere in Urlaub fahren: das ist bei Weitem nicht so attraktiv, wie es sich anhört. Denn die Schönheit eines Ortes kann für seine Bewohner zur Last werden.

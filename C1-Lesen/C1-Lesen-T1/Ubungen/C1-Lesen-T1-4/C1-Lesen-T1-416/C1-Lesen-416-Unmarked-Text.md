@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-416-Text|Text]]  | [[C1-Lesen-416-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-416-Loesung|Loesung]]
+
+---
+
+←         [[C1-Lesen-426-Text|→]]
+
+---
+---
+
 Warum sind Menschen unpünktlich?
 
 Es gibt sie überall, die ewigen Zuspätkommer. Sie kommen zu spät zur Arbeit, lassen Mitarbeiter bei Meetings `Beispiel 0` sich warten, erscheinen verspätet bei privaten Verabredungen. Das ist `1 ...` ärgerlich für diejenigen, die es immer schaffen, pünktlich zu sein, denn Pünktlichkeit ist eine gesellschaftliche Konvention; man erwartet, dass `2 ...` jeder daran hält. Wie sonst kann man gemeinsame Aktivitäten planen und ausführen? Zudem zeugt Pünktlichkeit von guten Manieren und von der Wertschätzung des anderen, zumal man so zu erkennen gibt, dass man die Zeit seiner Mitmenschen oder Mitarbeiter respektiert.

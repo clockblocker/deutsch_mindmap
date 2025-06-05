@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-441-Text|Text]]  | [[C1-Lesen-441-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-441-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-431-Text|←]]         →
+
+---
+---
+
 0 Der Erfolg deutscher Witze, die Leute zum Lachen zu bringen, wird angezweifelt.
 
 - [x] a

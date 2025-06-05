@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T2-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-427-Text|Text]]  | [[C1-Lesen-427-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-427-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-417-Text|←]]         [[C1-Lesen-437-Text|→]]
+
+---
+---
+
 Robotersteuer
 
 Stichwort Industrie 4.0: In der deutschen Industrie sind Roboter fest etabliert, Computersysteme und künstliche Intelligenz kommen mittlerweile fast überall in der Arbeitswelt zum Einsatz. Die wirtschaftlichen und sozialen Konsequenzen der fortschreitenden Digitalisierung und Automatisierung von Arbeitsabläufen sind Gegenstand hitziger Debatten, denn Automatisierung und Robotik bedrohen nach Ansicht vieler Ökonomen menschliche Arbeitsplätze. In einer Studie der Universität Oxford wurde errechnet, dass in den kommenden Jahrzehnten gut die Hälfte aller Jobs von Maschinen erledigt werden könnte. Man mag das für realistisch oder übertrieben halten, aber es ist unbestritten, dass in der Arbeitswelt ein radikaler Wandel vonstattengeht.

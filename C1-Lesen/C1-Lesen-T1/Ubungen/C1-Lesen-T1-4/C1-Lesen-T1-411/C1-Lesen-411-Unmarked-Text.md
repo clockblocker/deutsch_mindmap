@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-411-Text|Text]]  | [[C1-Lesen-411-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-411-Loesung|Loesung]]
+
+---
+
+←         [[C1-Lesen-421-Text|→]]
+
+---
+---
+
 Gesunder Schlaf  
 Schlafmangel führt zu Schädigung des Gehirns
 

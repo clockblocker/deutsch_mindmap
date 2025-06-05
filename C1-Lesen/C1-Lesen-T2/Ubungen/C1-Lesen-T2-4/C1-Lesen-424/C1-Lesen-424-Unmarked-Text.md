@@ -1,3 +1,13 @@
+   [[0-C1-Lesen-T2-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[C1-Lesen-424-Text|Text]]  | [[C1-Lesen-424-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-424-Loesung|Loesung]]
+
+---
+
+[[C1-Lesen-414-Text|←]]         [[C1-Lesen-434-Text|→]]
+
+---
+---
+
 Kultiviertes Fleisch
 
 Ein Genuss ohne Reue soll es sein: ein Steak, für das kein Tier sterben musste, das klimafreundlich ist und ohne Massentierhaltung hergestellt wurde. Es besteht aus echten Muskel- und Fettzellen. Einem Rind wurden dafür Stammzellen entnommen, die sich dann mithilfe eines Bioreaktors in einer Nährlösung vermehrten. Anschließend wurden die Zellhaufen mit einem 3-D-Drucker in die Form eines Steaks gebracht. Auch Hähnchenfleisch, für das weder ein Ei gelegt noch ein Huhn geschlachtet werden musste, wurde bereits so entwickelt und auf Lebensmittelmessen als „Nuggets“ der Kundschaft zum Probieren gereicht.
