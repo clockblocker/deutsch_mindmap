@@ -157,6 +157,10 @@ function prependNavToFile(filePath, navBlock) {
       ? path.dirname(existingPaths[0])
       : path.resolve(rootDir); // fallback if somehow none exist
 
+    if ([`412`, `422`, `432`, `442`].includes(id)) {
+      continue;
+    }
+
     // 2) For each of the three variants, if it's missing, create it as an empty file:
     if (!trio.Text) {
       trio.Text = path.join(baseDir, `${level}-${part}-${id}-Text.md`);
