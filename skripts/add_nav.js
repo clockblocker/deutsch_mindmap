@@ -36,8 +36,10 @@ const path = require("path");
 const level = "C1";
 const part = "Lesen"; // Lesen | Hoeren
 
-// 1) Regular expression to match exactly the three kinds of files we care about.
-const FILE_REGEX = /^C1-Lesen-(\d+)-(Text|Unmarked-Text|Loesung)\.md$/;
+// Build a string pattern using template literals
+const pattern = `^${level}-${part}-(\\d+)-(Text|Unmarked-Text|Loesung)\\.md$`;
+// Then pass it to RegExp
+const FILE_REGEX = new RegExp(pattern);
 
 // 2) Recursively walk a directory, accumulating all file paths in “allFiles” array.
 function walkDir(dir, allFiles = []) {
