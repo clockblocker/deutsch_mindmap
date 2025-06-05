@@ -71,7 +71,6 @@ Ist der deutsche Humor zum Lachen?
 ---
 ---
 
----
 Der [[Erfolg]] deutscher Witze, die Leute zum Lachen zu bringen, wird [[angezweifelt]]
 a
 

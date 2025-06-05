@@ -32,17 +32,17 @@ Sehr geehrte Frau Ebert,
 
 ---
 ###### *Model*
-*ich habe vollstes Verständnis dafür, dass* 
-geplante Funktionsräume die interne Kommunikation fördern – ein Aspekt, der im Arbeitsalltag unabdingbar ist.
+*ich habe vollstes Verständnis dafür, dass geplante Funktionsräume* 
+die interne Kommunikation fördern – ein Aspekt, der im Arbeitsalltag unabdingbar ist.
 
 
 ###### *Versuch* 
+die interne Kommunication fördern - ein Aspekt, der im Arbetsalltag unabgingbar ist
 
 
 ---
 ###### *Model*
-Allerdings finde ich die Kantine, an deren Stelle künftig Funktionsräume geplant sind, unverzichtbar, da unser Büro in einem Industriegebiet liegt, in dem es weder Restaurants noch Supermärkte gibt.
-
+Allerdings finde ich die Kantine, an deren Stelle künftig Funktionsräume geplant sind, unverzichtbar, da unser Büro sich in einem Industriegebiet befindet, wo es weder Restaurants noch Supermärkte gibt.
 
 ###### *Versuch* 
 Allerdings finde ich die Kantine, an deren Stelle künftig Funktionsräume geplannt sind, unversichtbar, da unser Büro in einem Industriegebiet liegt, in dem es weder Restaurants noch Supermärkte gibt.

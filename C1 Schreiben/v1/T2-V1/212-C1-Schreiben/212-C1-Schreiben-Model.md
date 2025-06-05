@@ -21,16 +21,16 @@ Frau Ebert aus der Kommunikationsabteilung plant, die Kantine Ihrer Firma in ein
 *[[212-C1-Schreiben-Model#^1|^]]* *ich habe vollstes Verständnis dafür, dass* geplante Funktionsräume die interne Kommunikation [[fördern]] – ein Aspekt, der im Arbeitsalltag unabdingbar ist. ^1
 
  
-*[[212-C1-Schreiben-Model#^2|^]]* *Allerdings* finde ich die Kantine, `an` deren Stelle künftig Funktionsräume geplant sind, unverzichtbar, `da` unser Büro in einem Industriegebiet liegt, in dem `es` `weder` Restaurants `noch` Supermärkte gibt. ^2
+*[[212-C1-Schreiben-Model#^2|^]]* *Allerdings* finde ich die Kantine, `an deren Stelle` künftig Funktionsräume geplant sind, unverzichtbar, `da` unser Büro `sich` in einem Industriegebiet befindet, wo es `weder` Restaurants `noch` Supermärkte gibt.^2
 
  
 *[[212-C1-Schreiben-Model#^3|^]]* `Ohne` sie wäre ich persönlich gezwungen, mein Mittagessen täglich selbst zu Hause vorzubereiten – `wofür` mir leider die Zeit fehlt. ^3
 
 
-*[[212-C1-Schreiben-Model#^4|^]]* *Zusätzlich* ermöglicht die Kantine allen Mitarbeitenden preiswerte warme Mahlzeiten und Erholungspausen, was `sich` positiv `auf` Arbeitsatmosphäre und Produktivität auswirkt. ^4
+*[[212-C1-Schreiben-Model#^4|^]]* *Zusätzlich* ermöglicht die Kantine allen Mitarbeitenden preiswerte warme Mahlzeiten und Erholungspausen, was `sich` positiv `auf` Arbeitsatmosphäre auswirkt. ^4
 
  
-*[[212-C1-Schreiben-Model#^5|^]]* *Sollte die Entscheidung* zur Schließung der Kantine *nicht rückgängig gemacht werden können,* *schlage ich vor,* mit einem Lieferdienst eine [[Firmenvereinbarung]] zu [[treffen]]. ^5
+*[[212-C1-Schreiben-Model#^5|^]]* Sollte die Entscheidung zur Schließung der Kantine nicht rückgängig gemacht werden können, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren. ^5
 
  
 *[[212-C1-Schreiben-Model#^6|^]]* *Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.* ^6
@@ -47,13 +47,13 @@ Sehr geehrte Frau Ebert,
 
 ich habe vollstes Verständnis dafür, dass geplante Funktionsräume die interne Kommunikation fördern – ein Aspekt, der im Arbeitsalltag unabdingbar ist.
 
-Allerdings finde ich die Kantine, an deren Stelle künftig Funktionsräume geplant sind, unverzichtbar, da unser Büro in einem Industriegebiet liegt, in dem es weder Restaurants noch Supermärkte gibt.
+Allerdings finde ich die Kantine, an deren Stelle künftig Funktionsräume geplant sind, unverzichtbar, da unser Büro sich in einem Industriegebiet befindet, wo es weder Restaurants noch Supermärkte gibt.
 
 Ohne sie wäre ich persönlich gezwungen, mein Mittagessen täglich selbst zu Hause vorzubereiten – wofür mir leider die Zeit fehlt.
 
-Zusätzlich ermöglicht die Kantine allen Mitarbeitenden preiswerte warme Mahlzeiten und Erholungspausen, was sich positiv auf Arbeitsatmosphäre und Produktivität auswirkt.
+Zusätzlich ermöglicht die Kantine allen Mitarbeitenden preiswerte warme Mahlzeiten und Erholungspausen, was sich positiv auf Arbeitsatmosphäre auswirkt.
 
-Sollte die Entscheidung zur Schließung der Kantine nicht rückgängig gemacht werden können, schlage ich vor, mit einem Lieferdienst eine Firmenvereinbarung zu treffen.
+Sollte die Entscheidung zur Schließung der Kantine nicht rückgängig gemacht werden können, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren. 
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 

@@ -9,20 +9,39 @@
 #### Focus drills
 
 
----
 ###### *Model*
-Aufgabenbereich erweitern, sondern auch wertvolle
+Nicht nür meinen aktuellen
 
 ###### *Versuch* 
-Aufgabenbereich erweitern, sondern auch wertvolle
+
+
+###### *Model*
+Um an dem vor Ort 
+
+###### *Versuch* 
 
 
 ---
 ###### *Model*
-vollständich im Homeoffice
+aus dem Homeoffice
 
 ###### *Versuch* 
-vollständlich im Homeoffice
+
+
+---
+###### *Model*
+mitbringen - wodurch
+
+###### *Versuch* 
+
+
+
+---
+###### *Model*
+um auf mein zukünftiges MBA-Studium an der Technischen Universität München einzugehen.
+
+###### *Versuch* 
+um auf mein zukünftiges MBA-Studium an der Technischen Universität München einzugehen
 
 
 ---
@@ -30,21 +49,15 @@ vollständlich im Homeoffice
 Um an dem vor Ort stattfindenden Studium teilnehmen zu können, benötige ich
 
 ###### *Versuch* 
-Um an dem vor Ort stattfindenden Studium teilnehmen zu können, benötige ich
+
+
 
 ---
 ###### *Model*
-mein zukünftiges MBA-Studium an der Technischen Universität München einzugehen.
+ermöglicht werden können, schlage ich vor, dass ich während des Studiums vollständig aus dem Homeoffice
 
 ###### *Versuch* 
-mein zukünftiges MBA-Studuim an der Technischen Universität München einzugehen.
 
----
-###### *Model*
-Sollte zurzeit keine längere Freistellung ermöglicht werden können,
-
-###### *Versuch* 
-Sollte zurzeit keine längere Freistellung ermöglicht werden können,
 
 
 ---

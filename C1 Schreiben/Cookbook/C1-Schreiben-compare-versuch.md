@@ -6,19 +6,19 @@
 ---
 ---
 
-Sehr geehrte Fraf Keller,
+Sehr geehrte Frau keller,
 
-ich wende mich an Sie, un auf meine zukßnftiges MBA-Studium an der Technischer Universität München einzugehen.
+ich wende mich an Sie, um auf mein zukünftiges MBA-Studium an der Technischen Unversität München einzugehen.
 
-Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel und Zeitdruck nicht alle Bedürfnisse berücksichtigen kann. 
+Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel und Arbeitsdruck nicht alle Bedürfnisse berücksichtigen kann.
 
-Allerdins habe ich zwei Jahre gearbeitet, einen Plaz im Programm zu sichern. Um im vor Ort stattfindenten Studium teilnahmen zu können, benötige ich eine sechsmonatige Bildungsfreistellung. 
+Allerdings, habe ich zwei Jahre daran gearbeitet, einen Platz im Programm zu sichern. Um an vor Ort stattfindenden Studium teilnehmen zu können, benotige ich eine sechsmonatige Bildungsfreistellung. 
 
-Am Ende des Programms könnte ich nicht nur meinen aktuellen Aufgabenbereich erwietrn, sondern wertvollig Netzwerke mitbringen - wodurch die Firma neue Kunde und Partner gewinnen könnte.
+Am Ende des Programms, könnte ich nicht nür mein aktuellen Aufgabenberich erweitern, sondern auch wertvolle Netzwerke mitbringen - wofür die Firma neue Kunden und Partner gewinnen könnte.
 
-Sollte zuzeit keine längere Freistellung ermöglicht werden könnte, schlage ich vor, dass ich während des Studiums vollständich im Homeoffice arbeiten darf.
+Sollte derzeit keine längere Freistellung erlauben könnte, schlage ich vor, dass ich während des Studiums vollständich aus dem Homeoffice arbeiten darf. 
 
-Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
+Ich freue mich auf Ihre Rükmeldung und Danke ihnen im Voraus
 
-Mit freundlishen Grüßen
+Mit freundlichen Grüßen
 Denis Popov

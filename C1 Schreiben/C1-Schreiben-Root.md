@@ -9,9 +9,9 @@
 ###### T2-V1
 - [x] [[211-C1-Schreiben-Model|211]] Bildungsurlaub
 - [x] [[212-C1-Schreiben-Model|212]] Schließung der Kantine
-- [x] [[213-C1-Schreiben-Model|213]] Kein Arbeitsplatz in der Bibliothek
-- [x] [[214-C1-Schreiben-Model|214]] Praktikum
-- [x] [[215-C1-Schreiben-Model|215]] Schlecht Urlaub
+- [ ] [[213-C1-Schreiben-Model|213]] Kein Arbeitsplatz in der Bibliothek
+- [ ] [[214-C1-Schreiben-Model|214]] Praktikum
+- [ ] [[215-C1-Schreiben-Model|215]] Schlecht Urlaub
 
 ###### T1-V1
 - [ ] [[111-C1-Schreiben-Model|111]] Soziale Medien – Fluxh oder Segen?
