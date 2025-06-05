@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T2-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Ungeliebte Mathematik
 
 Mathe ist das klassische Horrorfach. Würden Schülerinnen und Schüler in Deutschland zu Mathe befragt, wären „verhasst“ und „unbeliebt“ vermutlich gängige Bewertungen. Mathematikunterricht steht für Frustration und Versagen. Andererseits haben Mathe-Erklärvideos im Internet Hochkonjunktur, und jungen Youtuberinnen und Youtubern wird eine quasireligiöse Verehrung entgegengebracht, nur weil sie Mathematik freundlich und verständlich erklären können.
@@ -27,36 +21,43 @@ Die volkswirtschaftlichen Folgen der Vernachlässigung mathematischer Bildung fa
 ---
 
 9. Was kritisieren Jugendliche am Matheunterricht?
+
 - [ ] _a_ Der Unterricht sei theorielastig und lebensfremd.
 - [ ] _b_ Die meisten Lehrkräfte seien mit wirklichkeitsbezogenen Aufgabenformen überfordert.
 - [ ] _c_ Es sollten vermehrt Videos zum Einsatz kommen.
 
 10. Welcher Vorschlag zur besseren Mathematikvermittlung kommt von Experten?
+
 - [ ] _a_ Lernende sollten die Erfahrung machen können, wie mathematische Lösungen entwickelt werden.
 - [ ] _b_ Man sollte spielerische Aspekte der Mathematik nicht übertreiben.
 - [ ] _c_ Mathematik sollte an lebensnahen Problemen eingeübt werden.
 
 11. Mathelehrerinnen und -lehrer …
+
 - [ ] _a_ machen Misserfolge vorrangig bei hochbegabten Kindern aus.
 - [ ] _b_ sind bestrebt, durch ihre Begeisterung Jugendliche für das Fach zu motivieren.
 - [ ] _c_ weisen Eltern die Schuld am Versagen der Sprösslinge zu.
 
 12. Was ist für die Lernenden im Matheunterricht frustrierend?
+
 - [ ] _a_ Durch eigene Überlegungen Lösungswege zu ermitteln, ist mühselig.
 - [ ] _b_ Ihre Überforderung wird als Unvermögen ausgelegt.
 - [ ] _c_ Sie bekommen nicht die adäquaten Lösungsvorlagen.
 
 13. In der heutigen Zeit …
+
 - [ ] _a_ ist das öffentliche Ansehen der Mathematik hoch.
 - [ ] _b_ ist trotz Digitalisierung Rechnen im Arbeitsalltag unentbehrlich.
 - [ ] _c_ müssten mathematische Inhalte von Lehrplänen auf den Prüfstand.
 
 14. Solide mathematische Fähigkeiten …
+
 - [ ] _a_ sind mit kreativem Denken unvereinbar.
 - [ ] _b_ sind heutzutage für eine kritische Bewertung statistischer Daten eher obsolet.
 - [ ] _c_ können auch von Leistungsschwächeren erworben werden.
 
 15. Ein Studium der Mathematik in Deutschland …
+
 - [ ] _a_ ermöglicht ein gutes Auskommen in der freien Wirtschaft.
 - [ ] _b_ dient durchweg als Einstieg in eine schulische Laufbahn.
 - [ ] _c_ wird bei ausländischen Ingenieuren zunehmend beliebter.

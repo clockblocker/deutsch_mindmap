@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Die Restitution von Kulturgütern
 
 Die Rückerstattung einst gestohlener oder illegal enteigener Kulturgüter an ihre legitimen Vorbesitzer oder deren Erben ist ein brisantes Thema. `Beispiel 0` Jeder Fall weist eine andere Geschichte auf und entsprechend unterschiedlich ist die Rechtslage und die Chance auf eine eventuelle Restitution.
@@ -39,4 +33,3 @@ Daher beschäftigt sich das Kunst- und Kulturrecht dieser Tage mit der Frage, wi
 `i` Es wird nämlich auf eine Neuorientierung der kulturellen Beziehungen gezielt
 
 `j` Früher galt bei Ausgrabungen oft das Prinzip der „Fundteilung“
-

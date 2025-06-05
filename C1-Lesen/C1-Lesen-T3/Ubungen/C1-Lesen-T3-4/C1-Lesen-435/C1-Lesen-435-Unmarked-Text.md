@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Diversität – auch am Arbeitsplatz?
 
 Diversität beschäftigt unsere Gesellschaft. Viele wünschen sich eine stärkere Einbeziehung der Vielfalt in den Alltag. `Beispiel 0` Die neue Denkweise zeigt sich in Betrieben, die der Diversität mehr Gewicht geben.

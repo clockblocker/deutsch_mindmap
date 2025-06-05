@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T1-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Kinderspielzeug früher und heute  
 Vielfalt und Spaß
 
@@ -18,58 +12,50 @@ Die Industrialisierung brachte neue Technologien. Aus Blech war es nun möglich,
 Die Spannweite der produzierten Spielsachen ist heute `8 ...` verschiedener Kunststoffe und preiswerter Produktion fast grenzenlos. Bauklötze aus allen möglichen Materialien, kuschelige Tierfiguren, Outdoorspielzeug, elektronisches Lernspielzeug, Modepuppen und Co. haben schon lange Einzug ins Kinderzimmer gehalten und versprechen den Kids grenzenlosen Spaß.
 
 ---
+
 ---
 
-0. 
-    - [ ] a davon
+0.  - [ ] a davon
     - [ ] b daher
     - [ ] c von
     - [ ] d somit
 
-1. 
-    - [ ] a bewies
+1.  - [ ] a bewies
     - [ ] b verdeutlichte
     - [ ] c aufwies
     - [ ] d verfügte
 
-2. 
-    - [ ] a versehen
+2.  - [ ] a versehen
     - [ ] b behandelt
     - [ ] c hinzugefügt
     - [ ] d angepasst
 
-3. 
-    - [ ] a worin
+3.  - [ ] a worin
     - [ ] b wo
     - [ ] c was
     - [ ] d wann
 
-4. 
-    - [ ] a wie
+4.  - [ ] a wie
     - [ ] b statt
     - [ ] c als
     - [ ] d zur
 
-5. 
-    - [ ] a in Anspruch
+5.  - [ ] a in Anspruch
     - [ ] b zur Verfügung
     - [ ] c zur Entscheidung
     - [ ] d zur Kenntnis
 
-6. 
-    - [ ] a Ausgenommen
+6.  - [ ] a Ausgenommen
     - [ ] b Abgesehen
     - [ ] c Außer Acht gelassen
     - [ ] d Ausgeschlossen
 
-7. 
-    - [ ] a Als letzte
+7.  - [ ] a Als letzte
     - [ ] b Letztere
     - [ ] c Erste
     - [ ] d Letztlich
 
-8. 
-    - [ ] a zwecks
+8.  - [ ] a zwecks
     - [ ] b mittels
     - [ ] c anlässlich
     - [ ] d dank

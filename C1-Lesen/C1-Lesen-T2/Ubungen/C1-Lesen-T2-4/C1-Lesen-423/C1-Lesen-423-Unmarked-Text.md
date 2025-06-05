@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T2-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Die Rettung aussterbender Sprachen
 
 Von rund 7000 Sprachen weltweit ist knapp die Hälfte vom Aussterben bedroht, allein zwanzig davon in Europa. Etliche Initiativen bemühen sich, gegen das Sprachensterben anzugehen. Sprachen online zu dokumentieren, bevor sie verschwinden, ist einer der Wege. Im Sprachenrettungsprojekt eines Technologiegiganten sind bereits mehrere Tausend Sprachen dokumentiert; Auskünfte hinsichtlich Muttersprachler und Verbreitungsgebiet lassen sich abrufen und Sprachaufnahmen anhören.
@@ -27,36 +21,43 @@ Doch auch die Wiederauferstehung von Sprachen ist möglich. Kornisch, nur bis zu
 ---
 
 9. Die Bewahrung bedrohter Sprachen …
+
 - [ ] _a_ ist durch Tondokumente größtenteils gelungen.
 - [ ] _b_ wird durch die Digitalisierung erheblich verzögert.
 - [ ] _c_ hat sich neben anderen ein Konzern zur Aufgabe gemacht.
 
 10. Die Sprachen der ursprünglichen Bewohner Brasiliens …
+
 - [ ] _a_ müssten schnellstmöglich dokumentiert werden.
 - [ ] _b_ sind zum Verschwinden verdammt.
 - [ ] _c_ werden als Gedichte überliefert.
 
 11. Auch kleine Sprachen sind erhaltenswert, unter anderem weil …
+
 - [ ] _a_ sie Einblicke in Frühphasen der Menschheit gewähren.
 - [ ] _b_ sie für Forschende eine wahre Fundgrube darstellen.
 - [ ] _c_ dank ihrer andere Sprachen strukturell bereichert werden.
 
 12. Es wird darauf verwiesen, dass …
+
 - [ ] _a_ der Verlust von Sprachen anthropologisch betrachtet durchaus normal ist.
 - [ ] _b_ dominante Sprachen sich verstärkt zulasten der Minderheitensprachen ausbreiten.
 - [ ] _c_ die Bedrohung ihrer Sprache einer Gemeinschaft starken Zusammenhalt verleiht.
 
 13. In einigen kanadischen Gemeinden …
+
 - [ ] _a_ steigt das Prestige der indigenen Sprache beständig an.
 - [ ] _b_ wurde Zweisprachigkeit in den Lehrplan integriert.
 - [ ] _c_ wurde die Sprache der Vorfahren durch digitale Formate nutzbar gemacht.
 
 14. Was bringt die Digitalisierung für aussterbende Sprachen?
+
 - [ ] _a_ Ihre Komplexität ist so reduzierbar, dass sie Computern beigebracht werden können.
 - [ ] _b_ Durch das Netz erleben solche Sprachen gerade eine Renaissance.
 - [ ] _c_ Mittels entsprechender Anwendungen können Lernende ihren Wortschatz individuell erweitern.
 
 15. In Europa …
+
 - [ ] _a_ haben sich Beamte für die Wiederbelebung einer ausgestorbenen Sprache eingesetzt.
 - [ ] _b_ sind Sprecher von Sprachen geringerer Ausbreitung eine verschwindende Minderheit.
 - [ ] _c_ wird die Benachteiligung von Minderheiten wirkungsvoll sanktioniert.

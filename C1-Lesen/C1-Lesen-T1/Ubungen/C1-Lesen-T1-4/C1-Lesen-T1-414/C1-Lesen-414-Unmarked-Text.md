@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T1-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Polarlichter  
 Zauber am Nachthimmel
 
@@ -17,56 +11,47 @@ Polarlichter mögen ein spannendes Naturschauspiel sein, aber die erzeugten elek
 
 ---
 
-0.  
-    - [ ] a Jeder  
-    - [ ] b Wenn  
-    - [ ] c Welcher  
+0.  - [ ] a Jeder
+    - [ ] b Wenn
+    - [ ] c Welcher
     - [ ] d Wer
 
-1.  
-    - [ ] a weil  
-    - [ ] b obwohl  
-    - [ ] c damit  
+1.  - [ ] a weil
+    - [ ] b obwohl
+    - [ ] c damit
     - [ ] d dennoch
 
-2.  
-    - [ ] a um  
-    - [ ] b zu  
-    - [ ] c über  
+2.  - [ ] a um
+    - [ ] b zu
+    - [ ] c über
     - [ ] d seit
 
-3.  
-    - [ ] a evaluieren  
-    - [ ] b anerkennen  
-    - [ ] c interpretieren  
+3.  - [ ] a evaluieren
+    - [ ] b anerkennen
+    - [ ] c interpretieren
     - [ ] d bezeugen
 
-4.  
-    - [ ] a derer  
-    - [ ] b seine  
-    - [ ] c ihrer  
+4.  - [ ] a derer
+    - [ ] b seine
+    - [ ] c ihrer
     - [ ] d dessen
 
-5.  
-    - [ ] a Anzeichen  
-    - [ ] b Theater  
-    - [ ] c Experiment  
+5.  - [ ] a Anzeichen
+    - [ ] b Theater
+    - [ ] c Experiment
     - [ ] d Schauspiel
 
-6.  
-    - [ ] a ab und zu  
-    - [ ] b hin und her  
-    - [ ] c hin und wieder  
+6.  - [ ] a ab und zu
+    - [ ] b hin und her
+    - [ ] c hin und wieder
     - [ ] d an und aus
 
-7.  
-    - [ ] a der  
-    - [ ] b dieser  
-    - [ ] c mancher  
+7.  - [ ] a der
+    - [ ] b dieser
+    - [ ] c mancher
     - [ ] d welcher
 
-8.  
-    - [ ] a entgegengesetzt  
-    - [ ] b gleichzeitig  
-    - [ ] c rechtzeitig  
+8.  - [ ] a entgegengesetzt
+    - [ ] b gleichzeitig
+    - [ ] c rechtzeitig
     - [ ] d rückwirkend

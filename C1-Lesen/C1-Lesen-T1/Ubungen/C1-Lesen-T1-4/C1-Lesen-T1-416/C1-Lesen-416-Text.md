@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T1-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Warum sind Menschen unpünktlich?
 
 Es gibt sie überall, die ewigen Zuspätkommer. Sie kommen zu spät zur Arbeit, lassen Mitarbeiter bei Meetings Beispiel `0 ...` sich warten, erscheinen verspätet bei privaten Verabredungen. Das ist `1 ...` ärgerlich für diejenigen, die es immer schaffen, pünktlich zu sein, denn Pünktlichkeit ist eine gesellschaftliche Konvention; man erwartet, dass `2 ...` jeder daran hält. Wie sonst kann man gemeinsame Aktivitäten planen und ausführen? Zudem zeugt Pünktlichkeit von guten Manieren und von der Wertschätzung des anderen, zumal man so zu erkennen gibt, dass man die Zeit seiner Mitmenschen oder Mitarbeiter respektiert.
@@ -16,56 +10,47 @@ Dann gibt es noch diejenigen, für die Unpünktlichkeit eine Äußerung ihres St
 
 ---
 
-0.  
-    - [ ] a mit  
-    - [ ] b bei  
-    - [ ] c für  
+0.  - [ ] a mit
+    - [ ] b bei
+    - [ ] c für
     - [ ] d auf
 
-1.  
-    - [ ] a maßgeblich  
-    - [ ] b im äußersten Maß  
-    - [ ] c mäßig  
+1.  - [ ] a maßgeblich
+    - [ ] b im äußersten Maß
+    - [ ] c mäßig
     - [ ] d ermäßigt
 
-2.  
-    - [ ] a man  
-    - [ ] b ein  
-    - [ ] c sich  
+2.  - [ ] a man
+    - [ ] b ein
+    - [ ] c sich
     - [ ] d uns
 
-3.  
-    - [ ] a Dauer  
-    - [ ] b Zeitmessung  
-    - [ ] c Regelmäßigkeiten  
+3.  - [ ] a Dauer
+    - [ ] b Zeitmessung
+    - [ ] c Regelmäßigkeiten
     - [ ] d Zeitangaben
 
-4.  
-    - [ ] a geeignet  
-    - [ ] b ausreichend  
-    - [ ] c anerkannt  
+4.  - [ ] a geeignet
+    - [ ] b ausreichend
+    - [ ] c anerkannt
     - [ ] d akzeptabel
 
-5.  
-    - [ ] a ist  
-    - [ ] b würde  
-    - [ ] c sei  
+5.  - [ ] a ist
+    - [ ] b würde
+    - [ ] c sei
     - [ ] d war
 
-6.  
-    - [ ] a ganzen  
-    - [ ] b baldigen  
-    - [ ] c längst  
+6.  - [ ] a ganzen
+    - [ ] b baldigen
+    - [ ] c längst
     - [ ] d absehbar
 
-7.  
-    - [ ] a Anwesenheit  
-    - [ ] b Existenz  
-    - [ ] c Gesellschaft  
+7.  - [ ] a Anwesenheit
+    - [ ] b Existenz
+    - [ ] c Gesellschaft
     - [ ] d Nähe
 
-8.  
-    - [ ] a letztlich  
-    - [ ] b zuletzt  
-    - [ ] c schließlich  
+8.  - [ ] a letztlich
+    - [ ] b zuletzt
+    - [ ] c schließlich
     - [ ] d endlich

@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Braunkohletagebau
 
 Weil die Energiegewinnung durch Kohle umweltschädigend ist, wurde der Kohleausstieg für das kommende Jahrzehnt beschlossen. `Beispiel 0` Eine für die Bewohner traumatische Vorgehensweise scheint fortgesetzt zu werden.

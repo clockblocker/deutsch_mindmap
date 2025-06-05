@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T2-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Crowdfunding
 
 Laut einer Umfrage ist der Ausdruck Crowdfunding fast drei Viertel aller Deutschen schon einmal begegnet, und etwa ein Sechstel hat schon in ein Crowdfunding-Projekt investiert. Was verbirgt sich also hinter diesem Begriff? Angenommen, jemand hat eine großartige Idee für ein Projekt oder ein neu zu gründendes Unternehmen. Doch es fehlt dazu das notwendige Kapital und man schreckt vor Bankkrediten oder öffentlichen Förderprogrammen mit dem ganzen bürokratischen Aufwand zurück: Die Alternative könnte Crowdfunding sein.
@@ -25,36 +19,43 @@ Darüber hinaus wächst das Verantwortungsgefühl, denn die Projektbetreiber ste
 ---
 
 9. Den meisten Deutschen …
+
 - [ ] _a_ ist Crowdfunding ein Begriff.
 - [ ] _b_ ist die Bürokratie für eine Kreditaufnahme zuwider.
 - [ ] _c_ mangelt es an Kapital für die Gründung eines Start-Ups.
 
 10. Wer über Crowdfunding ein Projekt finanzieren möchte, …
+
 - [ ] _a_ braucht eine im Vorfeld zu bestimmende Anzahl an Geldgebern.
 - [ ] _b_ sollte online sein Vorhaben präsentieren.
 - [ ] _c_ sollte selbst bei einem etablierten Großinvestor vorsprechen.
 
 11. Die Geldgeber bei der herkömmlichen Art des Crowdfunding …
+
 - [ ] _a_ bekommen als Anerkennung Anteile des Projekts.
 - [ ] _b_ erhalten ihren Einsatz in Raten zurück.
 - [ ] _c_ tragen durch ihre Weiterempfehlung zum Gelingen bei.
 
 12. Was charakterisiert das Crowdinvesting?
+
 - [ ] _a_ Der Investor kann bei Unternehmensbeschlüssen Einspruch erheben.
 - [ ] _b_ Für ein erprobtes Produkt wird bei neuen Zielgruppen geworben.
 - [ ] _c_ Per Schwarm werden Anlagemöglichkeiten jenseits der Banken gesucht.
 
 13. Das dem Crowdfunding zugrunde liegende Prinzip bedeutet, dass …
+
 - [ ] _a_ jeder eingezahlte Betrag bei Projektabschluss vollständig zurückerstattet werden muss.
 - [ ] _b_ die Finanzierung erst anläuft, wenn die angestrebte Fördersumme erreicht ist.
 - [ ] _c_ das Risiko des Scheiterns mit zunehmender Größe des Budgets wächst.
 
 14. Um genügend Geld einzusammeln, …
+
 - [ ] _a_ muss jedes Projekt im Vorfeld von Experten unter die Lupe genommen werden.
 - [ ] _b_ sollte man zunächst ausreichend eigenes Kapital nachweisen.
 - [ ] _c_ verschleiern Jungunternehmer manchmal die dürftige Qualität ihres Projekts.
 
 15. Durch das Crowdfunding …
+
 - [ ] _a_ wird der Firmeninhaber bei Misserfolg zu einer Stellungnahme verpflichtet.
 - [ ] _b_ werden junge Unternehmer den traditionellen Firmenchefs weitgehend gleichgestellt.
 - [ ] _c_ verringert sich der Umfang der Geschäftsverbindungen erheblich.

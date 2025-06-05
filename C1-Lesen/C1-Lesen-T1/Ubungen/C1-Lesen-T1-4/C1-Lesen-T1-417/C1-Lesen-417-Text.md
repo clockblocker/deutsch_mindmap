@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T1-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Kirche und Glaube heute  
 Leben wir in einer gottlosen Gegenwart?
 
@@ -17,56 +11,47 @@ Persönliche Erfahrungen sind die Basis dieser subjektiven Glaubenseinstellung. 
 
 ---
 
-0.  
-    - [ ] a mit  
-    - [ ] b zu  
-    - [ ] c auf  
+0.  - [ ] a mit
+    - [ ] b zu
+    - [ ] c auf
     - [ ] d an
 
-1.  
-    - [ ] a damit  
-    - [ ] b daran  
-    - [ ] c darüber  
+1.  - [ ] a damit
+    - [ ] b daran
+    - [ ] c darüber
     - [ ] d dadurch
 
-2.  
-    - [ ] a Erklärend  
-    - [ ] b Ergänzend  
-    - [ ] c Bezeichnend  
+2.  - [ ] a Erklärend
+    - [ ] b Ergänzend
+    - [ ] c Bezeichnend
     - [ ] d Angemessen
 
-3.  
-    - [ ] a außer  
-    - [ ] b durch  
-    - [ ] c trotz  
+3.  - [ ] a außer
+    - [ ] b durch
+    - [ ] c trotz
     - [ ] d zwischen
 
-4.  
-    - [ ] a an seine Grenzen  
-    - [ ] b gegen seinen Willen  
-    - [ ] c auf sein Talent  
+4.  - [ ] a an seine Grenzen
+    - [ ] b gegen seinen Willen
+    - [ ] c auf sein Talent
     - [ ] d zu dem Ergebnis
 
-5.  
-    - [ ] a erklären  
-    - [ ] b beobachten  
-    - [ ] c vermitteln  
+5.  - [ ] a erklären
+    - [ ] b beobachten
+    - [ ] c vermitteln
     - [ ] d entscheiden
 
-6.  
-    - [ ] a erfordert  
-    - [ ] b ändert sich  
-    - [ ] c bemüht sich  
+6.  - [ ] a erfordert
+    - [ ] b ändert sich
+    - [ ] c bemüht sich
     - [ ] d besteht
 
-7.  
-    - [ ] a Wirkungen  
-    - [ ] b Mängel  
-    - [ ] c Vorurteile  
+7.  - [ ] a Wirkungen
+    - [ ] b Mängel
+    - [ ] c Vorurteile
     - [ ] d Vorstellungen
 
-8.  
-    - [ ] a Weswegen  
-    - [ ] b Was  
-    - [ ] c Woraus  
+8.  - [ ] a Weswegen
+    - [ ] b Was
+    - [ ] c Woraus
     - [ ] d Weil

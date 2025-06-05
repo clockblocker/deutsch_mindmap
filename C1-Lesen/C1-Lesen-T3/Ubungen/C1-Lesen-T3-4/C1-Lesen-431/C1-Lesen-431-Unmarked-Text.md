@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Lesen – aber wie?
 
 Neue Untersuchungen zeigen den feinen Unterschied zwischen dem analogen Lesen und dem Lesen am Bildschirm. Miteinbezogen wurden dabei auch folgende Fragen: Welche Vorgänge finden beim Lesen statt? `Beispiel 0` Werden wir beim Lesen leicht durch das beliebte Kommunikationsgerät abgelenkt?

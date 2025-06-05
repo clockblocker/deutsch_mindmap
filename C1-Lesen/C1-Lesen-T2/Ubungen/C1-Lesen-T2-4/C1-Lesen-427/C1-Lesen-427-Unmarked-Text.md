@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T2-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Robotersteuer
 
 Stichwort Industrie 4.0: In der deutschen Industrie sind Roboter fest etabliert, Computersysteme und künstliche Intelligenz kommen mittlerweile fast überall in der Arbeitswelt zum Einsatz. Die wirtschaftlichen und sozialen Konsequenzen der fortschreitenden Digitalisierung und Automatisierung von Arbeitsabläufen sind Gegenstand hitziger Debatten, denn Automatisierung und Robotik bedrohen nach Ansicht vieler Ökonomen menschliche Arbeitsplätze. In einer Studie der Universität Oxford wurde errechnet, dass in den kommenden Jahrzehnten gut die Hälfte aller Jobs von Maschinen erledigt werden könnte. Man mag das für realistisch oder übertrieben halten, aber es ist unbestritten, dass in der Arbeitswelt ein radikaler Wandel vonstattengeht.
@@ -27,36 +21,43 @@ Obwohl zurzeit eine Robotersteuer eher als Innovationsbremse betrachtet wird, ka
 ---
 
 9. Es wird kontrovers diskutiert, …
+
 - [ ] _a_ inwiefern Roboter in Fabriken genutzt werden sollten.
 - [ ] _b_ ob Wirtschaftsexperten in industrielle Arbeitsabläufe eingreifen sollten.
 - [ ] _c_ wie sich die Nutzung von Robotern auf Wirtschaft und Gesellschaft auswirken wird.
 
 10. Europäische Abgeordnete …
+
 - [ ] _a_ schlugen eine Besteuerung aller in einem Betrieb eingesetzten Maschinen vor.
 - [ ] _b_ wollen den Einsatz von automatisierten Systemen in Europa durch ein Regelwerk ordnen.
 - [ ] _c_ bezogen Inspiration aus dem Steuermodell des Gründers eines Technologieunternehmens.
 
 11. Welche Position wird von Kritikern der Robotersteuer vertreten?
+
 - [ ] _a_ Es sei historisch belegt, dass eine solche Steuer ineffektiv wäre.
 - [ ] _b_ Die Automatisierung an sich sei für die Industrie schon zu kostspielig.
 - [ ] _c_ Das Zusammenwirken von Mensch und Roboter erschwere die Festlegung von Robotersteuersätzen.
 
 12. Von Unternehmern wird die Robotersteuer infrage gestellt, …
+
 - [ ] _a_ weil die Automatisierung bereits zu höherer Produktivität und damit zu staatlichen Mehreinnahmen führe.
 - [ ] _b_ weil sie zusätzliche Ausgaben für Löhne und Gehälter bei gleichzeitiger Digitalisierung ablehnen.
 - [ ] _c_ weil eine Anhebung der Mehrwertsteuer dem Staat höhere Einnahmen bescheren würde.
 
 13. Was bedeutet die Automatisierung für den Sozialstaat?
+
 - [ ] _a_ Durch Verlust von Arbeitsplätzen gerät eventuell die Finanzierung der staatlichen Sozialversicherung in Gefahr.
 - [ ] _b_ Die erhöhte Produktivität durch Robotereinsatz kommt dem Sozialversicherungssystem nicht zugute.
 - [ ] _c_ Sozialbeiträge von Robotern zur Aufbesserung der Rentenkassen sind derzeit undenkbar.
 
 14. In Industrieländern mit stark ausgeprägter Automatisierung …
+
 - [ ] _a_ kann die Arbeitslosigkeit zeitweise sprunghaft ansteigen.
 - [ ] _b_ werden Arbeitskräfte zunehmend besser ausgebildet.
 - [ ] _c_ wird eine Robotersteuer zur Sicherung von Arbeitsplätzen bald unumgänglich sein.
 
 15. In Zukunft …
+
 - [ ] _a_ können intelligente Roboter in unserer Gesellschaft selbstständig die Führung übernehmen.
 - [ ] _b_ könnte eine Robotersteuer dafür sorgen, dass auch weniger Reiche trotz Automatisierung abgesichert sind.
 - [ ] _c_ müsste eine Robotersteuer einen Ausgleich für sinkende Unternehmensgewinne schaffen.

@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T1-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 - [[Lesen-Teil-1-Verb|Verb]]
 - [[Lesen-Teil-1-Adjektiv|Adjektiv]]
 - [[Lesen-Teil-1-Adverb|Adverb]]
@@ -12,4 +6,3 @@
 - [[Lesen-Teil-1-Nomen|Nomen]]
 - [[Lesen-Teil-1-Präposition|Präposition]]
 - [[Lesen-Teil-1-Pronomen|Pronomen]]
-

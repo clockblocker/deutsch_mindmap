@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T3-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Kein Dach überm Kopf
 
 In jeder Großstadt leben Obdachlose. `Beispiel 0` Aber wir blenden diese Schattenseite des Großstadtlebens lieber aus und schauen meist nicht hin.

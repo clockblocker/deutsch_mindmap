@@ -1,9 +1,3 @@
-[[0-C1-Lesen-T2-Ubung-List|Tiles]]
-[[Lesen-C1-Models|Models]]
-
----
----
-
 Kultiviertes Fleisch
 
 Ein Genuss ohne Reue soll es sein: ein Steak, für das kein Tier sterben musste, das klimafreundlich ist und ohne Massentierhaltung hergestellt wurde. Es besteht aus echten Muskel- und Fettzellen. Einem Rind wurden dafür Stammzellen entnommen, die sich dann mithilfe eines Bioreaktors in einer Nährlösung vermehrten. Anschließend wurden die Zellhaufen mit einem 3-D-Drucker in die Form eines Steaks gebracht. Auch Hähnchenfleisch, für das weder ein Ei gelegt noch ein Huhn geschlachtet werden musste, wurde bereits so entwickelt und auf Lebensmittelmessen als „Nuggets“ der Kundschaft zum Probieren gereicht.
@@ -25,36 +19,43 @@ Ob man wohl bald nicht mehr Milliarden Rinder, sondern nur ein paar hundert brau
 ---
 
 9. Wenn man Fleisch im Labor herstellt, …
+
 - [ ] _a_ kann das Tierwohl während des Verfahrens kaum berücksichtigt werden.
 - [ ] _b_ ist die Gestaltung der Zellmasse zu einem marktkonformen Produkt eine unüberwindliche Hürde.
 - [ ] _c_ werden dabei tierische Zellen in einem besonderen Medium vervielfältigt.
 
 10. Was motiviert Jungunternehmer, sich mit Fleischherstellung im Labor zu befassen?
+
 - [ ] _a_ Der abnehmende globale Konsum von konventionellen Fleischprodukten.
 - [ ] _b_ Die unzureichende Qualität veganer Ersatzprodukte.
 - [ ] _c_ Die zu erwartenden Absatzmöglichkeiten für klimafreundliche Produkte.
 
 11. Die heutige globale Fleischwirtschaft …
+
 - [ ] _a_ deckt den Bedarf der wachsenden Weltbevölkerung nicht.
 - [ ] _b_ ist für einen Großteil der Treibhausgasemissionen verantwortlich.
 - [ ] _c_ verursacht bei vielen umweltbewussten Bürgern moralische Bedenken.
 
 12. In Zukunft könnte Laborfleisch …
+
 - [ ] _a_ bei den Verbrauchern den Bedarf an Protein weiter erhöhen.
 - [ ] _b_ die Ausbeutung natürlicher Ressourcen in großem Maße verringern.
 - [ ] _c_ die Effizienz bei der Verarbeitung von Schlachttieren erheblich steigern.
 
 13. In der Gastronomie …
+
 - [ ] _a_ besteht Interesse an qualitativ hochwertigen Produkten.
 - [ ] _b_ wird derzeit viel in neue Arten von Fleischgerichten investiert.
 - [ ] _c_ wird prinzipiell von einer Kooperation mit den produzierenden Laboren abgesehen.
 
 14. Um das künstlich hergestellte Fleisch künftig erfolgreich verkaufen zu können, …
+
 - [ ] _a_ dürfen die Unternehmen auch den Online-Handel nicht vernachlässigen.
 - [ ] _b_ muss nicht nur die Vermarktung besonders nachhaltig angelegt sein.
 - [ ] _c_ sollen die Verbraucher durch die Darstellung zufriedener Landwirte überzeugt werden.
 
 15. Der Preis des Fleisches …
+
 - [ ] _a_ aus dem Bioreaktor ist als Kaufkriterium von geringerer Bedeutung für den Durchschnittsverbraucher als die Qualität.
 - [ ] _b_ getöteter Tiere könnte irgendwann einmal so hoch sein, dass sein Verkauf eingestellt wird.
 - [ ] _c_ aus dem Labor darf den des herkömmlichen nicht übersteigen, damit es in großen Mengen erworben wird.
