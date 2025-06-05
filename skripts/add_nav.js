@@ -33,6 +33,9 @@
 const fs = require("fs");
 const path = require("path");
 
+const level = "C1";
+const part = "Lesen"; // Lesen | Hoeren
+
 // 1) Regular expression to match exactly the three kinds of files we care about.
 const FILE_REGEX = /^C1-Lesen-(\d+)-(Text|Unmarked-Text|Loesung)\.md$/;
 
@@ -87,20 +90,20 @@ function buildNavBlock(id, prevId, nextId) {
   // "[[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]"
   const line1 =
     threeSpaces +
-    "[[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]";
+    `[[0-${level}-${part}-T${id[1]}-Ubung-List|Tiles]] | [[${part}-${level}-Models|Models]]`;
 
   // Central line: link to the three pages for this same ID
   const line2 =
     threeSpaces +
-    `[[C1-Lesen-${id}-Text|Text]]  | [[C1-Lesen-${id}-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-${id}-Loesung|Loesung]]`;
+    `[[${level}-${part}-${id}-Text|Text]]  | [[${level}-${part}-${id}-Unmarked-Text|Unmarked-Text]] | [[${level}-${part}-${id}-Loesung|Loesung]]`;
 
   // Separator
   const sep1 = "\n---\n";
 
-  // Prev / Next: if prevId is null, just a bare '←', else link "[[C1-Lesen-<prevId>-Text|←]]"
-  const prevLink = prevId ? `[[C1-Lesen-${prevId}-Text|←]]` : "←";
+  // Prev / Next: if prevId is null, just a bare '←', else link "[[${level}-${part}-<prevId>-Text|←]]"
+  const prevLink = prevId ? `[[${level}-${part}-${prevId}-Text|←]]` : "←";
   // Next: similarly
-  const nextLink = nextId ? `[[C1-Lesen-${nextId}-Text|→]]` : "→";
+  const nextLink = nextId ? `[[${level}-${part}-${nextId}-Text|→]]` : "→";
 
   // e.g. “[[...|←]]        [[...|→]]”
   const line3 = `${prevLink}${threeSpaces}${threeSpaces}${threeSpaces}${nextLink}`;
@@ -125,7 +128,7 @@ function prependNavToFile(filePath, navBlock) {
   // Allow user to pass a root directory as the first argument; default to current working dir.
   const rootDir = process.argv[2]
     ? path.resolve(process.argv[2])
-    : path.resolve(process.cwd(), "../C1-Lesen");
+    : path.resolve(process.cwd(), `../${level}-${part}`);
 
   console.log(`Scanning directory: ${rootDir}`);
 
@@ -153,18 +156,18 @@ function prependNavToFile(filePath, navBlock) {
 
     // 2) For each of the three variants, if it's missing, create it as an empty file:
     if (!trio.Text) {
-      trio.Text = path.join(baseDir, `C1-Lesen-${id}-Text.md`);
+      trio.Text = path.join(baseDir, `${level}-${part}-${id}-Text.md`);
       fs.writeFileSync(trio.Text, "", "utf8");
     }
     if (!trio["Unmarked-Text"]) {
       trio["Unmarked-Text"] = path.join(
         baseDir,
-        `C1-Lesen-${id}-Unmarked-Text.md`
+        `${level}-${part}-${id}-Unmarked-Text.md`
       );
       fs.writeFileSync(trio["Unmarked-Text"], "", "utf8");
     }
     if (!trio.Loesung) {
-      trio.Loesung = path.join(baseDir, `C1-Lesen-${id}-Loesung.md`);
+      trio.Loesung = path.join(baseDir, `${level}-${part}-${id}-Loesung.md`);
       fs.writeFileSync(trio.Loesung, "", "utf8");
     }
 
