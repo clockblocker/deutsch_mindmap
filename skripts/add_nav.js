@@ -95,7 +95,7 @@ function buildNavBlock(id, prevId, nextId) {
     `[[C1-Lesen-${id}-Text|Text]]  | [[C1-Lesen-${id}-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-${id}-Loesung|Loesung]]`;
 
   // Separator
-  const sep1 = "---";
+  const sep1 = "\n---\n";
 
   // Prev / Next: if prevId is null, just a bare '←', else link "[[C1-Lesen-<prevId>-Text|←]]"
   const prevLink = prevId ? `[[C1-Lesen-${prevId}-Text|←]]` : "←";
@@ -106,11 +106,11 @@ function buildNavBlock(id, prevId, nextId) {
   const line3 = `${prevLink}${threeSpaces}${threeSpaces}${threeSpaces}${nextLink}`;
 
   // Finally two more separators
-  const sep2 = `---
-  ---`;
+  const sep2 = `\n---
+---\n\n`;
 
   // Join them all with newlines and a trailing blank line
-  return [line1, line2, "", sep1, "", line3, "", sep2, "", ""].join("\n");
+  return [line1, line2, sep1, line3, sep2].join("\n");
 }
 
 // 6) For a given file, read its contents, prepend navBlock + "\n", then overwrite it.
@@ -139,14 +139,37 @@ function prependNavToFile(filePath, navBlock) {
   // Depending on your needs, you can also choose to process partially missing sets, but here we only
   // generate nav for IDs where all three are present.
   const completeIds = [];
+
   for (const [id, trio] of idMap.entries()) {
-    if (trio.Text && trio["Unmarked-Text"] && trio.Loesung) {
-      completeIds.push(id);
-    } else {
-      console.warn(
-        `Skipping ID ${id}: incomplete set (missing one of Text/Unmarked-Text/Loesung)`
-      );
+    // 1) Find one existing sibling path to determine the base directory:
+    const existingPaths = [
+      trio.Text,
+      trio["Unmarked-Text"],
+      trio.Loesung,
+    ].filter((p) => p !== null);
+    const baseDir = existingPaths.length
+      ? path.dirname(existingPaths[0])
+      : path.resolve(rootDir); // fallback if somehow none exist
+
+    // 2) For each of the three variants, if it's missing, create it as an empty file:
+    if (!trio.Text) {
+      trio.Text = path.join(baseDir, `C1-Lesen-${id}-Text.md`);
+      fs.writeFileSync(trio.Text, "", "utf8");
     }
+    if (!trio["Unmarked-Text"]) {
+      trio["Unmarked-Text"] = path.join(
+        baseDir,
+        `C1-Lesen-${id}-Unmarked-Text.md`
+      );
+      fs.writeFileSync(trio["Unmarked-Text"], "", "utf8");
+    }
+    if (!trio.Loesung) {
+      trio.Loesung = path.join(baseDir, `C1-Lesen-${id}-Loesung.md`);
+      fs.writeFileSync(trio.Loesung, "", "utf8");
+    }
+
+    // 3) Now that all three files exist (possibly just created), include this ID in the list:
+    completeIds.push(id);
   }
 
   // 3) Sort IDs numerically (they are strings, but they represent numbers)
