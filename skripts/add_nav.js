@@ -72,16 +72,17 @@ function groupById(allPaths) {
   return map;
 }
 
-// 4) Given a sorted array of IDs, return for each index i the “prev” and “next” ID or null if none.
-function buildPrevNextMap(sortedIds) {
-  const prevNext = {};
-  for (let i = 0; i < sortedIds.length; i++) {
-    const id = sortedIds[i];
-    const prevId = i > 0 ? sortedIds[i - 1] : null;
-    const nextId = i < sortedIds.length - 1 ? sortedIds[i + 1] : null;
-    prevNext[id] = { prev: prevId, next: nextId };
-  }
-  return prevNext;
+function getPrevNext(id) {
+  console.log(id);
+  const prevIdTest = `${new Number(id) - 10}`;
+  const prev = prevIdTest[1] > 0 ? prevIdTest : null;
+  console.log(prevIdTest);
+
+  const nextIdTest = `${new Number(id) + 10}`;
+  console.log(prevIdTest);
+
+  const next = nextIdTest[1] < 5 ? nextIdTest : null;
+  return { prev, next };
 }
 
 // 5) Given an ID, and its prev/next, generate the three-line nav header.
@@ -180,13 +181,10 @@ function prependNavToFile(filePath, navBlock) {
   // 3) Sort IDs numerically (they are strings, but they represent numbers)
   completeIds.sort((a, b) => Number(a) - Number(b));
 
-  // 4) Build prev/next lookup
-  const prevNext = buildPrevNextMap(completeIds);
-
   // 5) For each ID, generate nav block and prepend to each of the three files:
   let filesUpdated = 0;
   for (const id of completeIds) {
-    const { prev, next } = prevNext[id];
+    const { prev, next } = getPrevNext(id);
     const navBlock = buildNavBlock(id, prev, next);
 
     // Paths to the three markdown files:
