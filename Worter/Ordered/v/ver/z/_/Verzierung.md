@@ -1,1 +1,1 @@
-, [[schmücken]], [[Besatz]]
+, [[schmücken]], [[Besatz]], [[verzieren]]

@@ -5,6 +5,9 @@ die [[Fachmänner]]
 «Doch, doch - ich gehe studieren. Ich möchte als [[Fachmann]] für
 Elektronik arbeiten, weißt du.» [[13 Nebensätze#^6|(Quelle: 13 Nebensätze)]] 
 
+`j` Das Unternehmen kann aber nicht auf diese gut [[ausgebildeten]] [[Fachleute]] [[verzichten]]
+
+
 ---
 = [[Experte]], [[Spezialist]], [[Sachverständiger]]
 ≈ [[Kenner]], [[Profi]], [[Autorität]], [[Guru]]

@@ -1,1 +1,1 @@
-, [[beteiligen]], [[Beteiligung]]
+, [[beteiligen]], [[Beteiligung]], [[Dritte]]

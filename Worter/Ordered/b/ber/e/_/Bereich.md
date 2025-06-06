@@ -51,4 +51,4 @@ Einzigartige mögliche Formen: [[Bereichs]], [[Bereichen]]
 ---
 
 #Substantiv #Maskulin, [[Branche]], [[Nähe]], [[Fach]], [[Ebene]],  [[Hauptbereich]], [[Studienfach]], [[Abteilung]], [[Abschnitt]], [[Hinsicht]], [[Pausenraum]], [[Einkaufsbereich]], [[Umkreis]], [[Buchhaltungsbereich]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Reichweite]], [[Finanzbereich]], [[Wissenschaftszweig]], [[bereichern]], [[Referat]], [[Abteil]], [[Themenbereich]], [[Prüfungsteil]], [[Schwerpunkt]], [[Sanitärbereich]], [[Heizungsbereich]], [[Wirtschaftsbranche]]
-, [[Forschungsabteilung]], [[Funktionsraum]], [[Gegend]]
+, [[Forschungsabteilung]], [[Funktionsraum]], [[Gegend]], [[Berufssparte]], [[Hautteil]]

@@ -1,1 +1,1 @@
-, [[Briefgeheimnis]], [[Vertraulichkeit]], [[Sichtverhältnis]], [[transparent]]
+, [[Briefgeheimnis]], [[Vertraulichkeit]], [[Sichtverhältnis]], [[transparent]], [[Sichtbarkeit]]

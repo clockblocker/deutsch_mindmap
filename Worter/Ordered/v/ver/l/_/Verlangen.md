@@ -2,6 +2,8 @@
 die [[Verlangen]]
 
 ---
+`i` Beispielsweise kann von den Firmenangestellten [[verlangt]] werden, dass sie sich für ein Geschäftsessen mit Kunden adäquat kleiden
+
 *[[C1-Lesen-T4-100-Text#^6|^]]* Will der [[Kunstschaffende]] seine [[Ware]] verkaufen, [[ergibt]] sich automatisch die Frage, welchen Preis er oder sie für den Kunstgegenstand [[Verlangen]] kann
 
 *[[C1-Hoehen-T2-101-Text#^22|^]]* Ihr [[Verlangen]] nach ihr [[abnehmen|nimmt]] also [[tendenziell]] ab

@@ -26,4 +26,4 @@ A: die [[Justiz]], -
 G: der [[Justiz]], -
 D: der [[Justiz]], -
 
-#Feminin 
+#Feminin , [[Justizvollzugsbeamte]]

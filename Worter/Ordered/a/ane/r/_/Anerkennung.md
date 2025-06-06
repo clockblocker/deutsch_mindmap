@@ -37,4 +37,4 @@ G: der [[Anerkennung]], der [[Anerkennungen]]
 D: der [[Anerkennung]], den [[Anerkennungen]]
 
 #Feminin 
-, [[Akzeptanz]]
+, [[Akzeptanz]], [[Abmahnung]]

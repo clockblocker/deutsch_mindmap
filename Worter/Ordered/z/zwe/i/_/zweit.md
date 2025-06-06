@@ -1,5 +1,5 @@
 🟠 [[zweit]], [tsvait]
-nicht [[erst]], [[dritte]]
+nicht [[erst]], [[Dritte]]
 
 ---
 Sie kommen und sie gehen  

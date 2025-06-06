@@ -1,1 +1,1 @@
-, [[Gerechtberechtigung]], [[Berechtigung]], [[Recht]], [[Recht]]
+, [[Gerechtberechtigung]], [[Berechtigung]], [[Recht]], [[Recht]], [[Weisungsrecht]], [[Weisungsbefugnis]]

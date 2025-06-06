@@ -30,4 +30,4 @@
 Adjektive: [[sichtbar]], [[sichtbarer]], [[sichtbarst]]
 
 ---
-[[sichtbarer]], [[sichtbares]], [[sichtbare]], [[sichtbaren]], [[sichtbarem]], [[sichtbarerer]], [[sichtbareres]], [[sichtbarere]], [[sichtbareren]], [[sichtbarerem]], [[sichtbarster]], [[sichtbarstes]], [[sichtbarste]], [[sichtbarsten]], [[sichtbarstem]], [[ersichtlich]]
+[[sichtbarer]], [[sichtbares]], [[sichtbare]], [[sichtbaren]], [[sichtbarem]], [[sichtbarerer]], [[sichtbareres]], [[sichtbarere]], [[sichtbareren]], [[sichtbarerem]], [[sichtbarster]], [[sichtbarstes]], [[sichtbarste]], [[sichtbarsten]], [[sichtbarstem]], [[ersichtlich]], [[Sichtbarkeit]]

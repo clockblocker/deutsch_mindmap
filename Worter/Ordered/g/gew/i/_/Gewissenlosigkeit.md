@@ -1,1 +1,1 @@
-, [[Verantwortungsbewusstsein]]
+, [[Verantwortungsbewusstsein]], [[Gewissen]]

@@ -1,1 +1,1 @@
-, [[Beamte]]
+, [[Beamte]], [[Staatsdiener]]

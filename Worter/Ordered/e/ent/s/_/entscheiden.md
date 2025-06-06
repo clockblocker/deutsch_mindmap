@@ -1,7 +1,7 @@
 🤔 [[entscheiden]], [ɛntˈʃaɪ̯dən]
 
 ---
-*[[C1-Lesen-412-Text#^7|^]]* Oder [[entscheiden]] wir uns [[provozierend]] `gegen` den herrschenden Dresscode und geben uns [[unangepasst]]
+*[[C1-Lesen-412-Text#^3|^]]* Oder [[entscheiden]] wir `uns` provozierend `8 gegen` den herrschenden Dresscode und geben uns [[unangepasst]]
 
 *[[bro-schrieben-c1-t1-003#^9|^]]* Ein anderer [[Bekannte]]r hat sich für den Consulting-Bereich [[entschieden]] und ist gerade als [[Berater]] bei einem [[Consulting]]-Unternehmen [[angestellt]]
 

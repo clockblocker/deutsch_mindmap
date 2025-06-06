@@ -1,1 +1,1 @@
-, [[prestigeträchtig]]
+, [[prestigeträchtig]], [[abträglich]]

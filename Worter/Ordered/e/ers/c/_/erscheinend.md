@@ -1,1 +1,1 @@
-, [[erscheinen]], [[Erscheinung]]
+, [[erscheinen]], [[Erscheinung]], [[Erscheinungsbild]]

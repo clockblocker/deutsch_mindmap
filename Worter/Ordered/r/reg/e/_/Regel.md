@@ -39,4 +39,4 @@ Einzigartige mögliche Formen: [[Worter/Ordered/r/reg/e/_/Regel]], [[Regeln]], [
 ---
 #Substantiv #Feminin 
 
- [[zufrieren]], [[Ordnung]], [[Richtlinie]], [[einhalten]], [[verbot]], [[Regelung]], [[Ausnahmeregelung]], [[Ausnahme]], [[Einzelfallregelung]], [[geregelt]], [[Regulierung]]
+ [[zufrieren]], [[Ordnung]], [[Richtlinie]], [[einhalten]], [[verbot]], [[Regelung]], [[Ausnahmeregelung]], [[Ausnahme]], [[Einzelfallregelung]], [[geregelt]], [[Regulierung]], [[Kleidervorschrift]], [[Kleidungsvorschrift]]

@@ -59,4 +59,4 @@ sie, [[entziehen]], [[entzogen]], [[entziehen]], [[entzögen]], [[entziehen]]
 Adjektive: [[entziehend]], [[entziehender]], [[entziehendst]]
 
 ---
-[[entziehender]], [[entziehendes]], [[entziehende]], [[entziehenden]], [[entziehendem]], [[entziehenderer]], [[entziehenderes]], [[entziehendere]], [[entziehenderen]], [[entziehenderem]], [[entziehendster]], [[entziehendstes]], [[entziehendste]], [[entziehendsten]], [[entziehendstem]], [[bereichern]], [[anvertrauen]]
+[[entziehender]], [[entziehendes]], [[entziehende]], [[entziehenden]], [[entziehendem]], [[entziehenderer]], [[entziehenderes]], [[entziehendere]], [[entziehenderen]], [[entziehenderem]], [[entziehendster]], [[entziehendstes]], [[entziehendste]], [[entziehendsten]], [[entziehendstem]], [[bereichern]], [[anvertrauen]], [[verdanken]]

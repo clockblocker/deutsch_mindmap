@@ -1,1 +1,1 @@
-, [[wachsen]], [[Nachwuchs]]
+, [[wachsen]], [[Nachwuchs]], [[Bartwuchs]]

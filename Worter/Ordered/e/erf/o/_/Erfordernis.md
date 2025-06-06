@@ -33,4 +33,4 @@ A: das [[Erfordernis]], die [[Erfordernisse]]
 G: des [[Erfordernisses]], der [[Erfordernisse]]
 D: dem [[Erfordernis]], den [[Erfordernissen]]
 
-#Neuter , [[Handlungsbedarf]]
+#Neuter , [[Handlungsbedarf]], [[Mindestvoraussetzung]]

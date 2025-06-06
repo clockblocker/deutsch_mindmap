@@ -1,2 +1,2 @@
 , [[tätig]], [[lebhaft]], [[vollziehenden]]
-, [[motorische]], [[Akteur]], [[unbeteiligt]], [[tatenlos]]
+, [[motorische]], [[Akteur]], [[unbeteiligt]], [[tatenlos]], [[widerspruchslos]]

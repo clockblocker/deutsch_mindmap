@@ -1,1 +1,1 @@
-, [[Schädliches]]
+, [[Schädliches]], [[abträglich]]

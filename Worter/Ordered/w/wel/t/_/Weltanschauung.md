@@ -32,4 +32,4 @@ G: der [[Weltanschauung]], der [[Weltanschauungen]]
 D: der [[Weltanschauung]], den [[Weltanschauungen]]
 
 
-#Feminin 
+#Feminin , [[Lebenseinstellung]]

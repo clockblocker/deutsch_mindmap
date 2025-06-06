@@ -1,1 +1,1 @@
-, [[Zwang]], [[Freiwilligkeit]]
+, [[Zwang]], [[Freiwilligkeit]], [[Kleidervorschrift]], [[Kleidungsvorschrift]]

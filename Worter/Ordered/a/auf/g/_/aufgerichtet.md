@@ -1,1 +1,1 @@
-, [[herabgezogen]], [[aufstehen]]
+, [[herabgezogen]], [[aufstehen]], [[aufrichtig]]

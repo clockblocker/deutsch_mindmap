@@ -33,3 +33,4 @@ Morpheme: [[dank]], [[en]]
 
 Partizip I: [[dankend]], Partizip II: [[gedankt]]
 , [[Erntedankfest]], [[dankbar]], [[Dankbarkeit]], [[dankenswerterweise]]
+, [[verdanken]]

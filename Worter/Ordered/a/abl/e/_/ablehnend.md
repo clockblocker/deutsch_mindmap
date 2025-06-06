@@ -1,2 +1,2 @@
 , [[ablehnen]]
-, [[einverstanden]], [[missbilligend]], [[affirmierend]]
+, [[einverstanden]], [[missbilligend]], [[affirmierend]], [[widerspruchslos]]

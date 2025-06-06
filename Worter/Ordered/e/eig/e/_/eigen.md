@@ -1,2 +1,2 @@
 , [[eigene]], [[einigen]]
-, [[Eigenlob]], [[Eigenschaft]], [[betriebseigen]], [[persönlich]], [[eigenständig]], [[Eigenart]], [[aneignen]], [[individuell]]
+, [[Eigenlob]], [[Eigenschaft]], [[betriebseigen]], [[persönlich]], [[eigenständig]], [[Eigenart]], [[aneignen]], [[individuell]], [[Eigenleben]]

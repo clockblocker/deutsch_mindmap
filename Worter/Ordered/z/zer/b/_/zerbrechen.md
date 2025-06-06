@@ -43,3 +43,4 @@ Zu+infinifive: [[zerbrechen]]
 [[aufbauen]], [[machen]], [[brechen]], [[zerplatzen]], [[krachen]], [[einschlagen]], [[auflösen]]
 
 💥 [[zerbrechen]], [[aufbrechen]]
+, [[Kopfzerbrechen]]

@@ -5,6 +5,8 @@ die [[Entscheidungen]]
 
 Ich habe eine [[Entscheidung]] [[getroffen]]: Diesen Monat konzentriere ich mich nur auf Kamanova.
 
+*[[C1-Lesen-432-Text#^18|^]]* Auch was die [[Rasur]] [[anbetrifft]], gibt es eine [[eindeutig]]e [[Entscheidung]]: Das tägliche [[Rasieren]] des [[Bartwuchses]] fällt unter die Körperhygiene, die vom Arbeitgeber [[vorausgesetzt]] werden kann
+
 _[[C1-Hoehen-T3-301-Text#^12|^]]_ Frau Ebner-Perotti [[aussprechen|spricht]] sich gegen die [[Entscheidung]]en aus der Politik aus
 
 _[[C1-Hoehen-T2-101-Text#^15|^]]_ So kann eine individuelle [[Entscheidung]] [[Auswirkung]]en auf die systemische [[Ebene]] haben und [[umgekehrt]]

@@ -1,1 +1,1 @@
-, [[schlicht]]
+, [[schlicht]], [[verzieren]]

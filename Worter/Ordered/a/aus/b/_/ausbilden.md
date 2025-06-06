@@ -3,6 +3,7 @@
 haben [[ausgebildet]]
 
 ---
+`j` Das Unternehmen kann aber nicht auf diese gut [[ausgebildeten]] [[Fachleute]] [[verzichten]]
 
 _[[C1-Lesen-T1-001-Text#^36|^]]_ Neben Corona werden auch Prostatakrebs und bakterielle Infektionen in [[Verwahrten]] [[zuverlässig]] von [[damit]] [[ausgebildeten]] Hunden erschnüffelt – Malariaparasiten sogar vor [[Ausbruch]] der Krankheit
 

@@ -25,4 +25,4 @@ D: der [[Richtlinie]], den [[Richtlinien]]
 ---
 [[richten]], [[richtungsweisend]], [[richtlinienkonform]], [[Richtungslinie]], [[richtungsgebend]]
 
-#Feminin 
+#Feminin , [[Weisung]]

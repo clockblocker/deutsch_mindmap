@@ -36,4 +36,4 @@ Einzigartige mögliche Formen:
 
 [[abgepackt]], [[streng]], [[trocken]], [[leicht]], [[entspannt]]
 
-, [[lässig]], [[freizügig]]
+, [[lässig]], [[freizügig]], [[lockern]], [[Lockerung]]

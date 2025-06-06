@@ -14,4 +14,4 @@ Part
 
 #Substantiv #Maskulin  
 , [[Nachteil]]
-, [[Forumsteilnehmer]]
+, [[Forumsteilnehmer]], [[Hautteil]]

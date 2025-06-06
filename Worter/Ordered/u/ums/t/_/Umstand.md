@@ -7,6 +7,8 @@ die [[Umstände]]
 ---
 Vom Juni 1948 bis zum Mai 1949 wurden die Bürger und Bürgerinnen von West-Berlin durch eine Luftbrücke [[versorgt]]. Welcher [[Umstand]] war dafür verantwortlich? 
 
+*[[C1-Lesen-432-Text#^15|^]]* So darf die Art der [[Unterwäsche]] unter [[Umständen]] [[vorgeschrieben]] werden
+
 *[[C1-Hoehen-T1-102-Text#^16|^]]* Diesen [[Umstand]] möchte er nun mit diesem Buch korrigieren und erklärt uns in einfacher Sprache das [[Einmaleins]] der persönlichen Möglichkeiten zum Thema Finanzen
 
 *[[C1-Lesen-T4-102-Text#^24|^]]* Und nicht zuletzt: Sollte das Partnerunternehmen schlechte [[Leistung]]en [[erbringen]], so [[zurückfällt|fällt]] das unter [[Umständen]] auf die [[auftraggebende]] Firma zurück. 

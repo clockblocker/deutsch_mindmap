@@ -32,3 +32,4 @@ P: [[mindesten]], [[mindestere]], [[mindessten]]
 [[Mindestlohn]], [[mindestens]], [[Mindestanforderung]], [[Mindestmaß]], [[Minimierung]]
 
 , [[zumindest]], [[mindestens]], [[Mindestalter]], [[Mindestanteil]]
+, [[Mindestvoraussetzung]]

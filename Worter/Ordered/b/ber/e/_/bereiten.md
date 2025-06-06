@@ -2,6 +2,7 @@
 🍽️ [[bereiten]], [bəˈraɪ̯tən] | [[bereitete]], haben [[bereitet]]
 
 ---
+`0` Die [[Qual]] der Kleiderwahl kann einem schon [[Kopfzerbrechen]] [[bereiten]]
 
 _[[06-C1-Schreiben-T2-M#^3|^]]_ Es gibt keine Restaurants oder Supermärkte in der [[Nähe]] und in der [[Teeküche]] kann man sich auch kein Essen [[zubereiten]]. ^3
 

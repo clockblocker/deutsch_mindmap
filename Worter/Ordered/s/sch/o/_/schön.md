@@ -29,4 +29,4 @@ Einzigartige mögliche Formen:
 [[schön]], [[schöner]], [[schöne]], [[schönes]], [[schönen]], [[schönem]], [[schöner]], [[schönen]]
 [[schöner]], [[schönerer]], [[schönere]], [[schöneres]], [[schöneren]], [[schönerem]], [[schönerer]], [[schöneren]]
 [[schönsten]], [[schönster]], [[schönste]], [[schönstes]], [[schönsten]], [[schönstem]], [[schönster]], [[schönsten]]
-, [[Schönheit]], [[schrecklich]], [[s1 e1]], [[schonen]], [[angenehm]], [[lebenswert]]
+, [[Schönheit]], [[schrecklich]], [[s1 e1]], [[schonen]], [[angenehm]], [[lebenswert]], [[unansehnlich]]

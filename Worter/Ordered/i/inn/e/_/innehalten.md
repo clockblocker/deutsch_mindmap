@@ -1,1 +1,1 @@
-, [[zulaufen]], [[durchatmen]], [[vorstürmen]]
+, [[zulaufen]], [[durchatmen]], [[vorstürmen]], [[haltmachen]]

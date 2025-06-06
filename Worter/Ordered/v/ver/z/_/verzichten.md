@@ -4,6 +4,8 @@
 ---
 Bei einer deutschen [[Redensart]] muss man aber noch auf viel mehr [[verzichten]].
 
+`j` Das Unternehmen kann aber nicht auf diese gut [[ausgebildeten]] [[Fachleute]] [[verzichten]]
+
  Sie [[verzichtet]] [[zugunsten]]  ihres Kindes auf den Kinobesuch.
 
 Aber das sind auch alles Dinge, die ihn glücklich machen. Und auf die soll er in [[Zukunft]] verzichten?

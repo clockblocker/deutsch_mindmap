@@ -5,6 +5,8 @@
 ---
 Hast du nicht eine [[gewisse]] Sache vergessen?
 
+*[[C1-Lesen-432-Text#^9|^]]* Gemeint ist damit, dass dem Arbeitgeber erlaubt ist, unter [[Gewissen]] Bedingungen ein angemessenes [[Erscheinungsbild]] [[vorzuschreiben]]
+
 *[[C1-Lesen-T4-103-Text#^20|^]]* [[Gewiss]]e äußere [[Einflussfaktor]]en führen [[womöglich]] dazu, dass sich das [[Beiseiteleg]]en von Geld nicht mehr [[derart]] [[lohnt]] wie noch vor einigen Jahren. ^20
 
 
@@ -12,7 +14,7 @@ Hast du nicht eine [[gewisse]] Sache vergessen?
 
 29 Es existiert ein [[gewisses]] Risiko aufgrund der [[Preisgabe]] von [[Betriebsgeheimnissen]].  
 
-*[[3 Soll man Geld spenden?#^8|^]]* Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[gewissen]] [[Mehrwert]] zu [[bieten]]. ^8
+*[[3 Soll man Geld spenden?#^8|^]]* Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[Gewissen]] [[Mehrwert]] zu [[bieten]]. ^8
 
 
 ---
@@ -28,12 +30,12 @@ certainly, surely, definitely
 
 ---
 N: [[gewiss]], [[gewisser]], [[gewisster]]  
-A: [[gewissen]], [[gewisseren]], [[gewissesten]]  
+A: [[Gewissen]], [[gewisseren]], [[gewissesten]]  
 G: [[gewisser]], [[gewisserer]], [[gewissester]]  
 D: [[gewissem]], [[gewisserem]], [[gewissestem]]  
 F: [[gewisse]], [[gewissere]], [[gewisste]]  
 N: [[gewisses]], [[gewisseres]], [[gewissestes]]  
-P: [[gewissen]], [[gewisseren]], [[gewissesten]]  
+P: [[Gewissen]], [[gewisseren]], [[gewissesten]]  
 
 ---
 [[Gewissheit]], [[gewissenhaft]], [[ungewiss]], [[gewisslich]]

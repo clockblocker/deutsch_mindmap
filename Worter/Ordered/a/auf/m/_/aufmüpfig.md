@@ -1,2 +1,2 @@
 
-, [[rebellisch]]
+, [[rebellisch]], [[widerspruchslos]]

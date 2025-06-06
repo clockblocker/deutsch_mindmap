@@ -1,1 +1,1 @@
-, [[Verantwortungsbewusstsein]], [[Anstand]], [[ethisch]], [[Moralvorstellung]]
+, [[Verantwortungsbewusstsein]], [[Anstand]], [[ethisch]], [[Moralvorstellung]], [[Gewissen]]

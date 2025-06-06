@@ -57,4 +57,4 @@ Morpheme: [[aus]], [[seh]], [[en]]
 Partizip I: [[aussehend]], Partizip II: [[ausgesehen]]
 
 [[aussehen]] - [[aus]] = [[sehen]], [[Extra 8]]
-, [[Erscheinung]]
+, [[Erscheinung]], [[Erscheinungsbild]]

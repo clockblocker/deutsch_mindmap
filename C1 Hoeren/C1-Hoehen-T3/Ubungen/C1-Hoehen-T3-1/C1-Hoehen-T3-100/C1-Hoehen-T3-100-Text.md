@@ -61,10 +61,8 @@ Urlaubsorte, die heute unter dem Massentourismus leiden, Venedig, Mallorca, Barc
 
 Aber irgendwann kann es dann zu Konflikten zwischen Touristen und Einheimischen kommen. Spätestens dann müssen Maßnahmen ergriffen werden, nicht nur um die Touristenzahl zu beschränken, sondern die einheimische Bevölkerung zu schützen.
 
-🟠
 Woran denken Sie da konkret?
 
-🔵
 Zum Beispiel an Maßnahmen gegen die Zweckentfremdung von Wohnraum. Immer mehr Privatwohnungen werden an Touristen vermietet. Dadurch wird Wohnraum für die einheimische Bevölkerung noch knapper und teurer.
 
 🟣

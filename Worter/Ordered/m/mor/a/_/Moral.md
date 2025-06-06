@@ -1,1 +1,1 @@
-, [[Verantwortungsbewusstsein]], [[Tugend]], [[Integrität]], [[Anstand]], [[Moralvorstellung]]
+, [[Verantwortungsbewusstsein]], [[Tugend]], [[Integrität]], [[Anstand]], [[Moralvorstellung]], [[Gewissen]]

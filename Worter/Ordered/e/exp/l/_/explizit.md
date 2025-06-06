@@ -25,4 +25,4 @@ explicit
 Adjektive: [[explizit]], [[expliziter]], [[explizitest]]
 
 ---
-[[expliziter]], [[explizites]], [[explizite]], [[expliziten]], [[explizitem]], [[expliziterer]], [[expliziteres]], [[explizitere]], [[expliziteren]], [[expliziterem]], [[explizitester]], [[explizitestes]], [[expliziteste]], [[explizitesten]], [[explizitestem]]
+[[expliziter]], [[explizites]], [[explizite]], [[expliziten]], [[explizitem]], [[expliziterer]], [[expliziteres]], [[explizitere]], [[expliziteren]], [[expliziterem]], [[explizitester]], [[explizitestes]], [[expliziteste]], [[explizitesten]], [[explizitestem]], [[ungeschrieben]]

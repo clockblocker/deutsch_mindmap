@@ -1,1 +1,1 @@
-, [[Fachmann]], [[Führungskraft]], [[Durchsetzungsvermögen]], [[Einfluss]]
+, [[Fachmann]], [[Führungskraft]], [[Durchsetzungsvermögen]], [[Einfluss]], [[Weisungsrecht]], [[Weisungsbefugnis]]

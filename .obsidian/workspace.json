@@ -4,804 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "88711c82b57f46e0",
+        "id": "56cbfae04713d0ee",
         "type": "tabs",
-        "dimension": 67.68189509306261,
+        "dimension": 70.44458359423919,
         "children": [
           {
-            "id": "1d4aa113f28d366f",
+            "id": "03b8657dd9bbdb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1-Lesen/Lesen-C1-Models.md",
+                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-407/C1-Hoehen-T1-407-Loesung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesen-C1-Models"
-            }
-          },
-          {
-            "id": "26ba77ba0ab94368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-412-Text"
-            }
-          },
-          {
-            "id": "f27a5f04820048c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "4d105d885ce4d853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-412-Text"
-            }
-          },
-          {
-            "id": "8ccf9f4b861957db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "59c8020966377566",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "07f9bd851143ff1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "543cb8e98ca10cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "c7fd3ea6ab01f977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "626ed0b0d0f7e3a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-442-Text"
-            }
-          },
-          {
-            "id": "a11ab823fbef0d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "74fdc68b7c384146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "4383d204e42cc29e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "5582c6267dc6bdf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-442-Text"
-            }
-          },
-          {
-            "id": "42ab6867f45ec5f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-442-Text"
-            }
-          },
-          {
-            "id": "56cbb2b98feb3b37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "00b2ed4fc7e1280b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "9a5bc6e5f27ea4d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "bc05c5033d6b0ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-412-Text"
-            }
-          },
-          {
-            "id": "eec3fe070adaf3b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "a141a13fed395f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "a30062ac7276caf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "4edfb0e3917cb31d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-442-Text"
-            }
-          },
-          {
-            "id": "01bc1eea319fc401",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "0159c0369db55262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-412-Text"
-            }
-          },
-          {
-            "id": "57cbf4529ec02b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/Lesen-C1-Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesen-C1-Models"
-            }
-          },
-          {
-            "id": "33fcc7f93ab228dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-412-Text"
-            }
-          },
-          {
-            "id": "50da909bb084d579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "fae5cc6ecf370797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "c614e58ce1fa7b62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-442-Text"
-            }
-          },
-          {
-            "id": "eb31ac71c8fdb589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "ca5f3ecd639d95b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-442-Text"
-            }
-          },
-          {
-            "id": "06fe018e4ca07f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "19323f3867597555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "1596856904b75a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-412-Text"
-            }
-          },
-          {
-            "id": "3014dcd4a8d399b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "3d5b0d0435e60b9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
-            }
-          },
-          {
-            "id": "7ec77936a43eccf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "09fdbc06076770b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-412-Text"
-            }
-          },
-          {
-            "id": "4ed62591e4e1732a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/Lesen-C1-Models.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesen-C1-Models"
-            }
-          },
-          {
-            "id": "89f5eb03c42cd559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-411/C1-Lesen-411-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-411-Text"
-            }
-          },
-          {
-            "id": "78d02f84a35eebf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-421/C1-Lesen-421-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-421-Text"
-            }
-          },
-          {
-            "id": "a691b66d8f12ea61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-431/C1-Lesen-431-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-431-Text"
-            }
-          },
-          {
-            "id": "b964012901080429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-421/C1-Lesen-421-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-421-Text"
-            }
-          },
-          {
-            "id": "236fa1b203d4bcea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-411/C1-Lesen-411-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-411-Text"
-            }
-          },
-          {
-            "id": "3b7a9f1fe8bd9187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-421/C1-Lesen-421-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-421-Text"
-            }
-          },
-          {
-            "id": "34924f50a8135726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-431/C1-Lesen-431-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-431-Text"
-            }
-          },
-          {
-            "id": "19f3e61cb7c80679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-401/C1-Lesen-441-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-441-Text"
-            }
-          },
-          {
-            "id": "4d73915d96d2d512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-431/C1-Lesen-431-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-431-Text"
-            }
-          },
-          {
-            "id": "838eeb7d1dfcb950",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-421/C1-Lesen-421-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-421-Text"
-            }
-          },
-          {
-            "id": "2f84fade41d24d86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-421/C1-Lesen-421-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-421-Text"
-            }
-          },
-          {
-            "id": "9bf8b34fd2ab2920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-431/C1-Lesen-431-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-431-Text"
-            }
-          },
-          {
-            "id": "90c6512a0ec14a63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-401/C1-Lesen-441-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-441-Text"
+              "title": "C1-Hoehen-T1-407-Loesung"
             }
           }
-        ],
-        "currentTab": 52
+        ]
       },
       {
-        "id": "a520ea5976c4b2f6",
+        "id": "3ddf610acbdccaec",
         "type": "tabs",
-        "dimension": 32.31810490693739,
+        "dimension": 29.555416405760802,
         "children": [
           {
-            "id": "3dfc36c5b39743cc",
+            "id": "59b4ee8f25e702fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
+                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-201/C1-Hoehen-T1-201-Unmarked-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-412-Text"
+              "title": "C1-Hoehen-T1-201-Unmarked-Text"
             }
           },
           {
-            "id": "8ab57a69c150de91",
+            "id": "4eefe3867d13df51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
+                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "ddc9c62cfcbcb4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Unmarked-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Unmarked-Text"
+              "title": "C1-Lesen-432-Text"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -858,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.50271224975586
+    "width": 469.5
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -952,53 +208,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90c6512a0ec14a63",
+  "active": "77e27b049107f114",
   "lastOpenFiles": [
-    "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-431/C1-Lesen-431-Text.md",
-    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-421/C1-Lesen-421-Text.md",
-    "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-411/C1-Lesen-411-Text.md",
-    "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-401/C1-Lesen-441-Text.md",
-    "C1-Lesen/Lesen-C1-Models.md",
-    "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Text.md",
-    "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-411/C1-Lesen-411-Loesung.md",
-    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-    "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-    "Worter/C1-Lesen-null-Text.md",
-    "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Text.md",
-    "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-413/C1-Lesen-413-Text.md",
-    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-426/C1-Lesen-426-Text.md",
-    "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Loesung.md",
-    "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Text.md",
-    "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Unmarked-Text.md",
-    "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-3/C1-Lesen-T4-301/C1-Lesen-T4-301-Loesung.md",
-    "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-434/C1-Lesen-434-Unmarked-Text.md",
-    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Unmarked-Text.md",
-    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Loesung.md",
-    "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Loesung.md",
-    "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Unmarked-Text.md",
-    "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Unmarked-Text.md",
-    "C1-Lesen/C1-Lesen-T4/Ubungen/C1-Lesen-T4-4/C1-Lesen-T4-402/C1-Lesen-442-Loesung.md",
-    "C1-Lesen/C1-Lesen-T1/Ubungen/C1-Lesen-T1-4/C1-Lesen-T1-412/C1-Lesen-412-Unmarked-Text.md",
-    "Worter/Ordered/a/ans/t/_/ansteuern.md",
-    "Worter/Ordered/r/ret/r",
-    "Worter/Ordered/u/umw/u",
-    "Worter/Ordered/u/umw/o",
-    "Worter/Ordered/b/bay/e",
-    "Worter/Ordered/b/bay",
-    "Worter/Ordered/s/syl/t",
-    "Worter/Ordered/s/syl",
-    "Worter/Ordered/4/4__/_",
-    "Worter/Ordered/4/4__",
-    "Worter/Ordered/z/zur/k",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-409/C1-Hoehen-T1-409-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-409/C1-Hoehen-T1-409-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-408/C1-Hoehen-T1-408-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-408/C1-Hoehen-T1-408-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-407/C1-Hoehen-T1-407-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-407/C1-Hoehen-T1-407-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-406/C1-Hoehen-T1-406-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-406/C1-Hoehen-T1-406-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-405/C1-Hoehen-T1-405-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-405/C1-Hoehen-T1-405-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-404/C1-Hoehen-T1-404-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-404/C1-Hoehen-T1-404-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-403/C1-Hoehen-T1-403-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-403/C1-Hoehen-T1-403-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-402/C1-Hoehen-T1-402-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-402/C1-Hoehen-T1-402-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Text.md",
+    "Anhänge/37_Modelltest 10_Teil_1.mp3",
+    "Anhänge/33_Modelltest 9_Teil_1.mp3",
+    "Anhänge/29_Modelltest 8_Teil_1.mp3",
+    "Anhänge/25_Modelltest 7_Teil_1.mp3",
+    "Anhänge/21_Modelltest 6_Teil_1.mp3",
+    "Anhänge/17_Modelltest 5_Teil_1.mp3",
+    "Anhänge/13_Modelltest 4_Teil_1.mp3",
+    "Anhänge/09_Modelltest 3_Teil_1.mp3",
+    "Anhänge/05_Modelltest 2_Teil_1 1.mp3",
+    "Anhänge/05_Modelltest 2_Teil_1.mp3",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-201/C1-Hoehen-T1-201-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-408/C1-Hoehen-T1-408-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-409/C1-Hoehen-T1-409-Loesung.md",
+    "Anhänge/Pasted image 20250606043334.png",
+    "C1 Hoeren/C1-Hoehen-T1/0-C1-Hoehen-T1-Ubung-List.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-403/C1-Hoehen-T1-403-Loesung.md",
+    "Anhänge/Pasted image 20250606032304.png",
+    "Anhänge/Pasted image 20250606032244.png",
+    "Anhänge/Pasted image 20250605095030.png",
+    "Anhänge/Pasted image 20250605093442.png",
     "Anhänge/Pasted image 20250603085149.png",
     "Anhänge/Pasted image 20250603085115.png",
     "Anhänge/Pasted image 20250603084654.png",
     "Anhänge/Pasted image 20250528071457.png",
-    "Anhänge/Pasted image 20250528065432.png",
-    "Anhänge/Pasted image 20250528055347.png",
-    "Anhänge/Pasted image 20250528052930.png",
-    "Anhänge/Pasted image 20250528050245.png",
-    "Anhänge/Pasted image 20250528044458.png",
-    "Anhänge/Pasted image 20250527075828.png"
+    "Anhänge/Pasted image 20250528065432.png"
   ]
 }

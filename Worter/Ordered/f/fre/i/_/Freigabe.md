@@ -25,3 +25,4 @@ Morphems:
 ---
 
 #Substantiv #Feminin, [[Freigabeprobleme]], [[Zulassungsgrenze]], [[verbot]], [[Autoverbot]], [[Entwarnung]], [[Bildrecht]], [[freigeben]], [[Einschränkung]], [[Regulierung]]
+, [[Lockerung]]

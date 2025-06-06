@@ -26,7 +26,7 @@ Die frage "Soll man Geld spenden?" ist, wie jede andere Frage nach dem `Soll | P
 
 *[[3 Soll man Geld spenden?#^7|^]]* Ob es sich nun um eine Gruppe von [[Liebhabern]] eines bestimmten [[Brettspiels]] oder eine `gemeinnützige | ehrenamtlich` Organisation [[handelt]], die sich für die [[Unterstützung]] von Menschen mit einer bestimmten Krankheit [[einsetzt]]. ^7
 
-*[[3 Soll man Geld spenden?#^8|^]]* Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[gewissen]] [[Mehrwert]] zu bieten. ^8
+*[[3 Soll man Geld spenden?#^8|^]]* Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[Gewissen]] [[Mehrwert]] zu bieten. ^8
 
 *[[3 Soll man Geld spenden?#^9|^]]* Ob es sich um die Teilnahme an geschlossenen Chats für Spender der Organisation, die Aufnahme des Namens des Spenders in die Liste der Personen im [[Abspann]], oder den direkten [[Zugang]] zu den Teilnehmern der Organisation, bekommt man immer etwas für seine [[Beiträge]]. ^9
 

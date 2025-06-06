@@ -1,8 +1,9 @@
 ⚖️ [[auferlegen]], [ˈaʊ̯fɐˌleːɡn̩] | [[erlegte auf]], haben [[aufgelegt]]
 
 ---
+*[[C1-Lesen-432-Text#^20|^]]* Tattoo tragenden [[Justizvollzugsbeamt]]en darf zum Beispiel [[auferlegt]] werden, [[verzierte]] [[Hautteile]] während der Arbeit durch ihre Uniform [[abzudecken]]
 
-_[[3  Ein Selbstversuch als Hobbybäuerin#^7|^]]_ Eine [[selbstauferlegte]] Aufgabe, die es zu meistern gilt. ^7
+_[[3  Ein Selbstversuch als Hobbybäuerin#^7|^]]_ Eine [[selbstauferlegte]] Aufgabe, die es zu meistern gilt
 
 ---
 
@@ -11,7 +12,6 @@ _[[3  Ein Selbstversuch als Hobbybäuerin#^7|^]]_ Eine [[selbstauferlegte]] Aufg
 ≠ [[befreien]], [[entbinden]], [[erlassen]]
 
 ---
-
 to impose, to inflict
 налагать, возлагать
 

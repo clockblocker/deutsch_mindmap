@@ -1,1 +1,1 @@
-, [[Vorschein]], [[Sichtverhältnis]]
+, [[Vorschein]], [[Sichtverhältnis]], [[Sichtbarkeit]]

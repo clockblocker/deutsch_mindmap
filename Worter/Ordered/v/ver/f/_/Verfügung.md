@@ -52,4 +52,4 @@ G: der [[Verfügung]], der [[Verfügungen]]
 D: der [[Verfügung]], den [[Verfügungen]]
 
 
-#Feminin , [[bro-schrieben-c1-t1-002]]
+#Feminin , [[bro-schrieben-c1-t1-002]], [[Weisung]]

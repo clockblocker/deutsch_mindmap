@@ -6,4 +6,4 @@
 , [[aufsässig]]
 , [[einig]]
 , [[beabsichtigen]], [[einmalig]], [[vernünftig]], [[dunkelhaarig]], [[ruppig]], [[vorrangig]], [[eindeutig]], [[gemeinnützig]], [[jeweilig]], [[strittig]], [[unzuverlässig]], [[Abhängigkeit]], [[wahnsinnig]], [[erkundigen]], [[verständigen]], [[nachhaltig]], [[damalige]], [[langfristig]], [[winzig]], [[beeinträchtigen]], [[gegenseitig]], [[Zugehörigkeit]], [[Betriebszugehörigkeit]], [[kurzfristig]], [[mehrsprachig]], [[heftig]], [[damalig]], [[genehmigen]], [[Genauigkeit]], [[einwöchig]], [[aufwendig]], [[derartig]], [[jenig]], [[zuverlässig]], [[Untätigkeit]], [[gleichaltrig]], [[Gleichaltrige]], [[zweitrangig]], [[kostspielig]], [[zweideutig]], [[mäßig]], [[prestigeträchtig]], [[tiefgründig]], [[hintergründig]], [[ehemalig]], [[Ungerechtigkeit]], [[hiesig]], [[Politikmüdigkeit]], [[langlebig]], [[Infektanfälligkeit]], [[gleichnamig]], [[Hilflosigkeit]], [[minderjährig]], [[unzulässig]], [[Bedeutungslosigkeit]], [[wortgewaltig]]
-, [[vereinigen]]
+, [[vereinigen]], [[aufrichtig]]

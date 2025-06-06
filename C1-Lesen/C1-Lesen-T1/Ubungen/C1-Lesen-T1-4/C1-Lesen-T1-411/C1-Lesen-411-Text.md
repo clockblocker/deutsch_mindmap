@@ -1,5 +1,5 @@
    [[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
-   [[C1-Lesen-411-Text|Text]] | [[C1-Lesen-411-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-411-Loesung|Loesung]]
+   [[C1-Lesen-411-Text|Text]]  | [[C1-Lesen-411-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-411-Loesung|Loesung]]
 
 ---
 
@@ -49,51 +49,60 @@ _[[C1-Lesen-411-Text#^15|^]]_ Die Studie kommt zu dem Ergebnis, dass regelmäßi
 
 _[[C1-Lesen-411-Text#^16|^]]_ Der Schlaf sollte erholsam sein und die Schlafdauer möglichst konstant bleiben. ^16
 
----
 
 ---
+---
 
-0.  - [ ] a jedenfalls
+0. 
+    - [ ] a jedenfalls
     - [ ] b in diesem Fall
     - [ ] c keinesfalls
     - [ ] d falls
 
-1.  - [x] a lassen
+1. 
+    - [x] a lassen
     - [ ] b können
     - [ ] c werden
     - [ ] d würden
 
-2.  - [x] a Versuch
+2. 
+    - [x] a Versuch
     - [ ] b Bereich
     - [ ] c Fehler
     - [ ] d Umgang
 
-3.  - [ ] a weshalb
+3. 
+    - [ ] a weshalb
     - [ ] b dennoch
     - [ ] c obwohl
     - [ ] d denn
 
-4.  - [ ] a was
+4. 
+    - [ ] a was
     - [ ] b das
     - [ ] c wie
     - [ ] d die
 
-5.  - [ ] a womit
+5. 
+    - [ ] a womit
     - [ ] b wodurch
     - [ ] c somit
     - [ ] d sodass
 
-6.  - [ ] a gestrichen
+6. 
+    - [ ] a gestrichen
     - [ ] b untersucht
     - [ ] c beobachtet
     - [x] d integriert
 
-7.  - [ ] a entschlossen
+7. 
+    - [ ] a entschlossen
     - [ ] b überzeugt
     - [x] c fähig
     - [ ] d nötig
 
-8.  - [ ] a in Bewegung
+8. 
+    - [ ] a in Bewegung
     - [ ] b zur Vernunft
     - [ ] c in Kontakt
     - [x] d zur Ruhe

@@ -1,1 +1,1 @@
-[[gewiss]]
+[[gewiss]], [[Gewissen]]

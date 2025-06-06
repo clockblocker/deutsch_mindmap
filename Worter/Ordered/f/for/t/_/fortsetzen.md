@@ -46,4 +46,4 @@ sie, [[setzen fort]], [[setzten fort]], [[setzen fort]], [[setzten fort]], [[set
 Adjektive: [[fortsetzend]], [[fortsetzender]], [[fortsetzendst]]
 
 ---
-[[fortsetzender]], [[fortsetzendes]], [[fortsetzende]], [[fortsetzenden]], [[fortsetzendem]], [[fortsetzenderer]], [[fortsetzenderes]], [[fortsetzendere]], [[fortsetzenderen]], [[fortsetzenderem]], [[fortsetzendster]], [[fortsetzendstes]], [[fortsetzendste]], [[fortsetzendsten]], [[fortsetzendstem]]
+[[fortsetzender]], [[fortsetzendes]], [[fortsetzende]], [[fortsetzenden]], [[fortsetzendem]], [[fortsetzenderer]], [[fortsetzenderes]], [[fortsetzendere]], [[fortsetzenderen]], [[fortsetzenderem]], [[fortsetzendster]], [[fortsetzendstes]], [[fortsetzendste]], [[fortsetzendsten]], [[fortsetzendstem]], [[haltmachen]]

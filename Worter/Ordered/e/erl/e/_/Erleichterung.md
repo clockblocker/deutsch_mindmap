@@ -29,4 +29,4 @@ G: der [[Erleichterung]], der [[Erleichterungen]]
 D: der [[Erleichterung]], den [[Erleichterungen]]
 
 
-#Feminin , [[Hindernis]], [[Bedrängnis]], [[Beschwernis]], [[Steuererleichterung]], [[Zumutung]]
+#Feminin , [[Hindernis]], [[Bedrängnis]], [[Beschwernis]], [[Steuererleichterung]], [[Zumutung]], [[Lockerung]]

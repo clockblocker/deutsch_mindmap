@@ -1,1 +1,1 @@
-, [[Zweierreihen]], [[Verfügung]], [[Ordnen]], [[Zeichenfolge]]
+, [[Zweierreihen]], [[Verfügung]], [[Ordnen]], [[Zeichenfolge]], [[Weisung]]

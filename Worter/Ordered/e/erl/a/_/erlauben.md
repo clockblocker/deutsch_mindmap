@@ -45,3 +45,4 @@ PI: [[erlaubend]], PII: [[erlaubt]], Zu+inf: [[zu erlauben]]
 
 [[stören]], [[verbieten]], [[lassen]], [[wehrten]], [[erlaubt]]
 , [[zwingen]], [[Gaststättenerlaubnis]], [[Wahlerlaubnis]], [[ermöglichen]], [[gewähren]], [[können]], [[gönnen]], [[einlassen]], [[einlassen]], [[drängen]]
+, [[vorschreiben]]

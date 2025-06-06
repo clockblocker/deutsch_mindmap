@@ -1,2 +1,2 @@
 --> 🧩 [[Grad-Wahrheit]] <--
-, [[echten]], [[echt]], [[tatsächlich]], [[eigentlich]], [[sogenannt]], [[ernsthaft]]
+, [[echten]], [[echt]], [[tatsächlich]], [[eigentlich]], [[sogenannt]], [[ernsthaft]], [[aufrichtig]]

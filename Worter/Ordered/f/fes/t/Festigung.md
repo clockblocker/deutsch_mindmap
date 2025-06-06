@@ -1,1 +1,1 @@
-, [[festigen]]
+, [[festigen]], [[Lockerung]]

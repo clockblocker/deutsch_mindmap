@@ -4,6 +4,8 @@ die [[Betriebe]]
 ---
 «Dann fahre ich nach Hause und arbeite wieder in meinem Betrieb.»  [[13 Nebensätze#^5|(Quelle: 13 Nebensätze)]] 
 
+*[[C1-Lesen-432-Text#^8|^]]* Außerdem gilt auch für bestimmte Situationen, die mit dem Berufsleben in engem Zusammenhang stehen, eine [[Weisungsbefugnis]] [[seitens]] des [[Betriebs]]
+
 
 ---
 = [[Unternehmen]], [[Firma]], [[Unternehmensstätte]]

@@ -41,4 +41,4 @@ Morpheme: [[richt]], [[en]]
 
 Partizip I: [[richtend]], Partizip II: [[gerichtet]]
 , [[biegen]], [[errichteten]], [[Gericht]], [[Richtlinie]], [[verbiegen]], [[Richter]], [[Richtungsänderung]], [[einrichten]], [[zurechtbiegen]], [[verurteilen]], [[urteilen]]
-, [[ansteuern]]
+, [[ansteuern]], [[aufrichtig]]

@@ -1,1 +1,1 @@
-, [[Spielkarten]], [[dreistufig]]
+, [[Spielkarten]], [[dreistufig]], [[Dritte]]

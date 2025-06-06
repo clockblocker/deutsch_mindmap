@@ -1,6 +1,9 @@
 🤔 [[nachvollziehbar]], [ˈnaːxˌfɔlt͡sɪbaːɐ̯](https://youglish.com/pronounce/nachvollziehbar/german)
 
 ---
+
+`h` Genauso [[nachvollziehbar]] ist, dass die Arbeit an Maschinen keine Ketten, Ringe oder Piercings zulässt
+
 Ihr Text soll nicht nur insgesamt, sondern auch innerhalb der einzelnen [[Abschnitte]] logisch [[aufgebaut]] und für die Leserinnen und Leser gut [[nachvollziehbar]] sein.
 
 *[[C1-Hoehen-T2-301-Text#^8|^]]* Das resultiert natürlich in erster Linie aus der deutschen [[Vergangenheit]] und ist sehr gut [[nachvollziehbar]]

@@ -28,4 +28,4 @@ A: den [[Vertrag]], die [[Verträge]]
 G: des [[Vertrags]], der [[Verträge]]
 D: dem [[Vertrag]], den [[Verträgen]]
 
-#Maskulin , [[Firmenvereinbarung]]
+#Maskulin , [[Firmenvereinbarung]], [[Tarifvertrag]], [[Arbeitsvertrag]]

@@ -3,7 +3,9 @@
 📢 🔴 die [[Forderung]], [ˈfɔʁdəʁʊŋ](https://youglish.com/pronounce/Forderung/german)
 
 ---
+`a` Ziel dieser [[Forderung]] ist, ein positives [[Miteinander]] am Arbeitsplatz zu [[gewährleisten]]
 
+*[[C1-Lesen-432-Text#^11|^]]* Eine [[durchaus]] verständliche [[Forderung]], die in der Regel [[widerspruchslos]] [[befolgt]] wird
 
 ---
 = [[Anspruch]], [[Forderung]], [[Verlangen]]

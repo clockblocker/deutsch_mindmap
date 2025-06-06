@@ -81,3 +81,4 @@ Zu+infinifive: [[vorzuschlagen]]
 ---
 
 [[Vorschlag]], [[Vorschläger]], [[Vorschlagswesen]], [[Vorschlagsrecht]], [[Vorschlagsliste]], [[anbieten]], [[ablehnen]], [[verfügen]], [[einladen]], [[einbringen]], [[Kompromissvorschlag]], [[unterbreiten]]
+, [[vorschreiben]]

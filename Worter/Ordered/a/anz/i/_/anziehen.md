@@ -36,4 +36,4 @@ PI: [[anziehend]], PII: [[angezogen]], Zu+inf: [[anzuziehen]]
 
 ---
 [[Anzug]], [[Anziehungskraft]], [[anziehend]], [[Anziehsachen]]
-, [[abschrecken]], [[locken]]
+, [[abschrecken]], [[locken]], [[lockern]]

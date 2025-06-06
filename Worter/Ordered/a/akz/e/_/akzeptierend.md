@@ -1,1 +1,1 @@
-, [[einverstanden]], [[tolerant]]
+, [[einverstanden]], [[tolerant]], [[widerspruchslos]]

@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Dieners]], [[Dienern]], [[Dieneres]], [[Dienerem]], [[Dienerem]], [[Dienerem]], [[Dienerem]]
 
 ---
-#Substantiv #Maskulin, [[Oberhaupt]], [[Herrchen]]
+#Substantiv #Maskulin, [[Oberhaupt]], [[Herrchen]], [[Staatsdiener]]

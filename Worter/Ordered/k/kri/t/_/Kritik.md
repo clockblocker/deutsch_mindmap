@@ -28,4 +28,4 @@ A: die [[Kritik]], die [[Kritiken]]
 G: der [[Kritik]], der [[Kritiken]]
 D: der [[Kritik]], den [[Kritiken]]
 
-#Feminin , [[Würdigung]]
+#Feminin , [[Würdigung]], [[Abmahnung]]

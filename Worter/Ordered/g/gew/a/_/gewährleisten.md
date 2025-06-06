@@ -8,6 +8,8 @@
 *[[01-C1-Schreiben-T2-M#^5|^]]* Ich [[benötige]] einen Arbeitsplatz, der [[Vertraulichkeit]] [[gewährleisten]] kann. ^5
 
 
+*[[C1-Lesen-432-Text#^21|^]]* `18 a` Ziel dieser [[Forderung]] ist, ein positives [[Miteinander]] am Arbeitsplatz zu [[gewährleisten]]
+
 *[[1 lesen StadtTours#^13|^]]* Das Start-up hat Standards entwickelt, mit denen  in allen [[angebotenen]] Städten eine hohe Qualität der Programme [[gewährleisten]] sollen. ^13
 
 

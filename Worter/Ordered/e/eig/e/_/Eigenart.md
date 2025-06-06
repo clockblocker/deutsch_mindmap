@@ -27,3 +27,4 @@ G: der [[Eigenart]], der [[Eigenarten]]
 D: der [[Eigenart]], den [[Eigenarten]]
 
 #Feminin 
+, [[Eigenleben]]

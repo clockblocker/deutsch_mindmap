@@ -1,1 +1,1 @@
-, [[Persönlichkeit]], [[individuell]]
+, [[Persönlichkeit]], [[individuell]], [[Eigenleben]]

@@ -5,6 +5,10 @@
 ---
 *[[C1-Hoehen-T1-200-Text#^12|^]]* [[Gleichzeitig]] erfährt man aber auch, dass die Natur [[Recht]] [[robust]] ist und sich [[durchaus]] [[anpassen]] kann, wie frühere Klimaveränderungen [[gezeigt]] haben
 
+*[[C1-Lesen-432-Text#^11|^]]* Eine [[durchaus]] verständliche [[Forderung]], die in der Regel [[widerspruchslos]] [[befolgt]] wird
+*(A [[perfectly]] understandable [[demand]], which is usually [[followed]] without [[objection]].)*
+
+
 *[[C1-Lesen-T3-301-Text#^2|^]]* Heutzutage sollte man jedoch [[durchaus]] über die Manipulation des kompletten [[Kaufverhaltens]] [[reden]]
 
 *[[C1-Hoehen-T1-301-Text#^10|^]]* Es handelt sich bei dem Podcast vielmehr um eine [[eindrücklich]]e und [[zeitweise]] [[durchaus]] [[beklemmend]]e [[Schilderung]] der [[überwältig]]enden Macht und auch [[Schönheit]] der Natur und der Elemente

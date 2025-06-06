@@ -28,3 +28,4 @@ D: der [[Fachrichtung]], den [[Fachrichtungen]]
 [[fachlich]], [[Fachmann]], [[Fachkraft]], [[Richtung]], [[ausrichten]]
 
 #Feminin 
+, [[Berufssparte]]

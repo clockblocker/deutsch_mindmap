@@ -2,6 +2,8 @@
 die [[Qualen]]
 
 ---
+`0` Die [[Qual]] der Kleiderwahl kann einem schon [[Kopfzerbrechen]] [[bereiten]]
+
 *Der Jüngling steigt den Berg mit [[Qual]]*  
 *Die Aussicht ist ihm sehr egal*  
 

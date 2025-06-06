@@ -9,4 +9,4 @@ der [[Dienste]]
 
 #Substantiv
 #Maskulin
-, [[Diensten]], [[Militärdienst]], [[Verdienstorden]], [[Urlaub]], [[Bindungsurlaub]], [[Verdienst]], [[Lieferdienst]], [[Außendienstmitarbeiter]], [[Dienstreise]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Dienstleistung]], [[Sozialdienst]], [[Wehrdienst]], [[Freiwilligendienst]], [[Zwangsdienst]], [[Ersatzdienst]]
+, [[Diensten]], [[Militärdienst]], [[Verdienstorden]], [[Urlaub]], [[Bindungsurlaub]], [[Verdienst]], [[Lieferdienst]], [[Außendienstmitarbeiter]], [[Dienstreise]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Dienstleistung]], [[Sozialdienst]], [[Wehrdienst]], [[Freiwilligendienst]], [[Zwangsdienst]], [[Ersatzdienst]], [[Paketzustelldienst]]

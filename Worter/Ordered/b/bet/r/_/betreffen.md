@@ -1,14 +1,15 @@
 🎯 [[betreffen]], [bəˈtʁɛfən] | [[betraf]], haben [[Betroffen]]
 
 ---
+*[[C1-Lesen-432-Text#^18|^]]* Auch was die [[Rasur]] [[anbetrifft]], gibt es eine [[eindeutig]]e [[Entscheidung]]: Das tägliche [[Rasieren]] des [[Bartwuchses]] fällt unter die Körperhygiene, die vom Arbeitgeber [[vorausgesetzt]] werden kann
 
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
 _[[C1-Hoehen-T3-301-Text#^53|^]]_ Der Mangel [[betrifft]] ja [[keineswegs]] nur die [[Ausbildungsberuf]]e. Unternehmen [[beklagen]] in vielen Wirtschaftsbranchen auch einen Mangel an Fachkräften in Berufen mit akademischer Ausbildung, [[vorwiegend]] im Bereich der [[MINT]]-[[Fächer]], also Mathematik, Informatik, Naturwissenschaften und Technik
 
-_[[C1-Hoehen-T4-100-Text#^25|^]]_ Eine weitere [[Maßnahme]] `zum` Verbraucherschutz [[betrifft]] die [[Deutlichkeit]] der [[Preisgestaltung]]. ^25
+_[[C1-Hoehen-T4-100-Text#^25|^]]_ Eine weitere [[Maßnahme]] `zum` [[Verbraucherschutz]] [[betrifft]] die [[Deutlichkeit]] der [[Preisgestaltung]]
 
-_[[C1-Hoehen-T2-202-Text#^1|^]]_ Sie [[befassen]] sich mit der [[Auswertung]] und [[Interpretation]] von [[Umfragen]], die die Politik [[betreffen]]. Und dabei insbesondere mit der sogenannten Politikverdrossenheit. ^1
+_[[C1-Hoehen-T2-202-Text#^1|^]]_ Sie [[befassen]] sich mit der [[Auswertung]] und [[Interpretation]] von [[Umfragen]], die die Politik [[betreffen]]. Und dabei insbesondere mit der sogenannten Politikverdrossenheit
 
 _[[C1-Hoehen-T2-200-Text#^48|^]]_ Da sich unser Gehirn und damit auch unser Gedächtnis ein Leben lang verändern, kommt es im Alter allerdings zu einem [[Leistungsabbau]], der vor allem die [[Geschwindigkeit]] beim Lösen von Problemen [[betrifft]]
 
@@ -23,12 +24,10 @@ _[[C1-Lesen-T2-101-Text#^16|^]]_ Was jedoch ihre [[Aufmerksamkeit]] [[betrifft]]
 Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 
 ---
-
 Synonyme: [[angehen]], [[berühren]], [[beeinflussen]], [[treffen]], [[interessieren]]
 Antonyme: [[ignorieren]], [[nichts angehen]], [[unberührt lassen]]
 
 ---
-
 to concern, to affect, to touch
 
 ---

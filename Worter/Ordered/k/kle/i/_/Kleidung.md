@@ -23,4 +23,4 @@ G: der [[Kleidung]], der [[Kledun gen]]
 D: der [[Kleidung]], den [[Kledun gen]]  
 
 ---
-[[kleiden]], [[bekleiden]], [[entkleiden]], [[Kleid]], [[Kleidungsstil]]
+[[kleiden]], [[bekleiden]], [[entkleiden]], [[Kleid]], [[Kleidungsstil]], [[Kleidungsvorschrift]]

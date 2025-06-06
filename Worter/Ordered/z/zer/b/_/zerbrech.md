@@ -1,1 +1,1 @@
-, [[Zerbrechlichkeit]]
+, [[Zerbrechlichkeit]], [[Kopfzerbrechen]]

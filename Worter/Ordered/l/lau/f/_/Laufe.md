@@ -1,2 +1,4 @@
 [[laufen]]
 [[Lauf]], [[ablagern]]
+
+[[laufen]]

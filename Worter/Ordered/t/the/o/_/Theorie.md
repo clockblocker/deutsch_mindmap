@@ -29,4 +29,4 @@ A: die [[Theorie]], die [[Theorien]]
 G: der [[Theorie]], der [[Theorien]]
 D: der [[Theorie]], den [[Theorien]]
 
-#Feminin , [[Prinzip]], [[Praktikum]], [[Lernmodell]]
+#Feminin , [[Prinzip]], [[Praktikum]], [[Lernmodell]], [[Vollzug]]

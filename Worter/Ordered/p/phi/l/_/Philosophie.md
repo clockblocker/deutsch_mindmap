@@ -1,1 +1,1 @@
-, [[Denkweise]], [[Weltanschauung]]
+, [[Denkweise]], [[Weltanschauung]], [[Lebenseinstellung]]

@@ -1,1 +1,1 @@
-, [[hübsch]], [[hässlich]], [[vollschlank]]
+, [[hübsch]], [[hässlich]], [[vollschlank]], [[unansehnlich]]

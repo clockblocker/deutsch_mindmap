@@ -1,1 +1,1 @@
-, [[schmücken]], [[bemalen]]
+, [[schmücken]], [[bemalen]], [[verzieren]]

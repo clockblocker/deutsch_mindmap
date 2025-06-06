@@ -1,8 +1,9 @@
 😠 [[belästigen]], [bəˈlɛstɪɡn̩](https://youglish.com/pronounce/belästigen/german) → [[belästigte]] → haben [[belästigt]]
 
 ---
-*[[04-C1-Schreiben-T2-M#^13|^]]* Ich möchte Sie daher noch einmal [[höflich]] bitten, sich darum zu [[kümmern]], dass Ihr Hund uns nicht weiter mit seinem Bellen [[belästigt]], da ich mich [[ansonsten]] leider [[gezwungen]] sehe, mich direkt beim [[Hausverwalter]] über Sie zu [[beschweren]]. ^13
+*[[04-C1-Schreiben-T2-M#^13|^]]* Ich möchte Sie daher noch einmal [[höflich]] bitten, sich darum zu [[kümmern]], dass Ihr Hund uns nicht weiter mit seinem Bellen [[belästigt]], da ich mich [[ansonsten]] leider [[gezwungen]] sehe, mich direkt beim [[Hausverwalter]] über Sie zu [[beschweren]]
 
+*[[C1-Lesen-432-Text#^16|^]]* Es ist nämlich nicht akzeptabel, dass sich Teammitglieder oder [[Dritte]] durch ihren [[schlechten]] Sitz oder ihre [[Sichtbarkeit]] [[belästigt]] [[fühlen]]
 
 ---
 = [[ärgern]], [[quälen]], [[plagen]]

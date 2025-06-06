@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T4-100-Text#^28|^]]* Weiter ist der Anbieter [[verpflichtet]], regelmäßig notwendige [[Sicherheitsupdate]]s zu [[liefern]]
 
+*[[C1-Lesen-432-Text#^7|^]]* Es [[handelt]] `sich` `um` ein sogenanntes [[Weisungsrecht]] des Arbeitgebers, das für die Arbeitszeit [[verpflichtend]] ist
+
 *[[C1-Hoehen-T2-301-Text#^14|^]]* Wäre denn nicht jetzt der [[geeignet]]e Zeitpunkt, dies dadurch zu [[revidieren]], dass man ein obligatorisches soziales Jahr für all die [[einführt]], die sich nicht bei der Bundeswehr [[verpflichten]]?
 
 *[[C1-Hoehen-T2-301-Text#^11|^]]* Für ein allgemein [[verpflichtend]]es soziales Jahr müsste der [[entsprechend]]e Artikel im Grundgesetz geändert werden und dafür bedarf es bekanntlich einer Zweidrittelmehrheit des Bundestags und des Bundesrats

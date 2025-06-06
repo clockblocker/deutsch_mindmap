@@ -35,3 +35,4 @@ G: des [[Privatlebens]], der [[Privatleben]]
 D: dem [[Privatleben]], den [[Privatleben]]
 
 #Neuter
+, [[Berufssparte]]

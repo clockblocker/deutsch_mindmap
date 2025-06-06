@@ -4,6 +4,8 @@
 🫡 [[befolgen]], [bəˈfɔlɡn̩](https://youglish.com/pronounce/befolgen/german) → [[befolgte]] → [[befolgt]]
 
 ---
+*[[C1-Lesen-432-Text#^11|^]]* Eine [[durchaus]] verständliche [[Forderung]], die in der Regel [[widerspruchslos]] [[befolgt]] wird
+
 , [[folgen]], [[beachten]], [[übertreten]], [[Einhaltung]], [[einhalten]]
 
 ---

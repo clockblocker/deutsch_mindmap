@@ -63,3 +63,4 @@ Partizip I: [[entspannend]], Partizip II: [[entspannt]]
 [[entspannen]] - [[ent]] = [[spannen]]
 
 
+, [[lockern]]

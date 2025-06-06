@@ -24,3 +24,4 @@ N: der [[Anstand]], —
 A: den [[Anstand]], —
 G: des [[Anstands]], —
 D: dem [[Anstand]], —
+, [[Gewissen]]

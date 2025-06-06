@@ -43,4 +43,4 @@ D: der [[Bedingung]], den [[Bedingungen]]
 #Feminin 
 
 
-, [[Rahmenbedingung]], [[Sachzwang]], [[Arbeitsbedingung]], [[unabdingbar]], [[bedingen]], [[Erfordernis]], [[bedingungslos]], [[Einflussfaktor]], [[Restriktion]], [[Beschränkung]]
+, [[Rahmenbedingung]], [[Sachzwang]], [[Arbeitsbedingung]], [[unabdingbar]], [[bedingen]], [[Erfordernis]], [[bedingungslos]], [[Einflussfaktor]], [[Restriktion]], [[Beschränkung]], [[Mindestvoraussetzung]]

@@ -34,4 +34,4 @@ PI: [[schreibend]], PII: [[geschrieben]], Zu+inf: [[zuschreiben]]
 [[schreiben]] / to write
 
 ---
-[[Schrift]], [[Schreiber]], [[Schreiberin]], [[Schreibtisch]], [[beschreiben]], [[verschreiben]], [[vorschreiben]], [[schriftlich]], [[schriftsprachlich]], [[Behördenkorrespondenz]], [[chatten]]
+[[Schrift]], [[Schreiber]], [[Schreiberin]], [[Schreibtisch]], [[beschreiben]], [[verschreiben]], [[vorschreiben]], [[schriftlich]], [[schriftsprachlich]], [[Behördenkorrespondenz]], [[chatten]], [[ungeschrieben]]

@@ -26,4 +26,4 @@ Einzigartige mögliche Formen: [[Berufs]], [[Berufe]], [[Berufen]]
 ---
 
 #Substantiv #Maskulin, [[erwerbstätig]], [[berufsbezogen]], [[Berufsinformationszentrum]], [[Ehrenamt]], [[Berufswahl]], [[Arbeit]], [[Bindungsurlaub]], [[beruflich]], [[Berufsgruppe]], [[Berufstätigkeit]], [[Berufsfeld]], [[berufstätig]], [[Berufsleben]], [[einberufen]], [[Hauptbeschäftigung]], [[Lehrerberuf]], [[Lehramtsstudium]], [[Lehramt]], [[Berufsaspirant]], [[Ausbildungsberuf]], [[Ruhestand]], [[Berufsausbildung]], [[Arbeitszeit]]
-, [[berufserfahren]]
+, [[berufserfahren]], [[Berufssparte]]

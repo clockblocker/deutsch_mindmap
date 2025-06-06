@@ -1,2 +1,2 @@
 [[ganz]], [[halbes]], [[Sektor]], [[stück]], [[Drittel]]
-, [[Scherb]], [[Bestandteil]], [[Abteilung]], [[Abschnitt]], [[Bruchteil]], [[Rest]], [[Plastikteil]], [[Anteil]], [[Überrest]], [[Einzelheit]], [[Abteil]]
+, [[Scherb]], [[Bestandteil]], [[Abteilung]], [[Abschnitt]], [[Bruchteil]], [[Rest]], [[Plastikteil]], [[Anteil]], [[Überrest]], [[Einzelheit]], [[Abteil]], [[Hautteil]]

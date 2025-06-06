@@ -2,3 +2,4 @@
 --> ⏱️ [[Temporal-Template]] <--
 --> ⏱️ [[Temporal-Frequenz]] <--
 
+, [[unangepasst]]

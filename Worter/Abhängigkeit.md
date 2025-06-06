@@ -26,4 +26,4 @@ A: die [[Abhängigkeit]], die [[Abhängigkeiten]]
 G: der [[Abhängigkeit]], der [[Abhängigkeiten]]
 D: der [[Abhängigkeit]], den [[Abhängigkeiten]]
 
-#Feminin 
+#Feminin , [[Eigenleben]]

@@ -4,6 +4,8 @@
 
 Die Geschichte [[handelt]] [[von]] Tieren
 
+*[[C1-Lesen-432-Text#^7|^]]* Es [[handelt]] `sich` `um` ein sogenanntes [[Weisungsrecht]] des Arbeitgebers, das für die Arbeitszeit [[verpflichtend]] ist
+
 _[[C1-Hoehen-T3-301-Text#^55|^]]_ Ich glaube nicht, dass uns jetzt [[Alarmismus]] [[weiterhilft]], aber die Fakten sollten uns in der [[Tat]] zu schnellem [[Handeln]] [[veranlassen]]:
 
 _[[C1-Hoehen-T4-100-Text#^22|^]]_ Sie müssen `gegenüber` dem [[Konsument]]en [[offenlegen]], ob der [[Anbieter]] ein [[Händler]] ist oder ob es sich um ein [[Angebot]] von einer [[Privatperson]] [[handelt]]

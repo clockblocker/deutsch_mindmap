@@ -1,1 +1,1 @@
-, [[richten]], [[ausrichten]]
+, [[richten]], [[ausrichten]], [[aufrichtig]]

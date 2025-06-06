@@ -27,4 +27,4 @@ alive, lively
 Adjektive: [[lebendig]], [[lebendiger]], [[lebendigst]]
 
 ---
-[[lebendiger]], [[lebendiges]], [[lebendige]], [[lebendigen]], [[lebendigem]], [[lebendigerer]], [[lebendigeres]], [[lebendigere]], [[lebendigeren]], [[lebendigerem]], [[lebendigster]], [[lebendigstes]], [[lebendigste]], [[lebendigsten]], [[lebendigstem]], [[Lebensstil]], [[fortleben]], [[Lebensdauer]]
+[[lebendiger]], [[lebendiges]], [[lebendige]], [[lebendigen]], [[lebendigem]], [[lebendigerer]], [[lebendigeres]], [[lebendigere]], [[lebendigeren]], [[lebendigerem]], [[lebendigster]], [[lebendigstes]], [[lebendigste]], [[lebendigsten]], [[lebendigstem]], [[Lebensstil]], [[fortleben]], [[Lebensdauer]], [[Lebenseinstellung]]

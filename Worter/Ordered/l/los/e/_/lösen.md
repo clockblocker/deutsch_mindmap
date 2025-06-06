@@ -41,3 +41,4 @@ Zu+infinitive: [[zu lösen]]
 ---
 
 [[Lösung]], [[Lösungsmittel]], [[Lösbarkeit]], [[Problemlösung]], [[Lösungsansatz]], [[verbinden]], [[knüpfen]], [[anheften]], [[verstricken]], [[wurzeln]], [[bewältigen]], [[Musterlösung]], [[Lösungsvorschlag]], [[Übergangslösung]], [[auslösen]], [[anbringen]], [[freisetzen]], [[koppeln]], [[festmachen]], [[festhalten]], [[fesseln]], [[verknüpfen]], [[verankern]]
+, [[lockern]]

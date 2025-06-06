@@ -1,1 +1,1 @@
-, [[Polizist]], [[Anwärter]]
+, [[Polizist]], [[Anwärter]], [[Staatsdiener]]

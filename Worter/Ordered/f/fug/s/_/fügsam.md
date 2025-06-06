@@ -1,4 +1,4 @@
 
 , [[ungehorsam]]
 , [[aufsässig]]
-, [[rebellisch]]
+, [[rebellisch]], [[widerspruchslos]]

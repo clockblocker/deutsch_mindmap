@@ -31,4 +31,4 @@ D: dem [[Widerspruch]], den [[Widersprüchen]]
 
 
 
-#Maskulin 
+#Maskulin , [[widerspruchslos]]

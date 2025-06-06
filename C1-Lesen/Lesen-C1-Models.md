@@ -1,3 +1,4 @@
+   [[0-C1-Lesen-T1-Ubung-List|Tiles]] | Models    
 
 ###### 03.06 *15 / 30* *1:00* 
 - [x] [[C1-Lesen-411-Text|1-T1]] 5 / 9
@@ -6,10 +7,10 @@
 - [x] [[C1-Lesen-441-Text|1-T4]] 3 / 7 -> 
 
 ###### 04.06 *__ / 30*
-- [ ] [[C1-Lesen-412-Text|2-T1]] 
-- [ ] [[C1-Lesen-422-Text|2-T2]] 
-- [ ] [[C1-Lesen-432-Text|2-T3]] 
-- [ ] [[C1-Lesen-442-Text|2-T4]] 
+- [x] [[C1-Lesen-412-Text|2-T1]] 6 / 9
+- [x] [[C1-Lesen-422-Text|2-T2]] 4 / 7
+- [x] [[C1-Lesen-432-Text|2-T3]] 2 / 8
+- [x] [[C1-Lesen-442-Text|2-T4]] 6 / 7
 
 ###### 05.06 *__ / 30*
 - [ ] [[C1-Lesen-413-Text|3-T1]] 

@@ -27,3 +27,4 @@ Morphems:
 #Substantiv #Feminin
 
 , [[hinschicken]], [[Versandt]]
+, [[Paketzustelldienst]]

@@ -29,3 +29,4 @@ Einzigartige mögliche Formen: [[Beamten]], [[Beamte]], [[Beamten]], [[Beamten]]
 ---
 
 #Substantiv #Maskulin
+, [[Justizvollzugsbeamte]]

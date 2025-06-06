@@ -27,4 +27,4 @@ A: die [[Privatperson]], die [[Privatpersonen]]
 G: der [[Privatperson]], der [[Privatpersonen]]
 D: der [[Privatperson]], den [[Privatpersonen]]
 
-#Feminin 
+#Feminin , [[Staatsdiener]]

@@ -3,6 +3,7 @@
 sein [[erschienen]]
 
 ---
+*[[C1-Lesen-432-Text#^10|^]]* Sie dürfen nicht im Sportdress [[erscheinen]], da sie ihre Firma repräsentieren müssen
 
 Auf dem [[Bildschirm]] [[erscheint]] ein [[seltsames]] Symbol.
 
@@ -44,4 +45,4 @@ Partizip I: [[erscheinend]], Partizip II: [[erschienen]]
 
 [[untergehen]], [[aussehen]], [[aufgehen]], [[untertauchen]], [[verschwinden]], [[versinken]], [[auftauchten]], [[kommen]], [[wirken]]
 , [[scheinbar]], [[unscheinbar]], [[Vorschein]], [[Ankunft]], [[antreten]], [[ersichtlich]], [[ankommen]], [[einleuchten]]
-, [[Erscheinung]]
+, [[Erscheinung]], [[Erscheinungsbild]]

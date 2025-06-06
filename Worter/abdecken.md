@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T3-301-Text#^15|^]]* Damit [[abdecken|deckt]] der Ort beide Bereiche ab
 
+*[[C1-Lesen-432-Text#^20|^]]* Tattoo tragenden [[Justizvollzugsbeamt]]en darf zum Beispiel [[auferlegt]] werden, [[verzierte]] [[Hautteile]] während der Arbeit durch ihre Uniform [[abzudecken]]
+
 ---
 = [[bedecken]], [[zudecken]]
 ≈ [[verdecken]], [[schützen]], [[verbergen]]

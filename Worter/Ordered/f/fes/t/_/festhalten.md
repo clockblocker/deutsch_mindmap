@@ -1,8 +1,9 @@
 ✍️ [[festhalten]], [ˈfɛstˌhaltn̩](https://youglish.com/pronounce/festhalten/german) → [[hielt fest]] → [[festgehalten]]
 
 ---
-*[[Sprechen-T1#^3|^]]* diese [[während]] meines Vortrags schriftlich [[festzuhalten]] ^3
+*[[Sprechen-T1#^3|^]]* diese [[während]] meines Vortrags schriftlich [[festzuhalten]]
 
+*[[C1-Lesen-432-Text#^5|^]]* Das kann sogar im [[Tarifvertrag]] oder [[Arbeitsvertrag]] [[festgehalten]] sein
 
 *[[C1-Hoehen-T2-202-Text#^5|^]]* Ich möchte zunächst einmal [[festhalten]], dass Politikverdrossenheit ein [[umgangssprachlicher]] [[Begriff]] ist
 

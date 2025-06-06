@@ -1,0 +1,1 @@
+😊 [[aufrichtig]] | 🔵 der [[Aufrichtige]] 😊

@@ -23,4 +23,4 @@ Genitive: des [[Bartes]], der [[Bärte]]
 Dative: dem [[Bart]], den [[Bärten]] 
 
 ---
-[[bärtig]], [[bartlos]], [[Bartpflege]], [[Barthaare]], [[Bartträger]]
+[[bärtig]], [[bartlos]], [[Bartpflege]], [[Barthaare]], [[Bartträger]], [[Bartwuchs]]

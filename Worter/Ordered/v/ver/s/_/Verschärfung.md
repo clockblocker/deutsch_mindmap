@@ -1,1 +1,1 @@
-, [[Verharmlosung]], [[verschärfen]]
+, [[Verharmlosung]], [[verschärfen]], [[Lockerung]]

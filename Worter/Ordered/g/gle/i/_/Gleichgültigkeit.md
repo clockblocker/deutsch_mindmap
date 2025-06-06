@@ -36,4 +36,4 @@ G: der [[Gleichgültigkeit]], der [[Gleichgültigkeiten]]
 D: der [[Gleichgültigkeit]], den [[Gleichgültigkeiten]]
 
 #Feminin 
-, [[Verlangen]], [[Sehnsucht]]
+, [[Verlangen]], [[Sehnsucht]], [[Lebenseinstellung]]

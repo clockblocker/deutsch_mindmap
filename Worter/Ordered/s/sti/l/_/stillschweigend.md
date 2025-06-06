@@ -1,1 +1,1 @@
-, [[mündlich]]
+, [[mündlich]], [[ungeschrieben]]

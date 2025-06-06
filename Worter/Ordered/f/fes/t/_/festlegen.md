@@ -3,6 +3,8 @@
 ---
 “AfD [[legt]] auf Parteitag [[fest]] - Familie [[besteht]] aus Vater, Mutter, Kindern”
 
+*[[C1-Lesen-432-Text#^4|^]]* Dabei lassen sich [[ungeschriebene]] Regeln von explizit schriftlich [[festgelegten]] [[unterscheiden]]
+
 ---
 = [[bestimmen]], [[vereinbaren]], [[definieren]]
 ≈ [[festsetzen]], [[festmachen]], [[regeln]], [[verfügen]]
@@ -30,4 +32,4 @@ PI: [[festlegend]], PII: [[festgelegt]], Zu+inf: [[festzulegen]]
 [[Festlegung]], [[Bestimmung]], [[Vereinbarung]], [[Regelung]], [[festgelegt]], [[verbindlich]]
 
 [[abmachen]], [[entscheiden]], [[vereinbaren]], [[entschließen]], [[beschließen]], [[begrenzen]], [[erlassen]]
-, [[verabreden]], [[selbstauferlegen]], [[wenden]], [[umstellen]], [[abgrenzen]], [[verschieben]], [[verlagern]], [[feststehen]], [[ausmachen]]
+, [[verabreden]], [[selbstauferlegen]], [[wenden]], [[umstellen]], [[abgrenzen]], [[verschieben]], [[verlagern]], [[feststehen]], [[ausmachen]], [[vorschreiben]]

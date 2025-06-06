@@ -44,4 +44,4 @@ Adverbial Form: [[eigentlich]], [[eigentlicher]], [[eigentlichst]]
 [[Eigenheit]], [[eigentümlich]], [[Eigentlichkeit]]
 
 , [[eingehen]], [[Risiko]]
-, [[Einwand]], [[grundsätzlich]], [[s1 e1]], [[Abtönungspartikeln]], [[tagsüber]]
+, [[Einwand]], [[grundsätzlich]], [[s1 e1]], [[Abtönungspartikeln]], [[tagsüber]], [[aufrichtig]]

@@ -3,7 +3,7 @@ zweite [[Etage]]
 
 1. [[erste]]
 2. [[zweite]]
-3. [[dritte]]
+3. [[Dritte]]
 4. [[vierte]]
 5. [[fünfte]]
 6. [[sechste]]

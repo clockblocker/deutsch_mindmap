@@ -26,4 +26,4 @@ independent, autonomous
 Adjektive: [[eigenständig]], [[eigenständiger]], [[eigenständigst]]
 
 ---
-[[eigenständiger]], [[eigenständiges]], [[eigenständige]], [[eigenständigen]], [[eigenständigem]], [[eigenständigerer]], [[eigenständigeres]], [[eigenständigere]], [[eigenständigeren]], [[eigenständigerem]], [[eigenständigster]], [[eigenständigstes]], [[eigenständigste]], [[eigenständigsten]], [[eigenständigstem]]
+[[eigenständiger]], [[eigenständiges]], [[eigenständige]], [[eigenständigen]], [[eigenständigem]], [[eigenständigerer]], [[eigenständigeres]], [[eigenständigere]], [[eigenständigeren]], [[eigenständigerem]], [[eigenständigster]], [[eigenständigstes]], [[eigenständigste]], [[eigenständigsten]], [[eigenständigstem]], [[Eigenleben]]

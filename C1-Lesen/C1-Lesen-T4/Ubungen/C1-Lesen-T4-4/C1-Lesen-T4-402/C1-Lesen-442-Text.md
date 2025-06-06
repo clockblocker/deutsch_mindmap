@@ -1,9 +1,9 @@
    [[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]    
-   [[C1-Lesen-442-Text|Text]]  | [[C1-Lesen-442-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-442-Loesung|Loesung]]    
+   Text  | [[C1-Lesen-442-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-442-Loesung|Loesung]]    
 
 ---
 
-   [[C1-Lesen-422-Text|←]]          →   
+   [[C1-Lesen-432-Text|←]]          →   
 
 ---
 ---
@@ -14,7 +14,7 @@ Bedingungsloses Grundeinkommen: Die Lösung des Problems?
 Wir arbeiten schon seit einigen Jahren an der Umsetzung des Grundeinkommens für alle. Die Idee dahinter ist, dass der Staat allen Bürgerinnen und Bürgern ausnahmslos einen festen Monatsbeitrag überweist, mit dem sie machen können, was sie wollen. Das Grundeinkommen ist an keinerlei Verpflichtungen oder Gegenleistungen geknüpft. Man kann es nach Belieben verwenden: ausgeben, sparen, spenden, das ist jedem freigestellt. Ausschlaggebend ist, dass durch ein staatlich finanziertes Einkommen ein menschenwürdiges Leben gewährleistet wird. Einen Vorteil sehe ich darin, dass ein Grundeinkommen einer eventuell drohenden Existenzangst bei einer Kündigung den Boden entzieht. Selbstverständlich kann, wer möchte, weiterhin seiner Arbeit nachgehen und ein zusätzliches Einkommen sichern. Das Argument, dass dann keiner mehr arbeiten würde, entkräftet der Vorsatz von 90 Prozent der Befragten, ihren Job trotz garantiertem Grundeinkommen nicht aufzugeben, gegebenenfalls ein wenig kürzer zu treten oder sich einer ehrenamtlichen Tätigkeit mit gesellschaftlichem Nutzen zu widmen.  
 
 *b Anneliese Deichmann, Deutsches Institut für Wirtschaftsforschung Berlin*  
-Für das bedingungslose Grundeinkommen liegen verschiedene Modelle auf dem Tisch, doch es mangelt an einer wissenschaftlich zuverlässigen Basis. Entscheidende Fragen sind noch offen. Wie werden sich die Menschen verhalten? Ist das eine Ermutigung zum Nichtstun? Gibt man unbeliebte Jobs auf, und wer soll die dann machen? Wie kann der Markt gegebenenfalls einlenken? Leider fehlen bisher flächendeckende Erfahrungen. Antworten darauf können nur Langzeitstudien geben, und die liegen noch nicht vor.  
+Für das bedingungslose Grundeinkommen liegen verschiedene Modelle auf dem Tisch, doch es mangelt an einer wissenschaftlich zuverlässigen Basis. Entscheidende Fragen sind noch offen. Wie werden sich die Menschen verhalten? Ist das eine Ermutigung zum Nichtstun? Gibt man unbeliebte Jobs auf, und wer soll die dann machen? Wie kann der Markt gegebenenfalls einlenken? [[Leider fehlen bisher flächendeckende Erfahrungen.]] Antworten darauf können nur Langzeitstudien geben, und die liegen noch nicht vor.  
 Uneinigkeit herrscht unter den Ökonomen in Bezug auf das Finanzierungskonzept. Auch hier mangelt es nicht an Vorschlägen, doch ich stehe den unvorhersehbaren Auswirkungen eines derartigen Unterfangens sehr kritisch gegenüber. Befürworter argumentieren damit, dass Arbeitslosengeld und die bestehenden Sozialleistungen für Langzeitarbeitslose bei genauerer Betrachtung eine Art Grundeinkommen sind. Doch soll das auf die gesamte Bevölkerung ausgeweitet werden, dann sprechen wir von einer ganz anderen Größenordnung. Ich frage mich ernsthaft, ist das überhaupt finanzierbar?  
 
 *c Ditmar Lüttges, CDU-Politiker*  
@@ -26,23 +26,23 @@ Mit dem bedingungslosen Grundeinkommen könnten meines Erachtens Grundbedürfnis
 0 Der Empfänger kann über das bedingungslose Grundeinkommen frei verfügen.  
 - [x] a  
 
-24. Ein angemessenes Finanzierungssystem muss die Vermögensverhältnisse berücksichtigen.  
-    - [ ] a  |  b  |  c  |  0  
+24. Ein angemessenes [[Finanzierungssystem]] muss die [[Vermögensverhältnisse]] [[berücksichtigen]]
+    - [x] c
 
-25. Empfänger von Sozialleistungen sind vom Grundeinkommen ausgeschlossen.  
-    - [ ] a  |  b  |  c  |  0  
+25. Empfänger von [[Sozialleistungen]] sind vom Grundeinkommen [[ausgeschlossen]]
+    - [x] 0
 
-26. Es stellt sich vorwiegend die Frage der Finanzierbarkeit.  
-    - [ ] a  |  b  |  c  |  0  
+26. Es stellt sich [[vorwiegend]] die Frage der [[Finanzierbarkeit]]  
+    - [x] b
 
-27. Die positiven Auswirkungen des Grundeinkommens auf den Arbeitsmarkt überschreiten bei Weitem alle Erwartungen.  
-    - [ ] a  |  b  |  c  |  0  
+27. Die [[positiven]] Auswirkungen des Grundeinkommens auf den [[Arbeitsmarkt]] [[überschreiten]] bei Weitem alle [[Erwartungen]]
+    - [x] 0 
 
-28. Der Einwand, niemand möchte mehr arbeiten, ist unberechtigt.  
-    - [ ] a  |  b  |  c  |  0  
+28. Der Einwand, [[niemand möchte mehr arbeiten]], ist [[unberechtigt]]
+    - [x] a 
 
-29. Es fehlen umfangreiche Untersuchungen über die Folgen eines bedingungslosen Grundeinkommens.  
-    - [ ] a  |  b  |  c  |  0  
+29. Es [[fehlen]] [[umfangreiche]] Untersuchungen über die [[Folgen]] eines bedingungslosen Grundeinkommens
+    - [x] b
 
-30. Mit einem gesicherten Grundeinkommen braucht der Verlust des Arbeitsplatzes nicht als Bedrohung wahrgenommen zu werden.  
-    - [ ] a  |  b  |  c  |  0  
+30. Mit einem [[gesicherten]] Grundeinkommen braucht der [[Verlust]] des [[Arbeitsplatzes]] [[nicht]] als [[Bedrohung]] [[wahrgenommen]] zu werden
+    - [ ] a

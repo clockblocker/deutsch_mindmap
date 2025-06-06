@@ -2,6 +2,7 @@
 🧘 [[verhalten]] sich wie, [fɛɐ̯ˈhaltən] | [[verhielt]], haben [[verhalten]]
 
 ---
+`f` So ein [[Verhalten]] führt noch nicht direkt zur [[Kündigung]], sondern zunächst nur zu einer [[Abmahnung]]
 
 Du [[verhältst]] dich wie ein Kind.
 

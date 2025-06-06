@@ -28,4 +28,4 @@ G: der [[Umsetzung]], der [[Umsetzungen]]
 D: der [[Umsetzung]], den [[Umsetzungen]]
 
 
-#Feminin , [[umsetzbar]]
+#Feminin , [[umsetzbar]], [[Vollzug]]

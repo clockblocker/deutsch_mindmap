@@ -36,3 +36,4 @@ D: der [[Aufhebung]], den [[Aufhebungen]]
 , [[Wegfall]]
 
 #Feminin , [[Widerruf]]
+, [[Lockerung]]

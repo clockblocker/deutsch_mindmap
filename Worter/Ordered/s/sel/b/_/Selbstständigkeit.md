@@ -1,1 +1,1 @@
-, [[selbständig]], [[Arbeitsverhältnis]], [[Freiheit]], [[Abhängigkeit]], [[Unabhängigkeit]], [[Hilflosigkeit]], [[Consulting]]
+, [[selbständig]], [[Arbeitsverhältnis]], [[Freiheit]], [[Abhängigkeit]], [[Unabhängigkeit]], [[Hilflosigkeit]], [[Consulting]], [[Eigenleben]]

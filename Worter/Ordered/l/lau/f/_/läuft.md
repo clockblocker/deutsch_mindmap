@@ -1,1 +1,1 @@
-, [[laufen]], [[sowieso]], [[durch]], [[hinauslaufen]], [[Ablauf]], [[einsatzfähig]], [[auslaufen]]
+, [[laufen]], [[sowieso]], [[durch]], [[hinauslaufen]], [[Ablauf]], [[einsatzfähig]], [[auslaufen]], [[ablaufen]]

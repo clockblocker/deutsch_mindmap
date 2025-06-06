@@ -1,1 +1,1 @@
-, [[verziehen]], [[prägen]], [[garstig]], [[verdrehen]], [[verbiegen]]
+, [[verziehen]], [[prägen]], [[garstig]], [[verdrehen]], [[verbiegen]], [[verzieren]]

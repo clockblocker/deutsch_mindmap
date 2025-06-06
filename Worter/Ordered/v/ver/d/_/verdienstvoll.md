@@ -1,1 +1,1 @@
-, [[Verdienst]]
+, [[Verdienst]], [[verdanken]]

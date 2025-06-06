@@ -1,1 +1,1 @@
-, [[vergehen]], [[vorübergehend]], [[bevorstehen]]
+, [[vergehen]], [[vorübergehend]], [[bevorstehen]], [[ablaufen]]

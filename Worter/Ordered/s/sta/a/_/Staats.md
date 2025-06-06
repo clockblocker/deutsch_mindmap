@@ -1,1 +1,1 @@
-, [[Staatssicherheit]], [[Staatsgast]], [[Staatsangehörige]], [[Staatsoberhaupt]]
+, [[Staatssicherheit]], [[Staatsgast]], [[Staatsangehörige]], [[Staatsoberhaupt]], [[Staatsdiener]]
