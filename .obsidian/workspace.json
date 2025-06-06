@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "56cbfae04713d0ee",
+        "id": "3ddf610acbdccaec",
         "type": "tabs",
-        "dimension": 70.44458359423919,
+        "dimension": 68.1266846361186,
         "children": [
           {
-            "id": "03b8657dd9bbdb8a",
+            "id": "4eefe3867d13df51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-407/C1-Hoehen-T1-407-Loesung.md",
+                "file": "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-409/C1-Hoehen-T3-409-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-407-Loesung"
+              "title": "C1-Hoehen-T3-409-Text"
             }
           }
         ]
       },
       {
-        "id": "3ddf610acbdccaec",
+        "id": "c715a912996a1f12",
         "type": "tabs",
-        "dimension": 29.555416405760802,
+        "dimension": 31.8733153638814,
         "children": [
           {
             "id": "59b4ee8f25e702fd",
@@ -41,20 +41,6 @@
               },
               "icon": "lucide-file",
               "title": "C1-Hoehen-T1-201-Unmarked-Text"
-            }
-          },
-          {
-            "id": "4eefe3867d13df51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-432-Text"
             }
           }
         ]
@@ -114,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 391.5
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -210,43 +196,44 @@
   },
   "active": "77e27b049107f114",
   "lastOpenFiles": [
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-409/C1-Hoehen-T1-409-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-409/C1-Hoehen-T1-409-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-408/C1-Hoehen-T1-408-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-408/C1-Hoehen-T1-408-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-407/C1-Hoehen-T1-407-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-407/C1-Hoehen-T1-407-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-406/C1-Hoehen-T1-406-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-406/C1-Hoehen-T1-406-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-405/C1-Hoehen-T1-405-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-405/C1-Hoehen-T1-405-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-404/C1-Hoehen-T1-404-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-404/C1-Hoehen-T1-404-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-403/C1-Hoehen-T1-403-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-403/C1-Hoehen-T1-403-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-402/C1-Hoehen-T1-402-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-402/C1-Hoehen-T1-402-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Text.md",
-    "Anhänge/37_Modelltest 10_Teil_1.mp3",
-    "Anhänge/33_Modelltest 9_Teil_1.mp3",
-    "Anhänge/29_Modelltest 8_Teil_1.mp3",
-    "Anhänge/25_Modelltest 7_Teil_1.mp3",
-    "Anhänge/21_Modelltest 6_Teil_1.mp3",
-    "Anhänge/17_Modelltest 5_Teil_1.mp3",
-    "Anhänge/13_Modelltest 4_Teil_1.mp3",
-    "Anhänge/09_Modelltest 3_Teil_1.mp3",
-    "Anhänge/05_Modelltest 2_Teil_1 1.mp3",
-    "Anhänge/05_Modelltest 2_Teil_1.mp3",
+    "Anhänge/35_Modelltest 9_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-408/C1-Hoehen-T3-408-Text.md",
+    "Anhänge/31_Modelltest 8_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-407/C1-Hoehen-T3-407-Text.md",
+    "Anhänge/27_Modelltest 7_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-406/C1-Hoehen-T3-406-Text.md",
+    "Anhänge/23_Modelltest 6_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-405/C1-Hoehen-T3-405-Text.md",
+    "Anhänge/19_Modelltest 5_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-404/C1-Hoehen-T3-404-Text.md",
+    "Anhänge/15_Modelltest 4_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-403/C1-Hoehen-T3-403-Text.md",
+    "Anhänge/11_Modelltest 3_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-402/C1-Hoehen-T3-402-Text.md",
+    "Anhänge/07_Modelltest 2_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-401/C1-Hoehen-T3-401-Text.md",
+    "Anhänge/03_Modelltest 1_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-400/C1-Hoehen-T3-400-Text.md",
+    "Anhänge/39_Modelltest 10_Teil_3.mp3",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-400/C1-Hoehen-T3-400-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-409/C1-Hoehen-T3-409-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-409/C1-Hoehen-T3-409-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-408/C1-Hoehen-T3-408-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-407/C1-Hoehen-T3-407-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-406/C1-Hoehen-T3-406-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-405/C1-Hoehen-T3-405-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-404/C1-Hoehen-T3-404-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-403/C1-Hoehen-T3-403-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-402/C1-Hoehen-T3-402-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-401/C1-Hoehen-T3-401-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-400/C1-Hoehen-T3-400-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-3/C1-Hoehen-T3-300/C1-Hoehen-T3-300-Text.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-402/C1-Hoehen-T3-402-Loesung.md",
+    "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Text.md",
     "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-2/C1-Hoehen-T1-201/C1-Hoehen-T1-201-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-408/C1-Hoehen-T1-408-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-409/C1-Hoehen-T1-409-Loesung.md",
+    "Anhänge/Pasted image 20250606051822.png",
+    "Anhänge/37_Modelltest 10_Teil_1.mp3",
     "Anhänge/Pasted image 20250606043334.png",
-    "C1 Hoeren/C1-Hoehen-T1/0-C1-Hoehen-T1-Ubung-List.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-403/C1-Hoehen-T1-403-Loesung.md",
     "Anhänge/Pasted image 20250606032304.png",
     "Anhänge/Pasted image 20250606032244.png",
     "Anhänge/Pasted image 20250605095030.png",
@@ -254,7 +241,6 @@
     "Anhänge/Pasted image 20250603085149.png",
     "Anhänge/Pasted image 20250603085115.png",
     "Anhänge/Pasted image 20250603084654.png",
-    "Anhänge/Pasted image 20250528071457.png",
-    "Anhänge/Pasted image 20250528065432.png"
+    "Anhänge/Pasted image 20250528071457.png"
   ]
 }

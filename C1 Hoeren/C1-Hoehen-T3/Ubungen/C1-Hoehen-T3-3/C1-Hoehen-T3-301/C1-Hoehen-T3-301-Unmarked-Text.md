@@ -55,12 +55,6 @@
 ---
 ---
 
-
-*Sie hören ein Gespräch mit mehreren Personen über den Fachkräftemangel.*  
-*Sie hören den Text in vier Abschnitten jeweils einmal.*
-
-Certainly! Here’s your transcript from Hören Teil 3 (Modelltest 1 – Track 3), preserving each answer block as a single Absatz without internal breaks:
-
 **Moderator:**  
 Herzlich willkommen zur heutigen Ausgabe unseres aktuellen Berufstalks mit den Gästen Mariella Ebner-Perrotti, Soziologin aus Erfurt, und Herrn Dr. Jens Osterholz vom Institut der deutschen Wirtschaft. Wir möchten uns heute dem Thema Fachkräftemangel widmen, denn es vergeht ja kaum ein Tag ohne alarmierende und beunruhigende Informationen in allen Medien.
 
@@ -114,4 +108,6 @@ Die Löhne und Gehälter sind ein Aspekt, aber es wird künftig auch immer wicht
 
 **Moderator:**  
 Das Thema wird uns wohl noch länger beschäftigen und wir dürfen gespannt sein, welche die richtigen Strategien sein werden, um unsere Wirtschaft zukunftssicher zu machen.
+
+
 
