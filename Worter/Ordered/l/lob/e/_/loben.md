@@ -34,4 +34,4 @@ PI: [[lobend]], PII: [[gelobt]], Zu+inf: [[zu loben]]
 
 ---
 [[Lob]], [[Lobpreisung]], [[loblich]], [[Lobeshymne]]
-, [[empfehlen]], [[ausloben]], [[verteufeln]]
+, [[empfehlen]], [[ausloben]], [[verteufeln]], [[abhalftern]]

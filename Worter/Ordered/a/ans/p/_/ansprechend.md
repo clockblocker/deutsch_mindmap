@@ -1,1 +1,1 @@
-, [[ansprechen]], [[lebendig]], [[Lesenswert]]
+, [[ansprechen]], [[lebendig]], [[Lesenswert]], [[reizvoll]]

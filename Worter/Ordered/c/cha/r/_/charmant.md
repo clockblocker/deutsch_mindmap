@@ -3,6 +3,8 @@
 ---
 [[Ein Auge zudrücken.md#^4|^]] Denn Roman ist der [[charmanteste]] Mensch der Welt. Hat er mal wieder den Wein danebengegossen, entschuldigt er sich so nett beim Gast, dass dieser ihm sofort [[verzeiht]]
 
+*[[C1-Hoehen-T1-401-Text#^3|^]]* Ein besonderer Pluspunkt sind die [[Führung]]en, die mit [[charmant]]en Anekdoten [[aufwarten]], historische Details [[lebendig]] werden lassen, auch wenn es manchmal ein bisschen [[zu viel des Guten]] ist und man sich den einen oder anderen [[Besichtigungspunkt]] sparen könnte
+
 *[[C1-Hoehen-T1-201-Text#^21|^]]* Hier geht es um ein [[charmantes]], allerdings auch sehr naives Paar, das gerade frisch verliebt ist, auch wenn die beiden selbst nicht mehr ganz so frisch sind
  
 ---
@@ -28,3 +30,4 @@ P: [[charmanten]], [[charmanteren]], [[charmantesten]]
 
 ---
 [[Charme]], [[charmieren]], [[Charmeur]]
+, [[rassig]]

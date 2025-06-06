@@ -27,4 +27,4 @@ G: der [[Sünde]], der [[Sünden]]
 D: der [[Sünde]], den [[Sünden]]
 
 
-#Feminin 
+#Feminin , [[Pflichtverletzung]]

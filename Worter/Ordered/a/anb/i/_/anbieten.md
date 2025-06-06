@@ -58,3 +58,4 @@ Zu+infinifive: [[anzubieten]]
 ---
 
 [[Angebot]], [[Anbieter]], [[Anbieterin]], [[Angebotspreis]], [[Angebotsvergleich]], [[ablehnen]], [[vermarkten]], [[einbringen]], [[Äußerung]], [[Unterstützungsangebot]], [[abgrenzen]], [[bereitstellen]], [[Unterhaltungsangebot]], [[spendieren]], [[ausloben]], [[verteilen]]
+, [[aufwarten]]

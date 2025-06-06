@@ -1,1 +1,1 @@
-, [[kommen]]
+, [[kommen]], [[aufkommen]]

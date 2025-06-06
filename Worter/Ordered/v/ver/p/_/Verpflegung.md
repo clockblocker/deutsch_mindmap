@@ -1,7 +1,9 @@
 🍽️ 🔴 die [[Verpflegung]], [fɛɐ̯ˈp͡fleːɡʊŋ](https://youglish.com/pronounce/Verpflegung/german)
 
 ---
-, [[Zugriff]]
+*[[C1-Hoehen-T1-401-Text#^5|^]]* Ein [[unbestritten]]es Highlight der Reise ist die [[Verpflegung]], die man ohne [[Übertreibung]] als ein [[lustvoll]]es [[Eintauchen]] in mediterrane [[Esskultur]] [[bezeichnen]] darf
+
+*[[C1-Hoehen-T1-401-Text#^16|^]]* [[Unterkünfte]], [[Verpflegung]], Führungen, Wanderprogramm: Alles ist genau so, wie im Angebot beschrieben
 
 ---
 = [[Essen]], [[Beköstigung]], [[Versorgung]]

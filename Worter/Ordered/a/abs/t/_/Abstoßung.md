@@ -1,1 +1,1 @@
-, [[Ausstrahlung]], [[Sog]]
+, [[Ausstrahlung]], [[Sog]], [[Anziehung]]

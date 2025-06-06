@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-202-Text#^15|^]]* Oder welche Möglichkeiten es gibt, eure Kinder in die neue [[Lebensweise]] [[miteinzubeziehen]], indem beispielsweise geschenkte Geburtstage organisiert sind
 
+*[[C1-Hoehen-T1-401-Text#^10|^]]* Unbedingt [[erwähnenswert]] sind die Führungen, die auf eine sehr [[gelungen]]e Art die Teilnehmenden [[miteinbeziehen]]
+
 ---
 = [[berücksichtigen]], [[einbeziehen]], [[integrieren]]
 ≈ [[beachten]], [[einbinden]], [[mit einbeziehen]]

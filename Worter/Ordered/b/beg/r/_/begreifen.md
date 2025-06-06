@@ -39,4 +39,4 @@ PI: [[begreifend]], PII: [[begriffen]], Zu+inf: [[zu begreifen]]
 [[begreifen]] - [[be]] = [[greifen]] / to comprehend, to understand
 
 ---
-[[Begreifen]], [[Begreifbarkeit]], [[begreiflich]], [[unbegreiflich]], [[Verständnis]], [[lehren]], [[raffen]], [[umfassen]], [[Auffassung]], [[greifbar]], [[zurechtfinden]], [[Wissen]], [[erschließen]], [[auffassen]]
+[[Begreifen]], [[Begreifbarkeit]], [[begreiflich]], [[unbegreiflich]], [[Verständnis]], [[lehren]], [[raffen]], [[umfassen]], [[Auffassung]], [[greifbar]], [[zurechtfinden]], [[Wissen]], [[erschließen]], [[auffassen]], [[inbegriffen]]

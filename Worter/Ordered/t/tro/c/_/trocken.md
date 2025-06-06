@@ -31,4 +31,4 @@ N: [[trockenes]], [[trockeneres]], [[trockenerstes]]
 P: [[trockenen]], [[trockeneren]], [[trockensten]]  
 
 ---
-[[trocknen]], [[Trockenheit]], [[Trockner]], [[austrocknen]], [[trocknen]], [[unfruchtbar]]
+[[trocknen]], [[Trockenheit]], [[Trockner]], [[austrocknen]], [[trocknen]], [[unfruchtbar]], [[unterhaltsam]]

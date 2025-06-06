@@ -4,6 +4,8 @@ die [[Grenzen]]
 ---
 An der [[Grenze]] kontrolliert die Polizei die Autos
 
+*[[C1-Hoehen-T1-401-Text#^7|^]]* [[Windumtoste]] Küsten, weite Strände, elegante Seebäder, zahlreiche [[Zeugnis]]se der Megalithkultur: All dies bietet die [[bretonisch]]e Küste, die man auf Fahrten und Wanderungen erkundet, wobei Letztere allerdings so manch einen an seine [[Grenzen]] [[gelangen]] `lassen`
+
 *[[bro-schrieben-c1-t1-001#^2|^]]* Der wichtigste Grund für die [[Einnahme]] eines [[Dopingmittel]]s ist, die [[Leistungsfähigkeit]] zu erhöhen und die [[Grenze]] des menschlichen Organismus zu [[erweitern]]
 
 [[Zulassungsgrenze]]

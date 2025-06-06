@@ -1,1 +1,1 @@
-, [[interessant]], [[erstaunlich]], [[langweilig]], [[attraktiv]], [[überwältigend]], [[sehenswert]]
+, [[interessant]], [[erstaunlich]], [[langweilig]], [[attraktiv]], [[überwältigend]], [[sehenswert]], [[reizvoll]], [[atemberaubend]]

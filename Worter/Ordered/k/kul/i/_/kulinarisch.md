@@ -1,1 +1,1 @@
-, [[essbar]]
+*[[C1-Hoehen-T1-401-Text#^9|^]]* Vom Luxushotel bis hin zum [[urigen]] Bauernhaus, eine [[herrlich]]e [[Abwechslung]], ein immer wieder neues [[Lebensgefühl]] – zu dem auch die [[kulinarisch]]en [[Genüsse]] [[beitragen]], darunter selbstverständlich Austern, der ganze Stolz der lokalen Austernfischer

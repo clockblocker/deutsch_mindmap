@@ -1,1 +1,1 @@
-, [[entwischen]], [[wischen]]
+, [[entwischen]], [[wischen]], [[wegwischen]]

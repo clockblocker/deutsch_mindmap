@@ -1,1 +1,1 @@
-, [[südeuropäisch]]
+, [[südeuropäisch]], [[südländisch]]

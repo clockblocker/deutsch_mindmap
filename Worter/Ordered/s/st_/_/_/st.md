@@ -1,1 +1,1 @@
-[[liebsten]], [[sterben]], [[stehen]]
+[[liebsten]], [[sterben]], [[stehen]], [[reizvoll]]

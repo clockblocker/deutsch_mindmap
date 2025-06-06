@@ -3,6 +3,7 @@
 haben [[geheißen]]
 
 ---
+*[[C1-Hoehen-T1-401-Text#^8|^]]* Doch sobald man in den [[Unterkünften]] willkommen [[geheißen]] wird, ist dies aus der [[Erinnerung]] wie [[weggewischt]]
 
 Ein [[Loch]] im [[Bauch]] – da denkt man doch gleich an [[Mord]] und Totschlag. Zum Glück [[steckt]] [[meist]] etwas ganz Harmloses [[dahinter]]. Was aber nicht [[heißt]], dass die [[betroffenen]] Menschen sich [[darüber]] [[freuen]] würden.
 

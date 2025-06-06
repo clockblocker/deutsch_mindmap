@@ -3,6 +3,7 @@
 haben [[zurückgekehrt]]
 
 ---
+*[[C1-Hoehen-T1-402-Text#^5|^]]* Ihm [[seinerseits]] geht es [[einzig]] darum, sich zu rehabilitieren und in die Großstadt [[zurückzukehren]]
 
 _[[17 zu inf#^2|^]]_ Mein Vetter Eduard hatte an einem Frühlingsabend vor zwölf Jahren das Haus [[verlassen]], um einen Brief in den Kasten zu stecken, und war nicht [[zurückgekehrt]]
 

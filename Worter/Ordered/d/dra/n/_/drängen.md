@@ -1,7 +1,9 @@
 💪 [[drängen]], [ˈdʁɛŋən](https://youglish.com/pronounce/drängen/german) → [[drängte]] → haben/sein [[gedrängt]]
 
 ---
-*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
+*[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte
+
+*[[C1-Hoehen-T1-402-Text#^23|^]]* Während ihres Pharmazie­studiums hat sich Marja auch [[rechtsmedizinisch]]e Kenntnisse [[angeeignet]] und [[drängt]] Kommissar Schaubert, die Verfahren dieser noch recht neuen Wissenschaft auszunutzen
 
 
 ---

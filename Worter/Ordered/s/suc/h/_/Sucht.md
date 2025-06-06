@@ -37,4 +37,4 @@ G: der [[Sucht]], der [[Süchte]]
 D: der [[Sucht]], den [[Süchten]]
 
 
-#Feminin , [[Internetsucht]], [[Computerspielsucht]], [[Sehnsucht]]
+#Feminin , [[Internetsucht]], [[Computerspielsucht]], [[Sehnsucht]], [[Eifersucht]]

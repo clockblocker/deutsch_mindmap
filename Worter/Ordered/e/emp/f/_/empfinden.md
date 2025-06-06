@@ -37,4 +37,4 @@ sie, [[empfinden]], [[empfanden]], [[empfinden]], [[empfänden]], [[empfinden]]
 Adjektive: [[empfindend]], [[empfindender]], [[empfindendst]]
 
 ---
-[[empfindender]], [[empfindendes]], [[empfindende]], [[empfindenden]], [[empfindendem]], [[empfindenderer]], [[empfindenderes]], [[empfindendere]], [[empfindenderen]], [[empfindenderem]], [[empfindendster]], [[empfindendstes]], [[empfindendste]], [[empfindendsten]], [[empfindendstem]]
+[[empfindender]], [[empfindendes]], [[empfindende]], [[empfindenden]], [[empfindendem]], [[empfindenderer]], [[empfindenderes]], [[empfindendere]], [[empfindenderen]], [[empfindenderem]], [[empfindendster]], [[empfindendstes]], [[empfindendste]], [[empfindendsten]], [[empfindendstem]], [[Lebensgefühl]]

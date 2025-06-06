@@ -46,3 +46,4 @@ Zu+infinifive: [[einzusetzen]]
 [[Einsatz]], [[Einsetzen]], [[Einsetzung]], [[Einsatzbereit]], [[Einsatzleiter]], [[Einsatzfahrzeug]]
 
 [[steigen]], [[engagieren]]
+, [[ansetzen]]

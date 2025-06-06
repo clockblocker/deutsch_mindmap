@@ -1,1 +1,1 @@
-, [[tadeln]], [[beschweren]], [[reklamieren]], [[kritisieren]], [[einwenden]]
+, [[tadeln]], [[beschweren]], [[reklamieren]], [[kritisieren]], [[einwenden]], [[abhalftern]]

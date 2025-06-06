@@ -8,6 +8,8 @@
 
 *[[C1-Hoehen-T2-100-Text#^6|^]]* Bei [[denjenig]]en Menschen, die aktuell Sozialleistungen [[beziehen]], könnte ein bedingungsloses Grundeinkommen die meisten dieser [[Leistung]]en ersetzen.  
 
+*[[C1-Hoehen-T1-401-Text#^18|^]]* Doch genau da setzt dieser Newcomer an: ein [[außergewöhnlich]]es [[Reiseerlebnis]], das auch [[denjenigen]] [[offensteht]], die eine gewisse Flexibilität bei den Reisekosten suchen und sich solche Reisen [[bislang]] nicht leisten konnten
+
 
 ---
 = [[jener]], [[selbiger]]

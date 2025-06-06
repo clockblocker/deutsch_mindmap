@@ -27,4 +27,4 @@ G: der [[Aufstellung]], der [[Aufstellungen]]
 D: der [[Aufstellung]], den [[Aufstellungen]]
 
 
-#Feminin 
+#Feminin , [[Besetzungsliste]]

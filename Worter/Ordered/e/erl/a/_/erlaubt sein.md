@@ -1,1 +1,1 @@
-, [[dürfen]]
+, [[dürfen]], [[offenstehen]]

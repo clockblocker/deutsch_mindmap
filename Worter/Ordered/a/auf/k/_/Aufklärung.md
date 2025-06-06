@@ -5,6 +5,10 @@
 ---
 12 Man kann der [[Politikverdrossenheit]] mit [[Aufklärung]] [[begegnen]].
 
+*[[C1-Hoehen-T1-402-Text#^6|^]]* Da wäre auch die [[Aufklärung]] eines spektakulären Falls höchst willkommen
+*(Then the [[investigation]] of a spectacular case would also be most welcome.)*
+
+
 ---
 = [[Erleuchtung]], [[Einsicht]], [[Vernunft]]
 ≈ [[Wissen]], [[Bildung]], [[Verstand]], [[Rationalismus]]
@@ -28,4 +32,4 @@ A: die [[Aufklärung]], die [[Aufklärungen]]
 G: der [[Aufklärung]], der [[Aufklärungen]]
 D: der [[Aufklärung]], den [[Aufklärungen]]
 
-#Feminin , [[Sensibilisierung]]
+#Feminin , [[Sensibilisierung]], [[Aufklärungsarbeit]]

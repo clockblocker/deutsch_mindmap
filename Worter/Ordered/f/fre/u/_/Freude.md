@@ -34,4 +34,4 @@ Morphems:
 #Substantiv #Feminin, [[Herzeleid]], [[Freudiges]], [[erfreuen]], [[Entscheidungsfreude]], [[Erleichterung]], [[Unmut]], [[Langeweile]]
 
 Freude, [[Freund]], [[Mühe]], [[Verdrossenheit]], [[Beschwernis]]
-, [[Zumutung]], [[Belieben]], [[Kopfzerbrechen]]
+, [[Zumutung]], [[Belieben]], [[Kopfzerbrechen]], [[Genuss]]

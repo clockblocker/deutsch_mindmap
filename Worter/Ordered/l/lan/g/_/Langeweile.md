@@ -5,8 +5,9 @@
 😩 🔴 die [[Langeweile]], [ˈlaŋəˌvaɪ̯lə](https://youglish.com/pronounce/Langeweile/german)
 
 ---
-*[[C1-Lesen-T2-101-Text#^19|^]]* Auch die [[Dauer]] des Spiels wird kürzer und es stellt sich schnell [[Langeweile]] ein. ^19
+*[[C1-Lesen-T2-101-Text#^19|^]]* Auch die [[Dauer]] des Spiels wird kürzer und es stellt sich schnell [[Langeweile]] ein.
 
+*[[C1-Hoehen-T1-401-Text#^2|^]]* Der [[Veranstalter]] hat ein sehr [[vielfältig]]es Programm zusammengestellt, das keine [[Langeweile]] [[aufkommen]] lässt
 
 ---
 = [[Ermüdung]], [[Unlust]], [[Tristesse]]

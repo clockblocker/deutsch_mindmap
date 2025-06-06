@@ -47,4 +47,4 @@ sie, [[bestreiten]], [[bestritten]], [[bestreiten]], [[bestritten]], [[bestreite
 Adjektive: [[bestreitend]], [[bestreitender]], [[bestreitendst]]
 
 ---
-[[bestreitender]], [[bestreitendes]], [[bestreitende]], [[bestreitenden]], [[bestreitendem]], [[bestreitenderer]], [[bestreitenderes]], [[bestreitendere]], [[bestreitenderen]], [[bestreitenderem]], [[bestreitendster]], [[bestreitendstes]], [[bestreitendste]], [[bestreitendsten]], [[bestreitendstem]]
+[[bestreitender]], [[bestreitendes]], [[bestreitende]], [[bestreitenden]], [[bestreitendem]], [[bestreitenderer]], [[bestreitenderes]], [[bestreitendere]], [[bestreitenderen]], [[bestreitenderem]], [[bestreitendster]], [[bestreitendstes]], [[bestreitendste]], [[bestreitendsten]], [[bestreitendstem]], [[unbestritten]]

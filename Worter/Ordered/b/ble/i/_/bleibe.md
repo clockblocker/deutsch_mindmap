@@ -1,2 +1,2 @@
 📍[[bleiben]]
-, [[Wohnort]], [[Wohnraum]]
+, [[Wohnort]], [[Wohnraum]], [[Unterkunft]]

@@ -40,3 +40,4 @@ Dative: der [[Gewalt]], den [[Gewalten]]
 [[gewaltig]], [[gewaltsam]], [[Staatsgewalt]], [[Gewaltenteilung]], [[Gewaltbereitschaft]], [[Gewaltopfer]], [[Gewaltprävention]], [[besonders]], [[Faustrecht]], [[Prügelstrafe]], [[Folter]], [[Beherrschung]], [[Verleumdung]]
 
 #Feminin , [[überwältigen]], [[Wältigen]], [[wortgewaltig]]
+, [[Urgewalt]]

@@ -23,4 +23,4 @@ D: der [[Wanderung]], den [[Wanderungen]]
 
 ---
 [[wandern]], [[Wanderer]], [[Wanderführer]], [[Wanderkarte]]
-</dictionary_entry>, [[einwandern]], [[Einwanderung]], [[Fußwanderung]], [[Zuwanderung]], [[Zuwanderer]], [[Abwanderung]], [[abwandern]]
+</dictionary_entry>, [[einwandern]], [[Einwanderung]], [[Fußwanderung]], [[Zuwanderung]], [[Zuwanderer]], [[Abwanderung]], [[abwandern]], [[Strandwanderung]]

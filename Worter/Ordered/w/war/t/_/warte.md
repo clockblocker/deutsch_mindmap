@@ -1,1 +1,1 @@
-Inf: [[warten]], [[untergehen]]
+Inf: [[warten]], [[untergehen]], [[aufwarten]]

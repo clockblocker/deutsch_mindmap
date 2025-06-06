@@ -1,1 +1,1 @@
-, [[gereizt]], [[herausfordern]], [[locken]], [[verführen]]
+, [[gereizt]], [[herausfordern]], [[locken]], [[verführen]], [[reizvoll]]

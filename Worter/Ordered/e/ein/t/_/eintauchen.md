@@ -1,13 +1,13 @@
-, [[tauchten]], [[untertauchen]], [[auswringen]]
-
 🏊 [[eintauchen]], [ˈaɪ̯ntaʊ̯xn̩](https://youglish.com/pronounce/eintauchen/german) → [[tauchte ein]] → [[eingetaucht]]
 
 ---
 *[[C1-Lesen-431-Text#^4|^]]* Beim [[Eintauchen]] in einen Text im Internet [[locken]] uns zusätzlich andere dort bereitstehende Artikel, YouTube-Videos oder E-Mails, die während des Lesens unsere [[Aufmerksamkeit]] [[heischen]]
 
+*[[C1-Hoehen-T1-401-Text#^5|^]]* Ein [[unbestritten]]es Highlight der Reise ist die [[Verpflegung]], die man ohne [[Übertreibung]] als ein [[lustvoll]]es [[Eintauchen]] in mediterrane [[Esskultur]] [[bezeichnen]] darf
+
 ---
 = [[versenken]], [[einsenken]], [[untertauchen]]
-≈ [[senken]], [[sinken]], [[untergehen]], [[baden]]
+≈ [[senken]], [[sinken]], [[untergehen]], [[baden]], [[tauchten]], [[untertauchen]], [[auswringen]]
 ≠ [[auftauchen]], [[emporsteigen]], [[aufsteigen]]
 
 ---

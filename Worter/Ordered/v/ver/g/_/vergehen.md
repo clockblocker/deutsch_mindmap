@@ -38,4 +38,4 @@ Morpheme: [[ver]], [[geh]], [[en]]
 Partizip I: [[vergehend]], Partizip II: [[vergangen]]
 
 [[vergehen]] - [[ver]] = [[gehen]], [[Leben]], [[aussterben]], [[Straftat]], [[begehen]], [[entstehen]], [[sterben]], [[bevorstehen]], [[zurückgehen]], [[verewigen]]
-, [[fortleben]]
+, [[fortleben]], [[Pflichtverletzung]]

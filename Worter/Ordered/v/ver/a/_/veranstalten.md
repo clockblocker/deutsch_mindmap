@@ -1,1 +1,1 @@
-, [[abhalten]], [[feiern]], [[ausrichten]], [[durchführen]], [[einberufen]]
+, [[abhalten]], [[feiern]], [[ausrichten]], [[durchführen]], [[einberufen]], [[Veranstalter]]

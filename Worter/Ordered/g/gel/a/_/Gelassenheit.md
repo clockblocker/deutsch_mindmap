@@ -1,3 +1,3 @@
 [[Ruhe]], [[Ruh]], [[Frieden]], [[geduld]]
 , [[Wutanfall]]
-, [[Gefühlsausbruch]], [[Arbeitsdruck]], [[Spannung]], [[Alarmismus]]
+, [[Gefühlsausbruch]], [[Arbeitsdruck]], [[Spannung]], [[Alarmismus]], [[Weißglut]]

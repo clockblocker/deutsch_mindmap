@@ -1,1 +1,1 @@
-, [[Örtlichkeit]]
+, [[Örtlichkeit]], [[Besichtigungspunkt]]

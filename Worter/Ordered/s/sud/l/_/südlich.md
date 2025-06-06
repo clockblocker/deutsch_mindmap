@@ -1,1 +1,1 @@
-, [[südlichen]], [[nördlich]], [[südöstlich]]
+, [[südlichen]], [[nördlich]], [[südöstlich]], [[südländisch]]

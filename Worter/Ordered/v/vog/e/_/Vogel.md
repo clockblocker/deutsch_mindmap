@@ -24,3 +24,4 @@ Morphems:
 ---
 
 #Substantiv #Maskulin, [[Zaunkönig]], [[Spatz]], [[Gans]], [[Papagei]], [[Kleintier]], [[Zugvogel]]
+, [[Austernfischer]]

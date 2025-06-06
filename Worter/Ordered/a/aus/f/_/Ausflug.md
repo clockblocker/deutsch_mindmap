@@ -26,4 +26,4 @@ D: dem [[Ausflug]], den [[Ausflügen]]
 ---
 [[Ausflugslokal]], [[Ausflugsgaststätte]], [[Ausflugsfahrt]], [[Ausflugsziel]], [[Ausflügler]], [[Spaziergang]], [[Dienstreise]], [[Flug]]
 
-#Maskulin 
+#Maskulin , [[Strandwanderung]]

@@ -1,1 +1,1 @@
-, [[Wirtschaft]], [[Marktwirtschaft]], [[messe]], [[vermarkten]], [[Supermarkt]], [[Wohnungsmarkt]], [[Marktgesetz]], [[marktwirtschaftlich]], [[Wirtschaftsbranche]], [[Marktforschung]], [[Konsumwelt]], [[Marktbeobachtung]], [[Marktdaten]], [[Markteinführung]], [[Konsummarkt]]
+, [[Wirtschaft]], [[Marktwirtschaft]], [[messe]], [[vermarkten]], [[Supermarkt]], [[Wohnungsmarkt]], [[Marktgesetz]], [[marktwirtschaftlich]], [[Wirtschaftsbranche]], [[Marktforschung]], [[Konsumwelt]], [[Marktbeobachtung]], [[Marktdaten]], [[Markteinführung]], [[Konsummarkt]], [[Marktsegment]]

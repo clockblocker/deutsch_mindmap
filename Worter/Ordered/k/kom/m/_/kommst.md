@@ -1,1 +1,1 @@
-, [[kommen]], [[näherkommen]], [[zurechtkommen]], [[zurecht]]
+, [[kommen]], [[näherkommen]], [[zurechtkommen]], [[zurecht]], [[aufkommen]]

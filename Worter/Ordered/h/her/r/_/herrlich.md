@@ -6,6 +6,8 @@ nicht [[schrecklich]]
 ---
 Da ging der Mann zurück und wirklich: vor ihm stand ein [[herrliches]] Haus, mit einem neuen roten Dach [[12 Past#^6|(Quelle: 12 Past)]] 
 
+*[[C1-Hoehen-T1-401-Text#^9|^]]* Vom Luxushotel bis hin zum [[urigen]] Bauernhaus, eine [[herrlich]]e [[Abwechslung]], ein immer wieder neues [[Lebensgefühl]] – zu dem auch die [[kulinarisch]]en Genüsse [[beitragen]], darunter selbstverständlich Austern, der ganze Stolz der lokalen Austernfischer
+
 
 ---
 = [[wunderbar]], [[großartig]], [[prächtig]]

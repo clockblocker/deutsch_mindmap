@@ -34,4 +34,4 @@ G: des [[Kontakts]], der [[Kontakte]]
 D: dem [[Kontakt]], den [[Kontakten]]
 
 
-#Maskulin 
+#Maskulin , [[Bekanntschaft]]

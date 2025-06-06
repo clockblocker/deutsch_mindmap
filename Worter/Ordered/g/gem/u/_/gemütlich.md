@@ -1,1 +1,1 @@
-, [[bequem]], [[faul]]
+, [[bequem]], [[faul]], [[urig]]

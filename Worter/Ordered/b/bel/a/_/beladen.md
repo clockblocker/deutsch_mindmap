@@ -1,2 +1,2 @@
 , [[füllen]], [[laden]]
-, [[bestücken]]
+, [[bestücken]], [[frachten]]

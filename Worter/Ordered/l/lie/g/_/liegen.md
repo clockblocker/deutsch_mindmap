@@ -2,6 +2,8 @@
 
 ---
 
+*[[C1-Hoehen-T1-401-Text#^4|^]]* Die Wanderrouten [[hingegen]] [[liegen]] wohl [[eher]] unter dem deklarierten [[Anforderungsprofil]]
+
 *[[C1-Hoehen-T1-102-Text#^5|^]]* Anhand zahlreicher Beispiele aus der [[wahren]] Welt der Wirtschaft zeigt sie, wie [[überraschend]] groß der [[Einfluss]] von Unternehmen ist, deren [[Weltanschauung]] ethische [[Prinzip]]ien [[zugrunde]] [[liegen]]
 
 *[[bro-schrieben-c1-t1-001#^10|^]]* Ich würde einen [[Vorschlag]] zur [[Steigerung]] der [[Leistung]] ohne Dopingmittel [[unterbreiten]]. Eine Möglichkeit wäre, nach dem Training in einer [[Dekompressionskammer]] zu [[liegen]], um das [[Sauerstoffniveau]] im Blut zu erhöhen

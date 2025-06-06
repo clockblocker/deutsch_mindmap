@@ -2,7 +2,9 @@
 nicht [[bescheiden]], [[demütig]]
 
 ---
-Mr und Mrs Dursley im Ligusterweg Nummer 4 waren [[stolz]] darauf, ganz und gar normal zu sein, sehr stolz [[sogar]].
+Mr und Mrs Dursley im Ligusterweg Nummer 4 waren [[stolz]] darauf, ganz und gar normal zu sein, sehr stolz [[sogar]]
+
+*[[C1-Hoehen-T1-401-Text#^9|^]]* Vom Luxushotel bis hin zum [[urigen]] Bauernhaus, eine [[herrlich]]e [[Abwechslung]], ein immer wieder neues [[Lebensgefühl]] – zu dem auch die [[kulinarisch]]en [[Genüsse]] [[beitragen]], darunter selbstverständlich Austern, der ganze [[Stolz]] der lokalen [[Austernfischer]]
 
 *Es ist [[lächerlich]]*  
 *sagt der [[Stolz]]
@@ -33,3 +35,5 @@ Einzigartige mögliche Formen:
 [[stolz]], [[stolzer]], [[stolze]], [[stolzes]], [[stolzen]], [[stolzem]], [[stolzer]], [[stolzen]]
 [[stolzer]], [[stolzerer]], [[stolzere]], [[stolzeres]], [[stolzeren]], [[stolzerem]], [[stolzerer]], [[stolzeren]]
 [[stolzesten]], [[stolzester]], [[stolzeste]], [[stolzestes]], [[stolzesten]], [[stolzestem]], [[stolzester]], [[stolzesten]], [[Demut]]
+
+#Feminin 

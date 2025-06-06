@@ -3,7 +3,9 @@
 die [[Bedürfnisse]]
 
 ---
-Ich habe vollstes Verständnis dafür, dass ein [[Umzug]] unter Zeitdruck nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann.
+Ich habe vollstes Verständnis dafür, dass ein [[Umzug]] unter Zeitdruck nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann
+
+*[[C1-Hoehen-T1-402-Text#^15|^]]* Sein völlig [[utopisch]]es, doch [[existenziell]]es [[Bedürfnis]] nach einer [[rein]]en, [[unschuldig]]en Liebe [[lebt aus|lebt]] er in einer platonischen [[Beziehung]] zu der jungen [[Schauspielerin]] Paola aus
 
 *[[C1-Hoehen-T1-202-Text#^26|^]]* *Heute fordern die [[Vereinten]] Nationen eine Entwicklung beim Klimaschutz, die den [[Erfordernis]]sen der heutigen Generationen [[zwar]] [[entspricht]],* ohne jedoch die [[Bedürfnis]]se künftiger Generationen zu [[gefährden]]
 

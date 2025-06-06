@@ -5,6 +5,7 @@
 haben [[abgestoßen]]
 
 ---
+*[[C1-Hoehen-T1-402-Text#^13|^]]* Heimisch im Großstadtsumpf, der ihn [[abstößt]], dessen [[Anziehung]] er sich jedoch nicht [[entziehen]] kann
 
 (Nimmt seinen Gleiter auf den Rücken, [[stößt]] sich vom Boden [[ab]] und fliegt)
 

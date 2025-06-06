@@ -60,4 +60,4 @@ sie, [[umgeben]], [[umgaben]], [[umgeben]], [[umgäben]], [[umgäben]]
 Adjektive: [[umgebend]], [[umgebender]], [[umgebendst]]
 
 ---
-[[umgebender]], [[umgebendes]], [[umgebende]], [[umgebenden]], [[umgebendem]], [[umgebenderer]], [[umgebenderes]], [[umgebendere]], [[umgebenderen]], [[umgebenderem]], [[umgebendster]], [[umgebendstes]], [[umgebendste]], [[umgebendsten]], [[umgebendstem]], [[angrenzen]]
+[[umgebender]], [[umgebendes]], [[umgebende]], [[umgebenden]], [[umgebendem]], [[umgebenderer]], [[umgebenderes]], [[umgebendere]], [[umgebenderen]], [[umgebenderem]], [[umgebendster]], [[umgebendstes]], [[umgebendste]], [[umgebendsten]], [[umgebendstem]], [[angrenzen]], [[umtosen]]

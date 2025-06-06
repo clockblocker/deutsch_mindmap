@@ -1,1 +1,1 @@
-, [[Blockveranstaltung]]
+, [[Blockveranstaltung]], [[Veranstalter]]

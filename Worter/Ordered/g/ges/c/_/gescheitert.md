@@ -1,2 +1,3 @@
 , [[erfolgreich]]
 🚫 [[scheitern]], [[erfolglos]]
+[[scheitern]]

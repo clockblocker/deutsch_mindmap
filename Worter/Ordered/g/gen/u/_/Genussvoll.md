@@ -1,1 +1,1 @@
-, [[genießen]]
+, [[genießen]], [[lustvoll]]

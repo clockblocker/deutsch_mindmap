@@ -45,4 +45,4 @@ sie, [[wandern]], [[wanderten]], [[wandern]], [[wanderten]], [[wandern]]
 Adjektive: [[wandernd]], [[wandernder]], [[wanderndst]]
 
 ---
-[[wandernder]], [[wanderndes]], [[wandernde]], [[wandernden]], [[wanderndem]], [[wandernderer]], [[wandernderes]], [[wanderndere]], [[wandernderen]], [[wandernderem]], [[wanderndster]], [[wanderndstes]], [[wanderndste]], [[wanderndsten]], [[wanderndstem]], [[Küstenwanderweg]], [[Fußwanderung]], [[Zuwanderung]], [[Zuwanderer]], [[abwandern]]
+[[wandernder]], [[wanderndes]], [[wandernde]], [[wandernden]], [[wanderndem]], [[wandernderer]], [[wandernderes]], [[wanderndere]], [[wandernderen]], [[wandernderem]], [[wanderndster]], [[wanderndstes]], [[wanderndste]], [[wanderndsten]], [[wanderndstem]], [[Küstenwanderweg]], [[Fußwanderung]], [[Zuwanderung]], [[Zuwanderer]], [[abwandern]], [[Strandwanderung]]

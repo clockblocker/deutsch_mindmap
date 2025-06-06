@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Gräbens]], [[Gräben]], [[Gräbern]]
 
 ---
-#Substantiv #Maskulin, [[Grabe]], [[Grab]], [[buddeln]], [[Kanal]]
+#Substantiv #Maskulin, [[Grabe]], [[Grab]], [[buddeln]], [[Kanal]], [[untergraben]]

@@ -19,3 +19,4 @@ too much
 [[zu]]|[[viel]]
 [[zuviel]]
 
+, [[zu viel des Guten]]

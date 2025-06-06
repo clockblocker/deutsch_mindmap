@@ -1,1 +1,1 @@
-, [[witzig]], [[geistreich]], [[Anekdotisch]]
+, [[witzig]], [[geistreich]], [[Anekdotisch]], [[unterhaltsam]]

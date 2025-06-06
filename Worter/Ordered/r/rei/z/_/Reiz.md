@@ -1,1 +1,1 @@
-, [[Schönheit]], [[gereizt]], [[Reizüberflutung]], [[Anreiz]], [[Ausstrahlung]]
+, [[Schönheit]], [[gereizt]], [[Reizüberflutung]], [[Anreiz]], [[Ausstrahlung]], [[reizvoll]], [[Anziehung]]

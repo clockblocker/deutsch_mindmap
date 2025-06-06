@@ -28,4 +28,4 @@ G: der [[Zielgruppe]], der [[Zielgruppen]]
 D: der [[Zielgruppe]], den [[Zielgruppen]]
 
 
-#Feminin 
+#Feminin , [[Marktsegment]]

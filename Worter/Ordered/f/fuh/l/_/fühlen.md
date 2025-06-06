@@ -70,4 +70,4 @@ sie, [[fühlen]], [[fühlten]], [[fühlen]], [[fühlten]], [[fühlen]]
 Adjektive: [[fühlend]], [[fühlender]], [[fühlendst]]
 
 ---
-[[fühlender]], [[fühlendes]], [[fühlende]], [[fühlenden]], [[fühlendem]], [[fühlenderer]], [[fühlenderes]], [[fühlendere]], [[fühlenderen]], [[fühlenderem]], [[fühlendster]], [[fühlendstes]], [[fühlendste]], [[fühlendsten]], [[fühlendstem]]
+[[fühlender]], [[fühlendes]], [[fühlende]], [[fühlenden]], [[fühlendem]], [[fühlenderer]], [[fühlenderes]], [[fühlendere]], [[fühlenderen]], [[fühlenderem]], [[fühlendster]], [[fühlendstes]], [[fühlendste]], [[fühlendsten]], [[fühlendstem]], [[Lebensgefühl]]

@@ -27,4 +27,4 @@ G: der [[Vertrautheit]], der [[Vertrautheiten]]
 D: der [[Vertrautheit]], den [[Vertrautheiten]]
 
 
-#Feminin 
+#Feminin , [[Bekanntschaft]]

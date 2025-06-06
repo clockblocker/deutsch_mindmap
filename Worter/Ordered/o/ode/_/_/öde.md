@@ -1,1 +1,1 @@
-, [[interessant]], [[langweilig]], [[Langeweile]], [[unfruchtbar]], [[amüsant]], [[kurzweilig]]
+, [[interessant]], [[langweilig]], [[Langeweile]], [[unfruchtbar]], [[amüsant]], [[kurzweilig]], [[unterhaltsam]]

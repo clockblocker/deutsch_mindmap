@@ -1,1 +1,1 @@
-, [[einpacken]], [[einladen]]
+, [[einpacken]], [[einladen]], [[frachten]]

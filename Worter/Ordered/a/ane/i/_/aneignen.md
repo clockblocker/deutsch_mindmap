@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-200-Text#^21|^]]* Ja, aber gehören denn sprachliche, musische, empathische [[Begabung]]en usw. nicht eher zu Soft Skills, die man sich durch Lernen, Üben und [[Erfahrung]] auch [[aneignen]] kann, die einem also nicht unbedingt in die [[Wiege]] gelegt wurden?
 
+*[[C1-Hoehen-T1-402-Text#^23|^]]* Während ihres Pharmazie­studiums hat sich Marja auch [[rechtsmedizinisch]]e Kenntnisse [[angeeignet]] und [[drängt]] Kommissar Schaubert, die Verfahren dieser noch recht neuen Wissenschaft auszunutzen
+
 ---
 = [[erwerben]], [[lernen]], [[sich aneignen]]
 ≈ [[erlangen]], [[beherrschen]], [[studieren]]

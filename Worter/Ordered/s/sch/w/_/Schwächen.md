@@ -1,1 +1,1 @@
-, [[Nachteile]], [[Schwäche]], [[stützen]], [[Schwachstellen]], [[stärken]], [[abschwächen]], [[verstärken]], [[schaden]], [[auszehren]], [[festigen]]
+, [[Nachteile]], [[Schwäche]], [[stützen]], [[Schwachstellen]], [[stärken]], [[abschwächen]], [[verstärken]], [[schaden]], [[auszehren]], [[festigen]], [[untergraben]]

@@ -24,4 +24,4 @@ passionate
 Adjektive: [[leidenschaftlich]], [[leidenschaftlicher]], [[leidenschaftlichst]]
 
 ---
-[[leidenschaftlicher]], [[leidenschaftliches]], [[leidenschaftliche]], [[leidenschaftlichen]], [[leidenschaftlichem]], [[leidenschaftlicherer]], [[leidenschaftlicheres]], [[leidenschaftlichere]], [[leidenschaftlicheren]], [[leidenschaftlicherem]], [[leidenschaftlichster]], [[leidenschaftlichstes]], [[leidenschaftlichste]], [[leidenschaftlichsten]], [[leidenschaftlichstem]]****, [[emotional]]
+[[leidenschaftlicher]], [[leidenschaftliches]], [[leidenschaftliche]], [[leidenschaftlichen]], [[leidenschaftlichem]], [[leidenschaftlicherer]], [[leidenschaftlicheres]], [[leidenschaftlichere]], [[leidenschaftlicheren]], [[leidenschaftlicherem]], [[leidenschaftlichster]], [[leidenschaftlichstes]], [[leidenschaftlichste]], [[leidenschaftlichsten]], [[leidenschaftlichstem]]****, [[emotional]], [[lustvoll]]

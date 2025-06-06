@@ -1,3 +1,3 @@
 
 , [[abzüglich]]
-, [[einschließlich]], [[samt]]
+, [[einschließlich]], [[samt]], [[inbegriffen]]

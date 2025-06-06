@@ -1,1 +1,1 @@
-, [[Mitglied]], [[Bewerber]], [[teilnehmen]], [[Proband]], [[Teilnahme]], [[teilhaben]], [[Zuhörer]], [[Forumsteilnehmer]]
+, [[Mitglied]], [[Bewerber]], [[teilnehmen]], [[Proband]], [[Teilnahme]], [[teilhaben]], [[Zuhörer]], [[Forumsteilnehmer]], [[Veranstalter]]

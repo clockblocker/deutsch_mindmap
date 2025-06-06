@@ -1,1 +1,1 @@
-, [[Versorgung]], [[unterhalten]]
+, [[Versorgung]], [[unterhalten]], [[unterhaltsam]]

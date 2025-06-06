@@ -87,4 +87,4 @@ Zusätzliche Informationen:
 - Abgeleitet vom Verb [[warten]]
 - Bezeichnet den Vorgang oder Zustand des Wartens
 - Infinitiv als Substantivierung, [[Vorgehen]], [[s1 e1]], [[hinstehen]]
-, [[drängeln]]
+, [[drängeln]], [[aufwarten]]

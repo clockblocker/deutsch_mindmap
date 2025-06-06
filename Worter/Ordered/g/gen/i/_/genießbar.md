@@ -30,3 +30,4 @@ Neuter: [[genießbares]], [[genießbareres]], [[genießbarstes]]
 Plural: [[genießbaren]], [[genießbaren]], [[genießbarsten]]
 
 [[Genießbarkeit]], [[ungenießbar]], [[genießen]], [[essbar]]
+, [[Genuss]]

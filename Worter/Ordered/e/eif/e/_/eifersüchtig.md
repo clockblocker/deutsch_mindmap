@@ -29,3 +29,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[eifersüchtig]], [[eifersüchtiger]], [[eifersüchtige]], [[eifersüchtiges]], [[eifersüchtigen]], [[eifersüchtigem]], [[eifersüchtiger]], [[eifersüchtigen]]
 [[eifersüchtigste]], [[eifersüchtigster]], [[eifersüchtigste]], [[eifersüchtigstes]], [[eifersüchtigsten]], [[eifersüchtigstem]], [[eifersüchtigster]], [[eifersüchtigsten]]
+, [[Eifersucht]]

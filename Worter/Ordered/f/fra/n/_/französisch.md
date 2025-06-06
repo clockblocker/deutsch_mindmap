@@ -1,1 +1,1 @@
-, [[Franz]]
+, [[Franz]], [[bretonisch]], [[südländisch]]

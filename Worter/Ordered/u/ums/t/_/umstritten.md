@@ -1,2 +1,2 @@
 , [[kontrovers]], [[strittig]]🗣️ [[umstreiten]]
-, [[unbestreitbar]]
+, [[unbestreitbar]], [[unbestritten]]

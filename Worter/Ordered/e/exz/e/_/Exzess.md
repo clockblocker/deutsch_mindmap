@@ -26,4 +26,4 @@ G: des [[Exzesses]], der [[Exzesse]]
 D: dem [[Exzess]], den [[Exzessen]]
 
 
-#Maskulin 
+#Maskulin , [[zu viel des Guten]]

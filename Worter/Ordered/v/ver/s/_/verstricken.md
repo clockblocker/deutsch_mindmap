@@ -28,4 +28,4 @@ PI: [[verstrickend]], PII: [[verstrickt]], Zu+inf: [[zuverstricken]]
 [[verstricken]] - [[ver]] = [[stricken]] / to entangle, to become caught, to involve
 
 ---
-[[Verstrickung]], [[Verstrickungen]], [[Verwicklung]], [[stricken]], [[verstrickt]]
+[[Verstrickung]], [[Verstrickungen]], [[Verwicklung]], [[stricken]], [[verstrickt]], [[verflechten]]

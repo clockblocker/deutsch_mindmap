@@ -3,6 +3,8 @@
 ---
 Die deutsche Hauptstadt hat kaum [[Außenbezirk]]e mit [[sehenswert]]en [[Örtlichkeit]]en.
 
+Die Serie ist allein aufgrund des [[namhaften]] Protagonisten [[sehenswert]]
+
 ---
 = [[attraktiv]], [[sehenswürdig]], [[lohnenswert]], [[Sehenswürdigkeit]]
 ≈ [[interessant]], [[bemerkenswert]], [[faszinierend]]

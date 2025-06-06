@@ -6,6 +6,8 @@
 ---
 [[grundlegend]] = [[grundsätzlich]] = [[zugrundeliegende]] = [[wesentlich]] = [[bedeutend]]
 
+*[[C1-Hoehen-T1-401-Text#^11|^]]* Dieses „Mitmachen“ gestaltet das Ganze nicht nur äußerst [[unterhaltsam]], sondern man [[behält]] auch [[wesentlich]] mehr von all dem [[Wissenswert]]en, das einem [[geboten]] wird
+
 *[[bro-schrieben-c1-t1-004#^7|^]]* [[Forschungsergebnis]]sen [[zufolge]] sind Bürger aus entwickelten Ländern, wo die Lebensdauer [[wesentlich]] [[höher]] ist, im [[Durchschnitt]] `um` etwa 20% glücklicher, da sie nicht unter Druck stehen, jede [[Herausforderung]] der Welt in kurzer Zeit zu [[überwinden]]
 
 *[[bro-schrieben-c1-t1-004#^7|^]]* [[Forschungsergebnis]]sen [[zufolge]] sind Bürger aus entwickelten Ländern, wo die Lebensdauer [[wesentlich]] [[höher]] ist, im [[Durchschnitt]] `um` etwa 20% glücklicher, da sie nicht unter Druck stehen, jede [[Herausforderung]] der Welt in kurzer Zeit zu [[überwinden]]

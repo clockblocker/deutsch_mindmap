@@ -1,18 +1,7 @@
-🔴 die [[Ü/über]], [[rasch]], [[ung]]
-die [[Überraschungen]]
 
-Beispiele:
+*[[C1-Hoehen-T1-402-Text#^20|^]]* Was die dritte Serie betrifft, so darf man auf [[Überraschung]]en gespannt sein. ^20
 
-- Und dann gibt es eine grosse [[Überraschung]]!
-- [[Überraschungs]] ei
-
-Synonyme:
-
-- [[Erstaunen]], [[Verblüffung]], [[Unvermutetes]]
 
 **Übersetzung**: surprise
 
----
-
 #Substantiv #Feminin
-, [[erstaunen]]

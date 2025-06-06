@@ -44,4 +44,4 @@ sie, [[vergeigen]], [[vergeigten]], [[vergeigen]], [[vergeigten]], [[vergeigen]]
 Adjektive: [[vergeigend]], [[vergeigender]], [[vergeigendst]]
 
 ---
-[[vergeigender]], [[vergeigendes]], [[vergeigende]], [[vergeigenden]], [[vergeigendem]], [[vergeigenderer]], [[vergeigenderes]], [[vergeigendere]], [[vergeigenderen]], [[vergeigenderem]], [[vergeigendster]], [[vergeigendstes]], [[vergeigendste]], [[vergeigendsten]], [[vergeigendstem]]
+[[vergeigender]], [[vergeigendes]], [[vergeigende]], [[vergeigenden]], [[vergeigendem]], [[vergeigenderer]], [[vergeigenderes]], [[vergeigendere]], [[vergeigenderen]], [[vergeigenderem]], [[vergeigendster]], [[vergeigendstes]], [[vergeigendste]], [[vergeigendsten]], [[vergeigendstem]], [[pfuschen]]

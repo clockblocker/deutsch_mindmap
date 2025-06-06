@@ -1,2 +1,2 @@
 , [[einschließen]]
-, [[einschließlich]], [[absehen]]
+, [[einschließlich]], [[absehen]], [[inbegriffen]]

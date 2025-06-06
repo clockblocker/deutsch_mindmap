@@ -54,4 +54,4 @@ sie, [[stärken]], [[stärkten]], [[stärken]], [[stärkten]], [[stärken]]
 Adjektive: [[stärkend]], [[stärkender]], [[stärkendst]]
 
 ---
-[[stärkender]], [[stärkendes]], [[stärkende]], [[stärkenden]], [[stärkendem]], [[stärkenderer]], [[stärkenderes]], [[stärkendere]], [[stärkenderen]], [[stärkenderem]], [[stärkendster]], [[stärkendstes]], [[stärkendste]], [[stärkendsten]], [[stärkendstem]], [[auszehren]]
+[[stärkender]], [[stärkendes]], [[stärkende]], [[stärkenden]], [[stärkendem]], [[stärkenderer]], [[stärkenderes]], [[stärkendere]], [[stärkenderen]], [[stärkenderem]], [[stärkendster]], [[stärkendstes]], [[stärkendste]], [[stärkendsten]], [[stärkendstem]], [[auszehren]], [[untergraben]]

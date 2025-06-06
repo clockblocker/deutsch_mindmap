@@ -5,6 +5,8 @@ haben [[geboten]]
 ---
 *[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
 
+*[[C1-Hoehen-T1-401-Text#^11|^]]* Dieses „Mitmachen“ gestaltet das Ganze nicht nur [[äußerst]] [[unterhaltsam]], sondern man [[behält]] auch [[wesentlich]] mehr von all dem [[Wissenswert]]en, das einem [[geboten]] wird
+
 Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer.
 
 _[[3 Soll man Geld spenden?#^8|^]]_ Oftmals ist jede dieser Gruppen [[bestrebt]], ihren Spendern nicht nur eine [[bequeme]] Form der [[Mittelzuweisung]], sondern auch einen [[Gewissen]] [[Mehrwert]] zu [[bieten]]. ^8
@@ -45,3 +47,4 @@ Morpheme: [[bi]], [[et]], [[en]]
 Partizip I: [[bietend]], Partizip II: [[geboten]]
 
 [[ver]]+[[bieten]]=[[verbieten]], [[ablehnen]]
+, [[aufwarten]]

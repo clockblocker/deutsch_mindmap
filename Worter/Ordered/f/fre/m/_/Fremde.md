@@ -25,4 +25,4 @@ D: dem [[Fremden]], den [[Fremden]]
 ---
 [[fremd]], [[Fremdheit]], [[Fremdsein]], [[fremdartig]], [[befremdlich]]
 [[Deutschland]], [[Wohnort]]
-, [[Heimatstadt]], [[Fremdsprache]], [[Nachbarschaft]], [[Dritte]]
+, [[Heimatstadt]], [[Fremdsprache]], [[Nachbarschaft]], [[Dritte]], [[Bekanntschaft]]

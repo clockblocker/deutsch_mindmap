@@ -3,7 +3,9 @@
 ➖ [[entziehen]], [ɛntˈtsiːən](https://youglish.com/pronounce/entziehen/german) → [[entzieht]] → [[entzogen]]
 
 ---
-*[[C1-Hoehen-T1-200-Text#^17|^]]* Die Autorin erklärt, wie der Wald den [[Wasserkreislauf]] reguliert, der Atmosphäre [[Kohlendioxid]] [[entzieht]] und der Umwelt – und somit auch dem Menschen – [[Sauerstoff]] und [[Nahrung]] [[liefert]].
+*[[C1-Hoehen-T1-200-Text#^17|^]]* Die Autorin erklärt, wie der Wald den [[Wasserkreislauf]] reguliert, der Atmosphäre [[Kohlendioxid]] [[entzieht]] und der Umwelt – und somit auch dem Menschen – [[Sauerstoff]] und [[Nahrung]] [[liefert]]
+
+*[[C1-Hoehen-T1-402-Text#^13|^]]* Heimisch im Großstadtsumpf, der ihn [[abstößt]], dessen [[Anziehung]] er sich jedoch nicht [[entziehen]] kann
 
 *[[C1-Hoehen-T2-203-Text#^3|^]]* Denn wer kann sich schon heutzutage dem digitalen [[Sog]] [[entziehen]]?
 

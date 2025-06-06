@@ -5,6 +5,10 @@
 
 *[[C1-Hoehen-T2-101-Text#^36|^]]* Es gab aber Gespräche mit [[namhaften]] Abgeordneten, deren mediale [[Zuwendung]] dazu führte, dass die Thematik immer größere [[Welle]]n [[schlagen]] konnte
 
+ Die Serie ist allein aufgrund des [[namhaften]] Protagonisten [[sehenswert]]
+*(The series is [[worth seeing]] simply because of the [[renowned]] protagonist.)*
+
+
 ---
 = [[bekannt]], [[berühmt]], [[renommiert]], [[berühmt]]
 ≈ [[bedeutend]], [[wichtig]], [[prominent]]

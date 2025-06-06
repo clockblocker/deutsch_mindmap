@@ -26,4 +26,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[witzig]], [[witziger]], [[witzige]], [[witziges]], [[witzigen]], [[witzigem]], [[witziger]], [[witzigen]]
 [[witziger]], [[witzigerer]], [[witzigere]], [[witzigeres]], [[witzigeren]], [[witzigerem]], [[witzigerer]], [[witzigeren]]
-[[witzigsten]], [[witzigster]], [[witzigste]], [[witzigstes]], [[witzigsten]], [[witzigstem]], [[witzigster]], [[witzigsten]], [[geistreich]], [[Anekdotisch]]
+[[witzigsten]], [[witzigster]], [[witzigste]], [[witzigstes]], [[witzigsten]], [[witzigstem]], [[witzigster]], [[witzigsten]], [[geistreich]], [[Anekdotisch]], [[unterhaltsam]]

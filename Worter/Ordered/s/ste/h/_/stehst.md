@@ -1,1 +1,1 @@
-, [[stehen]], [[hinstehen]], [[dastehen]], [[gegenüberstehen]], [[nachstehen]]
+, [[stehen]], [[hinstehen]], [[dastehen]], [[gegenüberstehen]], [[nachstehen]], [[zur Seite stehen]]

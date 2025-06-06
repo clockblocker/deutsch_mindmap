@@ -1,1 +1,1 @@
-, [[Gästehaus]], [[Zeltsam]], [[Hotelaufenthalt]]
+, [[Gästehaus]], [[Zeltsam]], [[Hotelaufenthalt]], [[Unterkunft]]

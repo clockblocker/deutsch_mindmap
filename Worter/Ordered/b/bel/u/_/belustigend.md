@@ -1,1 +1,1 @@
-, [[amüsant]], [[Anekdotisch]]
+, [[amüsant]], [[Anekdotisch]], [[unterhaltsam]]

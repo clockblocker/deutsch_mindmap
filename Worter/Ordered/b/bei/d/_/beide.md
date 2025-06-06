@@ -2,6 +2,7 @@
 nicht [[E/einer]]
 
 ---
+*[[C1-Hoehen-T1-402-Text#^9|^]]* Aber in [[beidem]] [[irrt]] er sich [[gewaltig]]!
 
 NIC: Die [[riechen]] [[beide]] [[toll]]!
 

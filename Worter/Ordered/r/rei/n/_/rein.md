@@ -4,7 +4,9 @@
 nicht [[schmutzig]]
 
 ---
-6: Selig, die [[rein]] sind im Herzen; denn sie werden Gott schauen.
+6: Selig, die [[rein]] sind im Herzen; denn sie werden Gott schauen
+
+*[[C1-Hoehen-T1-402-Text#^15|^]]* Sein völlig [[utopisch]]es, doch [[existenziell]]es [[Bedürfnis]] nach einer [[rein]]en, [[unschuldig]]en Liebe [[lebt aus|lebt]] er in einer platonischen [[Beziehung]] zu der jungen [[Schauspielerin]] Paola aus
 
 *[[C1-Lesen-T3-301-Text#^6|^]]* Auch [[einnehmen|nimmt]] der Ort eine [[Mittelstellung]] zwischen einer [[rein]] [[dörflichen]] und rein städtischen [[Siedlung]] ein
 

@@ -3,6 +3,8 @@
 ---
 *[[101-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]
 
+*[[C1-Hoehen-T1-402-Text#^11|^]]* Um sie zu [[empfehlen]], [[reicht]]e allein der Name des Hauptdarstellers: Ludwig Eichinger
+
 *[[C1-Hoehen-T1-102-Text#^10|^]]* Das Buch kann ich euch aber auch [[empfehlen]], wenn ihr gerade nicht studiert
 
 *[[C1-Hoehen-T1-200-Text#^14|^]]* Eine spannende und [[lehrreiche]] Lektüre, die ich [[wärmstens]] [[empfehlen]] kann

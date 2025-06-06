@@ -1,1 +1,1 @@
-, [[vergeigen]], [[versauen]]
+, [[vergeigen]], [[versauen]], [[pfuschen]]

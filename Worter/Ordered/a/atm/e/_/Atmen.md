@@ -38,3 +38,4 @@ Morpheme: [[at]], [[m]], [[en]]
 Partizip I: [[atmend]], Partizip II: [[geatmet]]
 
 , [[Atmen]], [[schnauben]], [[schnuppern]]
+, [[atemberaubend]]

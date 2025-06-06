@@ -1,1 +1,1 @@
-, [[Aufstand]], [[aufgebracht]]
+, [[Aufstand]], [[aufgebracht]], [[Weißglut]]

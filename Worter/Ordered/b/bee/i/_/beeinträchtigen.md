@@ -60,4 +60,4 @@ sie, [[beeinträchtigen]], [[beeinträchtigten]], [[beeinträchtigen]], [[beeint
 Adjektive: [[beeinträchtigend]], [[beeinträchtigender]], [[beeinträchtigendst]]
 
 ---
-[[beeinträchtigender]], [[beeinträchtigendes]], [[beeinträchtigende]], [[beeinträchtigenden]], [[beeinträchtigendem]], [[beeinträchtigenderer]], [[beeinträchtigenderes]], [[beeinträchtigendere]], [[beeinträchtigenderen]], [[beeinträchtigenderem]], [[beeinträchtigendster]], [[beeinträchtigendstes]], [[beeinträchtigendste]], [[beeinträchtigendsten]], [[beeinträchtigendstem]], [[verschlechtern]], [[gefährden]]
+[[beeinträchtigender]], [[beeinträchtigendes]], [[beeinträchtigende]], [[beeinträchtigenden]], [[beeinträchtigendem]], [[beeinträchtigenderer]], [[beeinträchtigenderes]], [[beeinträchtigendere]], [[beeinträchtigenderen]], [[beeinträchtigenderem]], [[beeinträchtigendster]], [[beeinträchtigendstes]], [[beeinträchtigendste]], [[beeinträchtigendsten]], [[beeinträchtigendstem]], [[verschlechtern]], [[gefährden]], [[untergraben]]

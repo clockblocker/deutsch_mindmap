@@ -1,1 +1,1 @@
-, [[Wahnsinn]]
+, [[Wahnsinn]], [[Weißglut]]

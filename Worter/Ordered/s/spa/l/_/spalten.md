@@ -1,7 +1,11 @@
 🔪 [[spalten]], [ˈʃpaltn̩](https://youglish.com/pronounce/spalten/german) | [[spaltete]], haben [[gespalten]]
 
 ---
-Die [[Stimmung]] dort? [[Gespalten]].
+Die [[Stimmung]] dort? [[Gespalten]]
+
+Die [[Haltung]] der lokalen Bevölkerung `gegenüber` dem Kommissar ist [[gespalten]]
+*(The [[attitude]] of the local population `towards` the commissioner is [[divided]].)*
+
 
 ---
 = [[teilen]], [[trennen]], [[zerteilen]], [[brechen]], [[durchtrennen]]

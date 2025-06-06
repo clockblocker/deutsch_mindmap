@@ -1,2 +1,2 @@
 
-, [[Wutanfall]]
+, [[Wutanfall]], [[Weißglut]]

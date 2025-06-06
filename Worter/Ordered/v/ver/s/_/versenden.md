@@ -27,4 +27,4 @@ PI: [[versendend]], PII: [[versendet]], Zu+inf: [[zuversenden]]
 [[versenden]] - [[ver]] = [[senden]] / to send, to dispatch, to mail, to ship
 
 ---
-[[Versand]], [[Versender]], [[Versenderin]], [[versendbar]], [[Versandkosten]], [[Versandt]], [[Sender]]
+[[Versand]], [[Versender]], [[Versenderin]], [[versendbar]], [[Versandkosten]], [[Versandt]], [[Sender]], [[frachten]]

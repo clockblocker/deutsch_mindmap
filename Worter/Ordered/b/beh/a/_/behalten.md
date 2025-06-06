@@ -2,7 +2,9 @@
 
 ---
 
-[[17 zu inf#^4|^]] In der linken Tasche ist ein «Taschenbuch für [[Pilzsammler]]». Das kannst du [[behalten]]. [[essbar]] [[Pilze]] gibt es hier nämlich nicht. ^4
+*[[C1-Hoehen-T1-401-Text#^11|^]]* Dieses „Mitmachen“ gestaltet das Ganze nicht nur äußerst [[unterhaltsam]], sondern man [[behält]] auch [[wesentlich]] mehr von all dem [[Wissenswert]]en, das einem [[geboten]] wird
+
+*[[17 zu inf#^4|^]]* In der linken Tasche ist ein «Taschenbuch für [[Pilzsammler]]». Das kannst du [[behalten]]. [[essbar]] [[Pilze]] gibt es hier nämlich nicht
 
 SASCHA: … [[behalten|behalt]] deinen Job, du Schleimer, du Oktopus!
 
@@ -11,16 +13,13 @@ Das Kind bricht das Essen. (Es kann das Essen nicht [[behalten]].)
 Zum Glück [[behielt]] Fred in dieser Situation doch noch einen kühlen Kopf. Er blieb ruhig stehen und Tat]] einfach nichts.
 
 ---
-
 [[beibehalten]] - [[bei]] = [[behalten]] / to keep, to maintain, to retain
 
 ---
-
 Synonyme: [[merken]], [[speichern]], [[erinnern]], [[aufbewahren]], [[bewahren]]
 Antonyme: [[vergessen]], [[verlieren]], [[verdrängen]]
 
 ---
-
 to keep, to remember, to retain
 
 ---

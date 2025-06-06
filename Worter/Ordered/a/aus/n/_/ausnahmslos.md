@@ -5,6 +5,8 @@
 ---
 b) Der Lac-Phe-Wert stieg [[ausnahmslos]] bei allen [[Probanden]].
 
+*[[C1-Hoehen-T1-402-Text#^21|^]]* Auf der [[Besetzungsliste]] von „Mörderblut“ – so der Titel der Serie – figurieren [[ausnahmslos]] unbekannte Namen
+
 ---
 = [[ohne Ausnahme]], [[ausschließlich]], [[durchweg]], [[immer]]
 ≈ [[vollständig]], [[total]], [[ganz]], [[komplett]]

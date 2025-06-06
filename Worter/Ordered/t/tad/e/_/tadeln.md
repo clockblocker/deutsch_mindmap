@@ -36,3 +36,4 @@ Partizip I: [[tadelnd]], Partizip II: [[getadelt]]
 
 , [[schimpfen]]
 , [[schmeicheln]], [[vorwerfen]], [[gratulieren]], [[belohnen]]
+, [[abhalftern]]

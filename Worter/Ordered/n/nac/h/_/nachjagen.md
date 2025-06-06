@@ -3,6 +3,7 @@
 haben [[nachgejagt]]
 
 ---
+Der Kommissar [[jagt nach|jagt]] einem unrealisierten persönlichen Traum nach.  
 
 NIC: Aber dann hat mich Edeltraut gesehen - und ist mir [[nachgejagt]]!
 

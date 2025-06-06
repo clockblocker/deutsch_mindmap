@@ -46,3 +46,4 @@ D: der [[Verbindung]], den [[Verbindungen]]
 , [[Achse]], [[Gemeinschaft]], [[Zugang]], [[Abhängigkeit]], [[Austausch]], [[Interaktion]], [[Zusammenarbeit]], [[Internetzugang]], [[Stromanschluss]], [[Anschluss]], [[Netzwerk]], [[Verschmelzung]], [[Zusammenspiel]], [[Nervenzellenverbindung]]
 
 #Feminin , [[Brückung]], [[Geschäftsbeziehung]]
+, [[Bekanntschaft]], [[Affäre]]

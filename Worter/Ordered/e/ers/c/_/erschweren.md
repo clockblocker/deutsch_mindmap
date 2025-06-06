@@ -3,9 +3,11 @@
 ---
 [[Dennoch]] [[erschwert]] neue Bürosituation meine Arbeit [[erheblich]].
 
-*[[01-C1-Schreiben-T2-M#^11|^]]* Nennen Sie [[Tätigkeit]]en, die durch den neuen Platz [[erschwert]] werden ^11
+*[[C1-Hoehen-T1-402-Text#^4|^]]* Von [[Eifersucht]] gepackte Männer [[erschweren]] ihm die [[Aufklärungsarbeit]], während ihm die Damen oft die entscheidenden Informationen zukommen lassen
 
-*[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch fehlt uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit. ^12
+*[[01-C1-Schreiben-T2-M#^11|^]]* Nennen Sie [[Tätigkeit]]en, die durch den neuen Platz [[erschwert]] werden
+
+*[[03-C1-Schreiben-T2-M#^12|^]]* Dieser Tisch fehlt uns in der [[täglichen]] Arbeit jedoch sehr und sein [[Fehlen]] [[erschwert]] zudem die Teamarbeit
 
 
 Nennen Sie ein Beispiel, wie der [[ständig]]e Nachrichtenstrom die Meinungsbildung [[erschwert]].  

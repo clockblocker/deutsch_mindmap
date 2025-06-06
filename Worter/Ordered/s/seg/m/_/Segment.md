@@ -1,1 +1,1 @@
-, [[Ecke]], [[stück]], [[Sektor]], [[Abschnitt]]
+, [[Ecke]], [[stück]], [[Sektor]], [[Abschnitt]], [[Marktsegment]]

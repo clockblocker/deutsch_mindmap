@@ -3,6 +3,7 @@ selten, [ˈzɛltn̩]
 nicht [[häufig]]
 
 ---
+*[[C1-Hoehen-T1-401-Text#^17|^]]* Allerdings, und das sollten Sie beachten, sind nicht alle auf der Site beschriebenen Highlights im Pauschalpreis [[inbegriffen]], was in dieser Angebotskategorie [[eher]] [[selten]] ist
 
 Wir [[zweifeln]] [[selten]]
 

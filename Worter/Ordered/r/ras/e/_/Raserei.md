@@ -1,2 +1,2 @@
 , [[Wahnsinn]]
-, [[Wutanfall]], [[rasch]]
+, [[Wutanfall]], [[rasch]], [[Weißglut]]

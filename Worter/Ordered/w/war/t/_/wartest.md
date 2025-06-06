@@ -1,1 +1,2 @@
 Inf: [[warten]]
+, [[aufwarten]]

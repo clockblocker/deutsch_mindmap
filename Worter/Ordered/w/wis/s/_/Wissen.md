@@ -41,4 +41,4 @@ A: das [[Wissen]], -
 G: des [[Wissens]], -
 D: dem [[Wissen]], -
 
-#Neuter , [[Naturwissenschaft]]
+#Neuter , [[Naturwissenschaft]], [[Wissenswert]]

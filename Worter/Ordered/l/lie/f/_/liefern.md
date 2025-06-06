@@ -55,4 +55,4 @@ sie, [[liefern]], [[lieferten]], [[liefern]], [[lieferten]], [[liefern]]
 Adjektive: [[liefernd]], [[liefernder]], [[lieferndst]]
 
 ---
-[[liefernder]], [[lieferndes]], [[liefernde]], [[liefernden]], [[lieferndem]], [[liefernderer]], [[liefernderes]], [[lieferndere]], [[liefernderen]], [[liefernderem]], [[lieferndster]], [[lieferndstes]], [[lieferndste]], [[lieferndsten]], [[lieferndstem]], [[Wiedergutmachung]], [[mitliefern]]
+[[liefernder]], [[lieferndes]], [[liefernde]], [[liefernden]], [[lieferndem]], [[liefernderer]], [[liefernderes]], [[lieferndere]], [[liefernderen]], [[liefernderem]], [[lieferndster]], [[lieferndstes]], [[lieferndste]], [[lieferndsten]], [[lieferndstem]], [[Wiedergutmachung]], [[mitliefern]], [[frachten]]

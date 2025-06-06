@@ -1,0 +1,1 @@
+*[[C1-Hoehen-T1-401-Text#^5|^]]* Ein [[unbestritten]]es Highlight der Reise ist die [[Verpflegung]], die man ohne [[Übertreibung]] als ein [[lustvoll]]es [[Eintauchen]] in mediterrane [[Esskultur]] [[bezeichnen]] darf

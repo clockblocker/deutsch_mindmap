@@ -5,6 +5,8 @@
 ---
 Bei [[kostenlosen]] personalisierten Produkten ist der [[Verbraucherschutz]] [[beschränkt]].  
 
+*[[C1-Hoehen-T1-402-Text#^14|^]]* Nach seiner [[gescheitert]]en [[Ehe]] [[beschränkt]] er `sich` `auf` [[äußerst]] [[kurzlebig]]e [[Affären]]
+
 *[[C1-Lesen-421-Text#^9|^]]* „Overtourismus“ führt dazu, dass mittlerweile der Zugang zu populären [[Reiseziel]]en [[beschränkt]] wurde
 
 *[[C1-Hoehen-T4-100-Text#^8|^]]* Ein [[wirksam]]er Verbraucherschutz [[beschränkt]] sich nicht auf ein [[einzig]]es [[Land]]

@@ -45,4 +45,4 @@ sie, [[beanspruchen]], [[beanspruchten]], [[beanspruchen]], [[beanspruchten]], [
 Adjektive: [[beanspruchend]], [[beanspruchender]], [[beanspruchendst]]
 
 ---
-[[beanspruchender]], [[beanspruchendes]], [[beanspruchende]], [[beanspruchenden]], [[beanspruchendem]], [[beanspruchenderer]], [[beanspruchenderes]], [[beanspruchendere]], [[beanspruchenderen]], [[beanspruchenderem]], [[beanspruchendster]], [[beanspruchendstes]], [[beanspruchendste]], [[beanspruchendsten]], [[beanspruchendstem]], [[einfordern]]
+[[beanspruchender]], [[beanspruchendes]], [[beanspruchende]], [[beanspruchenden]], [[beanspruchendem]], [[beanspruchenderer]], [[beanspruchenderes]], [[beanspruchendere]], [[beanspruchenderen]], [[beanspruchenderem]], [[beanspruchendster]], [[beanspruchendstes]], [[beanspruchendste]], [[beanspruchendsten]], [[beanspruchendstem]], [[einfordern]], [[überfrachten]]

@@ -70,4 +70,4 @@ Adjektive: [[anlegend]], [[anlegender]], [[anlegendst]]
 
 ---
 [[anlegender]], [[anlegendes]], [[anlegende]], [[anlegenden]], [[anlegendem]], [[anlegenderer]], [[anlegenderes]], [[anlegendere]], [[anlegenderen]], [[anlegenderem]], [[anlegendster]], [[anlegendstes]], [[anlegendste]], [[anlegendsten]], [[anlegendstem]]
-, [[Geldanlage]], [[Wertanlage]]
+, [[Geldanlage]], [[Wertanlage]], [[ansetzen]]

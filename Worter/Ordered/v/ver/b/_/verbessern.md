@@ -44,3 +44,4 @@ Zu+infinitive: [[zu verbessern]]
 
 [[Verbesserung]], [[Verbesserungspotenzial]], [[Verbesserungsvorschlag]], [[Verbesserungsmaßnahme]], [[Selbstverbesserung]], [[antun]], [[am besten]], [[ergänzen]]
 , [[unverbesserlich]], [[stärken]], [[steigern]], [[versauen]], [[weiterentwickeln]], [[voranbringen]], [[ausbauen]], [[zurechtbiegen]], [[bereichern]], [[revidieren]]
+, [[pfuschen]]

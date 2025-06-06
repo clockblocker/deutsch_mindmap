@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T3-301-Text#^33|^]]* Sie ahnen es schon: In den Zeiten von [[Punktesystem]]en, [[Kundenkarte]]n und Apps und Online-[[Befragung]]en kommen Firmen viel leichter und mit [[gering]]erem [[Einsatz]] an [[valid]]e [[Datenmenge]]n über das [[Kaufverhalten]] alter und neu zu [[erschließend]]er Zielgruppen
 
+0. Der Anbieter will ein neues [[Marktsegment]] [[erschließen]]
+
 ---
 = [[aufdecken]], [[ergründen]], , [[aufmachen]]
 ≈ [[verstehen]], [[begreifen]], [[analysieren]]

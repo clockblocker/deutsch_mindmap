@@ -4,8 +4,9 @@
 💥 [[scheitern]], [ˈʃaɪ̯tɐn] | [[scheiterte]], sein [[gescheitert]]
 
 ---
-*[[C1-Lesen-T4-101-Text#^14|^]]* Mein Vorschlag: Sollte es bei der bemannten [[Raumfahrt]] [[tatsächlich]] am Geld [[scheitern]], dann müsste man die Raumfahrtprogramme [[eben]] [[zeitlich]] [[strecken]]. ^14
+*[[C1-Lesen-T4-101-Text#^14|^]]* Mein Vorschlag: Sollte es bei der bemannten [[Raumfahrt]] [[tatsächlich]] am Geld [[scheitern]], dann müsste man die Raumfahrtprogramme [[eben]] [[zeitlich]] [[strecken]]
 
+*[[C1-Hoehen-T1-402-Text#^14|^]]* Nach seiner [[gescheitert]]en [[Ehe]] [[beschränkt]] er `sich` `auf` [[äußerst]] [[kurzlebig]]e [[Affären]]
 
 Er hat mich gestern nicht angerufen, weil er noch einmal [[gescheitert]] ist.
 *Он не позвонил мне вчера, потому что он опять потерпел неудачу.*

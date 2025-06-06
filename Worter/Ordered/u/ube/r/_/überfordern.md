@@ -1,26 +1,25 @@
 😵 [[überfordern]], [ˈyːbɐˌfɔrdɐn] | [[überforderte]], haben [[überfordert]]
 
 ---
+Die Wandertouren [[überfordern]] viele Teilnehmende.  
+*(The hiking tours [[overwhelm]] many participants.)*
+
 
 _[[3  Ein Selbstversuch als Hobbybäuerin#^42|^]]_ Ich kann jedem, der sich in [[solchen]] Situationen [[überfordert]] fühlt, nur raten, nicht zu perfektionistisch an eine Sache heranzugehen
 
 ---
-
 = [[überlasten]], [[überanstrengen]], [[überstrapazieren]]
 ≈ [[beanspruchen]], [[belasten]], [[fordern]], [[anspannen]]
 ≠ [[unterfordern]], [[entlasten]], [[schonen]], [[schützen]]
 
 ---
-
 to overtax, to overwhelm
 перегружать, ставить в невыносимые условия
 
 ---
-
 [[Forderung]], [[Überforderung]], [[überfordert]], [[überfordernd]]
 
 ---
-
 [[Ü/über]]|[[forder]]|[[n]]
 [[überfordern]]
 
@@ -66,3 +65,4 @@ Adjektive: [[überfordernd]], [[überfordernder]], [[überforderndst]]
 ---
 
 [[überfordernder]], [[überforderndes]], [[überfordernde]], [[überfordernden]], [[überforderndem]], [[überfordernderer]], [[überfordernderes]], [[überforderndere]], [[überfordernderen]], [[überfordernderem]], [[überforderndster]], [[überforderndstes]], [[überforderndste]], [[überforderndsten]], [[überforderndstem]]
+, [[überfrachten]]

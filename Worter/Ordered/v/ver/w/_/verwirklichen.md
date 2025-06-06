@@ -48,4 +48,4 @@ sie, [[verwirklichen]], [[verwirklichten]], [[verwirklichen]], [[verwirklichten]
 Adjektive: [[verwirklichend]], [[verwirklichender]], [[verwirklichendst]]
 
 ---
-[[verwirklichender]], [[verwirklichendes]], [[verwirklichende]], [[verwirklichenden]], [[verwirklichendem]], [[verwirklichenderer]], [[verwirklichenderes]], [[verwirklichendere]], [[verwirklichenderen]], [[verwirklichenderem]], [[verwirklichendster]], [[verwirklichendstes]], [[verwirklichendste]], [[verwirklichendsten]], [[verwirklichendstem]]
+[[verwirklichender]], [[verwirklichendes]], [[verwirklichende]], [[verwirklichenden]], [[verwirklichendem]], [[verwirklichenderer]], [[verwirklichenderes]], [[verwirklichendere]], [[verwirklichenderen]], [[verwirklichenderem]], [[verwirklichendster]], [[verwirklichendstes]], [[verwirklichendste]], [[verwirklichendsten]], [[verwirklichendstem]], [[ausleben]]

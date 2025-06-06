@@ -1,1 +1,1 @@
-, [[Grundeinstellung]], [[Lebensweise]], [[Denkweise]], [[Lebenseinstellung]]
+, [[Grundeinstellung]], [[Lebensweise]], [[Denkweise]], [[Lebenseinstellung]], [[Lebensgefühl]]

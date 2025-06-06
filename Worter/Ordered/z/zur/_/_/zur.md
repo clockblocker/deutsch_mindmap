@@ -12,4 +12,4 @@ Morpheme:
 
 ---
 #Preposition
-, [[zurzeit]]
+, [[zurzeit]], [[zur Seite stehen]]

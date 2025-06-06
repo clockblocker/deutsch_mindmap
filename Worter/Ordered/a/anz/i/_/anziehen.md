@@ -4,6 +4,8 @@
 *[[C1-Lesen-421-Text#^47|^]]* Man will zwar keine Ausflügler [[vergraulen]], aber auch nicht noch mehr [[anziehen]]
 *(They don't want to [[scare away]] day-trippers, but they also don't want to [[attract]] even more.)*
 
+*[[C1-Hoehen-T1-402-Text#^26|^]]* Dies, aber auch die [[rassig]]e Schönheit der deutsch-russischen Marja [[anziehen|ziehen]] Schaubert an
+
 - Was [[ziehe]] ich an? Und was ziehst du an?  
 - SASCHA: Was ziehe ich an? Hilfe! Ich habe nichts [[anzuziehen]]!  
 
@@ -36,4 +38,4 @@ PI: [[anziehend]], PII: [[angezogen]], Zu+inf: [[anzuziehen]]
 
 ---
 [[Anzug]], [[Anziehungskraft]], [[anziehend]], [[Anziehsachen]]
-, [[abschrecken]], [[locken]], [[lockern]]
+, [[abschrecken]], [[locken]], [[lockern]], [[Anziehung]]

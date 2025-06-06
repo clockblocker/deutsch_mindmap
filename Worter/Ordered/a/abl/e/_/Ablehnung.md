@@ -35,4 +35,4 @@ D: der [[Ablehnung]], den [[Ablehnungen]]
 
 #Feminin 
 
-, [[Geringschätzung]], [[Empfehlung]], [[Auszeichnung]], [[Abnahme]], [[Forderung]], [[Aufforderung]], [[Anerkennung]], [[Beratung]], [[Zugeständnis]], [[anliegen]], [[Kaufentscheidung]], [[Neigung]]
+, [[Geringschätzung]], [[Empfehlung]], [[Auszeichnung]], [[Abnahme]], [[Forderung]], [[Aufforderung]], [[Anerkennung]], [[Beratung]], [[Zugeständnis]], [[anliegen]], [[Kaufentscheidung]], [[Neigung]], [[Aufnahme]]

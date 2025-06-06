@@ -4,9 +4,12 @@
 
 ---
 
-_[[C1-Lesen-T1-001-Text#^27|^]]_ Die Hunde sind sogenannte [[Makrosmatiker]] mit einem [[außergewöhnlichen]] Geruchssinn und [[Gedächtnis]]. ^27
+_[[C1-Lesen-T1-001-Text#^27|^]]_ Die Hunde sind sogenannte [[Makrosmatiker]] mit einem [[außergewöhnlichen]] Geruchssinn und [[Gedächtnis]]
 
 Aus diesem Grund ist es häufig so, dass Lehrer ein geringes Einkommen bekommen und es für sie und für ausgebildete Menschen in Philosophie, Soziologie, Geschichte und Sprachwissenschaft erheblich schwierig ist, eine gute Arbeitsstelle zu finden, die ihnen akzeptable Bedingungen anbietet, selbst wenn sie über [[außergewöhnliche]] Fähigkeiten verfügen und die Wille haben, so gut wie möglich zu arbeiten.
+
+*[[C1-Hoehen-T1-401-Text#^18|^]]* Doch genau da setzt dieser Newcomer an: ein [[außergewöhnlich]]es [[Reiseerlebnis]], das auch [[denjenigen]] [[offensteht]], die eine gewisse Flexibilität bei den Reisekosten suchen und sich solche Reisen [[bislang]] nicht leisten konnten
+
 
 ---
 

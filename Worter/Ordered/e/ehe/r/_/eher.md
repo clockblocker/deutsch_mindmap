@@ -1,6 +1,9 @@
 [[eher]], [ˈeːɐ̯]
 
 ---
+*[[C1-Hoehen-T1-401-Text#^4|^]]* Die Wanderrouten [[hingegen]] [[liegen]] wohl [[eher]] unter dem deklarierten [[Anforderungsprofil]]
+
+*[[C1-Hoehen-T1-401-Text#^17|^]]* Allerdings, und das sollten Sie beachten, sind nicht alle auf der Site beschriebenen Highlights im Pauschalpreis [[inbegriffen]], was in dieser Angebotskategorie [[eher]] [[selten]] ist
 
 *[[C1-Lesen-421-Text#^50|^]]* Darum [[umwirbt]] das neue Tourismuskonzept der Hauptstadt jetzt [[eher]] finanzkräftige Kongressbesucher, Feinschmecker und Kulturbegeisterte, [[anstatt]] `wie` [[bisher]] `auf` immer höhere [[Steigerungsquoten]] zu setzen
 

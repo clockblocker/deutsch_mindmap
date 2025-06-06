@@ -1,6 +1,7 @@
 🧩 [[lösen]], [ˈløːzən] | [[löste]], haben [[gelöst]]
 
 ---
+*[[C1-Hoehen-T1-402-Text#^8|^]]* Und wie sollte er ihn mit einem [[schläfrig]]en Polizisten und einer modersessenen Polizistin überhaupt [[lösen]] können?
 
 Nur wenigen [[gelingt]] es, sich von ihrem eigenen [[Schatten]] zu [[lösen]]: Lucky Luke zum Beispiel schießt schneller als er und Peter Pan sucht ihn. Aber wie schafft man es, über seinen eigenen Schatten zu springen?
 

@@ -1,1 +1,1 @@
-, [[Kita]], [[ausstatten]], [[Ausbildungsstätte]], [[Örtlichkeit]]
+, [[Kita]], [[ausstatten]], [[Ausbildungsstätte]], [[Örtlichkeit]], [[Besichtigungspunkt]]

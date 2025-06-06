@@ -20,4 +20,4 @@ Morphems:
 
 ---
 #Substantiv #Feminin, [[aufgebracht]], [[wütend]]
-, [[Wutanfall]], [[Unmut]]
+, [[Wutanfall]], [[Unmut]], [[Weißglut]]

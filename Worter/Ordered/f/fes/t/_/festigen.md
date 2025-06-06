@@ -46,4 +46,4 @@ sie, [[festigen]], [[festigten]], [[festigen]], [[festigten]], [[festigen]]
 Adjektive: [[festigend]], [[festigender]], [[festigendst]]
 
 ---
-[[festigender]], [[festigendes]], [[festigende]], [[festigenden]], [[festigendem]], [[festigenderer]], [[festigenderes]], [[festigendere]], [[festigenderen]], [[festigenderem]], [[festigendster]], [[festigendstes]], [[festigendste]], [[festigendsten]], [[festigendstem]]
+[[festigender]], [[festigendes]], [[festigende]], [[festigenden]], [[festigendem]], [[festigenderer]], [[festigenderes]], [[festigendere]], [[festigenderen]], [[festigenderem]], [[festigendster]], [[festigendstes]], [[festigendste]], [[festigendsten]], [[festigendstem]], [[untergraben]]

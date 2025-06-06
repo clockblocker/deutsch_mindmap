@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T4-100-Text#^29|^]]* Meine Damen und Herren, ich konnte jetzt `nur` `in` [[Grundzügen]] die neuen Regelungen vorstellen, für [[ausführlichere]] Informationen [[verweise]] ich auf meinen YouTube-Kanal
 
+*[[C1-Hoehen-T1-402-Text#^10|^]]* Unsere zweite Krimiserie hat den [[düster]]en Titel „Wintergewitter“ und [[verweist]] bewusst auf die Tradition der skandinavischen Krimis
+
 ---
 = [[hinweisen]], [[verweisen]], [[anspielen]],  [[hindeuten]]
 ≈ [[beziehen]], [[zitieren]], [[anführen]], [[weisen]], 

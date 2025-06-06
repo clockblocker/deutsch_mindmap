@@ -42,3 +42,4 @@ Zu+infinitive: [[zu putzen]]
 
 [[Waschen]], [[bürsten]], [[kehren]], [[wischen]], [[reiben]], [[aufräumen]], [[räumen]]
 , [[erwidern]], [[puttel]]
+, [[wegwischen]]

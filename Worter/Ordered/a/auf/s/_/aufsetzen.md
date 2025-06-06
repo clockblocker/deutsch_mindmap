@@ -1,2 +1,2 @@
 , [[fallen]], [[landen]]
-, [[aufsässig]]
+, [[aufsässig]], [[ansetzen]]

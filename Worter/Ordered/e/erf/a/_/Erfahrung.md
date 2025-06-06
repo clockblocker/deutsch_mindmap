@@ -65,4 +65,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[Erfahrung]], [[Erfahrung]], [[Erfahrung]]en, [[Erfahrung]]en, [[erfahren]], [[erfahrenen]], [[Erlebnis]], [[Fachwissen]], [[Laufbahn]], [[erlebbar]], [[Einzelschicksal]], [[Praxis]], [[Vorkenntnis]]
-, [[bro-schrieben-c1-t1-002]], [[berufserfahren]]
+, [[bro-schrieben-c1-t1-002]], [[berufserfahren]], [[Reiseerlebnis]]

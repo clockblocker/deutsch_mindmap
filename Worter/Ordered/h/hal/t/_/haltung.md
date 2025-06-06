@@ -6,6 +6,8 @@ die [[Haltungen]]
 ---
 *[[Atom#^25|^]]* Die [[Geschwister]] Josef und Soscha Kozidok waren früher gegen Kernenergie. Doch ihre [[Haltung]] hat sich [[geändert]]:
 
+Die [[Haltung]] der lokalen Bevölkerung `gegenüber` dem Kommissar ist [[gespalten]]
+
 ---
 = [[Einstellung]], [[Position]], [[Benehmen]]
 ≈ [[Verhalten]], [[Meinung]], [[Gesinnung]], [[Charakter]]

@@ -35,3 +35,4 @@ G: des [[Punktes]], der [[Punkte]]
 D: dem [[Punkt]], den [[Punkten]]
 
 #Maskulin , [[Doppelpunkt]], [[Standpunkt]], [[Einzelheit]], [[Meridianpunkt]], [[Schwerpunkt]]
+, [[Besichtigungspunkt]]

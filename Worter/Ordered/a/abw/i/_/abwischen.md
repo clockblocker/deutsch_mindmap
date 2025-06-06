@@ -1,1 +1,1 @@
-, [[wischen]], [[lecken]], [[schmieren]], [[puttel]]
+, [[wischen]], [[lecken]], [[schmieren]], [[puttel]], [[wegwischen]]

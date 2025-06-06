@@ -25,4 +25,4 @@ medical
 Adjektive: [[medizinisch]], [[medizinischer]], [[medizinischst]]
 
 ---
-[[medizinischer]], [[medizinisches]], [[medizinische]], [[medizinischen]], [[medizinischem]], [[medizinischerer]], [[medizinischeres]], [[medizinischere]], [[medizinischeren]], [[medizinischerem]], [[medizinischster]], [[medizinischstes]], [[medizinischste]], [[medizinischsten]], [[medizinischstem]]
+[[medizinischer]], [[medizinisches]], [[medizinische]], [[medizinischen]], [[medizinischem]], [[medizinischerer]], [[medizinischeres]], [[medizinischere]], [[medizinischeren]], [[medizinischerem]], [[medizinischster]], [[medizinischstes]], [[medizinischste]], [[medizinischsten]], [[medizinischstem]], [[rechtsmedizinisch]]

@@ -37,4 +37,4 @@ PI: [[enthaltend]], PII: [[enthalten]], Zu+inf: [[zu enthalten]]
 [[enthalten]] - [[ent]] = [[halten]] / to contain, to include
 
 ---
-[[Enthaltung]], [[Inhalt]], [[Halt]], [[Behälter]], [[Aufbewahrung]], [[vorenthalten]]
+[[Enthaltung]], [[Inhalt]], [[Halt]], [[Behälter]], [[Aufbewahrung]], [[vorenthalten]], [[inbegriffen]]

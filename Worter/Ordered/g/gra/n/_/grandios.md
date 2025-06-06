@@ -1,3 +1,3 @@
 --> [[Grad-gut]] <--
 
-, [[großartig]]
+, [[großartig]], [[atemberaubend]]

@@ -1,2 +1,2 @@
 , [[erfreut]], [[Freudiges]], [[erfreuen]], [[jauchzen]]
-, [[gern]], [[zahlungsfreudig]]
+, [[gern]], [[zahlungsfreudig]], [[lustvoll]]

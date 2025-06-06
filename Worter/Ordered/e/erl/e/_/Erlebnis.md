@@ -26,4 +26,4 @@ D: dem [[Erlebnis]], den [[Erlebnissen]]
 ---
 [[erleben]], [[erlebnisreich]], [[Erlebnisbericht]], [[Erlebnispädagogik]], [[Trauma]], [[erlebbar]]
 
-#Neuter , [[Empfindung]]
+#Neuter , [[Empfindung]], [[Reiseerlebnis]], [[Genuss]]

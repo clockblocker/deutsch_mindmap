@@ -3,6 +3,10 @@
 ---
 Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance
 
+*[[C1-Hoehen-T1-401-Text#^14|^]]* Eine [[gelungen]]e Mischung aus dem Bilderbuch-Irland und der heutigen Realität
+
+*[[C1-Hoehen-T1-401-Text#^10|^]]* Unbedingt [[erwähnenswert]] sind die Führungen, die auf eine sehr [[gelungen]]e Art die Teilnehmenden [[miteinbeziehen]]
+
 *[[C1-Hoehen-T1-301-Text#^14|^]]* Jahrhunderts [[jenseits]] von Kriegen und großen Daten, wir [[erhalten]] auch einen [[entlarvenden]], aber doch immer amüsanten Einblick in die europäische [[Verfasstheit]] und den immer stärker [[werdenden]] [[Drang]] zu einem [[gelungenen]] und prestigereichen Urlaub
 
 Sokka ist es [[während]] [[dessen]] [[gelungen]], sich aus dem Schnee zu befreien und er greift nach seiner [[Keule]]. Er [[stürmt zu|stürmt]] mit lautem Angriffsgeschrei auf Zuko zu

@@ -4,6 +4,8 @@
 ---
 *[[Atom#^23|^]]* Italien [[hingegen]] will nach 35 Jahren wieder [[einsteigen]]
 
+*[[C1-Hoehen-T1-401-Text#^4|^]]* Die Wanderrouten [[hingegen]] [[liegen]] wohl [[eher]] unter dem deklarierten [[Anforderungsprofil]]
+
 *[[C1-Lesen-T4-103-Text#^5|^]]* Sein [[Zeitgenosse]] im [[preußisch]]en Königsberg, der Philosoph Immanuel Kant, meinte [[hingegen]], dass [[Sparsamkeit]] nichts [[tugendhaft]]es an sich habe, denn sparen könne auch der [[Dümmste]], während man unter den [[Verschwendern]] und [[Schuldnern]] die [[aufgewecktesten]] und [[geistreichsten]] Persönlichkeiten finde
 
 

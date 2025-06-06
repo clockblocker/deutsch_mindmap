@@ -31,4 +31,4 @@ D: der [[Anforderung]], den [[Anforderungen]]
 [[anfordern]], [[Anforderer]], [[Anforderin]], [[anfordernd]], [[anforderbar]]
 , [[Bedürfnis]], [[Grundvoraussetzung]], [[Aufgabenstellung]], [[anliegen]], [[Beantragung]], [[Sachzwang]]
 
-#Feminin , [[Qualitätsstandard]], [[Mindestvoraussetzung]]
+#Feminin , [[Qualitätsstandard]], [[Mindestvoraussetzung]], [[Anforderungsprofil]]

@@ -8,6 +8,8 @@
 ---
 *[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden
 
+Die Serie zeigt den [[Einsatz]] neuer kriminalistischer Methoden
+
 *[[C1-Lesen-421-Text#^13|^]]* In Südbayern ist die [[freiwillig]]e [[Feuerwehr]] im [[Einsatz]], um der [[Besuchermassen]] [[Herr zu werden]]
 
 *[[213-C1-Schreiben-Model#^5|^]]* *erschwert das Arbeiten mit Laptops für*

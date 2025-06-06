@@ -38,4 +38,4 @@ Tags:
 Morphems:
 [[jedo]], [[ch]]
 , [[Konjunktoren]], [[Konnektoren]], [[s1 e1]], [[Konnektivpartikeln]], [[jeglich]]
-, [[wohingegen]]
+, [[wohingegen]], [[wenngleich]]

@@ -28,3 +28,4 @@ Einzigartige mögliche Formen: [[Lebensart]], [[Lebensarten]], [[Lebensarts]], [
 
 Weitere Erklärung:
 Eine Zusammensetzung aus [[Leben]] und [[Art]], die beschreibt, wie jemand sein Leben gestaltet, welche Gewohnheiten und Prinzipien er verfolgt., [[Lebensform]], [[Lebenswandel]]
+, [[Lebensgefühl]]

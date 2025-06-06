@@ -59,3 +59,4 @@ D: dem [[Begriff]], den [[begriffen]]
 , [[Gegenstand]], [[Modebegriff]]
 
 #Maskulin , [[Begriffsbestimmung]]
+, [[inbegriffen]]

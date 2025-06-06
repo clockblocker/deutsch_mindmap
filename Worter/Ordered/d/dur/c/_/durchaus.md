@@ -8,6 +8,7 @@
 *[[C1-Lesen-432-Text#^11|^]]* Eine [[durchaus]] verständliche [[Forderung]], die in der Regel [[widerspruchslos]] [[befolgt]] wird
 *(A [[perfectly]] understandable [[demand]], which is usually [[followed]] without [[objection]].)*
 
+*[[C1-Hoehen-T1-402-Text#^3|^]]* Dass Andreas Petrakis, unser Kommissar, [[griechisch]]er [[Abstammung]] ist, macht ihm die [[Aufnahme]] bei den Dorfbewohnern nicht gerade einfacher – [[wenngleich]] die Frauen am Ort für seine [[südländisch]]e [[Erscheinung]] [[durchaus]] [[empfänglich]] sind
 
 *[[C1-Lesen-T3-301-Text#^2|^]]* Heutzutage sollte man jedoch [[durchaus]] über die Manipulation des kompletten [[Kaufverhaltens]] [[reden]]
 

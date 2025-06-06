@@ -1,1 +1,1 @@
-, [[attraktiv]], [[locken]]
+, [[attraktiv]], [[locken]], [[reizvoll]]

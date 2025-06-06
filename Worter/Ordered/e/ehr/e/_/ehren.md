@@ -33,4 +33,4 @@ PI: [[ehrend]], PII: [[geehrt]], Zu+inf: [[zu ehren]]
 , [[schmeicheln]], [[beschimpfen]], [[respektieren]], [[verspotten]], [[Ehrenamt]],
 , [[Ehrentitel]], [[gratulieren]], [[schmähen]]
 , [[anstoßen]]
-, [[loben]], [[verehren]]
+, [[loben]], [[verehren]], [[krönen]]

@@ -50,4 +50,4 @@ Adjektive: [[auftauchend]], [[auftauchender]], [[auftauchendst]]
 ---
 [[auftauchender]], [[auftauchendes]], [[auftauchende]], [[auftauchenden]], [[auftauchendem]], [[auftauchenderer]], [[auftauchenderes]], [[auftauchendere]], [[auftauchenderen]], [[auftauchenderem]], [[auftauchendster]], [[auftauchendstes]], [[auftauchendste]], [[auftauchendsten]], [[auftauchendstem]], [[ankommen]]
 
-#Neuter , [[Eintauchen]]
+#Neuter , [[Eintauchen]], [[aufkommen]]
