@@ -1,1 +1,1 @@
-, [[Vermehrung]]
+, [[Vermehrung]], [[Abbildung]]

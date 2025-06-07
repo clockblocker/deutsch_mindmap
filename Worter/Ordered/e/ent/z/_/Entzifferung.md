@@ -2,7 +2,7 @@
 die [[Entzifferungen]]
 
 ---
-###### 10. Die [[Entzifferung]] des menschlichen [[Bauplans]] …
+*[[C1-Lesen-T2-100-Text#^8|^]]* Die [[Entzifferung]] des menschlichen Bauplans bewies, dass Gene [[gelenkt]] werden können
 
 ---
 = [[Dekodierung]], [[Chiffrierungsentschlüsselung]], [[Entschlüsselung]]

@@ -1,10 +1,10 @@
 [[Lesen-C1-Teils]]
 
 *100 - 2023 Mit Erfolg Modellsätzen*
-- [ ] [[C1-Lesen-T2-100-Text|100]]
-- [ ] [[C1-Lesen-T2-101-Text|101]]
-- [ ] [[C1-Lesen-T2-102-Text|102]]
-- [ ] [[C1-Lesen-T2-103-Text|103]]
+- [x] [[C1-Lesen-T2-100-Text|100]]
+- [x] [[C1-Lesen-T2-101-Text|101]]
+- [x] [[C1-Lesen-T2-102-Text|102]]
+- [x] [[C1-Lesen-T2-103-Text|103]]
 
 *200 - 2023 Prüfungstraining*
 - [ ] [[C1-Lesen-T2-200-Text|200]]

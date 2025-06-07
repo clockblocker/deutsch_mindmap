@@ -1,1 +1,1 @@
-, [[sterben]], [[hineingeboren]]
+, [[sterben]], [[hineingeboren]], [[ansterben]]

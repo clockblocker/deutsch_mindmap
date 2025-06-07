@@ -3,13 +3,13 @@
 ---
 *[[C1-Hoehen-T1-201-Text#^7|^]]* Obwohl es sich um eine [[Verwechslung]]skomödie [[handelt]], wird ein ernster Blick auf korrupte Rechtssysteme [[gelenkt]]
 
+*[[C1-Lesen-T2-100-Text#^8|^]]* Die [[Entzifferung]] des menschlichen Bauplans bewies, dass Gene [[gelenkt]] werden können
+
 *[[C1-Lesen-421-Text#^51|^]]* Darüber hinaus soll die Aufmerksamkeit auf die [[Randgebiet]]e Berlins [[gelenkt]] werden, die auch nicht wenig [[Ansprechende]]s zu [[bieten]] haben
 
 *[[C1-Lesen-421-Text#^51|^]]* Darüber hinaus soll die Aufmerksamkeit auf die [[Randgebiet]]e Berlins [[gelenkt]] werden, die auch nicht wenig [[Ansprechende]]s zu [[bieten]] haben
 
 c) Man soll das [[Interesse]] des Kindes auch auf [[andere]] Spiele [[lenken]].
-
-a) bewies, dass Gene [[gelenkt]] werden können.  
 
 ---
 [[ablenken]] - [[ab]] = [[lenken]] / to distract, to divert

@@ -3,6 +3,8 @@
 ---
 Anderswo ist das aber sehr [[erwünscht]]. Ein Abend kann dann schon mal viel entspannter [[verlaufen]]
 
+*[[C1-Lesen-T2-200-Text#^15|^]]* Der Autor wünscht sich, dass die Auseinandersetzung zu dem Thema in Zukunft konstruktiver [[verläuft]]
+
 Gespräche mit Politiker:innen [[verliefen]] [[erfolgreich]]
 
 *[[C1-Hoehen-T2-100-Text#^23|^]]* Nur würde die Jobsuche ganz anders [[verlaufen]]

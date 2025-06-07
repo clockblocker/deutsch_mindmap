@@ -1,1 +1,1 @@
-, [[streng]], [[steif]], [[weich]]
+, [[streng]], [[steif]], [[weich]], [[kompromisslos]]

@@ -1,1 +1,1 @@
- [[nehmen]], [[nehm]], [[11 08]]
+ [[nehmen]], [[nehm]], [[11 08]], [[ernstnehmen]]

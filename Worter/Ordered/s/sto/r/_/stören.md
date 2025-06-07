@@ -5,6 +5,8 @@
 haben [[gestört]]
 
 ---
+Viele Menschen [[stören]] `sich` `an` neuen [[Begriff]]en wie gendersensibel oder Genderei  
+*(Many people are [[bothered]] `by` new [[terms]] such as gender-sensitive or gender)*
 
 - _(Ich will) Ich will die Ruhe [[stören]]_
 - SASCHA: [[Störe]] ich?

@@ -47,4 +47,4 @@ Einzigartige mögliche Formen:
 , [[Unterlage]]
 , [[gelegen]]
 , [[Auftragslage]], [[Kapitalanlage]], [[Lebenslage]], [[Geldanlage]], [[Wertanlage]], [[Schicht]]
-, [[Örtlichkeit]]
+, [[Örtlichkeit]], [[zurücklegen]]

@@ -1,1 +1,1 @@
-, [[übermächtig]], [[streng]]
+, [[übermächtig]], [[streng]], [[kompromisslos]]

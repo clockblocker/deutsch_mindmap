@@ -4,6 +4,10 @@ die [[Verhältnisse]]
 ---
 *[[C1-Lesen-T1-000-Loesung#^1|^]]* Die Präposition „gegenüber“ [[drückt aus|drückt]] ein [[Verhältnis]] der [[Entgegensetzung]] oder des [[Vergleichs]] aus. Dies passt nicht zum Kontext der [[Mengenangabe]]
 
+*[[C1-Lesen-T2-200-Text#^9|^]]* Wo stößt der Stern an seine Grenzen? Bei der realen [[Abbildung]] sozialer [[Verhältnis]]se
+*(Where does the asterisk reach its limits? In the real [[depiction]] of social [[relations]])*
+
+
 Work Life Balance: Wie schaffen wir ein [[ausgewogen]]es [[Verhältnis]] `zwischen` Berufsleben und Privatleben?
 
 *[[C1-Lesen-T3-301-Text#^13|^]]* [[Altersstruktur]] und soziale [[Schichtung]] sowie [[Einkommen]] und [[Konsumverhalten]] [[widerspiegeln|spiegeln]] die [[Verhältnis]]se im ganzen Land wider

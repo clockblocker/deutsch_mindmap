@@ -1,2 +1,2 @@
 ✋ [[nehmen]]
-, [[nehm]], [[wahrnehmen]], [[einnehmen]], [[teilnehmen]], [[mitnehmen]]
+, [[nehm]], [[wahrnehmen]], [[einnehmen]], [[teilnehmen]], [[mitnehmen]], [[ernstnehmen]]

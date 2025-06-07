@@ -41,4 +41,4 @@ Tags:
 ---
 
 Morphems:
-[[sicht]], [[lich]], [[ersichtlich]]
+[[Sicht]], [[lich]], [[ersichtlich]]

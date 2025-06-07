@@ -1,1 +1,1 @@
-, [[anstreben]]
+, [[anstreben]], [[ansterben]]

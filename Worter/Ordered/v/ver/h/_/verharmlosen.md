@@ -1,2 +1,2 @@
 
-, [[beurteilen]], [[Verharmlosung]]
+, [[beurteilen]], [[Verharmlosung]], [[ernstnehmen]]

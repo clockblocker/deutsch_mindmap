@@ -4,12 +4,6 @@
 Dass menschliche Beziehungen nachhaltigen Einfluss auf unser Leben und somit auch auf unsere Gesundheit haben, ist nicht neu. Zu wenig Liebe und Zuneigung in der frühen Lebensphase eines Babys kann später zu Bindungsproblemen und auch nachweisbar zu Störungen im Stresshormonsystem führen. Aber warum ist das so?  
 Ein Wissenschaftszweig, die Epigenetik, bringt nun Licht ins Dunkel und zeigt, dass unsere Gene nicht als feste Größe oder Schicksal, das wir nicht beeinflussen können, anzusehen sind.
 
-**9. Welche Folgen kann fehlende Geborgenheit für einen Säugling haben?**  
-a) Er kann später Belastungen schwieriger handhaben.  
-b) Seine Gene können verändert werden.  
-c) Sein Körper kann zu viele Stresshormone produzieren.
-
-
 Nachdem im Jahre 2000 das Humangenom, also der genetische menschliche Bauplan, entziffert worden war, weckten dies viele Hoffnungen auf Heilung schwerer psychischer und physischer Krankheiten. Eine Hoffnung, die sich nicht erfüllte, hatte man doch damals noch keinen Einblick in die Tatsache, dass Gene nicht nur steuern, sondern auch gesteuert werden können. Das erklärt auch, warum bei zwei Menschen mit dem gleichen genetischen Bauplan der eine schwere Krankheiten bekommt und der andere nicht oder weshalb der eine mit Stress gut umgehen kann und der andere nicht.
 
 Hier kommt die Epigenetik ins Spiel. Das Wort Epigenetik setzt sich aus den Wörtern Genetik, der Wissenschaft von der Vererbung, und Epigenese, also der Entwicklung eines Lebenswesens, zusammen. Dieser neue Wissenschaftszweig stellt das Bindeglied zwischen Umwelteinflüssen und Genen dar: Unter welchen Umständen wird welches Gen ein- oder stummgeschaltet? Dazu untersuchte ein spanisches Forschungsteam einige Zwillingspaare im Altersspektrum von drei bis 74 Jahren und fanden heraus, dass sich die jüngsten Zwillinge in ihrem epigenetischen Code kaum unterschieden, im Gegensatz zu den ältesten Zwillingen, bei denen es immense Unterschiede gab. Folglich spielen die Lebensgewohnheiten, Lebensumstände und Erfahrungen eine große Rolle dabei, welche Gene aktiv sind und welche nicht.
@@ -26,7 +20,7 @@ Eigentlichweise konnte man diese Beobachtungen nicht bei den Töchtern dieser M�
 Außerdem würden sich die an Tieren durchgeführten Experimente nicht einfach auf den Menschen übertragen lassen. Nichtsdestotrotz messen die Verfechter:innen der Epigenetik diesem Forschungszweig große Bedeutung bei und halten es für gewiss, dass die Epigenetik dazu beitragen wird, Krankheiten in Zukunft noch besser verstehen und behandeln zu können und der Medizin neue Wege zu eröffnen.
 
 ---
-#### Fragen zur Textverarbeitung – *Epigenetik*
+#### Fragen zur Textverarbeitung – [[Epigenetik]]
 
 **9. Welche Folgen kann fehlende Geborgenheit für einen Säugling haben?**  
 a) Er kann später Belastungen schwieriger handhaben.  

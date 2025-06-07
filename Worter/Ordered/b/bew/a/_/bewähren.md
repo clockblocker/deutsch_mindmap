@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T1-001-Text#^1|^]]* Hunde haben sich beim [[Erkennen]] von Corona-[[Viren]] [[bewährt]]. Und sie [[taugen]] auch zum [[Erschnüffeln]] von anderen Krankheiten
 
+*[[C1-Lesen-T2-200-Text#^10|^]]* [[Bewährte]] Sprachstrukturen dürften nicht verändert werden
+
 *[[C1-Hoehen-T3-301-Text#^25|^]]* [[Bewährte]] Kräfte gehen [[reihenweise]] in den [[Ruhestand]] und der [[Nachwuchs]] kann das nicht [[ausgleichen]]
 
 ---

@@ -7,6 +7,10 @@ die [[jenen]]
 
 ---
 
+*[[C1-Lesen-T2-201-Text#^5|^]]* Dr. Alexander sagt, [[jene]] höhere Macht [[verbind]]e unterschiedliche religiöse Konzepte
+*(Dr. Alexander says that [[that]] higher power [[connects]] different religious concepts)*
+
+
 Ich denke gerne zurück an [[jene]] Tage in Frankreich.
 
 Wer etwas verliert und es wiederhaben will, muss suchen – in dieser Ecke oder in [[jener]]. Den [[redensartlichen]] [[Faden]] findet man dort aber nicht. [[Dazu]] muss man schon in die Tiefe seines eigenen Geistes [[eindringen]].

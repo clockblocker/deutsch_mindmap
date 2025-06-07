@@ -24,4 +24,4 @@ implacable, relentless
 Adjektive: [[unerbittlich]], [[unerbittlicher]], [[unerbittlichst]]
 
 ---
-[[unerbittlicher]], [[unerbittliches]], [[unerbittliche]], [[unerbittlichen]], [[unerbittlichem]], [[unerbittlicherer]], [[unerbittlicheres]], [[unerbittlichere]], [[unerbittlicheren]], [[unerbittlicherem]], [[unerbittlichster]], [[unerbittlichstes]], [[unerbittlichste]], [[unerbittlichsten]], [[unerbittlichstem]]
+[[unerbittlicher]], [[unerbittliches]], [[unerbittliche]], [[unerbittlichen]], [[unerbittlichem]], [[unerbittlicherer]], [[unerbittlicheres]], [[unerbittlichere]], [[unerbittlicheren]], [[unerbittlicherem]], [[unerbittlichster]], [[unerbittlichstes]], [[unerbittlichste]], [[unerbittlichsten]], [[unerbittlichstem]], [[kompromisslos]]

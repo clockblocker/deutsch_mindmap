@@ -1,4 +1,4 @@
-   [[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+   [[Lesen-C1-Teils|Tiles]] | [[Lesen-C1-Models|Models]]
    [[C1-Lesen-419-Text|Text]]  | [[C1-Lesen-419-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-419-Loesung|Loesung]]
 
 ---

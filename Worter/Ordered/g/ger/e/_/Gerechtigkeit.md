@@ -29,4 +29,4 @@ D: der [[Gerechtigkeit]], den [[Gerechtigkeiten]]
 , [[Aufgabengerechtigkeit]], [[Menschenrecht]], [[frühkindlich]]
 
 
-#Feminin , [[Sozialdumping]], [[Machtmissbrauch]]
+#Feminin , [[Sozialdumping]], [[Machtmissbrauch]], [[gendergerecht]]

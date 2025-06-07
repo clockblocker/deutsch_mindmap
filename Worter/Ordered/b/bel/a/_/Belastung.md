@@ -3,7 +3,7 @@
 die [[Belastungen]]
 
 ---
-- Erklären Sie, wodurch psychische [[Belastung]] am Arbeitsplatz [[entsteht]].
+Erklären Sie, wodurch psychische [[Belastung]] am Arbeitsplatz [[entsteht]].
 
 ###### ###### 9. Welche Folgen kann [[fehlende]] [[Geborgenheit]] für einen [[Säugling]] haben?
 a) Er kann später [[Belastung]]en schwieriger [[handhaben]].  

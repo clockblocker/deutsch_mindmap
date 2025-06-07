@@ -4,6 +4,8 @@ die [[Vergangenheiten]]
 ---
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 
+*[[C1-Lesen-T2-200-Text#^5|^]]* Geschlechtliche Vielfalt in der Sprache wird heute anders als in der [[Vergangenheit]] diskutiert
+
 *[[C1-Hoehen-T2-301-Text#^8|^]]* Das resultiert natürlich in erster Linie aus der deutschen [[Vergangenheit]] und ist sehr gut [[nachvollziehbar]]
 
 Herr Knizka kritisiert, dass die WHO in der [[Vergangenheit]] [[übereilt]] [[Urteil]]e [[gefällt]] hat

@@ -1,1 +1,1 @@
-, [[Abwanderung]], [[abwerben]], [[abwerben]], [[abwandern]], [[abseits]], [[ablenken]], [[abdecken]], [[Abwechslung]], [[abgrenzen]], [[Abhängigkeit]], [[lenken]], [[ablaufen]], [[Abmahnung]], [[abträglich]], [[abhalftern]]
+, [[Abwanderung]], [[abwerben]], [[abwerben]], [[abwandern]], [[abseits]], [[ablenken]], [[abdecken]], [[Abwechslung]], [[abgrenzen]], [[Abhängigkeit]], [[lenken]], [[ablaufen]], [[Abmahnung]], [[abträglich]], [[abhalftern]], [[Abbildung]]

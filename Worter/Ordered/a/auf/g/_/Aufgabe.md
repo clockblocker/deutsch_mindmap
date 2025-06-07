@@ -52,4 +52,4 @@ D: der [[Aufgabe]], den [[Aufgaben]]
 , [[aufmachen]], [[Erhalt]], [[bestreben]], [[Aufgabenerfüllung]], [[Aufgabengerechtigkeit]], [[Anhieb]], [[Anhieb]], [[Projekt]]
 
 #Feminin , [[Arbeitsschritt]], [[Zuständigkeit]], [[Aufgabenbereich]], [[Verzicht]], [[Mühe]], [[Logikaufgabe]], [[Prüfungsteil]], [[Rolle]]
-, [[Familienaufgabe]], [[Lernaufgabe]], [[Arbeitsaufgabe]]
+, [[Familienaufgabe]], [[Lernaufgabe]], [[Arbeitsaufgabe]], [[Beibehaltung]]

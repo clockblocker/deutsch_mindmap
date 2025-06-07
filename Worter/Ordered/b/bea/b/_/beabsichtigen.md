@@ -3,6 +3,8 @@
 ---
 Sie [[beabsichtigen]] in diesem Dorf für einige Tage zu bleiben
 
+*[[C1-Lesen-T2-201-Text#^8|^]]* Wissenschaftler:innen [[beabsichtigen]] zu erforschen, was unser [[Wesen]] [[ausmacht]]
+
 ---
 = [[vorhaben]], [[planen]], [[bezwecken]], [[absichtlich]],  [[wollen]], [[vorhaben]]
 ≈ [[anstreben]], [[erstreben]], [[planen]], [[Bewerb]]
@@ -13,7 +15,7 @@ to intend, to plan
 намереваться, планировать
 
 ---
-[[be]]|[[ab]]|[[sicht]]|[[ig]]|[[en]]
+[[be]]|[[ab]]|[[Sicht]]|[[ig]]|[[en]]
 
 ---
 ich: [[beabsichtige]], [[beabsichtigte]], –, [[beabsichtige]], [[beabsichtigte]]

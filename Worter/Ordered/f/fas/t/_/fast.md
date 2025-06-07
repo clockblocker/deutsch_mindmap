@@ -4,6 +4,9 @@ fast, [fɑst], [[bald]]
 ---
 Ich hätte [[fast]] den Bus verpasst.
 
+Dr. Alexander [[starb]] [[fast]] daran, dass sein Gehirn langsam [[zerstört]] wurde.
+*(Dr. Alexander [[died]] [[almost]] because his brain was slowly [[destroyed]])*
+
 Wenn du einer Situation [[knapp]] [[entkommen]] bist, kannst du sagen: “Das war [[knapp]]!” oder “Ich bin gerade so [[entkommen]].” oder “Ich war [[fast]] richtig.”
 
 Jedes [[Stückchen]] [[Wand]] wird von Bücherschränken [[verdeckt]]. Jeder Bücherschrank hat sechs [[Ebenen]], die [[fast]] bis an die [[Decke]] [[reichen]]

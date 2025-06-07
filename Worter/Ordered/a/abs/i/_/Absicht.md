@@ -18,7 +18,7 @@ Meine Frau hat die [[Absicht]] an die Nordsee zu fahren
 intention, purpose, aim
 
 ---
-[[Ab]]|[[sicht]]
+[[Ab]]|[[Sicht]]
 
 ---
 N: die [[Absicht]], die [[Absichten]]  

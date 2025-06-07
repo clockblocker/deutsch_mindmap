@@ -15,7 +15,7 @@ Sie [[bewegt]] sich [[vorsichtig]] und langsam, um kein [[Geräusch]] zu machen.
 careful, cautious, prudent
 
 ---
-[[vor]]|[[sicht]]|[[ig]]
+[[vor]]|[[Sicht]]|[[ig]]
 
 ---
 N: [[vorsichtig]], [[vorsichtiger]], [[vorsichtigster]]  

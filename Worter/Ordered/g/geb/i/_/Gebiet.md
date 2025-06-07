@@ -4,6 +4,8 @@
 die [[Gebiete]]
 
 ---
+*[[C1-Lesen-T2-201-Text#^10|^]]* Renommierte Physiker haben [[Gebiet]]e der Naturwissenschaften der Spiritualität [[nähergebracht]]
+*(Renowned physicists have [[brought]] areas of natural science [[closer]] to spirituality)*
 
 mit dem [[Rückzug]] der Deutschen aus den [[besetzten]] [[Gebieten]]
 

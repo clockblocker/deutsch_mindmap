@@ -33,7 +33,7 @@ Heute wird kontrovers darüber diskutiert, was für Kriterien [[Schulabgängerin
 to consider, to take into account
 
 ---
-[[be]]|[[rück]]|[[sicht]]|[[ig]]|[[en]]
+[[be]]|[[rück]]|[[Sicht]]|[[ig]]|[[en]]
 
 ---
 ich: [[berücksichtige]], [[berücksichtigte]], –, [[berücksichtige]], [[berücksichtigte]]
@@ -48,4 +48,4 @@ PI: [[berücksichtigend]], PII: [[berücksichtigt]], Zu+inf: [[zu berücksichtig
 [[berücksichtigen]] - [[be]] = [[Rücksicht]] / to consider, to take into account
 
 ---
-[[Berücksichtigung]], [[rücksichtsvoll]], [[Rücksicht]], [[sichtig]], [[beachten]], [[einzigartig]], [[Schulabgänger]], [[übergehen]]
+[[Berücksichtigung]], [[rücksichtsvoll]], [[Rücksicht]], [[sichtig]], [[beachten]], [[einzigartig]], [[Schulabgänger]], [[übergehen]], [[ernstnehmen]]

@@ -2,7 +2,11 @@
 die [[Vielfalten]]
 
 ---
-, [[verschieden]], [[Kräutervielfalt]]
+*[[C1-Lesen-T2-200-Text#^4|^]]* Geschlechtliche [[Vielfalt]] in der Sprache wird bereits seit längerer Zeit ohne konkretes [[Ergebnis]] [[erörtert]]
+*(Gender [[diversity]] in language has been [[discussed]] for a long time without a concrete [[result]])*
+
+*[[C1-Lesen-T2-200-Text#^4|^]]* Geschlechtliche [[Vielfalt]] in der Sprache kann auch durch die maskulinen Formen im Deutschen [[vermittelt]] werden
+
 
 ---
 = [[Abwechslung]], [[Diversität]], [[Mannigfaltigkeit]]

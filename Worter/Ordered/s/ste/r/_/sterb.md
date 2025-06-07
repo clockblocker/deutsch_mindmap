@@ -1,1 +1,1 @@
-, [[sterben]], [[aussterben]], [[Waldsterben]], [[Normalsterbliche]]
+, [[sterben]], [[aussterben]], [[Waldsterben]], [[Normalsterbliche]], [[ansterben]]

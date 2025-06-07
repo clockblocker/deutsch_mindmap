@@ -18,7 +18,7 @@ apparent, evident
 [[erscheinen]], [[sichtlich]], [[Sicht]]
 
 ---
-[[er]]|[[sicht]]|[[lich]]
+[[er]]|[[Sicht]]|[[lich]]
 [[ersichtlich]]
 
 

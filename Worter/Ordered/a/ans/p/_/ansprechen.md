@@ -5,6 +5,8 @@ haben [[angesprochen]]
 ---
 *[[C1-Lesen-421-Text#^51|^]]* Darüber hinaus soll die Aufmerksamkeit auf die [[Randgebiet]]e Berlins [[gelenkt]] werden, die auch nicht wenig [[Ansprechende]]s zu [[bieten]] haben
 
+*[[C1-Lesen-T2-200-Text#^7|^]]* Der Stern hat den Vorteil, dass sich Menschen mit unterschiedlichen Geschlechtsidentitäten [[vertreten]] und [[angesprochen]] [[fühlen]]
+
 *[[bro-schrieben-c1-t1-002#^2|^]]* Liebe [[Forumsteilnehmer]], seit langem [[verfolge]] ich eure [[Beiträge]] im Forum und das neue Thema hat mich so [[angesprochen]], dass ich mich [[gerne]] `an` der Diskussion [[beteiligen]] möchte
 
 Endlich [[gelingt]] es Mona, sie [[anzusprechen]]

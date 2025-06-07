@@ -28,7 +28,7 @@ hopeless, without prospects
 ---
 
 Morpheme:
-[[aus]], [[sicht]], [[los]]
+[[aus]], [[Sicht]], [[los]]
 
 ---
 

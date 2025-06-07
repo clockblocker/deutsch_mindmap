@@ -1,4 +1,4 @@
-   Tiles | [[Lesen-C1-Models|Models]]    
+   [[Lesen-C1-Teils|Tiles]] | [[Lesen-C1-Models|Models]]    
 
 [[0-C1-Lesen-T1-Ubung-List]]
 [[0-Lesen-Teil-1-Lochtype]]
@@ -25,3 +25,8 @@
 - [ ] [[C1-Lesen-T1-301-Text|301]]
 - [ ] [[C1-Lesen-T1-302-Text|302]]
 - [ ] [[C1-Lesen-T1-303-Text|303]]
+
+[[0-C1-Lesen-T1-Ubung-List]]
+[[0-C1-Lesen-T2-Ubung-List]]
+[[0-C1-Lesen-T3-Ubung-List]]
+[[0-C1-Lesen-T4-Ubung-List]]

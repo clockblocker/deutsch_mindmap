@@ -3,7 +3,10 @@
 ---
 Diskutieren Sie, wie [[Bildungseinrichtungen]] digitale Kompetenz [[vermitteln]] sollten
 
-*[[C1-Hoehen-T2-201-Text#^6|^]]* 12 Im [[Lehramtsstudium]] sollte [[vermittelt]] werden, dass es [[unterschiedliche]] [[Lerntypen]] gibt
+*[[C1-Lesen-T2-200-Text#^4|^]]* Geschlechtliche [[Vielfalt]] in der Sprache kann auch durch die maskulinen Formen im Deutschen [[vermittelt]] werden
+*([[conveyed]] by)* 
+
+*[[C1-Hoehen-T2-201-Text#^6|^]]* Im [[Lehramtsstudium]] sollte [[vermittelt]] werden, dass es [[unterschiedliche]] [[Lerntypen]] gibt
 
 *[[C1-Lesen-T4-100-Text#^14|^]]* Das [[gelingt]] mir, da ich mir einfach ein zweites [[Standbein]] [[geschaffen]] habe, indem ich in meinem [[Atelier]] junge, talentierte Künstlerinnen und Künstler ausbilde, dadurch [[Freude]] an der Kunst [[vermittle]] und so [[genügend]] Geld verdiene, um davon leben zu können. ^14
 

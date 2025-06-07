@@ -3,6 +3,9 @@
 ---
 *[[C1-Hoehen-T1-203-Text#^21|^]]* Jedoch zeigt die Doku interessante Möglichkeiten, wie man dieser [[Vorgehensweise]] [[entgegenwirken]] könnte
 
+*[[C1-Lesen-T2-100-Text#^16|^]]* Demenz kann man [[entgegenwirken]]
+
+
 ---
 = [[begegnen]], [[entgegentreten]], [[verhindern]]
 ≈ [[bekämpfen]], [[widerstehen]], [[abwenden]]

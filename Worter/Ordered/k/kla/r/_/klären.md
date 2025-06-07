@@ -3,6 +3,7 @@
 haben [[geklärt]]
 
 ---
+*[[C1-Lesen-T2-200-Text#^11|^]]* Die Auseinandersetzung über eine gendergerechte Sprache wird durch ein Sprachgesetz [[geklärt]] werden
 
 Ich schlage vor, dass wir uns morgen kurz [[zusammensetzen]], um die offenen [[Punkte]] zu [[klären]].
 

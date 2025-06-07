@@ -18,7 +18,7 @@ Fahren sie [[offensichtlich]] von zu Hause in den Klub? Keine Ahnung. Sie kommen
 *(obvious, evident, clear)*
 
 ---
-[[offen]]|[[sicht]]|[[lich]]
+[[offen]]|[[Sicht]]|[[lich]]
 
 ---
 N: [[offensichtlich]], [[offensichtlicher]], [[offensichtlichster]]  

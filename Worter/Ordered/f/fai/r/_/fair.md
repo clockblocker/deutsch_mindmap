@@ -25,4 +25,4 @@ fair
 Adjektive: [[fair]], [[fairer]], [[fairst]]
 
 ---
-[[fairer]], [[faires]], [[faire]], [[fairen]], [[fairem]], [[fairerer]], [[faireres]], [[fairere]], [[faireren]], [[fairerem]], [[fairster]], [[fairstes]], [[fairste]], [[fairsten]], [[fairstem]]
+[[fairer]], [[faires]], [[faire]], [[fairen]], [[fairem]], [[fairerer]], [[faireres]], [[fairere]], [[faireren]], [[fairerem]], [[fairster]], [[fairstes]], [[fairste]], [[fairsten]], [[fairstem]], [[gendergerecht]]

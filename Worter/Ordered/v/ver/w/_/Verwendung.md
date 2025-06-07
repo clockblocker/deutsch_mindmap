@@ -6,6 +6,8 @@
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
 
+*[[C1-Lesen-T2-200-Text#^11|^]]* Die geschlechtliche Bedeutung spiele bei der [[Verwendung]] keine Rolle
+
 Beethovens Zehnte Symphonie ist von KI unter [[Verwendung]] [[erlernter]] Originalmotive [[gestaltet]] worden
 
 *[[032-C1-Schreiben-T2#^9|^]]* Schreiben Sie eine E-Mail. Die [[Verwendung]] der inhaltlichen Anregungen ist optional. ^9

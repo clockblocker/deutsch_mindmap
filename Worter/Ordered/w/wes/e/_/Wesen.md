@@ -1,11 +1,8 @@
-🔴 das [[Wesen]]
-die [[Wesen]]
+das [[Wesen]]
 
-Beispiele:
-
-- Das mysteriöse [[Wesen]] verschwand im Wald.
-- Sie sahen ein seltsames [[Wesen]] am Flussufer.
-- Viele Fabeln erzählen von fantastischen [[Wesen]].
+---
+*[[C1-Lesen-T2-201-Text#^8|^]]* Wissenschaftler:innen [[beabsichtigen]] zu erforschen, was unser [[Wesen]] [[ausmacht]]
+*(Scientists [[intend]] to explore what [[constitutes]] our [[being]])*
 
 ---
 Synonyme:
@@ -21,3 +18,4 @@ Morphems:
 
 ---
 #Substantiv #Neuter, [[Schulwesen]], [[Persönlichkeit]], [[wesentlich]], [[Finanzwesen]], [[Gesundheitswesen]], [[Erscheinungsbild]]
+

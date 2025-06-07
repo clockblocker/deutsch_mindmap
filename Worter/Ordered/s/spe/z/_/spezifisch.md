@@ -1,1 +1,1 @@
-, [[eigene]], [[allgemein]], [[speziell]]
+, [[eigene]], [[allgemein]], [[speziell]], [[generisch]]

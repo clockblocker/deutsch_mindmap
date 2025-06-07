@@ -27,4 +27,4 @@ A: die [[Versöhnung]], die [[Versöhnungen]]
 G: der [[Versöhnung]], der [[Versöhnungen]]
 D: der [[Versöhnung]], den [[Versöhnungen]]
 
-#Feminin 
+#Feminin , [[Auseinandersetzung]]

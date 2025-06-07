@@ -7,9 +7,12 @@
 
 ---
 
+*[[C1-Lesen-T2-100-Text#^17|^]]* Demenz lässt sich auch noch im Alter [[verhindern]]
+*(Dementia can still be [[prevented]] in old age.)*
+
 ###### 🧘‍♀️ Burnout [[verhindern]] – Was können Arbeitgebende tun?
 
-_[[04-C1-Schreiben-T2-M#^8|^]]_ \* Machen Sie einen Vorschlag, wie die [[Ruhestörung]] [[verhindert]] werden kann. ^8
+_[[04-C1-Schreiben-T2-M#^8|^]]_ Machen Sie einen Vorschlag, wie die [[Ruhestörung]] [[verhindert]] werden kann. ^8
 
 _[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^8|^]]_ Nur so lässt sich [[langfristig]] die Gesundheit der [[Belegschaft]] [[sichern]] und ein Burnout [[verhindern]]. ^8
 

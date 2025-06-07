@@ -5,6 +5,9 @@
 ---
 Dass macht mir nichts aus (Kein problem)
 
+*[[C1-Lesen-T2-201-Text#^8|^]]* Wissenschaftler:innen [[beabsichtigen]] zu erforschen, was unser [[Wesen]] [[ausmacht]]
+*(Scientists [[intend]] to explore what [[constitutes]] our [[being]])*
+
 *[[C1-Hoehen-T1-101-Text#^9|^]]* [[Ausgehend]] davon, dass Aminosäuren, Vitamine und [[Mineralstoffe]] das [[Gerüst]] unseres Körpers [[ausmachen]] und an den [[Stoffwechselprozessen]] [[beteiligt]] sind, wirft die Ökotrophologin Alev Bükey-Schneider in ihrem Ratgeber einen Blick auf den [[Nährstoffgehalt]] von Obst und Gemüse in unseren Supermärkten
 
 ---

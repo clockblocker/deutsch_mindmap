@@ -1,1 +1,1 @@
-, [[Klassifizierung]], [[griechisch]]
+, [[Klassifizierung]], [[griechisch]], [[generisch]]

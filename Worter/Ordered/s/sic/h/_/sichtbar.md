@@ -22,7 +22,7 @@
 [[Sicht]], [[sehen]], [[Ansicht]]
 
 ---
-[[sicht]]|[[bar]]
+[[Sicht]]|[[bar]]
 [[sichtbar]]
 
 

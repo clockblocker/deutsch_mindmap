@@ -2,7 +2,9 @@
 
 ---
 ###### ###### 9. Welche Folgen kann [[fehlende]] [[Geborgenheit]] für einen [[Säugling]] haben?
-a) Er kann später [[Belastung]]en schwieriger [[handhaben]].  
+a) Er kann später [[Belastung]]en schwieriger [[handhaben]]
+*(He may later [[handle]] stresses more difficultly)*
+
 
 ---
 = [[benutzen]], [[anwenden]], [[gebrauchen]], [[verwalten]]

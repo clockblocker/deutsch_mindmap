@@ -8,7 +8,7 @@
  *
  * For each unique <ID>, it builds an Obsidian-style navigation block of the form:
  *
- *   [[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+ *   [[Lesen-C1-Teils|Tiles]] | [[Lesen-C1-Models|Models]]
  *   [[C1-Lesen-<ID>-Text|Text]]  | [[C1-Lesen-<ID>-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-<ID>-Loesung|Loesung]]
  *
  *   ---
@@ -90,7 +90,7 @@ function buildNavBlock(id, prevId, nextId) {
   const threeSpaces = "   ";
 
   // Always link back to Tiles and Models:
-  // "[[0-C1-Lesen-T1-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]"
+  // "[[Lesen-C1-Teils|Tiles]] | [[Lesen-C1-Models|Models]]"
   const line1 =
     threeSpaces +
     `[[0-${level}-${part}-T${id[1]}-Ubung-List|Tiles]] | [[${part}-${level}-Models|Models]]`;

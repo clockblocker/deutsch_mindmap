@@ -2,6 +2,9 @@
 💥 [[stoßen]], [ˈʃtɔːsn̩](https://youglish.com/pronounce/stoßen/german) | [[stieß]], haben [[gestoßen]]
 
 ---
+*[[C1-Lesen-T2-200-Text#^9|^]]* Wo [[stößt]] der Stern `an` seine [[Grenzen]]? Bei [[bestimmten]] sprachlichen Strukturen
+*(Where does the asterisk [[reach]] its [[limits]]? In [[certain]] linguistic structures)*
+
 _Der Wasserball [[stößt]] an Sokkas Speerende und zerplatzt.
 
 _Sokka [[stößt]] ihm mit dem Ende des Speers an den Kopf und Katara schlägt ihn weg._

@@ -3,6 +3,10 @@
 ---
 Wie [[misst]] du deinen [[fortschritt]]?Machst du mock-tests oder einfach nur [[gefühltes]] [[verständnis]]?
 
+*[[C1-Lesen-T2-200-Text#^7|^]]* Der Stern hat den Vorteil, dass sich Menschen mit unterschiedlichen Geschlechtsidentitäten [[vertreten]] und [[angesprochen]] [[fühlen]]
+*(The asterisk has the advantage that people with different gender identities [[feel]] [[represented]] and [[addressed]])*
+
+
 *[[Einen Korb bekommen#^12|^]]* „Muss Liebe schön sein“, hat Mikael gedacht und sich dabei ziemlich [[einsam]] [[gefühlt]]. ^12
 
 [[Fühle]] den [[Boden]] unter deinen Füßen.

@@ -1,1 +1,1 @@
-, [[Diskussion]], [[Meinungsbildung]], [[Argument]], [[Referat]], [[Abhandlung]], [[Analyse]]
+, [[Diskussion]], [[Meinungsbildung]], [[Argument]], [[Referat]], [[Abhandlung]], [[Analyse]], [[erörtern]]

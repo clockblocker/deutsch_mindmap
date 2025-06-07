@@ -18,7 +18,7 @@ consideration, regard
 [[rücksichtsvoll]], [[rücksichtslos]], [[Rücksichtnahme]], [[berücksichtigen]]
 
 ---
-[[Rück]]|[[sicht]]
+[[Rück]]|[[Sicht]]
 [[Rücksicht]]
 
 

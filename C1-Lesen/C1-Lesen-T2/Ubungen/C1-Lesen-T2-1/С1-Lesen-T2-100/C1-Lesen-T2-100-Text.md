@@ -77,3 +77,74 @@ a) Die Organisation und [[Deutung]] der Untersuchungen seien fraglich.
 b) Die Seriosität von Experimenten mit Tieren müsse [[hinterfragt]] werden.  
 c) Die [[Untersuchung]]en würden sich nur auf den [[männlichen]] [[Nachwuch]]s [[beziehen]].
 
+
+
+----
+---
+
+*[[C1-Lesen-T2-100-Text#^4|^]]* Welche Folgen kann fehlende [[Geborgenheit]] für einen [[Säugling]] haben? ^4
+
+*[[C1-Lesen-T2-100-Text#^5|^]]* Er kann später [[Belastung]]en schwieriger [[handhaben]]. ^5
+
+*[[C1-Lesen-T2-100-Text#^6|^]]* Seine Gene können verändert werden. ^6
+
+*[[C1-Lesen-T2-100-Text#^7|^]]* Sein Körper kann zu viele Stresshormone produzieren. ^7
+
+
+ 
+ 
+*[[C1-Lesen-T2-100-Text#^8|^]]* Die [[Entzifferung]] des menschlichen Bauplans bewies, dass Gene [[gelenkt]] werden können. ^8
+
+*[[C1-Lesen-T2-100-Text#^9|^]]* Die Entzifferung des menschlichen Bauplans [[enttäuschte]] viele [[Erwartung]]en. ^9
+
+*[[C1-Lesen-T2-100-Text#^9|^]]* Die Entzifferung des menschlichen Bauplans erklärte, weshalb bestimmte Menschen erkranken. ^9
+
+
+ 
+ 
+*[[C1-Lesen-T2-100-Text#^10|^]]* Das spanische Forschungsteam bewies, dass man Gene aktivieren und deaktivieren kann. ^10
+
+*[[C1-Lesen-T2-100-Text#^11|^]]* Das spanische Forschungsteam bewies, dass schon junge Zwillinge enorme [[Abweichung]]en beim epigenetischen Code haben. ^11
+
+*[[C1-Lesen-T2-100-Text#^12|^]]* Das spanische Forschungsteam bewies, dass sich der epigenetische Code im Laufe des Lebens verändert. ^12
+
+
+ 
+ 
+*[[C1-Lesen-T2-100-Text#^13|^]]* Mithilfe der Epigenetik ging die Anzahl von Krebspatienten zurück. ^13
+
+*[[C1-Lesen-T2-100-Text#^14|^]]* Mithilfe der Epigenetik konnte man [[unfruchtbar]]e Bienen wieder [[fruchtbar]] machen. ^14
+
+*[[C1-Lesen-T2-100-Text#^15|^]]* Mithilfe der Epigenetik konnten bestimmte Phänomene erklärt werden. ^15
+
+
+ 
+ 
+*[[C1-Lesen-T2-100-Text#^16|^]]* Demenz kann man [[entgegenwirken]]. ^16
+
+*[[C1-Lesen-T2-100-Text#^17|^]]* Demenz lässt sich auch noch im Alter [[verhindern]]. ^17
+
+*[[C1-Lesen-T2-100-Text#^18|^]]* Demenz wird durch [[frühe]] [[Umwelteinflüsse]] [[geprägt]]. ^18
+
+
+ 
+ 
+*[[C1-Lesen-T2-100-Text#^19|^]]* Was fand die Wissenschaft in Bezug auf Traumata heraus? ^19
+
+*[[C1-Lesen-T2-100-Text#^20|^]]* Die Betroffenen haben im Alter häufig Herzprobleme und Diabetes. ^20
+
+*[[C1-Lesen-T2-100-Text#^20|^]]* Mütter mit Traumata leiden u. a. an Übergewichtigkeit. ^20
+
+*[[C1-Lesen-T2-100-Text#^21|^]]* Sie können bis in die übernächste Generation weitergegeben werden. ^21
+
+
+ 
+ 
+*[[C1-Lesen-T2-100-Text#^22|^]]* Was behaupten die Gegnerinnen und Gegner der epigenetischen Vererbungstheorie? ^22
+
+*[[C1-Lesen-T2-100-Text#^23|^]]* Die Organisation und Deutung der Untersuchungen seien fraglich. ^23
+
+*[[C1-Lesen-T2-100-Text#^24|^]]* Die Seriosität von Experimenten mit Tieren müsse hinterfragt werden. ^24
+
+*[[C1-Lesen-T2-100-Text#^25|^]]* Die Untersuchungen würden sich nur auf den männlichen Nachwuchs beziehen. ^25
+

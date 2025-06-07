@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Mutes]], [[Mute]], [[Müte]], [[Muten]]
 
 ---
-#Substantiv #Maskulin, [[mutig]], [[vermuten]], [[Demut]], [[entmutigt]], [[Entscheidungsfreude]], [[Risikobereitschaft]], [[Unmut]], [[Zuversicht]], [[Zumutung]]
+#Substantiv #Maskulin, [[mutig]], [[vermuten]], [[Demut]], [[entmutigt]], [[Entscheidungsfreude]], [[Risikobereitschaft]], [[Unmut]], [[Zuversicht]], [[Zumutung]], [[ermuntern]]

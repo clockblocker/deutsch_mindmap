@@ -1,7 +1,7 @@
 🌱 [[fruchtbar]], [ˈfʁʊxtbaːɐ̯](https://youglish.com/pronounce/fruchtbar/german)
 
 ---
-b) konnte man [[unfruchtbare]] [[Bienen]] wieder [[fruchtbar]] machen.
+*[[C1-Lesen-T2-100-Text#^14|^]]* Mithilfe der Epigenetik konnte man [[unfruchtbar]]e [[Biene]]n wieder [[fruchtbar]] machen
 
 ---
 = [[produktiv]], [[ertragreich]], [[ergiebig]], [[reichhaltig]]

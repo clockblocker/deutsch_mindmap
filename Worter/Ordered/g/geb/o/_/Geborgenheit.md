@@ -1,8 +1,10 @@
 😌 🔴 die [[Geborgenheit]], [ɡəˈbɔʁɡn̩haɪ̯t](https://youglish.com/pronounce/Geborgenheit/german)
 
 ---
-###### ###### 9. Welche Folgen kann [[fehlende]] [[Geborgenheit]] für einen [[Säugling]] haben?
-a) Er kann später [[Belastung]]en schwieriger [[handhaben]].  
+*[[C1-Lesen-T2-100-Text#^4|^]]* Welche Folgen kann fehlende [[Geborgenheit]] für einen [[Säugling]] haben? ^4
+
+*(What consequences can a lack of [[security]] have for an [[infant]]?)*
+
 
 ---
 = [[Sicherheit]], [[Schutz]], [[Geborgenheit]]

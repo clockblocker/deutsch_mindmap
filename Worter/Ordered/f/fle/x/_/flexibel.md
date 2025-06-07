@@ -28,4 +28,4 @@ flexible
 Adjektive: [[flexibel]], [[flexibler]], [[flexibelst]]
 
 ---
-[[flexibeler]], [[flexibeles]], [[flexibele]], [[flexibelen]], [[flexibelem]], [[flexiblerer]], [[flexibleres]], [[flexiblere]], [[flexibleren]], [[flexiblerem]], [[flexibelster]], [[flexibelstes]], [[flexibelste]], [[flexibelsten]], [[flexibelstem]]
+[[flexibeler]], [[flexibeles]], [[flexibele]], [[flexibelen]], [[flexibelem]], [[flexiblerer]], [[flexibleres]], [[flexiblere]], [[flexibleren]], [[flexiblerem]], [[flexibelster]], [[flexibelstes]], [[flexibelste]], [[flexibelsten]], [[flexibelstem]], [[kompromisslos]]

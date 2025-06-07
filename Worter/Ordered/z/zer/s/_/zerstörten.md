@@ -1,7 +1,11 @@
 🏚️ [[zerstören]], [tsɛɐ̯ˈʃtøːʁən] | [[zerstörte]], haben [[zerstört]]
 
 ---
-*[[Atom#^6|^]]* Nun soll er in der Mitte [[durchtrennt]] werden. *Und [[zerstört]] werden*, so die Aktivisten. ^6
+*[[Atom#^6|^]]* Nun soll er in der Mitte [[durchtrennt]] werden. *Und [[zerstört]] werden*, so die Aktivisten
+
+Dr. Alexander [[starb]] [[fast]] daran, dass sein Gehirn langsam [[zerstört]] wurde.
+*(Dr. Alexander [[died]] [[almost]] because his brain was slowly [[destroyed]])*
+
 
 163. In welchem Jahr [[zerstörten]] die Nationalsozialisten Synagogen und jüdische [[Geschäfte]] in Deutschland? (81%)
 	- [x] 1938

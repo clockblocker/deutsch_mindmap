@@ -3,6 +3,8 @@
 ---
 *[[102-C1-Schreiben-T1#^2|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt.
 
+*[[C1-Lesen-T2-200-Text#^7|^]]* Der Stern hat den Vorteil, dass sich Menschen mit unterschiedlichen Geschlechtsidentitäten [[vertreten]] und [[angesprochen]] [[fühlen]]
+
 *[[C1-Hoehen-T2-202-Text#^16|^]]* Das [[Durchschnittsalter]] der Parteimitglieder ist ja relativ hoch. Sich die Jugend da überhaupt noch [[vertreten]]?
 
 

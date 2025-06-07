@@ -1,1 +1,1 @@
-, [[Partei]], [[ungerecht]], [[fair]]
+, [[Partei]], [[ungerecht]], [[fair]], [[gendergerecht]]

@@ -4,7 +4,7 @@
 die [[Abweichungen]]
 
 ---
-b) schon junge Zwillinge enorme [[Abweichungen]] beim epigenetischen Code haben.
+*[[C1-Lesen-T2-100-Text#^11|^]]* Das spanische Forschungsteam bewies, dass schon junge Zwillinge enorme [[Abweichung]]en beim epigenetischen Code haben
 
 ---
 = [[Differenz]], [[Deviation]], [[Unterschied]], [[Veränderung]], [[Unterschied]], [[Differenz]], [[Ausnahme]]

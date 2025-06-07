@@ -5,6 +5,8 @@
 ---
 ❤️ [[Regulierung]] [[einführen]]                              *(Introduce)*
 
+*[[C1-Lesen-T2-200-Text#^14|^]]* Der Autor wünscht sich, dass juristische [[Regelung]]en [[eingeführt]] werden
+
 *[[bro-schrieben-c1-t1-004#^11|^]]* Ein Beispiel wäre, ein staatliches Programm zur [[Altersvorsorge]] [[einzuführen]]
 
 *[[C1-Hoehen-T2-301-Text#^14|^]]* Wäre denn nicht jetzt der [[geeignet]]e Zeitpunkt, dies dadurch zu [[revidieren]], dass man ein obligatorisches soziales Jahr für all die [[einführt]], die sich nicht bei der Bundeswehr [[verpflichten]]?

@@ -13,7 +13,7 @@ serious, to be taken seriously
 серьезный, заслуживающий внимания
 
 ---
-[[Ernst]], [[Ernsthaftigkeit]], [[ernstnehmen]], [[ernsthaft]]
+[[Ernst]], [[Ernsthaftigkeit]], [[Worter/Ordered/e/ern/s/_/ernstnehmen]], [[ernsthaft]]
 
 ---
 [[ernst]]|[[zu]]|[[nehm]]|`end`|[[er]]

@@ -53,4 +53,4 @@ sie, [[streben an]], [[strebten an]], [[streben an]], [[strebten an]], [[streben
 Adjektive: [[anstrebend]], [[anstrebender]], [[anstrebendst]]
 
 ---
-[[anstrebender]], [[anstrebendes]], [[anstrebende]], [[anstrebenden]], [[anstrebendem]], [[anstrebenderer]], [[anstrebenderes]], [[anstrebendere]], [[anstrebenderen]], [[anstrebenderem]], [[anstrebendster]], [[anstrebendstes]], [[anstrebendste]], [[anstrebendsten]], [[anstrebendstem]]
+[[anstrebender]], [[anstrebendes]], [[anstrebende]], [[anstrebenden]], [[anstrebendem]], [[anstrebenderer]], [[anstrebenderes]], [[anstrebendere]], [[anstrebenderen]], [[anstrebenderem]], [[anstrebendster]], [[anstrebendstes]], [[anstrebendste]], [[anstrebendsten]], [[anstrebendstem]], [[ansterben]]

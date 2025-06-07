@@ -6,6 +6,7 @@ die [[Ansichten]]
 ---
 Wir treffen eine [[Entscheidung]], [[nachdem]] jeder seine [[Ansichten]] mit uns [[geteilt]] hat.
 
+Viele Menschen werden immer [[kompromisslos]]er in ihren [[Ansicht]]en
 
 ---
 = [[Meinung]], [[Perspektive]], [[Standpunkt]]
@@ -16,7 +17,7 @@ Wir treffen eine [[Entscheidung]], [[nachdem]] jeder seine [[Ansichten]] mit uns
 view, opinion, perspective
 
 ---
-[[an]]|[[sicht]]
+[[an]]|[[Sicht]]
 
 ---
 N: die [[Ansicht]], die [[Ansichten]]  

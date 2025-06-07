@@ -18,19 +18,18 @@ Genderstern oder generisches Maskulinum – zu großen Konfrontationen kommt es 
 
 Doch wie sollten Sprachregeln durchgesetzt werden? In Deutschland dürfen alle Menschen sagen, was sie wollen und wie sie es wollen. Nur wie mit dem Gendern in Institutionen umgegangen werden soll, ist eine offene Frage, die wohl vermehrt die Gerichte beschäftigen wird. Ich glaube nicht, dass man hier mit Verboten eine Lösung findet, sondern nur mit sachlichen Diskussionen zum Für und Wider des Genderns. Davon sind wir zurzeit weit entfernt.
 
-Text: Goethe-Institut, Henning Lobin; lizenziert unter einer Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz, http://creativecommons.org/licenses/by-sa/3.0/de/, CC-BY-SA, gekürzt und leicht geändert.
-
+---
 ---
 
-9. Was ist der aktuelle Stand der Auseinandersetzung um gendergerechtes Deutsch?
-   a) Viele Menschen stören sich an neuen Begriffen wie gendersensibel oder Genderei.  
-   b) Viele Menschen werden immer kompromissloser in ihren Ansichten.  
-   c) Kritik kommt vor allem an der mangelhaften Umsetzung in Lehrmaterial.
+9. Was ist der aktuelle Stand der [[Auseinandersetzung]] um [[gendergerechtes]] Deutsch?
+   a) Viele Menschen [[stören]] `sich` `an` neuen [[Begriff]]en wie gendersensibel oder Genderei  
+   b) Viele Menschen werden immer [[kompromisslos]]er in ihren [[Ansicht]]en.  
+   c) Kritik kommt [[vor allem]] `an` der mangelhaften [[Umsetzung]] in [[Lehrmaterial]].
 
 10. Geschlechtliche Vielfalt in der Sprache ...
-    a) wird bereits seit längerer Zeit ohne konkretes Ergebnis erörtert.  
-    b) kann auch durch die maskulinen Formen im Deutschen vermittelt werden.  
-    c) wird heute anders als in der Vergangenheit diskutiert.
+    a) Geschlechtliche [[Vielfalt]] in der Sprache wird bereits seit längerer Zeit ohne konkretes [[Ergebnis]] [[erörtert]]
+    b) Geschlechtliche Vielfalt in der Sprache kann auch durch die maskulinen Formen im Deutschen vermittelt werden.  
+    c) Geschlechtliche Vielfalt in der Sprache wird heute anders als in der Vergangenheit diskutiert.
 
 11. Der Stern hat den Vorteil, ...
     a) dass er besser zu verstehen ist als Doppelpunkte oder Unterstriche.  
@@ -56,3 +55,62 @@ Text: Goethe-Institut, Henning Lobin; lizenziert unter einer Creative Commons Na
     a) dass man in Deutschland weiter frei sagen kann, was man möchte.  
     b) dass juristische Regelungen eingeführt werden.  
     c) dass die Auseinandersetzung zu dem Thema in Zukunft konstruktiver verläuft.
+
+
+*[[C1-Lesen-T2-200-Text#^1|^]]* Was ist der aktuelle Stand der [[Auseinandersetzung]] um [[gendergerechtes]] Deutsch? ^1
+
+*[[C1-Lesen-T2-200-Text#^2|^]]* Viele Menschen [[stören]] `sich` `an` neuen [[Begriff]]en wie gendersensibel oder Genderei. ^2
+
+*[[C1-Lesen-T2-200-Text#^2|^]]* Viele Menschen werden immer [[kompromisslos]]er in ihren [[Ansicht]]en. ^2
+
+*[[C1-Lesen-T2-200-Text#^3|^]]* Kritik kommt [[vor allem]] `an` der mangelhaften [[Umsetzung]] in [[Lehrmaterial]]. ^3
+
+
+
+*[[C1-Lesen-T2-200-Text#^4|^]]* Geschlechtliche [[Vielfalt]] in der Sprache wird bereits seit längerer Zeit ohne konkretes [[Ergebnis]] [[erörtert]] ^4
+
+*[[C1-Lesen-T2-200-Text#^4|^]]* Geschlechtliche Vielfalt in der Sprache kann auch durch die maskulinen Formen im Deutschen [[vermittelt]] werden. ^4
+
+*[[C1-Lesen-T2-200-Text#^5|^]]* Geschlechtliche Vielfalt in der Sprache wird heute anders als in der [[Vergangenheit]] diskutiert. ^5
+
+
+ 
+*[[C1-Lesen-T2-200-Text#^6|^]]* Der Stern hat den Vorteil, dass er besser zu verstehen ist als Doppelpunkte oder Unterstriche. ^6
+
+*[[C1-Lesen-T2-200-Text#^6|^]]* Der Stern hat den Vorteil, dass er im Gegensatz zu den anderen Möglichkeiten [[umsetzbar]] ist. ^6
+
+*[[C1-Lesen-T2-200-Text#^7|^]]* Der Stern hat den Vorteil, dass sich Menschen mit unterschiedlichen Geschlechtsidentitäten [[vertreten]] und [[angesprochen]] [[fühlen]]. ^7
+
+
+ 
+*[[C1-Lesen-T2-200-Text#^9|^]]* Wo [[stößt]] der Stern `an` seine [[Grenzen]]? Bei [[bestimmten]] sprachlichen Strukturen. ^9
+
+*[[C1-Lesen-T2-200-Text#^9|^]]* Wo stößt der Stern an seine Grenzen? Bei der realen [[Abbildung]] sozialer [[Verhältnis]]se. ^9
+
+*[[C1-Lesen-T2-200-Text#^9|^]]* Wo stößt der Stern an seine Grenzen? Bei den rechtlichen Regeln der deutschen Sprache. ^9
+
+
+
+*[[C1-Lesen-T2-200-Text#^9|^]]* Welches Argument wird für die [[Beibehaltung]] des [[generisch]]en Maskulinums [[angeführt]]? ^9
+
+*[[C1-Lesen-T2-200-Text#^10|^]]* [[Bewährte]] Sprachstrukturen dürften nicht verändert werden. ^10
+
+*[[C1-Lesen-T2-200-Text#^11|^]]* Die geschlechtliche Bedeutung spiele bei der [[Verwendung]] keine Rolle. ^11
+
+*[[C1-Lesen-T2-200-Text#^11|^]]* Es gebe kein gesellschaftliches Interesse an einer [[gendergerechten]] Sprache. ^11
+
+
+
+*[[C1-Lesen-T2-200-Text#^11|^]]* Die [[Auseinandersetzung]] über eine gendergerechte Sprache [[bestimmte]] auch die letzte [[Bundestagswahl]]. ^11
+
+*[[C1-Lesen-T2-200-Text#^11|^]]* Die Auseinandersetzung über eine gendergerechte Sprache wird durch ein Sprachgesetz [[geklärt]] werden. ^11
+
+*[[C1-Lesen-T2-200-Text#^12|^]]* Die Auseinandersetzung über eine gendergerechte Sprache wird heute in traditionellen und neuen Medien [[geführt]]. ^12
+
+
+ 
+*[[C1-Lesen-T2-200-Text#^13|^]]* Der Autor wünscht sich, dass man in Deutschland weiter frei sagen kann, was man möchte. ^13
+
+*[[C1-Lesen-T2-200-Text#^14|^]]* Der Autor wünscht sich, dass juristische Regelungen [[eingeführt]] werden. ^14
+
+*[[C1-Lesen-T2-200-Text#^15|^]]* Der Autor wünscht sich, dass die Auseinandersetzung zu dem Thema in Zukunft konstruktiver [[verläuft]]. ^15

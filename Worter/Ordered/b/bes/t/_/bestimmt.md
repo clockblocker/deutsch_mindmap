@@ -2,7 +2,10 @@
 --> 🧩 [[Grad-Wahrheit]] <--
 
 ---
-Ich bin mir sicher, das Bild wird [[bestimmt]] gut.
+Ich bin mir sicher, das Bild wird [[bestimmt]] gut
+
+*[[C1-Lesen-T2-200-Text#^9|^]]* Wo [[stößt]] der Stern `an` seine [[Grenzen]]? Bei [[bestimmten]] sprachlichen Strukturen
+*(Where does the asterisk [[reach]] its [[limits]]? In [[certain]] linguistic structures)*
 
 *[[C1-Lesen-T4-100-Text#^7|^]]* Der [[Geldwert]] wird nicht nur durch Größe, [[Aufwand]] und Materialien [[bestimmt]], sondern auch durch den [[Bekanntheitsgrad]] des Objekts oder des Kunstschaffenden. ^7
 

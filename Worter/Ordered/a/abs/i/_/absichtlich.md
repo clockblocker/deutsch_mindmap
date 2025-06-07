@@ -14,7 +14,7 @@
 intentionally, deliberately, on purpose
 
 ---
-[[ab]]|[[sicht]]|[[lich]]
+[[ab]]|[[Sicht]]|[[lich]]
 
 ---
 N: [[absichtlich]], [[absichtlicher]], [[absichtlichster]]  

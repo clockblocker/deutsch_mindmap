@@ -4,6 +4,12 @@ die [[Erfahrung]]en
 ---
 *[[bro-schrieben-c1-t1-002#^9|^]]* Hierzu möchte ich ein [[Beispiel]] `aus` meiner eigenen [[Erfahrung]] [[anführen]]
 
+*[[C1-Lesen-T2-201-Text#^6|^]]* Die Fakultät für Wahrnehmungsstudien haben Dr. Alexanders [[Erfahrung]]en [[überrascht]]
+*(The Faculty for Perception Studies were [[surprised]] by Dr. Alexander's [[experience]]s.)*
+
+*[[C1-Lesen-T2-201-Text#^3|^]]* Dr. Alexander glaubte vor seinem Koma an übernatürliche [[Erfahrung]]en
+*(Dr. Alexander believed in supernatural [[experience]]s before his coma.)*
+
 *[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
 
 _[[16 Plusquamperfekt#^24|^]]_ Später [[erfuhr]] sie die ganze [[Wahrheit]] des Lebens und diese [[Erfahrung]] hat die junge Künstlerin ins [[Unglück]] gebracht

@@ -30,4 +30,4 @@ PI: [[versäumend]], PII: [[versäumt]], Zu+inf: [[verzusäumen]]
 [[versäumen]] - [[ver]] = [[säumen]] / to miss, to neglect, to fail to do
 
 ---
-[[Versäumnis]], [[Säumnis]], [[säumig]], [[Termin]], [[verspäten]], [[Ableisten]], [[ergreifen]]
+[[Versäumnis]], [[Säumnis]], [[säumig]], [[Termin]], [[verspäten]], [[Ableisten]], [[ergreifen]], [[zurücklegen]]

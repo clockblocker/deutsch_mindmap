@@ -23,7 +23,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[ein]], [[sicht]]
+[[ein]], [[Sicht]]
 
 ---
 

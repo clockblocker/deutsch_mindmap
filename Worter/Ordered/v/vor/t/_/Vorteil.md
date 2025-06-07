@@ -3,6 +3,10 @@
 ---
 Nennen Sie [[Vorteile]] einer [[gelungenen]] Work Life Balance.
 
+*[[C1-Lesen-T2-200-Text#^6|^]]* Der Stern hat den [[Vorteil]], dass er im [[Gegensatz]] zu den anderen Möglichkeiten [[umsetzbar]] ist
+*(The asterisk has the [[advantage]] that it is [[implementable]] in [[contrast]] to the other possibilities)*
+
+
 *[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheiten]] [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
 
 *[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]

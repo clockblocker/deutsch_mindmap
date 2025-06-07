@@ -1,2 +1,2 @@
 , [[Taschenbuch]], [[lehren]]
-, [[Aufgabenheft]], [[Geschichtsbuch]], [[Übungsbuch]]
+, [[Aufgabenheft]], [[Geschichtsbuch]], [[Übungsbuch]], [[Lehrmaterial]]

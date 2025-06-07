@@ -3,6 +3,10 @@
 ⏰ [[früh]], [fʁyː](https://youglish.com/pronounce/früh/german)
 
 ---
+*[[C1-Lesen-T2-100-Text#^18|^]]* Demenz wird durch [[frühe]] [[Umwelteinflüsse]] [[geprägt]]
+*(Dementia is [[shaped]] by [[early]] [[environmental influences]].)*
+
+
 
 Beschreiben Sie die Bedeutung von Bildung im [[frühen]] [[Kindesalter]].  
 

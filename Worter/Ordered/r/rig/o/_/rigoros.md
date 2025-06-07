@@ -1,1 +1,1 @@
-, [[streng]]
+, [[streng]], [[kompromisslos]]

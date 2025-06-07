@@ -5,6 +5,9 @@
 ---
 Katja ist Journalistin. Sie schreibt für eine regionale Zeitung in ihrer [[Heimatstadt]] Bonn. Ihre Artikel werden online [[veröffentlicht]] und auch auf Facebook gepostet. [[Den Nagel auf den Kopf treffen.md#^1|(Quelle: Den Nagel auf den Kopf treffen)]] 
 
+*[[C1-Lesen-T2-201-Text#^13|^]]* Lorna Byrne [[veröffentlicht]] ihre Bücher selbst
+*(Lorna Byrne [[publishes]] her books herself.)*
+
 Viele Internetnutzer sind sich der [[Gefahr]]en bewusst, die durch das [[Veröffentlichen]] von Privatfotos [[entstehen]].  
 
 *[[C1-Lesen-T2-101-Text#^8|^]]* Eine aktuelle [[Untersuchung]] zu diesem Thema, die jüngst in einer deutschen Zeitschrift [[veröffentlicht]] wurde, hat ergeben: Kaufen oder schenken wir unseren Kindern zu viele Spielsachen, leidet deren Kreativität sowie die Spielqualität und die Kinder werden leichter [[abgelenkt]]

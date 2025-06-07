@@ -56,4 +56,4 @@ sie, [[absolvieren]], [[absolvierten]], [[absolvieren]], [[absolvierten]], [[abs
 Adjektive: [[absolvierend]], [[absolvierender]], [[absolvierendst]]
 
 ---
-[[absolvierender]], [[absolvierendes]], [[absolvierende]], [[absolvierenden]], [[absolvierendem]], [[absolvierenderer]], [[absolvierenderes]], [[absolvierendere]], [[absolvierenderen]], [[absolvierenderem]], [[absolvierendster]], [[absolvierendstes]], [[absolvierendste]], [[absolvierendsten]], [[absolvierendstem]], [[Ableisten]]
+[[absolvierender]], [[absolvierendes]], [[absolvierende]], [[absolvierenden]], [[absolvierendem]], [[absolvierenderer]], [[absolvierenderes]], [[absolvierendere]], [[absolvierenderen]], [[absolvierenderem]], [[absolvierendster]], [[absolvierendstes]], [[absolvierendste]], [[absolvierendsten]], [[absolvierendstem]], [[Ableisten]], [[zurücklegen]]

@@ -18,7 +18,7 @@ respect, regard, aspect
 [[hinsehen]], [[sichtig]], [[betrachten]], [[bezüglich]]
 
 ---
-[[Hin]]|[[sicht]]
+[[Hin]]|[[Sicht]]
 [[Hinsicht]]
 
 

@@ -39,3 +39,4 @@ P: [[üblichen]], [[üblicheren]], [[üblichsten]]
 ---
 
 [[üben]], [[Üblichkeit]], [[überlicherweise]], [[unüblich]], [[Ü/Übung]], [[gang und gäbe]]
+, [[generisch]]

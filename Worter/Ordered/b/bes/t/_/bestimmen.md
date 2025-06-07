@@ -3,9 +3,13 @@
 ---
 *[[C1-Hoehen-T2-203-Text#^5|^]]* Das lässt sich gar nicht so einfach [[bestimmen]]
 
+*[[C1-Lesen-T2-200-Text#^11|^]]* Die [[Auseinandersetzung]] über eine gendergerechte Sprache [[bestimmte]] auch die letzte [[Bundestagswahl]]
+*(The [[debate]] about a gender-equitable language also [[determined]] the last [[federal election]].)*
+
 49. Wer [[bestimmen|bestimmt]] in Deutschland die [[Schulpolitik]]? (83%)
 	- [ ] die Lehrer und Lehrerinnen
 	- [x] die [[Bundesländer]]
+
 ---
 = [[festlegen]], [[definieren]], [[entscheiden]]
 ≈ [[festsetzen]], [[regeln]], [[festmachen]], [[determinieren]]

@@ -6,36 +6,8 @@
       {
         "id": "8f06854e6e0809dd",
         "type": "tabs",
-        "dimension": 14.124293785310735,
+        "dimension": 81.65137614678899,
         "children": [
-          {
-            "id": "60d10e56308f9a7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
-          {
-            "id": "06f325b8092a445d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
-            }
-          },
           {
             "id": "58e287b259c00b6f",
             "type": "leaf",
@@ -49,27 +21,83 @@
               "icon": "lucide-file",
               "title": "C1-Lesen-432-Unmarked-Text"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e15ee4039004156c",
-        "type": "tabs",
-        "dimension": 85.87570621468926,
-        "children": [
+          },
           {
-            "id": "e6932a9f520dcf22",
+            "id": "da267e0a2429bea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
+                "file": "C1-Lesen/Lesen-C1-Teils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-422-Text"
+              "title": "Lesen-C1-Teils"
+            }
+          },
+          {
+            "id": "5ec8f4ee31ba6b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1-Lesen/C1-Lesen-T3/0-C1-Lesen-T3-Ubung-List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-C1-Lesen-T3-Ubung-List"
+            }
+          },
+          {
+            "id": "264cb33da42a8247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1-Lesen/Lesen-C1-Teils.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesen-C1-Teils"
+            }
+          },
+          {
+            "id": "c200e8d4805e446b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/b/bei/b/_/Beibehaltung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beibehaltung"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b0202586b6ed89c4",
+        "type": "tabs",
+        "dimension": 18.34862385321101,
+        "children": [
+          {
+            "id": "2e4eb7b4c7b7ae02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-2/C1-Lesen-T2-201/C1-Lesen-T2-201-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Lesen-T2-201-Text"
             }
           }
         ]
@@ -125,13 +153,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -225,34 +251,91 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6932a9f520dcf22",
+  "floating": {
+    "id": "2c55959898586a0a",
+    "type": "floating",
+    "children": [
+      {
+        "id": "275553099aed894e",
+        "type": "window",
+        "children": [
+          {
+            "id": "a674debe5677fccd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4ef286d8b07f9eba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "C1-Lesen/C1-Lesen-T2/0-C1-Lesen-T2-Ubung-List.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "0-C1-Lesen-T2-Ubung-List"
+                }
+              },
+              {
+                "id": "5622d1d2427d55e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "C1-Lesen/Lesen-C1-Teils.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lesen-C1-Teils"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1277,
+        "y": 21,
+        "width": 889.45849609375,
+        "height": 726.003662109375,
+        "maximize": false,
+        "zoom": 2
+      }
+    ]
+  },
+  "active": "5622d1d2427d55e0",
   "lastOpenFiles": [
-    "Worter/Ordered/t/tro/s/tröstlichstem.md",
-    "Worter/Ordered/t/tro/s/tröstlichsten.md",
-    "Worter/Ordered/t/tro/s/tröstlichste.md",
-    "Worter/Ordered/t/tro/s/tröstlichstes.md",
-    "Worter/Ordered/t/tro/s/tröstlichster.md",
-    "Worter/Ordered/t/tro/s/tröstlicherem.md",
-    "Worter/Ordered/t/tro/s/tröstlicheren.md",
-    "Worter/Ordered/e/ers/c/_/Erscheint.md",
-    "Worter/Ordered/t/tro/s/tröstlichere.md",
-    "Worter/Ordered/e/ers/c/_/erscheinen.md",
-    "Worter/Ordered/t/tro/s/tröstlicheres.md",
-    "Worter/Ordered/t/tro/s/tröstlicherer.md",
-    "Worter/Ordered/t/tro/s/tröstlichem.md",
-    "Worter/Ordered/t/tro/s/tröstlichen.md",
-    "Worter/tröstlich.md",
-    "Worter/Ordered/t/tro/s/tröstliche.md",
-    "Worter/Ordered/t/tro/s/tröstliches.md",
-    "Worter/Ordered/t/tro/s/tröstlichst.md",
-    "Worter/Ordered/t/tro/s/tröstlicher.md",
-    "Worter/Ordered/e/erm/u/ermutigend.md",
-    "Worter/Ordered/a/auf/m/aufmunternd.md",
-    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
-    "Worter/Ordered/w/wid/e/_/widerspiegelt.md",
-    "Worter/Ordered/w/wid/e/_/widerspiegeln.md",
-    "Worter/Ordered/f/for/t/_/Fortschritt.md",
-    "Worter/Kunstbegeisterte.md",
+    "C1-Lesen/C1-Lesen-T2/0-C1-Lesen-T2-Ubung-List.md",
+    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-2/C1-Lesen-T2-200/C1-Lesen-T2-200-Text.md",
+    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-2/C1-Lesen-T2-201/C1-Lesen-T2-201-Text.md",
+    "Worter/Ordered/v/ver/o/_/veröffentlicht.md",
+    "Worter/Ordered/v/ver/o/_/veröffentlichen.md",
+    "C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Nomen-Wachstum-Steigerung.md",
+    "Worter/Ordered/e/erm/u/ermunterndstem.md",
+    "Worter/Ordered/e/erm/u/ermunterndsten.md",
+    "Worter/Ordered/e/erm/u/ermunterndste.md",
+    "Worter/Ordered/e/erm/u/ermunterndstes.md",
+    "Worter/Ordered/e/erm/u/ermunterndster.md",
+    "Worter/Ordered/e/erm/u/ermunternderem.md",
+    "Worter/Ordered/e/erm/u/ermunternderen.md",
+    "Worter/Ordered/e/erm/u/ermunterndere.md",
+    "Worter/Ordered/e/erm/u/ermunternderes.md",
+    "Worter/Ordered/e/erm/u/ermunternderer.md",
+    "Worter/Ordered/e/erm/u/ermunterndem.md",
+    "Worter/Ordered/e/erm/u/ermunternden.md",
+    "Worter/Ordered/e/erm/u/ermunternde.md",
+    "Worter/Ordered/e/erm/u/ermunterndes.md",
+    "Worter/Ordered/e/erm/u/ermunterndst.md",
+    "Worter/Ordered/e/erm/u/ermunternder.md",
+    "Worter/ermuntert.md",
+    "Worter/Ordered/e/erm/u/ermuntertet.md",
+    "Worter/ermuntern.md",
+    "Worter/Ordered/e/erm/u/ermunterten.md",
+    "Worter/Ordered/e/epi/_",
+    "Worter/Ordered/m/mol/e",
+    "Worter/Ordered/g/gen/f",
     "Worter/Ordered/f/fur/i",
     "Worter/Ordered/r/rli/c",
     "Worter/Ordered/r/rli",
@@ -262,9 +345,6 @@
     "Worter/Ordered/s/sal/d",
     "Anhänge/Pasted image 20250606084333.png",
     "Anhänge/Pasted image 20250606084249.png",
-    "Worter/Ordered/s/sex/y",
-    "Worter/Ordered/m/mur/k",
-    "Worter/Ordered/p/pfu/s",
     "Anhänge/Pasted image 20250606072126.png",
     "Anhänge/Pasted image 20250606072047.png",
     "Anhänge/Pasted image 20250606064714.png",

@@ -60,3 +60,4 @@ Plural: [[besondere]], [[besondere]], [[besondere]]
 
 , [[eignen]], [[geeignet]], [[hervorragend]]
 , [[allgemein]], [[s1 e1]],  [[üblich]], [[anstrengen]], [[einmalig]], [[banal]], [[insbesondere]], [[Konnektivpartikeln]], [[generell]], [[ausdrücklich]], [[zumal]], [[ausgerechnet]], [[überdurchschnittlich]], [[individuell]], [[einzig]], [[außerordentlich]]
+, [[generisch]]

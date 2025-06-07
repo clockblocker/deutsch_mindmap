@@ -3,6 +3,12 @@
 ---
 Öh, nein. Ich weiß nicht. Ich meine, ich kannte Leute die ihm [[begegnet]] sind. Ich aber nicht.
 
+*[[C1-Lesen-T2-201-Text#^11|^]]* Lorna Byrne [[begegnet]] der Thematik auch wissenschaftlich
+*(Lorna Byrne also [[approaches]] the subject scientifically)*
+
+*[[C1-Lesen-T2-201-Text#^10|^]]* Renommierte Physiker [[begegnen]] der [[Verbindung]] zwischen Wissenschaft und Religion mit Skepsis
+*(Renowned physicists [[encounter]] the [[connection]] between science and religion with skepticism)*
+
 *[[C1-Hoehen-T1-102-Text#^15|^]]* Für die meisten von uns seien dies aber Themen, die uns irgendwann einmal [[begegnen]] und wir dann diesen [[Börsenhai]] oder auch unserer eigenen [[Dummheit]] [[ausgeliefert]] [[seien]]
 
 12 Man kann der [[Politikverdrossenheit]] mit [[Aufklärung]] [[begegnen]]

@@ -3,6 +3,8 @@
 ---
 Beschreiben Sie eine [[Vorgehensweise]], die für Sie akzeptabel wäre.
 
+*[[C1-Lesen-T2-201-Text#^6|^]]* Die Fakultät für [[Wahrnehmungsstudie]]n arbeitet nicht mit akademischen [[Vorgehensweise]]n
+
 *[[C1-Hoehen-T1-203-Text#^21|^]]* Jedoch zeigt die Doku interessante Möglichkeiten, wie man dieser [[Vorgehensweise]] [[entgegenwirken]] könnte
 
 

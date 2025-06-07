@@ -2,7 +2,7 @@
 die [[Bienen]]
 
 ---
-b) konnte man [[unfruchtbare]] [[Bienen]] wieder [[fruchtbar]] machen.
+*[[C1-Lesen-T2-100-Text#^14|^]]* Mithilfe der Epigenetik konnte man [[unfruchtbar]]e [[Biene]]n wieder [[fruchtbar]] machen
 
 ---
 = [[Honigbiene]], [[Hummel]]
@@ -26,3 +26,6 @@ N: die [[Biene]], die [[Bienen]]
 A: die [[Biene]], die [[Bienen]]
 G: der [[Biene]], der [[Bienen]]
 D: der [[Biene]], den [[Bienen]]
+
+
+#Feminin 

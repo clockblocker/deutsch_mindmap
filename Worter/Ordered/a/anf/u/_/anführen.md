@@ -3,6 +3,10 @@
 ---
 *[[bro-schrieben-c1-t1-002#^9|^]]* Hierzu möchte ich ein [[Beispiel]] `aus` meiner eigenen [[Erfahrung]] [[anführen]]
 
+Welches Argument wird für die [[Beibehaltung]] des [[generisch]]en Maskulinums [[angeführt]]?
+*(Which argument is [[cited]] for the [[retention]] of the [[generic]] masculine?)*
+
+
 ---
 = [[erwähnen]], [[zitieren]], [[nennen]] | [[leiten]], [[befehlen]]
 ≈ [[sagen]], [[erklären]] | [[führen]], [[kommandieren]], [[führen]], [[leiten]], [[vorsitzen]], [[erwähnen]], [[vorangehen]], [[vorausgehen]], [[verweisen]]

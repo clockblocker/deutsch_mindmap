@@ -1,6 +1,7 @@
 🏢 [[beschäftigen]], [bəˈʃɛftɪgən] | [[Beschäftigte]], haben [[beschäftigt]]
 
 ---
+*[[C1-Lesen-T2-201-Text#^10|^]]* Renommierte Physiker [[beschäftigen]] sich [[erst]] heutzutage mit dem Phänomen
 
 _[[2 ADHD.md#^10|^]]_ Ich kann mich schlecht leise [[beschäftigen]]. Wenn ich etwas mache, [[zugehen|geht]] es laut zu
 Und die dritte Doku „Sport und [[Gerechtberechtigung]]“ [[beschäftigt]] sich mit dem Thema der ungleichen Bezahlung zwischen männlichen und [[weiblich]]en Athleten.
