@@ -3,7 +3,9 @@
 💥 [[verursachen]], [fɛɐ̯ˈʔuʁzaχn̩] | [[verursachte]], haben [[verursacht]]
 
 ---
-Alle [[angrenzenden]] [[Feld]]er [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] [[Gift]] pro [[Stufe]].
+Alle [[angrenzenden]] [[Feld]]er [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] [[Gift]] pro [[Stufe]]
+
+*[[C1-Lesen-432-Text#^26|^]]*  Zu groß wäre die Gefahr eines Arbeitsunfalls, [[verursacht]] durch solche Accessoires
 
 
 ---

@@ -6,6 +6,9 @@ die [[Fortschritte]]
 ---
 Wie [[misst]] du deinen [[fortschritt]]?Machst du mock-tests oder einfach nur [[gefühltes]] [[verständnis]]?
 
+-- Was macht von KI produzierte Kunst für [[Kunstbegeisterte]] attraktiv? 
+-- In den Werken [[widerspiegelt|spiegelt]] `sich` technischer [[Fortschritt]] wider.
+
 *[[C1-Lesen-T3-301-Text#^5|^]]* So hat der technische [[Fortschritt]] eine [[leicht]]e [[Analys]]e von [[Konsumverhalten]] möglich gemacht
 
 ---

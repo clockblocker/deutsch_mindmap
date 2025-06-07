@@ -2,7 +2,8 @@
 die [[Abmahnungen]]
 
 ---
-`f` So ein [[Verhalten]] führt noch nicht direkt zur [[Kündigung]], sondern zunächst nur zu einer [[Abmahnung]]
+*[[C1-Lesen-432-Text#^32|^]]* `21 f` So ein [[Verhalten]] führt noch nicht direkt zur [[Kündigung]], sondern zunächst nur zu einer [[Abmahnung]]
+
 
 ---
 = [[Verwarnung]], [[Rüge]], [[Tadel]]

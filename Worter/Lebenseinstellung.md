@@ -2,7 +2,8 @@
 die [[Lebenseinstellungen]]
 
 ---
-`c` Diese Maßnahme ist keineswegs einer [[gelockerten]] [[Lebenseinstellung]] zu [[verdanken]]
+*[[C1-Lesen-432-Text#^41|^]]* `22 с` Diese Maßnahme ist keineswegs einer [[gelockerten]] [[Lebenseinstellung]] zu [[verdanken]]
+
 
 ---
 = [[Mentalität]], [[Lebensanschauung]], [[Weltanschauung]]

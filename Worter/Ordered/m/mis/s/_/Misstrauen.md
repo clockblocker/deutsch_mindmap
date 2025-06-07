@@ -29,4 +29,4 @@ A: das [[Misstrauen]], -
 G: des [[Misstrauens]], -
 D: dem [[Misstrauen]], -
 
-#Neuter 
+#Neuter , [[Selbstzweifel]]

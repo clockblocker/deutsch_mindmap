@@ -1,1 +1,1 @@
-, [[Künstler]], [[Kunstschaffende]], [[schaffen]], [[Gründer]]
+, [[Künstler]], [[Kunstschaffende]], [[schaffen]], [[Gründer]], [[erschaffen]], [[schöpferisch]]

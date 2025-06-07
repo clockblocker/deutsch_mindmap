@@ -1,1 +1,1 @@
-, [[vorzutäuschen]]
+, [[vorzutäuschen]], [[täuschen]]

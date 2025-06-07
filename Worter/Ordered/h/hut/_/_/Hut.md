@@ -27,4 +27,4 @@ G: des [[Hutes]], der [[Hüte]]
 D: dem [[Hut]], den [[Hüten]]
 
 
-#Maskulin 
+#Maskulin , [[verhüten]]

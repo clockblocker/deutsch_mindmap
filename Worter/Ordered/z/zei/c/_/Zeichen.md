@@ -47,3 +47,4 @@ Weitere Bedeutungen:
 3. Mathematisches oder linguistisches Symbol, [[s1 e1]], [[zeichnen]]
    , [[Char]]
    , [[Leerzeichen]], [[Fußabdruck]], [[Satzzeichen]], [[Punkt]], [[Doppelpunkt]], [[Zeichenfolge]], [[Auszeichnung]], [[Indiz]]
+, [[auszeichnen]]

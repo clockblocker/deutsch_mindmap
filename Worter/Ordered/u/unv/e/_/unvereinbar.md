@@ -1,1 +1,1 @@
-, [[Vereinbarung]], [[vereinbar]]
+, [[Vereinbarung]], [[vereinbar]], [[konform]]

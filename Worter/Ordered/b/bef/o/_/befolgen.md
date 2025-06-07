@@ -6,6 +6,8 @@
 ---
 *[[C1-Lesen-432-Text#^11|^]]* Eine [[durchaus]] verständliche [[Forderung]], die in der Regel [[widerspruchslos]] [[befolgt]] wird
 
+*[[C1-Lesen-432-Text#^28|^]]* Wird diese jedoch nicht [[befolgt]], ist das ein [[Entlassungsgrund]]
+
 , [[folgen]], [[beachten]], [[übertreten]], [[Einhaltung]], [[einhalten]]
 
 ---

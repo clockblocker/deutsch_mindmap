@@ -6,6 +6,8 @@
 ---
 Ich [[betrachte]] diese [[Aussage]] als nicht relevant
 
+Kreativität wird als etwas [[zutiefst]] Menschliches [[betrachtet]]
+
 In dem Buch werden [[Erkenntnis]]se [[jahrhundertealter]] Medizin aus spirituellem Kontext [[betrachtet]]
 
 *[[C1-Hoehen-T2-201-Text#^13|^]]* [[Wobei]] ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast [[verehren]] oder als notwendiges Übel [[betrachten]]

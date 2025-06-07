@@ -3,6 +3,7 @@
 🌈 [[gelingen]], [ɡəˈlɪŋən] | [[gelang]], sein [[gelungen]]
 
 ---
+Beethovens Zehnte Symphonie [[gelangt]]e `nach` einer maschinellen [[Orchestrierung]] zur [[Aufführung]]
 
 Endlich [[gelingt]] es Mona, sie [[anzusprechen]].
 
@@ -22,7 +23,6 @@ Synonyme: [[erfolgen]], [[klappen]], [[funktionieren]], [[glücken]], [[schaffen
 Antonyme: [[misslingen]], [[scheitern]], [[fehlschlagen]], [[versagen]]
 
 ---
-
 to succeed, to work out, to be successful
 
 ---

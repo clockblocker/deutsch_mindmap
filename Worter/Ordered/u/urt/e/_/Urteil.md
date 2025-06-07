@@ -36,4 +36,4 @@ G: des [[Urteil(e)s]], der [[Urteile]]
 D: dem [[Urteil]], den [[Urteilen]]
 
 
-#Neuter , [[verurteilen]], [[eilen]], [[Beurteilung]], [[Bewertung]], [[Gesamtbewertung]]
+#Neuter , [[verurteilen]], [[eilen]], [[Beurteilung]], [[Bewertung]], [[Gesamtbewertung]], [[Ermessen]]

@@ -12,11 +12,12 @@ And the winner is ...
 
 Jedes Jahr im Herbst sehnen sich einige bekannte Persönlichkeiten nach einem Anruf aus Skandinavien. `Beispiel 0` Der begehrte internationale Preis wird in den Gebieten Physik, Chemie, Physiologie oder Medizin, Literatur und für Friedensbemühungen verliehen.
 
-Zurück geht der Nobelpreis auf den Erfinder des Dynamits, Alfred Nobel. Dieser verfügte in seinem Testament, dass ein aus seiner Stiftung finanzierter Preis an Menschen vergeben werde, die sich um die wissenschaftliche Forschung im Dienste der Menschheit und den Frieden verdient gemacht haben. Seit 1901 werden die Nobelpreise verliehen, immer zu Nobels Todestag im Dezember. `16 ...` Er unterliegt ähnlichen Vergabekriterien und ist gleich dotiert.
+Zurück geht der Nobelpreis auf den Erfinder des Dynamits, Alfred Nobel. Dieser verfügte in seinem Testament, dass ein aus seiner Stiftung finanzierter Preis an Menschen vergeben werde, die sich um die wissenschaftliche Forschung im Dienste der Menschheit und den Frieden verdient gemacht haben. Seit 1901 werden die [[Nobelpreise]] verliehen, immer zu Nobels Todestag im Dezember. `16 ...` `Er` unterliegt ähnlichen Vergabekriterien und ist gleich dotiert.
 
-Vier verschiedene Komitees haben jedes Jahr die Qual der Wahl. `17 ...` Für das Komitee des Friedensnobelpreises werden Mitglieder des norwegischen Parlaments rekrutiert. Festgelegt ist, dass der begehrte Preis in den Fachgebieten bis zu drei Personen zugesprochen werden kann. Für den Friedensnobelpreis ist das Komitee jedoch befugt, auch eine Institution auszuwählen.
+Vier verschiedene Komitees haben jedes Jahr die [[Qual]] der [[Wahl]]. `17 ...` Für das Komitee des Friedensnobelpreises werden Mitglieder des norwegischen Parlaments rekrutiert. Festgelegt ist, dass der begehrte Preis in den Fachgebieten bis zu drei Personen zugesprochen werden kann. Für den Friedensnobelpreis ist das Komitee jedoch befugt, auch eine Institution auszuwählen.
 
-In den Monaten vor der Bekanntgabe der Preisträger werden jeweils verschiedene Kandidatinnen oder Kandidaten vorgeschlagen. `18 ...` Es dürfen beispielsweise keine Verstorbenen nominiert werden. Dies erklärt, warum Mahatma Gandhi den Friedensnobelpreis nicht erhalten konnte: Er wurde vor dem Stichtdatum Anfang des Jahres 1948 ermordet. Beschämenderweise hatte man zu spät an seine Nominierung gedacht. `19 ...` Es wurde niemand der Ehre für würdig gehalten und folglich wurde der Friedensnobelpreis nicht vergeben. So eine Situation entstand im Laufe der letzten 100 Jahre mehrfach.
+*Preisträger*
+In den Monaten vor der [[Bekanntgabe]] der Preisträger werden jeweils [[verschiedene]] Kandidatinnen oder Kandidaten [[vorgeschlagen]]. `18 j` Es dürfen beispielsweise keine Verstorbenen nominiert werden. Dies erklärt, warum Mahatma Gandhi den Friedensnobelpreis nicht erhalten konnte: Er wurde vor dem Stichtdatum Anfang des Jahres 1948 ermordet. Beschämenderweise hatte man zu spät an seine Nominierung gedacht. `19 a` Es wurde niemand der Ehre für würdig gehalten und folglich wurde der Friedensnobelpreis nicht vergeben. So eine Situation entstand im Laufe der letzten 100 Jahre mehrfach.
 
 Eine Nominierung vornehmen darf je nach Preis eine elitäre Personengruppe. Für den Literaturnobelpreis sind außer dem Komitee auch bereits Gekürte, Literatur- und Linguistikprofessoren sowie Präsidentinnen repräsentativer Schriftstellervereinigungen berechtigt, Vorschläge einzureichen.
 
@@ -26,24 +27,35 @@ In der Geschichte des Nobelpreises haben manche der Auserwählten den Preis nich
 
 ---
 
+
+
+
+`c` `Angesichts` ==dieses Beispiels== aus den letzten Jahren wird offensichtlich, dass jeder Nobelpreis immer auch ein [[Politikum]] ist
+
+`f` Ein Zweifel an `dieser` [[Vorgehensweise]] wurde [[bis heute]] ==nicht laut==
+
+`i` `Dies` ==widerspreche== den Vorgaben Alfred Nobels
+
+`h` `Sie` leisteten `diesem` `Befehl` ==Folge==
+
+
+
+`b` Bis auf das [[Komitee]] zur [[Ernennung]] des Friedensnobelpreises stammen `sie` aus [[Schweden]]
+
+`d` Moniert wurde ferner, dass manche Preisträger [[nicht wirklich]] [[auszeichnungswürdig]] gewesen seien
+
+`e` `Dabei` müsse es einen [[Bezug]] zu Alfred Nobel geben
+
+`g` Die [[Schwedische Nationalbank]] stiftete zusätzlich noch den seit 1968 existierenden [[Wirtschaftsnobelpreis]]
+
+
+
+----
+
+
 `0` Ihre Hoffnung richtet sich auf die Ehre, den Nobelpreis zu erhalten
 
-`a` Sein Todesjahr zeichnete sich außerdem durch eine weitere Option der Komitees aus
+`j` `Ihre` ==Nominierung== erfolgt nach einem festgelegten Prozedere mit spezifischen Regeln
 
-`b` Bis auf das Komitee zur Ernennung des Friedensnobelpreises stammen sie aus Schweden
 
-`c` Angesichts dieses Beispiels aus den letzten Jahren wird offensichtlich, dass jeder Nobelpreis immer auch ein Politikum ist
-
-`d` Moniert wurde ferner, dass manche Preisträger nicht wirklich auszeichnungswürdig gewesen seien
-
-`e` Dabei müsse es einen Bezug zu Alfred Nobel geben
-
-`f` Ein Zweifel an dieser Vorgehensweise wurde bis heute nicht laut
-
-`g` Die Schwedische Nationalbank stiftete zusätzlich noch den seit 1968 existierenden Wirtschaftsnobelpreis
-
-`h` Sie leisteten diesem Befehl Folge
-
-`i` Dies widerspreche den Vorgaben Alfred Nobels
-
-`j` Ihre Nominierung erfolgt nach einem festgelegten Prozedere mit spezifischen Regeln
+`a` Sein [[Todesjahr]] zeichnete sich `außerdem` durch eine [[weitere]] [[Option]] der [[Komitees]] aus

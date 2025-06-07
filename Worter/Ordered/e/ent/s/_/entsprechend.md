@@ -47,3 +47,4 @@ P: [[entsprechenden]], [[entsprechenderen]], [[entsprechendsten]]
 
 [[entsprechen]], [[sprechen]], [[sprechend]], [[entsprechend]], [[entsprechend]]
 , [[dergleichen]], [[vergleichbar]]
+, [[konform]]

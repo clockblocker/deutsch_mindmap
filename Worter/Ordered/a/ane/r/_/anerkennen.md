@@ -65,4 +65,4 @@ sie, [[anerkennen]], [[erkannten]], [[erkennen]], [[erkannten]], [[anerkennen]]
 Adjektive: [[anerkennend]], [[anerkennender]], [[anerkennendst]]
 
 ---
-[[anerkennender]], [[anerkennendes]], [[anerkennende]], [[anerkennenden]], [[anerkennendem]], [[anerkennenderer]], [[anerkennenderes]], [[anerkennendere]], [[anerkennenderen]], [[anerkennenderem]], [[anerkennendster]], [[anerkennendstes]], [[anerkennendste]], [[anerkennendsten]], [[anerkennendstem]]
+[[anerkennender]], [[anerkennendes]], [[anerkennende]], [[anerkennenden]], [[anerkennendem]], [[anerkennenderer]], [[anerkennenderes]], [[anerkennendere]], [[anerkennenderen]], [[anerkennenderem]], [[anerkennendster]], [[anerkennendstes]], [[anerkennendste]], [[anerkennendsten]], [[anerkennendstem]], [[auszeichnen]]

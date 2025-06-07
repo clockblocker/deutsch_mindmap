@@ -1,1 +1,1 @@
-, [[Persönlichkeit]], [[entsprechen]], [[Differenz]], [[Abweichung]]
+, [[Persönlichkeit]], [[entsprechen]], [[Differenz]], [[Abweichung]], [[konform]]

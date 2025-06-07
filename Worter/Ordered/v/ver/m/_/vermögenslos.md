@@ -1,1 +1,1 @@
-, [[armen]]
+, [[armen]], [[Vermögen]]

@@ -49,4 +49,4 @@ sie, [[missachten]], [[missachteten]], [[missachten]], [[missachteten]], [[missa
 Adjektive: [[missachtend]], [[missachtender]], [[missachtendst]]
 
 ---
-[[missachtender]], [[missachtendes]], [[missachtende]], [[missachtenden]], [[missachtendem]], [[missachtenderer]], [[missachtenderes]], [[missachtendere]], [[missachtenderen]], [[missachtenderem]], [[missachtendster]], [[missachtendstes]], [[missachtendste]], [[missachtendsten]], [[missachtendstem]], [[überdenken]], [[aufpassen]]
+[[missachtender]], [[missachtendes]], [[missachtende]], [[missachtenden]], [[missachtendem]], [[missachtenderer]], [[missachtenderes]], [[missachtendere]], [[missachtenderen]], [[missachtenderem]], [[missachtendster]], [[missachtendstes]], [[missachtendste]], [[missachtendsten]], [[missachtendstem]], [[überdenken]], [[aufpassen]], [[nachkommen]]

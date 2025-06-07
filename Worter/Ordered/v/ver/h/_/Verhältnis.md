@@ -39,4 +39,4 @@ G: des [[Verhältnisses]], der [[Verhältnisse]]
 D: dem [[Verhältnis]], den [[Verhältnissen]]
 , [[Erwerbstätigkeit]]
 
-#Neuter , [[Sichtverhältnis]], [[Spannungsverhältnis]], [[Einkommensverhältnis]], [[Bekanntschaft]], [[Affäre]]
+#Neuter , [[Sichtverhältnis]], [[Spannungsverhältnis]], [[Einkommensverhältnis]], [[Bekanntschaft]], [[Affäre]], [[Im Schnitt]]

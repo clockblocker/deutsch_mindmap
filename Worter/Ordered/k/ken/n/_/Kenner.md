@@ -1,1 +1,1 @@
-, [[kennen]], [[Fachmann]]
+, [[kennen]], [[Fachmann]], [[Kunstbegeisterte]]

@@ -54,4 +54,4 @@ D: den [[erben]], den [[erben]]
 
 
 , [[erb]], [[erben]], [[Erbschaft]], [[erblos]], [[Erblasser]]
-, [[Spende]], [[Erbgut]], [[Erbträger]], [[Nachwuchs]]
+, [[Spende]], [[Erbgut]], [[Erbträger]], [[Nachwuchs]], [[nachkommen]]

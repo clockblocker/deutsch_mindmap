@@ -45,4 +45,4 @@ G: der [[Einschätzung]], der [[Einschätzungen]]
 D: der [[Einschätzung]], den [[Einschätzungen]]
 
 #Feminin 
-, [[einzuschätzen]], [[Abwägung]], [[Kundenbewertung]], [[Gesamtbewertung]], [[bro-schrieben-c1-t1-002]]
+, [[einzuschätzen]], [[Abwägung]], [[Kundenbewertung]], [[Gesamtbewertung]], [[bro-schrieben-c1-t1-002]], [[Ermessen]]

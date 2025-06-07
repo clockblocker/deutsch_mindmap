@@ -1,1 +1,1 @@
-[[anpassen]], [[unangepasst]]
+[[anpassen]], [[unangepasst]], [[konform]]

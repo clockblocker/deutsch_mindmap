@@ -1,1 +1,2 @@
-[[schmutzig]], [[ordentlich]], [[dreckigen]], [[dreckig]], [[gepflegten]], [[pflegen]], [[staubig]], [[schriftsprachlich]]
+[[pflegen]] 
+

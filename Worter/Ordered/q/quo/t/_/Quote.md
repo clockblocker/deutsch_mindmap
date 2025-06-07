@@ -1,1 +1,1 @@
-, [[Anteil]], [[Trefferquote]], [[Steigerungsquote]]
+, [[Anteil]], [[Trefferquote]], [[Steigerungsquote]], [[Im Schnitt]]

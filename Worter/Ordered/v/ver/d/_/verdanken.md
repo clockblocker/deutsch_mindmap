@@ -1,7 +1,8 @@
 🙏 [[verdanken]], [fɛɐ̯ˈdaŋkn̩](https://youglish.com/pronounce/verdanken/german) → [[verdankte]] → haben [[verdankt]]
 
 ---
-`c` Diese Maßnahme ist keineswegs einer [[gelockerten]] [[Lebenseinstellung]] zu [[verdanken]]
+*[[C1-Lesen-432-Text#^41|^]]* `22 с` Diese Maßnahme ist keineswegs einer [[gelockerten]] [[Lebenseinstellung]] zu [[verdanken]]
+
 
 ---
 = [[schulden]], [[zu verdanken haben]], [[dankbar]], [[schulden]]

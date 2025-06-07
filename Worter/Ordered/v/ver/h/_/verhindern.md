@@ -67,4 +67,4 @@ Adjektive: [[verhindernd]], [[verhindernder]], [[verhinderndst]]
 ---
 
 [[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]], [[auslösen]], [[hervorrufen]], [[beitragen]], [[verschulden]], [[eindämmen]], [[bedingen]], [[entgegenwirken]], [[veranlassen]]
-, [[beschleunigen]]
+, [[beschleunigen]], [[verhüten]]

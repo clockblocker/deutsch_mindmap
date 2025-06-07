@@ -1,1 +1,1 @@
-, [[Kunstinteresse]], [[Künstlerin]], [[Kunstgegenstand]]
+, [[Kunstinteresse]], [[Künstlerin]], [[Kunstgegenstand]], [[schöpferisch]]

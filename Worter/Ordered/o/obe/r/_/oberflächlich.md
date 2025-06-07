@@ -32,4 +32,4 @@ superficial, shallow
 Adjektive: [[oberflächlich]], [[oberflächlicher]], [[oberflächlichst]]
 
 ---
-[[oberflächlicher]], [[oberflächliches]], [[oberflächliche]], [[oberflächlichen]], [[oberflächlichem]], [[oberflächlicherer]], [[oberflächlicheres]], [[oberflächlichere]], [[oberflächlicheren]], [[oberflächlicherem]], [[oberflächlichster]], [[oberflächlichstes]], [[oberflächlichste]], [[oberflächlichsten]], [[oberflächlichstem]], [[übergehen]], [[ernsthaft]], [[hintergründig]]
+[[oberflächlicher]], [[oberflächliches]], [[oberflächliche]], [[oberflächlichen]], [[oberflächlichem]], [[oberflächlicherer]], [[oberflächlicheres]], [[oberflächlichere]], [[oberflächlicheren]], [[oberflächlicherem]], [[oberflächlichster]], [[oberflächlichstes]], [[oberflächlichste]], [[oberflächlichsten]], [[oberflächlichstem]], [[übergehen]], [[ernsthaft]], [[hintergründig]], [[zutiefst]]

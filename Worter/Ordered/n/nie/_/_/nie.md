@@ -31,3 +31,4 @@ never
 
 [[Niemand]], [[sowie]], [[niemanden]], [[irgendwann]], [[bald]], [[manchmal]], [[Niederlage]], [[Wahlniederlage]]
 , [[Negationspartikel]]
+, [[über kurz oder lang]]

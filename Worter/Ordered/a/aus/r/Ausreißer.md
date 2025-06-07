@@ -1,1 +1,1 @@
-, [[Durchschnitt]]
+, [[Durchschnitt]], [[Im Schnitt]]

@@ -1,11 +1,13 @@
 --> ✅ [[Ingredient-erlauben-verbieten]] <--
 
-🤢[[abstoßen]] + Akk, [apˈʃtɔsn̩]
+🤢 [[abstoßen]] + Akk, [apˈʃtɔsn̩]
 [[stieß ab|stieß ab]]  
 haben [[abgestoßen]]
 
 ---
 *[[C1-Hoehen-T1-402-Text#^13|^]]* Heimisch im Großstadtsumpf, der ihn [[abstößt]], dessen [[Anziehung]] er sich jedoch nicht [[entziehen]] kann
+
+*[[C1-Lesen-432-Text#^37|^]]*  Sie [[beruht]] vielmehr auf der Tatsache, dass jüngere kluge Köpfe in den USA sich von einem [[überholt]]en Dresscode [[abgestoßen]] fühlen und deshalb sogar ein Jobangebot [[ablehnen]] würden, auch wenn es [[durchaus]] [[lukrativ]] wäre, für Goldman Sachs zu arbeiten
 
 (Nimmt seinen Gleiter auf den Rücken, [[stößt]] sich vom Boden [[ab]] und fliegt)
 

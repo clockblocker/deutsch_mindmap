@@ -24,4 +24,4 @@ to unmask, to expose
 Adjektive: [[entlarvend]], [[entlarvender]], [[entlarvendst]]
 
 ---
-[[entlarvender]], [[entlarvendes]], [[entlarvende]], [[entlarvenden]], [[entlarvendem]], [[entlarvenderer]], [[entlarvenderes]], [[entlarvendere]], [[entlarvenderen]], [[entlarvenderem]], [[entlarvendster]], [[entlarvendstes]], [[entlarvendste]], [[entlarvendsten]], [[entlarvendstem]]
+[[entlarvender]], [[entlarvendes]], [[entlarvende]], [[entlarvenden]], [[entlarvendem]], [[entlarvenderer]], [[entlarvenderes]], [[entlarvendere]], [[entlarvenderen]], [[entlarvenderem]], [[entlarvendster]], [[entlarvendstes]], [[entlarvendste]], [[entlarvendsten]], [[entlarvendstem]], [[täuschen]]

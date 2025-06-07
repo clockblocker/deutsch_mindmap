@@ -57,16 +57,50 @@ Machen Kleider Leute?
 *[[C1-Lesen-432-Text#^20|^]]* Tattoo tragenden [[Justizvollzugsbeamt]]en darf zum Beispiel [[auferlegt]] werden, [[verzierte]] [[Hautteile]] während der Arbeit durch ihre Uniform [[abzudecken]]. ^20
 
 
+*[[C1-Lesen-432-Text#^23|^]]* Obligatorisch sind die Kleidungs[[vorschrift]]en, die der Sicherheit dienen. ^23
 
-Obligatorisch sind die Kleidungs­vorschriften, die der Sicherheit dienen. Selbstverständlich müssen Arbeitnehmer der Unfallverhütung zuliebe den Anweisungen ihrer Arbeitgeber nachkommen. Jedem leuchtet ein, dass auf dem Bau Beschäftigte Helme und Sicherheitsschuhe tragen müssen. `20 ...` Zu groß wäre die Gefahr eines Arbeitsunfalls, verursacht durch solche Accessoires. Vereinzelnd versuchen Arbeitnehmer gegen die vorgeschriebenen Regeln zu verstoßen. `21 ...` Wird diese jedoch nicht befolgt, ist das ein Entlassungsgrund. Ob dann eine Kündigung ausgesprochen wird, liegt im Ermessen des Arbeitgebers. Jedenfalls wäre er konform mit dem Arbeitsrecht, das letztendlich in diesem Fall Schlimmeres verhüten will.
+*[[C1-Lesen-432-Text#^24|^]]* Selbstverständlich müssen Arbeitnehmer der [[Unfallverhütung]] [[zuliebe]] den [[Anweisung]]en ihrer Arbeitgeber nachkommen. ^24
 
-Man fragt sich vielleicht, wie bei solch rigiden Regeln in manchen Berufen noch ein eigener Stil gepflegt werden kann. Das hängt sicher auch davon ab, welchen Eindruck man in der Arbeitswelt hinterlassen will. Bei Banken scheint die formelle Kleidung auf solide Verlässlichkeit hinzuweisen, und kaum einer möchte durch seine Kleidung die Wertschätzung von Kunden riskieren. Kürzlich überraschte jedoch das bekannte amerikanische Investmentbanking-Unternehmen Goldman Sachs mit der Mitteilung, dass ab sofort von den strengen Kleidervorschriften, sprich dem dunklen Anzug für die männlichen Angestellten und dem Businesskostüm für die weiblichen, Abstand genommen werde. `22 ...` Sie beruht vielmehr auf der Tatsache, dass jüngere kluge Köpfe in den USA sich von einem überholten Dresscode abgestoßen fühlen und deshalb sogar ein Jobangebot ablehnen würden, auch wenn es durchaus lukrativ wäre, für Goldman Sachs zu arbeiten. `23 ...` Folglich wurde der Dresscode geopfert. Man möchte die begehrten Jungakademiker ja nicht abschrecken. Zu wünschen wäre, dass auch die restliche Belegschaft diesem neuen Trend nachkommen wird und der neue Wind nicht nur ein Lippenbekenntnis bleibt.
+*[[C1-Lesen-432-Text#^25|^]]* Jedem [[einleuchtet|leuchtet]] ein, dass auf dem [[Bau]] [[Beschäftigte]] Helme und Sicherheitsschuhe tragen müssen. ^25
+
+*[[C1-Lesen-432-Text#^31|^]]* `20 h` Genauso [[nachvollziehbar]] ist, dass die Arbeit an Maschinen keine Ketten, Ringe oder Piercings zulässt ^31
+
+*[[C1-Lesen-432-Text#^26|^]]*  Zu groß wäre die Gefahr eines Arbeitsunfalls, [[verursacht]] durch solche Accessoires. ^26
+
+*[[C1-Lesen-432-Text#^27|^]]* [[Vereinzelnd]] versuchen Arbeitnehmer gegen die vorgeschriebenen Regeln zu [[verstoßen]]. ^27
+
+*[[C1-Lesen-432-Text#^32|^]]* `21 f` So ein [[Verhalten]] führt noch nicht direkt zur [[Kündigung]], sondern zunächst nur zu einer [[Abmahnung]] ^32
+
+*[[C1-Lesen-432-Text#^28|^]]* Wird diese jedoch nicht [[befolgt]], ist das ein [[Entlassungsgrund]]. ^28
+
+*[[C1-Lesen-432-Text#^29|^]]* Ob dann eine [[Kündigung]] ausgesprochen wird, liegt im [[Ermessen]] des Arbeitgebers. ^29
+
+*[[C1-Lesen-432-Text#^30|^]]* Jedenfalls wäre er [[konform]] mit dem [[Arbeitsrecht]], das [[letztendlich]] in diesem Fall [[Schlimmeres]] [[verhüten]] will. ^30
+
+
+
+*[[C1-Lesen-432-Text#^33|^]]* Man fragt sich vielleicht, wie bei solch [[rigide]]n Regeln in manchen Berufen noch ein eigener [[Stil]] [[gepflegt]] werden kann. ^33
+
+*[[C1-Lesen-432-Text#^34|^]]* Das hängt sicher auch davon ab, welchen [[Eindruck]] man in der Arbeitswelt [[hinterlassen]] will. ^34
+
+*[[C1-Lesen-432-Text#^35|^]]* Bei Banken scheint die formelle [[Kleidung]] auf solide [[Verlässlichkeit]] [[hinzuweisen]], und kaum einer möchte durch seine Kleidung die [[Wertschätzung]] von Kunden riskieren. ^35
+
+*[[C1-Lesen-432-Text#^36|^]]* Kürzlich überraschte jedoch das bekannte amerikanische Investmentbanking-Unternehmen Goldman Sachs mit der [[Mitteilung]], dass ab sofort von den [[strengen]] [[Kleidervorschriften]], sprich dem dunklen [[Anzug]] für die männlichen [[Angestellte]]n und dem Businesskostüm für die weiblichen, [[Abstand]] [[genommen]] werde. ^36
+
+*[[C1-Lesen-432-Text#^41|^]]* `22 с` Diese Maßnahme ist keineswegs einer [[gelockerten]] [[Lebenseinstellung]] zu [[verdanken]] ^41
+
+*[[C1-Lesen-432-Text#^37|^]]*  Sie [[beruht]] vielmehr auf der Tatsache, dass jüngere kluge Köpfe in den USA sich von einem [[überholt]]en Dresscode [[abgestoßen]] fühlen und deshalb sogar ein Jobangebot [[ablehnen]] würden, auch wenn es [[durchaus]] [[lukrativ]] wäre, für Goldman Sachs zu arbeiten. ^37
+
+*[[C1-Lesen-432-Text#^42|^]]* `23 j` Das Unternehmen kann aber nicht auf diese gut [[ausgebildeten]] [[Fachleute]] [[verzichten]] ^42
+
+*[[C1-Lesen-432-Text#^38|^]]*  Folglich wurde der Dresscode [[geopfert]]. ^38
+
+*[[C1-Lesen-432-Text#^39|^]]* Man möchte die begehrten Jungakademiker ja nicht abschrecken. ^39
+
+*[[C1-Lesen-432-Text#^40|^]]* Zu wünschen wäre, dass auch die restliche Belegschaft diesem neuen Trend nachkommen wird und der neue Wind nicht nur ein Lippenbekenntnis bleibt. ^40
+
 
 ---
-
-
-
-*(Rules of appropriate [[appearance]] do not stop at civil servants either.)*
 
 `c` Diese Maßnahme ist keineswegs einer [[gelockerten]] [[Lebenseinstellung]] zu [[verdanken]]
 *(This measure is by no means [[due]] to a [[relaxed]] [[attitude towards life]].)*
@@ -80,10 +114,7 @@ Man fragt sich vielleicht, wie bei solch rigiden Regeln in manchen Berufen noch 
 `g` Dresscodes müssen aber von den [[Vorgesetzten]] beachtet werden
 *(However, dress codes must be observed by the [[superiors]].)*
 
-`h` Genauso [[nachvollziehbar]] ist, dass die Arbeit an Maschinen keine Ketten, Ringe oder Piercings zulässt
-*(It is just as [[understandable]] that working on machines does not allow chains, rings or piercings.)*
-
-`j` Das Unternehmen kann aber nicht auf diese gut [[ausgebildeten]] [[Fachleute]] [[verzichten]]
+`j` 
 *(But the company cannot [[do without]] these well [[trained]] [[specialists]].)*
 
 

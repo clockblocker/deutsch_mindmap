@@ -1,1 +1,1 @@
-, [[verkleiden]], [[demaskieren]]
+, [[verkleiden]], [[demaskieren]], [[täuschen]]

@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-301-Text#^25|^]]* Es wäre beispielsweise denkbar, dass alle, die einen Beruf [[erlernen]] möchten, in dem sie später mit Menschen zu tun haben, berufs- oder [[studienvorbereitende]] soziale [[Praktika]] [[absolvieren]]
 
+Beethovens Zehnte Symphonie ist von KI unter [[Verwendung]] [[erlernter]] Originalmotive [[gestaltet]] worden
+
 ---
 = [[lernen]], [[studieren]], [[ausbilden]]
 ≈ [[studieren]], [[fortbilden]], [[schulen]]

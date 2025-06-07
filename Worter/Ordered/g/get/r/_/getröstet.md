@@ -1,1 +1,1 @@
-, [[trösten]], [[Trauernden]]
+, [[trösten]], [[Trauernden]], [[tröstlich]]

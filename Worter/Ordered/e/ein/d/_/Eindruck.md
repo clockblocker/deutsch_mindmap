@@ -10,6 +10,7 @@ _[[C1-Hoehen-T2-202-Text#^4|^]]_ Auch die [[lebhaft]]en Diskussionen über Polit
 *[[C1-Lesen-414-Text#^3|^]]* Auch bei nordischen Völkern, `1 obwohl` für sie Polarlichter ein weit weniger seltenes Phänomen sind, [[hinterließen]] sie einen tiefen [[Eindruck]]
 *(they [[left]] a deep [[impression]])*
 
+*[[C1-Lesen-432-Text#^34|^]]* Das hängt sicher auch davon ab, welchen [[Eindruck]] man in der Arbeitswelt [[hinterlassen]] will
 
 _[[C1-Hoehen-T1-301-Text#^8|^]]_ Wir [[begleiten]] ihn bei seiner [[Erkundung]] des längsten [[Küstenwanderweg]]s der Welt und [[lauschen]] seinen [[Eindrücken]], Kämpfen und [[Erkenntnis]]sen
 _(his [[impressions]], struggles, and [[insights]])_

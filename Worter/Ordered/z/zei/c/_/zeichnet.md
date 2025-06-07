@@ -1,1 +1,1 @@
-, [[zeichnen]], [[weit]]
+, [[zeichnen]], [[weit]], [[auszeichnen]]

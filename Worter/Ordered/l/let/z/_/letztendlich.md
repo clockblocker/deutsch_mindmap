@@ -3,6 +3,8 @@
 ---
 Wofür hast du dich [[letztendlich]] [[entschieden]]?  
 
+*[[C1-Lesen-432-Text#^30|^]]* Jedenfalls wäre er [[konform]] mit dem [[Arbeitsrecht]], das [[letztendlich]] in diesem Fall [[Schlimmeres]] [[verhüten]] will
+
 *[[C1-Lesen-T2-100-Text#^4|^]]* (2) [[Das zeigt sich]] in der [[Ausübung]] immer extremerer Sportarten, in [[skurrilen]] [[Kleidungsstilen]] und [[letztendlich]] auch in ausgefallenen [[Sprechweisen]]. ^4
 
 
@@ -30,4 +32,4 @@ N: [[letztendliches]], [[letztendlicheres]], [[letztendlichstes]]
 P: [[letztendlichen]], [[letztendlicheren]], [[letztendlichsten]]  
 
 ---
-[[letzte]], [[endlich]], [[schließlich]], [[letzten Endes]], [[insgesamt]], [[Konnektivpartikeln]], [[entscheiden]]
+[[letzte]], [[endlich]], [[schließlich]], [[letzten Endes]], [[insgesamt]], [[Konnektivpartikeln]], [[entscheiden]], [[über kurz oder lang]]

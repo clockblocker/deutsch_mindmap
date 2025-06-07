@@ -5,6 +5,8 @@
 ---
 *[[3 Sollte das Internet stärker reguliert werden?#^6|^]]* _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]
 
+*[[C1-Lesen-432-Text#^35|^]]* Bei Banken scheint die formelle [[Kleidung]] auf solide [[Verlässlichkeit]] [[hinzuweisen]], und kaum einer möchte durch seine Kleidung die [[Wertschätzung]] von Kunden riskieren
+
 *[[C1-Hoehen-T4-100-Text#^23|^]]* In diesem Fall muss `darauf` [[hingewiesen]] werden, dass die Regelungen zum Verbraucherschutz wie [[Recht]] `auf` [[Umtausch]] oder [[Rückgabe]] beim [[Privatkauf]] nicht [[gelten]]
 
 1 Die [[Sendung]] [[hinweist|weist]] `auf` [[ideell]]e [[Wert]]e hin.  

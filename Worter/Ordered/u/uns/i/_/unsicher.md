@@ -34,4 +34,4 @@ uncertain, insecure
 Adjektive: [[unsicher]], [[unsicherer]], [[unsicherst]]
 
 ---
-[[unsicherer]], [[unsicheres]], [[unsichere]], [[unsicheren]], [[unsicherem]], [[unsichererer]], [[unsichereres]], [[unsicherere]], [[unsichereren]], [[unsichererem]], [[unsicherster]], [[unsicherstes]], [[unsicherste]], [[unsichersten]], [[unsicherstem]]
+[[unsicherer]], [[unsicheres]], [[unsichere]], [[unsicheren]], [[unsicherem]], [[unsichererer]], [[unsichereres]], [[unsicherere]], [[unsichereren]], [[unsichererem]], [[unsicherster]], [[unsicherstes]], [[unsicherste]], [[unsichersten]], [[unsicherstem]], [[solide]]

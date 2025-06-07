@@ -1,1 +1,1 @@
-, [[gleich]], [[Einheitliche]], [[abwechslungsreich]]
+, [[gleich]], [[Einheitliche]], [[abwechslungsreich]], [[konform]]

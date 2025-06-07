@@ -28,4 +28,4 @@ D: der [[Entlassung]], den [[Entlassungen]]
 ---
 [[entlassen]], [[Entlassener]], [[entlassungswürdg]], [[Entlassungsurkunde]], [[Verhaftungen]], [[wegschicken]], [[Betriebszugehörigkeit]], [[Schulung]], [[Fortbildung]], [[Massenentlassung]]
 
-#Feminin , [[Haft]], [[Anwerbung]]
+#Feminin , [[Haft]], [[Anwerbung]], [[Entlassungsgrund]]

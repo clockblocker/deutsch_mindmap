@@ -58,4 +58,4 @@ sie, [[gehen nach]], [[gingen nach]], [[gehen nach]], [[gingen nach]], [[gehen n
 Adjektive: [[nachgehend]], [[nachgehender]], [[nachgehendst]]
 
 ---
-[[nachgehender]], [[nachgehendes]], [[nachgehende]], [[nachgehenden]], [[nachgehendem]], [[nachgehenderer]], [[nachgehenderes]], [[nachgehendere]], [[nachgehenderen]], [[nachgehenderem]], [[nachgehendster]], [[nachgehendstes]], [[nachgehendste]], [[nachgehendsten]], [[nachgehendstem]]****
+[[nachgehender]], [[nachgehendes]], [[nachgehende]], [[nachgehenden]], [[nachgehendem]], [[nachgehenderer]], [[nachgehenderes]], [[nachgehendere]], [[nachgehenderen]], [[nachgehenderem]], [[nachgehendster]], [[nachgehendstes]], [[nachgehendste]], [[nachgehendsten]], [[nachgehendstem]]****, [[nachkommen]]

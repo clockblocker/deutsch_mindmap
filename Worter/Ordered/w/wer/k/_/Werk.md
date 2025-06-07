@@ -4,6 +4,7 @@ die [[Werke]]
 ---
 Auch die Versteigerungssummen für zeitgenössische [[Werke]] können sich sehen lassen. So verkaufte der englische Künstler
 
+Kreativität zeigt sich an der Intensität der durch ein [[Werk]] [[ausgelösten]] Emotionen.
 
 ---
 Synonyme:

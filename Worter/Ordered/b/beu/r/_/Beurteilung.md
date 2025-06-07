@@ -28,4 +28,4 @@ A: die [[Beurteilung]], die [[Beurteilungen]]
 G: der [[Beurteilung]], der [[Beurteilungen]]
 D: der [[Beurteilung]], den [[Beurteilungen]]
 
-#Feminin 
+#Feminin , [[Ermessen]]

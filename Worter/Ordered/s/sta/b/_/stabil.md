@@ -1,2 +1,2 @@
 --> ⚠️ [[Grad-Risiko]] <--
-, [[fest]], [[durchgeknallt]], [[explodierenden]], [[zittern]], [[widerstandsfähig]], [[dauerhaft]], [[tragfähig]], [[langanhaltend]], [[robust]]
+, [[fest]], [[durchgeknallt]], [[explodierenden]], [[zittern]], [[widerstandsfähig]], [[dauerhaft]], [[tragfähig]], [[langanhaltend]], [[robust]], [[solide]]

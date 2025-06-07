@@ -45,3 +45,4 @@ Zu+infinifive: [[auszugeben]]
 
 , [[verbrauchen]]
 , [[kosten]], [[lagern]], [[vergeuden]], [[verteilen]], [[Beiseitelegen]], [[anhäufen]], [[anlegen]]
+, [[auszeichnen]]

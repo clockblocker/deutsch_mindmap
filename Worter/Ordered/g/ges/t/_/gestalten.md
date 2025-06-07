@@ -6,6 +6,8 @@
 haben [[gestaltet]]
 
 ---
+Beethovens Zehnte Symphonie ist von KI unter [[Verwendung]] [[erlernter]] Originalmotive [[gestaltet]] worden
+*(Beethoven's Tenth Symphony has been [[created]] by AI using [[learned]] original motifs.)*
 
 _[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]_ Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten
 
@@ -53,4 +55,4 @@ Partizip I: [[gestaltend]], Partizip II: [[gestaltet]]
 
 [[arrangieren]], [[bilden]]
 , [[erscheinen]], [[prägen]], [[malen]], [[verwandeln]], [[designen]], [[ausarbeiten]], [[Preisgestaltung]]
-, [[planen]], [[verzieren]], [[mitformen]]
+, [[planen]], [[verzieren]], [[mitformen]], [[erschaffen]], [[einprogrammieren]]

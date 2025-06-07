@@ -56,4 +56,4 @@ sie, [[ergeben]], [[ergaben]], [[ergeben]], [[ergäben]], [[ergäben]]
 Adjektive: [[ergebend]], [[ergebender]], [[ergebendst]]
 
 ---
-[[ergebender]], [[ergebendes]], [[ergebende]], [[ergebenden]], [[ergebendem]], [[ergebenderer]], [[ergebenderes]], [[ergebendere]], [[ergebenderen]], [[ergebenderem]], [[ergebendster]], [[ergebendstes]], [[ergebendste]], [[ergebendsten]], [[ergebendstem]]
+[[ergebender]], [[ergebendes]], [[ergebende]], [[ergebenden]], [[ergebendem]], [[ergebenderer]], [[ergebenderes]], [[ergebendere]], [[ergebenderen]], [[ergebenderem]], [[ergebendster]], [[ergebendstes]], [[ergebendste]], [[ergebendsten]], [[ergebendstem]], [[Mitteilung]]

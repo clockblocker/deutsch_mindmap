@@ -3,6 +3,7 @@
 🚫 [[ablehnen]] | [[lehnte ab|lehnte ab]], haben [[abgelehnt]]
 
 ---
+*[[C1-Lesen-432-Text#^37|^]]*  Sie [[beruht]] vielmehr auf der [[Tatsache]], dass jüngere kluge Köpfe in den USA sich von einem [[überholt]]en Dresscode [[abgestoßen]] fühlen und deshalb sogar ein Jobangebot [[ablehnen]] würden, auch wenn es [[durchaus]] [[lukrativ]] wäre, für Goldman Sachs zu arbeiten
 
 Simon muss also damit [[rechnen]], dass Jannis seine [[Bitte]] [[ablehnen]] wird. Deshalb greift er zu einem kleinen Trick: Er [[schmiert]] seinem Chef [[Jemandem Honig um den Bart schmieren|Honig um den]] [[Bart]]
 

@@ -1,2 +1,2 @@
 --> 📈 [[Grad-Vergleich]] <--
-, [[vergleichbar]], [[selbe]]
+, [[vergleichbar]], [[selbe]], [[konform]]

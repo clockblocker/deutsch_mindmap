@@ -1,1 +1,1 @@
-, [[Initiative]], [[Freiwilligkeit]], [[Weisung]]
+, [[Initiative]], [[Freiwilligkeit]], [[Weisung]], [[Anweisung]]

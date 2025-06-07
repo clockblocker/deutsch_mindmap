@@ -1,6 +1,8 @@
 🚘 [[steuern]] | 🔴 die [[Steuer]], [ˈʃtɔɪ̯ɐn]
 
 ---
+Durch KI [[gesteuerte]] Maschinen sind in der Lage, Kunstexperten zu [[täuschen]]
+*(AI [[controlled]] machines are able to [[deceive]] art experts.)*
 
 Der Staat [[entscheidet]] [[Ü/über]] [[Gesetze]] und [[Steuern]].
 

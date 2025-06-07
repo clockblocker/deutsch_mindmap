@@ -1,2 +1,2 @@
 , [[erschöpft]]
-, [[Erschöpfung]]
+, [[Erschöpfung]], [[schöpferisch]]

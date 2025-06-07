@@ -6,6 +6,8 @@ nicht [[gut]]
 ---
 Da [[angehen|ging]] eine [[schlimme]] Zeit für das arme [[Stiefkind]] an. 
 
+*[[C1-Lesen-432-Text#^30|^]]* Jedenfalls wäre er [[konform]] mit dem [[Arbeitsrecht]], das [[letztendlich]] in diesem Fall [[Schlimmeres]] [[verhüten]] will
+
 *[[Einen Korb bekommen#^1|^]]* Was ist an einem Korb so [[schlimm]]? ^1
 
 [[Eine Extrawurst bekommen.md#^6|^]] [[ausgerechnet]] zu Tante Gisela, die Kinder doch sowieso nicht [[leiden]] kann! Das [[Schlimmste]] aber ist: Tim muss nicht mitkommen. ^6

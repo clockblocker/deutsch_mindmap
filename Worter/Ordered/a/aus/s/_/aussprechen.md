@@ -3,6 +3,8 @@
 ---
 Ich möchte dir meinen tiefen Dank [[aussprechen]]
 
+*[[C1-Lesen-432-Text#^29|^]]* Ob dann eine [[Kündigung]] [[ausgesprochen]] wird, liegt im [[Ermessen]] des Arbeitgebers
+
 *[[C1-Lesen-414-Text#^14|^]]* Sind die Sonnenstürme besonders [[heftig]], ist das `5 welcher` [[ausgesprochen]] spektakulär
 
 _[[C1-Hoehen-T3-301-Text#^12|^]]_ Frau Ebner-Perotti [[aussprechen|spricht]] sich gegen die [[Entscheidung]]en aus der Politik aus

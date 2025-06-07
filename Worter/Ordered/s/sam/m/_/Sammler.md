@@ -22,4 +22,4 @@ G: des [[Sammlers]], der [[Sammler]]
 D: dem [[Sammler]], den [[Sammlern]] 
 
 ---
-[[sammeln]], [[Sammlung]], [[sammelbar]], [[Sammelstück]], [[sammeln gehen]], [[Saatgutsammler]], [[einsammeln]]
+[[sammeln]], [[Sammlung]], [[sammelbar]], [[Sammelstück]], [[sammeln gehen]], [[Saatgutsammler]], [[einsammeln]], [[Kunstbegeisterte]]

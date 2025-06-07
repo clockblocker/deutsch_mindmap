@@ -31,4 +31,4 @@ Morphems:
 ---
 
 #Substantiv #Feminin,, [[Einflussfaktor]], [[Hauptverursacher]]
-, [[Wirkung]]
+, [[Wirkung]], [[Entlassungsgrund]]

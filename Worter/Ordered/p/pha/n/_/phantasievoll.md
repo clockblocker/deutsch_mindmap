@@ -1,2 +1,2 @@
 , [[ersinnlich]], [[künstlerischer]]
-, [[verträumt]], [[Phantasie]], [[geistreich]]
+, [[verträumt]], [[Phantasie]], [[geistreich]], [[schöpferisch]]

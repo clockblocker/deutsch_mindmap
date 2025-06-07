@@ -2,6 +2,8 @@
 nicht [[unmöglich]]
 
 ---
+Sie muss [[möglichst]] zahlreiche Bilder aus der kindlichen [[Lebenswelt]] [[eingespeist]] bekommen.
+*(It must be [[fed]] with [[as many]] images as possible from the child's [[world]].)*
 
 SASCHA: Hm … wenn das [[möglich]] ist!
 

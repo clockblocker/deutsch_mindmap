@@ -5,6 +5,10 @@ die [[Untersuchungen]]
 ---
 *[[C1-Lesen-T3-301-Text#^25|^]]* Für eine genauere [[Untersuchung]] des Kaufverhaltens wurde ein Teil der [[Einkaufenden]] mit einer Karte der GfK [[ausgestattet]]
 
+Sie optimiert ihren Stil [[anhand]] `von` [[Untersuchung]]en zur Akzeptanz in der Öffentlichkeit.
+*(It optimizes its style [[based on]] `of` [[investigation]]s into public acceptance)*
+
+
 Die [[Untersuchung]] [[ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
 _[[C1-Lesen-T2-102-Text#^21|^]]_ Amerikanische Forscher haben gerade im [[renommiert]]en Fachjournal _Nature_ eine [[Reihe]] von [[Untersuchung]]en publiziert

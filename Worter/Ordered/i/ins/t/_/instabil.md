@@ -2,4 +2,4 @@
 --> ⏱️ [[Temporal-Dauerhaft]] <--
 
 
-, [[tragfähig]]
+, [[tragfähig]], [[solide]]

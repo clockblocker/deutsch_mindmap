@@ -27,4 +27,4 @@ A: den [[Durchschnitt]], die [[Durchschnitte]]
 G: des [[Durchschnitts]], der [[Durchschnitte]]
 D: dem [[Durchschnitt]], den [[Durchschnitten]]
 
-#Maskulin 
+#Maskulin , [[Im Schnitt]]

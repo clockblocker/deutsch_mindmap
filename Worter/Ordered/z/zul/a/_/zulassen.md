@@ -69,3 +69,4 @@ Adjektive: [[zulassend]], [[zulassender]], [[zulassendst]]
 ---
 
 [[zulassender]], [[zulassendes]], [[zulassende]], [[zulassenden]], [[zulassendem]], [[zulassenderer]], [[zulassenderes]], [[zulassendere]], [[zulassenderen]], [[zulassenderem]], [[zulassendster]], [[zulassendstes]], [[zulassendste]], [[zulassendsten]], [[zulassendstem]], [[freigeben]], [[einlassen]], [[verdrängen]], [[drängen]], [[unterbinden]], [[freischalten]], [[unzulässig]]
+, [[verhüten]]

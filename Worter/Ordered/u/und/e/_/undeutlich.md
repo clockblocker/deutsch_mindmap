@@ -1,3 +1,3 @@
 --> 🧩 [[Grad-Wahrheit]] <--
 
-, [[klar]], [[ausgeprägt]], [[explizit]]
+, [[klar]], [[ausgeprägt]], [[explizit]], [[unleserlich]]

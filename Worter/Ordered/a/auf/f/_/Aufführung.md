@@ -2,8 +2,10 @@
 die [[Aufführungen]]
 
 ---
+Beethovens Zehnte Symphonie [[gelangt]]e nach einer maschinellen [[Orchestrierung]] zur [[Aufführung]]
+*(Beethoven's Tenth Symphony [[came]] to [[performance]] after a machine [[orchestration]].)*
 
-[[17 zu inf#^23|^]] «Die Karte, die du gefunden hast,» sagte ich, «ist zu einer [[Aufführung]] von ‹Tannhäuser›, aber die war vor zwölf Jahren!» ^23
+*[[17 zu inf#^23|^]]* «Die Karte, die du gefunden hast,» sagte ich, «ist zu einer [[Aufführung]] von ‹Tannhäuser›, aber die war vor zwölf Jahren!»
 
 ---
 

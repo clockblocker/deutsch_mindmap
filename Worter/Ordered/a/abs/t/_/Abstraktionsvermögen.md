@@ -26,4 +26,4 @@ A: das [[Abstraktionsvermögen]], die [[Abstraktionsvermögen]]
 G: des [[Abstraktionsvermögens]], der [[Abstraktionsvermögen]]
 D: dem [[Abstraktionsvermögen]], den [[Abstraktionsvermögen]]
 
-#Neuter 
+#Neuter , [[Vermögen]]

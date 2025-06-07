@@ -27,4 +27,4 @@ A: die [[Zuversicht]], -
 G: der [[Zuversicht]], -
 D: der [[Zuversicht]], -
 
-#Feminin 
+#Feminin , [[Selbstzweifel]]

@@ -26,4 +26,4 @@ A: das [[Bedenken]], die [[Bedenken]]
 G: des [[Bedenkens]], der [[Bedenken]]
 D: dem [[Bedenken]], den [[Bedenken]]
 
-#Neuter 
+#Neuter , [[Selbstzweifel]]

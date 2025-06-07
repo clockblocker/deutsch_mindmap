@@ -2,7 +2,8 @@
 
 ---
 
-`h` Genauso [[nachvollziehbar]] ist, dass die Arbeit an Maschinen keine Ketten, Ringe oder Piercings zulässt
+*[[C1-Lesen-432-Text#^31|^]]* `20 h` Genauso [[nachvollziehbar]] ist, dass die Arbeit an Maschinen keine Ketten, Ringe oder Piercings zulässt ^31
+
 
 Ihr Text soll nicht nur insgesamt, sondern auch innerhalb der einzelnen [[Abschnitte]] logisch [[aufgebaut]] und für die Leserinnen und Leser gut [[nachvollziehbar]] sein.
 

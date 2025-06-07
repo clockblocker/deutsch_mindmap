@@ -1,1 +1,1 @@
-, [[Unterstützung]], [[Zusammenhalt]]
+, [[Unterstützung]], [[Zusammenhalt]], [[solide]]

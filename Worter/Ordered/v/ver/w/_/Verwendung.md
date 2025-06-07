@@ -1,10 +1,12 @@
 --> [[Ingredinet-Action-Nomen]] <--
 
 ---
-🔗 [[Verwendung]], [fɛɐ̯ˈvɛndʊŋ]
+🔗 die [[Verwendung]], [fɛɐ̯ˈvɛndʊŋ]
 
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
+
+Beethovens Zehnte Symphonie ist von KI unter [[Verwendung]] [[erlernter]] Originalmotive [[gestaltet]] worden
 
 *[[032-C1-Schreiben-T2#^9|^]]* Schreiben Sie eine E-Mail. Die [[Verwendung]] der inhaltlichen Anregungen ist optional. ^9
 
@@ -28,3 +30,5 @@ D: der [[Verwendung]], den [[Verwendungen]]
 
 ---
 [[verwenden]], [[verwendbar]], [[Verwendungszweck]], [[Verwendungsart]], [[zweckentfremdete Verwendung]], [[Handhabung]], [[Bedienung]], [[Verwertung]], [[weiterverwenden]]
+
+#Feminin 

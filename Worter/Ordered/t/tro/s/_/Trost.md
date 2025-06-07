@@ -1,1 +1,1 @@
-, [[trösten]], [[Erleichterung]]
+, [[trösten]], [[Erleichterung]], [[tröstlich]]

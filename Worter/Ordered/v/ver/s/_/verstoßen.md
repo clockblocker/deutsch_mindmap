@@ -6,6 +6,10 @@
 *[[C1-Hoehen-T1-100-Text#^13|^]]* Auch wenn [[Mieterhöhungen]] nicht gegen Gesetze [[verstoßen]], sei es [[Aufgabe]] der Politik, hier [[mieterunterstützend]] [[einzugreifen]]. ^13
 
 
+*[[C1-Lesen-432-Text#^27|^]]* [[Vereinzelnd]] versuchen Arbeitnehmer gegen die vorgeschriebenen Regeln zu [[verstoßen]]
+*([[Occasionally]], employees try to [[violate]] the prescribed rules.)*
+
+
 263. In Deutschland sind [[Jugendliche]] ab 14 Jahren [[strafmündig]]. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen [[Strafgesetze]] [[verstoßen]], … (85%)
 	- [x] werden bestraft.
 
@@ -35,4 +39,4 @@ PI: [[verstoßend]], PII: [[verstoßen]], Zu+inf: [[zu verstoßen]]
 ---
 [[Verstoß]], [[Ausstoßung]], [[Verbannung]], [[verstoßen]], [[stoßen]]
 [[verbannt]], [[übertreten]], [[Strafgesetz]]
-, [[befolgen]], [[abandonieren]], [[umwerben]]
+, [[befolgen]], [[abandonieren]], [[umwerben]], [[nachkommen]]

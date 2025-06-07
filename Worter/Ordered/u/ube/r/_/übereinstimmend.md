@@ -1,2 +1,2 @@
 [[anders]], [[verschiedene]], [[einverstanden]]
-, [[einig]], [[konträr]]
+, [[einig]], [[konträr]], [[konform]]

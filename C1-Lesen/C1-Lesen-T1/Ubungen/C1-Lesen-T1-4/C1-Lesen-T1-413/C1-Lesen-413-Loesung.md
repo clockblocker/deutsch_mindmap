@@ -8,10 +8,6 @@
 ---
 ---
 
-[[0-C1-Lesen-T1-Ubung-List|List]]
-
----
-
 ![[Pasted image 20250528055347.png]] 0.
 
 - [x] a davon

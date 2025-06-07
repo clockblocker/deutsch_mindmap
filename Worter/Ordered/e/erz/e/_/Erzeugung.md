@@ -1,1 +1,1 @@
-, [[erzeugen]], [[Entstehung]], [[Güterproduktion]]
+, [[erzeugen]], [[Entstehung]], [[Güterproduktion]], [[Herstellung]]

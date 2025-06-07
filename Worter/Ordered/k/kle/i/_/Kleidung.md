@@ -4,6 +4,9 @@ die [[Kledungen]]
 ---
 , [[Wäsche]]
 
+*[[C1-Lesen-432-Text#^35|^]]* Bei Banken scheint die formelle [[Kleidung]] auf solide [[Verlässlichkeit]] [[hinzuweisen]], und kaum einer möchte durch seine Kleidung die [[Wertschätzung]] von Kunden riskieren
+
+
 
 ---
 = [[Bekleidung]], [[Gewand]], [[Kleidungsstück]]
@@ -24,3 +27,5 @@ D: der [[Kleidung]], den [[Kledun gen]]
 
 ---
 [[kleiden]], [[bekleiden]], [[entkleiden]], [[Kleid]], [[Kleidungsstil]], [[Kleidungsvorschrift]]
+
+#Feminin 

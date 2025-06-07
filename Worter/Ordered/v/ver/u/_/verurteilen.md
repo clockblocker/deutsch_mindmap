@@ -57,3 +57,4 @@ Adjektive: [[verurteilend]], [[verurteilender]], [[verurteilendst]]
 ---
 
 [[verurteilender]], [[verurteilendes]], [[verurteilende]], [[verurteilenden]], [[verurteilendem]], [[verurteilenderer]], [[verurteilenderes]], [[verurteilendere]], [[verurteilenderen]], [[verurteilenderem]], [[verurteilendster]], [[verurteilendstes]], [[verurteilendste]], [[verurteilendsten]], [[verurteilendstem]], [[verteufeln]]
+, [[auszeichnen]]

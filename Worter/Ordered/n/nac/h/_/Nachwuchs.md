@@ -33,4 +33,4 @@ A: den [[Nachwuchs]], -
 G: des [[Nachwuchses]], -
 D: dem [[Nachwuchs]], -
 
-#Maskulin 
+#Maskulin , [[nachkommen]]

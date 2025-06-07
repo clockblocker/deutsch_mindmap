@@ -48,4 +48,4 @@ sie, [[beugen vor]], [[beugten vor]], [[beugen vor]], [[beugten vor]], [[beugen 
 Adjektive: [[vorbeugend]], [[vorbeugender]], [[vorbeugendst]]
 
 ---
-[[vorbeugender]], [[vorbeugendes]], [[vorbeugende]], [[vorbeugenden]], [[vorbeugendem]], [[vorbeugenderer]], [[vorbeugenderes]], [[vorbeugendere]], [[vorbeugenderen]], [[vorbeugenderem]], [[vorbeugendster]], [[vorbeugendstes]], [[vorbeugendste]], [[vorbeugendsten]], [[vorbeugendstem]]
+[[vorbeugender]], [[vorbeugendes]], [[vorbeugende]], [[vorbeugenden]], [[vorbeugendem]], [[vorbeugenderer]], [[vorbeugenderes]], [[vorbeugendere]], [[vorbeugenderen]], [[vorbeugenderem]], [[vorbeugendster]], [[vorbeugendstes]], [[vorbeugendste]], [[vorbeugendsten]], [[vorbeugendstem]], [[verhüten]]

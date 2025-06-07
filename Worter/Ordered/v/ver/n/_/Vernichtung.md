@@ -39,3 +39,4 @@ D: der [[Vernichtung]], den [[Vernichtungen]]
 [[vernichten]], [[vernichtend]], [[unvernichtbar]], [[Vernichter]], [[Vernichtungslager]], [[Erhalt]], [[Verwertung]], [[Garaus]], [[Rodung]]
 
 #Feminin
+, [[Herstellung]]

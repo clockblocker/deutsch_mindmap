@@ -32,4 +32,4 @@ reliable, trustworthy
 Adjektive: [[zuverlässig]], [[zuverlässiger]], [[zuverlässigst]]
 
 ---
-[[zuverlässiger]], [[zuverlässiges]], [[zuverlässige]], [[zuverlässigen]], [[zuverlässigem]], [[zuverlässigerer]], [[zuverlässigeres]], [[zuverlässigere]], [[zuverlässigeren]], [[zuverlässigerem]], [[zuverlässigster]], [[zuverlässigstes]], [[zuverlässigste]], [[zuverlässigsten]], [[zuverlässigstem]]
+[[zuverlässiger]], [[zuverlässiges]], [[zuverlässige]], [[zuverlässigen]], [[zuverlässigem]], [[zuverlässigerer]], [[zuverlässigeres]], [[zuverlässigere]], [[zuverlässigeren]], [[zuverlässigerem]], [[zuverlässigster]], [[zuverlässigstes]], [[zuverlässigste]], [[zuverlässigsten]], [[zuverlässigstem]], [[solide]]

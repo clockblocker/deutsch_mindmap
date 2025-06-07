@@ -32,3 +32,4 @@ Morpheme: [[Ü/über]], [[steh]], [[en]]
 
 Partizip I: [[überstehend]], Partizip II: [[überstanden]]
 [[überstehen]] - [[Ü/über]] = [[stehen]], [[durchmachen]], [[erleiden]]
+, [[durchgehen]]

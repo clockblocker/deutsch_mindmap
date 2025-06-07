@@ -4,6 +4,9 @@ nicht [[fremd]]
 ---
 NIC: Dann können wir jetzt unsere [[eigene]] süße Musik spielen, Babe …  
 
+Kunst produzierende KI wird niemals zu [[eigener]] [[schöpferischer]] Kraft [[gelangen]] können
+*Art-producing AI will never be able to [[achieve]] its [[own]] [[creative]] power.*
+
 *[[C1-Lesen-T2-301-Text#^9|^]]* Greenwashing kann man [[betreiben]], [[indem]] man [[Lügen]] über die [[eigene]] [[Umweltfreundlichkeit]] [[verbreitet]]
 
 13 Kleingärtner:innen kultivieren Obst und Gemüse ausschließlich für den [[eigene]]n [[Bedarf]].  

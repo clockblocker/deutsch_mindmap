@@ -29,3 +29,4 @@ Morphems:
 ---
 
 #Substantiv #Feminin, [[fressen]], [[Linsen]], [[Nahrung]], [[Futter]], [[abspeisen]]
+, [[einspeisen]]

@@ -46,4 +46,4 @@ sie, [[unterbinden]], [[unterbanden]], [[unterbinden]], [[unterbänden]], [[unte
 Adjektive: [[unterbindend]], [[unterbindender]], [[unterbindendst]]
 
 ---
-[[unterbindender]], [[unterbindendes]], [[unterbindende]], [[unterbindenden]], [[unterbindendem]], [[unterbindenderer]], [[unterbindenderes]], [[unterbindendere]], [[unterbindenderen]], [[unterbindenderem]], [[unterbindendster]], [[unterbindendstes]], [[unterbindendste]], [[unterbindendsten]], [[unterbindendstem]]
+[[unterbindender]], [[unterbindendes]], [[unterbindende]], [[unterbindenden]], [[unterbindendem]], [[unterbindenderer]], [[unterbindenderes]], [[unterbindendere]], [[unterbindenderen]], [[unterbindenderem]], [[unterbindendster]], [[unterbindendstes]], [[unterbindendste]], [[unterbindendsten]], [[unterbindendstem]], [[verhüten]]

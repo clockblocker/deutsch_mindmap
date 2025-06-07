@@ -2,7 +2,9 @@
 die [[Bauten]]
 
 ---
-*[[01-C1-Schreiben-T2-M#^7|^]]* Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]. ^7
+*[[01-C1-Schreiben-T2-M#^7|^]]* Für einen [[Zusammenbau]] braucht man keine [[Bauarbeiter]], die [[Leistungen]] sind im Preis für leichte [[Modulwände]] [[bereits]] [[enthalten]]
+
+*[[C1-Lesen-432-Text#^25|^]]* Jedem [[einleuchtet|leuchtet]] ein, dass auf dem [[Bau]] [[Beschäftigte]] Helme und Sicherheitsschuhe tragen müssen
 
 
 ---
@@ -28,3 +30,6 @@ A: den [[Bau]], die [[Bauten]]
 G: des [[Baus]], der [[Bauten]]
 D: dem [[Bau]], den [[Bauten]]
 , [[Bauarbeit]], [[Bauplan]], [[Baubranche]], [[ausbauen]], [[Ausbau]], [[Muskelaufbau]], [[Aufbau]], [[Schiffbau]], [[anbauen]]
+
+
+#Maskulin 

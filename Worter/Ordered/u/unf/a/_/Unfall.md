@@ -27,3 +27,4 @@ Einzigartige mögliche Formen: [[Unfalls]], [[Unfalle]], [[Unfälle]], [[Unfäll
 ---
 
 #Substantiv #Maskulin, [[Verkehrstote]], [[Verkehrsunfall]], [[Krise]], [[Straßenunfall]]
+, [[Unfallverhütung]]

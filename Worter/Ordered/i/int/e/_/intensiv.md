@@ -26,4 +26,4 @@ intensive
 Adjektive: [[intensiv]], [[intensiver]], [[intensivst]]
 
 ---
-[[intensiver]], [[intensives]], [[intensive]], [[intensiven]], [[intensivem]], [[intensiverer]], [[intensiveres]], [[intensivere]], [[intensiveren]], [[intensiverem]], [[intensivster]], [[intensivstes]], [[intensivste]], [[intensivsten]], [[intensivstem]]
+[[intensiver]], [[intensives]], [[intensive]], [[intensiven]], [[intensivem]], [[intensiverer]], [[intensiveres]], [[intensivere]], [[intensiveren]], [[intensiverem]], [[intensivster]], [[intensivstes]], [[intensivste]], [[intensivsten]], [[intensivstem]], [[zutiefst]]

@@ -1,1 +1,1 @@
-, [[Sozial]]
+, [[Sozial]], [[solide]]

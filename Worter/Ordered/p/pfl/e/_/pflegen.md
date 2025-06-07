@@ -4,13 +4,15 @@
 ---
 *[[bro-schrieben-c1-t1-001#^11|^]]* Eine andere Möglichkeit wäre, eine [[abwechslungsreiche]] [[Methode]] aus dem Bereich “Massage” [[einzusetzen]], um den Körper besser zu [[pflegen]]
 
+*[[C1-Lesen-432-Text#^33|^]]* Man fragt sich vielleicht, wie bei solch [[rigide]]n Regeln in manchen Berufen noch ein eigener [[Stil]] [[gepflegt]] werden kann
+
 _[[Lektionen/Bekker/verben/2#^2|^]]_ Aber es ist auch wichtig, die [[Grünflächen]], die es schon gibt, gut zu [[pflegen]]
 
 _[[C1-Hoehen-T2-101-Text#^18|^]]_ Tja, da gibt es schon Unterschiede, zumal Individuen mit hohem sozioökonomischem Status einen großen negativen [[Einfluss]] auf den Klimawandel haben, falls diese einen [[exzessiv]]en [[Lebensstil]] [[pflegen]]
 
 ---
 
-Synonyme: [[betreuen]], [[versorgen]], [[kümmern]], [[umsorgen]], [[behandeln]]
+Synonyme: [[betreuen]], [[versorgen]], [[kümmern]], [[umsorgen]], [[behandeln]], [[schmutzig]], [[ordentlich]], [[dreckigen]], [[dreckig]], [[gepflegten]], [[staubig]], [[schriftsprachlich]]
 Antonyme: [[vernachlässigen]], [[ignorieren]], [[missachten]]
 
 ---

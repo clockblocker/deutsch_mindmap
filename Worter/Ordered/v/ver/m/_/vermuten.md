@@ -42,4 +42,4 @@ PI: [[vermutend]], PII: [[vermutet]], Zu+inf: [[zu vermuten]]
 [[Vermutung]], [[Mutmaßung]], [[vermutet]], [[Vermutende]], [[unvermutet]]
 
 [[meinen]], [[wiegen]], [[Glaub]], [[rechnen]], [[raten]], [[befürchten]], [[erwarten]]
-, [[ahnen]], [[zweifeln]], [[fürchten]], [[Unmut]], [[vorausahnen]], [[Südseeinsel]]
+, [[ahnen]], [[zweifeln]], [[fürchten]], [[Unmut]], [[vorausahnen]], [[Südseeinsel]], [[Vermögen]]

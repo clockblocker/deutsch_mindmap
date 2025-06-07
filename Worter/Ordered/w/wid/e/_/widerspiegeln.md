@@ -3,6 +3,9 @@
 ---
 *[[C1-Lesen-T3-301-Text#^13|^]]* [[Altersstruktur]] und soziale [[Schichtung]] sowie [[Einkommen]] und [[Konsumverhalten]] [[widerspiegeln|spiegeln]] die [[Verhältnis]]se im ganzen Land wider
 
+-- Was macht von KI produzierte Kunst für [[Kunstbegeisterte]] attraktiv? 
+-- In den Werken [[widerspiegelt|spiegelt]] `sich` technischer [[Fortschritt]] wider.
+
 Neben den Museumsbesuchen und dem Kauf von Bildern [[spiegelt]] sich das gewachsene Kunstinteresse in der Anzahl der Studierenden im Bereich der bildenden Kunst [[wider]]
 
 ---

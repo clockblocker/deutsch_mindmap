@@ -5,6 +5,11 @@ sein [[erschienen]]
 ---
 *[[C1-Lesen-432-Text#^10|^]]* Sie dürfen nicht im Sportdress [[erscheinen]], da sie ihre Firma repräsentieren müssen
 
+Was macht von KI produzierte Kunst für [[Kunstbegeisterte]] attraktiv? 
+Die Vorstellung humaner Maschinen [[erscheint]] [[tröstlich]].
+*The idea of human machines [[seems]] [[comforting]]*
+
+
 Auf dem [[Bildschirm]] [[erscheint]] ein [[seltsames]] Symbol.
 
 _[[C1-Hoehen-T4-100-Text#^30|^]]_ Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschriften]] [[gehalten]] wird

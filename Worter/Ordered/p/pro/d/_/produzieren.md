@@ -1,1 +1,1 @@
-, [[zeugen]], [[schaffen]], [[erstellen]], [[herstellen]], [[erzeugen]], [[Produktionssystem]], [[hervorbringen]], [[Güterproduktion]], [[Produkt]]
+, [[zeugen]], [[schaffen]], [[erstellen]], [[herstellen]], [[erzeugen]], [[Produktionssystem]], [[hervorbringen]], [[Güterproduktion]], [[Produkt]], [[erschaffen]]

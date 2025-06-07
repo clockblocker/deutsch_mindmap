@@ -3,3 +3,4 @@
 --> ⏱️ [[Temporal-Frequenz]] <--
 
 [[Alle]], [[ununterbrochen]], [[allgemein]], [[stellenweise]]
+, [[durchgehen]]

@@ -1,1 +1,1 @@
-, [[belohnen]]
+, [[belohnen]], [[auszeichnen]]

@@ -32,3 +32,4 @@ Morphems:
 ---
 
 #Substantiv #Neuter, [[Briefgeheimnis]], [[Vorschein]], [[geheimnisvolle]], [[Botschaft]], [[Betriebsgeheimnis]]
+, [[Mitteilung]]

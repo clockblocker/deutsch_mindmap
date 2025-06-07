@@ -28,3 +28,4 @@ G: der [[Anstellung]], der [[Anstellungen]]
 D: der [[Anstellung]], den [[Anstellungen]]
 
 #Feminin 
+, [[Entlassungsgrund]]

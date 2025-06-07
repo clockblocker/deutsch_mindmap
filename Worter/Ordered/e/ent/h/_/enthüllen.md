@@ -38,3 +38,4 @@ Partizip I: [[enthüllend]], Partizip II: [[enthüllt]]
 , [[wegzaubern]], [[Denkmal]]
 
 , [[verdecken]], [[verraten]], [[verkleiden]], [[gestehen]], [[Verheimlichen]], [[demaskieren]], [[vertuschen]], [[offenlegen]]
+, [[täuschen]]

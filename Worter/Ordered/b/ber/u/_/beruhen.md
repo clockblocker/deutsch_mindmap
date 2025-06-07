@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T2-102-Text#^16|^]]* Das Gewicht eines normal gebauten Menschen [[beruht]] zu etwa einem Drittel bis knapp der [[Hälfte]] auf Muskelmasse
 
+*[[C1-Lesen-432-Text#^37|^]]*  Sie [[beruht]] vielmehr auf der Tatsache, dass jüngere kluge Köpfe in den USA sich von einem [[überholt]]en Dresscode [[abgestoßen]] fühlen und deshalb sogar ein Jobangebot [[ablehnen]] würden, auch wenn es [[durchaus]] [[lukrativ]] wäre, für Goldman Sachs zu arbeiten
+
 Es geht um auf langer Tradition [[beruhende]] modernisierte [[Behandlungsformen]]
 
 *[[C1-Lesen-T3-301-Text#^24|^]]* Zum anderen: Die [[Teilnahme]] an der [[Marktforschung]] [[beruhte]] auf [[Freiwilligkeit]]

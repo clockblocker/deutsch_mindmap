@@ -3,6 +3,9 @@
 ---
 *[[01-C1-Schreiben-T2-M#^3|^]]* Es ist [[offenbar]] nicht im Interesse des Unternehmens, wenn [[sensible]] Daten wie [[Einkaufspreise]] bzw. -bedingungen an Mitarbeiter [[gelangen]], die keinen [[Zugang]] zu solchen Daten haben sollten
 
+Kunst produzierende KI wird niemals zu [[eigener]] [[schöpferischer]] Kraft [[gelangen]] können
+*(Art-producing AI will never be able to [[achieve]] its [[own]] [[creative]] power)*
+
 Für [[gewöhnlich]] [[gelangen]] [[Feinstaubpartikel]] nicht in den [[Blutkreislauf]]
 
 *[[C1-Hoehen-T1-401-Text#^7|^]]* [[Windumtoste]] Küsten, weite Strände, elegante Seebäder, zahlreiche [[Zeugnis]]se der Megalithkultur: All dies bietet die [[bretonisch]]e Küste, die man auf Fahrten und Wanderungen erkundet, wobei [[Letztere]] allerdings so manch einen an seine [[Grenzen]] [[gelangen]] `lassen`

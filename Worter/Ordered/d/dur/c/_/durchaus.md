@@ -5,6 +5,8 @@
 ---
 *[[C1-Hoehen-T1-200-Text#^12|^]]* [[Gleichzeitig]] erfährt man aber auch, dass die Natur [[Recht]] [[robust]] ist und sich [[durchaus]] [[anpassen]] kann, wie frühere Klimaveränderungen [[gezeigt]] haben
 
+*[[C1-Lesen-432-Text#^37|^]]*  Sie [[beruht]] vielmehr auf der [[Tatsache]], dass jüngere kluge Köpfe in den USA sich von einem [[überholt]]en Dresscode [[abgestoßen]] fühlen und deshalb sogar ein Jobangebot [[ablehnen]] würden, auch wenn es [[durchaus]] [[lukrativ]] wäre, für Goldman Sachs zu arbeiten
+
 *[[C1-Lesen-432-Text#^11|^]]* Eine [[durchaus]] verständliche [[Forderung]], die in der Regel [[widerspruchslos]] [[befolgt]] wird
 *(A [[perfectly]] understandable [[demand]], which is usually [[followed]] without [[objection]].)*
 

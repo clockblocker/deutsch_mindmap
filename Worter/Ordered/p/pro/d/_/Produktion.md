@@ -1,1 +1,1 @@
-, [[herstellen]], [[Erntemenge]], [[Produktionsablauf]], [[Produktionssystem]], [[Konsum]], [[Güterproduktion]], [[Billigprodukt]], [[Produkt]]
+, [[herstellen]], [[Erntemenge]], [[Produktionsablauf]], [[Produktionssystem]], [[Konsum]], [[Güterproduktion]], [[Billigprodukt]], [[Produkt]], [[Herstellung]]

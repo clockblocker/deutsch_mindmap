@@ -1,7 +1,10 @@
 😩 [[plagen]], [ˈplaːɡn̩] | [[plagte]], haben [[geplagt]]
 
 ---
-[[2 Unter Druck nach oben#^2|^]] Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen. ^2
+Was [[auszeichnet|zeichnet]] Künstlerinnen und Künstler aus? Sie sind kaum von [[Selbstzweifeln]] [[geplagt]]
+*(What [[distinguishes]] artists? They are hardly [[plagued]] by [[self-doubt]].)*
+
+*[[2 Unter Druck nach oben#^2|^]]* Wenn dieser [[Aufsteiger]] endlich an der Spitze der Firma angekommen ist, dann [[plagen]] ihn meist Angst und Ressentiments, [[geringes]] [[Selbstwertgefühl]] und ein [[unbändiges]] [[Bedürfnis]] nach [[Anerkennung]]. Das ist wissenschaftlich erwiesen
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^29|^]]* Wenn ich mich mal nicht [[aufraffte]], zum Feld zu fahren, [[plagte]] mich das schlechte Gewissen. ^29
 

@@ -41,3 +41,4 @@ Partizip I: [[schneidend]], Partizip II: [[geschnitten]]
 
 , [[stechen]], [[ausschneiden]], [[mähen]], [[Messer]]
 , [[rasieren]], [[Schere]]
+, [[Im Schnitt]]

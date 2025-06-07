@@ -2,7 +2,9 @@
 die [[Kündigungen]]
 
 ---
-`f` So ein [[Verhalten]] führt noch nicht direkt zur [[Kündigung]], sondern zunächst nur zu einer [[Abmahnung]]
+*[[C1-Lesen-432-Text#^32|^]]* `21 f` So ein [[Verhalten]] führt noch nicht direkt zur [[Kündigung]], sondern zunächst nur zu einer [[Abmahnung]]
+
+*[[C1-Lesen-432-Text#^29|^]]* Ob dann eine [[Kündigung]] [[ausgesprochen]] wird, liegt im [[Ermessen]] des Arbeitgebers
 
 136. Sie gehen in Deutschland zum [[Arbeitsgericht]] bei … (97%)
 	- [ ] falscher [[Nebenkostenabrechnung]].

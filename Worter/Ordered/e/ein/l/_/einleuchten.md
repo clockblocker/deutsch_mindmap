@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-101-Text#^17|^]]* Gut, das klingt [[einleuchtend]]. Welche Rolle kommt hier aber genau dem Individuum zu?
 
+*[[C1-Lesen-432-Text#^25|^]]* Jedem [[einleuchtet|leuchtet]] ein, dass auf dem [[Bau]] [[Beschäftigte]] Helme und Sicherheitsschuhe tragen müssen
+
 ---
 = [[verständlich werden]], [[klar werden]]
 ≈ [[erscheinen]], [[offenbaren]], [[verstehen]]

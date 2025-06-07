@@ -4,6 +4,8 @@
 *[[C1-Lesen-414-Text#^3|^]]* Auch bei nordischen Völkern, `1 obwohl` für sie Polarlichter ein weit weniger seltenes Phänomen sind, [[hinterließen]] sie einen tiefen [[Eindruck]]. ^3
 
 
+*[[C1-Lesen-432-Text#^34|^]]* Das hängt sicher auch davon ab, welchen [[Eindruck]] man in der Arbeitswelt [[hinterlassen]] will
+
 *[[C1-Hoehen-T1-301-Text#^6|^]]* Den stärksten [[Eindruck]] – und den stärksten [[Antrieb]] zum [[Engagement]] für diese Welt – [[hinterlassen]] aber die vielen verschiedenen [[Schilderung]]en der [[alltäglich]]en [[Schönheit]] dieser [[Atolle]] durch ihre [[Bewohner]] und Bewohnerinnen
 
 

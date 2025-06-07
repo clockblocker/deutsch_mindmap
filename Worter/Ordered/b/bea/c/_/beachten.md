@@ -31,4 +31,4 @@ PI: [[beachtend]], PII: [[beachtet]], Zu+inf: [[zu beachten]]
 
 ---
 [[Beachtung]], [[Achtung]], [[beachtenswert]], [[unbeachtet]], [[Beachtlichkeit]], [[kümmern]], [[Einhaltung]], [[versäumen]], [[einhalten]]
-, [[ablenken]], [[übergehen]], [[miteinbeziehen]], [[erachten]]
+, [[ablenken]], [[übergehen]], [[miteinbeziehen]], [[erachten]], [[nachkommen]]

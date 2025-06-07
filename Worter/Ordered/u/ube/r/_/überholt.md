@@ -1,8 +1,9 @@
 🗑️ [[überholt]], [yːbɐɐ̯ˈhoːlt](https://youglish.com/pronounce/überholt/german) ≠ [[modern]]
 
 ---
+*[[C1-Lesen-432-Text#^37|^]]*  Sie [[beruht]] vielmehr auf der Tatsache, dass jüngere kluge Köpfe in den USA sich von einem [[überholt]]en Dresscode [[abgestoßen]] fühlen und deshalb sogar ein Jobangebot [[ablehnen]] würden, auch wenn es [[durchaus]] [[lukrativ]] wäre, für Goldman Sachs zu arbeiten
 
-> _[[Atom#^4|^]]_ _Ich denke, dass die [[Kernkraft]] bereits [[überholt]] ist. Es gibt modernere Methoden, wie [[erneuerbare]] [[Energiequellen]]. Und da geht viel [[voran]]._ ^4
+*[[Atom#^4|^]]* Ich denke, dass die [[Kernkraft]] bereits [[überholt]] ist. Es gibt modernere Methoden, wie [[erneuerbare]] [[Energiequellen]]. Und da geht viel [[voran]].
 
 ---
 
@@ -21,7 +22,7 @@ outdated, obsolete
 
 ---
 
-[[Ü/über]]|[[hol]]|[[t]]
+[[über]]|[[hol]]|[[t]]
 [[überholt]]
 
 ---

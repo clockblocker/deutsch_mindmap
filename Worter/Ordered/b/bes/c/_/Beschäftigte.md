@@ -5,6 +5,8 @@
 
 *[[bro-schrieben-c1-t1-002#^6|^]]* Eine große [[Menge]] von [[Beschäftigten]] [[überwindet]] die sprachlichen [[Herausforderung]]en [[mittels]] der Online-Sprachkurse
 
+*[[C1-Lesen-432-Text#^25|^]]* Jedem [[einleuchtet|leuchtet]] ein, dass auf dem [[Bau]] [[Beschäftigte]] Helme und Sicherheitsschuhe tragen müssen
+
 
 ---
 = [[Angestellte]], [[Mitarbeiter]], [[Mitarbeiterin]], [[Erwerbstätige]]

@@ -1,21 +1,8 @@
 🚫 [[leugnen]], [ˈlɔɪ̯gnən] | [[leugnete]], haben [[geleugnet]]
 
 ---
-
-96. Wie kann jemand, der den Holocaust [[leugnet]], [[bestraft]] werden? (100%)
-
-    - [ ] [[Kürzung]] sozialer [[Leistungen]]
-    - [ ] bis zu 100 [[Sozialstunden]]
-    - [ ] gar nicht, [[Holocaustleugnung]] ist [[erlaubt]]
-    - [x] mit [[Freiheitsstrafe]] bis zu fünf Jahren oder mit [[Geldstrafe]]
-
-97. Was ist ein Beispiel für antisemitisches [[verhalten]]? (100%)
-
-
-    - [ ] ein jüdisches [[Fest]] [[besuchen]]
-    - [ ] die israelische [[Regierung]] kritisieren
-    - [x] den Holocaust [[leugnen]]
-    - [ ] gegen Juden Fußball spielen
+Was [[auszeichnet|zeichnet]] Künstlerinnen und Künstler aus? Sie [[leugnen]] die [[Endlichkeit]] des Lebens
+*(They [[deny]] the [[finiteness]] of life)*
 
 ---
 

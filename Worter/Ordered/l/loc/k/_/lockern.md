@@ -1,7 +1,7 @@
 😌 [[lockern]], [ˈlɔkɐn](https://youglish.com/pronounce/lockern/german) → [[lockernde]] → haben/sein [[gelockert]]
 
 ---
-`c` Diese Maßnahme ist keineswegs einer [[gelockerten]] [[Lebenseinstellung]] zu [[verdanken]]
+*[[C1-Lesen-432-Text#^41|^]]* `22 с` Diese Maßnahme ist keineswegs einer [[gelockerten]] [[Lebenseinstellung]] zu [[verdanken]]
 
 ---
 = [[lösen]], [[aufweichen]], [[erleichtern]]

@@ -44,4 +44,4 @@ sie, [[zweifeln]], [[zweifelten]], [[zweifeln]], [[zweifelten]], [[zweifeln]]
 Adjektive: [[zweifelnd]], [[zweifelnder]], [[zweifelndst]]
 
 ---
-[[zweifelnder]], [[zweifelndes]], [[zweifelnde]], [[zweifelnden]], [[zweifelndem]], [[zweifelnderer]], [[zweifelnderes]], [[zweifelndere]], [[zweifelnderen]], [[zweifelnderem]], [[zweifelndster]], [[zweifelndstes]], [[zweifelndste]], [[zweifelndsten]], [[zweifelndstem]], [[sichergehen]]
+[[zweifelnder]], [[zweifelndes]], [[zweifelnde]], [[zweifelnden]], [[zweifelndem]], [[zweifelnderer]], [[zweifelnderes]], [[zweifelndere]], [[zweifelnderen]], [[zweifelnderem]], [[zweifelndster]], [[zweifelndstes]], [[zweifelndste]], [[zweifelndsten]], [[zweifelndstem]], [[sichergehen]], [[Selbstzweifel]]

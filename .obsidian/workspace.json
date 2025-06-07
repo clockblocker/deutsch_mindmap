@@ -4,39 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "b85a4828c677057b",
+        "id": "8f06854e6e0809dd",
         "type": "tabs",
+        "dimension": 14.124293785310735,
         "children": [
           {
-            "id": "59b4ee8f25e702fd",
+            "id": "60d10e56308f9a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-405/C1-Hoehen-T1-405-Text.md",
+                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-405-Text"
+              "title": "C1-Lesen-422-Text"
             }
           },
           {
-            "id": "d3075a9cd6e33042",
+            "id": "06f325b8092a445d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/0-C1-Hoehen-T1-Ubung-List.md",
+                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-C1-Hoehen-T1-Ubung-List"
+              "title": "C1-Lesen-422-Text"
+            }
+          },
+          {
+            "id": "58e287b259c00b6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Unmarked-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Lesen-432-Unmarked-Text"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e15ee4039004156c",
+        "type": "tabs",
+        "dimension": 85.87570621468926,
+        "children": [
+          {
+            "id": "e6932a9f520dcf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Lesen-422-Text"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,11 +125,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -187,53 +225,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3075a9cd6e33042",
+  "active": "e6932a9f520dcf22",
   "lastOpenFiles": [
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/0-C1-Hoehen-T1-Ubung-List.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-409/C1-Hoehen-T1-409-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-408/C1-Hoehen-T1-408-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-405/C1-Hoehen-T1-405-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-407/C1-Hoehen-T1-407-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-406/C1-Hoehen-T1-406-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-404/C1-Hoehen-T1-404-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-402/C1-Hoehen-T1-402-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-403/C1-Hoehen-T1-403-Text.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendstem.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendsten.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendste.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendstes.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendster.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehenderem.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehenderen.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendere.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehenderes.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehenderer.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendem.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehenden.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehende.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendes.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehendst.md",
-    "Worter/Ordered/z/zur/s/zur Seite stehender.md",
+    "Worter/Ordered/t/tro/s/tröstlichstem.md",
+    "Worter/Ordered/t/tro/s/tröstlichsten.md",
+    "Worter/Ordered/t/tro/s/tröstlichste.md",
+    "Worter/Ordered/t/tro/s/tröstlichstes.md",
+    "Worter/Ordered/t/tro/s/tröstlichster.md",
+    "Worter/Ordered/t/tro/s/tröstlicherem.md",
+    "Worter/Ordered/t/tro/s/tröstlicheren.md",
+    "Worter/Ordered/e/ers/c/_/Erscheint.md",
+    "Worter/Ordered/t/tro/s/tröstlichere.md",
+    "Worter/Ordered/e/ers/c/_/erscheinen.md",
+    "Worter/Ordered/t/tro/s/tröstlicheres.md",
+    "Worter/Ordered/t/tro/s/tröstlicherer.md",
+    "Worter/Ordered/t/tro/s/tröstlichem.md",
+    "Worter/Ordered/t/tro/s/tröstlichen.md",
+    "Worter/tröstlich.md",
+    "Worter/Ordered/t/tro/s/tröstliche.md",
+    "Worter/Ordered/t/tro/s/tröstliches.md",
+    "Worter/Ordered/t/tro/s/tröstlichst.md",
+    "Worter/Ordered/t/tro/s/tröstlicher.md",
+    "Worter/Ordered/e/erm/u/ermutigend.md",
+    "Worter/Ordered/a/auf/m/aufmunternd.md",
+    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-4/C1-Lesen-422/C1-Lesen-422-Text.md",
+    "Worter/Ordered/w/wid/e/_/widerspiegelt.md",
+    "Worter/Ordered/w/wid/e/_/widerspiegeln.md",
+    "Worter/Ordered/f/for/t/_/Fortschritt.md",
+    "Worter/Kunstbegeisterte.md",
+    "Worter/Ordered/f/fur/i",
+    "Worter/Ordered/r/rli/c",
+    "Worter/Ordered/r/rli",
+    "Worter/Ordered/k/kra/k",
+    "Worter/Ordered/c/cod/i",
+    "Worter/Ordered/z/zut/i",
+    "Worter/Ordered/s/sal/d",
+    "Anhänge/Pasted image 20250606084333.png",
+    "Anhänge/Pasted image 20250606084249.png",
     "Worter/Ordered/s/sex/y",
     "Worter/Ordered/m/mur/k",
     "Worter/Ordered/p/pfu/s",
     "Anhänge/Pasted image 20250606072126.png",
     "Anhänge/Pasted image 20250606072047.png",
-    "Worter/Ordered/a/aff/a",
-    "Worter/Ordered/a/abk/a",
-    "Worter/Ordered/i/ita/l",
-    "Worter/Ordered/r/rom/i",
     "Anhänge/Pasted image 20250606064714.png",
-    "Worter/Ordered/u/urg/e",
-    "Worter/Ordered/u/urk/r",
-    "Worter/Ordered/s/see/v",
     "Anhänge/Pasted image 20250606055302.png",
     "Anhänge/Pasted image 20250606051822.png",
     "Anhänge/Pasted image 20250606043334.png",
     "Anhänge/Pasted image 20250606032304.png",
-    "Anhänge/Pasted image 20250606032244.png",
-    "Anhänge/Pasted image 20250605095030.png",
-    "Anhänge/Pasted image 20250605093442.png"
+    "Anhänge/Pasted image 20250606032244.png"
   ]
 }

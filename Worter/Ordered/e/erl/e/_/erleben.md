@@ -44,4 +44,4 @@ Partizip I: [[erlebend]], Partizip II: [[erlebt]]
 [[erleben]] - [[er]] = [[Leben]]
 
 [[genießen]], [[Erlebnis]], [[empfinden]], [[erlebbar]]
-, [[Reiseerlebnis]], [[ausleben]]
+, [[Reiseerlebnis]], [[ausleben]], [[durchgehen]]
