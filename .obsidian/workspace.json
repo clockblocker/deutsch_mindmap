@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1-Lesen/Lesen-C1-Teils.md",
+                "file": "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-409/C1-Hoehen-T4-409-Unmarked-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesen-C1-Teils"
+              "title": "C1-Hoehen-T4-409-Unmarked-Text"
             }
           },
           {
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5004348754883
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -251,88 +251,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "2c55959898586a0a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "275553099aed894e",
-        "type": "window",
-        "children": [
-          {
-            "id": "a674debe5677fccd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4ef286d8b07f9eba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "C1-Lesen/C1-Lesen-T2/0-C1-Lesen-T2-Ubung-List.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "0-C1-Lesen-T2-Ubung-List"
-                }
-              },
-              {
-                "id": "5622d1d2427d55e0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "C1-Lesen/Lesen-C1-Teils.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Lesen-C1-Teils"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1277,
-        "y": 21,
-        "width": 889.45849609375,
-        "height": 726.003662109375,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "5622d1d2427d55e0",
+  "active": "264cb33da42a8247",
   "lastOpenFiles": [
-    "C1-Lesen/C1-Lesen-T2/0-C1-Lesen-T2-Ubung-List.md",
-    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-2/C1-Lesen-T2-200/C1-Lesen-T2-200-Text.md",
-    "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-2/C1-Lesen-T2-201/C1-Lesen-T2-201-Text.md",
-    "Worter/Ordered/v/ver/o/_/veröffentlicht.md",
-    "Worter/Ordered/v/ver/o/_/veröffentlichen.md",
-    "C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Nomen-Wachstum-Steigerung.md",
-    "Worter/Ordered/e/erm/u/ermunterndstem.md",
-    "Worter/Ordered/e/erm/u/ermunterndsten.md",
-    "Worter/Ordered/e/erm/u/ermunterndste.md",
-    "Worter/Ordered/e/erm/u/ermunterndstes.md",
-    "Worter/Ordered/e/erm/u/ermunterndster.md",
-    "Worter/Ordered/e/erm/u/ermunternderem.md",
-    "Worter/Ordered/e/erm/u/ermunternderen.md",
-    "Worter/Ordered/e/erm/u/ermunterndere.md",
-    "Worter/Ordered/e/erm/u/ermunternderes.md",
-    "Worter/Ordered/e/erm/u/ermunternderer.md",
-    "Worter/Ordered/e/erm/u/ermunterndem.md",
-    "Worter/Ordered/e/erm/u/ermunternden.md",
-    "Worter/Ordered/e/erm/u/ermunternde.md",
-    "Worter/Ordered/e/erm/u/ermunterndes.md",
-    "Worter/Ordered/e/erm/u/ermunterndst.md",
-    "Worter/Ordered/e/erm/u/ermunternder.md",
-    "Worter/ermuntert.md",
-    "Worter/Ordered/e/erm/u/ermuntertet.md",
-    "Worter/ermuntern.md",
-    "Worter/Ordered/e/erm/u/ermunterten.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-409/C1-Hoehen-T4-409-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-409/C1-Hoehen-T4-409-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-410/C1-Hoehen-T4-410-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-410/C1-Hoehen-T4-410-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-410/C1-Hoehen-T4-410-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-408/C1-Hoehen-T4-408-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-408/C1-Hoehen-T4-408-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-408/C1-Hoehen-T4-408-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-407/C1-Hoehen-T4-407-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-407/C1-Hoehen-T4-407-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-407/C1-Hoehen-T4-407-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-406/C1-Hoehen-T4-406-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-406/C1-Hoehen-T4-406-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-406/C1-Hoehen-T4-406-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-405/C1-Hoehen-T4-405-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-405/C1-Hoehen-T4-405-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-405/C1-Hoehen-T4-405-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-404/C1-Hoehen-T4-404-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-404/C1-Hoehen-T4-404-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-404/C1-Hoehen-T4-404-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-403/C1-Hoehen-T4-403-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-403/C1-Hoehen-T4-403-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-403/C1-Hoehen-T4-403-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-402/C1-Hoehen-T4-402-Unmarked-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-402/C1-Hoehen-T4-402-Text.md",
+    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-402/C1-Hoehen-T4-402-Loesung.md",
     "Worter/Ordered/e/epi/_",
     "Worter/Ordered/m/mol/e",
     "Worter/Ordered/g/gen/f",
