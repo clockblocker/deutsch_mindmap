@@ -3,6 +3,45 @@
 
 ---
 ---
+
+###### 9. Welche Folgen kann [[fehlende]] [[Geborgenheit]] für einen [[Säugling]] haben?
+- [ ] a) Er kann später [[Belastung]]en schwieriger [[handhaben]].  
+- [ ] b) Seine Gene können [[verändert]] werden.  
+- [ ] c) Sein Körper kann zu viele [[Stresshormone]] produzieren.
+
+###### 10. Die [[Entzifferung]] des menschlichen [[Bauplans]] …
+- [ ] a) bewies, dass Gene [[gelenkt]] werden können.  
+- [ ] b) [[enttäuschte]] viele [[Erwartung]]en.  
+- [ ] c) [[erklärte]], [[weshalb]] [[bestimmte]] Menschen [[erkranken]].
+
+###### 11. Das spanische Forschungsteam bewies, dass …
+- [ ] a) man Gene aktivieren und deaktivieren kann.  
+- [ ] b) schon junge Zwillinge enorme [[Abweichungen]] beim epigenetischen Code haben.  
+- [ ] c) sich der epigenetische Code im Laufe des Lebens verändert.
+
+###### 12. Mithilfe der Epigenetik …
+- [ ] a) [[zurückgehen|ging]] die Anzahl von Krebspatienten zurück.  
+- [ ] b) konnte man [[unfruchtbare]] [[Bienen]] wieder [[fruchtbar]] machen.  
+- [ ] c) konnten bestimmte Phänomene [[erklärt]] werden.
+
+###### 13. Demenz …
+- [ ] a) kann man [[entgegenwirken]].  
+- [ ] b) lässt sich auch noch im Alter [[verhindern]].  
+- [ ] c) wird durch frühe [[Umwelteinflüsse]] [[geprägt]].
+
+###### 14. Was fand die Wissenschaft in [[Bezug]] auf [[Traumata]] heraus?
+- [ ] a) Die [[Betroffenen]] haben im Alter [[häufig]] Herzprobleme und Diabetes. 
+- [ ] b) Mütter mit Traumata leiden [[u. a.]] an [[Übergewichtigkeit]].
+- [ ] c) Sie können bis in die übernächste Generation [[weitergegeben]] werden.
+
+###### 15. Was [[behaupten]] die Gegnerinnen und Gegner der epigenetischen [[Vererbungstheorie]]?
+- [ ] a) Die Organisation und [[Deutung]] der Untersuchungen seien fraglich.  
+- [ ] b) Die Seriosität von Experimenten mit Tieren müsse [[hinterfragt]] werden.  
+- [ ] c) Die [[Untersuchung]]en würden sich nur auf den [[männlichen]] [[Nachwuch]]s [[beziehen]].
+
+
+
+
 #### Roboter als Unterwasser-Müllsammler  
 
 *[[C1-Lesen-T1-000-Text#^1|^]]* Die Ozeane sind voller Plastikmüll. Um [[dagegen]] anzugehen, entwickeln Wissenschaftlerinnen und Wissenschaftler zurzeit ein Robotersystem, das Kunststoffabfälle unter Wasser orten und einsammeln kann. ^1
