@@ -36,3 +36,4 @@ Einzigartige mögliche Formen:
 [[getrennter]], [[getrenntere]], [[getrennteres]], [[getrennterem]], [[getrennterer]], [[getrennteren]]
 [[beide]], [[trennen]], [[übereinander]], [[vergleichen]], [[aneinander]], [[gemeinsam]], [[auseinander]], [[Deutschland]]
 , [[einig]], [[vernetzt]], [[separat]]
+, [[voneinander]]

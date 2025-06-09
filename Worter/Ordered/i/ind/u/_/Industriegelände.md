@@ -1,2 +1,2 @@
 
-, [[Werksgelände]]
+, [[Werksgelände]], [[Fabrikgelände]]

@@ -1,2 +1,2 @@
 , [[geschwind]], [[zügig]]
-, [[tollpatschig]], [[flott]]
+, [[tollpatschig]], [[flott]], [[rapid]]

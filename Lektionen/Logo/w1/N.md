@@ -1,2 +1,2 @@
 кончик языка к верхним бугорочкам![[Pasted image 20240915203840.png]]
-, [[altern]], [[abwandern]], [[fördern]], [[speichern]], [[ansteuern]], [[anzweifeln]], [[unansehnlich]], [[begegnen]]
+, [[altern]], [[abwandern]], [[fördern]], [[speichern]], [[ansteuern]], [[anzweifeln]], [[unansehnlich]], [[begegnen]], [[befördern]]

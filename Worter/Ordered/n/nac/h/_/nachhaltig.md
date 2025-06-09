@@ -5,6 +5,8 @@
 ---
 *[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus
 
+*[[C1-Hoehen-T3-401-Text#^11|^]]* Je nach der [[Bevölkerungsdichte]] einer Stadt müssen sich daher [[nachhaltig]]e Transportkonzepte [[voneinander]] [[unterscheiden]]
+
 *[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne [[Stadtplanung]] muss per Gesetz durch [[nachhaltig]]e Programme [[gestützt]] werden
 
 *[[C1-Hoehen-T2-101-Text#^2|^]]* Herr Wallmannsberger, ist der [[Einzelne]] denn tatsächlich in der [[Lage]], [[nachhaltig]] etwas gegen die Klimakatastrophe zu bewirken oder wären hier nicht vielmehr die [[Großkonzern]]e in die Pflicht zu nehmen?

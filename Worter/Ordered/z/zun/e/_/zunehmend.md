@@ -4,6 +4,8 @@
 ---
 [[2 Unter Druck nach oben#^19|^]] Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]
 
+*[[C1-Hoehen-T3-401-Text#^8|^]]* Durch die [[zunehmend]]e [[Verstädterung]], den [[Zuzug]] in die [[Großstädte]], fällt nämlich die Fertilitätsrate der Städte [[rapid]]e.
+
 *[[C1-Hoehen-T2-301-Text#^27|^]]* Einen praktischen Grund sehe ich auf jeden Fall. Die [[jüngsten]] [[Bildungsergebnis]]se in Deutschland haben dazu geführt, dass immer jüngere Schulabgänger einer [[zunehmend]] komplexen [[Wirklichkeit]] [[gegenüberstehen]]
 
 In den Medien zeigt sich ein [[zunehmend]]es [[Desinteresse]] der Deutschen an Politik

@@ -1,6 +1,12 @@
 🛌 [[liegen]], [ˈliːɡn̩](https://youglish.com/pronounce/liegen/german) → [[lag]] → [[gelegen]] | 🏠 die [[Lage]]
 
 ---
+*[[C1-Hoehen-T3-401-Text#^4|^]]* Es kommt schnell zu [[Überschwemmung]]en, da die Stadt am [[Fluss]] Chao Phraya [[liegt]], der große [[Wassermassen]] [[befördert]] und dann, wie alle großen Ströme, auch über seine [[Ufer]] [[treten]] kann
+
+*[[C1-Hoehen-T3-401-Text#^6|^]]* Er kann fast 4 Millionen Liter Wasser [[speichern]], da unter einem höher [[liegend]]en Teil dieser [[Grünanlage]] Wassertanks [[gebaut]] wurden
+*(It can [[store]] almost 4 million liters of water, as water tanks were [[built]] under a higher [[lying]] part of this [[green space]])*
+
+
 
 *[[C1-Hoehen-T1-401-Text#^4|^]]* Die Wanderrouten [[hingegen]] [[liegen]] wohl [[eher]] unter dem deklarierten [[Anforderungsprofil]]
 

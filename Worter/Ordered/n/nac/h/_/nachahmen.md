@@ -1,1 +1,1 @@
-, [[erfinden]], [[ausdenken]]
+, [[erfinden]], [[ausdenken]], [[Nachahmung]]

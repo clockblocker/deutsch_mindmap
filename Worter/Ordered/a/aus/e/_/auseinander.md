@@ -43,4 +43,4 @@ Typische Verbindungen:
 
 [[übereinander]]
 , [[entzwei]], [[s1 e1]], [[auseinanderdriften]]
-, [[Auseinandersetzung]]
+, [[Auseinandersetzung]], [[voneinander]]

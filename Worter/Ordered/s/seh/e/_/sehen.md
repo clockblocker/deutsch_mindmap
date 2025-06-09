@@ -43,4 +43,4 @@ Partizip I: [[sehend]], Partizip II: [[gesehen]]
 
 [[wiedersehen]], [[ansehen]], [[aussehen]]
 , [[gucken]], [[sehen lassen]], [[umsehen]], [[anderessehen]], [[aufsehen]], [[anblicken]], [[s1 e1]], [[Ansichtskarte]], [[Sehenswürdigkeit]], [[sichtbar]], [[offensichtlich]], [[hinschauen]], [[absehen]], [[zusehen]]
-, [[sehenswert]], [[Sichtbarkeit]], [[begegnen]]
+, [[sehenswert]], [[Sichtbarkeit]], [[begegnen]], [[voraussehen]]

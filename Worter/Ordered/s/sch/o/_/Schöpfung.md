@@ -1,1 +1,1 @@
-, [[Gründung]], [[Werk]], [[schaffen]], [[erschaffen]], [[schöpferisch]]
+, [[Gründung]], [[Werk]], [[schaffen]], [[erschaffen]], [[schöpferisch]], [[Nachahmung]]

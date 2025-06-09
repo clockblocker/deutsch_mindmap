@@ -31,4 +31,4 @@ G: des [[Gewässers]], der [[Gewässer]]
 D: dem [[Gewässer]], den [[Gewässern]]
 
 
-#Neuter , [[tief]]
+#Neuter , [[tief]], [[Wassermasse]]

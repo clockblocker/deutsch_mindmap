@@ -1,1 +1,1 @@
-, [[Bevölkerung]], [[Geburtenrate]], [[Bevölkerungsstruktur]]
+, [[Bevölkerung]], [[Geburtenrate]], [[Bevölkerungsstruktur]], [[Verstädterung]]

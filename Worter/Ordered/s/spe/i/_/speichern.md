@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-411-Text#^8|^]]* *[[C1-Lesen-411-Text#^8|^]]* Im Tiefschlaf wird Wissen reaktiviert, verarbeitet und [[sodass]] besser [[gespeichert]]
 
+*[[C1-Hoehen-T3-401-Text#^6|^]]* Er kann fast 4 Millionen Liter Wasser [[speichern]], da unter einem höher [[liegend]]en Teil dieser [[Grünanlage]] Wassertanks [[gebaut]] wurden
+
 ---
 = [[abspeichern]], [[sichern]], [[aufbewahren]]
 ≈ [[archivieren]], [[erhalten]], [[aufzeichnen]], [[verschicken]], [[behalten]], [[enthalten]], [[vergessen]], [[lagern]], [[anhäufen]], [[festhalten]], [[auswendig]]

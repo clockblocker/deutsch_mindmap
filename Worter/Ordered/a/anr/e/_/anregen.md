@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T2-102-Text#^9|^]]* [[Vorweg]]: Sport sollte so intensiv sein, dass das Muskelwachstum [[angeregt]] wird.
 
+*[[C1-Hoehen-T3-401-Text#^5|^]]* Ein Beispiel, das zur [[Nachahmung]] [[anregt]], ist ein auf einem alten [[Fabrikgelände]] [[angelegt]]er Park
+
 ###### Beim kurzen Intensivtraining ...
 c) wird der [[Stoffwechsel]] [[angeregt]].
 

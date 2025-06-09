@@ -54,4 +54,4 @@ Wichtige Redewendungen:
 - "jemandem etwas bei|bringen" (to teach someone something)
 - "in Verlegenheit bringen" (to embarrass)
 - "zum Lachen bringen" (to make someone laugh), [[herholen]], [[holen]], [[schaffen]], [[aufbringen]], [[s1 e1]], [[einbringen]], [[hervorbringen]], [[einschleppen]], [[anbringen]], [[voranbringen]], [[erbringen]], [[näherbringen]]
-, [[unangebracht]]
+, [[unangebracht]], [[befördern]]

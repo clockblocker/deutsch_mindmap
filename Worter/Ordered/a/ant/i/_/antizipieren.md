@@ -1,1 +1,1 @@
-[[Überraschen]], [[erwarten]], [[vorausahnen]]
+[[Überraschen]], [[erwarten]], [[vorausahnen]], [[voraussehen]]

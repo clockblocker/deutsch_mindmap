@@ -23,4 +23,4 @@ slow
 Adjektive: [[langsam]], [[langsamer]], [[langsamsten]]
 
 ---
-[[langsamer]], [[langsames]], [[langsame]], [[langsamen]], [[langsamem]], [[langsamerer]], [[langsameres]], [[langsamere]], [[langsameren]], [[langsamerem]], [[langsamstener]], [[langsamstenes]], [[langsamstene]], [[langsamstenen]], [[langsamstenem]], [[zeitsparend]], [[vorschnell]], [[langwierig]], [[schlagartig]]
+[[langsamer]], [[langsames]], [[langsame]], [[langsamen]], [[langsamem]], [[langsamerer]], [[langsameres]], [[langsamere]], [[langsameren]], [[langsamerem]], [[langsamstener]], [[langsamstenes]], [[langsamstene]], [[langsamstenen]], [[langsamstenem]], [[zeitsparend]], [[vorschnell]], [[langwierig]], [[schlagartig]], [[rapid]]

@@ -25,4 +25,4 @@ leisurely, slow
 Adjektive: [[gemächlich]], [[gemächlicher]], [[gemächlichst]]
 
 ---
-[[gemächlicher]], [[gemächliches]], [[gemächliche]], [[gemächlichen]], [[gemächlichem]], [[gemächlicherer]], [[gemächlicheres]], [[gemächlichere]], [[gemächlicheren]], [[gemächlicherem]], [[gemächlichster]], [[gemächlichstes]], [[gemächlichste]], [[gemächlichsten]], [[gemächlichstem]]
+[[gemächlicher]], [[gemächliches]], [[gemächliche]], [[gemächlichen]], [[gemächlichem]], [[gemächlicherer]], [[gemächlicheres]], [[gemächlichere]], [[gemächlicheren]], [[gemächlicherem]], [[gemächlichster]], [[gemächlichstes]], [[gemächlichste]], [[gemächlichsten]], [[gemächlichstem]], [[rapid]]

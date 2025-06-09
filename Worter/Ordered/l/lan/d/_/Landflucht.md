@@ -29,4 +29,4 @@ A: die [[Landflucht]], -
 G: der [[Landflucht]], -
 D: der [[Landflucht]], -
 
-#Feminin , [[C1-Hoehen-T3-401-Text]]
+#Feminin , [[C1-Hoehen-T3-401-Text]], [[Verstädterung]]

@@ -1,1 +1,1 @@
-[[einander]], [[konträr]], [[Zusammenspiel]]
+[[einander]], [[konträr]], [[Zusammenspiel]], [[voneinander]]

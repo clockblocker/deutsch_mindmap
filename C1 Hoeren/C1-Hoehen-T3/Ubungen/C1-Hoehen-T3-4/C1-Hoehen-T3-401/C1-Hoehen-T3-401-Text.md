@@ -126,53 +126,80 @@
 ---
 
 
-**Moderator:**  
-Liebe Zuhörerinnen und Zuhörer, ich grüße Sie und unsere heutigen Gäste Frau Zimmermann, Landschaftsarchitektin, und Herrn Floto, Städteplaner. Unsere heutige Sendung hat Megacitys zum Thema.
+***Moderator:***  
+*Liebe Zuhörerinnen und Zuhörer, ich grüße Sie und unsere heutigen Gäste Frau Zimmermann, Landschaftsarchitektin, und Herrn Floto, Städteplaner. Unsere heutige Sendung hat Megacitys zum Thema.*
+
+***Frau Zimmermann:***  
+*Guten Tag!*
+
+***Herr Floto:***  
+*Das wünsche ich euch allen!*
+
+***Moderator:***  
+*Frau Zimmermann, einer Ihrer zahlreichen Forschungsschwerpunkte war Bangkok …*
+
+***Frau Zimmermann:***  
+*Genau. Bangkok, eine schnell wachsende, riesige Metropole, die ein landschaftsspezifisches Problem hat:* 
+
+*[[C1-Hoehen-T3-401-Text#^4|^]]* Es kommt schnell zu [[Überschwemmung]]en, da die Stadt am [[Fluss]] Chao Phraya [[liegt]], der große [[Wassermassen]] [[befördert]] und dann, wie alle großen Ströme, auch über seine [[Ufer]] [[treten]] kann. ^4
+
+
+*Durch das Zubetonieren Bangkoks mit Straßen und Gebäuden einerseits und den schlammigen Untergrund andererseits multipliziert sich das Problem: Deshalb werden dringend Grünflächen benötigt, die Wasser aufsaugen können.*
+
+***Moderator:***  
+*Gibt es dafür schon Lösungen?*
 
 **Frau Zimmermann:**  
-Guten Tag!
+*[[C1-Hoehen-T3-401-Text#^5|^]]* Ein Beispiel, das zur [[Nachahmung]] [[anregt]], ist ein auf einem alten [[Fabrikgelände]] [[angelegt]]er Park. ^5
 
-**Herr Floto:**  
-Das wünsche ich euch allen!
+*[[C1-Hoehen-T3-401-Text#^6|^]]* Er kann fast 4 Millionen Liter Wasser [[speichern]], da unter einem höher [[liegend]]en Teil dieser [[Grünanlage]] Wassertanks [[gebaut]] wurden. ^6
 
-**Moderator:**  
-Frau Zimmermann, einer Ihrer zahlreichen Forschungsschwerpunkte war Bangkok …
 
-**Frau Zimmermann:**  
-Genau. Bangkok, eine schnell wachsende, riesige Metropole, die ein landschaftsspezifisches Problem hat: Es kommt schnell zu Überschwemmungen, da die Stadt am Fluss Chao Phraya liegt, der große Wassermassen befördert und dann, wie alle großen Ströme, auch über seine Ufer treten kann. Durch das Zubetonieren Bangkoks mit Straßen und Gebäuden einerseits und den schlammigen Untergrund andererseits multipliziert sich das Problem: Deshalb werden dringend Grünflächen benötigt, die Wasser aufsaugen können.
+*Die Tanks liefern Wasser während der Trockenperiode. Ein niedriger gelegener Teil des Parks besteht aus einem See, der ebenfalls aus den Wassertanks gespeist wird.*
 
-**Moderator:**  
-Gibt es dafür schon Lösungen?
+***Herr Floto:***  
+*Ein geniales Konzept und mit einem hohen Freizeitwert für die Stadtbevölkerung! Lassen Sie mich noch etwas zur Stadtplanung sagen. Zeichen einer zukunftsweisenden Stadtplanung ist für mich, schon bestehende städtische Bauwerke umzuwandeln und zu begrünen. Als Beispiel dafür möchte ich eine Rooftop-Farm anführen. In Bangkok wird solche eine Farm auf einem Gebäude gedacht mit großem Erfolg betrieben. Bangkok hat außerdem eine Fußgängerbrücke, die inzwischen zu einer Art grünem Tunnel wurde, einer „Garden-Bridge“ wie man sagt.*
 
-**Frau Zimmermann:**  
-Ein Beispiel, das zur Nachahmung anregt, ist ein auf einem alten Fabrikgelände angelegter Park. Er kann fast 4 Millionen Liter Wasser speichern, da unter einem höher liegenden Teil dieser Grünanlage Wassertanks gebaut wurden. Die Tanks liefern Wasser während der Trockenperiode. Ein niedriger gelegener Teil des Parks besteht aus einem See, der ebenfalls aus den Wassertanks gespeist wird.
+***Moderator:***  
+*Und das erinnert mich an eine andere erfolgreiche Begrünung, nämlich den High Line Park in New York. Ein gutes Konzept für Megacitys, alte Gleisanlagen nicht abzureißen, sondern für die Menschen neu zu gestalten.*
 
-**Herr Floto:**  
-Ein geniales Konzept und mit einem hohen Freizeitwert für die Stadtbevölkerung! Lassen Sie mich noch etwas zur Stadtplanung sagen. Zeichen einer zukunftsweisenden Stadtplanung ist für mich, schon bestehende städtische Bauwerke umzuwandeln und zu begrünen. Als Beispiel dafür möchte ich eine Rooftop-Farm anführen. In Bangkok wird solche eine Farm auf einem Gebäude gedacht mit großem Erfolg betrieben. Bangkok hat außerdem eine Fußgängerbrücke, die inzwischen zu einer Art grünem Tunnel wurde, einer „Garden-Bridge“ wie man sagt.
+***Herr Floto:***  
+*Ja, eine stadtplanerische Glanzleistung wie die stillgelegte Hochbahntrasse, die durch ein weniger attraktives Stadtgebiet Manhattans führt, nicht doch abgerissen, sondern umgebaut und begrünt wurde. Man kann da auf einer gewissen Höhe wunderbar flanieren.*
 
-**Moderator:**  
-Und das erinnert mich an eine andere erfolgreiche Begrünung, nämlich den High Line Park in New York. Ein gutes Konzept für Megacitys, alte Gleisanlagen nicht abzureißen, sondern für die Menschen neu zu gestalten.
+***Frau Zimmermann:***  
+*Ja, in der Tat.* 
+*[[C1-Hoehen-T3-401-Text#^7|^]]* Der Park wurde von den New Yorkern sofort angenommen, hat einen Förderverein und konnte sich auch zu einem Touristenmagnet entwickeln. ^7
 
-**Herr Floto:**  
-Ja, eine stadtplanerische Glanzleistung wie die stillgelegte Hochbahntrasse, die durch ein weniger attraktives Stadtgebiet Manhattans führt, nicht doch abgerissen, sondern umgebaut und begrünt wurde. Man kann da auf einer gewissen Höhe wunderbar flanieren.
+*Neben dem Spazieren wird er für kulturelle Events wie Konzerte und Ausstellungen genutzt. Eine gelungene Kombination von Stadt, Natur und Kultur, die auch andere Megacitys gut bekommen würde.*
 
-**Frau Zimmermann:**  
-Ja, in der Tat. Der Park wurde von den New Yorkern sofort angenommen, hat einen Förderverein und konnte sich auch zu einem Touristenmagnet entwickeln. Neben dem Spazieren wird er für kulturelle Events wie Konzerte und Ausstellungen genutzt. Eine gelungene Kombination von Stadt, Natur und Kultur, die auch andere Megacitys gut bekommen würde.
+***Moderator:***  
+*Werfen wir jetzt noch einen Blick auf die Megacity-Bewohner. Was können Sie da aus Ihrer Forschung sagen?*
 
-**Moderator:**  
-Werfen wir jetzt noch einen Blick auf die Megacity-Bewohner. Was können Sie da aus Ihrer Forschung sagen?
+***Frau Zimmermann:***  
+*Da hat die Statistik aus meiner Meinung nach ein sehr verblüffendes Ergebnis beschert:* 
+*[[C1-Hoehen-T3-401-Text#^8|^]]* Durch die [[zunehmend]]e [[Verstädterung]], den [[Zuzug]] in die [[Großstädte]], fällt nämlich die Fertilitätsrate der Städte [[rapid]]e. ^8
 
-**Frau Zimmermann:**  
-Da hat die Statistik aus meiner Meinung nach ein sehr verblüffendes Ergebnis beschert: Durch die zunehmende Verstädterung, den Zuzug in die Großstädte, fällt nämlich die Fertilitätsrate der Städte rapide. Laut aktuellen Untersuchungen haben beispielsweise Familien im Iran nach 10 Jahren durchschnittlich nicht mehr, sondern nur noch drei Kinder. Ursprünglich lag der Städtewert auf der doppelten Zahl. Die familiäre Lage der Städte und ist ein erheblicher Zugang zu Bildung.
+*Laut aktuellen Untersuchungen haben beispielsweise Familien im Iran nach 10 Jahren durchschnittlich nicht mehr, sondern nur noch drei Kinder. Ursprünglich lag der Städtewert auf der doppelten Zahl. Die familiäre Lage der Städte und ist ein erheblicher Zugang zu Bildung.*
 
-**Herr Floto:**  
-Ja, das verwundert: Bis 2007 waren weltweit mehr Menschen in einem Dorf beheimatet, seitdem überwiegt das Gros der Weltbevölkerung in Städten. Dieser Wandel passiert in Afrika und Asien besonders schnell. Prognosen sehen bis 2050 ein urbanes Wachstum um 90 Prozent auf diesen Kontinenten voraus. Mit der steigenden Bevölkerungsdichte verändert sich die Wohnqualität des Landes, die Lebensqualität wird nicht automatisch verbessert sich, denn dem Wachstum einer Stadt liegt ihr wirtschaftlicher Erfolg zugrunde.
+***Herr Floto:***  
+*Ja, das verwundert: Bis 2007 waren weltweit mehr Menschen in einem Dorf beheimatet, seitdem überwiegt das Gros der Weltbevölkerung in Städten.* 
+*[[C1-Hoehen-T3-401-Text#^9|^]]* Dieser [[Wandel]] passiert in Afrika und Asien besonders schnell. ^9
 
-**Moderator:**  
-Es wird oft die Meinung geäußert, dass man diesen Erfolg auch dafür nutzen sollte, die Transportemissionen der Megacitys zu senken. Was denken Sie dazu?
+*[[C1-Hoehen-T3-401-Text#^10|^]]* Prognosen [[voraussehen|sehen]] bis 2050 ein urbanes Wachstum um 90 Prozent auf diesen Kontinenten voraus. ^10
 
-**Herr Floto:**  
-Ja, ein wichtiges Thema. Um hier neue Konzepte entwickeln zu können, müssen wir einen Blick auf die Suburbanisierung von Städten werfen. Amerikanische Megacitys haben oft eine riesige Fläche mit Vororten, von denen die Menschen mit dem privaten Pkw ins Zentrum pendeln. Andere Metropolen, zum Beispiel Barcelona, erstrecken sich über ein wesentlich begrenztes Gebiet. Dort ist man weniger auf eigene Transportmittel angewiesen, da der öffentliche Nahverkehr gut ausgebaut ist. Je nach der Bevölkerungsdichte einer Stadt müssen sich daher nachhaltige Transportkonzepte voneinander unterscheiden. Gefragt sind intelligente Verkehrs- und Logistikkonzepte für Metropolen, die sogenannte Smart-Mobility. Den Menschen bietet man digital gestützte Mobilität-on-Demand an, also je nach Bedarf bequem transportiert zu werden. So könnten private Fahrzeuge eingespart und der Schadstoffausstoß gesenkt werden.
+*Mit der steigenden Bevölkerungsdichte verändert sich die Wohnqualität des Landes, die Lebensqualität wird nicht automatisch verbessert sich, denn dem Wachstum einer Stadt liegt ihr wirtschaftlicher Erfolg zugrunde.*
 
-**Moderator:**  
-Das klingt ja recht vielversprechend. Leider ist nun unsere Sendezeit vorbei. Ich bedanke mich bei meinen Gästen und auch bei Ihnen, liebe Zuhörerinnen und Zuhörer. Bis zum nächsten Mal.
+***Moderator:***  
+*Es wird oft die Meinung geäußert, dass man diesen Erfolg auch dafür nutzen sollte, die Transportemissionen der Megacitys zu senken. Was denken Sie dazu?*
+
+***Herr Floto:***  
+*Ja, ein wichtiges Thema. Um hier neue Konzepte entwickeln zu können, müssen wir einen Blick auf die Suburbanisierung von Städten werfen. Amerikanische Megacitys haben oft eine riesige Fläche mit Vororten, von denen die Menschen mit dem privaten Pkw ins Zentrum pendeln. Andere Metropolen, zum Beispiel Barcelona, erstrecken sich über ein wesentlich begrenztes Gebiet. Dort ist man weniger auf eigene Transportmittel angewiesen, da der öffentliche Nahverkehr gut ausgebaut ist.* 
+*[[C1-Hoehen-T3-401-Text#^11|^]]* Je nach der [[Bevölkerungsdichte]] einer Stadt müssen sich daher [[nachhaltig]]e Transportkonzepte [[voneinander]] [[unterscheiden]]. ^11
+
+*Gefragt sind intelligente Verkehrs- und Logistikkonzepte für Metropolen, die sogenannte Smart-Mobility.* 
+*[[C1-Hoehen-T3-401-Text#^12|^]]* Den Menschen bietet man digital gestützte Mobilität-on-Demand an, also je nach Bedarf bequem transportiert zu werden. ^12
+
+*So könnten private Fahrzeuge eingespart und der Schadstoffausstoß gesenkt werden.*
+
+***Moderator:***  
+*Das klingt ja recht vielversprechend. Leider ist nun unsere Sendezeit vorbei. Ich bedanke mich bei meinen Gästen und auch bei Ihnen, liebe Zuhörerinnen und Zuhörer. Bis zum nächsten Mal.*

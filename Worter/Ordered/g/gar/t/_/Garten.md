@@ -1,4 +1,4 @@
 --> [[⛪ Ingredient-Plazt]] <--
 
 der [[Garten]] / die [[Gärten]] | #Substantiv #Maskulin  | garden
-, [[Schrebergartenbewegung]], [[Kleingärtner]]
+, [[Schrebergartenbewegung]], [[Kleingärtner]], [[Grünanlage]]

@@ -31,4 +31,4 @@ A: die [[Stadt]], die [[Städte]]
 G: der [[Stadt]], der [[Städte]]
 D: der [[Stadt]], den [[Städten]]
 
-#Feminin , [[Bingen]], [[Ballungszentrum]], [[Durchschnittsgemeinde]]
+#Feminin , [[Bingen]], [[Ballungszentrum]], [[Durchschnittsgemeinde]], [[Verstädterung]]

@@ -32,4 +32,4 @@ G: des [[Geländes]], der [[Gelände]]
 D: dem [[Gelände]], den [[Geländen]]
 
 
-#Neuter , [[verweigern]]
+#Neuter , [[verweigern]], [[Fabrikgelände]]

@@ -26,4 +26,4 @@ fast, brisk
 Adjektive: [[flott]], [[flotter]], [[flottest]]
 
 ---
-[[flotter]], [[flottes]], [[flotte]], [[flotten]], [[flottem]], [[flotterer]], [[flotteres]], [[flottere]], [[flotteren]], [[flotterem]], [[flottester]], [[flottestes]], [[flotteste]], [[flottesten]], [[flottestem]]
+[[flotter]], [[flottes]], [[flotte]], [[flotten]], [[flottem]], [[flotterer]], [[flotteres]], [[flottere]], [[flotteren]], [[flotterem]], [[flottester]], [[flottestes]], [[flotteste]], [[flottesten]], [[flottestem]], [[rapid]]

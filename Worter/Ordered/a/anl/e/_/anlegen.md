@@ -4,6 +4,7 @@
 
 ---
 ---
+*[[C1-Hoehen-T3-401-Text#^5|^]]* Ein Beispiel, das zur [[Nachahmung]] [[anregt]], ist ein auf einem alten [[Fabrikgelände]] [[angelegt]]er Park
 
 → [[anlegen]] `in` `jM` = *(invest in X)*
 *Lauras Traum war es schon immer, ein Haus mit Garten zu haben.* 

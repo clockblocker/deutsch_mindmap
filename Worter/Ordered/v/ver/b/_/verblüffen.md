@@ -1,1 +1,1 @@
-[[Überraschen]], [[wundern]], [[erstaunen]], [[beeindrucken]], [[vorausahnen]]
+[[Überraschen]], [[wundern]], [[erstaunen]], [[beeindrucken]], [[vorausahnen]], [[voraussehen]]

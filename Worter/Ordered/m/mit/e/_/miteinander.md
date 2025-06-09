@@ -5,4 +5,4 @@ ANNA: Nic, Sam, ihr habt bestimmt viel Spaß [[mit]], [[ein]], [[andere|
 [[zusammen]], [[andere]], [[einander]], [[aneinander]], [[gegenseitig]]
 
 
-#Neuter 
+#Neuter , [[voneinander]]

@@ -3,6 +3,7 @@
 ---
 *[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte.
 
+*[[C1-Hoehen-T3-401-Text#^8|^]]* Durch die [[zunehmend]]e [[Verstädterung]], den [[Zuzug]] in die [[Großstädte]], fällt nämlich die Fertilitätsrate der Städte [[rapid]]e.
 
 
 

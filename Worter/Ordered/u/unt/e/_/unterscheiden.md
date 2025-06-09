@@ -3,6 +3,8 @@
 ---
 Er kann links und rechts nicht [[unterscheiden]]
 
+*[[C1-Hoehen-T3-401-Text#^11|^]]* Je nach der [[Bevölkerungsdichte]] einer Stadt müssen sich daher [[nachhaltig]]e Transportkonzepte [[voneinander]] [[unterscheiden]]
+
 *[[C1-Lesen-432-Text#^4|^]]* Dabei `lassen` sich [[ungeschriebene]] Regeln `von` explizit schriftlich [[festgelegten]] [[unterscheiden]]
 *(Here, [[unwritten]] rules can be [[distinguished]] from explicitly written ones.)*
 

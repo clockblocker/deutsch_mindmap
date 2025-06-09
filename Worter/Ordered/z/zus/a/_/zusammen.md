@@ -31,3 +31,4 @@ together
 [[zusammen]]
 
 , [[gegenseitig]], [[separat]], [[Zusammenbau]], [[gemeinschaftlich]], [[zusammensetzen]], [[Zusammenspiel]], [[Zusammenhalt]], [[reihenweise]]
+, [[voneinander]]

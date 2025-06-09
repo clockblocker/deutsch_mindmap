@@ -31,4 +31,4 @@ P: [[zügigen]], [[zügigeren]], [[zügigsten]]
 ---
 
 [[Zug]], [[züglich]], [[Zügigkeit]], [[beschleunigen]], [[rasch]], [[Schnell]], [[zeitsparend]]
-, [[freizügig]]
+, [[freizügig]], [[rapid]]

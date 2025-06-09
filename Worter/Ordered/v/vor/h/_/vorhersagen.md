@@ -38,3 +38,4 @@ Zu+infinitive: [[vorherzusagen]]
 ---
 
 [[Vorhersage]], [[Vorhersagbarkeit]], [[Vorhersagewert]], [[Wettervorhersage]], [[Zukunftsvorhersage]], [[vorausahnen]]
+, [[voraussehen]]

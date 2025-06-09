@@ -1,1 +1,1 @@
-, [[vorhersagen]], [[vorausahnen]]
+, [[vorhersagen]], [[vorausahnen]], [[voraussehen]]

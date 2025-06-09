@@ -1,3 +1,4 @@
+
 👨‍👩‍👧‍👦 🔴 die [[Durchschnittsbevölkerung]], [ˈdʊɐ̯çʃnɪt͡sbəˌfœlkəʁʊŋ](https://youglish.com/pronounce/Durchschnittsbevölkerung/german)
 
 ---

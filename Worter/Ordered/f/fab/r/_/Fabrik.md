@@ -3,4 +3,4 @@
 🔴 die [[Fabrik]] 🏭
 
 #Feminin 
-, [[Industrieanlage]]
+, [[Industrieanlage]], [[Fabrikgelände]]
