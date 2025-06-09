@@ -62,5 +62,10 @@ big, large
 ---
 
 Tags: 
-#Adjective [[Groß]], [[großartig]], [[gering]], [[Großschreibung]], [[speziell]]
+#Adjective 
+
+[[Groß]], [[großartig]], [[gering]], [[Großschreibung]], [[speziell]]
 , [[viel]], [[Großleinwand]], [[klein]], [[Großtat]], [[umfangreich]], [[Großraumbüro]], [[Plakatgröße]], [[beträchtlich]], [[Großteil]], [[Großstadt]], [[niedrig]], [[größtmöglich]], [[Großkonzern]], [[weitreichend]], [[weit]], [[Großveranstaltung]]
+, [[dick]], [[schmale]], [[gewaltigen]], [[gewaltig]], [[fett]], [[bullig]], [[stark]], [[Berg]], [[erheblich]], [[drastisch]]
+
+

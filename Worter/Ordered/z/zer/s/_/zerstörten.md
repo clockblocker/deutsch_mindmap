@@ -3,6 +3,8 @@
 ---
 *[[Atom#^6|^]]* Nun soll er in der Mitte [[durchtrennt]] werden. *Und [[zerstört]] werden*, so die Aktivisten
 
+*[[C1-Hoehen-T3-402-Text#^14|^]]* 8.500 Tonnen Schrott [[darstellen|stellen]] eine [[beachtliche]] Gefahr im Weltraum dar, weil dieser mit einer Geschwindigkeit von [[zehntausend]] Kilometern pro Stunde durch das All [[rast]] und so auch kleinste [[Teilchen]] zu [[zerstörerisch]]en [[Geschossen]] [[mutieren]] können
+
 Dr. Alexander [[starb]] [[fast]] daran, dass sein Gehirn langsam [[zerstört]] wurde.
 *(Dr. Alexander [[died]] [[almost]] because his brain was slowly [[destroyed]])*
 

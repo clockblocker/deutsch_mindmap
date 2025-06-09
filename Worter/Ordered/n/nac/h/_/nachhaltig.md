@@ -5,6 +5,8 @@
 ---
 *[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus
 
+*[[C1-Hoehen-T3-402-Text#^18|^]]* Private Raumfahrtunternehmen wie SpaceX und Blue Origin [[tüfteln]] an [[nachhaltig]]en Innovationen für ihre Raketen
+
 *[[C1-Hoehen-T3-401-Text#^11|^]]* Je nach der [[Bevölkerungsdichte]] einer Stadt müssen sich daher [[nachhaltig]]e Transportkonzepte [[voneinander]] [[unterscheiden]]
 
 *[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne [[Stadtplanung]] muss per Gesetz durch [[nachhaltig]]e Programme [[gestützt]] werden
@@ -36,4 +38,4 @@ sustainable
 Adjektive: [[nachhaltig]], [[nachhaltiger]], [[nachhaltigst]]
 
 ---
-[[nachhaltiger]], [[nachhaltiges]], [[nachhaltige]], [[nachhaltigen]], [[nachhaltigem]], [[nachhaltigerer]], [[nachhaltigeres]], [[nachhaltigere]], [[nachhaltigeren]], [[nachhaltigerem]], [[nachhaltigster]], [[nachhaltigstes]], [[nachhaltigste]], [[nachhaltigsten]], [[nachhaltigstem]], [[erneuerbar]], [[recycelbar]], [[klimafreundlich]], [[C1-Hoehen-T3-401-Text]]
+[[nachhaltiger]], [[nachhaltiges]], [[nachhaltige]], [[nachhaltigen]], [[nachhaltigem]], [[nachhaltigerer]], [[nachhaltigeres]], [[nachhaltigere]], [[nachhaltigeren]], [[nachhaltigerem]], [[nachhaltigster]], [[nachhaltigstes]], [[nachhaltigste]], [[nachhaltigsten]], [[nachhaltigstem]], [[erneuerbar]], [[recycelbar]], [[klimafreundlich]], [[C1-Hoehen-T3-401-Text]], [[umweltschonend]]

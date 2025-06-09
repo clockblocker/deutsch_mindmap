@@ -6,6 +6,8 @@
 *[[C1-Lesen-T2-200-Text#^11|^]]* Die [[Auseinandersetzung]] über eine gendergerechte Sprache [[bestimmte]] auch die letzte [[Bundestagswahl]]
 *(The [[debate]] about a gender-equitable language also [[determined]] the last [[federal election]].)*
 
+*[[C1-Hoehen-T3-402-Text#^2|^]]* Die genannten [[Richtlinie]]n für die [[Raumfahrt]] [[gelten]] auch im [[Fall]] [[kämpferisch]]er [[Auseinandersetzung]]en
+
 
 ---
 = [[Konflikt]], [[Streit]], [[Debatte]], [[krieg]], [[Diskussion]], [[Konflikt]], [[Streit]], [[Wortgefecht]], [[Gefecht]], [[Kriegsausbruch]], [[Schlacht]], [[auseinandersetzen]], [[Meinungsbildung]], [[Streiterei]], [[Zweikampf]], [[Kritik]]

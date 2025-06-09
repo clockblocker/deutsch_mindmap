@@ -1,1 +1,1 @@
-, [[unbelastet]], [[Feinstaubbelastung]]
+, [[unbelastet]], [[Feinstaubbelastung]], [[belasten]]

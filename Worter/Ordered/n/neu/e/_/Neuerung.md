@@ -1,1 +1,1 @@
-, [[neu]], [[Abwechslung]]
+, [[neu]], [[Abwechslung]], [[Entdeckung]]

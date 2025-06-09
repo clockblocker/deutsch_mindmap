@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-201-Text#^13|^]]* [[Wobei]] ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast [[verehren]] oder als [[notwendig]]es [[Übel]] [[betrachten]]
 
+*[[C1-Hoehen-T3-403-Text#^3|^]]* Führende Persönlichkeiten indigener Gemeinschaften sind [[häufig]] [[Opfer]] von [[übler]] [[Nachrede]]
+
 ---
 = [[schlecht]], [[böse]], [[widrig]],[[schade]], [[schlimm]], [[gemein]]
 ≈ [[schlimm]], [[ungut]], [[verdorben]]

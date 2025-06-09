@@ -81,3 +81,4 @@ Konjunktiv II:
 - Wenn wir entspannter wären, [[erschräken]] wir uns nicht so schnell.
 - Wenn ihr ruhiger wäret, [[erschräket]] ihr euch nicht bei jedem Geräusch.
 - Wenn sie furchtlos wären, [[erschräken]] sie nicht bei plötzlichen Ereignissen.[[Überraschen]], [[hochschrecken]], [[schrecken]], [[abschrecken]]
+, [[einschüchtern]]

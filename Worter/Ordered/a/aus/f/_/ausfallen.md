@@ -4,6 +4,10 @@
 *[[Golfstorm#^4|^]]* Die sogenannte Atlantische meridionale [[Umwälzzirkulation]] (AMOC) sorgt in Nordeuropa für ein [[gemäßigtes]] Klima, könnte [[künftig]] aber schwächer [[ausfallen]]. ^4
 
 
+*[[C1-Hoehen-T3-402-Text#^3|^]]* Die dafür erforderliche [[Radartarnung]] kann [[ausfallen]]
+*(The [[radar camouflage]] required for this can [[fail]])*
+
+
 *[[C1-Lesen-T2-100-Text#^3|^]]* Gleichzeitig ist die heutige Jugend (1) aufgrund der wachsenden Toleranz, aber auch [[Gleichgültigkeit]] der Erwachsenenwelt, mehr denn je gezwungen, immer [[ausgefallenere]] Jugendkulturen [[hervorzubringen]], weil sie sich doch gegenüber der [[Gesellschaft]] und insbesondere den Erwachsenen [[abgrenzen]]. ^3
 
 

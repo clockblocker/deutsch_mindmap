@@ -1,1 +1,1 @@
-, [[empfangen]], [[hinschicken]], [[Sender]]
+, [[empfangen]], [[hinschicken]], [[Sender]], [[Radioempfänger]]

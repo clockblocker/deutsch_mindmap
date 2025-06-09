@@ -40,4 +40,4 @@ PI: [[anregend]], PII: [[angeregt]], Zu+inf: [[anzuregen]]
 [[anregen]] - [[an]] = [[regen]] / to stimulate, to suggest, to encourage
 
 ---
-[[Anregung]], [[Anreger]], [[anregend]], [[erregend]], [[anregbar]], [[Regen]], [[beleben]], [[wecken]], [[sensibilisieren]], [[veranlassen]], [[erlahmen]], [[befeueren]]
+[[Anregung]], [[Anreger]], [[anregend]], [[erregend]], [[anregbar]], [[Regen]], [[beleben]], [[wecken]], [[sensibilisieren]], [[veranlassen]], [[erlahmen]], [[befeueren]], [[antreiben]]

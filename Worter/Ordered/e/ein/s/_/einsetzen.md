@@ -5,11 +5,17 @@
 ---
 *[[bro-schrieben-c1-t1-001#^11|^]]* Eine andere Möglichkeit wäre, eine [[abwechslungsreich]]e [[Methode]] aus dem Bereich “Massage” [[einzusetzen]], um den Körper besser zu [[pflegen]]
 
+*[[C1-Hoehen-T3-403-Text#^11|^]]* Traurige Tatsache ist aber, dass wir immer wieder davon hören, wie indigene [[Anführer]], die sich für den [[Umweltschutz]] [[einsetzen]], [[bedroht]] und [[verfolgt]] werden, sodass man mit ihrem [[Lebenswissen]] und [[Ernährungswissen]] respektlos [[umgeht]]
+
+*[[C1-Hoehen-T3-402-Text#^5|^]]* Sie [[einsetzen|setzen]] [[durchweg]] [[Wasserstoff]] ein, um ihre Raketen [[anzutreiben]]
+*(They [[consistently]] [[use]] [[hydrogen]] to [[propel]] their rockets)*
+
 *[[C1-Hoehen-T3-401-Text#^3|^]]* Was [[auszeichnet|zeichnet]] den High Line Park aus? Eine Gruppe von [[Privatleuten]] [[einsetzt|setzt]] sich für ihn ein
 *(What [[distinguishes]] the High Line Park? A group of [[private individuals]] [[advocates]] for it)*
 
+*[[C1-Hoehen-T3-402-Text#^5|^]]* Sie [[einsetzen|setzen]] [[prominent]]e [[Weltraumreisende]] für ihre [[Publicity]] ein ^5
 
-
+*(They [[use]] [[prominent]] [[space travelers]] for their [[publicity]])*
 
 [[einsetzen|Setzen]] Sie die richtigen Wörter in die Lücken im Satz ein.
 
@@ -52,4 +58,4 @@ Zu+infinifive: [[einzusetzen]]
 [[Einsatz]], [[Einsetzen]], [[Einsetzung]], [[Einsatzbereit]], [[Einsatzleiter]], [[Einsatzfahrzeug]]
 
 [[steigen]], [[engagieren]]
-, [[ansetzen]]
+, [[ansetzen]], [[verwerten]]

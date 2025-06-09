@@ -1,1 +1,1 @@
-, [[Migrant]], [[Naturvolk]]
+, [[Migrant]], [[Naturvolk]], [[Eingeborene]]

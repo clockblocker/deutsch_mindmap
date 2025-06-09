@@ -1,1 +1,1 @@
-, [[verstopfen]], [[verbreitern]]
+, [[verstopfen]], [[verbreitern]], [[weiten]], [[ausweiten]]

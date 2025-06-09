@@ -29,4 +29,4 @@ D: den [[Schwachstellen]], den [[Schwachstellen]]
 ---
 [[schwach]], [[schwächeln]], [[schwächen]], [[schwachstellen]], [[stärken]], [[Defizit]]
 
-#Feminin 
+#Feminin , [[Schwachstelle]]

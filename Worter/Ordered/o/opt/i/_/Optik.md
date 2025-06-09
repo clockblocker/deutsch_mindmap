@@ -1,1 +1,1 @@
-, [[Fernrohr]], [[Erscheinungsbild]]
+, [[Fernrohr]], [[Erscheinungsbild]], [[Fernglas]]

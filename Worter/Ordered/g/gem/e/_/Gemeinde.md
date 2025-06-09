@@ -5,6 +5,8 @@ die [[Gemeinden]]
 [[Ordnungsamt]] der [[Gemeinde]]
 *([[Regulatory office]] of the [[municipality]])*
 
+*[[C1-Hoehen-T3-403-Text#^9|^]]* [[Zugegebenermaßen]] gibt es auch [[Außenstehende]], die sich indigenes Wissen [[zunutze]] machen und daran verdienen, ohne die indigenen [[Gemeinde]]n am Profit zu beteiligen oder andere [[umweltschonende]] Maßnahmen zu [[ergreifen]]
+
 *[[C1-Lesen-T3-301-Text#^4|^]]* Auch wenn Haßloch nur eine [[Gemeinde]] in Deutschland ist, dient sie seit 35 Jahren als Musterdorf
 
 _[[C1-Hoehen-T1-100-Text#^20|^]]_ [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinden]], wie das Wohnungsproblem [[gelöst]] werden kann.

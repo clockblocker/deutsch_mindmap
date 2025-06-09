@@ -49,4 +49,4 @@ Zu+infinitive: [[zu verbinden]]
 [[Verbindung]], [[Verbinder]], [[Verbindlichkeit]], [[Verbindungsstraße]], [[Verbindungsstelle]], [[Verbindungsfehler]]
 
 , [[koppeln]], [[Nervenzellenverbindung]], [[zuordnen]], [[verpflichten]], [[verankern]]
-, [[vereinigen]], [[verbindlich]], [[verflechten]], [[zuschreiben]], [[entbinden]], [[entbinden]]
+, [[vereinigen]], [[verbindlich]], [[verflechten]], [[zuschreiben]], [[entbinden]], [[entbinden]], [[behaften]]

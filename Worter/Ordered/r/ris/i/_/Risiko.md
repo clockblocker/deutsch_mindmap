@@ -43,3 +43,4 @@ D: dem [[Risiko]], den [[Risiken]]
 , [[Versicherung]], [[Lebensversicherung]], [[Pfand]], [[Erfolgsfaktor]], [[Notfallschutz]], [[risikoreich]], [[aufs Spiel setzen]]
 
 #Neuter , [[Garantie]], [[Stolpergefahr]], [[Wetteinsatz]], [[Einsatz]], [[Sicherung]], [[Infektanfälligkeit]]
+, [[Schwachstelle]]

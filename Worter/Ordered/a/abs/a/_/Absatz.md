@@ -30,3 +30,4 @@ Einzigartige mögliche Formen: [[Absatzes]], [[Absätze]], [[Absätzen]]
 ---
 
 #Substantiv #Maskulin, [[Silbe]], [[Stufe]], [[Verkauf]]
+, [[Vermarktung]]

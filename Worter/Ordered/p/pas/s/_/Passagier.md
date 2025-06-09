@@ -1,2 +1,2 @@
 
-, [[aufpassen]], [[Lastwagenfahrer]]
+, [[aufpassen]], [[Lastwagenfahrer]], [[Weltraumreisende]]

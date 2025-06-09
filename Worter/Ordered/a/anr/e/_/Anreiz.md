@@ -3,6 +3,8 @@
 ---
 b) Man soll [[Anreiz]]у zum Spielen [[schaffen]]
 
+*[[C1-Hoehen-T3-402-Text#^17|^]]* Aber die steigende Nachfrage wird die Reisekosten senken und einen [[Anreiz]] geben, die [[Produktionsprozesse]] für [[Raketen]] zu optimieren
+
 Regelmäßig wurde untersucht, wie sie sich fühlten und ob diese [[Leistung]] für sie ein positiver [[Anreiz]] für ihre persönliche [[Entwicklung]] [[darstellte]]
 
 ---

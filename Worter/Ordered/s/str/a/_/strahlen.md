@@ -1,1 +1,1 @@
-, [[leuchten]], [[Ausstrahlung]]
+, [[leuchten]], [[Ausstrahlung]], [[Strahl]], [[Strahlung]]

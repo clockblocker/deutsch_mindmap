@@ -29,4 +29,4 @@ G: der [[Ernährung]], der [[Ernährungen]]
 D: der [[Ernährung]], den [[Ernährungen]]
 
 
-#Feminin, [[Mineralstoff]], [[nähren]]
+#Feminin, [[Mineralstoff]], [[nähren]], [[Ernährungswissen]]

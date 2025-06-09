@@ -1,2 +1,2 @@
 --> ⚠️ [[Grad-Risiko]] <--
-, [[gefährlich]]
+, [[gefährlich]], [[neuralgisch]]

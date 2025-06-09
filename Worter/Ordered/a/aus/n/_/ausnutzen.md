@@ -1,1 +1,1 @@
-, [[beanspruchen]], [[ergreifen]]
+, [[beanspruchen]], [[ergreifen]], [[verwerten]]

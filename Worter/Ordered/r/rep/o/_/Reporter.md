@@ -1,1 +1,1 @@
-, [[Berichterstattung]]
+, [[Berichterstattung]], [[Redakteur]]

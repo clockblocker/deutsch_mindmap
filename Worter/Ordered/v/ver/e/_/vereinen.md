@@ -1,12 +1,7 @@
 🤝 [[vereinen]], [fɛɐ̯ˈaɪ̯nən] | [[vereinte]], haben [[vereint]]
 
 ---
-
-132. Viele Menschen in Deutschland arbeiten in ihrer [[Freizeit]] [[ehrenamtlich]]. Was bedeutet das? (93%)
-
-
-    - [x] Sie arbeiten [[freiwillig]] und [[unbezahlt]] in [[Vereinen]] und [[Verbänden]].
-    - [ ] Sie arbeiten in der [[Bundesregierung]].
+*[[C1-Hoehen-T3-402-Text#^8|^]]* Allerdings gibt es 21 nicht bindende [[Richtlinie]]n für das [[Verhalten]] im All, [[erarbeitet]] von einem Komitee der [[Vereinten]] Nationen für die friedliche [[Nutzung]] des [[Weltraums]]
 
 ---
 

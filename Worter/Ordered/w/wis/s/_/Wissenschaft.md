@@ -33,3 +33,4 @@ G: der [[Wissenschaft]], der [[Wissenschaften]]
 D: der [[Wissenschaft]], den [[Wissenschaften]]
 
 #Feminin , [[Technologie]], [[Forschungsteam]], [[Wissenschaftszweig]]--> [[🗣️ Ingredient-Meinung]] <--, [[Wissen]], [[Wirtschaftswissenschaftler]], [[MINT]]
+, [[Raumfahrtforschung]]

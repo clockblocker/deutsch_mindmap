@@ -27,4 +27,4 @@ A: den [[Antrieb]], die [[Antriebe]]
 G: des [[Antriebs]], der [[Antriebe]]
 D: dem [[Antrieb]], den [[Antrieben]]
 
-#Maskulin 
+#Maskulin , [[Kerosinantrieb]]

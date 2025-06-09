@@ -31,4 +31,4 @@ A: den [[Zuschauer]], die [[Zuschauer]]
 G: des [[Zuschauers]], der [[Zuschauer]]
 D: dem [[Zuschauer]], den [[Zuschauern]]
 
-#Maskulin , [[Zuhörer]], [[zusehen]]
+#Maskulin , [[Zuhörer]], [[zusehen]], [[Außenstehende]]

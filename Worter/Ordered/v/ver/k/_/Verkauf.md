@@ -5,7 +5,9 @@ die [[Verkäufe]]
 *[[Text mit Reflexivpronomen#^12|^]]* [[Beruflich]] [[beschäftigt]] er (17) mit dem [[Verkauf]] von Küchenmaschinen. ^12
 
 
-*[[01-C1-Schreiben-T2-M#^2|^]]* Nach meiner Rückkehr habe ich [[festgestellt]], dass ich den Raum noch mit sechs Kolleginnen und Kollegen zu [[teilen]] habe, die [[teilweise]] für den [[Verkauf]] in unserer Firma [[tätig]] sind. ^2
+*[[C1-Hoehen-T3-403-Text#^2|^]]* Dass der [[Verkauf]] über das Internet mit Risiken [[behaftet]] ist
+
+*[[01-C1-Schreiben-T2-M#^2|^]]* Nach meiner Rückkehr habe ich [[festgestellt]], dass ich den Raum noch mit sechs Kolleginnen und Kollegen zu [[teilen]] habe, die [[teilweise]] für den [[Verkauf]] in unserer Firma [[tätig]] sind
 
 
 ---
@@ -32,4 +34,4 @@ A: den [[Verkauf]], die [[Verkäufe]]
 G: des [[Verkaufes]], der [[Verkäufe]]  
 D: dem [[Verkauf]], den [[Verkäufen]]
 
-#Maskulin , [[Wohnungsverkauf]], [[Herstellungsprozess]], [[Umtausch]], [[Rückgabe]], [[Einzelhandel]]
+#Maskulin , [[Wohnungsverkauf]], [[Herstellungsprozess]], [[Umtausch]], [[Rückgabe]], [[Einzelhandel]], [[Vermarktung]]

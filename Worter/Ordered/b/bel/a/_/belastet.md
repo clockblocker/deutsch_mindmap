@@ -1,1 +1,1 @@
-, [[beschwert]], [[unbelastet]]
+, [[beschwert]], [[unbelastet]], [[belasten]]

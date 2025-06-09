@@ -65,4 +65,4 @@ sie, [[verpflichten]], [[verpflichteten]], [[verpflichten]], [[verpflichteten]],
 Adjektive: [[verpflichtend]], [[verpflichtender]], [[verpflichtendst]]
 
 ---
-[[verpflichtender]], [[verpflichtendes]], [[verpflichtende]], [[verpflichtenden]], [[verpflichtendem]], [[verpflichtenderer]], [[verpflichtenderes]], [[verpflichtendere]], [[verpflichtenderen]], [[verpflichtenderem]], [[verpflichtendster]], [[verpflichtendstes]], [[verpflichtendste]], [[verpflichtendsten]], [[verpflichtendstem]]
+[[verpflichtender]], [[verpflichtendes]], [[verpflichtende]], [[verpflichtenden]], [[verpflichtendem]], [[verpflichtenderer]], [[verpflichtenderes]], [[verpflichtendere]], [[verpflichtenderen]], [[verpflichtenderem]], [[verpflichtendster]], [[verpflichtendstes]], [[verpflichtendste]], [[verpflichtendsten]], [[verpflichtendstem]], [[beauftragen]]

@@ -1,1 +1,1 @@
-, [[zärtlich]], [[widerstandsfähig]], [[sensibel]], [[robust]]
+, [[zärtlich]], [[widerstandsfähig]], [[sensibel]], [[robust]], [[neuralgisch]]

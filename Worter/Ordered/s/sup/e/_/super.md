@@ -1,1 +1,1 @@
-, [[toll]], [[Supermarkt]]
+, [[toll]], [[Supermarkt]], [[Superreiche]]

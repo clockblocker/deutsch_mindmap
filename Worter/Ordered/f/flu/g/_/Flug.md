@@ -29,4 +29,4 @@ G: des [[Fluges]], der [[Flüge]]
 D: dem [[Flug]], den [[Flügen]]
 
 
-#Maskulin 
+#Maskulin , [[Weltraumreise]]

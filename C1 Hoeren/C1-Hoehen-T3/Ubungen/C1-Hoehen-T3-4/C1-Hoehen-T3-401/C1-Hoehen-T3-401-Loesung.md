@@ -2,6 +2,8 @@
 
 ---
 
+![[03_Modelltest 1_Teil_3.mp3]]
+
 16. Bangkoks Lage führt dazu, dass ...
     - [ ] a der durch die Stadt fließende Strom sich ein immer breiteres Bett gräbt
     - [ ] b zusätzliche Wasserreservoirs benötigt werden
@@ -111,7 +113,7 @@ Durch die zunehmende Verstädterung, den Zuzug in die Großstädte, fällt näml
 
 ***Herr Floto:***  
 *Ja, das verwundert: Bis 2007 waren weltweit mehr Menschen in einem Dorf beheimatet, seitdem überwiegt das Gros der Weltbevölkerung in Städten.* 
-Dieser Wandel passiert in Afrika und Asien besonders schnell.
+Dieser Wandel ist in Afrika und Asien besonders ausgprägt.
 
 Prognosen sehen bis 2050 ein urbanes Wachstum um 90 Prozent auf diesen Kontinenten voraus.
 

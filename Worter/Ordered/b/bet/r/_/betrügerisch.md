@@ -1,1 +1,1 @@
-, [[redlich]], [[Betrugsmanöver]], [[treulos]], [[unlauter]]
+, [[redlich]], [[Betrugsmanöver]], [[treulos]], [[unlauter]], [[vertrauenswürdig]]

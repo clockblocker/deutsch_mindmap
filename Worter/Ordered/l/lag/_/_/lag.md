@@ -1,1 +1,1 @@
-, [[liegen]], [[Anlage]], [[zugrunde]], [[Zulage]]
+, [[liegen]], [[Anlage]], [[zugrunde]], [[Zulage]], [[Lebensgrundlage]]

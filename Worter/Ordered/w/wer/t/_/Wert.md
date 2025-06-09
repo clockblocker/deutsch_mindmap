@@ -49,4 +49,4 @@ D: dem [[Wert]], den [[Werten]]
 , [[Selbstwertgefühl]], [[Einschätzung]], [[Mehrwert]], [[Betrag]]
 
 
-#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]], [[Kurs]], [[wertlos]], [[Verwertung]], [[bemerkenswert]], [[Geldwert]], [[Geldwert]], [[lohnenswert]], [[preiswert]], [[Lesenswert]], [[Cholesterinwert]], [[lebenswert]], [[Auswertung]], [[dankenswerterweise]], [[Wertanlage]], [[erwähnenswert]], [[Bewertung]], [[sehenswert]], [[Wissenswert]], [[Feinstaubwert]], [[vollwertig]]
+#Maskulin , [[Stellenwert]], [[Selbstwert]], [[wertschätzen]], [[Kurs]], [[wertlos]], [[Verwertung]], [[bemerkenswert]], [[Geldwert]], [[Geldwert]], [[lohnenswert]], [[preiswert]], [[Lesenswert]], [[Cholesterinwert]], [[lebenswert]], [[Auswertung]], [[dankenswerterweise]], [[Wertanlage]], [[erwähnenswert]], [[Bewertung]], [[sehenswert]], [[Wissenswert]], [[Feinstaubwert]], [[vollwertig]], [[verwerten]]

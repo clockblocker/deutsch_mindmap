@@ -1,1 +1,1 @@
-[[vereint]], [[vereinen]]
+[[vereinen]]

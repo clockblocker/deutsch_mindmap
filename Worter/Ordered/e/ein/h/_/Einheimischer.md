@@ -1,1 +1,1 @@
-, [[Fremde]], [[Gastarbeiter]], [[Einwanderer]], [[Migrant]], [[Passant]], [[einheimisch]], [[Flüchtling]], [[Pendler]], [[Expat]], [[Kreuzfahrttourist]]
+, [[Fremde]], [[Gastarbeiter]], [[Einwanderer]], [[Migrant]], [[Passant]], [[einheimisch]], [[Flüchtling]], [[Pendler]], [[Expat]], [[Kreuzfahrttourist]], [[Eingeborene]]

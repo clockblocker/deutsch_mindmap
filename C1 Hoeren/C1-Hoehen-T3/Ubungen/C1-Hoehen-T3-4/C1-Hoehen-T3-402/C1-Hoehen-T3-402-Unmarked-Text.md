@@ -2,6 +2,8 @@
 
 ---
 
+![[07_Modelltest 2_Teil_3.mp3]]
+
 16. Welche Themen werden zunehmend in der Medienberichterstattung berücksichtigt?
     - [ ] a Juristische Fragen, die den Weltraum betreffen
     - [ ] b Die junge Generation der Weltraumforschenden

@@ -1,2 +1,2 @@
 das [[Radio]] / die [[Radios]] | #Substantiv #Neuter | radio
-, [[Kanal]], [[Fernsehkanal]]
+, [[Kanal]], [[Fernsehkanal]], [[Radioempfänger]]

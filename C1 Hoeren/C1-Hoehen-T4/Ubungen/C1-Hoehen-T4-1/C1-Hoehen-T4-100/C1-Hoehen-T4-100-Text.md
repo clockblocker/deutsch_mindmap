@@ -7,25 +7,25 @@
 24 Der Verbraucherschutz kann verbessert werden, …
 - [ ] a indem die EU endlich Regeln erlässt.  
 - [ ] b indem Regeln aus dem Jahr 2012 von den Mitgliedstaaten der EU zum Gesetz werden.  ?
-- [x] c da Deutschland sein Verbraucherschutzgesetz erweitert hat.
+- [ ] c da Deutschland sein Verbraucherschutzgesetz erweitert hat.
 
 25 Welche [[Rolle]] [[spielen]] Online-[[Bewertung]]en bei [[Kaufentscheidung]]en?
 - [ ] a Ihr [[Einfluss]] auf [[Kaufentscheidung]]en wird oft [[unterschätzt]]
-- [x] b Die [[Anzahl]] an positiven [[Bewertung]]en ist nicht allein [[entscheidend]]
+- [ ] b Die [[Anzahl]] an positiven [[Bewertung]]en ist nicht allein [[entscheidend]]
 - [ ] c Sie [[fördern]] die aktive [[Kommunikation]] zwischen [[Anbieter]] und [[Konsument]].
 
 26 Was soll sich am [[Bewertungssystem]] ändern?
-- [x] a Das [[Bewertungssystem]] soll für den [[Verbraucher]] [[transparent]] werden.  
+- [ ] a Das [[Bewertungssystem]] soll für den [[Verbraucher]] [[transparent]] werden.  
 - [ ] b [[rabattierte]] [[Produkt]]e sollen nicht mehr [[bewertet]] werden dürfen
 - [ ] c Kunden, die [[bewusst]] falsch [[bewerten]], müssen mit einer [[Strafe]] [[rechnen]].
 
 27 Was müssen Internetplattformen [[zusätzlich]] [[angeben]]?
-- [x] a [[Zuverlässig]]e Daten über die [[anbietend]]en [[Unternehmen]]
+- [ ] a [[Zuverlässig]]e Daten über die [[anbietend]]en [[Unternehmen]]
 - [ ] b Informationen über [[Verbraucherrecht]]e bei [[Privatkäufen]]
 - [ ] c Welche [[Geschäftsbeziehung]]en zum [[Anbieter]] bestehen
 
 28 [[Worin]] [[besteht]] die [[Reform]] der [[Preisgestaltung]]?
-- [x] a Verbraucher sollen erkennen, ob [[Rabattaktion]]en [[wirklich]]e [[Preisnachlässe]] sind.  
+- [ ] a Verbraucher sollen erkennen, ob [[Rabattaktion]]en [[wirklich]]e [[Preisnachlässe]] sind.  
 - [ ] b [[Preisanpassung]]en sollen monatlich [[erläutert]] werden.  
 - [ ] c Online-Preise und Preise im Nicht-Online-Handel sollen [[gegenübergestellt]] werden.
 

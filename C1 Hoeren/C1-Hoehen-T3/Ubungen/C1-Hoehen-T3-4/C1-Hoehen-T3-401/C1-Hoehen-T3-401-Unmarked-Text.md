@@ -94,7 +94,7 @@ Werfen wir jetzt noch einen Blick auf die Megacity-Bewohner. Was können Sie da 
 Da hat die Statistik aus meiner Meinung nach ein sehr verblüffendes Ergebnis beschert: Durch die zunehmende Verstädterung, den Zuzug in die Großstädte, fällt nämlich die Fertilitätsrate der Städte rapide. Laut aktuellen Untersuchungen haben beispielsweise Familien im Iran nach 10 Jahren durchschnittlich nicht mehr, sondern nur noch drei Kinder. Ursprünglich lag der Städtewert auf der doppelten Zahl. Die familiäre Lage der Städte und ist ein erheblicher Zugang zu Bildung.
 
 **Herr Floto:**  
-Ja, das verwundert: Bis 2007 waren weltweit mehr Menschen in einem Dorf beheimatet, seitdem überwiegt das Gros der Weltbevölkerung in Städten. Dieser Wandel passiert in Afrika und Asien besonders schnell. Prognosen sehen bis 2050 ein urbanes Wachstum um 90 Prozent auf diesen Kontinenten voraus. Mit der steigenden Bevölkerungsdichte verändert sich die Wohnqualität des Landes, die Lebensqualität wird nicht automatisch verbessert sich, denn dem Wachstum einer Stadt liegt ihr wirtschaftlicher Erfolg zugrunde.
+Ja, das verwundert: Bis 2007 waren weltweit mehr Menschen in einem Dorf beheimatet, seitdem überwiegt das Gros der Weltbevölkerung in Städten. Dieser Wandel ist in Afrika und Asien besonders ausgprägt. Prognosen sehen bis 2050 ein urbanes Wachstum um 90 Prozent auf diesen Kontinenten voraus. Mit der steigenden Bevölkerungsdichte verändert sich die Wohnqualität des Landes, die Lebensqualität wird nicht automatisch verbessert sich, denn dem Wachstum einer Stadt liegt ihr wirtschaftlicher Erfolg zugrunde.
 
 **Moderator:**  
 Es wird oft die Meinung geäußert, dass man diesen Erfolg auch dafür nutzen sollte, die Transportemissionen der Megacitys zu senken. Was denken Sie dazu?

@@ -1,8 +1,9 @@
 🗣️ 🔴 die [[Nachrede]], [ˈnaːxˌʁeːdə](https://youglish.com/pronounce/Nachrede/german)
 
 ---
-*[[3 Sollte das Internet stärker reguliert werden?#^1|^]]* _Neben_ [[Beleidigungen]], _übler_ [[Nachrede]] _oder_ [[Verleumdung]] [[verfassen]] _manche sogar_ [[Nachrichten]], _die zur_ [[Gewalt]] [[aufrufen]]. ^1
+*[[3 Sollte das Internet stärker reguliert werden?#^1|^]]* _Neben_ [[Beleidigungen]], _übler_ [[Nachrede]] _oder_ [[Verleumdung]] [[verfassen]] _manche sogar_ [[Nachrichten]], _die zur_ [[Gewalt]] [[aufrufen]]
 
+*[[C1-Hoehen-T3-403-Text#^3|^]]* Führende Persönlichkeiten indigener Gemeinschaften sind [[häufig]] [[Opfer]] von [[übler]] [[Nachrede]]
 
 ---
 = [[Verleumdung]], [[Rufschädigung]], [[Diffamierung]]

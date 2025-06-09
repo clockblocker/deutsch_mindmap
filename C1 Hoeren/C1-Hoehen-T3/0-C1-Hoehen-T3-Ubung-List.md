@@ -22,8 +22,8 @@ _400 - Project Neue_
 
 - [x] [[C1-Hoehen-T3-400-Text|400]] 4 / 8 [[Leiharbeit]]
 - [x] [[C1-Hoehen-T3-401-Text|401]] 5 / 8 [[Megacity]]
-- [ ] [[C1-Hoehen-T3-402-Text|402]]
-- [ ] [[C1-Hoehen-T3-403-Text|403]]
+- [x] [[C1-Hoehen-T3-402-Text|402]] 5 / 8 [[Satelit]]
+- [x] [[C1-Hoehen-T3-403-Text|403]] 5 / 8 Indigene
 - [ ] [[C1-Hoehen-T3-404-Text|404]]
 - [ ] [[C1-Hoehen-T3-405-Text|405]]
 - [ ] [[C1-Hoehen-T3-406-Text|406]]

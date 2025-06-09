@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-T2-301-Text#^6|^]]* Greenwashing ist eine Methode, die von Unternehmen genutzt wird, um ihre Produkte [[umweltfreundlich]]er zu machen
 
+*[[C1-Hoehen-T3-402-Text#^5|^]]* Sie forschen an [[umweltfreundlich]]eren Raketentriebsformen
+
 ---
 = [[ökologisch]], [[umweltschonend]], [[nachhaltig]]
 ≈ [[grün]], [[natürlich]], [[ressourcenschonend]], [[Umweltprojekt]], [[Umwelt]], [[nachhaltig]], [[erneuerbar]], [[recycelbar]], [[klimafreundlich]], [[plastikintensiv]]

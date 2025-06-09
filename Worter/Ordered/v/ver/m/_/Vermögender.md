@@ -1,1 +1,1 @@
-, [[Reiche]]
+, [[Reiche]], [[Superreiche]]

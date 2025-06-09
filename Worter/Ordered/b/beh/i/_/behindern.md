@@ -5,10 +5,12 @@
 ---
 [[Häufige]] [[Systemabstürze]] [[behindern]] tägliche Aufgaben
 
+*[[C1-Hoehen-T3-402-Text#^4|^]]* Er [[behindert]] zunehmend die notwendige Beobachtung der Satelliten
+
 ---
 = [[hemmen]], [[einschränken]], [[stören]]
 ≈ [[blockieren]], [[verhindern]], [[erschweren]], [[obstruieren]],[[aufhalten]], [[nützen]], [[unterstützen]],  [[fördern]]
-≠ [[fördern]], [[unterstützen]], [[erleichtern]], [[ermöglichen]]
+≠ [[fördern]], [[unterstützen]], [[erleichtern]], [[ermöglichen]], [[barrierefrei]], [[mobilitätseingeschränkt]], 
 
 ---
 to hinder, to impede, to obstruct

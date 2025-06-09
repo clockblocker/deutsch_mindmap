@@ -38,3 +38,4 @@ G: der [[Kenntnis]], der [[Kenntnisse]]
 D: der [[Kenntnis]], den [[Kenntnissen]]
 
 #Feminin , [[Orientierung]], [[Sprachkenntnis]], [[Vorkenntnis]]
+, [[Lebenswissen]]

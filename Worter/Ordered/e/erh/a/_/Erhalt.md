@@ -31,4 +31,4 @@ D: dem [[Erhalt]], den [[Erhaltungen]]
 , [[Wegfall]], [[Abgabe]]
 
 
-#Maskulin , [[Forderung]]
+#Maskulin , [[Forderung]], [[Fortbestand]]

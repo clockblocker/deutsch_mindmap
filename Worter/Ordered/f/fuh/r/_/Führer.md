@@ -1,32 +1,28 @@
-🔵 der [[Führer]], [ˈfyːʁɐ]
-die [[Führer]]
+👤 🔵 der [[Führer]], [ˈfyːʁɐ](https://youglish.com/pronounce/Führer/german) | 👤 🔴 die [[Führerin]], [ˈfyːʁəʁɪn]
+die [[Führer]] | die [[Führerinnen]]
 
 ---
-
-[[Führerschein]]
-
----
-
-Synonyme:
-
-- [[Leiter]], [[Anführer]], [[Chef]], [[Vorgesetzter]]
+*[[C1-Hoehen-T3-403-Text#^3|^]]* [[Führende]] Persönlichkeiten indigener Gemeinschaften müssen immer noch um ihre [[Anerkennung]] [[kämpfen]]
 
 ---
-
-Übersetzung: leader, guide
-
----
-
-Morpheme:
-[[führ]], [[er]]
+= [[Leiter]], [[Anführer]] | [[Leiterin]], [[Anführerin]],[[entführen]], [[anführen]]
+≈ [[Chef]], [[Vorsitzender]]
+≠
 
 ---
-
-Einzigartige mögliche Formen: [[Führers]], [[Führern]], [[Führer]], [[Führerschaft]]
+leader  
+лидер
 
 ---
+[[führen]], [[Führung]]
 
-#Substantiv #Maskulin #historisch #Politik
+---
+[[führ]]|[[en]]
+[[führen]]
 
-, [[entführen]]
-, [[anführen]]
+
+---
+N: der [[Führende]], die [[Führenden]]
+A: den [[Führenden]], die [[Führenden]]
+G: des [[Führenden]], der [[Führenden]]
+D: dem [[Führenden]], den [[Führenden]]

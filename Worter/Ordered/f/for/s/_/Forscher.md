@@ -30,4 +30,4 @@ D: dem [[Forscher]], den [[Forschern]]
 , [[Recher]], [[Abenteurer]]
 , [[erforschen]]
 
-#Maskulin , [[Forschungsabteilung]], [[Konsumforschung]]
+#Maskulin , [[Forschungsabteilung]], [[Konsumforschung]], [[Weltraumforscher]]

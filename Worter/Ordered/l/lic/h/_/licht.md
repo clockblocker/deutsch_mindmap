@@ -51,4 +51,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Lichtes]], [[Lichte]], [[Lichtern]]
 
 ---
-#Substantiv #Neuter, [[dunkle]], [[Sonnenlicht]], [[beleuchten]], [[ausleuchten]], [[Lichtsäule]], [[Spot]]
+#Substantiv #Neuter, [[dunkle]], [[Sonnenlicht]], [[beleuchten]], [[ausleuchten]], [[Lichtsäule]], [[Spot]], [[Strahl]]

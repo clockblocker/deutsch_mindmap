@@ -24,4 +24,4 @@ unreliable, untrustworthy
 Adjektive: [[unzuverlässig]], [[unzuverlässiger]], [[unzuverlässigst]]
 
 ---
-[[unzuverlässiger]], [[unzuverlässiges]], [[unzuverlässige]], [[unzuverlässigen]], [[unzuverlässigem]], [[unzuverlässigerer]], [[unzuverlässigeres]], [[unzuverlässigere]], [[unzuverlässigeren]], [[unzuverlässigerem]], [[unzuverlässigster]], [[unzuverlässigstes]], [[unzuverlässigste]], [[unzuverlässigsten]], [[unzuverlässigstem]]
+[[unzuverlässiger]], [[unzuverlässiges]], [[unzuverlässige]], [[unzuverlässigen]], [[unzuverlässigem]], [[unzuverlässigerer]], [[unzuverlässigeres]], [[unzuverlässigere]], [[unzuverlässigeren]], [[unzuverlässigerem]], [[unzuverlässigster]], [[unzuverlässigstes]], [[unzuverlässigste]], [[unzuverlässigsten]], [[unzuverlässigstem]], [[vertrauenswürdig]]

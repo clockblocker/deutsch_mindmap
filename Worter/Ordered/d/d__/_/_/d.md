@@ -1,2 +1,2 @@
 , [[draußen]], [[IPA]], [[laden]], [[bilden]]
-, [[überwiegend]], [[richtungsgebend]]
+, [[überwiegend]], [[richtungsgebend]], [[Weltraumforscher]]

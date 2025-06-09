@@ -5,6 +5,8 @@
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]]
 
+*[[C1-Hoehen-T3-403-Text#^3|^]]* Führende Persönlichkeiten indigener Gemeinschaften sind [[häufig]] [[Opfer]] von [[übler]] [[Nachrede]]
+
 *[[C1-Hoehen-T3-401-Text#^1|^]]* Bangkoks Lage führt dazu, dass es [[häufig]]er zu [[Überflutung]]en kommt
 
 *[[C1-Hoehen-T1-101-Text#^10|^]]* Wenn man in den [[Wintertag]]en [[häufig]]er zum [[Taschentuch]] [[greifen]] muss, kann das nach Bükey-Schneider auch daran [[anliegen|liegen]], dass aufgrund von [[Überbewirtschaftung]] von [[Agrarfläch]]en die Böden die Pflanzen nicht mehr [[ausreichend]] versorgen können

@@ -1,1 +1,1 @@
-, [[tausendfachen]], [[Jahrtausend]]
+, [[tausendfachen]], [[Jahrtausend]], [[zehntausend]]

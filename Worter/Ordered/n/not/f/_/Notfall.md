@@ -31,4 +31,4 @@ Einzigartige mögliche Formen: [[Notfalls]], [[Notfalle]], [[Notfällen]]
 ---
 
 #Substantiv #Maskulin, [[Notfallschutz]], [[Notbetreuung]]
-, [[Extremfall]]
+, [[Extremfall]], [[Ausnahmefall]]

@@ -1,1 +1,1 @@
-, [[Ausnahme]], [[Einzelfallregelung]], [[Extremfall]]
+, [[Ausnahme]], [[Einzelfallregelung]], [[Extremfall]], [[Ausnahmefall]]

@@ -89,3 +89,4 @@ Wir [[austauschen|tauschen]] unsere [[Erfahrung]]en aus.
 *[[Atom#^32|^]]* Die Aktivisten von *Baltitskije SOS* [[fürchten]], dass die [[Herausforderung]]en [[unterschätzt]] werden ^32
 
 *[[Atom#^33|^]]* Im schlimmsten Fall [[verzögert]] sich das Projekt – und sie können die Natur an ihrem Traumstrand noch etwas länger [[genießen]]. ^33
+, [[Teilchen]]

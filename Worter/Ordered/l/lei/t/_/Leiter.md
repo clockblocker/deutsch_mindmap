@@ -32,4 +32,4 @@ D: dem [[Leiter]], den [[Leitern]]
 ---
 [[leiten]], [[Leiterin]], [[Leitersprossen]], [[aufsteigen]], [[Nachwuchsmanager]], [[Arbeitgeber]], [[Hierarchie]], [[Manager]], [[Vorgesetzte]], [[Teamleiter]], [[Einkaufsleiterin]], [[Projektmanager]]
 
-#Maskulin , [[verleiten]]
+#Maskulin , [[verleiten]], [[Führer]]

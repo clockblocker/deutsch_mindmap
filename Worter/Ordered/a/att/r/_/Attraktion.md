@@ -1,1 +1,1 @@
-, [[attraktiv]], [[Sehenswürdigkeit]], [[Besichtigungspunkt]], [[Anziehung]]
+, [[attraktiv]], [[Sehenswürdigkeit]], [[Besichtigungspunkt]], [[Anziehung]], [[Touristenmagnet]]

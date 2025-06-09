@@ -1,6 +1,7 @@
 🎯 [[schießen]], [ˈʃiːsən] | [[schoss]], haben [[geschossen]]
 
 ---
+*[[C1-Hoehen-T3-402-Text#^14|^]]* 8.500 Tonnen Schrott [[darstellen|stellen]] eine [[beachtliche]] Gefahr im Weltraum dar, weil dieser mit einer Geschwindigkeit von [[zehntausend]] Kilometern pro Stunde durch das All [[rast]] und so auch kleinste [[Teilchen]] zu [[zerstörerisch]]en [[Geschossen]] [[mutieren]] können
 
 _[[C1-Hoehen-T1-100-Text#^23|^]]_ [[Festung]]: [[Beschwört]] Türme, die auf nahe Gegner [[schießen]]
 

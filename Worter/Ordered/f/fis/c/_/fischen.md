@@ -1,1 +1,1 @@
-, [[angeln]], [[Austernfischer]]
+, [[angeln]], [[Austernfischer]], [[Fischfang]]

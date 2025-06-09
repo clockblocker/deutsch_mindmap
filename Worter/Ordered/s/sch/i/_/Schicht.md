@@ -25,4 +25,4 @@ D: der [[Schicht]], den [[Schichten]]
 ---
 [[schichten]], [[schichtig]], [[Schichtarbeit]], [[Schichtleiter]], [[Geschichte]], [[Schichtarbeiter]], [[Geschichtsunterricht]], [[Geschichtsbuch]], [[geschichtlich]], [[Gesellschaftsschicht]]
 
-#Feminin , [[Schichtung]]
+#Feminin , [[Schichtung]], [[Ozonschicht]]

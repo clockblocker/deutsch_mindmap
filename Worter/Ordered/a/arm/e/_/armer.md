@@ -31,3 +31,4 @@ Morpheme:
 Einzigartige mögliche Formen:
 [[armer]], [[ärmerer]], [[ärmere]], [[ärmeres]], [[ärmeren]], [[ärmerem]], [[ärmerer]], [[ärmeren]]
 [[ärmsten]], [[ärmster]], [[ärmste]], [[ärmstes]], [[ärmsten]], [[ärmpstem]], [[ärmster]], [[ärmsten]]
+, [[Superreiche]]

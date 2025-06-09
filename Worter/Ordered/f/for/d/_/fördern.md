@@ -59,4 +59,4 @@ PI: [[fördernd]], PII: [[gefördert]], Zu+inf: [[zufördern]]
 Adjektive: [[fördernd]], [[fördernder]], [[förderndst]]
 
 ---
-[[fördernder]], [[förderndes]], [[fördernde]], [[fördernden]], [[förderndem]], [[fördernderer]], [[fördernderes]], [[förderndere]], [[fördernderen]], [[fördernderem]], [[förderndster]], [[förderndstes]], [[förderndste]], [[förderndsten]], [[förderndstem]], [[befeueren]], [[abhalten]], [[zugutekommen]], [[verhelfen]], [[befördern]]
+[[fördernder]], [[förderndes]], [[fördernde]], [[fördernden]], [[förderndem]], [[fördernderer]], [[fördernderes]], [[förderndere]], [[fördernderen]], [[fördernderem]], [[förderndster]], [[förderndstes]], [[förderndste]], [[förderndsten]], [[förderndstem]], [[befeueren]], [[abhalten]], [[zugutekommen]], [[verhelfen]], [[befördern]], [[Förderverein]], [[antreiben]]

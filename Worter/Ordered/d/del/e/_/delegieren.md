@@ -1,1 +1,1 @@
-, [[überlassen]], [[übertragen]]
+, [[überlassen]], [[übertragen]], [[beauftragen]]

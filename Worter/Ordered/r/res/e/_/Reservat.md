@@ -1,1 +1,1 @@
-, [[Schonung]]
+, [[Schonung]], [[Schutzgebiet]]

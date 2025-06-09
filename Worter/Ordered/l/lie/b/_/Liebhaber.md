@@ -28,4 +28,4 @@ G: des [[Liebhabers]], der [[Liebhaber]]
 D: dem [[Liebhaber]], den [[Liebhabern]]
 , [[Vorliebe]]
 
-#Maskulin 
+#Maskulin , [[Hobbybeobachter]]

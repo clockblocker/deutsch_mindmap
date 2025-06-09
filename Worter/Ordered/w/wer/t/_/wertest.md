@@ -1,1 +1,1 @@
-, [[Auswertung]]
+, [[Auswertung]], [[verwerten]]

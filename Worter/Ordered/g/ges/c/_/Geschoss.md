@@ -1,1 +1,1 @@
-, [[Pfeil]], [[Rakete]]
+, [[Pfeil]], [[Rakete]], [[Kanonenkugel]]

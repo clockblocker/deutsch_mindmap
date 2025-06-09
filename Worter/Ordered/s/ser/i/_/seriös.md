@@ -1,1 +1,1 @@
-, [[lächerlich]], [[verantwortungsvoll]], [[verantwortungsbewusst]], [[ernsthaft]]
+, [[lächerlich]], [[verantwortungsvoll]], [[verantwortungsbewusst]], [[ernsthaft]], [[vertrauenswürdig]]

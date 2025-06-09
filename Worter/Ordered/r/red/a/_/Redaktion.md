@@ -1,1 +1,1 @@
-, [[Bearbeitung]]
+, [[Bearbeitung]], [[Redakteur]]

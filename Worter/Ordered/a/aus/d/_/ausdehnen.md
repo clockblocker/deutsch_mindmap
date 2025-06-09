@@ -1,2 +1,2 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
-, [[verlängern]], [[verbreitern]]
+, [[verlängern]], [[verbreitern]], [[weiten]], [[ausweiten]]

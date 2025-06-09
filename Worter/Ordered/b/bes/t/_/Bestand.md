@@ -28,4 +28,4 @@ G: des [[Bestands]], der [[Bestände]]
 D: dem [[Bestand]], den [[Beständen]]
 
 
-#Maskulin , [[Dauer]]
+#Maskulin , [[Dauer]], [[Fortbestand]]

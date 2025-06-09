@@ -26,4 +26,4 @@ N: [[schüchternes]], [[schüchterneres]], [[schüchternste]]
 P: [[schüchternen]], [[schüchterneren]], [[schüchternste]]  
 
 ---
-[[Schüchternheit]], [[schüchtern machen]], [[unschüchtern]], [[schüchtern sein]]
+[[Schüchternheit]], [[schüchtern machen]], [[unschüchtern]], [[schüchtern sein]], [[einschüchtern]]

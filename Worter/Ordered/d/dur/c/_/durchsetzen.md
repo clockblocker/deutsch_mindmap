@@ -7,6 +7,9 @@
 *[[C1-Lesen-T1-000-Text#^14|^]]* [8] kann er [[mitunter]] auf starke [[Strömungen]] treffen, gegen die er sich [[durchsetzen]] muss. ^14
 
 
+*[[C1-Hoehen-T3-402-Text#^2|^]]* Die genannten Richtlinien für die Raumfahrt möchten die Vereinten Nationen gern [[durchsetzen]]
+*(The United Nations would like to [[enforce]] the mentioned guidelines for space travel)*
+
 *[[C1-Hoehen-T1-100-Text#^21|^]]* Auch wenn es kaum möglich sein wird, in bestimmten Stadtteilen eine [[Mietpreisspirale]] [[durchzusetzen]], für Städte die Möglichkeit, private [[Wohnungsbestände]] [[aufzukaufen]] und die Anzahl von Sozialwohnungen zu erhöhen. ^21
 
 

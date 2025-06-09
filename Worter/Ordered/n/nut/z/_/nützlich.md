@@ -26,4 +26,4 @@ N: [[nützliches]], [[nützlicheres]], [[nützlichstes]]
 P: [[nützlichen]], [[nützlicheren]], [[nützlichsten]]  
 
 ---
-[[Nutzen]], [[nützen]], [[Nützlichkeit]], [[unnütz]], [[nutzlos]], [[gemeinnützig]], [[vorteilhaft]], [[umsonst]], [[wertlos]], [[zeitsparend]], [[lohnenswert]], [[nutzen]]
+[[Nutzen]], [[nützen]], [[Nützlichkeit]], [[unnütz]], [[nutzlos]], [[gemeinnützig]], [[vorteilhaft]], [[umsonst]], [[wertlos]], [[zeitsparend]], [[lohnenswert]], [[nutzen]], [[zunutze]]

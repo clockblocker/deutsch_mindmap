@@ -45,4 +45,4 @@ sie, [[ordnen zu]], [[ordneten zu]], [[ordnen zu]], [[ordneten zu]], [[ordnen zu
 Adjektive: [[zuordnend]], [[zuordnender]], [[zuordnendst]]
 
 ---
-[[zuordnender]], [[zuordnendes]], [[zuordnende]], [[zuordnenden]], [[zuordnendem]], [[zuordnenderer]], [[zuordnenderes]], [[zuordnendere]], [[zuordnenderen]], [[zuordnenderem]], [[zuordnendster]], [[zuordnendstes]], [[zuordnendste]], [[zuordnendsten]], [[zuordnendstem]], [[zuschreiben]], [[zuweisen]]
+[[zuordnender]], [[zuordnendes]], [[zuordnende]], [[zuordnenden]], [[zuordnendem]], [[zuordnenderer]], [[zuordnenderes]], [[zuordnendere]], [[zuordnenderen]], [[zuordnenderem]], [[zuordnendster]], [[zuordnendstes]], [[zuordnendste]], [[zuordnendsten]], [[zuordnendstem]], [[zuschreiben]], [[zuweisen]], [[behaften]]

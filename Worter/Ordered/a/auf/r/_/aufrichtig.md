@@ -35,4 +35,4 @@ sincere, honest, candid
 Adjektive: [[aufrichtig]], [[aufrichtiger]], [[aufrichtigst]]
 
 ---
-[[aufrichtiger]], [[aufrichtiges]], [[aufrichtige]], [[aufrichtigen]], [[aufrichtigem]], [[aufrichtigerer]], [[aufrichtigeres]], [[aufrichtigere]], [[aufrichtigeren]], [[aufrichtigerem]], [[aufrichtigster]], [[aufrichtigstes]], [[aufrichtigste]], [[aufrichtigsten]], [[aufrichtigstem]]
+[[aufrichtiger]], [[aufrichtiges]], [[aufrichtige]], [[aufrichtigen]], [[aufrichtigem]], [[aufrichtigerer]], [[aufrichtigeres]], [[aufrichtigere]], [[aufrichtigeren]], [[aufrichtigerem]], [[aufrichtigster]], [[aufrichtigstes]], [[aufrichtigste]], [[aufrichtigsten]], [[aufrichtigstem]], [[vertrauenswürdig]]

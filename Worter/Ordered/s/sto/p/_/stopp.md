@@ -1,1 +1,1 @@
-, [[Einwanderungsstopp]], [[Anwerbestopp]]
+, [[Einwanderungsstopp]], [[Anwerbestopp]], [[Stoppuhr]]

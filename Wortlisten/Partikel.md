@@ -3,3 +3,4 @@
 [[Negationspartikel]]
 [[Abtönungspartikeln]]
 [[Konnektivpartikeln]]
+, [[Teilchen]]

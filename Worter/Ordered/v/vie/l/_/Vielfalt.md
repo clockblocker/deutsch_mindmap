@@ -31,4 +31,4 @@ A: die [[Vielfalt]], die [[Vielfalten]]
 G: der [[Vielfalt]], der [[Vielfalten]]
 D: der [[Vielfalt]], den [[Vielfalten]]
 
-#Feminin 
+#Feminin , [[Artenvielfalt]]

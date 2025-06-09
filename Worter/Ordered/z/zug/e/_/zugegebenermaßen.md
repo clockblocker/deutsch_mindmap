@@ -4,6 +4,8 @@
 *[[C1-Hoehen-T2-101-Text#^35|^]]* Das [[Hauptziel]] haben sie [[zugegebenermaßen]] noch nicht [[erreicht]]
 *(They have not achieved the main goal, [[admittedly]])*
 
+*[[C1-Hoehen-T3-403-Text#^9|^]]* [[Zugegebenermaßen]] gibt es auch [[Außenstehende]], die sich indigenes Wissen [[zunutze]] machen und daran verdienen, ohne die indigenen [[Gemeinde]]n am Profit zu beteiligen oder andere [[umweltschonende]] Maßnahmen zu [[ergreifen]]. ^9
+
 
 *[[C1-Hoehen-T2-101-Text#^4|^]]* Ich würde sagen, beide Parteien können hier etwas bewirken, wobei [[zugegebenermaßen]] schon zu [[beachten]] ist, dass sich laut einer Analyse des Carbon Disclosure Project 70% der internationalen [[Emission]]en auf allein 100 Produzenten [[zurückführen]] lassen
 

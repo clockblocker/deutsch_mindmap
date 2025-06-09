@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-432-Text#^18|^]]* Auch was die [[Rasur]] [[anbetrifft]], gibt es eine [[eindeutig]]e [[Entscheidung]]: Das tägliche [[Rasieren]] des [[Bartwuchses]] fällt unter die Körperhygiene, die vom Arbeitgeber [[vorausgesetzt]] werden kann
 
+*[[C1-Hoehen-T3-402-Text#^2|^]]* Juristische Fragen, die den [[Weltraum]] [[betreffen]]
+
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 
 _[[C1-Hoehen-T3-301-Text#^53|^]]_ Der Mangel [[betrifft]] ja [[keineswegs]] nur die [[Ausbildungsberuf]]e. Unternehmen [[beklagen]] in vielen Wirtschaftsbranchen auch einen Mangel an Fachkräften in Berufen mit akademischer Ausbildung, [[vorwiegend]] im Bereich der [[MINT]]-[[Fächer]], also Mathematik, Informatik, Naturwissenschaften und Technik

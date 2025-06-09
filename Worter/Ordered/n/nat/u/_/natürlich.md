@@ -27,4 +27,4 @@ Adjektive: [[natürlich]], [[natürlicher]], [[natürlichst]]
 ---
 [[natürlicher]], [[natürliches]], [[natürliche]], [[natürlichen]], [[natürlichem]], [[natürlicherer]], [[natürlicheres]], [[natürlichere]], [[natürlicheren]], [[natürlicherem]], [[natürlichster]], [[natürlichstes]], [[natürlichste]], [[natürlichsten]], [[natürlichstem]]
 
-[[stehen]], [[spontan]], [[naturgetreu]], [[angeboren]], [[Naturvolk]], [[umweltfreundlich]]
+[[stehen]], [[spontan]], [[naturgetreu]], [[angeboren]], [[Naturvolk]], [[umweltfreundlich]], [[organisch]]

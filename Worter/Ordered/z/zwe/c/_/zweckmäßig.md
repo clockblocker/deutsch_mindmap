@@ -1,1 +1,1 @@
-, [[bequem]], [[Nützliches]], [[effizient]], [[zielgerichtet]], [[Überflüssigerweise]]
+, [[bequem]], [[Nützliches]], [[effizient]], [[zielgerichtet]], [[Überflüssigerweise]], [[zunutze]]

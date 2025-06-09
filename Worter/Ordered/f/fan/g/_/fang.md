@@ -1,1 +1,1 @@
-, [[anfangen]], [[fangen]], [[auffangen]], [[empfangen]], [[Anfang]], [[umfangreich]], [[Umfang]]
+, [[anfangen]], [[fangen]], [[auffangen]], [[empfangen]], [[Anfang]], [[umfangreich]], [[Umfang]], [[Fischfang]]

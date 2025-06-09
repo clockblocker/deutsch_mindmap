@@ -50,4 +50,4 @@ Adjektive: [[ausspionierend]], [[ausspionierender]], [[ausspionierendst]]
 ---
 [[ausspionierender]], [[ausspionierendes]], [[ausspionierende]], [[ausspionierenden]], [[ausspionierendem]], [[ausspionierenderer]], [[ausspionierenderes]], [[ausspionierendere]], [[ausspionierenderen]], [[ausspionierenderem]], [[ausspionierendster]], [[ausspionierendstes]], [[ausspionierendste]], [[ausspionierendsten]], [[ausspionierendstem]]
 
-#Neuter 
+#Neuter , [[Ausspionierung]]

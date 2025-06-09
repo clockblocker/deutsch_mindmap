@@ -1,1 +1,1 @@
-, [[Gebiet]], [[Besatzungszone]]
+, [[Gebiet]], [[Besatzungszone]], [[Schutzgebiet]]

@@ -1,1 +1,1 @@
-, [[Abgas]], [[Autoabgas]], [[Sauerstoff]], [[Kohlendioxid]], [[Luft]]
+, [[Abgas]], [[Autoabgas]], [[Sauerstoff]], [[Kohlendioxid]], [[Luft]], [[Wasserstoff]]

@@ -49,4 +49,4 @@ sie, [[vergrößern]], [[vergrößerten]], [[vergrößern]], [[vergrößerten]],
 Adjektive: [[vergrößernd]], [[vergrößernder]], [[vergrößerndst]]
 
 ---
-[[vergrößernder]], [[vergrößerndes]], [[vergrößernde]], [[vergrößernden]], [[vergrößerndem]], [[vergrößernderer]], [[vergrößernderes]], [[vergrößerndere]], [[vergrößernderen]], [[vergrößernderem]], [[vergrößerndster]], [[vergrößerndstes]], [[vergrößerndste]], [[vergrößerndsten]], [[vergrößerndstem]], [[verlängern]], [[eindämmen]], [[zulegen]], [[überziehen]], [[bereichern]], [[ausgleichen]], [[verschärfen]], [[anwachsen]]
+[[vergrößernder]], [[vergrößerndes]], [[vergrößernde]], [[vergrößernden]], [[vergrößerndem]], [[vergrößernderer]], [[vergrößernderes]], [[vergrößerndere]], [[vergrößernderen]], [[vergrößernderem]], [[vergrößerndster]], [[vergrößerndstes]], [[vergrößerndste]], [[vergrößerndsten]], [[vergrößerndstem]], [[verlängern]], [[eindämmen]], [[zulegen]], [[überziehen]], [[bereichern]], [[ausgleichen]], [[verschärfen]], [[anwachsen]], [[weiten]]

@@ -1,1 +1,1 @@
-, [[Deutschland]], [[Wohnort]], [[einheimisch]], [[Heimatstadt]], [[Herkunft]], [[heimisch]], [[Herkunftsland]]
+, [[Deutschland]], [[Wohnort]], [[einheimisch]], [[Heimatstadt]], [[Herkunft]], [[heimisch]], [[Herkunftsland]], [[Lebensraum]]

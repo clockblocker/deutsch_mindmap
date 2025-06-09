@@ -40,4 +40,4 @@ D: dem [[Grund]], den [[Gründen]]
 
 , [[zugrunde]]
 
-#Maskulin , [[Wasseroberfläche]], [[Antriebsfaktor]], [[Energiegrundumsatz]], [[Grundeinstellung]], [[tiefgründig]], [[Grundeinkommen]], [[Grundprogramm]], [[Vordergrund]], [[Grundpreis]], [[Grundzug]], [[Entlassungsgrund]]
+#Maskulin , [[Wasseroberfläche]], [[Antriebsfaktor]], [[Energiegrundumsatz]], [[Grundeinstellung]], [[tiefgründig]], [[Grundeinkommen]], [[Grundprogramm]], [[Vordergrund]], [[Grundpreis]], [[Grundzug]], [[Entlassungsgrund]], [[Lebensgrundlage]]

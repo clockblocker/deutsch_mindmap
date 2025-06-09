@@ -3,6 +3,9 @@
 ---
 *[[C1-Hoehen-T2-102-Text#^26|^]]* Als [[Feinstaubprotagonist]]en der [[Gegenwart]] sind Industrie, [[Abfall]], Landwirtschaft und Kamine privater Haushalte zu nennen
 
+*[[C1-Hoehen-T3-403-Text#^1|^]]* Die Wiederverwertung von Müll sollte besonders bei den [[organisch]]en [[Abfällen]] intensiver betrieben werden
+
+
 ---
 = [[Müll]], [[Unrat]], [[Schutt]]
 ≈ [[Reststoffe]], [[Entsorgung]], [[Abraum]]
@@ -26,4 +29,4 @@ A: den [[Abfall]], die [[Abfälle]]
 G: des [[Abfalls]], der [[Abfälle]]
 D: dem [[Abfall]], den [[Abfällen]]
 
-#Maskulin 
+#Maskulin , [[Schrottteil]]

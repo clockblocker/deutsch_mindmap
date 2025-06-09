@@ -1,1 +1,1 @@
-, [[klimafreundlich]], [[plastikintensiv]], [[umweltfreundlich]], [[Umweltsünde]], [[Umweltverhalten]]
+, [[klimafreundlich]], [[plastikintensiv]], [[umweltfreundlich]], [[Umweltsünde]], [[Umweltverhalten]], [[umweltschonend]]

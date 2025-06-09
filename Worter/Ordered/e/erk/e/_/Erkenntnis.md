@@ -36,4 +36,4 @@ D: der [[Erkenntnis]], den [[Erkenntnissen]]
 [[erkennen]], [[erkennen]] (untrennbar), [[ernst]], [[kenntnisreich]], [[spontanen]]
 , [[erkennbar]], 
 
-#Feminin , [[anerkennen]], [[Forschungsergebnis]]
+#Feminin , [[anerkennen]], [[Forschungsergebnis]], [[Entdeckung]]

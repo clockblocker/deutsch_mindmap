@@ -5,6 +5,10 @@
 ---
 *[[C1-Lesen-431-Text#^3|^]]* Neben dem Smartphone können sich auch Lärm, Musik oder die Präsenz anderer Menschen in unser [[Bewusstsein]] [[schleichen]] und die Lesekonzentration [[gefährden]]
 
+*[[C1-Hoehen-T3-403-Text#^1|^]]* Der heutige [[Fischfang]] [[gefährdet]] den [[Fortbestand]] vieler Fischarten
+
+*[[C1-Hoehen-T3-402-Text#^15|^]]* [[Gefährden]] dieses [[Schrottteile]] nicht auch die Sicherheit der so heiß diskutierten privaten [[Weltraumreise]]n?
+
 Falls wir bis Ende der Woche mit einer ersten Version der Präsentation nicht fertig sind, können wir den [[Auftrag]] [[gefährden]] – und damit monatelange [[Vorarbeit]] aufs Spiel setzen. 
 
 *[[C1-Hoehen-T1-202-Text#^26|^]]* *Heute fordern die [[Vereinten]] Nationen eine Entwicklung beim Klimaschutz, die den [[Erfordernis]]sen der heutigen Generationen [[zwar]] [[entspricht]],* 

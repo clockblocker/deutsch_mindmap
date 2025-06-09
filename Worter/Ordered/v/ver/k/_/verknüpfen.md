@@ -45,4 +45,4 @@ sie, [[verknüpfen]], [[verknüpften]], [[verknüpfen]], [[verknüpften]], [[ver
 Adjektive: [[verknüpfend]], [[verknüpfender]], [[verknüpfendst]]
 
 ---
-[[verknüpfender]], [[verknüpfendes]], [[verknüpfende]], [[verknüpfenden]], [[verknüpfendem]], [[verknüpfenderer]], [[verknüpfenderes]], [[verknüpfendere]], [[verknüpfenderen]], [[verknüpfenderem]], [[verknüpfendster]], [[verknüpfendstes]], [[verknüpfendste]], [[verknüpfendsten]], [[verknüpfendstem]]
+[[verknüpfender]], [[verknüpfendes]], [[verknüpfende]], [[verknüpfenden]], [[verknüpfendem]], [[verknüpfenderer]], [[verknüpfenderes]], [[verknüpfendere]], [[verknüpfenderen]], [[verknüpfenderem]], [[verknüpfendster]], [[verknüpfendstes]], [[verknüpfendste]], [[verknüpfendsten]], [[verknüpfendstem]], [[behaften]]

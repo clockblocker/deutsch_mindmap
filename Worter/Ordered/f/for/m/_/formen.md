@@ -1,1 +1,1 @@
-, [[bilden]], [[gestalten]], [[prägen]], [[wohlgeformt]], [[designen]], [[erziehen]], [[Arbeitsform]], [[mitformen]]
+, [[bilden]], [[gestalten]], [[prägen]], [[wohlgeformt]], [[designen]], [[erziehen]], [[Arbeitsform]], [[mitformen]], [[ausprägen]]

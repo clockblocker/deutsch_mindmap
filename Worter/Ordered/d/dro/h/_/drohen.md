@@ -44,3 +44,4 @@ Morpheme: [[droh]], [[en]]
 
 Partizip I: [[drohend]], Partizip II: [[gedroht]]
 [[drohen]] - [[droh]] = [[en]], [[bevorstehen]], [[ankündigen]], [[bedrohen]]
+, [[einschüchtern]]

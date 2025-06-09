@@ -1,1 +1,1 @@
-, [[Vielfalt]]
+, [[Vielfalt]], [[Artenvielfalt]]

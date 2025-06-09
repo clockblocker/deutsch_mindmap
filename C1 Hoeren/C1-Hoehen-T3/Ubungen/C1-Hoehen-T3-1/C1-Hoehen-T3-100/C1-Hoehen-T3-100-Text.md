@@ -88,3 +88,5 @@ Dann kommen wir zum Thema, wie wir eigentlich reisen wollen.
 
 🔵
 Um das Thema "Nachhaltiger Tourismus" anzusprechen, das ja im Widerspruch zum Massentourismus steht, reicht die Zeit heute nicht. Nur kurz, um zu zeigen, dass bei vielen Reisenden bereits ein Umdenken stattgefunden hat: Es gibt verschiedene Klimaschutzprojekte, die Reisende konkret fördern. Bei ihren Reisen bezahlen heute viele Touristen freiwillig je nach der Dauer ihres Fluges oder ihrer Autofahrt eine Summe, die für den Klimaschutz genutzt wird. Und die Zahl der Spender steigt. Auf den Tourismussektor entfallen 8 Prozent der CO₂-Emissionen in der Welt. Je mehr das Bewusstsein über notwendige Maßnahmen gegen den Klimawandel steigt, und ich bin sicher, das Bewusstsein wird noch weiter zunehmen, desto mehr wird man sich überlegen, zu welcher Jahreszeit man in welche Region mit welchem Verkehrsmittel fährt oder fliegt. Und das hat dann auch eindeutige Auswirkungen auf den Massentourismus.
+
+

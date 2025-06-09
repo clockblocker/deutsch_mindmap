@@ -26,4 +26,4 @@ Morpheme:
 [[Leinewand]], [[Kunststoffabfall]], [[Kunststoffreste]], [[Abwehrstoff]], [[Stoffwechsel]], [[Sauerstoff]], [[Stoffwechselmechanismus]], [[Mineralstoff]], [[Stoffwechselprozess]], [[Nährstoffgehalt]], [[Schadstoff]]
 
 
-#Maskulin , [[Wirkstoff]], [[Reifenmaterial]]
+#Maskulin , [[Wirkstoff]], [[Reifenmaterial]], [[Wasserstoff]]

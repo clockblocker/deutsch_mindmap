@@ -3,6 +3,7 @@
 haben [[gekämpft]]
 
 ---
+*[[C1-Hoehen-T3-403-Text#^3|^]]* Führende Persönlichkeiten indigener Gemeinschaften müssen immer noch um ihre [[Anerkennung]] [[kämpfen]]
 
 - Wir halten zusammen Keiner kämpft allein
 - Eines Tages aber bekam der Hase Streit mit einem Hirsch; dieser [[kämpfte]] gegen den Hasen und tötete ihn mit dem Geweih

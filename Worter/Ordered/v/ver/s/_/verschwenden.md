@@ -38,4 +38,4 @@ PI: [[verschwendend]], PII: [[verschwendet]], Zu+inf: [[zu verschwenden]]
 ---
 [[Verschwendung]], [[verschwenderisch]], [[verschwendet]]
 
-, [[Verschwendungsgesellschaft]], [[Verschwender]], [[verurteilen]], [[Beiseitelegen]]
+, [[Verschwendungsgesellschaft]], [[Verschwender]], [[verurteilen]], [[Beiseitelegen]], [[verwerten]]

@@ -2,6 +2,8 @@
 
 ---
 
+![[39_Modelltest 10_Teil_3.mp3]]
+
 16. Leiharbeit ...
     - [ ] a wird von allen Arbeitnehmern begrüßt
     - [ ] b entbindet Arbeitgeber von ihrer Verpflichtung den Angestellten gegenüber

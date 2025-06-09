@@ -19,4 +19,4 @@ Alle Formen:
 | Nominative  | das Wasser        | die Wasser     |
 | Accusative  | das Wasser        | die Wasser     |
 | Dative      | dem Wasser        | den Wassern    |
-| Genitive    | des Wassers       | der Wasser     |[[Regen]], [[Wasserhahn]], [[Wasserblase]], [[s1 e1]], [[wie ein Fisch im Wasser sein]], [[Fruchtsaft]], [[Sherry]], [[Schmelzwasser]], [[Wasserversorgung]], [[Wasseroberfläche]], [[Wasserkreislauf]], [[Wasserreservoir]], [[Wassermanagement]], [[Wassermasse]]
+| Genitive    | des Wassers       | der Wasser     |[[Regen]], [[Wasserhahn]], [[Wasserblase]], [[s1 e1]], [[wie ein Fisch im Wasser sein]], [[Fruchtsaft]], [[Sherry]], [[Schmelzwasser]], [[Wasserversorgung]], [[Wasseroberfläche]], [[Wasserkreislauf]], [[Wasserreservoir]], [[Wassermanagement]], [[Wassermasse]], [[Wasserstoff]]

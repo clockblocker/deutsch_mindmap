@@ -38,4 +38,4 @@ Morpheme: [[trenn]], [[en]]
 Partizip I: [[trennend]], Partizip II: [[getrennt]]
 
 [[trennen]] - [[trenn]] = [[en]], [[vermischen]], , [[mischen]], [[knüpfen]], [[verheiraten]], [[aufteilen]], [[abscheiden]], [[angehören]], [[Trennungsjahr]], [[anfügen]], [[anheften]], [[Eiserner Vorhang]], [[unterscheiden]], [[auseinanderzuhalten]], [[durchtrennen]], [[spalten]], [[paaren]], [[zusammensetzen]], [[Vermengen]], [[koppeln]], [[zuordnen]], [[weben]], [[verankern]]
-, [[vereinigen]], [[verflechten]]
+, [[vereinigen]], [[verflechten]], [[behaften]]

@@ -1,3 +1,3 @@
 🟢 📰 das [[Medium]], [ˈmeːdi̯ʊm], [[Berichterstattung]]
 
-#Plural 
+#Plural , [[Medienberichterstattung]]

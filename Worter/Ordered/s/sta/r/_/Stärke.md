@@ -1,2 +1,2 @@
 [[Energie]], [[Vorteil]], [[Schwäche]], [[Kraft]], [[Begabung]], [[Erfolgsfaktor]], [[Kommunikationsstärke]], [[stark]], [[stärken]], [[Dichte]], [[Lautstärke]], [[verstärken]], [[Widerstandsfähigkeit]], [[Resilienz]], [[Zerbrechlichkeit]]
-, [[Leistungsfähigkeit]], [[Urgewalt]]
+, [[Leistungsfähigkeit]], [[Urgewalt]], [[Schwachstelle]]

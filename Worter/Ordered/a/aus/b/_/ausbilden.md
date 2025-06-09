@@ -44,4 +44,4 @@ Morpheme: [[aus]], [[bild]], [[en]]
 
 Partizip I: [[ausbildend]], Partizip II: [[ausgebildet]]
 [[ausbilden]] - [[aus]] = [[bilden]], [[entwickeln]], [[s1 e1]], [[erziehen]], [[ausreifen]], [[reifen]], [[erlernen]], [[Ausbildungsberuf]], [[Ausbildungsstelle]], [[Berufsausbildung]], [[Ausbildungsstätte]]
-, [[weiterbilden]]
+, [[weiterbilden]], [[ausprägen]]

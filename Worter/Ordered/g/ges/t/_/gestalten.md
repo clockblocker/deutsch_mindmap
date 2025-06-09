@@ -60,4 +60,4 @@ Partizip I: [[gestaltend]], Partizip II: [[gestaltet]]
 
 [[arrangieren]], [[bilden]]
 , [[erscheinen]], [[prägen]], [[malen]], [[verwandeln]], [[designen]], [[ausarbeiten]], [[Preisgestaltung]]
-, [[planen]], [[verzieren]], [[mitformen]], [[erschaffen]], [[einprogrammieren]], [[umgestalten]]
+, [[planen]], [[verzieren]], [[mitformen]], [[erschaffen]], [[einprogrammieren]], [[umgestalten]], [[ausprägen]]

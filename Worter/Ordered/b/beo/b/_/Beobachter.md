@@ -1,1 +1,1 @@
-, [[Zuschauer]], [[beobachten]]
+, [[Zuschauer]], [[beobachten]], [[Hobbybeobachter]]

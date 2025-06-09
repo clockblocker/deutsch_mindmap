@@ -4,6 +4,8 @@
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
+*[[C1-Hoehen-T3-402-Text#^1|^]]* Welche Themen werden [[zunehmend]] in der [[Medienberichterstattung]] [[berücksichtigt]]?
+
 *[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne Stadtplanung wurde bei der Rooftop-Farm nicht [[berücksichtigt]]
 *(Modern urban planning was not [[taken into account]] in the rooftop farm)*
 

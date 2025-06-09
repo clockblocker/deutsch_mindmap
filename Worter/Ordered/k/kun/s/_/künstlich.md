@@ -23,4 +23,4 @@ artificial, synthetic
 Adjektive: [[künstlich]], [[künstlicher]], [[künstlichst]]
 
 ---
-[[künstlicher]], [[künstliches]], [[künstliche]], [[künstlichen]], [[künstlichem]], [[künstlicherer]], [[künstlicheres]], [[künstlichere]], [[künstlicheren]], [[künstlicherem]], [[künstlichster]], [[künstlichstes]], [[künstlichste]], [[künstlichsten]], [[künstlichstem]]
+[[künstlicher]], [[künstliches]], [[künstliche]], [[künstlichen]], [[künstlichem]], [[künstlicherer]], [[künstlicheres]], [[künstlichere]], [[künstlicheren]], [[künstlicherem]], [[künstlichster]], [[künstlichstes]], [[künstlichste]], [[künstlichsten]], [[künstlichstem]], [[organisch]]

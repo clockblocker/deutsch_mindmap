@@ -1,1 +1,1 @@
-, [[Vertrauensschwund]]
+, [[Vertrauensschwund]], [[vertrauenswürdig]]

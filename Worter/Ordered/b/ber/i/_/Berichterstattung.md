@@ -37,3 +37,4 @@ D: der [[Berichterstattung]], den [[Berichterstattungen]]
 
 , [[berichten]]
 --> [[🗣️ Ingredient-Meinung]] <--
+, [[Medienberichterstattung]]

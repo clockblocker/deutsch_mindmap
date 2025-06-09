@@ -4,6 +4,10 @@
 [[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderung]]en [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 
+*[[C1-Hoehen-T3-403-Text#^2|^]]* Dass es an [[vertrauenswürdig]]er [[Zertifizierung]] [[mangelt]]
+*(That there is a [[lack]] of [[trustworthy]] [[certification]])*
+
+
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
 
 

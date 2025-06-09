@@ -88,7 +88,7 @@
 *[[C1-Hoehen-T3-401-Text#^3|^]]* Er lässt sich für [[Großveranstaltung]]en [[umgestalt]]en ^3
 
  
- 
+
 *[[C1-Hoehen-T3-401-Text#^3|^]]* Die [[Landflucht]] trägt zu einer geringen [[Fruchtbarkeit]] der Menschen bei ^3
 
 *[[C1-Hoehen-T3-401-Text#^3|^]]* Die Landflucht [[verursacht]] eine fallende [[Geburtenrate]] ^3
@@ -168,7 +168,7 @@
 
 ***Frau Zimmermann:***  
 *Ja, in der Tat.* 
-*[[C1-Hoehen-T3-401-Text#^7|^]]* Der Park wurde von den New Yorkern sofort angenommen, hat einen Förderverein und konnte sich auch zu einem Touristenmagnet entwickeln. ^7
+*[[C1-Hoehen-T3-401-Text#^7|^]]* Der Park wurde von den New Yorkern sofort [[angenommen]], hat einen [[Förderverein]] und konnte sich auch zu einem [[Touristenmagnet]] [[entwickeln]]. ^7
 
 *Neben dem Spazieren wird er für kulturelle Events wie Konzerte und Ausstellungen genutzt. Eine gelungene Kombination von Stadt, Natur und Kultur, die auch andere Megacitys gut bekommen würde.*
 
@@ -183,7 +183,7 @@
 
 ***Herr Floto:***  
 *Ja, das verwundert: Bis 2007 waren weltweit mehr Menschen in einem Dorf beheimatet, seitdem überwiegt das Gros der Weltbevölkerung in Städten.* 
-*[[C1-Hoehen-T3-401-Text#^9|^]]* Dieser [[Wandel]] passiert in Afrika und Asien besonders schnell. ^9
+*[[C1-Hoehen-T3-401-Text#^9|^]]* Dieser [[Wandel]] in Afrika und Asien besonders [[ausgprägt]]. ^9
 
 *[[C1-Hoehen-T3-401-Text#^10|^]]* Prognosen [[voraussehen|sehen]] bis 2050 ein urbanes Wachstum um 90 Prozent auf diesen Kontinenten voraus. ^10
 
@@ -197,7 +197,7 @@
 *[[C1-Hoehen-T3-401-Text#^11|^]]* Je nach der [[Bevölkerungsdichte]] einer Stadt müssen sich daher [[nachhaltig]]e Transportkonzepte [[voneinander]] [[unterscheiden]]. ^11
 
 *Gefragt sind intelligente Verkehrs- und Logistikkonzepte für Metropolen, die sogenannte Smart-Mobility.* 
-*[[C1-Hoehen-T3-401-Text#^12|^]]* Den Menschen bietet man digital gestützte Mobilität-on-Demand an, also je nach Bedarf bequem transportiert zu werden. ^12
+*[[C1-Hoehen-T3-401-Text#^12|^]]* Den Menschen bietet man digital [[gestützte]] Mobilität-on-Demand an, also je nach [[Bedarf]] bequem transportiert zu werden. ^12
 
 *So könnten private Fahrzeuge eingespart und der Schadstoffausstoß gesenkt werden.*
 

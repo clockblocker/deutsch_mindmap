@@ -2,6 +2,8 @@
 
 ---
 
+![[19_Modelltest 5_Teil_3.mp3]]
+
 24. Das Sammeln ...
     - [ ] a beschränkte sich bei den Urahnen auf das Horten von Essbarem
     - [ ] b ist dem Gros der Bundesbürger suspekt

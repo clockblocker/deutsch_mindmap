@@ -1,1 +1,1 @@
-, [[Begebenheit]], [[herausfinden]], [[Geschichtsbuch]]
+, [[Begebenheit]], [[herausfinden]], [[Geschichtsbuch]], [[Entdeckung]]

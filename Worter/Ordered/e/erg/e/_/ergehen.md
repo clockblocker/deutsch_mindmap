@@ -46,4 +46,4 @@ sie, [[ergehen]], [[ergingen]], [[ergehen]], [[ergängen]], [[ergehen]]
 Adjektive: [[ergehend]], [[ergehender]], [[ergehendst]]
 
 ---
-[[ergehender]], [[ergehendes]], [[ergehende]], [[ergehenden]], [[ergehendem]], [[ergehenderer]], [[ergehenderes]], [[ergehendere]], [[ergehenderen]], [[ergehenderem]], [[ergehendster]], [[ergehendstes]], [[ergehendste]], [[ergehendsten]], [[ergehendstem]]
+[[ergehender]], [[ergehendes]], [[ergehende]], [[ergehenden]], [[ergehendem]], [[ergehenderer]], [[ergehenderes]], [[ergehendere]], [[ergehenderen]], [[ergehenderem]], [[ergehendster]], [[ergehendstes]], [[ergehendste]], [[ergehendsten]], [[ergehendstem]], [[Vorfall]]

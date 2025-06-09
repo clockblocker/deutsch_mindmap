@@ -4,8 +4,10 @@
 *[[02-C1-Schreiben-T2-M#^6|^]]* * Machen Sie einen [[Vorschlag]] für das weitere [[Vorgehen]]. ^6
 
 
-*[[C1-Hoehen-T1-402-Text#^25|^]]* Ein unorthodoxes [[Vorgehen]], das jedoch von Erfolg [[gekrönt]] wird
+*[[C1-Hoehen-T3-402-Text#^4|^]]* Wie [[vorgehen|gehen]] private [[Raumfahrtunternehmen]] vor?
+*(How do private [[space companies]] [[proceed]]?)*
 
+*[[C1-Hoehen-T1-402-Text#^25|^]]* Ein unorthodoxes [[Vorgehen]], das jedoch von Erfolg [[gekrönt]] wird
 
 Wie soll wir [[Vorgehen]]?
 

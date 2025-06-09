@@ -32,4 +32,4 @@ G: der [[Ausnahme]], der [[Ausnahmen]]
 D: der [[Ausnahme]], den [[Ausnahmen]]
 
 
-#Feminin , [[Einzelfallregelung]], [[Alltag]], [[Sonderform]], [[Alltagsverhaltensweise]], [[Prinzip]], [[Vorschrift]], [[Umweltstandard]], [[Gewohnheit]]
+#Feminin , [[Einzelfallregelung]], [[Alltag]], [[Sonderform]], [[Alltagsverhaltensweise]], [[Prinzip]], [[Vorschrift]], [[Umweltstandard]], [[Gewohnheit]], [[Ausnahmefall]]

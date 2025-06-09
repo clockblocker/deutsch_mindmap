@@ -24,4 +24,4 @@ expected, probably
 Adjektive: [[voraussichtlich]], [[voraussichtlicher]], [[voraussichtlichst]]
 
 ---
-[[voraussichtlicher]], [[voraussichtliches]], [[voraussichtliche]], [[voraussichtlichen]], [[voraussichtlichem]], [[voraussichtlicherer]], [[voraussichtlicheres]], [[voraussichtlichere]], [[voraussichtlicheren]], [[voraussichtlicherem]], [[voraussichtlichster]], [[voraussichtlichstes]], [[voraussichtlichste]], [[voraussichtlichsten]], [[voraussichtlichstem]], [[C1-Hoehen-T3-401-Text]]
+[[voraussichtlicher]], [[voraussichtliches]], [[voraussichtliche]], [[voraussichtlichen]], [[voraussichtlichem]], [[voraussichtlicherer]], [[voraussichtlicheres]], [[voraussichtlichere]], [[voraussichtlicheren]], [[voraussichtlicherem]], [[voraussichtlichster]], [[voraussichtlichstes]], [[voraussichtlichste]], [[voraussichtlichsten]], [[voraussichtlichstem]], [[C1-Hoehen-T3-401-Text]], [[schätzungsweise]]

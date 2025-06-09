@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Triebs]], [[Triebe]], [[Trieben]]
 
 ---
-#Substantiv #Maskulin, [[treiben]], [[Betrieb]], [[hochtreiben]]
+#Substantiv #Maskulin, [[treiben]], [[Betrieb]], [[hochtreiben]], [[antreiben]]

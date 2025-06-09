@@ -45,4 +45,4 @@ PI: [[prägend]], PII: [[geprägt]], Zu+inf: [[zu prägen]]
 ---
 
 [[Prägung]], [[prägend]], [[Gepräge]], [[Münzprägung]], [[charakterprägen]], [[beeindrucken]], [[Münze]], [[erziehen]], [[vorherrschen]], [[ausgeprägt]]
-, [[stark ins Gewicht fallen]], [[mitformen]]
+, [[stark ins Gewicht fallen]], [[mitformen]], [[ausprägen]]

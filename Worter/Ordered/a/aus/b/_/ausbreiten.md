@@ -5,6 +5,8 @@
 haben [[ausgebreitet]]
 
 ---
+*[[C1-Hoehen-T3-403-Text#^12|^]]* in Südamerika [[ausbreitet|breitet]] sich die [[zerstörerisch]]e Agrar- und [[Holzwirtschaft]] in einer [[atemberauben]]den [[Geschwindigkeit]] immer mehr über indigenes [[Schutzgebiet]] aus
+
 
 ([[Breitet]] seine Hände aus und sieht Zuko [[an]])
 

@@ -3,6 +3,7 @@
 haben [[angegriffen]]
 
 ---
+*[[C1-Hoehen-T3-402-Text#^2|^]]* Satelliten sind in der Lage, bestimmte Ziele [[anzugreifen]]
 
 Miete! Oder ich [[greife an]]!
 

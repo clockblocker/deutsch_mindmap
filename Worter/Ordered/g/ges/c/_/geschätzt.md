@@ -1,1 +1,1 @@
-, [[beliebtes]], [[schätzen]], [[geehrt]], [[wertschätzen]], [[gemessen]], [[circa]]
+, [[beliebtes]], [[schätzen]], [[geehrt]], [[wertschätzen]], [[gemessen]], [[circa]], [[schätzungsweise]]

@@ -3,6 +3,8 @@
 ---
 Was [[gilt]] `bei` dem [[Erwerb]] von Software, E-Books usw.?
 
+*[[C1-Hoehen-T3-402-Text#^2|^]]* Die genannten [[Richtlinie]]n für die [[Raumfahrt]] [[gelten]] auch im [[Fall]] [[kämpferisch]]er [[Auseinandersetzung]]en
+
 *[[C1-Lesen-432-Text#^14|^]]* Es steht auch fest, dass für die Arbeit im Team bestimmte [[Mindestvoraussetzung]]en [[bezüglich]] der Garderobe [[gelten]]
 
 *[[C1-Lesen-432-Text#^3|^]]* [[Kleidungsvorschrift]]en [[gelten]] auch heute noch in einigen [[Berufssparten]]

@@ -1,1 +1,1 @@
-, [[Gebiet]], [[Bundesland]], [[Viertel]], [[Umkreis]], [[Gelände]], [[Ort]], [[Stadtteil]], [[Ballungszentrum]], [[Gegend]]
+, [[Gebiet]], [[Bundesland]], [[Viertel]], [[Umkreis]], [[Gelände]], [[Ort]], [[Stadtteil]], [[Ballungszentrum]], [[Gegend]], [[Lebensraum]]

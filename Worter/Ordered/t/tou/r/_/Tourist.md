@@ -1,1 +1,1 @@
-, [[Staatsgast]], [[Kreuzfahrttourist]]
+, [[Staatsgast]], [[Kreuzfahrttourist]], [[Touristenmagnet]]

@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-201-Text#^13|^]]* [[Wobei]] ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast [[verehren]] oder als notwendiges Übel betrachten
 
+*[[C1-Hoehen-T3-403-Text#^6|^]]* Ihr Zugang zum Ökosystem achtet und respektiert Bäume und Pflanzen, die ganz bewusst als [[Lebewesen]] [[wahrgenommen]] und teilweise auch [[verehrt]] werden
+
 ---
 = [[anbeten]], [[achten]], [[schätzen]], [[bewundern]], [[liebgewinnen]]
 ≈ [[ehren]], [[würdigen]], [[respektieren]]

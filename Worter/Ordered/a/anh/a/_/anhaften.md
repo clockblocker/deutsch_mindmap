@@ -1,1 +1,1 @@
-, [[kleben]], [[haften]]
+, [[kleben]], [[haften]], [[behaften]]

@@ -1,1 +1,1 @@
-, [[Nachteile]], [[Schädliches]], [[widrig]], [[vorteilhaft]], [[Nachteil]], [[lohnenswert]], [[missbräuchlich]], [[abträglich]]
+, [[Nachteile]], [[Schädliches]], [[widrig]], [[vorteilhaft]], [[Nachteil]], [[lohnenswert]], [[missbräuchlich]], [[abträglich]], [[zunutze]]

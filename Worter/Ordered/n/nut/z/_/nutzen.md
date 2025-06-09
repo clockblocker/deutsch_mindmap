@@ -110,4 +110,4 @@ G: des [[Nutzens]], der [[Nutzen]]
 D: dem [[Nutzen]], den [[Nutzen]]
 
 #Maskulin , [[heranziehen]], [[weiterverwenden]]
-, [[zurückgreifen]], [[ergreifen]]
+, [[zurückgreifen]], [[ergreifen]], [[verwerten]], [[zunutze]]

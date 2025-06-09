@@ -1,1 +1,1 @@
-, [[machen]], [[klarmachen]], [[festmachen]], [[nassmachen]], [[ausmachen]], [[haltmachen]]
+, [[machen]], [[klarmachen]], [[festmachen]], [[nassmachen]], [[ausmachen]], [[haltmachen]], [[zunutze]]

@@ -3,6 +3,7 @@
 haben [[geraubt]]
 
 ---
+*[[C1-Hoehen-T3-403-Text#^13|^]]* Obwohl bekannt ist, wie katastrophal sich solche [[Vorgänge]] auf das Ökosystem und die [[Biodiversität]] [[auswirken]]. Somit [[raubt]] man den [[Eingeborenen]] ihre [[Lebensgrundlage]]
 
 🔵 der [[Räuber]], [ˈʁɔʏ̯bɐ], 🔵 der [[Raub]],
 

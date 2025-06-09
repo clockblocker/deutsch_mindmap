@@ -3,6 +3,7 @@
 haben [[umgewandelt]]
 
 ---
+*[[C1-Hoehen-T3-402-Text#^2|^]]* Satelliten können in Waffen [[umgewandelt]] werden
 
 Der Atem wird im Körper zu Energie [[umgewandelt]]. Die Energie überträgt sich direkt auf die Gliedmaßen und wird zu Feuer!
 

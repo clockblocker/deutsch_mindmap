@@ -4,6 +4,8 @@ die [[Opfer]]
 ---
 *[[C1-Hoehen-T2-401-Text#^4|^]]* Nach Herrn Gröner ist kaum [[anzunehmen]], dass [[Täter]] außer ihrem [[Opfer]] weitere Personen angreifen
 
+*[[C1-Hoehen-T3-403-Text#^3|^]]* Führende Persönlichkeiten indigener Gemeinschaften sind [[häufig]] [[Opfer]] von [[übler]] [[Nachrede]]
+
 *[[C1-Hoehen-T3-400-Text#^4|^]]* Weiterbildung für die Leiharbeiter fällt regelmäßig dem [[Zeitfaktor]] zum [[Opfer]]
 *(Further training for temporary workers regularly falls victim to the [[time factor]])*
 

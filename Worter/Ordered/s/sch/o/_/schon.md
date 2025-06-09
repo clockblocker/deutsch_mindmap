@@ -36,4 +36,4 @@ already, yet, still
 Morpheme:
 [[schon]]
 
----, [[Meldung]], [[s1 e1]], [[Abtönungspartikeln]], [[schonen]], [[Ressourcenschonung]], [[Schonung]]
+---, [[Meldung]], [[s1 e1]], [[Abtönungspartikeln]], [[schonen]], [[Ressourcenschonung]], [[Schonung]], [[umweltschonend]]

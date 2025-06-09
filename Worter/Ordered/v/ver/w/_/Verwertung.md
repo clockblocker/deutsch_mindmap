@@ -30,4 +30,4 @@ G: der [[Verwertung]], der [[Verwertungen]]
 D: der [[Verwertung]], den [[Verwertungen]]
 
 
-#Feminin , [[Entsorgung]]
+#Feminin , [[Entsorgung]], [[Wiederverwertung]]

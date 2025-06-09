@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T2-401-Text#^4|^]]* Nach Herrn Gröner ist kaum [[anzunehmen]], dass [[Täter]] außer ihrem [[Opfer]] weitere Personen angreifen
 
+*[[C1-Hoehen-T3-401-Text#^7|^]]* Der Park wurde von den New Yorkern sofort [[angenommen]], hat einen [[Förderverein]] und konnte sich auch zu einem [[Touristenmagnet]] [[entwickeln]]
+
 Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
 
 *[[C1-Lesen-T3-301-Text#^20|^]]* Was von dem Muster­markt Haßloch nicht [[angenommen]] wurde, bekam der Rest der Republik oft gar nicht zu [[Gesicht]]

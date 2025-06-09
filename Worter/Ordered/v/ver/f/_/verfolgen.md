@@ -3,6 +3,10 @@
 ---
 [[Lieferung]] [[verfolgen]]
 
+*[[C1-Hoehen-T3-403-Text#^11|^]]* Traurige Tatsache ist aber, dass wir immer wieder davon hören, wie indigene [[Anführer]], die sich für den [[Umweltschutz]] [[einsetzen]], [[bedroht]] und [[verfolgt]] werden, sodass man mit ihrem [[Lebenswissen]] und [[Ernährungswissen]] respektlos [[umgeht]]
+
+*[[C1-Hoehen-T3-402-Text#^13|^]]* Diese [[Hobbybeobachter]] werden dann auch konsultiert, wenn es darum geht, Satelliten auf ihren [[Bahn]]en zu [[verfolgen]]
+
 *[[bro-schrieben-c1-t1-002#^2|^]]* Liebe [[Forumsteilnehmer]], seit langem [[verfolge]] ich eure [[Beiträge]] im Forum und das neue Thema hat mich so [[angesprochen]], dass ich mich [[gerne]] `an` der Diskussion [[beteiligen]] möchte
 
 *[[bro-schrieben-c1-t1-002#^3|^]]* Ich [[verfolge]] schon seit [[geraum]]er [[Zeit]] eure [[Beiträge]] zu Online-[[Sprachkurs]]en und möchte nun auch [[etwas]] [[dazu]] schreiben

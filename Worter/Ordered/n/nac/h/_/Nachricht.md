@@ -33,3 +33,4 @@ Synonyme:
 
 [[bericht]], [[Auskunft]], [[Bescheid]], [[Meldung]], [[Benachrichtigung]], [[Texte/Misc/Anki]]
 , [[Inserat]], [[Abschiedsbrief]]
+, [[Medienberichterstattung]]

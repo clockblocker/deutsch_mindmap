@@ -2,6 +2,8 @@
 die [[Raketen]]
 
 ---
+*[[C1-Hoehen-T3-402-Text#^17|^]]* Aber die steigende Nachfrage wird die Reisekosten senken und einen [[Anreiz]] geben, die [[Produktionsprozess]]e für [[Rakete]]n zu optimieren
+
 [[Leuchtrakete]]
 
 ---

@@ -3,6 +3,8 @@
 ---
 *[[bro-schrieben-c1-t1-004#^10|^]]* Um ein [[lebendig]]es und entspanntes Leben im hohen Alter zu führen, `lassen` `sich` einige Maßnahmen [[ergreifen]]
 
+*[[C1-Hoehen-T3-403-Text#^9|^]]* [[Zugegebenermaßen]] gibt es auch [[Außenstehende]], die sich indigenes Wissen [[zunutze]] machen und daran verdienen, ohne die indigenen [[Gemeinde]]n am Profit zu beteiligen oder andere [[umweltschonende]] Maßnahmen zu [[ergreifen]]
+
 ---
 = [[packen]], [[fassen]], [[erwischen]] | [[nutzen]], [[ergattern]]
 ≈ [[nehmen]], [[anfassen]], [[festhalten]] | [[ausnutzen]], [[gebrauchen]], [[greifen]], [[fassen]], [[nehm]], [[entwischen]], [[fangen]], [[nehmen]], [[packen]], [[auffangen]], [[raffen]], [[unter die Haut gehen]], [[übernehmen]]

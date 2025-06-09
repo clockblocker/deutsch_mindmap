@@ -1,3 +1,3 @@
 --> [[🗣️ Ingredient-Meinung]] <--
 
-, [[Basiseinkommen]], [[Potenzrechnung]], [[Nährboden]]
+, [[Basiseinkommen]], [[Potenzrechnung]], [[Nährboden]], [[Lebensgrundlage]]

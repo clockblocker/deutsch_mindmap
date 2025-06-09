@@ -1,1 +1,1 @@
-, [[weitaus]]
+, [[weitaus]], [[weiten]], [[ausweiten]]

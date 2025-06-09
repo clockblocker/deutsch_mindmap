@@ -47,4 +47,4 @@ sie, [[verbreitern]], [[verbreiterten]], [[verbreitern]], [[verbreiterten]], [[v
 Adjektive: [[verbreiternd]], [[verbreiternder]], [[verbreiterndst]]
 
 ---
-[[verbreiternder]], [[verbreiterndes]], [[verbreiternde]], [[verbreiternden]], [[verbreiterndem]], [[verbreiternderer]], [[verbreiternderes]], [[verbreiterndere]], [[verbreiternderen]], [[verbreiternderem]], [[verbreiterndster]], [[verbreiterndstes]], [[verbreiterndste]], [[verbreiterndsten]], [[verbreiterndstem]]
+[[verbreiternder]], [[verbreiterndes]], [[verbreiternde]], [[verbreiternden]], [[verbreiterndem]], [[verbreiternderer]], [[verbreiternderes]], [[verbreiterndere]], [[verbreiternderen]], [[verbreiternderem]], [[verbreiterndster]], [[verbreiterndstes]], [[verbreiterndste]], [[verbreiterndsten]], [[verbreiterndstem]], [[weiten]]

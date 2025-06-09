@@ -2,6 +2,7 @@
 die [[Fälle]]
 
 ---
+*[[C1-Hoehen-T3-402-Text#^2|^]]* Die genannten [[Richtlinie]]n für die [[Raumfahrt]] [[gelten]] auch im [[Fall]] [[kämpferisch]]er [[Auseinandersetzung]]en
 
 NIC: [[Auf keinen Fall]]! Der Typ ist nicht mein Problem.
 
@@ -46,4 +47,4 @@ D: dem [[Fall]], den [[Fällen]]
 , [[Abfall]], [[ausfallen]], [[entfallen]], [[Wegfall]], [[Einzelfallregelung]], [[Anfall]], [[anfallen]], [[Zufall]], [[zurückfallen]]
 
 #Maskulin
-, [[Extremfall]]
+, [[Extremfall]], [[Ausnahmefall]]

@@ -1,1 +1,1 @@
-, [[schätzen]], [[Einschätzung]], [[Wertschätzung]], [[wertschätzen]], [[unschätzbar]], [[Schätzung]], [[Geringschätzung]], [[Fehleinschätzung]], [[einzuschätzen]], [[einschätzen]]
+, [[schätzen]], [[Einschätzung]], [[Wertschätzung]], [[wertschätzen]], [[unschätzbar]], [[Schätzung]], [[Geringschätzung]], [[Fehleinschätzung]], [[einzuschätzen]], [[einschätzen]], [[schätzungsweise]]

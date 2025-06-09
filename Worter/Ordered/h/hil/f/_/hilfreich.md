@@ -27,4 +27,4 @@ helpful, useful
 Adjektive: [[hilfreich]], [[hilfreicher]], [[hilfreichst]]
 
 ---
-[[hilfreicher]], [[hilfreiches]], [[hilfreiche]], [[hilfreichen]], [[hilfreichem]], [[hilfreicherer]], [[hilfreicheres]], [[hilfreichere]], [[hilfreicheren]], [[hilfreicherem]], [[hilfreichster]], [[hilfreichstes]], [[hilfreichste]], [[hilfreichsten]], [[hilfreichstem]]
+[[hilfreicher]], [[hilfreiches]], [[hilfreiche]], [[hilfreichen]], [[hilfreichem]], [[hilfreicherer]], [[hilfreicheres]], [[hilfreichere]], [[hilfreicheren]], [[hilfreicherem]], [[hilfreichster]], [[hilfreichstes]], [[hilfreichste]], [[hilfreichsten]], [[hilfreichstem]], [[zunutze]]

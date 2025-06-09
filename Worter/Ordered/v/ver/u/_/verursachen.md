@@ -5,6 +5,8 @@
 ---
 Alle [[angrenzenden]] [[Feld]]er [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] [[Gift]] pro [[Stufe]]
 
+*[[C1-Hoehen-T3-403-Text#^4|^]]* Denn durch die [[Lebensmittelindustrie]] wird [[schätzungsweise]] ein Drittel der [[Treibhausgasemission]]en [[verursacht]]
+
 *[[C1-Hoehen-T3-401-Text#^3|^]]* Die Landflucht [[verursacht]] eine fallende [[Geburtenrate]]
 
 *[[C1-Hoehen-T2-102-Text#^30|^]]* Bosch stellte vor einigen Jahren die sogenannte [[Bremsscheibe]] 2.0 her, die bis zu 90% weniger [[Abrieb]] [[verursacht]]

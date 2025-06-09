@@ -1,1 +1,1 @@
-, [[Leser]]
+, [[Leser]], [[Redakteur]]

@@ -95,4 +95,4 @@ A: die [[Weite]], die [[Weiten]]
 G: der [[Weite]], der [[Weiten]]
 D: der [[Weite]], den [[Weiten]]
 
-#Maskulin , [[geraum]], [[bro-schrieben-c1-t1-002]]
+#Maskulin , [[geraum]], [[bro-schrieben-c1-t1-002]], [[ausweiten]]

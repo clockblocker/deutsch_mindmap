@@ -44,4 +44,4 @@ sie, [[befördern]], [[beförderten]], [[befördern]], [[beförderten]], [[befö
 Adjektive: [[befördernd]], [[befördernder]], [[beförderndst]]
 
 ---
-[[befördernder]], [[beförderndes]], [[befördernde]], [[befördernden]], [[beförderndem]], [[befördernderer]], [[befördernderes]], [[beförderndere]], [[befördernderen]], [[befördernderem]], [[beförderndster]], [[beförderndstes]], [[beförderndste]], [[beförderndsten]], [[beförderndstem]]
+[[befördernder]], [[beförderndes]], [[befördernde]], [[befördernden]], [[beförderndem]], [[befördernderer]], [[befördernderes]], [[beförderndere]], [[befördernderen]], [[befördernderem]], [[beförderndster]], [[beförderndstes]], [[beförderndste]], [[beförderndsten]], [[beförderndstem]], [[antreiben]]

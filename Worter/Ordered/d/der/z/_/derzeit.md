@@ -36,3 +36,4 @@ Adjektive: [[derzeitig]], [[derzeitiger]], [[derzeitigst]]
 ---
 
 [[derzeitiger]], [[derzeitiges]], [[derzeitige]], [[derzeitigen]], [[derzeitigem]], [[derzeitigerer]], [[derzeitigeres]], [[derzeitigere]], [[derzeitigeren]], [[derzeitigerem]], [[derzeitigster]], [[derzeitigstes]], [[derzeitigste]], [[derzeitigsten]], [[derzeitigstem]], [[sperren]]
+, [[vorerst]]

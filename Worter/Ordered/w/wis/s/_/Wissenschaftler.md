@@ -29,4 +29,4 @@ A: den [[Wissenschaftler]], die [[Wissenschaftler]]
 G: des [[Wissenschaftlers]], der [[Wissenschaftler]]
 D: dem [[Wissenschaftler]], den [[Wissenschaftlern]]
 
-#Maskulin , [[Wirtschaftswissenschaftler]]
+#Maskulin , [[Wirtschaftswissenschaftler]], [[Weltraumforscher]]

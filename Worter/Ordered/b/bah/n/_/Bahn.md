@@ -2,6 +2,8 @@ die [[Bahn]]
 die [[Bahnen]]
 
 ---
+*[[C1-Hoehen-T3-402-Text#^13|^]]* Diese [[Hobbybeobachter]] werden dann auch konsultiert, wenn es darum geht, Satelliten auf ihren [[Bahn]]en zu [[verfolgen]]
+
 [[Laufbahn]]
 
 ---

@@ -1,1 +1,1 @@
-, [[Wert]], [[Unternehmenskultur]], [[Gewissen]]
+, [[Wert]], [[Unternehmenskultur]], [[Gewissen]], [[verwerten]]

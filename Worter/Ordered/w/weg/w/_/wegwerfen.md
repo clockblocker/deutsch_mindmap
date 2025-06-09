@@ -46,3 +46,4 @@ Partizip I: [[wegwerfend]], Partizip II: [[weggeworfen]]
 
 [[verlieren]], [[gehören]]
 , [[hinauswerfen]], [[verarbeiten]], [[melken]], [[einsammeln]], [[verwahren]], [[Absammeln]], [[weiterverwenden]]
+, [[verwerten]]

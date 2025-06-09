@@ -24,4 +24,4 @@ provisional, temporary
 Adjektive: [[vorläufig]], [[vorläufiger]], [[vorläufigst]]
 
 ---
-[[vorläufiger]], [[vorläufiges]], [[vorläufige]], [[vorläufigen]], [[vorläufigem]], [[vorläufigerer]], [[vorläufigeres]], [[vorläufigere]], [[vorläufigeren]], [[vorläufigerem]], [[vorläufigster]], [[vorläufigstes]], [[vorläufigste]], [[vorläufigsten]], [[vorläufigstem]]
+[[vorläufiger]], [[vorläufiges]], [[vorläufige]], [[vorläufigen]], [[vorläufigem]], [[vorläufigerer]], [[vorläufigeres]], [[vorläufigere]], [[vorläufigeren]], [[vorläufigerem]], [[vorläufigster]], [[vorläufigstes]], [[vorläufigste]], [[vorläufigsten]], [[vorläufigstem]], [[vorerst]]

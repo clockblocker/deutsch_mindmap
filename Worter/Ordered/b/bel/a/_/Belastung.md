@@ -5,6 +5,8 @@ die [[Belastungen]]
 ---
 Erklären Sie, wodurch psychische [[Belastung]] am Arbeitsplatz [[entsteht]].
 
+*[[C1-Hoehen-T3-403-Text#^1|^]]* Indigene Völker leben in Territorien mit [[Belastung]]en durch den [[Klimawandel]]
+
 ###### ###### 9. Welche Folgen kann [[fehlende]] [[Geborgenheit]] für einen [[Säugling]] haben?
 a) Er kann später [[Belastung]]en schwieriger [[handhaben]].  
 

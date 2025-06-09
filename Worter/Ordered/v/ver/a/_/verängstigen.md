@@ -1,1 +1,1 @@
-, [[schrecken]], [[beklemmen]]
+, [[schrecken]], [[beklemmen]], [[einschüchtern]]

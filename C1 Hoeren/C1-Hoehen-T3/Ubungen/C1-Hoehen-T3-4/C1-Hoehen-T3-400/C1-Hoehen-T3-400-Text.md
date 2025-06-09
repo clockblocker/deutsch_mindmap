@@ -287,3 +287,8 @@ Keine Ursache. Auf Wiedersehen.
 
 **Herr Junger:**  
 Gern geschehen. Bis bald und tschüss.
+
+
+Взять че уже есть за мало денег
+закинуть чет. свое ссылку наидос или пфв зха много денег 
+

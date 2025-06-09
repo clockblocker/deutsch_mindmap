@@ -29,4 +29,4 @@ G: der [[Kommunikation]], der [[Kommunikationen]]
 D: der [[Kommunikation]], den [[Kommunikationen]]
 
 
-#Feminin , [[Kommunikationsform]], [[Kommunikationsaufwand]], [[Funk]], [[Nervenzellenverbindung]], [[Spracherwerb]]
+#Feminin , [[Kommunikationsform]], [[Kommunikationsaufwand]], [[Funk]], [[Nervenzellenverbindung]], [[Spracherwerb]], [[Datenübertragung]]

@@ -1,1 +1,1 @@
-, [[bitterlich]], [[schmerzend]]
+, [[bitterlich]], [[schmerzend]], [[neuralgisch]]

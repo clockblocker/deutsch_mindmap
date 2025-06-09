@@ -28,4 +28,4 @@ G: der [[Emission]], der [[Emissionen]]
 D: der [[Emission]], den [[Emissionen]]
 
 
-#Feminin , [[Feinstaubbelastung]]
+#Feminin , [[Feinstaubbelastung]], [[Strahlung]]

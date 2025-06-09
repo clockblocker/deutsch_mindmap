@@ -5,6 +5,8 @@
 ---
 *[[C1-Lesen-T4-101-Text#^22|^]]* Sie können auch [[gefährliche]] Aufgaben übernehmen, wie beispielsweise die Untersuchung von Asteroiden, die unsere Erde [[bedrohen]]
 
+*[[C1-Hoehen-T3-403-Text#^11|^]]* Traurige Tatsache ist aber, dass wir immer wieder davon hören, wie indigene [[Anführer]], die sich für den [[Umweltschutz]] [[einsetzen]], [[bedroht]] und [[verfolgt]] werden, sodass man mit ihrem [[Lebenswissen]] und [[Ernährungswissen]] respektlos [[umgeht]]
+
 *[[C1-Hoehen-T1-301-Text#^4|^]]* Aus vielen [[Beiträgen]] wie auch aus den Kommentaren und Beschreibungen der durch die Reportage [[führenden]] Klimaaktivistin und Meeresbiologin ergibt sich eine [[bedrohte]], fragile Welt
 
 ---
@@ -48,4 +50,4 @@ sie, [[bedrohen]], [[bedrohten]], [[bedrohen]], [[bedrohten]], [[bedrohen]]
 Adjektive: [[bedrohend]], [[bedrohender]], [[bedrohendst]]
 
 ---
-[[bedrohender]], [[bedrohendes]], [[bedrohende]], [[bedrohenden]], [[bedrohendem]], [[bedrohenderer]], [[bedrohenderes]], [[bedrohendere]], [[bedrohenderen]], [[bedrohenderem]], [[bedrohendster]], [[bedrohendstes]], [[bedrohendste]], [[bedrohendsten]], [[bedrohendstem]], [[existenzbedrohend]]
+[[bedrohender]], [[bedrohendes]], [[bedrohende]], [[bedrohenden]], [[bedrohendem]], [[bedrohenderer]], [[bedrohenderes]], [[bedrohendere]], [[bedrohenderen]], [[bedrohenderem]], [[bedrohendster]], [[bedrohendstes]], [[bedrohendste]], [[bedrohendsten]], [[bedrohendstem]], [[existenzbedrohend]], [[einschüchtern]]

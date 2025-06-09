@@ -28,4 +28,4 @@ A: die [[Atmosphäre]], die [[Atmosphären]]
 G: der [[Atmosphäre]], der [[Atmosphären]]
 D: der [[Atmosphäre]], den [[Atmosphären]]
 
-#Feminin  , [[bro-schrieben-c1-t1-002]]
+#Feminin  , [[bro-schrieben-c1-t1-002]], [[Ozonschicht]]

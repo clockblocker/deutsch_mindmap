@@ -27,4 +27,4 @@ A: den [[Zuwanderer]], die [[Zuwanderer]]
 G: des [[Zuwanderers]], der [[Zuwanderer]]
 D: dem [[Zuwanderer]], den [[Zuwanderern]]
 
-#Maskulin 
+#Maskulin , [[Eingeborene]]

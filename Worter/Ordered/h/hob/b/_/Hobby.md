@@ -1,2 +1,2 @@
 , [[Aufgabe]]
-, [[Freizeitaktivität]], [[Hobbybäuerin]]
+, [[Freizeitaktivität]], [[Hobbybäuerin]], [[Hobbybeobachter]]

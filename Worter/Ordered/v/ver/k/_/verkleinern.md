@@ -1,3 +1,3 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 
-, [[verlängern]], [[verbreitern]], [[überziehen]]
+, [[verlängern]], [[verbreitern]], [[überziehen]], [[weiten]], [[ausweiten]]

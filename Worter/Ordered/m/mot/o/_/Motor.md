@@ -25,4 +25,4 @@ D: dem [[Motor]], den [[Motoren]]
 
 ---
 [[motorisch]], [[motorisieren]], [[Motorrad]], [[Motorboot]], [[Motorschaden]], [[Motorraum]], [[Motorleistung]], [[Elektromotor]], [[Verbrennungsmotor]], [[Dieselmotor]], [[Ottomotor]]
-, [[motorische]], [[Antriebsfaktor]]
+, [[motorische]], [[Antriebsfaktor]], [[Kerosinantrieb]]

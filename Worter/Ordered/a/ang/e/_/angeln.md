@@ -27,4 +27,4 @@ PI: [[angelnd]], PII: [[geangelt]], Zu+inf: [[zu angeln]]
 [[angeln]] - [[an]] = [[geln]] / to fish, to go fishing
 
 ---
-[[Angel]], [[Angelrute]], [[Angelschnur]], [[Angler]], [[Angelei]], [[anglerisch]]
+[[Angel]], [[Angelrute]], [[Angelschnur]], [[Angler]], [[Angelei]], [[anglerisch]], [[Fischfang]]

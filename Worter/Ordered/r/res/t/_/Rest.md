@@ -30,4 +30,4 @@ D: dem [[Rest]], den [[Resten]]
 
 
 #Maskulin 
-, [[Kunststoffreste]]
+, [[Kunststoffreste]], [[Schrottteil]]

@@ -2,7 +2,9 @@
 📈 [[zunehmend]], [ˈtsuːˌneːmənt]
 
 ---
-[[2 Unter Druck nach oben#^19|^]] Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]
+*[[2 Unter Druck nach oben#^19|^]]* Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]
+
+*[[C1-Hoehen-T3-402-Text#^1|^]]* Welche Themen werden [[zunehmend]] in der [[Medienberichterstattung]] [[berücksichtigt]]?
 
 *[[C1-Hoehen-T3-401-Text#^8|^]]* Durch die [[zunehmend]]e [[Verstädterung]], den [[Zuzug]] in die [[Großstädte]], fällt nämlich die Fertilitätsrate der Städte [[rapid]]e.
 

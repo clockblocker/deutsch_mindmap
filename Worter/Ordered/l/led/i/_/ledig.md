@@ -26,4 +26,4 @@ P: [[ledigen]], [[ledigeren]], [[ledigsten]]
 
 ---
 [[Ledigkeit]], [[verledigen]], [[entledigen]], [[erledigen]]
-, [[entlasten]], [[belegen]], [[entbinden]], [[entbinden]]
+, [[entlasten]], [[belegen]], [[entbinden]], [[entbinden]], [[belasten]]

@@ -1,1 +1,1 @@
-, [[Recher]]
+, [[Recher]], [[Redakteur]]

@@ -5,6 +5,9 @@ _Не думая о будущем, он постоянно развлекалс
 Ohne an die Zukunft zu denken, [[vergnügte]] er sich ständig.
 Ohne an die Zukunft zu denken, hat er sich ständig [[amüsiert]] 
 
+*[[C1-Hoehen-T3-402-Text#^16|^]]* Selbstverständlich. Diese Reisen sind zwar [[vorerst]] ein [[Vergnügen]] für [[Superreiche]]
+
+
 ---
 = [[amüsieren]], [[unterhalten]], [[erfreuen]]
 ≈ [[Spaß haben]], [[sich amüsieren]], [[sich freuen]], [[belustigen]]

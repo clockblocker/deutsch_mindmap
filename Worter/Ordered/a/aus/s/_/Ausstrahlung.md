@@ -26,4 +26,4 @@ A: die [[Ausstrahlung]], die [[Ausstrahlungen]]
 G: der [[Ausstrahlung]], der [[Ausstrahlungen]]
 D: der [[Ausstrahlung]], den [[Ausstrahlungen]]
 
-#Feminin 
+#Feminin , [[Strahl]]

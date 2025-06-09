@@ -22,4 +22,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Kugel]], [[Kugels]], [[Kugeln]], [[Kugeln]]
 
 ---
-#Substantiv #Feminin, [[Glaskugel]]
+#Substantiv #Feminin, [[Glaskugel]], [[Kanonenkugel]]

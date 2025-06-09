@@ -35,4 +35,4 @@ G: der [[Schätzung]], der [[Schätzungen]]
 D: der [[Schätzung]], den [[Schätzungen]]
 
 #Feminin s
-, [[Geringschätzung]], [[einzuschätzen]], [[einschätzen]], [[Vorausberechnung]], [[Rentenberechnung]]
+, [[Geringschätzung]], [[einzuschätzen]], [[einschätzen]], [[Vorausberechnung]], [[Rentenberechnung]], [[schätzungsweise]]

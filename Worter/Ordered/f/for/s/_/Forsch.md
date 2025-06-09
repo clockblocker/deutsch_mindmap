@@ -1,1 +1,1 @@
-, [[Forscher]], [[forschen]], [[erforschen]]
+, [[Forscher]], [[forschen]], [[erforschen]], [[Weltraumforscher]]

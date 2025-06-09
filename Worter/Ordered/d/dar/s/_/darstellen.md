@@ -4,6 +4,8 @@
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^1|^]]* _Deutschland ist schon lange ein_ [[Einwanderungsland]] _und für viele Migrantinnen und Migranten_ [[darstellen|stellt]] _die deutsche Sprache eine besondere_ [[Hürde]] _dar. ^1
 
 
+*[[C1-Hoehen-T3-402-Text#^14|^]]* 8.500 Tonnen Schrott [[darstellen|stellen]] eine [[beachtliche]] Gefahr im Weltraum dar, weil dieser mit einer Geschwindigkeit von [[zehntausend]] Kilometern pro Stunde durch das All [[rast]] und so auch kleinste [[Teilchen]] zu [[zerstörerisch]]en [[Geschossen]] [[mutieren]] können
+
 [[Feinstaub]] [[darstellen|stellt]] auch für [[Flüsse]] und [[Seen]] ein [[Problem]] dar
 
 Regelmäßig wurde untersucht, wie sie sich fühlten und ob diese [[Leistung]] für sie ein positiver [[Anreiz]] für ihre persönliche [[Entwicklung]] [[darstellte]]

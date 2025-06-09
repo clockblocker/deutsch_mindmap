@@ -40,3 +40,4 @@ Morpheme: [[künd]], [[igen]]
 
 Partizip I: [[kündigend]], Partizip II: [[gekündigt]]
 [[kündigen]] - [[kün]] = [[digen]], [[beschäftigen]], [[anstellen]], [[Kündigung]], [[Kündigungsfrist]], [[absagen]], [[wegschicken]], [[anwerben]], [[entlassen]], [[ankündigen]], [[auftraggeben]], [[engagieren]], [[ausmachen]]
+, [[beauftragen]]

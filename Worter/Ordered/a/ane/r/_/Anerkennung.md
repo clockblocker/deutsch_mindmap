@@ -4,6 +4,8 @@ die [[Anerkennungen]]
 ---
 Am Ende sei das ja nur ein [[Gewinn]] für die Firma und Jannis könne [[enwdlich]] die [[Anerkennung]] bekommen, die er [[verdiene]]
 
+*[[C1-Hoehen-T3-403-Text#^3|^]]* [[Führende]] Persönlichkeiten indigener Gemeinschaften müssen immer noch um ihre [[Anerkennung]] [[kämpfen]]
+
 Im Buch wird die [[fehlen]]de [[Anerkennung]] der [[Naturheilkunde]] seitens der Schulmedizin behandelt.  
 
 *[[C1-Hoehen-T2-203-Text#^33|^]]* Warum ist solch eine [[Anerkennung]] durch die [[WHO]] wichtig? ^33
