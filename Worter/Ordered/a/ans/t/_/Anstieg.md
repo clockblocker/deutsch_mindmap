@@ -34,4 +34,4 @@ G: des [[Anstiegs]], der [[Anstiege]]
 D: dem [[Anstieg]], den [[Anstiegen]]
 
 
-#Maskulin , [[Mitgliederschwund]], [[Steigerungsquote]]
+#Maskulin , [[Mitgliederschwund]], [[Steigerungsquote]], [[Senkung]]

@@ -1,4 +1,4 @@
 , [[entspringen]]
 , [[Kriegsausbruch]]
 , [[Ausbruch]]
-, [[Gefühlsausbruch]], [[fliehen]]
+, [[Gefühlsausbruch]], [[fliehen]], [[entkommen]]

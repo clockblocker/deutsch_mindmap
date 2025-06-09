@@ -1,7 +1,9 @@
 🍎 [[reifen]], [ˈʁaɪ̯fn̩](https://youglish.com/pronounce/reifen/german) → [[reifte]] → sein [[gereift]]
 
 ---
-*[[C1-Lesen-T4-101-Text#^20|^]]* Viele Regionen können wir Menschen aufgrund unserer physischen [[Beschaffenheit]] und aufgrund noch nicht [[ausgereifter]] Technik nicht selbst [[erreichen]]. ^20
+*[[C1-Lesen-T4-101-Text#^20|^]]* Viele Regionen können wir Menschen aufgrund unserer physischen [[Beschaffenheit]] und aufgrund noch nicht [[ausgereifter]] Technik nicht selbst [[erreichen]]
+
+*[[C1-Hoehen-T2-102-Text#^7|^]]* Je breiter die [[Reifen]], desto mehr [[Abrieb]] und umso mehr [[Feinstaub]]
 
 
 ---
@@ -12,6 +14,9 @@
 ---
 to ripen, to mature  
 созревать, зреть
+
+tire  
+шина
 
 ---
 [[Reife]], [[reif]], [[Reifung]]
@@ -45,4 +50,38 @@ sie, [[reifen]], [[reiften]], [[reifen]], [[reiften]], [[reifen]]
 Adjektive: [[reifend]], [[reifender]], [[reifendst]]
 
 ---
-[[reifender]], [[reifendes]], [[reifende]], [[reifenden]], [[reifendem]], [[reifenderer]], [[reifenderes]], [[reifendere]], [[reifenderen]], [[reifenderem]], [[reifendster]], [[reifendstes]], [[reifendste]], [[reifendsten]], [[reifendstem]], [[Laufrad]], [[altern]]
+[[reifender]], [[reifendes]], [[reifende]], [[reifenden]], [[reifendem]], [[reifenderer]], [[reifenderes]], [[reifendere]], [[reifenderen]], [[reifenderem]], [[reifendster]], [[reifendstes]], [[reifendste]], [[reifendsten]], [[reifendstem]], [[Laufrad]], [[altern]], [[Reifenmaterial]]
+
+
+
+
+🚗  [[Reifen]], [ˈʁaɪ̯fn̩](https://youglish.com/pronounce/Reifen/german)
+die [[Reifen]]
+
+---
+
+---
+= [[Pneu]], [[Luftreifen]]
+≈ [[Gummireifen]], [[Bereifung]]
+≠
+
+---
+tire  
+шина
+
+---
+[[reifen]], [[Reifenmaterial]], [[Reifenwechsel]]
+
+---
+[[Reif]]|[[en]]
+[[Reifen]]
+
+
+---
+N: die [[Reifen]], die [[Reifen]]
+A: die [[Reifen]], die [[Reifen]]
+G: der [[Reifen]], der [[Reifen]]
+D: den [[Reifen]], den [[Reifen]]
+
+
+#Feminin 

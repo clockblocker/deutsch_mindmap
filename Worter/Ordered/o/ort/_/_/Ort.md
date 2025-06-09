@@ -30,4 +30,4 @@ G: des [[Ortes]], der [[Orte]]
 D: dem [[Ort]], den [[Orten]]
 
 #Maskulin 
-, [[vielerorts]], [[Position]], [[Schlachtfeld]], [[Bingen]], [[Traumziel]], [[Sehnsuchtsort]], [[Bestimmungsort]], [[Haßloch]], [[Durchschnittsgemeinde]], [[Urlaubsort]], [[Örtlichkeit]], [[Besichtigungspunkt]]
+, [[vielerorts]], [[Position]], [[Schlachtfeld]], [[Bingen]], [[Traumziel]], [[Sehnsuchtsort]], [[Bestimmungsort]], [[Haßloch]], [[Durchschnittsgemeinde]], [[Urlaubsort]], [[Örtlichkeit]], [[Besichtigungspunkt]], [[Vorort]]

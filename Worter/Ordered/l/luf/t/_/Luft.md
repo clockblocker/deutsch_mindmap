@@ -28,4 +28,4 @@ A: die [[Luft]], die [[Lüfte]]
 G: der [[Luft]], der [[Lüfte]]
 D: der [[Luft]], den [[Lüften]]
 
-#Feminin 
+#Feminin , [[viel Luft nach oben]]

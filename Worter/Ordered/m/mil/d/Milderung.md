@@ -1,1 +1,1 @@
-, [[Lockerung]]
+, [[Lockerung]], [[Linderung]]

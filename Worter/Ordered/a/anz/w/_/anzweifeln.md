@@ -44,4 +44,4 @@ sie, [[zweifeln an]], [[zweifelten an]], [[zweifeln an]], [[zweifelten an]], [[z
 Adjektive: [[anzweifelnd]], [[anzweifelnder]], [[anzweifelndst]]
 
 ---
-[[anzweifelnder]], [[anzweifelndes]], [[anzweifelnde]], [[anzweifelnden]], [[anzweifelndem]], [[anzweifelnderer]], [[anzweifelnderes]], [[anzweifelndere]], [[anzweifelnderen]], [[anzweifelnderem]], [[anzweifelndster]], [[anzweifelndstes]], [[anzweifelndste]], [[anzweifelndsten]], [[anzweifelndstem]]
+[[anzweifelnder]], [[anzweifelndes]], [[anzweifelnde]], [[anzweifelnden]], [[anzweifelndem]], [[anzweifelnderer]], [[anzweifelnderes]], [[anzweifelndere]], [[anzweifelnderen]], [[anzweifelnderem]], [[anzweifelndster]], [[anzweifelndstes]], [[anzweifelndste]], [[anzweifelndsten]], [[anzweifelndstem]], [[Hand ins Feuer legen]]

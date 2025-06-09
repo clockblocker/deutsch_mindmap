@@ -1,3 +1,3 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
 
-, [[heut]], [[jetzig]]
+, [[heut]], [[jetzig]], [[schlagartig]]

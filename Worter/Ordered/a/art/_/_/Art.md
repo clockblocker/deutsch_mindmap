@@ -37,4 +37,4 @@ Einzigartige mögliche Formen: [[Art]], [[Arten]], [[Artart]], [[Artenreichtum]]
 
 
 ---
-[[Lebensart]], [[Redensart]], [[Kundstart]], , [[Bauart]], [[derartig]], [[Sprechweise]], [[Eigenart]], [[Baumart]], [[Geschlecht]], [[derart]], [[Ausdauersportart]], [[Ausführung]], [[Suchtform]]
+[[Lebensart]], [[Redensart]], [[Kundstart]], , [[Bauart]], [[derartig]], [[Sprechweise]], [[Eigenart]], [[Baumart]], [[Geschlecht]], [[derart]], [[Ausdauersportart]], [[Ausführung]], [[Suchtform]], [[ausarten]], [[schlagartig]]

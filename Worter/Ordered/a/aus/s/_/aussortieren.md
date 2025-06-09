@@ -1,1 +1,1 @@
-, [[Vermengen]], [[wegzüchten]]
+, [[Vermengen]], [[wegzüchten]], [[ausscheiden]]

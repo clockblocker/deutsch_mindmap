@@ -1,6 +1,7 @@
 🤝 [[begrüßen]] | [[begrüßte]], haben [[begrüßt]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^1|^]]* [[Leiharbeit]] wird von allen [[Arbeitnehmer]]n [[begrüßt]]
 
 Aber es ist [[tatsächlich]] Freddie, der die Tür öffnet und sie mit einem Lächeln [[begrüßt]].
 

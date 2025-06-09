@@ -28,4 +28,4 @@ G: der [[Erhebung]], der [[Erhebungen]]
 D: der [[Erhebung]], den [[Erhebungen]]
 
 
-#Feminin , [[Zufriedenheitsumfrage]]
+#Feminin , [[Zufriedenheitsumfrage]], [[unerheblich]]

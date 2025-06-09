@@ -24,4 +24,4 @@ quick, rapid
 Adjektive: [[rasch]], [[rascher]], [[raschesten]]
 
 ---
-[[rascher]], [[rasches]], [[rasche]], [[raschen]], [[raschem]], [[rascherer]], [[rascheres]], [[raschere]], [[rascheren]], [[rascherem]], [[raschestener]], [[raschestenes]], [[raschestene]], [[raschestenen]], [[raschestenem]], [[fehlen]], [[kurzfristig]], [[vorschnell]]
+[[rascher]], [[rasches]], [[rasche]], [[raschen]], [[raschem]], [[rascherer]], [[rascheres]], [[raschere]], [[rascheren]], [[rascherem]], [[raschestener]], [[raschestenes]], [[raschestene]], [[raschestenen]], [[raschestenem]], [[fehlen]], [[kurzfristig]], [[vorschnell]], [[schlagartig]]

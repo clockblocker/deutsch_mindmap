@@ -44,4 +44,4 @@ sie, [[stehen zur Seite]], [[standen zur Seite]], [[stehen zur Seite]], [[ständ
 Adjektive: [[zur Seite stehend]], [[zur Seite stehender]], [[zur Seite stehendst]]
 
 ---
-[[zur Seite stehender]], [[zur Seite stehendes]], [[zur Seite stehende]], [[zur Seite stehenden]], [[zur Seite stehendem]], [[zur Seite stehenderer]], [[zur Seite stehenderes]], [[zur Seite stehendere]], [[zur Seite stehenderen]], [[zur Seite stehenderem]], [[zur Seite stehendster]], [[zur Seite stehendstes]], [[zur Seite stehendste]], [[zur Seite stehendsten]], [[zur Seite stehendstem]]
+[[zur Seite stehender]], [[zur Seite stehendes]], [[zur Seite stehende]], [[zur Seite stehenden]], [[zur Seite stehendem]], [[zur Seite stehenderer]], [[zur Seite stehenderes]], [[zur Seite stehendere]], [[zur Seite stehenderen]], [[zur Seite stehenderem]], [[zur Seite stehendster]], [[zur Seite stehendstes]], [[zur Seite stehendste]], [[zur Seite stehendsten]], [[zur Seite stehendstem]], [[Hilfe leisten]]

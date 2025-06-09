@@ -3,7 +3,8 @@
 👁️ 🔴 die [[Sichtweise]], [ˈzɪçtˌvaɪ̯zə](https://youglish.com/pronounce/Sichtweise/german)
 
 ---
--
+*[[C1-Hoehen-T3-400-Text#^15|^]]* Wie sehen zwei sehr unterschiedliche [[Sichtweise]]n auf die Leiharbeit. Was würde denn passieren, wenn der Gesetzgeber plötzlich dieser Arbeitsform einen Riegel [[vorschöbe]]? ^15
+
 
 ---
 = [[Perspektive]], [[Ansicht]], [[Standpunkt]]

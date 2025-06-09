@@ -32,4 +32,4 @@ PI: [[helfend]], PII: [[geholfen]], Zu+inf: [[zu helfen]]
 [[Helfer]], [[Hilfe]], [[hilfreich]], [[Hilflosigkeit]], [[Hilfsbereitschaft]]
 
 , [[schaden]], [[antun]], [[unterstützen]], [[fördern]], [[Wahlhelfer]], [[beistehen]], [[Ehrenamt]], [[beraten]], [[s1 e1]]
-, [[Erntehelferin]], [[intervenieren]], [[hilfsbereit]], [[mithilfe]], [[entlasten]], [[betreuen]], [[beitragen]], [[Einschreiten]], [[eingreifen]], [[Beihilfe]], [[weiterhelfen]], [[hilfebedürftig]]
+, [[Erntehelferin]], [[intervenieren]], [[hilfsbereit]], [[mithilfe]], [[entlasten]], [[betreuen]], [[beitragen]], [[Einschreiten]], [[eingreifen]], [[Beihilfe]], [[weiterhelfen]], [[hilfebedürftig]], [[Hilfe leisten]], [[zugutekommen]], [[verhelfen]]

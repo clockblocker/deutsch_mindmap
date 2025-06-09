@@ -28,4 +28,4 @@ G: der [[Bindung]], der [[Bindungen]]
 D: der [[Bindung]], den [[Bindungen]]
 
 #Feminin 
-, [[Zusammenhalt]], [[Kundenbindung]]
+, [[Zusammenhalt]], [[Kundenbindung]], [[entbinden]], [[entbinden]], [[Zugehörigkeitsgefühl]]

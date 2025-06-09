@@ -1,1 +1,1 @@
-, [[plötzlich]], [[allmählich]], [[reihenweise]]
+, [[plötzlich]], [[allmählich]], [[reihenweise]], [[schlagartig]]

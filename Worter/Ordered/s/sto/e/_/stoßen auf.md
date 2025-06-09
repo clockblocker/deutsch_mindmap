@@ -1,1 +1,1 @@
-, [[stoßen]]
+, [[stoßen]], [[begegnen]]

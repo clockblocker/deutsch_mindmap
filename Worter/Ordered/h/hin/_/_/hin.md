@@ -26,4 +26,4 @@ Tags:
 Morphems:
 [[hin]]
 [[hinaus]], [[hinlegen]], [[hinstellen]], [[hinhören]], [[Extra 8]], [[schicken]], [[stellen]], [[hinbringen]], [[hinweg]], [[setzen]], [[immerhin]], [[hinhalten]], [[Hinweis]], [[hinweisen]], [[weisen]], [[hinauswerfen]], [[vorhin]], [[hinüberspähen]], [[hinschicken]], [[hingehen]], [[hinzufügen]], [[ohnehin]], [[hinauslaufen]], [[hinstehen]], [[Hinsicht]], [[Hinblick]], [[weiterhin]], [[zufügen]], [[hindeuten]], [[hinschauen]], [[hineingeboren]], [[schlechthin]], [[hingehören]], [[hinausgehen]]
-, [[wohingegen]], [[hineinversetzen]], [[hinfahren]]
+, [[wohingegen]], [[hineinversetzen]], [[hinfahren]], [[hinsichtlich]]

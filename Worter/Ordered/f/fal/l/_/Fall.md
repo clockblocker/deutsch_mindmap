@@ -46,3 +46,4 @@ D: dem [[Fall]], den [[Fällen]]
 , [[Abfall]], [[ausfallen]], [[entfallen]], [[Wegfall]], [[Einzelfallregelung]], [[Anfall]], [[anfallen]], [[Zufall]], [[zurückfallen]]
 
 #Maskulin
+, [[Extremfall]]

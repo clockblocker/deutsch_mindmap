@@ -30,4 +30,4 @@ D: dem [[Amt]], den [[Ämtern]]
 , [[Arbeitsamt]], [[Bundeskanzleramt]], [[Behörde]], [[ehrenamtlich]], [[Ordnungsamt]], [[Schulamt]], [[Jugendamt]], [[Gesundheitsamt]], [[Einwohnermeldeamt]], [[Standesamt]], [[Stelle]], [[Ehrenamt]], [[Forstamt]], [[Pfarramt]]
 , [[offiziell]], [[Stadtverwaltung]], [[Bürgerei]], [[Amtssprache]]
 
-#Neuter , [[Lehramtsstudium]], [[Lehramt]]
+#Neuter , [[Lehramtsstudium]], [[Lehramt]], [[Bundesagentur]]

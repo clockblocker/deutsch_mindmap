@@ -23,4 +23,4 @@ tiny, minuscule
 Adjektive: [[winzig]], [[winziger]], [[winzigst]]
 
 ---
-[[winziger]], [[winziges]], [[winzige]], [[winzigen]], [[winzigem]], [[winzigerer]], [[winzigeres]], [[winzigere]], [[winzigeren]], [[winzigerem]], [[winzigster]], [[winzigstes]], [[winzigste]], [[winzigsten]], [[winzigstem]]
+[[winziger]], [[winziges]], [[winzige]], [[winzigen]], [[winzigem]], [[winzigerer]], [[winzigeres]], [[winzigere]], [[winzigeren]], [[winzigerem]], [[winzigster]], [[winzigstes]], [[winzigste]], [[winzigsten]], [[winzigstem]], [[Winzling]]

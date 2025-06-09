@@ -2,6 +2,9 @@
 [[richtete]], haben [[gerichtet]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Die zeitliche Dauer der Leiharbeit [[richtet]] `sich` `nach` der [[Auftragslage]] des [[Entleiher]]-Unternehmens
+*(The duration of temporary agency work [[depends]] `on` the [[order situation]] of the [[borrowing]] company)*
+
 
 - Erklären Sie , nach welchen Kriterien sich die Wahl des [[Studienfachs]] [[richten]] sollte .
 

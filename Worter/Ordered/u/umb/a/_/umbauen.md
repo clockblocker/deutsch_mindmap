@@ -35,3 +35,4 @@ Zu+infinitive: [[umzubauen]]
 ---
 
 [[Umbau]], [[Umbauarbeiten]], [[Umbauplan]], [[Umbaukosten]], [[Umbauprojekt]], [[riesig]]
+, [[umgestalten]]

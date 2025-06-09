@@ -3,4 +3,4 @@
 #Feminin 
 
 
-, [[Leistungsfähigkeit]]
+, [[Leistungsfähigkeit]], [[Fruchtbarkeit]]

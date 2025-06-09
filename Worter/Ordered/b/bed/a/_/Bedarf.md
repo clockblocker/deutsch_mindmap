@@ -4,6 +4,8 @@
 ###### 12 [[Weshalb]] ist die [[Nachfrage]] nach neuen [[Hölzern]] so [[hoch]]?
 a) Das [[Angebot]] an Holz kann den [[Bedarf]] nicht [[decken]].  
 
+*[[C1-Hoehen-T3-400-Text#^30|^]]* In der Regel ist das auch die Zeit, für die eine [[vorübergehend]]e [[Aufstockung]] des Personals nötig ist; danach spricht man ja nicht mehr von einem zeitlich begrenzten [[Bedarf]] des Entleiher-Unternehmens
+
 
 *[[C1-Hoehen-T3-301-Text#^29|^]]* Man hört ja immer wieder von Politikern, 
 man `könne` den [[Bedarf]] `durch` [[gezielt]]e [[Zuwanderung]] [[decken]]

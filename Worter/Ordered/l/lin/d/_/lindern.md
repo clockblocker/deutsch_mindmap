@@ -1,1 +1,1 @@
-[[wehtun]], [[erleichtern]], [[abschwächen]], [[heilen]], [[tröstlich]]
+[[wehtun]], [[erleichtern]], [[abschwächen]], [[heilen]], [[tröstlich]], [[Linderung]]

@@ -6,6 +6,9 @@
 ⛔ [[verhindern]], [fɛɐ̯ˈhɪndɐn](https://youglish.com/pronounce/verhindern/german) → [[verhinderte]] → [[verhindert]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Sie [[verhindert]] eine längere [[Arbeitslosigkeit]]
+
+*[[C1-Hoehen-T3-400-Text#^37|^]]* So [[verhindert]] man [[gleichzeitig]], dass der Leiharbeiter wichtiges Wissen [[mitnimmt]], wenn die [[Leiharbeitsphase]] beendet ist.
 
 *[[C1-Lesen-T2-100-Text#^17|^]]* Demenz lässt sich auch noch im Alter [[verhindern]]
 *(Dementia can still be [[prevented]] in old age.)*
@@ -70,4 +73,4 @@ Adjektive: [[verhindernd]], [[verhindernder]], [[verhinderndst]]
 ---
 
 [[verhindernder]], [[verhinderndes]], [[verhindernde]], [[verhindernden]], [[verhinderndem]], [[verhindernderer]], [[verhindernderes]], [[verhinderndere]], [[verhindernderen]], [[verhindernderem]], [[verhinderndster]], [[verhinderndstes]], [[verhinderndste]], [[verhinderndsten]], [[verhinderndstem]], [[vorbeugen]], [[durchsetzen]], [[auslösen]], [[hervorrufen]], [[beitragen]], [[verschulden]], [[eindämmen]], [[bedingen]], [[entgegenwirken]], [[veranlassen]]
-, [[beschleunigen]], [[verhüten]]
+, [[beschleunigen]], [[verhüten]], [[verhelfen]]

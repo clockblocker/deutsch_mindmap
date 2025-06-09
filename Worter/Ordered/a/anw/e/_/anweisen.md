@@ -63,4 +63,4 @@ sie, [[weisen an]], [[wiesen an]], [[weisen an]], [[wiesen an]], [[weisen an]]
 Adjektive: [[anweisend]], [[anweisender]], [[anweisendst]]
 
 ---
-[[anweisender]], [[anweisendes]], [[anweisende]], [[anweisenden]], [[anweisendem]], [[anweisenderer]], [[anweisenderes]], [[anweisendere]], [[anweisenderen]], [[anweisenderem]], [[anweisendster]], [[anweisendstes]], [[anweisendste]], [[anweisendsten]], [[anweisendstem]], [[auftraggeben]]
+[[anweisender]], [[anweisendes]], [[anweisende]], [[anweisenden]], [[anweisendem]], [[anweisenderer]], [[anweisenderes]], [[anweisendere]], [[anweisenderen]], [[anweisenderem]], [[anweisendster]], [[anweisendstes]], [[anweisendste]], [[anweisendsten]], [[anweisendstem]], [[auftraggeben]], [[zuweisen]]

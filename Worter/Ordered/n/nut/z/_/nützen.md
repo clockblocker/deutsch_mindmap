@@ -1,1 +1,1 @@
-, [[schaden]], [[Nützliches]], [[nutzlos]], [[behindern]], [[taugen]]
+, [[schaden]], [[Nützliches]], [[nutzlos]], [[behindern]], [[taugen]], [[zugutekommen]]

@@ -1,1 +1,1 @@
-, [[Bedeutung]], [[Wert]], [[Stellenwert]], [[Relevanz]], [[Bedeutungslosigkeit]]
+, [[Bedeutung]], [[Wert]], [[Stellenwert]], [[Relevanz]], [[Bedeutungslosigkeit]], [[Winzigkeit]]

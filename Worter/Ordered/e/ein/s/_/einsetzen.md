@@ -5,6 +5,12 @@
 ---
 *[[bro-schrieben-c1-t1-001#^11|^]]* Eine andere Möglichkeit wäre, eine [[abwechslungsreich]]e [[Methode]] aus dem Bereich “Massage” [[einzusetzen]], um den Körper besser zu [[pflegen]]
 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Was [[auszeichnet|zeichnet]] den High Line Park aus? Eine Gruppe von [[Privatleuten]] [[einsetzt|setzt]] sich für ihn ein
+*(What [[distinguishes]] the High Line Park? A group of [[private individuals]] [[advocates]] for it)*
+
+
+
+
 [[einsetzen|Setzen]] Sie die richtigen Wörter in die Lücken im Satz ein.
 
 Erklären Sie, in welchen [[Berufsfeldern]] KI [[bereits]] [[eingesetzt]] wird.

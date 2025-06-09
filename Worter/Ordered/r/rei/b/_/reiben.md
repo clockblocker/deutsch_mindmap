@@ -34,3 +34,4 @@ Morpheme: [[reib]], [[en]]
 
 Partizip I: [[reibend]], Partizip II: [[gerieben]]
 , [[zerreiben]]
+, [[Abrieb]]

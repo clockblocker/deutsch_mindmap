@@ -1,6 +1,7 @@
 🤝 [[überlassen]], [yːbɐˈlasn̩](https://youglish.com/pronounce/überlassen/german) → [[überließ]] → [[überlassen]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^10|^]]* Wir [[vermitteln]] in meiner Firma Menschen, die in der Form der [[Arbeitnehmerüberlassung]], wie wir es nennen, arbeiten
 
 
 ---
@@ -55,4 +56,4 @@ sie, [[überlassen]], [[überließen]], [[überlassen]], [[überließen]], [[üb
 Adjektive: [[überlassend]], [[überlassender]], [[überlassendst]]
 
 ---
-[[überlassender]], [[überlassendes]], [[überlassende]], [[überlassenden]], [[überlassendem]], [[überlassenderer]], [[überlassenderes]], [[überlassendere]], [[überlassenderen]], [[überlassenderem]], [[überlassendster]], [[überlassendstes]], [[überlassendste]], [[überlassendsten]], [[überlassendstem]]
+[[überlassender]], [[überlassendes]], [[überlassende]], [[überlassenden]], [[überlassendem]], [[überlassenderer]], [[überlassenderes]], [[überlassendere]], [[überlassenderen]], [[überlassenderem]], [[überlassendster]], [[überlassendstes]], [[überlassendste]], [[überlassendsten]], [[überlassendstem]], [[Arbeitnehmerüberlassung]]

@@ -6,10 +6,12 @@
 ---
 Wenn Sie keine Möglichkeit haben, [[vorübergehend]] von zu Hause aus zu arbeiten, schlage ich vor, den Hund [[während]] der Arbeitszeit [[betreuen]] zu lassen. 
 
-[[vorübergehend]], [[zeitweilig]], [[temporär]],
+*[[C1-Hoehen-T3-400-Text#^30|^]]* In der Regel ist das auch die Zeit, für die eine [[vorübergehend]]e [[Aufstockung]] des Personals nötig ist; danach spricht man ja nicht mehr von einem zeitlich begrenzten [[Bedarf]] des Entleiher-Unternehmens
+
+
 
 ---
-= [[zeitweilig]], [[temporär]], [[vorläufig]]
+= [[zeitweilig]], [[temporär]], [[vorläufig]], [[vorübergehend]], [[zeitweilig]], [[temporär]],
 ≈ [[kurzfristig]], [[provisorisch]]
 ≠ [[dauerhaft]], [[ständig]], [[permanent]]
 

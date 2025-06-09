@@ -5,6 +5,8 @@
 ---
 Mr Dursley war Direktor einer Firma namens Grunnings, die [[Bohrmaschinen]] [[herstellte]].
 
+*[[C1-Hoehen-T2-102-Text#^31|^]]* Zudem hat das Unternehmen Mann&Hummel einen Filter [[hergestellt]], der 80% der Abriebpartikel gleich an den [[Bremsen]] abfängt
+
 *[[C1-Hoehen-T2-201-Text#^47|^]]* Sie haben ja `in` Ihrer Sendung immer wieder den [[Bezug]] `zwischen` der Geschichte der Mathematik und der Praxis [[hergestellt]]
 
 

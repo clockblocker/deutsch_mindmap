@@ -41,3 +41,4 @@ D: der [[Straftat]], den [[Straftaten]]
 
 , [[bestrafen]]
 [[strafen]], [[strafbar]], [[Straftäter]], [[kriminell]], [[straflos]], [[Strafgesetz]], [[Tat]], [[legal]]
+, [[Täter]]

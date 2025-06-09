@@ -1,9 +1,9 @@
-🟢 das [[Ablaufschlauch]], [ˈapˌlaʊ̯fʃlaʊ̯x]
+der [[Ablaufschlauch]], [ˈapˌlaʊ̯fʃlaʊ̯x]
 die [[Ablaufschläuche]]
 
 ---
 
-4. Ablaufschlauch in einen Ausguss einhängen.
+4. [[Ablaufschlauch]] in einen Ausguss einhängen.
 
 ---
 
@@ -18,7 +18,7 @@ Synonyme:
 ---
 
 Morpheme:
-[[Ablauf]], [[schlauch]]
+[[Ablauf]], [[Schlauch]]
 
 ---
 
@@ -26,4 +26,4 @@ Einzigartige mögliche Formen: [[Ablaufschlauches]], [[Ablaufschlauch]], [[Ablau
 
 ---
 
-#Substantiv #Neuter
+#Substantiv #Maskulin 

@@ -3,6 +3,10 @@
 ---
 *[[2 Unter Druck nach oben#^11|^]]* Die Personalchefs großer deutscher Unternehmen, so [[ergaben]] [[Befragungen]] des SPIEGEL, halten Examensnoten, Titel und [[schlichtes]] [[Fachwissen]] für wenig [[aussagekräftig]]
 
+*[[C1-Hoehen-T3-400-Text#^3|^]]* Aufgaben, die wenig [[Fachwissen]] [[voraussetzen]]
+*(Tasks that require little [[specialist knowledge]])*
+
+
 *[[C1-Hoehen-T2-200-Text#^44|^]]* Ich denke [[vielmehr]], dass [[Vorgesetzte]] bestimmte [[Fähigkeit]]en [[aufweisen]], die sie für diesen Posten eher qualifizieren: [[Fachwissen]], [[Ausstrahlung]], [[Durchsetzungsvermögen]] usw
 
 

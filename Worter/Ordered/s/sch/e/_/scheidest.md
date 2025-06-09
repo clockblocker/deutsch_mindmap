@@ -1,1 +1,1 @@
-[[scheiden]]
+[[scheiden]], [[ausscheiden]]

@@ -35,4 +35,4 @@ PI: [[leidend]], PII: [[gelitten]], Zu+inf: [[zu leiden]]
 
 ---
 [[Leid]], [[Leiden]], [[leidend]], [[leidenschaftlich]]
-, [[erleiden]], [[Heilung]], [[Heilkunde]]
+, [[erleiden]], [[Heilung]], [[Heilkunde]], [[Erkrankung]]

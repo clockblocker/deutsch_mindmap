@@ -3,6 +3,9 @@
 ---
 *[[C1-Lesen-412-Text#^6|^]]* Fährt sich eine Frau mit der Hand [[unentwegt]] durchs Haar, [[bekundet]] sie [[Bereitschaft]] `auf` das andere [[Geschlecht]] [[einzugehen]]
 
+*[[C1-Hoehen-T3-400-Text#^6|^]]* Ein Unternehmen kann auf die [[jeweilig]]e [[Auftragslage]] [[eingehen]] und bei Personalengpässen temporär [[Einstellung]]en [[vornehmen]]
+
+
 [[eingehen|Gehen]] _Sie auf die Situation in Ihrem Heimatland oder einem anderen Land_ [[eingehen|ein]]
 
 _[[C1-Lesen-T4-100-Text#^16|^]]_ Auf diese Weise kann ich meinen künstlerischen Weg konsequent [[verfolgen]], ohne auf die Wünsche [[zahlungskräftiger]] Kunden [[eingehen]] zu müssen

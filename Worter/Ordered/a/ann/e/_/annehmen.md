@@ -1,6 +1,7 @@
 🤝 [[annehmen]] | [[nahm an|nahm an]], haben [[angenommen]]
 
 ---
+*[[C1-Hoehen-T2-401-Text#^4|^]]* Nach Herrn Gröner ist kaum [[anzunehmen]], dass [[Täter]] außer ihrem [[Opfer]] weitere Personen angreifen
 
 Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
 
@@ -8,9 +9,9 @@ Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
 
 _[[C1-Hoehen-T2-100-Text#^24|^]]_ Ich wäre nicht gezwungen, eine Arbeit [[anzunehmen]], die mir gar nicht gefällt.
 
-_[[C1-Lesen-T2-102-Text#^4|^]]_ Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg von der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]]. ^4
+_[[C1-Lesen-T2-102-Text#^4|^]]_ Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg von der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]]
 
-_[[Golfstorm#^6|^]]_ Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]. ^6
+_[[Golfstorm#^6|^]]_ Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]
 
 Da musste Laura nicht lange [[überlegen]]. „Ich möchte dein Angebot [[annehmen]]“, antwortete sie, „denn wenn ich warte, bis ich wieder genug Geld habe, muss auch ich ins Altersheim. Und wie sagt man so schön? Besser den [[Spatz]] in der Hand als die [[Taube]] auf dem [[Dach]].“
 

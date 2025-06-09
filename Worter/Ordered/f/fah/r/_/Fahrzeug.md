@@ -29,4 +29,4 @@ A: das [[Fahrzeug]], die [[Fahrzeuge]]
 G: des [[Fahrzeugs]], der [[Fahrzeuge]]
 D: dem [[Fahrzeug]], den [[Fahrzeugen]]
 
-#Neuter 
+#Neuter , [[Fahrzeugtyp]]

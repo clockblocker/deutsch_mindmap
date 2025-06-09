@@ -32,4 +32,4 @@ Dative: der [[Vereinbarung]], den [[Vereinbarungen]]
 [[vereinbaren]], [[vereinbar]], [[unvereinbar]], [[Abkommen]], [[vereinen]], [[festlegen]], [[Festlegung]], [[Vereinbarkeit]], [[Regelung]], [[Zielabstimmung]], [[Werbevertrag]]
 
 #Feminin , [[ausmachen]]
-, [[Firmenvereinbarung]], [[Tarifvertrag]], [[Arbeitsvertrag]]
+, [[Firmenvereinbarung]], [[Tarifvertrag]], [[Arbeitsvertrag]], [[Betriebsvereinbarung]]

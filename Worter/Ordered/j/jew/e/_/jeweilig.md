@@ -5,6 +5,8 @@
 ---
 Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]].
 
+*[[C1-Hoehen-T3-400-Text#^6|^]]* Ein Unternehmen kann auf die [[jeweilig]]e [[Auftragslage]] [[eingehen]] und bei Personalengpässen temporär [[Einstellung]]en [[vornehmen]]
+
 *[[C1-Lesen-T2-102-Text#^29|^]]* Im Anschluss an die [[jeweilig]]en [[Einheiten]] wurde der Lac-Phe-Wert im Blut gemessen. ^29
 
 

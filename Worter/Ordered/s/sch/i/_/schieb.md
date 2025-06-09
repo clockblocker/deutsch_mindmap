@@ -1,1 +1,1 @@
-, [[schieben]], [[Bedeutungsverschiebung]], [[verschieben]]
+, [[schieben]], [[Bedeutungsverschiebung]], [[verschieben]], [[vorschieben]]

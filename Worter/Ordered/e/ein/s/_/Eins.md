@@ -1,1 +1,1 @@
-1, [[Vereinsbeitrag]], [[zweieinhalb]], [[Einmaleins]]
+1, [[Vereinsbeitrag]], [[zweieinhalb]], [[Einmaleins]], [[anderthalb]]

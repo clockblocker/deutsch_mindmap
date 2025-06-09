@@ -5,7 +5,6 @@ Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für v
 
 *[[C1-Hoehen-T3-301-Text#^35|^]]* Ich sehe zudem das große Problem des sogenannten „[[Braindrain]]“, d. h. qualifizierte junge Menschen werden [[abgeworben]] und in ihren [[Herkunftsländern]] [[fehlen]] dann [[dringend]] benötigte Arbeitskräfte
 
-
 *[[C1-Hoehen-T3-301-Text#^5|^]]* Herr Osterholz [[erwähnt]] die [[Klage]] der Unternehmen über [[fehlen]]de [[Fachkräfte]] im [[MINT]]-[[Bereich]]
 
 *[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem breiten [[Bürgertum]] an [[Wissen]] [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]]
@@ -123,3 +122,6 @@ A: das [[fehlen]], -
 G: des [[Fehlens]], -
 D: dem [[fehlen]], -
 #Neuter , [[abwesend]], [[Präsenz]], [[belaufen]], [[Bestand]], [[existieren]], [[ungenügen]], [[teilnehmen]], [[übrigbleiben]], [[dastehen]], [[Fehlbetrag]], [[wegbleiben]], [[Fehlinformation]], [[Fehlentscheidung]], [[besitzen]]
+
+
+

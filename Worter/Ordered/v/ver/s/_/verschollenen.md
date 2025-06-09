@@ -1,1 +1,1 @@
-[[verschwinden]]
+[[verschwinden]], [[verschollen]]

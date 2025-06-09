@@ -4,6 +4,9 @@
 👮 [[einschreiten]], [ˈaɪ̯nˌʃʁaɪ̯tn̩](https://youglish.com/pronounce/einschreiten/german) → [[schritt ein]] → sein [[eingeschritten]]
 
 ---
+*[[C1-Hoehen-T2-401-Text#^5|^]]* Herr Gröner betont, dass bei [[Einschreiten]] für den [[Hilfeleistend]]en kaum [[Verletzungsgefahr]] besteht
+*(Mr. Gröner emphasizes that there is hardly any [[risk of injury]] for the [[helper]] when [[intervening]])*
+
 
 
 ---
@@ -58,4 +61,4 @@ sie, [[schreiten ein]], [[schritten ein]], [[schreiten ein]], [[schritten ein]],
 Adjektive: [[einschreitend]], [[einschreitender]], [[einschreitendst]]
 
 ---
-[[einschreitender]], [[einschreitendes]], [[einschreitende]], [[einschreitenden]], [[einschreitendem]], [[einschreitenderer]], [[einschreitenderes]], [[einschreitendere]], [[einschreitenderen]], [[einschreitenderem]], [[einschreitendster]], [[einschreitendstes]], [[einschreitendste]], [[einschreitendsten]], [[einschreitendstem]], [[Einsatz]]
+[[einschreitender]], [[einschreitendes]], [[einschreitende]], [[einschreitenden]], [[einschreitendem]], [[einschreitenderer]], [[einschreitenderes]], [[einschreitendere]], [[einschreitenderen]], [[einschreitenderem]], [[einschreitendster]], [[einschreitendstes]], [[einschreitendste]], [[einschreitendsten]], [[einschreitendstem]], [[Einsatz]], [[Hilfe leisten]]

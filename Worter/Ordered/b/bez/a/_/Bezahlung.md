@@ -29,4 +29,4 @@ G: der [[Bezahlung]], der [[Bezahlungen]]
 D: der [[Bezahlung]], den [[Bezahlungen]]
 
 
-#Feminin 
+#Feminin , [[Entgelt]]

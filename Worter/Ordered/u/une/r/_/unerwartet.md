@@ -25,4 +25,4 @@ unexpected
 Adjektive: [[unerwartet]], [[unerwarteter]], [[unerwartetst]]
 
 ---
-[[unerwarteter]], [[unerwartetes]], [[unerwartete]], [[unerwarteten]], [[unerwartetem]], [[unerwarteterer]], [[unerwarteteres]], [[unerwartetere]], [[unerwarteteren]], [[unerwarteterem]], [[unerwartetster]], [[unerwartetstes]], [[unerwartetste]], [[unerwartetsten]], [[unerwartetstem]]
+[[unerwarteter]], [[unerwartetes]], [[unerwartete]], [[unerwarteten]], [[unerwartetem]], [[unerwarteterer]], [[unerwarteteres]], [[unerwartetere]], [[unerwarteteren]], [[unerwarteterem]], [[unerwartetster]], [[unerwartetstes]], [[unerwartetste]], [[unerwartetsten]], [[unerwartetstem]], [[voraussichtlich]]

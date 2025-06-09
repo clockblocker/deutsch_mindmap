@@ -42,3 +42,4 @@ Tags:
 
 Morphems:
 [[Sicht]], [[lich]], [[ersichtlich]]
+, [[hinsichtlich]]

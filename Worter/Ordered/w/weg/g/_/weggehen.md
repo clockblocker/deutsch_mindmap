@@ -35,4 +35,4 @@ Partizip I: [[weggehend]], Partizip II: [[weggegangen]]
 
 [[verlassen]]
 , [[ausgehen]], [[lösen]], [[näherkommen]], [[vorbeikommen]], [[zugehen]], [[rangehen]], [[ausziehen]], [[verbringen]], [[herankam]], [[zukommen]], [[hinstehen]], [[aufhalten]], [[nähern]], [[verbleiben]], [[abwandern]]
-, [[eintreten]]
+, [[eintreten]], [[dazustoßen]]

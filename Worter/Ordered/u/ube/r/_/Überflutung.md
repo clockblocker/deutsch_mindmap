@@ -2,7 +2,9 @@
 die [[Überflutungen]]
 
 ---
-- Erklären Sie, was unter "Informations[[überflutung]]" zu verstehen ist.
+Erklären Sie, was unter "Informations[[überflutung]]" zu verstehen ist.
+
+*[[C1-Hoehen-T3-401-Text#^1|^]]* Bangkoks Lage führt dazu, dass es [[häufig]]er zu [[Überflutung]]en kommt
 
 ---
 = [[Überschwemmung]], [[Flutung]]
@@ -26,4 +28,4 @@ N: die [[Überflutung]], die [[Überflutungen]]
 A: die [[Überflutung]], die [[Überflutungen]]
 G: der [[Überflutung]], der [[Überflutungen]]
 D: der [[Überflutung]], den [[Überflutungen]]
-, [[Reizüberflutung]]
+, [[Reizüberflutung]], [[C1-Hoehen-T3-401-Text]]

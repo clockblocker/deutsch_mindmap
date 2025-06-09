@@ -1,2 +1,2 @@
 , [[matt]]
-, [[Erschöpfung]]
+, [[Erschöpfung]], [[Glanz]]

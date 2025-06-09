@@ -44,4 +44,4 @@ sie, [[saugen auf]], [[sogen auf]], [[saugen auf]], [[sögen auf]], [[saugen auf
 Adjektive: [[aufsaugend]], [[aufsaugender]], [[aufsaugendst]]
 
 ---
-[[aufsaugender]], [[aufsaugendes]], [[aufsaugende]], [[aufsaugenden]], [[aufsaugendem]], [[aufsaugenderer]], [[aufsaugenderes]], [[aufsaugendere]], [[aufsaugenderen]], [[aufsaugenderem]], [[aufsaugendster]], [[aufsaugendstes]], [[aufsaugendste]], [[aufsaugendsten]], [[aufsaugendstem]]
+[[aufsaugender]], [[aufsaugendes]], [[aufsaugende]], [[aufsaugenden]], [[aufsaugendem]], [[aufsaugenderer]], [[aufsaugenderes]], [[aufsaugendere]], [[aufsaugenderen]], [[aufsaugenderem]], [[aufsaugendster]], [[aufsaugendstes]], [[aufsaugendste]], [[aufsaugendsten]], [[aufsaugendstem]], [[ausscheiden]]

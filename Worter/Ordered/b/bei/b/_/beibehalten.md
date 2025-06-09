@@ -52,4 +52,4 @@ Adjektive: [[beibehaltend]], [[beibehaltender]], [[beibehaltendst]]
 ---
 
 [[beibehaltender]], [[beibehaltendes]], [[beibehaltende]], [[beibehaltenden]], [[beibehaltendem]], [[beibehaltenderer]], [[beibehaltenderes]], [[beibehaltendere]], [[beibehaltenderen]], [[beibehaltenderem]], [[beibehaltendster]], [[beibehaltendstes]], [[beibehaltendste]], [[beibehaltendsten]], [[beibehaltendstem]]
-, [[adaptieren]]
+, [[adaptieren]], [[umgestalten]]

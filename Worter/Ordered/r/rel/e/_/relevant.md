@@ -1,4 +1,4 @@
 --> 🧱[[Grad-Gewicht]] <--
 
 
-, [[überflüssig]], [[wichtig]], [[bezogen]], [[entscheidend]], [[bedeutend]], [[wesentlich]], [[signifikant]], [[Relevanz]], [[erwähnenswert]]
+, [[überflüssig]], [[wichtig]], [[bezogen]], [[entscheidend]], [[bedeutend]], [[wesentlich]], [[signifikant]], [[Relevanz]], [[erwähnenswert]], [[unerheblich]]

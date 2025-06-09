@@ -29,3 +29,4 @@ Einzigartige mögliche Formen: [[Anleitung]], [[Anleitung]], [[Anleitungen]], [[
 ---
 
 #Substantiv #Maskulin, [[vorlesen]], [[Extra 8]], [[erst]], [[leiten]], [[Ratgeber]]
+, [[Einarbeitung]]

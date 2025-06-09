@@ -4,6 +4,7 @@
 haben [[vorgenommen]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^6|^]]* Ein Unternehmen kann auf die [[jeweilig]]e [[Auftragslage]] [[eingehen]] und bei Personalengpässen temporär [[Einstellung]]en [[vornehmen]]
 
 Er [[vornehmen|nimmt]] sich vor, in nächster Zeit nicht ins Kino zu gehen und weniger Wein zu trinken. Dann wird er es schon irgendwie schaffen.
 

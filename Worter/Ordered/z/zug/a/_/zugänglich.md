@@ -1,7 +1,11 @@
 🔓 [[zugänglich]], [ˈt͡suːˌɡɛŋlɪç](https://youglish.com/pronounce/zugänglich/german)
 
 ---
-*[[101-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
+*[[101-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind
+
+*[[C1-Hoehen-T2-401-Text#^1|^]]* Die Arbeit der Studierenden ist nun auch für ein größeres Publikum [[zugänglich]]
+*(The work of the students is now also [[accessible]] to a larger audience.)*
+
 
 
 ---

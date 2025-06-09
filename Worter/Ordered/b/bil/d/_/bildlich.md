@@ -1,1 +1,1 @@
-, [[anschauliche]], [[Abbildung]]
+, [[anschauliche]], [[Abbildung]], [[vorbildlich]]

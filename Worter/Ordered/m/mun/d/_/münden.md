@@ -4,6 +4,9 @@
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^2|^]]* Dieser permanente Stress, [[gepaart]] mit zu wenig sozialem [[Austausch]] und dem [[Fehlen]] klar definierter Grenzen zwischen Arbeitszeit und Freizeit, kann [[rasch]] in einen Burnout [[münden]]. ^2
 
 
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Ein Verbot der Leiharbeit würde in einen [[Zusammenbruch]] der [[Arbeitsabläufe]] vieler Firmen [[münden]]
+*(A ban on temporary agency work would [[lead]] to a [[collapse]] of the [[work processes]] of many companies)*
+
 
 ---
 = [[auslaufen]], [[enden]], [[fließen]]

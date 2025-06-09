@@ -4,6 +4,8 @@
 - Aber dann [[bekommt]] Sascha Post aus Amerika ...
 - Ja – das Kissen hab’ ich auch [[bekommen]].  
 
+*[[C1-Hoehen-T3-400-Text#^18|^]]* Wir [[bekämen]] neue Kolleg:innen mit [[tariflich]] festgelegtem [[Gehalt]] und allen Rechten, die wir auch haben
+
 *[[06-C1-Schreiben-T2-M#^11|^]]* Daher würde ich Ihnen gerne folgenden [[Vorschlag]] unterbreiten: Wie wäre es, wenn Mitarbeitende die Möglichkeit [[bekämen]], morgens [[gemeinschaftlich]] online Essen von der Firma ABC zu bestellen, die sonst auch unsere Kantine [[beliefert]]? ^11
 
 

@@ -2,6 +2,7 @@
 die [[Begriffe]]
 
 ---
+*[[C1-Hoehen-T2-102-Text#^36|^]]* Ich [[vermute]], dass [[Begriff]]e wie Null-Emission-Fahrzeug die Menschen auf eine falsche Fährte geführt haben, denn wie wir gehört haben, sind Abgase ja nicht die alleinigen Übeltäter
 
 [[Schönheit]] ist ein [[relativer]] [[Begriff]]
 

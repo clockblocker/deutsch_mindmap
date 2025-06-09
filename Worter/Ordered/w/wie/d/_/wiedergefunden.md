@@ -1,1 +1,1 @@
-[[verloren]]
+[[verloren]], [[verschollen]]

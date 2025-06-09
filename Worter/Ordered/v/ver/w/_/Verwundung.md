@@ -1,1 +1,1 @@
-, [[Wunde]]
+, [[Wunde]], [[Verletzung]]

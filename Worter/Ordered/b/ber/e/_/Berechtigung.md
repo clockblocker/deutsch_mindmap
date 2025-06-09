@@ -27,4 +27,4 @@ G: der [[Berechtigung]], der [[Berechtigungen]]
 D: der [[Berechtigung]], den [[Berechtigungen]]
 
 
-#Feminin 
+#Feminin , [[Verlaub]]

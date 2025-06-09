@@ -1,1 +1,1 @@
-, [[Innenstadt]], [[Brennpunkt]], [[Mittelpunkt]], [[Außenbezirk]], [[Randgebiet]]
+, [[Innenstadt]], [[Brennpunkt]], [[Mittelpunkt]], [[Außenbezirk]], [[Randgebiet]], [[Vorort]]

@@ -3,6 +3,9 @@
 ---
 Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
 
+*[[C1-Hoehen-T3-401-Text#^1|^]]* Bangkoks Lage führt dazu, dass der durch die Stadt [[fließend]]e Strom sich ein immer [[breiteres]] [[Bett]] [[gräbt]] ^1
+
+
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^4|^]]* _Allerdings würde das bedeuten, dass es für alle_ [[Beamten]] [[Voraussetzung]] _wäre,_ [[fließend]] _Englisch zu_ [[beherrschen]] _. ^4
 
 

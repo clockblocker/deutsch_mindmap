@@ -34,3 +34,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[verletzt]], [[verletztere]], [[verletzteste]], [[verletzterer]], [[verletztesten]], [[verletzteres]], [[verletzterem]], [[verletzteren]], [[verletzterem]], [[verletzteren]], [[heilen]]
+, [[Verletzung]]

@@ -4,7 +4,9 @@ die [[Bevölkerungen]]
 ---
 *[[C1-Lesen-T3-301-Text#^5|^]]* Die Haßlocher [[Bevölkerung]] bekam also ihre eigene [[bunt]]e [[Konsumwelt]]
 
-_[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^8|^]]_ _Nicht nur die Immigrantinnen und Immigranten fühlen sich schneller mit dem Land verbunden, wenn sie die Landessprache sprechen, auch die_ [[einheimische]] [[Bevölkerung]] _ist oft viel_ [[toleranter]] _den Menschen_ [[gegenüber]] _, die versuchen, die_ [[Zielsprache]] \_zu erlernen
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Je nach Dichte der städtischen [[Bevölkerung]] entsteht ein Trend zu größeren [[Vororten]]
+
+_[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^8|^]]_ _Nicht nur die Immigrantinnen und Immigranten fühlen sich schneller mit dem Land verbunden, wenn sie die Landessprache sprechen, auch die_ [[einheimische]] [[Bevölkerung]] _ist oft viel_ [[toleranter]] _den Menschen_ [[gegenüber]] _, die versuchen, die_ [[Zielsprache]]_zu erlernen
 
 _[[C1-Hoehen-T2-202-Text#^28|^]]_ Wenn von den Politikerinnen und Politikern die Regeln gebrochen würden, dann käme es zu einem noch größeren Misstrauen [[seitens]] der [[Bevölkerung]]
 
@@ -37,4 +39,4 @@ D: der [[Bevölkerung]], den [[Bevölkerungen]]
 
 [[bevölkern]], [[Bevölkerungsdichte]], [[Bevölkerungsgruppe]], [[Bevölkerungswachstum]], [[Menschen]]
 #Feminin , [[Gesamtgesellschaft]], [[Bevölkerungsstruktur]], [[Durchschnittsdeutsche]], [[Wählerschaft]], [[Allgemeinheit]], [[Bürgertum]], [[demografisch]]
-, [[Durchschnittsbevölkerung]], [[Altersstruktur]]
+, [[Durchschnittsbevölkerung]], [[Altersstruktur]], [[C1-Hoehen-T3-401-Text]]

@@ -28,4 +28,4 @@ G: des [[Vorgangs]], der [[Vorgänge]]
 D: dem [[Vorgang]], den [[Vorgängen]]
 
 
-#Maskulin 
+#Maskulin , [[Arbeitsablauf]]

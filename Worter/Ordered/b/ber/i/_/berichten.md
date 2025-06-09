@@ -3,6 +3,8 @@
 ---
 Die Zeitungen [[berichten]] von einem [[Unfall]].
 
+*[[C1-Hoehen-T3-400-Text#^40|^]]* Unsere Angestellten werden am neuen Arbeitsplatz meist gut [[aufgenommen]] und [[berichten]] von einem guten, kollegialen Verhältnis zu anderen aus dem Entleiher-Unternehmen
+
 *[[C1-Hoehen-T1-100-Text#^17|^]]* Mehrere Familien [[erzählen]] ihre Geschichte, [[berichten]] über ihre [[Erfahrung]]en. ^17
 
 

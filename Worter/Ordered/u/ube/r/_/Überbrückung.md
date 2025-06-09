@@ -1,7 +1,10 @@
 🌉 🔴 die [[Überbrückung]], [ˈyːbɐbʁʏkʊŋ](https://youglish.com/pronounce/Überbrückung/german)
 
 ---
+*[[C1-Hoehen-T3-400-Text#^14|^]]* Stattdessen bieten wir ihnen die [[Gelegenheit]], eine schwierige Zeit zu [[überbrücken]] und vielleicht einen Sprung in ihrer Karriere zu machen.
+
 *[[C1-Hoehen-T1-102-Text#^11|^]]* "Wirtschaftsethik" [[erläutert]] es [[Normalsterbliche]]n nämlich [[dankenswerterweise]] einmal und zwar als: [[Überbrückung]] des [[Spannungsverhältniss]]es der [[marktwirtschaftlich]]en [[Gewinnorientierung]] und [[gesellschaftlich]]en [[Moralvorstellung]]en und [[einführen|führt]] auch weitere allgemeine [[Begriff]]e der Wirtschaftsethik auf eine einfache und verständliche Art und [[Weise]] ein
+
 
 ---
 = [[Beseitigung]], [[Bewältigung]]

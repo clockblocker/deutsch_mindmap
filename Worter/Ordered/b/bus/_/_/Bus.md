@@ -1,1 +1,1 @@
-, [[Haltestelle]], [[ÖPNV]]
+, [[Haltestelle]], [[ÖPNV]], [[Nahverkehrsmittel]]

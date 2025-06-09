@@ -3,7 +3,9 @@
 🕰️ [[gleichzeitig]], [ˈɡlaɪ̯çˌtsaɪ̯tɪç]
 
 ---
-Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
+Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]]
+
+*[[C1-Hoehen-T3-400-Text#^37|^]]* So [[verhindert]] man [[gleichzeitig]], dass der Leiharbeiter wichtiges Wissen [[mitnimmt]], wenn die [[Leiharbeitsphase]] beendet ist.
 
 [[Eine Extrawurst bekommen.md#^7|^]] Hannah und Lara [[aufspringen|springen]] auf: „Das ist unfair!“, rufen sie fast [[gleichzeitig]]. ^7
 

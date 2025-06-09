@@ -21,4 +21,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Leuts]], [[Leuten]], [[Leutens]], [[Leutin]], [[Leutinnen]]
 
 ---
-#Substantiv #Maskulin
+#Substantiv #Maskulin, [[Privatmann]]

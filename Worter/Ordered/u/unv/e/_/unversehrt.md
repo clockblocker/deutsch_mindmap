@@ -1,1 +1,1 @@
-, [[verletzt]], [[schadlos]], [[unberührt]]
+, [[verletzt]], [[schadlos]], [[unberührt]], [[Verletzung]]

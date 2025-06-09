@@ -43,4 +43,4 @@ D: der [[Grenze]], den [[Grenzen]]
 , [[begrenzen]], [[begrenzt]], [[Oder-Neiße-Linie]], [[Ostgrenze]], [[Gartenzaun]]
 
 
-#Feminin , [[abgrenzen]], [[angrenzen]]
+#Feminin , [[abgrenzen]], [[angrenzen]], [[ausgrenzen]]

@@ -1,2 +1,2 @@
 [[finden]]  
-[[verloren]], [[verirrt]]
+[[verloren]], [[verirrt]], [[verschollen]]

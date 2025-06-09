@@ -45,4 +45,4 @@ sie, [[beteuern]], [[beteuerten]], [[beteuern]], [[beteuerten]], [[beteuern]]
 Adjektive: [[beteuernd]], [[beteuernder]], [[beteuerndst]]
 
 ---
-[[beteuernder]], [[beteuerndes]], [[beteuernde]], [[beteuernden]], [[beteuerndem]], [[beteuernderer]], [[beteuernderes]], [[beteuerndere]], [[beteuernderen]], [[beteuernderem]], [[beteuerndster]], [[beteuerndstes]], [[beteuerndste]], [[beteuerndsten]], [[beteuerndstem]]
+[[beteuernder]], [[beteuerndes]], [[beteuernde]], [[beteuernden]], [[beteuerndem]], [[beteuernderer]], [[beteuernderes]], [[beteuerndere]], [[beteuernderen]], [[beteuernderem]], [[beteuerndster]], [[beteuerndstes]], [[beteuerndste]], [[beteuerndsten]], [[beteuerndstem]], [[Hand ins Feuer legen]]

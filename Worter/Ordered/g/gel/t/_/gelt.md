@@ -1,1 +1,1 @@
-[[gelten]]
+[[gelten]], [[Entgelt]]

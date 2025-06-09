@@ -4,6 +4,8 @@
 ---
 Ich bin mir sicher, das Bild wird [[bestimmt]] gut
 
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Die zeitliche Dauer der Leiharbeit wird von einem [[Rotationssystem]] [[bestimmt]]
+
 *[[C1-Lesen-T2-200-Text#^9|^]]* Wo [[stößt]] der Stern `an` seine [[Grenzen]]? Bei [[bestimmten]] sprachlichen Strukturen
 *(Where does the asterisk [[reach]] its [[limits]]? In [[certain]] linguistic structures)*
 
@@ -40,4 +42,4 @@ N: [[bestimmtes]], [[bestimmteres]], [[bestimmtestes]]
 P: [[bestimmten]], [[bestimmteren]], [[bestimmtesten]]  
 
 ---
-[[bestimmen]], [[Bestimmung]], [[unbestimmt]], [[Bestimmtheit]], [[bestimmbar]], [[s1 e1]],  [[speziell]], [[zielgerichtet]], [[womöglich]], [[geregelt]], [[Begriffsbestimmung]]
+[[bestimmen]], [[Bestimmung]], [[unbestimmt]], [[Bestimmtheit]], [[bestimmbar]], [[s1 e1]],  [[speziell]], [[zielgerichtet]], [[womöglich]], [[geregelt]], [[Begriffsbestimmung]], [[vermutlich]]

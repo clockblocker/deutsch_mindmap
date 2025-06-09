@@ -33,3 +33,4 @@ Dative: der [[Leitung]], den [[Leitungen]]
 
 , [[Aufsicht]], [[leiten]]
 , [[wertvoll]], [[Verwaltung]], [[Einleitung]], [[Geschäftsführung]], [[weiterleiten]], [[verleiten]], [[Führungsstil]], [[Orientierung]]
+, [[Schlauch]]

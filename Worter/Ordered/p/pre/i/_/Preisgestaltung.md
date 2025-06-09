@@ -34,3 +34,4 @@ D: der [[Preisgestaltung]], den [[Preisgestaltungen]]
 
 
 
+, [[Pauschalpreis]]

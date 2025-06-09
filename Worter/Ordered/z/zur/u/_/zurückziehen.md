@@ -61,4 +61,4 @@ sie, [[ziehen zurück]], [[zogen zurück]], [[ziehen zurück]], [[zögen zurück
 Adjektive: [[zurückziehend]], [[zurückziehender]], [[zurückziehendst]]
 
 ---
-[[zurückziehender]], [[zurückziehendes]], [[zurückziehende]], [[zurückziehenden]], [[zurückziehendem]], [[zurückziehenderer]], [[zurückziehenderes]], [[zurückziehendere]], [[zurückziehenderen]], [[zurückziehenderem]], [[zurückziehendster]], [[zurückziehendstes]], [[zurückziehendste]], [[zurückziehendsten]], [[zurückziehendstem]], [[tief]]
+[[zurückziehender]], [[zurückziehendes]], [[zurückziehende]], [[zurückziehenden]], [[zurückziehendem]], [[zurückziehenderer]], [[zurückziehenderes]], [[zurückziehendere]], [[zurückziehenderen]], [[zurückziehenderem]], [[zurückziehendster]], [[zurückziehendstes]], [[zurückziehendste]], [[zurückziehendsten]], [[zurückziehendstem]], [[tief]], [[vorschieben]]

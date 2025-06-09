@@ -1,1 +1,1 @@
-, [[verantwortlich]]
+, [[verantwortlich]], [[Täter]], [[Verursacher]]

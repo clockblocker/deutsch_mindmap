@@ -5,6 +5,10 @@
 ---
 *[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]]
 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Eine innovative Idee für den Transport in Megacitys ist, ihn der Nachfrage genau [[anzupassen]]
+*(An innovative idea for transport in megacities is to [[adapt]] it precisely to demand)*
+
+
 *[[C1-Hoehen-T2-201-Text#^46|^]]* Und die, die schneller und schon weiter im Verständnis sind, können am Computer ihren [[Lerntempo]] individuell [[angepasst]]e [[weiterführende]] Aufgaben lösen
 
 *[[C1-Hoehen-T1-200-Text#^12|^]]* [[Gleichzeitig]] erfährt man aber auch, dass die Natur [[Recht]] [[robust]] ist und sich [[durchaus]] [[anpassen]] kann, wie frühere Klimaveränderungen [[gezeigt]] haben.
@@ -63,4 +67,4 @@ sie, [[passen an]], [[passten an]], [[passen an]], [[passten an]], [[passen an]]
 Adjektive: [[anpassend]], [[anpassender]], [[anpassendst]]
 
 ---
-[[anpassender]], [[anpassendes]], [[anpassende]], [[anpassenden]], [[anpassendem]], [[anpassenderer]], [[anpassenderes]], [[anpassendere]], [[anpassenderen]], [[anpassenderem]], [[anpassendster]], [[anpassendstes]], [[anpassendste]], [[anpassendsten]], [[anpassendstem]], [[umstellen]], [[Angemessenheit]], [[angemessen]], [[zurechtbiegen]], [[zurechtfinden]], [[beugen]], [[Preisanpassung]], [[ausgleichen]], [[unangepasst]]
+[[anpassender]], [[anpassendes]], [[anpassende]], [[anpassenden]], [[anpassendem]], [[anpassenderer]], [[anpassenderes]], [[anpassendere]], [[anpassenderen]], [[anpassenderem]], [[anpassendster]], [[anpassendstes]], [[anpassendste]], [[anpassendsten]], [[anpassendstem]], [[umstellen]], [[Angemessenheit]], [[angemessen]], [[zurechtbiegen]], [[zurechtfinden]], [[beugen]], [[Preisanpassung]], [[ausgleichen]], [[unangepasst]], [[umgestalten]]

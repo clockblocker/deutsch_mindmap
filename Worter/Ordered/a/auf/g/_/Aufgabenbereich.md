@@ -2,7 +2,10 @@
 die [[Aufgabenbereiche]]
 
 ---
-*[[201-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke einbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann. 
+*[[201-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke einbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann
+
+*[[C1-Hoehen-T3-400-Text#^4|^]]* [[Weiterbildung]] für die Leiharbeiter fällt nicht in den [[Aufgabenbereich]] der [[Leiharbeitsfirma]] ^4
+
 
 ---
 = [[Tätigkeitsfeld]], [[Zuständigkeitsbereich]]

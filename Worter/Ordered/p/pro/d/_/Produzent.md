@@ -28,4 +28,4 @@ G: des [[Produzenten]], der [[Produzenten]]
 D: dem [[Produzenten]], den [[Produzenten]]
 
 #Maskulin 
-, [[Produkt]]
+, [[Produkt]], [[Automobilhersteller]]

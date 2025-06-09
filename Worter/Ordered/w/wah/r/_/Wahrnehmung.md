@@ -36,4 +36,4 @@ A: die [[Wahrnehmung]], die [[Wahrnehmungen]]
 G: der [[Wahrnehmung]], der [[Wahrnehmungen]]
 D: der [[Wahrnehmung]], den [[Wahrnehmungen]]
 
-#Feminin 
+#Feminin , [[Beachtung]]

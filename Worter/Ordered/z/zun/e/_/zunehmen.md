@@ -5,6 +5,8 @@
 ---
 *[[Sprechen-T1#^4|^]]* Heute wird kontrovers darüber diskutiert, wie Städte mit dem [[zunehmenden]] [[Verkehrsaufkommen]] umgehen sollen, insbesondere im [[Hinblick]] auf Umwelt- und Lebensqualitätsfragen
 
+*[[C1-Hoehen-T2-102-Text#^35|^]]* Bis 2030 ist mit einer weiteren [[Zunahm]]e des Straßenverkehrs zu rechnen, wodurch man von einem Anstieg der sogenannten Nicht-Abgas-Emissionen von etwa 50% ausgeht
+
 14 Die [[Nutzung]] von Autos, Bussen und Bahnen wird [[künftig]] stark [[zunehmen]]
 
 *[[C1-Hoehen-T1-100-Text#^11|^]]* [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
@@ -61,4 +63,4 @@ sie, [[nehmen zu]], [[nahmen zu]], [[nehmen zu]], [[nähmen zu]], [[nehmen zu]]
 Adjektive: [[zunehmend]], [[zunehmender]], [[zunehmendst]]
 
 ---
-[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]], [[absinken]], [[Diät]], [[vermehren]], [[zurückgehen]], [[zulegen]], [[Abspecken]], [[nachlassen]]
+[[zunehmender]], [[zunehmendes]], [[zunehmende]], [[zunehmenden]], [[zunehmendem]], [[zunehmenderer]], [[zunehmenderes]], [[zunehmendere]], [[zunehmenderen]], [[zunehmenderem]], [[zunehmendster]], [[zunehmendstes]], [[zunehmendste]], [[zunehmendsten]], [[zunehmendstem]], [[absinken]], [[Diät]], [[vermehren]], [[zurückgehen]], [[zulegen]], [[Abspecken]], [[nachlassen]], [[anwachsen]]

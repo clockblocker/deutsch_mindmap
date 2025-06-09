@@ -1,1 +1,1 @@
-, [[Kunststoffabfall]]
+, [[Kunststoffabfall]], [[Abfall]]

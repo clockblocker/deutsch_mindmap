@@ -17,4 +17,4 @@ Synonyme:
 **Übersetzung**: start
 
 ---
-#Substantiv #Maskulin, [[Kundstart]], [[Strecke]], [[Neuanfang]], [[Anhieb]], [[Anhieb]], [[Ende]], [[Unternehmenseröffnung]], [[Anstoß]], [[Markteinführung]]
+#Substantiv #Maskulin, [[Kundstart]], [[Strecke]], [[Neuanfang]], [[Anhieb]], [[Anhieb]], [[Ende]], [[Unternehmenseröffnung]], [[Anstoß]], [[Markteinführung]], [[Beendigung]]

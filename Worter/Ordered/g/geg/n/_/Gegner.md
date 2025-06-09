@@ -27,4 +27,4 @@ G: des [[Gegners]], der [[Gegner]]
 D: dem [[Gegner]], den [[Gegnern]]
 
 
-#Maskulin 
+#Maskulin , [[Feinstaubprotagonist]]

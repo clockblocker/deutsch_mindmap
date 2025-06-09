@@ -1,1 +1,1 @@
-, [[Weiterbildung]]
+, [[Weiterbildung]], [[weiterbilden]]

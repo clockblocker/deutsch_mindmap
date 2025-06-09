@@ -3,6 +3,8 @@
 ---
 Alles hat er [[mitgenommen]], nur meine Perlenkette nicht.
 
+*[[C1-Hoehen-T3-400-Text#^37|^]]* So [[verhindert]] man [[gleichzeitig]], dass der Leiharbeiter wichtiges Wissen [[mitnimmt]], wenn die [[Leiharbeitsphase]] beendet ist.
+
 *[[C1-Hoehen-T1-301-Text#^1|^]]* In unserer ersten Empfehlung „O-Ton aus dem Paradies“ werden Sie zu dem [[Sehnsuchtsort]] [[mitgenommen]]
 
 ---

@@ -1,1 +1,1 @@
-, [[Nutzungsdaten]], [[Internetnutzer]], [[Konsument]], [[Betreiber]], [[Forumsteilnehmer]], [[Entwickler]]
+, [[Nutzungsdaten]], [[Internetnutzer]], [[Konsument]], [[Betreiber]], [[Forumsteilnehmer]], [[Entwickler]], [[Entleiher]]

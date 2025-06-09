@@ -27,4 +27,4 @@ G: des [[Staubs]], der [[Stäube]]
 D: dem [[Staub]], den [[Stäuben]]
 
 
-#Maskulin 
+#Maskulin , [[Feinstaubprotagonist]], [[Feinstaubwert]]

@@ -1,0 +1,1 @@
+🤔 [[erachten]] | 🟢 das [[Erachten]] 🤔

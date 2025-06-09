@@ -1,12 +1,13 @@
 --> [[⛪ Ingredient-Plazt]] <--
 
 ---
-
 🏠 die [[Lage]], [ˈlaːɡə], 🏠 die [[Lage]] | 🧘 [[liegen]]
 die [[Lagen]]
 
 ---
 *[[bro-schrieben-c1-t1-011#^5|^]]* [[Arbeitgebende]] sind `in` der [[Lage]], [[gesetzte]] Ziele monatlich zu [[überprüfen]] und zu [[adaptieren]]
+
+*[[C1-Hoehen-T2-102-Text#^28|^]]* Haben denn die [[Automobilhersteller]] die [[Lage]] erkannt?
 
 Wer war nicht schon einmal in einer schwierigen [[Lage]]? Gut, wenn man dann nicht alleine ist.
 

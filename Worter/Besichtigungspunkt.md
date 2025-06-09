@@ -26,3 +26,5 @@ N: der [[Besichtigungspunkt]], die [[Besichtigungspunkte]]
 A: den [[Besichtigungspunkt]], die [[Besichtigungspunkte]]
 G: des [[Besichtigungspunkts]], der [[Besichtigungspunkte]]
 D: dem [[Besichtigungspunkt]], den [[Besichtigungspunkten]]
+
+#Maskulin 

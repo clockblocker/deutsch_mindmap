@@ -17,7 +17,7 @@ satisfaction survey
 [[Zufriedenheit]], [[umfragen]], [[Umfrage]]
 
 ---
-[[Zufriedenheit]]|`s`|[[umfrage]]
+[[Zufriedenheit]]|`s`|[[Umfrage]]
 [[Zufriedenheitsumfrage]]
 
 

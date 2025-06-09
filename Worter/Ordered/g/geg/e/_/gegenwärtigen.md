@@ -1,1 +1,1 @@
-, [[gegenwärtig]]
+, [[gegenwärtig]], [[Gegenwart]]

@@ -1,1 +1,1 @@
-, [[Spotpreis]]
+, [[Spotpreis]], [[Pauschalpreis]]

@@ -58,3 +58,5 @@ Willkommen zu „Reise-Tester“, dem wöchentlichen Podcast, das Reiseangeboten
 ---
 
 *Ziel der letzten Reise für heute ist Irland. Die Reise hält alles, was sie verspricht: die Urgewalten des Atlantiks, Düfte und Farben einer einmaligen Landschaft, kombiniert mit geführten Besuchen in Dublin und Belfast, Dörfern und historischen Stätten. Eine gelungene Mischung aus dem Bilderbuch-Irland und der heutigen Realität. Ausgesprochen interessant sind zudem die* `4` Begegnungen mit Einheimischen, etwa mit Torfstechern, mit Whiskeybrennern oder – im Rahmen einer Strandwanderung – mit einem Algenspezialisten. *Unterkünfte, Verpflegung, Führungen, Wanderprogramm: Alles ist genau so, wie im Angebot beschrieben. Allerdings, und das sollten Sie beachten, sind nicht alle auf der Site beschriebenen Highlights im Pauschalpreis inbegriffen, was in dieser Angebotskategorie eher selten ist. Doch genau da setzt dieser Newcomer an: ein außergewöhnliches* `1` Reiseerlebnis, das auch denjenigen offensteht, die eine gewisse Flexibilität bei den Reisekosten suchen und sich solche Reisen bislang nicht leisten konnten. 
+
+

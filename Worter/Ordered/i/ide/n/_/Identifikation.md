@@ -1,1 +1,1 @@
-, [[Zugehörigkeit]]
+, [[Zugehörigkeit]], [[Zugehörigkeitsgefühl]]

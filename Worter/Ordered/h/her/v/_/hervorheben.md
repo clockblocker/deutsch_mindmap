@@ -1,6 +1,8 @@
 🤏 [[hervorheben]] | [[hob hervor|hob hervor]], haben [[hervorgehoben]]
 
 ---
+*[[C1-Hoehen-T2-401-Text#^2|^]]* Herr Gröner [[hervorhebt|hebt]] die [[Notwendigkeit]] des [[Handeln]]s in Fällen öffentlicher [[Gewalt]] hervor
+*(Mr. Gröner [[emphasizes]] the necessity of [[acting]] in cases of public [[violence]].)*
 
 Oder wie es Elena [[ausdrücken]] würde: „Man kann es ihr nie recht machen!“ Elenas Chefin sucht gerne das Haar in der Suppe. Das heißt natürlich nicht, dass sie jeden Suppenteller nach Haaren [[durchsucht]], [[sondern]] dass sie oft das Schlechte [[hervorhebt]] und dabei viel Gutes [[übersieht]].
 

@@ -46,3 +46,4 @@ Morpheme: [[ver]], [[sprech]], [[en]]
 
 Partizip I: [[versprechend]], Partizip II: [[versprochen]]
 [[versprechen]] - [[ver]] = [[sprechen]], [[Garantie]], [[ausloben]], [[Wahlversprechen]]
+, [[Hand ins Feuer legen]]

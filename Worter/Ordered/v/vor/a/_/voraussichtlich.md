@@ -1,46 +1,27 @@
+🗓️ [[voraussichtlich]], [foˈʁaʊ̯sˌsɪçtlɪç](https://youglish.com/pronounce/voraussichtlich/german)
+
+---
+*[[C1-Hoehen-T3-401-Text#^3|^]]* [[Voraussichtlich]] wird sich in Asien in den nächsten Jahren eine schnelle Urbanisierung [[vollziehen]]
+
+---
+= [[wahrscheinlich]], [[vermutlich]], [[erwartungsgemäß]], [[hoffentlich]], [[erwartungsgemäß]], [[vorausahnen]], [[terminlich]], [[unvorhergesehen]], [[künftig]]
+≈ [[prognostiziert]], [[geplant]], [[angenommen]]
+≠ [[unwahrscheinlich]], [[unerwartet]], [[unvorhergesehen]]
+
+---
+expected, probably  
+предположительно, ожидаемый
+
+---
+[[voraussehen]], [[Aussicht]]
+
+---
+[[vor]]|[[aus]]|[[sicht]]|[[lich]]
 [[voraussichtlich]]
-[[voraussichtlicher]]
-[[am]] [[voraussichtlichsten]]
 
-nicht [[unwahrscheinlich]]
 
 ---
-
-Hallo. Ihr Paket wird [[voraussichtlich]] morgen [[zugestellt]].
-
----
-
-Synonyme:
-
-- [[wahrscheinlich]], [[vermutlich]], [[aller Voraussicht nach]]
+Adjektive: [[voraussichtlich]], [[voraussichtlicher]], [[voraussichtlichst]]
 
 ---
-
-Beispiele:
-
-- Der Zug wird [[voraussichtlich]] um 10 Uhr ankommen.
-- Das Wetter wird [[voraussichtlich]] besser.
-- Er wird [[voraussichtlich]] die Prüfung bestehen.
-
-- Der Zug wird [[voraussichtlicher]] als gedacht ankommen.
-- Das Wetter wird [[voraussichtlicher]] besser als vorhergesagt.
-- Er wird [[voraussichtlicher]] die Prüfung bestehen als erwartet.
-
-- Der Zug wird [[am voraussichtlichsten]] pünktlich ankommen.
-- Das Wetter wird [[am voraussichtlichsten]] morgen besser.
-- Er wird die Prüfung [[am voraussichtlichsten]] bestehen.
-
----
-
-**Übersetzung**:
-expected, probable
-
----
-
-Tags:
-#Adverb
-
----
-
-Morphems:
-[[vor]], [[aus]], [[sichtlich]], [[hoffentlich]], [[erwartungsgemäß]], [[vorausahnen]], [[terminlich]], [[unvorhergesehen]], [[künftig]]
+[[voraussichtlicher]], [[voraussichtliches]], [[voraussichtliche]], [[voraussichtlichen]], [[voraussichtlichem]], [[voraussichtlicherer]], [[voraussichtlicheres]], [[voraussichtlichere]], [[voraussichtlicheren]], [[voraussichtlicherem]], [[voraussichtlichster]], [[voraussichtlichstes]], [[voraussichtlichste]], [[voraussichtlichsten]], [[voraussichtlichstem]], [[C1-Hoehen-T3-401-Text]]

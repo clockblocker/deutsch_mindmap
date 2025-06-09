@@ -4,6 +4,10 @@
 
 _[[101-C1-Schreiben-T1#^13|^]]_ [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
 
+Herr Gröner [[hält]] an der Universität Vorlesungen über Zivilcourage
+*(Mr. Gröner gives lectures on civil courage at the university)*
+
+
 _[[C1-Hoehen-T4-100-Text#^30|^]]_ Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschrift]]en [[gehalten]] wird
 _(whether these new regulations are being [[followed]] in practice.)_
 

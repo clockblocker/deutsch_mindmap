@@ -1,1 +1,1 @@
-, [[senken]], [[senken]], [[Preissenkung]]
+, [[senken]], [[senken]], [[Preissenkung]], [[Senkung]]

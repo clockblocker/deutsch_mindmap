@@ -40,3 +40,4 @@ Einzigartige mögliche Formen:
 ---
 
 #Substantiv #Neuter, [[gleichmäßig]], [[Gleichung]], [[ausgleichen]]
+, [[gleichermaßen]]

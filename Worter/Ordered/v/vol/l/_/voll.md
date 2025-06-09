@@ -5,6 +5,8 @@ nicht ist das Gegenteil von [[leer]]
 ---
 Es reicht, ich hab die Nase [[voll]]!
 
+*[[C1-Hoehen-T1-101-Text#^2|^]]* In ihrem Debüt als Autorin [[eruiert]] die Heilpraktikerin die Wirkungsweise und Wirksamkeit der Elektroakupunktur `nach` Voll, kurz EAV, einer Diagnoseform, die auf die Traditionelle Chinesische Medizin [[zurückgeht]]
+
 *[[C1-Hoehen-T1-101-Text#^2|^]]* In ihrem Debüt als Autorin [[eruiert]] die Heilpraktikerin die [[Wirkungsweise]] und [[Wirksamkeit]] der Elektroakupunktur nach [[Voll]], kurz EAV, einer Diagnoseform, die auf die Traditionelle Chinesische Medizin [[zurückgeht]]
 
 Also schön! Du bist kein Spinner, du bist [[völlig]] durchgeknallt!
@@ -34,4 +36,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[voll]], [[voller]], [[volle]], [[volles]], [[vollen]], [[vollem]], [[voller]], [[vollen]]
 [[vollerer]], [[vollere]], [[volleres]], [[volleren]], [[vollerem]], [[vollerer]], [[volleren]]
-[[vollsten]], [[vollster]], [[vollste]], [[vollstes]], [[vollsten]], [[vollstem]], [[vollster]], [[vollsten]], [[bald]], [[s1 e1]], [[sinnvoll]], [[wertvoll]], [[volljährig]], [[vollziehenden]], [[vollziehen]], [[geheimnisvolle]], [[dicht]], [[vollschlank]], [[anspruchsvoll]], [[wechselvoll]], [[verständnisvoll]], [[verantwortungsvoll]], [[auslasten]], [[Vervollständigen]], [[würdevoll]], [[unbesetzt]], [[reizvoll]], [[lustvoll]]
+[[vollsten]], [[vollster]], [[vollste]], [[vollstes]], [[vollsten]], [[vollstem]], [[vollster]], [[vollsten]], [[bald]], [[s1 e1]], [[sinnvoll]], [[wertvoll]], [[volljährig]], [[vollziehenden]], [[vollziehen]], [[geheimnisvolle]], [[dicht]], [[vollschlank]], [[anspruchsvoll]], [[wechselvoll]], [[verständnisvoll]], [[verantwortungsvoll]], [[auslasten]], [[Vervollständigen]], [[würdevoll]], [[unbesetzt]], [[reizvoll]], [[lustvoll]], [[vollwertig]]

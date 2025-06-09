@@ -1,1 +1,1 @@
-, [[Schule]], [[Schulung]], [[erlernen]], [[studienvorbereiten]]
+, [[Schule]], [[Schulung]], [[erlernen]], [[studienvorbereiten]], [[weiterbilden]]

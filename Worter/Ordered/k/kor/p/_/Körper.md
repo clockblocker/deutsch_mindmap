@@ -4,3 +4,4 @@
 
 #Maskulin
 , [[Körperflüssigkeit]], [[Körperfett]], [[Körperfettanteil]], [[verkörpern]]
+, [[Fremdkörper]]

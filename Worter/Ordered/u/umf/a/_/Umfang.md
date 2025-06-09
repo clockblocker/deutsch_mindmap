@@ -1,7 +1,10 @@
 📏 🔵 der [[Umfang]], [ˈʊmfant](https://youglish.com/pronounce/Umfang/german)
 
 ---
-1. [[Inhalt]], [[Umfang]], [[Realisierung]] der Sprachfunktionen (z. B. etwas erklären, Argumente anführen, [[Vorschläge]] machen)
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Die Landflucht findet in einem größeren [[Umfang]] als erwartet statt ^3
+
+
+[[Inhalt]], [[Umfang]], [[Realisierung]] der Sprachfunktionen (z. B. etwas erklären, Argumente anführen, [[Vorschläge]] machen)
 
 ---
 = [[Größe]], [[Ausmaß]], [[Dimension]]
@@ -27,4 +30,4 @@ G: des [[Umfangs]], der [[Umfänge]]
 D: dem [[Umfang]], den [[Umfängen]]
 
 
-#Maskulin , [[Taillenumfang]]
+#Maskulin , [[Taillenumfang]], [[C1-Hoehen-T3-401-Text]]

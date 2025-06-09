@@ -4,6 +4,8 @@
 ---
 Wenn du einer Situation [[knapp]] [[entkommen]] bist, kannst du sagen: “Das war [[knapp]]!” oder “Ich bin gerade so [[entkommen]].” oder “Ich war [[fast]] richtig.”
 
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Man kann dem [[Karrieredruck]] [[entkommen]]
+
 ---
 = [[entfliehen]], [[ausbrechen]], [[fliehen]]
 ≈ [[davonlaufen]], [[durchbrennen]], [[flüchten]], [[sich retten]]

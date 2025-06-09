@@ -35,3 +35,4 @@ D: dem [[Zeitarbeiter]], den [[Zeitarbeitern]]
 ---
 
 [[Zeitarbeit]], [[Zeitarbeitsvertrag]], [[zeitarbeitend]], [[Leiharbeit]]
+, [[Leihkraft]]

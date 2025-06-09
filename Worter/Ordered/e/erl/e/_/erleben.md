@@ -4,6 +4,8 @@ haben [[erlebt]]
 
 ---
 
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Migranten [[erleben]] in einem Unternehmen auch die deutsche Kultur
+
 *[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
 
 So einen schönen Tag [[erlebt]] man nur einmal im Leben.

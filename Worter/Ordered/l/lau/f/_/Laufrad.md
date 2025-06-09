@@ -6,7 +6,7 @@ die [[Laufräder]]
 
 ---
 = [[Rad]], [[Fahrradrad]]
-≈ [[Reifen]], [[Felge]], [[Speiche]]
+≈ [[reifen]], [[Felge]], [[Speiche]]
 ≠ [[kein Synonym]]
 
 ---

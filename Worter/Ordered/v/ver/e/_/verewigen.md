@@ -44,4 +44,4 @@ sie, [[verewigen]], [[verewigten]], [[verewigen]], [[verewigten]], [[verewigen]]
 Adjektive: [[verewigend]], [[verewigender]], [[verewigendst]]
 
 ---
-[[verewigender]], [[verewigendes]], [[verewigende]], [[verewigenden]], [[verewigendem]], [[verewigenderer]], [[verewigenderes]], [[verewigendere]], [[verewigenderen]], [[verewigenderem]], [[verewigendster]], [[verewigendstes]], [[verewigendste]], [[verewigendsten]], [[verewigendstem]]
+[[verewigender]], [[verewigendes]], [[verewigende]], [[verewigenden]], [[verewigendem]], [[verewigenderer]], [[verewigenderes]], [[verewigendere]], [[verewigenderen]], [[verewigenderem]], [[verewigendster]], [[verewigendstes]], [[verewigendste]], [[verewigendsten]], [[verewigendstem]], [[befristen]]

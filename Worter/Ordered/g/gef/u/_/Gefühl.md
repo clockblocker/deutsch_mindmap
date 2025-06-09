@@ -36,4 +36,4 @@ Einzigartige mögliche Formen: [[Gefühls]], [[Gefühle]], [[Gefühlen]]
 ---
 
 #Substantiv #Neuter
-, [[Atmosphäre]], [[emotional]], [[Lebensgefühl]]
+, [[Atmosphäre]], [[emotional]], [[Lebensgefühl]], [[Zugehörigkeitsgefühl]]

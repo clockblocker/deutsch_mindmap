@@ -1,1 +1,1 @@
-[[weggehen]], [[ausreißen]], [[zurückkehren]], [[entwischen]], [[Flüchtling]], [[fliehen]]
+[[weggehen]], [[ausreißen]], [[zurückkehren]], [[entwischen]], [[Flüchtling]], [[fliehen]], [[entkommen]]

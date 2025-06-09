@@ -1,1 +1,1 @@
-, [[Bauarbeit]], [[Bauplan]]
+, [[Bauarbeit]], [[Bauplan]], [[Baukunst]]

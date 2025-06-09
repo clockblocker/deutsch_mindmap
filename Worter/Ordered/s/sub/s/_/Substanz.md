@@ -1,1 +1,1 @@
-, [[Stoff]], [[Inhalt]], [[Wirkstoff]]
+, [[Stoff]], [[Inhalt]], [[Wirkstoff]], [[Fremdkörper]]

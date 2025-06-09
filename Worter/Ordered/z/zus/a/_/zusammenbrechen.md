@@ -4,6 +4,10 @@
 💥 [[zusammenbrechen]], [t͡suˈzamənˌbʁɛçən] | [[brach zusammen]], sind [[zusammengebrochen]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Ein Verbot der Leiharbeit würde in einen [[Zusammenbruch]] der [[Arbeitsabläufe]] vieler Firmen [[münden]]
+*(A ban on temporary agency work would [[lead]] to a [[collapse]] of the [[work processes]] of many companies)*
+
+
 
 ---
 = [[einstürzen]], [[kollabieren]], [[scheitern]]

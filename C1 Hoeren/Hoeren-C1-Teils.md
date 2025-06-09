@@ -1,4 +1,4 @@
-[[Hoeren-C1-Teils]] |  [[Lesen-C1-Teils]]
+Hoeren-C1-Teils |  [[Lesen-C1-Teils]]
 
 *[[Passiv-Vocab-Operation-Room]]*
 

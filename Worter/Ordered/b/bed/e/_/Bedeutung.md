@@ -26,4 +26,4 @@ A: die [[Bedeutung]], die [[Bedeutungen]]
 G: der [[Bedeutung]], der [[Bedeutungen]]
 D: der [[Bedeutung]], den [[Bedeutungen]]
 
-#Feminin 
+#Feminin , [[Winzigkeit]]

@@ -2,7 +2,10 @@
 die [[Gewässer]]
 
 ---
-*[[C1-Hoehen-T1-200-Text#^9|^]]* Die seit Jahrzehnten zu [[beobachtenden]] [[steigenden]] Temperaturen haben [[dazu]] geführt, dass zahlreiche Pflanzen und Tiere zu den [[jeweilig]]en [[Polen]] der Erde [[wandern]] oder sich in [[tiefere]] [[Gewässer]] [[zurückziehen]].
+*[[C1-Hoehen-T1-200-Text#^9|^]]* Die seit Jahrzehnten zu [[beobachtenden]] [[steigenden]] Temperaturen haben [[dazu]] geführt, dass zahlreiche Pflanzen und Tiere zu den [[jeweilig]]en [[Polen]] der Erde [[wandern]] oder sich in [[tiefere]] [[Gewässer]] [[zurückziehen]]
+
+*[[C1-Hoehen-T2-102-Text#^14|^]]* Zumal [[Feinstaubpartikel]] tonnenweise nicht nur in die Luft, sondern auch in [[Gewässer]] und [[Böden]] gelangen
+
 
 ---
 = [[Wasserfläche]], [[Fluss]], [[See]]

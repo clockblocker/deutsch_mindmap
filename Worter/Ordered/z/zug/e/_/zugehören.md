@@ -1,1 +1,1 @@
-, [[angehören]], [[Zugehörigkeit]], [[Betriebszugehörigkeit]]
+, [[angehören]], [[Zugehörigkeit]], [[Betriebszugehörigkeit]], [[Zugehörigkeitsgefühl]]

@@ -5,6 +5,7 @@
 
 *[[C1-Hoehen-T2-202-Text#^7|^]]* Gemeint ist damit eine negative [[Einstellung]] der Bürgerinnen und Bürger gegenüber der Politik, gepaart von [[Misstrauen]] bis zur [[Ablehnung]]
 
+*[[C1-Hoehen-T3-400-Text#^39|^]]* [[Misstrauen]] von Seiten des Arbeitgebers, Langeweile für die [[Leihkraft]], also ein [[Missstand]], würde ich sagen
 
 ---
 = [[Argwohn]], [[Zweifel]], [[Skepsis]], [[zweifelt]], [[zweifeln]], [[Vertrauensschwund]]

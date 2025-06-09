@@ -1,1 +1,1 @@
-, [[Lager]], [[Bedarfsraum]], [[Gedächtnis]], [[speichern]]
+, [[Lager]], [[Bedarfsraum]], [[Gedächtnis]], [[speichern]], [[Wasserreservoir]]

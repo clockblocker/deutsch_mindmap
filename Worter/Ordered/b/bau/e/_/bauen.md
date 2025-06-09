@@ -52,3 +52,4 @@ Partizip I: [[bauend]], Partizip II: [[gebaut]]
 +[[auf]] = [[aufbauen]],
 
 [[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]], [[s1 e1]], [[Bauingenieur]], [[Baustelle]], [[Bauart]], [[Zusammenbau]], [[Bauarbeit]], [[ausbauen]], [[Schiffbau]], [[anbauen]]
+, [[Baukunst]]

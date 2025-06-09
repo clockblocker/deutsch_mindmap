@@ -23,4 +23,4 @@ G: des [[Riesen]], der [[Riesen]]
 D: dem [[Riesen]], den [[Riesen]] 
 
 ---
-[[riesig]], [[riesengroß]], [[riesenhaft]], [[übergroß]]
+[[riesig]], [[riesengroß]], [[riesenhaft]], [[übergroß]], [[Winzling]]

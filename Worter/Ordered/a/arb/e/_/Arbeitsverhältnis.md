@@ -2,11 +2,13 @@
 die [[Arbeitsverhältnisse]]
 
 ---
-286. Sie möchten bei einer Firma in Deutschland Ihr [[Arbeitsverhältnis]] beenden. Was müssen Sie beachten? (95%)
-	- [ ] die [[Gehaltszahlungen]]
-	- [ ] die [[Arbeitszeit]]
-	- [x] die [[Kündigungsfrist]]
-	- [ ] die [[Versicherungspflicht]]
+*[[C1-Hoehen-T3-400-Text#^38|^]]* Unter solchen Bedingungen kann [[eigentlich]] kein gutes [[Arbeitsverhältnis]] [[entstehen]]
+
+Sie möchten bei einer Firma in Deutschland Ihr [[Arbeitsverhältnis]] beenden. Was müssen Sie beachten? (95%)
+- [ ] die [[Gehaltszahlungen]]
+- [ ] die [[Arbeitszeit]]
+- [x] die [[Kündigungsfrist]]
+- [ ] die [[Versicherungspflicht]]
 
 ---
 = [[Beschäftigungsverhältnis]], [[Arbeitsbeziehung]]
@@ -26,4 +28,7 @@ G: des [[Arbeitsverhältnisses]], der [[Arbeitsverhältnisse]]
 D: dem [[Arbeitsverhältnis]], den [[Arbeitsverhältnissen]]  
 
 ---
-[[arbeiten]], [[Arbeitsrecht]], [[Arbeitgeber]], [[Arbeitnehmer]], [[Vertragsbedingungen]], [[Verhältnis]], [[Arbeitsbedingung]], [[Betriebszugehörigkeit]], [[Anstellung]]
+[[arbeiten]], [[Arbeitsrecht]], [[Arbeitgeber]], [[Arbeitnehmer]], [[Vertragsbedingungen]], [[Verhältnis]], [[Arbeitsbedingung]], [[Betriebszugehörigkeit]], [[Anstellung]], [[Festeinstellung]]
+
+
+#Neuter 

@@ -1,1 +1,1 @@
-, [[arg]], [[bitterlich]], [[bittre]], [[eiskaltem]], [[scharf]], [[sanft]], [[heftig]]
+, [[arg]], [[bitterlich]], [[bittre]], [[eiskaltem]], [[scharf]], [[sanft]], [[heftig]], [[Linderung]]

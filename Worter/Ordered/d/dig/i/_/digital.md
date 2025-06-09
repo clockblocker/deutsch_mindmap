@@ -1,1 +1,1 @@
-, [[virtuell]]
+, [[virtuell]], [[computergesteuert]]

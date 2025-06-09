@@ -3,11 +3,11 @@
 ---
 Ich [[versichere]] dich meiner [[Unterstützung]]
 
-, [[behaupten]], [[Krankenkasse]], [[Sozialversicherung]], [[Versicherungspflicht]], [[Versicherung]], [[Pflegeversicherung]], [[Sozialversicherungsausweis]], [[Krankenversicherung]], [[Rentenversicherung]], [[Lebensversicherung]], [[Arbeitslosenversicherung]], [[sicher]]
+*[[C1-Hoehen-T3-400-Text#^12|^]]* Natürlich sind sie entweder durch uns oder das Entleiher-Unternehmen voll [[versichert]]
 
 ---
 = [[garantieren]], [[zusichern]], [[verbürgen]]
-≈ [[bestätigen]], [[behaupten]], [[betonen]], [[sichern]]
+≈ [[bestätigen]], [[behaupten]], [[betonen]], [[sichern]], [[behaupten]], [[Krankenkasse]], [[Sozialversicherung]], [[Versicherungspflicht]], [[Versicherung]], [[Pflegeversicherung]], [[Sozialversicherungsausweis]], [[Krankenversicherung]], [[Rentenversicherung]], [[Lebensversicherung]], [[Arbeitslosenversicherung]], [[sicher]]
 ≠ [[leugnen]], [[abstreiten]], [[verneinen]]
 
 ---
@@ -64,4 +64,4 @@ unsereiner versteht sowas nicht
 - *„meinesgleichen wird hier nicht akzeptiert.“*
 
 maßgebliche quelle
-, [[gewährleisten]], [[Sicherung]]
+, [[gewährleisten]], [[Sicherung]], [[Hand ins Feuer legen]]

@@ -32,4 +32,4 @@ D: der [[Genehmigung]], den [[Genehmigungen]]
 
 , [[Studienvisum]], [[angenehm]], [[Berechtigung]]
 
-#Feminin , [[Abnahme]]
+#Feminin , [[Abnahme]], [[Verlaub]]

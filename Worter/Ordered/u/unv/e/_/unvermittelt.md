@@ -1,1 +1,1 @@
-, [[gerade]], [[spontan]]
+, [[gerade]], [[spontan]], [[schlagartig]]

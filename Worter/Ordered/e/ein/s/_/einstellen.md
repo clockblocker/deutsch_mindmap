@@ -3,7 +3,9 @@
 ⚙️ [[einstellen]], [ˈaɪ̯nˌʃtɛlən](https://youglish.com/pronounce/einstellen/german) | [[stellte ein]], haben [[eingestellt]]
 
 ---
-*[[03-C1-Schreiben-T2-M#^1|^]]* In Ihrer Firma wurde ein neuer Kollege [[eingestellt]], der jetzt mit Ihnen in Ihrem Büro arbeitet. ^1
+*[[03-C1-Schreiben-T2-M#^1|^]]* In Ihrer Firma wurde ein neuer Kollege [[eingestellt]], der jetzt mit Ihnen in Ihrem Büro arbeitet
+
+*[[C1-Hoehen-T3-400-Text#^11|^]]* Die meisten sind motiviert, bei uns durch das Entleiher-Unternehmen [[eingestellt]] zu werden, ohne gleich über einen längeren Zeitraum an einen Arbeitgeber [[gebunden]] zu müssen
 
 
 9. Temperatur [[einstellen]].
@@ -73,4 +75,4 @@ sie, [[stellen ein]], [[stellten ein]], [[stellen ein]], [[stellten ein]], [[ste
 Adjektive: [[einstellend]], [[einstellender]], [[einstellendst]]
 
 ---
-[[einstellender]], [[einstellendes]], [[einstellende]], [[einstellenden]], [[einstellendem]], [[einstellenderer]], [[einstellenderes]], [[einstellendere]], [[einstellenderen]], [[einstellenderem]], [[einstellendster]], [[einstellendstes]], [[einstellendste]], [[einstellendsten]], [[einstellendstem]], [[entlassen]], [[betreiben]], [[emeritieren]], [[engagieren]], [[Lebenseinstellung]]
+[[einstellender]], [[einstellendes]], [[einstellende]], [[einstellenden]], [[einstellendem]], [[einstellenderer]], [[einstellenderes]], [[einstellendere]], [[einstellenderen]], [[einstellenderem]], [[einstellendster]], [[einstellendstes]], [[einstellendste]], [[einstellendsten]], [[einstellendstem]], [[entlassen]], [[betreiben]], [[emeritieren]], [[engagieren]], [[Lebenseinstellung]], [[Festeinstellung]]

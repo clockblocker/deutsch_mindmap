@@ -1,1 +1,1 @@
-, [[Nebenkostenabrechnung]]
+, [[Nebenkostenabrechnung]], [[Pauschalpreis]], [[pauschal]]

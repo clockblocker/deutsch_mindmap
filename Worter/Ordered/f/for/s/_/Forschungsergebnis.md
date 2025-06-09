@@ -2,6 +2,8 @@
 die [[Forschungsergebnisse]]
 
 ---
+*[[C1-Hoehen-T2-102-Text#^5|^]]* Dieser Gedankengang ist vielleicht [[nachvollziehbar]], aber entspricht nicht unseren [[Forschungsergebnis]]sen
+
 *[[bro-schrieben-c1-t1-004#^7|^]]* [[Forschungsergebnis]]sen [[zufolge]] sind Bürger aus entwickelten Ländern, wo die Lebensdauer [[wesentlich]] [[höher]] ist, im [[Durchschnitt]] `um` etwa 20% glücklicher, da sie nicht unter Druck stehen, jede [[Herausforderung]] der Welt in kurzer Zeit zu [[überwinden]]
 
 ---

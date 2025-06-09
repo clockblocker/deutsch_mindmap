@@ -3,6 +3,10 @@
 ---
 *[[C1-Hoehen-T1-102-Text#^17|^]]* Im [[Anschluss]] erklären [[namhafte]] Wissenschaftler:innen dann sogar noch, wie grüne und ethische Fonds funktionieren und wie wir [[herausfinden]] können, ob eine potenzielle [[Wertanlage]] durch Kinderarbeit oder andere ethisch nicht [[vertretbare]] Konzepte [[gestützt]] wird
 
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne [[Stadtplanung]] muss per Gesetz durch [[nachhaltig]]e Programme [[gestützt]] werden
+*(Modern [[urban planning]] must be [[supported]] by law through [[sustainable]] programs)*
+
+
 [[unterstützen]] - [[unter]] = [[stützen]] / to support, to help, to assist
 
 ---

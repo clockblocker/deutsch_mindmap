@@ -1,4 +1,4 @@
-[[0-C1-Hoehen-T1-Ubung-List|List]]x
+[[0-C1-Hoehen-T1-Ubung-List|List]]
 
 ---
 

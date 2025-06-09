@@ -1,1 +1,1 @@
-, [[lebendig]]
+, [[lebendig]], [[Beendigung]]

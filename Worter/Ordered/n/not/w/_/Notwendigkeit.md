@@ -6,6 +6,9 @@ die [[Notwendigkeiten]]
 ---
 dies [[anzeigen|zeigt]] [[lediglich]] die [[Notwendigkeit]] der [[Artikelverwendung]] an
 
+*[[C1-Hoehen-T2-401-Text#^2|^]]* Herr Gröner [[hervorhebt|hebt]] die [[Notwendigkeit]] des [[Handeln]]s in Fällen öffentlicher [[Gewalt]] hervor
+*(Mr. Gröner [[emphasizes]] the necessity of [[acting]] in cases of public [[violence]].)*
+
 *[[bro-schrieben-c1-t1-002#^5|^]]* [[Demzufolge]] [[entstand]] die [[Notwendigkeit]], mehrere Sprachen zu [[beherrschen]]
 
 *[[06-C1-Schreiben-T2-M#^4|^]]* * Eröffnen Sie Ihr Schreiben höflich, indem Sie Ihr Verständnis für die [[Notwendigkeit]] der [[Umbauarbeiten]] zeigen. ^4

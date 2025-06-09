@@ -1,2 +1,2 @@
 
-, [[übermäßig]], [[überziehen]], [[Übertreibung]]
+, [[übermäßig]], [[überziehen]], [[Übertreibung]], [[ausarten]]

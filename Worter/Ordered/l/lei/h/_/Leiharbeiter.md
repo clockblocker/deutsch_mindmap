@@ -1,1 +1,1 @@
-, [[Zeitarbeiter]]
+, [[Zeitarbeiter]], [[Leihkraft]]

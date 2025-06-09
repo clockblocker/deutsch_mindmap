@@ -1,7 +1,9 @@
 🌳 [[stammen]], [ˈʃtamən](https://youglish.com/pronounce/stammen/german) → [[stammte]] → haben/sein [[gestammt]]
 
 ---
-*[[C1-Lesen-T2-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) [[waren]]. ^2
+*[[C1-Lesen-T2-101-Text#^2|^]]* Dabei [[herausfinden|fanden]] sie heraus, dass der Mann [[womöglich]] von Sardinien [[stammte]] und seine [[Vorfahren]] über das [[Gebiet]] des heutigen Irans und über Anatolien nach Europa [[gelangt]] (1) [[waren]]
+
+*[[C1-Hoehen-T2-102-Text#^6|^]]* Tatsächlich [[stammen]] um die 60% [[umweltbelastend]]er [[Stoff]]e aus dem Straßenverkehr von [[Reif]]en und [[Bremsen]] sowie [[Abrieb]] des [[Straßenbelag]]s. ^6
 
 
 Das Licht [[stammt]] von einer unglaublich starken Quelle, das muss er sein!
@@ -51,3 +53,5 @@ Adjektive: [[stammend]], [[stammender]], [[stammendst]]
 
 ---
 [[stammender]], [[stammendes]], [[stammende]], [[stammenden]], [[stammendem]], [[stammenderer]], [[stammenderes]], [[stammendere]], [[stammenderen]], [[stammenderem]], [[stammendster]], [[stammendstes]], [[stammendste]], [[stammendsten]], [[stammendstem]]
+
+

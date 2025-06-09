@@ -28,3 +28,4 @@ G: der [[Pflichtverletzung]], der [[Pflichtverletzungen]]
 D: der [[Pflichtverletzung]], den [[Pflichtverletzungen]]
 
 #Feminin 
+, [[Verletzung]]

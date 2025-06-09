@@ -1,8 +1,11 @@
-🌍 🔴 die [[Umweltbelastung]], [ˈʊmvɛltbəˌlastʊŋ]
+🌍 die [[Umweltbelastung]], [ˈʊmvɛltbəˌlastʊŋ]
 die [[Umweltbelastungen]]
 
 ---
-*[[4 Autofrei#^19|^]]*  Urbanisten argumentieren, dass je weniger Autos, desto weniger [[Umweltbelastung]] durch [[Autoabgase]] es gibt. ^19
+*[[4 Autofrei#^19|^]]*  Urbanisten argumentieren, dass je weniger Autos, desto weniger [[Umweltbelastung]] durch [[Autoabgase]] es gibt
+
+*[[C1-Hoehen-T2-102-Text#^6|^]]* Tatsächlich [[stammen]] um die 60% [[umweltbelastend]]er [[Stoff]]e aus dem Straßenverkehr von [[Reif]]en und [[Bremsen]] sowie [[Abrieb]] des [[Straßenbelag]]s. ^6
+
 
 ---
 = [[Umweltverschmutzung]], [[Umweltschädigung]], [[Umweltbeeinträchtigung]]
@@ -27,3 +30,5 @@ A: die [[Umweltbelastung]], die [[Umweltbelastungen]]
 G: der [[Umweltbelastung]], der [[Umweltbelastungen]]
 D: der [[Umweltbelastung]], den [[Umweltbelastungen]]
 , [[Umwelteinfluss]], [[Feinstaubbelastung]], [[Umweltsünde]]
+
+#Feminin 

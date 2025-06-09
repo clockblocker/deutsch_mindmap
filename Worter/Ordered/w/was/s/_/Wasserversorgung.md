@@ -29,4 +29,4 @@ G: der [[Wasserversorgung]], der [[Wasserversorgungen]]
 D: der [[Wasserversorgung]], den [[Wasserversorgungen]]
 
 
-#Feminin 
+#Feminin , [[Wassermanagement]]

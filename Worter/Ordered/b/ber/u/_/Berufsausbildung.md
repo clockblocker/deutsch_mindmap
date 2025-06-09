@@ -31,4 +31,4 @@ D: der [[Berufsausbildung]], den [[Berufsausbildungen]]
 , [[Ausbildungsstätte]]
 
 
-#Feminin 
+#Feminin , [[Ausbildungssystem]]

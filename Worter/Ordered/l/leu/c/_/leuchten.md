@@ -47,3 +47,4 @@ Morpheme: [[leucht]], [[en]]
 
 Partizip I: [[leuchtend]], Partizip II: [[geleuchtet]]
 , [[s1 e1]], [[zusammenbrechen]], [[Leuchtrakete]], [[beleuchten]], [[ausleuchten]], [[ausgehen]], [[einleuchtend]], [[einleuchten]]
+, [[Glanz]]

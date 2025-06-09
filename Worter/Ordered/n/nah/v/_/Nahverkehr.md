@@ -1,1 +1,1 @@
-, [[ÖPNV]], [[Personennahverkehr]]
+, [[ÖPNV]], [[Personennahverkehr]], [[Nahverkehrsmittel]]

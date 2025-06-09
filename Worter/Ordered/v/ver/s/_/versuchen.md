@@ -3,6 +3,7 @@
 haben [[versucht]]
 
 ---
+Das gehört nicht zu unseren Aufgaben. Wir [[versuchen]] immer, den Leiharbeitern schnell einen Arbeitsplatz zu [[vermitteln]], so bleibt auch kaum Zeit für [[derartig]]e Maßnahmen.
 
 Also wenn ich so ein Spinner wär wie du, dann würde ich [[versuchen]] die Leute damit nicht so zu nerven!
 

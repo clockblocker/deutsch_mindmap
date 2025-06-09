@@ -1,6 +1,7 @@
 📤 [[aufnehmen]], [ˈaʊ̯fˌneːmən] | [[nahm auf]], haben [[aufgenommen]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^40|^]]* Unsere Angestellten werden am neuen Arbeitsplatz meist gut [[aufgenommen]] und [[berichten]] von einem guten, kollegialen Verhältnis zu anderen aus dem Entleiher-Unternehmen
 
 _[[C1-Hoehen-T4-100-Text#^11|^]]_ In Deutschland wurde sie [[inzwischen]] in das Gesetz gegen [[unlauteren]] [[Wettbewerb]] [[aufgenommen]],
 _(In Germany, it has [[now]] been [[included]] in the law against [[unfair]] [[competition]])_
@@ -43,3 +44,4 @@ PI: [[aufnehmend]], PII: [[aufgenommen]], Zu+inf: [[aufzunehmen]]
 
 [[hinlegen]], [[loswerden]], [[hineingezogen]], [[schleudern]], [[angehen]], [[annehmen]], [[anstellen]], [[empfangen]], [[verbannen]], [[legen]], [[beherbergen]], [[verstoßen]], [[Aufnahme]], [[s1 e1]]
 , [[ausstoßen]], [[verinnerlichen]], [[aussetzen]], [[heben]], [[Nahaufnahme]], [[verschlucken]], [[aufsaugen]], [[ausschütten]]
+, [[ausscheiden]], [[ausgrenzen]]

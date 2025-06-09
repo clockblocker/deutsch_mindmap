@@ -21,4 +21,4 @@ floor, storey
 ---
 
 #Substantiv
-#Maskulin , [[Keule]], [[stab]]
+#Maskulin , [[Keule]], [[stab]], [[Aufstockung]]

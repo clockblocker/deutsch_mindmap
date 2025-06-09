@@ -1,1 +1,1 @@
-[[verloren]], [[griffbereit]]
+[[verloren]], [[griffbereit]], [[verschollen]]

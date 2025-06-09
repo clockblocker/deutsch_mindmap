@@ -32,4 +32,4 @@ D: der [[Hürde]], den [[Hürden]]
 ---
 [[hürden]], [[Hürdenläufer]], [[überwinden]], [[Hindernislauf]]
 
-#Feminin 
+#Feminin , [[Einstellungshürde]]

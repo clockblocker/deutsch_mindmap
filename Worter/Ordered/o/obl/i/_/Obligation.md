@@ -1,1 +1,1 @@
-, [[Notwendigkeit]], [[obligatorisch]]
+, [[Notwendigkeit]], [[obligatorisch]], [[entbinden]], [[entbinden]]

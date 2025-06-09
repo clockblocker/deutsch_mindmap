@@ -32,4 +32,4 @@ insufficient, inadequate
 Adjektive: [[unzureichend]], [[unzureichender]], [[unzureichendst]]
 
 ---
-[[unzureichender]], [[unzureichendes]], [[unzureichende]], [[unzureichenden]], [[unzureichendem]], [[unzureichenderer]], [[unzureichenderes]], [[unzureichendere]], [[unzureichenderen]], [[unzureichenderem]], [[unzureichendster]], [[unzureichendstes]], [[unzureichendste]], [[unzureichendsten]], [[unzureichendstem]], [[FEUERRATE]]
+[[unzureichender]], [[unzureichendes]], [[unzureichende]], [[unzureichenden]], [[unzureichendem]], [[unzureichenderer]], [[unzureichenderes]], [[unzureichendere]], [[unzureichenderen]], [[unzureichenderem]], [[unzureichendster]], [[unzureichendstes]], [[unzureichendste]], [[unzureichendsten]], [[unzureichendstem]], [[FEUERRATE]], [[vollwertig]]

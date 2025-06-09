@@ -54,4 +54,4 @@ G: des [[Vorteils]], der [[Vorteile]]
 D: dem [[Vorteil]], den [[Vorteilen]]
 
 
-#Maskulin , [[nutzen]], [[Exportvorteil]]
+#Maskulin , [[nutzen]], [[Exportvorteil]], [[Missstand]]

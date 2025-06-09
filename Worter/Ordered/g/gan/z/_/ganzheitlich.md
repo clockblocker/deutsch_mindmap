@@ -1,1 +1,1 @@
-, [[systemisch]]
+, [[systemisch]], [[vollwertig]]

@@ -10,4 +10,4 @@ denn ohne [[ausreichend]]e [[Sprachkenntnis]]se funktioniert das nicht
 [[morgen]]  
 [[gestern]]  
 
-, [[früher]]
+, [[früher]], [[Gegenwart]]

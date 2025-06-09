@@ -1,1 +1,1 @@
-, [[passabel]]
+, [[passabel]], [[vorbildlich]]

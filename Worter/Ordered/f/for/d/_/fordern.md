@@ -6,6 +6,8 @@
 ---
 Sie [[fordern]] den gleichen [[Lohn]] für alle
 
+*[[C1-Hoehen-T3-400-Text#^33|^]]* Die Entleiher-Unternehmen [[fordern]] einfach nach [[anderthalb]] Jahren für denselben Arbeitsplatz wieder jemanden an und [[umgehen]] die [[Festanstellung]]
+
 *[[C1-Lesen-421-Text#^24|^]]* Eine örtliche Initiative [[fordert]] [[derweil]] ein komplettes Verbot von Kreuzfahrtschiffen
 
 *[[bro-schrieben-c1-t1-011#^3|^]]* Viele [[Arbeitnehmende]] werden [[stets]] [[gefordert]], ihre [[Leistung]] regelmäßig auf ein höheres Niveau zu bringen, was zu [[langfristig]]er [[emotional]]er [[Überforderung]] führen könnte
@@ -18,7 +20,10 @@ Sie [[fordern]] den gleichen [[Lohn]] für alle
 *[[07-C1-Schreiben-T2-M#^2|^]]* Als [[Folge]] [[dauern]] bei Ihnen und Ihrem Team viele [[Arbeitsprozess]]e nun oft länger und Sie schaffen es nicht, Ihre Arbeit in der [[geforderten]] Zeit zu [[erledigen]]. ^2
 
 
-[[2 Unter Druck nach oben#^16|^]] Auch bei den wichtigsten persönlichen [[Eigenschaften]] der [[Anwärter]] auf [[Spitzenpositionen]] [[fordern]] die Firmen [[vorrangig]] [[weiche]] [[Werte]], [[sogenannte]] Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke liegen weit vorn. ^16
+[[2 Unter Druck nach oben#^16|^]] Auch bei den wichtigsten persönlichen [[Eigenschaften]] der [[Anwärter]] auf [[Spitzenpositionen]] [[fordern]] die Firmen [[vorrangig]] [[weiche]] [[Werte]], [[sogenannte]] Soft Skills: Eigenmotivation, Teamfähigkeit, Lernbereitschaft und Kommunikationsstärke liegen weit vorn
+
+*[[C1-Hoehen-T2-102-Text#^39|^]]* Aber hier [[fordern]] Experten des OECD bereits eine [[Besteuerung]] nach [[Gewicht]]
+
 
 
 ---

@@ -1,1 +1,1 @@
-, [[Aufwachsen]], [[gewachsene]], [[wachsen]], [[wachsend]], [[Wachstum]]
+, [[Aufwachsen]], [[gewachsene]], [[wachsen]], [[wachsend]], [[Wachstum]], [[anwachsen]]

@@ -1,1 +1,1 @@
-, [[Lebenserwartung]]
+, [[Lebenserwartung]], [[Lebensbereich]]

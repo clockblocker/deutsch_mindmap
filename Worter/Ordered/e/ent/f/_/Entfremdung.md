@@ -28,4 +28,4 @@ A: die [[Entfremdung]], die [[Entfremdungen]]
 G: der [[Entfremdung]], der [[Entfremdungen]]
 D: der [[Entfremdung]], den [[Entfremdungen]]
 
-#Feminin , [[Nachbarschaft]], [[auseinanderdriften]]
+#Feminin , [[Nachbarschaft]], [[auseinanderdriften]], [[Zugehörigkeitsgefühl]]

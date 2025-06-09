@@ -4,6 +4,8 @@ die [[Feinstaubpartikel]]
 ---
 Für [[gewöhnlich]] [[gelangen]] [[Feinstaubpartikel]] nicht in den [[Blutkreislauf]]
 
+*[[C1-Hoehen-T2-102-Text#^14|^]]* Zumal [[Feinstaubpartikel]] tonnenweise nicht nur in die Luft, sondern auch in [[Gewässer]] und [[Böden]] gelangen
+
 ---
 = [[Feinstaub]]
 ≈ [[Partikel]], [[Staub]], [[Aerosol]]

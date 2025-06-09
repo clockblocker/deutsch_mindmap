@@ -1,1 +1,1 @@
-[[Sorte]], [[Begriff]]
+[[Sorte]], [[Begriff]], [[Fahrzeugtyp]]

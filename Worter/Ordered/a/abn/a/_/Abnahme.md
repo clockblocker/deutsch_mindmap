@@ -31,4 +31,4 @@ D: der [[Abnahme]], den [[Abnahmen]]
 
 #Feminin 
 
-, [[Steigerungsquote]]
+, [[Steigerungsquote]], [[Linderung]], [[Senkung]]

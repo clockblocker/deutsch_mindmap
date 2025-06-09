@@ -2,7 +2,9 @@
 nicht [[schmal]]
 
 ---
-*[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem [[breit]]en [[Bürgertum]] an [[Wissen]] [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]] ^14
+*[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem [[breit]]en [[Bürgertum]] an [[Wissen]] [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]]
+
+*[[C1-Hoehen-T3-401-Text#^1|^]]* Bangkoks Lage führt dazu, dass der durch die Stadt [[fließend]]e Strom sich ein immer [[breiteres]] [[Bett]] [[gräbt]]
 
 
 Sein Nachbar hört ihn schon von [[Weitem]]. Er sieht Moritz’ [[breites]] Lächeln und wie er immer wieder in die Luft springt. 

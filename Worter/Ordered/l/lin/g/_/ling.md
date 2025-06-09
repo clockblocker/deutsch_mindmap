@@ -1,1 +1,1 @@
-, [[Lehrling]], [[gelingen]], [[Flüchtling]], [[Sprössling]], [[Säugling]], [[Setzling]]
+, [[Lehrling]], [[gelingen]], [[Flüchtling]], [[Sprössling]], [[Säugling]], [[Setzling]], [[Winzling]]

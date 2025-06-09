@@ -1,4 +1,4 @@
 --> 💥 [[Grad-Intensität]] <--
 --> 🧱[[Grad-Gewicht]] <--
 
-, [[zweitrangig]], [[weitaus]], [[untergeordnet]], [[zutiefst]]
+, [[zweitrangig]], [[weitaus]], [[untergeordnet]], [[zutiefst]], [[unerheblich]]

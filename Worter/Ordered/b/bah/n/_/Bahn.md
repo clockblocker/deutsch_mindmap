@@ -25,4 +25,4 @@ Dative: der [[Bahn]], den [[Bahnen]]
 ---
 [[bahnen]], [[bahnbrechend]], [[Bahnhof]], [[Bahnsteig]], [[Bahnline]], [[Laufbahn]], [[ÖPNV]]
 
-#Feminin 
+#Feminin , [[Nahverkehrsmittel]]

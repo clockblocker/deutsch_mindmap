@@ -30,4 +30,4 @@ PI: [[beistehend]], PII: [[beigestanden]], Zu+inf: [[beizustehen]]
 [[Beistand]], [[Unterstützung]], [[Hilfe]], [[stützen]], [[beisteuern]]
 
 [[überfallen]], [[dienen]], [[reich]], [[herankam]], [[unterstützen]]
-, [[betreuen]], [[weiterhelfen]]
+, [[betreuen]], [[weiterhelfen]], [[Hilfe leisten]]

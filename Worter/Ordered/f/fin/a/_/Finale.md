@@ -1,1 +1,1 @@
-, [[Anfang]], [[Abspann]], [[Ende]]
+, [[Anfang]], [[Abspann]], [[Ende]], [[Beendigung]]

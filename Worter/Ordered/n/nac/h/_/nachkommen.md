@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-432-Text#^24|^]]* Selbstverständlich müssen Arbeitnehmer der [[Unfallverhütung]] [[zuliebe]] den [[Anweisung]]en ihrer Arbeitgeber [[nachkommen]]
 
+*[[C1-Hoehen-T3-400-Text#^7|^]]* Durch Leiharbeit braucht es seiner [[Pflicht]] als Arbeitgeber nicht korrekt [[nachzukommen]] und muss den [[geliehen]]en Angestellten kein angemessenes [[Entgelt]] bieten
+
 
 ---
 = [[erfüllen]], [[befolgen]], [[nachgehen]], [[folgen]], [[einhalten]], [[erben]], [[Nachwuchs]], [[befolgen]]

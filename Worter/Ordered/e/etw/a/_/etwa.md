@@ -34,3 +34,4 @@ perhaps, about, approximately, around
 ---
 [[etwa]]
 
+, [[vergleichsweise]]

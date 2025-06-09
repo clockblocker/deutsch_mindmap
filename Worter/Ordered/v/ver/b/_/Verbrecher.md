@@ -23,4 +23,4 @@ G: des [[Verbrechers]], der [[Verbrecher]]
 D: dem [[Verbrecher]], den [[Verbrechern]]  
 
 ---
-[[verbrechen]], [[verbrecherisch]], [[verbrechensverdächtig]], [[Verbrechertum]]
+[[verbrechen]], [[verbrecherisch]], [[verbrechensverdächtig]], [[Verbrechertum]], [[Täter]]

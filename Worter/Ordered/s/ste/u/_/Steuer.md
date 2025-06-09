@@ -31,4 +31,4 @@ Dative: dem [[Steuer]], den [[Steuern]]
 
 steuern, steuerlich, steuerbar, Steuererklärung, Steuerberater, [[Steuererklärung]], [[Kirchensteuer]], [[Lohnsteuer]], [[Kirchensteuern]], [[Steuerbescheid]], [[Steuerzahler]], [[Umsatzsteuer]], [[Kirchenzehnt]], [[Grünsteuer]], [[steuerlich]]
 
-#Maskulin , [[Steuererleichterung]], [[ansteuern]]
+#Maskulin , [[Steuererleichterung]], [[ansteuern]], [[Besteuerung]]

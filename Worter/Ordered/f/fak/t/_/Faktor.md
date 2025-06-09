@@ -1,1 +1,1 @@
-, [[Erfolgsfaktor]], [[Hauptursache]], [[Bestandteil]], [[Antriebsfaktor]], [[Einflussfaktor]], [[Einzelheit]]
+, [[Erfolgsfaktor]], [[Hauptursache]], [[Bestandteil]], [[Antriebsfaktor]], [[Einflussfaktor]], [[Einzelheit]], [[Zeitfaktor]]

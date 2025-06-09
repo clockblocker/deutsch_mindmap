@@ -42,4 +42,4 @@ Einzigartige mögliche Formen:
 [[Kleinigkeit]], [[Kleinigkeiten]]
 [[Kleinigkeit]], [[Kleinigkeiten]]
 [[Kleinigkeiten]]
-, [[Angelegenheit]], [[Unmenge]]
+, [[Angelegenheit]], [[Unmenge]], [[Winzigkeit]]

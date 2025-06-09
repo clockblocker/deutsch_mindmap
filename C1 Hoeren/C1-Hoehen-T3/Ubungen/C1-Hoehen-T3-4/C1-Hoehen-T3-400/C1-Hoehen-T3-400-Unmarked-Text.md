@@ -54,6 +54,7 @@
 ---
 
 
+
 **Moderator:**  
 Guten Tag, hier ist Lukas Schweig und ich begrüße Sie alle zu „Brennpunkt“. Neben mir sitzen Frau Mittens, Betriebsrätin in einem Transportunternehmen, und Herr Junger, Manager einer Leiharbeitsfirma. Wir sprechen über das Thema „Leiharbeit“.
 
@@ -72,6 +73,8 @@ Ich vertrete die Meinung, dass diese Arbeitsform nur den Arbeitgebern zugutekomm
 **Herr Junger:**  
 Mit Verlaub, das sehe ich ganz anders. Ich bin in einer Leiharbeitsfirma tätig. Wir vermitteln in meiner Firma Menschen, die in der Form der Arbeitnehmerüberlassung, wie wir es nennen, arbeiten. Die meisten sind motiviert, bei uns durch das Entleiher-Unternehmen eingestellt zu werden, ohne gleich über einen längeren Zeitraum an einen Arbeitgeber gebunden zu müssen. Natürlich sind sie entweder durch uns oder das Entleiher-Unternehmen voll versichert. Viele unserer Leiharbeiter würden ohne uns womöglich auf der Straße stehen. Stattdessen bieten wir ihnen die Gelegenheit, eine schwierige Zeit zu überbrücken und vielleicht einen Sprung in ihrer Karriere zu machen.
 
+---
+
 **Moderator:**  
 Wie sehen zwei sehr unterschiedliche Sichtweisen auf die Leiharbeit. Was würde denn passieren, wenn der Gesetzgeber plötzlich dieser Arbeitsform einen Riegel vorschöbe?
 
@@ -79,12 +82,14 @@ Wie sehen zwei sehr unterschiedliche Sichtweisen auf die Leiharbeit. Was würde 
 Ich bin überzeugt, dass dann sich die bestehenden Einstellungshürden schlagartig senken würden; im Arbeitsalltag zahlreicher Entleiher-Unternehmen würden die Leiharbeiter fehlen, und so müsste man rasch handeln, um dringend notwendige Arbeit erledigen zu können. Wir bekämen neue Kolleg:innen mit tariflich festgelegtem Gehalt und allen Rechten, die wir auch haben. Für mich eine sehr positive Vorstellung.
 
 **Herr Junger:**  
-Ich weiß gar nicht so recht wieso sofort meine Hand ins Feuer legen. Ob die Entleiher-Unternehmen wirklich bereit wären, sich um all das zu bemühen. Aber eines wollen wir mal sagen: die Migrantinnen und Migranten. Viele kommen aus nicht anerkannten Ausbildungssystemen, kennen den Arbeitsmarkt und müssen mit einer großen Skepsis bei den Arbeitgebern rechnen. Oft lädt man sie gar nicht erst zu Vorstellungsgesprächen ein. Durch unsere Arbeitnehmerüberlassung öffnet sich ihnen eine Tür. Sie können sich im Unternehmenskultur kennenlernen und zeigen, dass sie in der Praxis bewähren. Oft endet diese angeblich befristeten Arbeitsphasen mit einer Festanstellung. Also eine Win-win-Situation für beide Seiten. Dies ist einzig und allein durch uns möglich.
+Ich weiß gar nicht so recht wieso sofort meine Hand ins Feuer legen. Ob die Entleiher-Unternehmen wirklich bereit wären, sich um all das zu bemühen. Aber eines wollen wir mal sagen: die Migrantinnen und Migranten. Viele kommen aus nicht anerkannten Ausbildungssystemen, kennen den Arbeitsmarkt und müssen mit einer großen Skepsis bei den Arbeitgebern rechnen. Oft lädt man sie gar nicht erst zu Vorstellungsgesprächen ein. Durch unsere Arbeitnehmerüberlassung öffnet sich ihnen eine Tür. Sie können sich im Unternehmenskultur kennenlernen und sich in der Praxis bewähren. Oft endet diese angeblich befristeten Arbeitsphasen mit einer Festanstellung. Also eine Win-win-Situation für beide Seiten. Dies ist einzig und allein durch uns möglich.
+
+---
 
 **Moderator:**  
 Wie lange darf ein Entleiher-Unternehmen einen Leiharbeiter auf einem Posten maximal beschäftigen?
 
-**Frau Mittens:**  
+**Herr Junger:**  
 18 Monate. In der Regel ist das auch die Zeit, für die eine vorübergehende Aufstockung des Personals nötig ist; danach spricht man ja nicht mehr von einem zeitlich begrenzten Bedarf des Entleiher-Unternehmens.
 
 **Frau Mittens:**  
@@ -93,11 +98,13 @@ Das ist ja alles schön und gut. Ihnen ist aber schon klar, dass der Bedarf so m
 **Herr Junger:**  
 Das ist aber eher eine Ausnahme.
 
-**Frau Mittens:**  
-Mmm. Ich habe neulich gelesen, dass die Einarbeitung des geliehenen Personals meist vergleichsweise zeitaufwendig ist und man deshalb dazu übergeht, Leiharbeiter*innen eher Hilfsarbeiten zuzuweisen.
+**Moderator:**  
+Mmm. Ich habe neulich gelesen, dass die Einarbeitung des geliehenen Personals meist vergleichsweise zeitaufwendig ist und man deshalb dazu übergeht, Leiharbeiter:innen eher Hilfsarbeiten zuzuweisen.
 
-**Herr Junger:**  
+**Frau Mittens:**  
 Richtig. So verhindert man gleichzeitig, dass der Leiharbeiter wichtiges Wissen mitnimmt, wenn die Leiharbeitsphase beendet ist. Unter solchen Bedingungen kann eigentlich kein gutes Arbeitsverhältnis entstehen. Misstrauen von Seiten des Arbeitgebers, Langeweile für die Leihkraft, also ein Missstand, würde ich sagen.
+
+---
 
 **Moderator:**  
 Wie wirkt sich die Leiharbeit auf ein Team aus?

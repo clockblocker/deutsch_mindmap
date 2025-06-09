@@ -1,1 +1,1 @@
-, [[verbessern]], [[schlimm]], [[verschlechtern]]
+, [[verbessern]], [[schlimm]], [[verschlechtern]], [[ausarten]]

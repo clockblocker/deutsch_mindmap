@@ -3,3 +3,4 @@
 [[bejahen]]
 
 , [[feststellen]], [[nicken]], [[behaupten]], [[leugnen]], [[stimmen]], [[beweisen]], [[versichern]], [[absprechen]], [[bestreiten]]
+, [[zuschreiben]]

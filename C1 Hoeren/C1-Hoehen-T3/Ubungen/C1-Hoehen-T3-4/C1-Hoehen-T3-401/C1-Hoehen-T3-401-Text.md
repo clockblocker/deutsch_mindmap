@@ -53,6 +53,76 @@
 
 ---
 ---
+
+
+*[[C1-Hoehen-T3-401-Text#^1|^]]* Bangkoks Lage führt dazu, dass der durch die Stadt [[fließende]] Strom sich ein immer [[breiteres]] [[Bett]] [[gräbt]] ^1
+
+*[[C1-Hoehen-T3-401-Text#^1|^]]* Bangkoks Lage führt dazu, dass [[zusätzlich]]e [[Wasserreservoirs]] benötigt werden ^1
+
+*[[C1-Hoehen-T3-401-Text#^1|^]]* Bangkoks Lage führt dazu, dass es [[häufig]]er zu [[Überflutung]]en kommt ^1
+
+ 
+*[[C1-Hoehen-T3-401-Text#^1|^]]* Welche [[Besonderheit]] hat der neue Park in Bangkok? ^1
+
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Recycelte Tanks wurden in den Park integriert ^2
+
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Er gilt als Beispiel für innovatives [[Wassermanagement]] ^2
+
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Er hat einer alten [[Industrieanlage]] zu neuem [[Glanz]] [[verholfen]] ^2
+
+ 
+ 
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne [[Stadtplanung]] muss per Gesetz durch [[nachhaltig]]e Programme [[gestützt]] werden ^2
+
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne Stadtplanung sollte schon [[Vorhandenes]] neu gestalten ^2
+
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne Stadtplanung wurde bei der Rooftop-Farm nicht [[berücksichtigt]] ^2
+
+ 
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Was [[auszeichnet|zeichnet]] den High Line Park aus? ^2
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Eine Gruppe von [[Privatleuten]] [[einsetzt|setzt]] sich für ihn ein ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Er ist ein [[vorbildlich]]es Beispiel alter [[Baukunst]] ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Er lässt sich für [[Großveranstaltung]]en [[umgestalt]]en ^3
+
+ 
+ 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Die [[Landflucht]] trägt zu einer geringen [[Fruchtbarkeit]] der Menschen bei ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Die Landflucht [[verursacht]] eine fallende [[Geburtenrate]] ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Die Landflucht findet in einem größeren [[Umfang]] als erwartet statt ^3
+
+ 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* [[Voraussichtlich]] wird sich in Asien in den nächsten Jahren eine schnelle Urbanisierung [[vollziehen]] ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Voraussichtlich werden in Afrika auch [[weiterhin]] die meisten Menschen in Dörfern [[ansässig]] sein ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Voraussichtlich werden alle Metropolen weltweit bis 2050 stark [[anwachsen]] ^3
+
+ 
+ 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Je nach Dichte der städtischen [[Bevölkerung]] entsteht ein Trend zu größeren [[Vororten]] ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Je nach Dichte der städtischen Bevölkerung ergeben sich unterschiedliche Transportprobleme ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Je nach [[Dichte]] der städtischen Bevölkerung gibt es ein Limit [[hinsichtlich]] der [[Senkung]] des [[Schadstoffausstoßes]] ^3
+
+ 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Eine innovative Idee für den Transport in Megacitys ist, ihn der Nachfrage genau [[anzupassen]] ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Eine innovative Idee für den Transport in Megacitys ist, ihn [[computergesteuert]] zu regulieren ^3
+
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Eine innovative Idee für den Transport in Megacitys ist, alles zentral zu organisieren ^3
+
+
+
+
+
+---
+---
 ---
 
 

@@ -3,6 +3,8 @@
 ---
 „Du machst Witze“, sagte Michael zu Petunia. Sein [[Tonfall]] [[ließ]] [[vermuten]], wie sehr er [[fürchtete]], dass es ihr [[Ernst]] war
 
+*[[C1-Hoehen-T2-102-Text#^36|^]]* Ich [[vermute]], dass [[Begriff]]e wie Null-Emission-Fahrzeug die Menschen auf eine falsche Fährte geführt haben, denn wie wir gehört haben, sind Abgase ja nicht die alleinigen Übeltäter
+
 *[[bro-schrieben-c1-t1-004#^3|^]]* Die [[bisherige]] [[Entwicklung]] der [[Lebenserwartung]] lässt [[vermuten]], dass es [[eben]] die größere [[Auswahl]] `an` medizinischen [[Verfahren]] geben wird, die die Lebensdauer erhöhen könnten
 
 *[[C1-Hoehen-T1-301-Text#^2|^]]* Wie der Titel schon [[vermuten]] lässt, [[entführt]] die atmosphärisch und [[klang]]lich sehr [[dicht]] [[gewobene]] Reportage in eines der letzten Paradiese dieser Welt – auf eine der vielen [[Südseeinseln]], die schon [[Gauguin]] als exotische [[Gegenwelt]] in seinen Bildern [[verewigte]]. ^2
@@ -42,4 +44,4 @@ PI: [[vermutend]], PII: [[vermutet]], Zu+inf: [[zu vermuten]]
 [[Vermutung]], [[Mutmaßung]], [[vermutet]], [[Vermutende]], [[unvermutet]]
 
 [[meinen]], [[wiegen]], [[Glaub]], [[rechnen]], [[raten]], [[befürchten]], [[erwarten]]
-, [[ahnen]], [[zweifeln]], [[fürchten]], [[Unmut]], [[vorausahnen]], [[Südseeinsel]], [[Vermögen]]
+, [[ahnen]], [[zweifeln]], [[fürchten]], [[Unmut]], [[vorausahnen]], [[Südseeinsel]], [[Vermögen]], [[vermutlich]]

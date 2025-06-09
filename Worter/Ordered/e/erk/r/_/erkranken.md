@@ -1,1 +1,1 @@
-, [[Grippe]], [[heilen]]
+, [[Grippe]], [[heilen]], [[Erkrankung]]

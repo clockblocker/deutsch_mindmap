@@ -3,14 +3,15 @@
 haben [[nachgesehen]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Migranten hätten bei einem [[Leiharbeitsverbot]] das [[Nachsehen]]
+*(Migrants would be at a disadvantage if [[temporary agency work]] were [[banned]])*
+
 
 Wolfgang, [[nachsehen|sieh]] och [[gleich]] mal nach
 Jetzt muß ich gleich [[nachsehen]], ob mein Schmuck noch da ist.
 
 ---
-
 Synonyme:
-
 - [[überprüfen]], [[kontrollieren]], [[nachschauen]]
 
 ---
@@ -80,3 +81,6 @@ Konjunktiv II:
 - Wenn sie nicht sicher wären, [[sähen nach|sähen]] sie der Sache [[nach]].
   , [[11 08]]
   , [[verzeihen]]
+
+
+#Neuter 

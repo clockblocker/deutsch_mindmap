@@ -34,4 +34,4 @@ G: der [[Erhöhung]], der [[Erhöhungen]]
 D: der [[Erhöhung]], den [[Erhöhungen]]
 , [[Anstieg]], [[Mieterhöhung]], [[Minderung]]
 
-#Feminin 
+#Feminin , [[Aufstockung]]

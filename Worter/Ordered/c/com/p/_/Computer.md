@@ -1,1 +1,1 @@
-der [[Computer]] / die [[Computer]] | #Substantiv #Maskulin  | computer, [[Rechner]], [[Computerspielsucht]]
+der [[Computer]] / die [[Computer]] | #Substantiv #Maskulin  | computer, [[Rechner]], [[Computerspielsucht]], [[computergesteuert]]

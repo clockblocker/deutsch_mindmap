@@ -3,6 +3,9 @@
 ---
 *[[bro-schrieben-c1-t1-003#^7|^]]* Meines [[Erachten]]s nach gibt es mehrere Alternativen zur beruflichen Veränderung außerhalb des Auswanderns
 
+*[[C1-Hoehen-T2-102-Text#^37|^]]* Meines [[Erachten]]s wäre ein [[Schritt]] zur [[Linderung]] des Problems, leichtere Batterien zu bauen und über eine [[Neuzusammensetzung]] der [[Reifenmaterial]]ien nachzudenken. ^37
+
+
 ---
 = [[halten für]], [[glauben]], [[denken]]
 ≈ [[meinen]], [[schätzen]], [[beurteilen]]
@@ -56,3 +59,5 @@ Adjektive: [[erachtend]], [[erachtender]], [[erachtendst]]
 
 ---
 [[erachtender]], [[erachtendes]], [[erachtende]], [[erachtenden]], [[erachtendem]], [[erachtenderer]], [[erachtenderes]], [[erachtendere]], [[erachtenderen]], [[erachtenderem]], [[erachtendster]], [[erachtendstes]], [[erachtendste]], [[erachtendsten]], [[erachtendstem]]
+
+#Neuter 

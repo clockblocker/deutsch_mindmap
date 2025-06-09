@@ -1,2 +1,2 @@
 
-, [[Stehempfang]], [[Fahrradmesse]], [[messe]], [[Eröffnungsfeier]], [[Straßenfest]]
+, [[Stehempfang]], [[Fahrradmesse]], [[messe]], [[Eröffnungsfeier]], [[Straßenfest]], [[Großveranstaltung]]

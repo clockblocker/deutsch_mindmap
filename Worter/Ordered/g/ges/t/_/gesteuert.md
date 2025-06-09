@@ -1,1 +1,1 @@
-, [[steuere]], [[Steuern]], [[windgetrieben]]
+, [[steuere]], [[Steuern]], [[windgetrieben]], [[computergesteuert]]

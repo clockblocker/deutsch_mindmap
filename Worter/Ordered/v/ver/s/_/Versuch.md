@@ -38,4 +38,4 @@ D: dem [[Versuch]], den [[Versuchen]]
 , [[ablenken]], [[Anhieb]]
 
 #Maskulin
-, [[Malversuch]]
+, [[Malversuch]], [[Erprobung]]

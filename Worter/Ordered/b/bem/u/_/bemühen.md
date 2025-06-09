@@ -3,6 +3,8 @@
 haben [[bemüht]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^21|^]]* Ob die Entleiher-Unternehmen wirklich [[bereit]] wären, sich um all das zu [[bemühen]]
+*(Whether the borrowing companies would really be [[willing]] to [[strive]] for all that)*
 
 Aang [[bemüht]] sich Appas Mund aufzukriegen, als Katara und Sokka zu ihm stoßen.
 

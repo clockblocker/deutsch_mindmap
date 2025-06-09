@@ -1,1 +1,1 @@
-, [[allgemein]], [[weltweit]], [[weitreichend]]
+, [[allgemein]], [[weltweit]], [[weitreichend]], [[pauschal]]

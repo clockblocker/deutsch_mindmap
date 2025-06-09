@@ -1,1 +1,1 @@
-, [[Plakatgröße]]
+, [[Plakatgröße]], [[Winzigkeit]], [[Winzling]]

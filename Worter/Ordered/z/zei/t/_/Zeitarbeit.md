@@ -1,1 +1,1 @@
-, [[Zeitarbeiter]]
+, [[Zeitarbeiter]], [[Leiharbeit]], [[Festeinstellung]], [[Arbeitnehmerüberlassung]]

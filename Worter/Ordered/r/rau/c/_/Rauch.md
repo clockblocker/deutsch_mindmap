@@ -24,4 +24,4 @@ Morphems:
 [[Rauch]]
 
 ---
-#Substantiv #Maskulin , [[rauchen]]
+#Substantiv #Maskulin , [[rauchen]], [[Abgas]]

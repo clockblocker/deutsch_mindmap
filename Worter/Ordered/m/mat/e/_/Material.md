@@ -1,2 +1,2 @@
 , [[Stoff]], [[Gerät]]
-, [[Unterlage]], [[Zeug]], [[Lehrmaterial]]
+, [[Unterlage]], [[Zeug]], [[Lehrmaterial]], [[Reifenmaterial]]

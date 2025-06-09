@@ -3,6 +3,8 @@
 ---
 *[[042-C1-Schreiben-T2#^2|^]]* Ihr Unternehmen hat beschlossen, aus Kostengründen ältere technische [[Gerät]]e wie Laptops und Telefone [[weiterhin]] im [[Einsatz]] zu lassen
 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Voraussichtlich werden in Afrika auch [[weiterhin]] die meisten Menschen in Dörfern [[ansässig]] sein
+
 *[[C1-Lesen-413-Text#^5|^]]* [[Geschlechtsspezifisches]] Spielzeug findet man [[weiterhin]] `im` [[Mittelalter]], `wo` Jungen [[lernten]], mit Pfeil und Bogen umzugehen
 
 *[[C1-Hoehen-T3-301-Text#^51|^]]* Wenn wir [[weiterhin]] unsere hohen [[Qualitätsstandard]]s [[beibehalten]] wollen, dann können wir nicht [[unbegrenzt]] [[Löhne]] und [[Gehälter]] [[erhöhen]]
@@ -16,12 +18,9 @@
 
 
 ---
-= [[fortan]], [[ferner]], [[zusätzlich]]
+= [[fortan]], [[ferner]], [[zusätzlich]], [[sonst]], [[nachfolgend]], [[ferner]]
 ≈ [[außerdem]], [[darüber hinaus]], [[noch]]
 ≠ [[nicht mehr]], [[früher]]
-
-, [[sonst]], [[nachfolgend]], [[ferner]]
-
 
 ---
 furthermore, still, moreover  
@@ -34,3 +33,4 @@ furthermore, still, moreover
 [[weit]]|[[er]]|[[hin]]
 [[weiterhin]]
 
+, [[C1-Hoehen-T3-401-Text]]

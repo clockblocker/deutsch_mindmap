@@ -1,1 +1,1 @@
-, [[bestimmt]], [[gewiss]], [[zweifelt]], [[zweifeln]], [[unbestreitbar]]
+, [[bestimmt]], [[gewiss]], [[zweifelt]], [[zweifeln]], [[unbestreitbar]], [[vermutlich]]

@@ -3,9 +3,9 @@
 ---
 
 7 Die [[Großkonzern]]e der [[Industrienation]]en sind die [[Hauptverursacher]] von [[Schadstoff]]en
-- [x] a stimmt  
+- [ ] a stimmt  
 - [ ] b stimmt nicht  
-- [ ] c dazu wird nichts gesagt  
+- [x] c dazu wird nichts gesagt  
 
 8 [[Individualistisch]]e [[Weltanschauung]]en bewirken ein [[Gefühl]] von [[Hilflosigkeit]] beim Thema [[Klimawandel]].  
 - [x] a stimmt  

@@ -5,6 +5,9 @@
 ---
 *[[M1A1.md#^1|^]]* Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn?
 
+*[[C1-Hoehen-T3-400-Text#^46|^]]* Die [[Bundesagentur]] für Arbeit würde eine Weiterbildung [[ihrerseits]] zwar [[fördern]], aber [[Leiharbeitsfirmen]] wollen einfach nicht investieren
+*(The Federal Employment Agency would [[promote]] further training [[on its part]], but [[temporary employment agencies]] simply do not want to invest)*
+
 *[[212-C1-Schreiben-Model#^1|^]]* *ich habe vollstes Verständnis dafür, dass* geplante Funktionsräume die interne Kommunikation [[fördern]] – ein Aspekt, der `im` [[Arbeitsalltag]] [[unabdingbar]] ist
 
 *[[C1-Hoehen-T3-301-Text#^43|^]]* [[Gezielte]] [[Zuwanderung]] für die duale [[Berufsausbildung]] sollte [[ebenso]] [[beworben]] und [[gefördert]] werden wie der Studienstandort Deutschland
@@ -56,4 +59,4 @@ PI: [[fördernd]], PII: [[gefördert]], Zu+inf: [[zufördern]]
 Adjektive: [[fördernd]], [[fördernder]], [[förderndst]]
 
 ---
-[[fördernder]], [[förderndes]], [[fördernde]], [[fördernden]], [[förderndem]], [[fördernderer]], [[fördernderes]], [[förderndere]], [[fördernderen]], [[fördernderem]], [[förderndster]], [[förderndstes]], [[förderndste]], [[förderndsten]], [[förderndstem]], [[befeueren]]
+[[fördernder]], [[förderndes]], [[fördernde]], [[fördernden]], [[förderndem]], [[fördernderer]], [[fördernderes]], [[förderndere]], [[fördernderen]], [[fördernderem]], [[förderndster]], [[förderndstes]], [[förderndste]], [[förderndsten]], [[förderndstem]], [[befeueren]], [[abhalten]], [[zugutekommen]], [[verhelfen]]

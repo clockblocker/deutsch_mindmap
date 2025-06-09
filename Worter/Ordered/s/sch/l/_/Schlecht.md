@@ -35,4 +35,4 @@ N: [[schlechtes]], [[schlechteres]], [[schlechtestes]]
 P: [[schlechten]], [[schlechteren]], [[schlechtesten]]  
 
 ---
-[[verschlechtern]], [[Schlechtigkeit]], [[schlechtmachen]], [[schlimmsten]], [[Schlecht]], [[herrlich]], [[Gebrauch]], [[Produktrezension]], [[fies]], [[wertlos]], [[passabel]], [[weltbest]], [[tugendhaft]], [[übel]], [[positiv]], [[unangenehm]], [[unverdaulich]], [[abträglich]]
+[[verschlechtern]], [[Schlechtigkeit]], [[schlechtmachen]], [[schlimmsten]], [[Schlecht]], [[herrlich]], [[Gebrauch]], [[Produktrezension]], [[fies]], [[wertlos]], [[passabel]], [[weltbest]], [[tugendhaft]], [[übel]], [[positiv]], [[unangenehm]], [[unverdaulich]], [[abträglich]], [[vorbildlich]]

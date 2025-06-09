@@ -4,6 +4,9 @@
 
 Die Geschichte [[handelt]] [[von]] Tieren
 
+*[[C1-Hoehen-T2-401-Text#^2|^]]* Herr Gröner [[hervorhebt|hebt]] die [[Notwendigkeit]] des [[Handeln]]s in Fällen öffentlicher [[Gewalt]] hervor
+*(Mr. Gröner [[emphasizes]] the necessity of [[acting]] in cases of public [[violence]].)*
+
 *[[C1-Lesen-432-Text#^7|^]]* Es [[handelt]] `sich` `um` ein sogenanntes [[Weisungsrecht]] des Arbeitgebers, das für die Arbeitszeit [[verpflichtend]] ist
 
 _[[C1-Hoehen-T3-301-Text#^55|^]]_ Ich glaube nicht, dass uns jetzt [[Alarmismus]] [[weiterhilft]], aber die Fakten sollten uns in der [[Tat]] zu schnellem [[Handeln]] [[veranlassen]]:

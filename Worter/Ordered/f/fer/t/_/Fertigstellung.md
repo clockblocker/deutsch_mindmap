@@ -1,2 +1,2 @@
 
-, [[fertigstellen]], [[Baustelle]], [[Ausarbeitung]], [[Malversuch]]
+, [[fertigstellen]], [[Baustelle]], [[Ausarbeitung]], [[Malversuch]], [[Beendigung]]

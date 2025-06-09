@@ -1,1 +1,1 @@
-, [[Sterilisation]]
+, [[Sterilisation]], [[Fruchtbarkeit]]

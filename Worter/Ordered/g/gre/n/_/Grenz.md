@@ -23,4 +23,4 @@ G: der [[Grenze]], der [[Grenzen]]
 D: der [[Grenze]], den [[Grenzen]]  
 
 ---
-[[grenzen]], [[grenzelos]], [[grenzwertig]], [[angrenzend]], [[begrenzen]], [[abgrenzen]], [[angrenzen]]
+[[grenzen]], [[grenzelos]], [[grenzwertig]], [[angrenzend]], [[begrenzen]], [[abgrenzen]], [[angrenzen]], [[ausgrenzen]]

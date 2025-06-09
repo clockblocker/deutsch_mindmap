@@ -1,2 +1,2 @@
 [[fahren]], [[Erfahrung]], [[Vorfahre]], [[Gefahr]], [[losfahren]], [[überfahren]], [[Hochfahren]], [[Verfahren]], [[erfahren]], [[erfahrenen]], [[Ostasienfahrt]]
-, [[abfahren]], [[Fahrzeug]], [[Zufahrt]], [[Zufahrt]], [[gefährden]], [[Nachfahre]], [[hinfahren]]
+, [[abfahren]], [[Fahrzeug]], [[Zufahrt]], [[Zufahrt]], [[gefährden]], [[Nachfahre]], [[hinfahren]], [[Fahrzeugtyp]]

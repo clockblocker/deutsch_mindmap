@@ -5,6 +5,8 @@
 ---
 [[vollziehenden]] Gewalt
 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Voraussichtlich wird sich in Asien in den nächsten Jahren eine schnelle Urbanisierung [[vollziehen]]
+
 ---
 = [[begehen]], [[ausführen]], [[durchführen]], [[realisieren]]
 ≈ [[umsetzen]], [[verwirklichen]], [[bewerkstelligen]]
@@ -29,4 +31,4 @@ PI: [[vollziehend]], PII: [[vollzogen]], Zu+inf: [[vollzuziehen]]
 [[vollziehen]] - [[voll]] = [[ziehen]] / to carry out, to perform, to execute
 
 ---
-[[Vollzug]], [[Vollziehung]], [[vollziehbar]], [[Vollziehbarkeit]], [[Gesetzesvollzug]], [[nachvollziehbar]]
+[[Vollzug]], [[Vollziehung]], [[vollziehbar]], [[Vollziehbarkeit]], [[Gesetzesvollzug]], [[nachvollziehbar]], [[C1-Hoehen-T3-401-Text]]

@@ -1,1 +1,1 @@
-, [[erledigt]], [[vorbei]], [[im Gange]]
+, [[erledigt]], [[vorbei]], [[im Gange]], [[Beendigung]]

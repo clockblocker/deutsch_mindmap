@@ -5,6 +5,8 @@
 ---
 Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]
 
+*[[C1-Hoehen-T2-102-Text#^45|^]]* Und das [[beeinträhtigt]] unsere Gesundheit vermutlich nicht [[unerheblich]]
+
 *[[bro-schrieben-c1-t1-001#^7|^]]* Es gibt auch [[weiter]]e [[Aspekt]]e [[außer]] Doping, die einen [[fair]]en [[Konkurrenzkampf]] [[beeinträchtigen]] könnten, [[nämlich]] eine [[Vergiftung]] des [[Gegner]]s, z. B. im [[Pferdesport]]
 
 Allerdings [[darstellen|stellt]] sein [[ständiges]] Bellen ein großes Problem für unser Team dar: nicht nur erschwert es die Online-Meetings und [[Kundengespräche]] erheblich, sondern [[beeinträchtigt]] auch die [[allgemeine]] Konzentration.

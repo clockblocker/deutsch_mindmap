@@ -1,1 +1,1 @@
-, [[Ende]]
+, [[Ende]], [[Beendigung]]

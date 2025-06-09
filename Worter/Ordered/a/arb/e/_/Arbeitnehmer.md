@@ -5,6 +5,8 @@ die [[Arbeitnehmer]]
 *[[bro-schrieben-c1-t1-011#^3|^]]* Viele [[Arbeitnehmende]] werden [[stets]] [[gefordert]], ihre [[Leistung]] regelmäßig auf ein höheres Niveau zu bringen, was zu [[langfristig]]er [[emotional]]er [[Überforderung]] führen könnte
 
 
+*[[C1-Hoehen-T3-400-Text#^1|^]]* [[Leiharbeit]] wird von allen [[Arbeitnehmer]]n [[begrüßt]]
+
 26. Wen [[vertreten]] die [[Gewerkschaften]] in Deutschland? (89%)
 	- [ ] große [[Unternehmen]]
 	- [ ] kleine Unternehmen
@@ -35,4 +37,4 @@ D: dem [[Arbeitnehmer]], den [[Arbeitnehmern]]
 [[Arbeitsverhältnis]], [[Rentner]], [[Arbeitswelt]], [[Gewerkschaft]]
 , [[Angestellte]], [[Erwerbstätige]], [[Belegschaft]], [[Erwerbstätigkeit]], [[Arbeitnehmerrecht]], [[Beschäftigte]], [[Pendler]]
 
-#Maskulin , [[Arbeitskraft]]
+#Maskulin , [[Arbeitskraft]], [[Arbeitnehmerüberlassung]]

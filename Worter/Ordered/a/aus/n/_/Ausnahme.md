@@ -4,6 +4,8 @@ die [[Ausnahmen]]
 ---
 Aber solche [[Ausnahmen]] finde ich als nur [[Symptombehandlung]].
 
+Das ist aber [[eher]] eine [[Ausnahme]]
+
 ---
 = [[Sonderfall]], [[Abweichung]]
 ≈ [[C1 Schreiben/misc/Regel]], [[Spezialfall]], [[Besonderheit]]

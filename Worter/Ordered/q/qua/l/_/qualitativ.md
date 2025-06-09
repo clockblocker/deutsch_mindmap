@@ -1,1 +1,1 @@
-, [[Qualitätszeit]], [[Qualitätsstandard]]
+, [[Qualitätszeit]], [[Qualitätsstandard]], [[vollwertig]]

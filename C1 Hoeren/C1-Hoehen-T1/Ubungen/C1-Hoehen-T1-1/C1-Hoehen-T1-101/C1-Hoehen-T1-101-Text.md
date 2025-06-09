@@ -7,33 +7,33 @@
 - [ ] b Buch 2 – Iss dich gesund  
 - [ ] c Buch 3 – Alte Medizin, neu genutzt  
 
-1 Hier wird den [[Erkenntnis]]sen mentaler [[Widerstandsfähigkeit]] [[nachgegangen]].  
+1 Hier wird den [[Erkenntnis]]sen ==mentaler== [[Widerstandsfähigkeit]] [[nachgegangen]].  
 - [ ] a Buch 1  
 - [ ] b Buch 2  
-- [ ] c Buch 3  
+- [x] c Buch 3  
 
-2 In dem Buch werden [[Erkenntnis]]se [[jahrhundertealter]] Medizin aus spirituellem Kontext [[betrachtet]].  
+2 In dem Buch werden [[Erkenntnis]]se [[jahrhundertealter]] Medizin aus ==spirituellem== Kontext [[betrachtet]].  
 - [ ] a Buch 1  
 - [ ] b Buch 2  
-- [ ] c Buch 3  
+- [x] c Buch 3  
 
 3 Dieser Titel verbindet Erkenntnisse aus der [[Landwirtschaft]] mit der Medizin.  
 - [ ] a Buch 1  
-- [ ] b Buch 2  
+- [x] b Buch 2  ?
 - [ ] c Buch 3  
 
-4 Es geht um auf langer Tradition [[beruhende]] modernisierte [[Behandlungsformen]]
-- [ ] a Buch 1  
+4 Es geht um auf ==langer Tradition== [[beruhende]] modernisierte [[Behandlungsformen]]
+- [x] a Buch 1  ?
 - [ ] b Buch 2  
 - [ ] c Buch 3  
 
 5 In dem Werk geht es unter anderem um die [[Ernährung]] von [[langlebig]]en, [[ethnisch]]en Gruppen.  
 - [ ] a Buch 1  
 - [ ] b Buch 2  
-- [ ] c Buch 3  
+- [x] c Buch 3  
 
 6 Im Buch wird die [[fehlen]]de [[Anerkennung]] der [[Naturheilkunde]] seitens der Schulmedizin behandelt.  
-- [ ] a Buch 1  
+- [x] a Buch 1  
 - [ ] b Buch 2  
 - [ ] c Buch 3  
 
@@ -43,7 +43,7 @@ Samstag, 10:00 Uhr: Das heißt: Michas Medizinbox. Mein Name ist Dr. Michael von
 
 *[[C1-Hoehen-T1-101-Text#^1|^]]* Absolut ans Herz legen kann ich euch „Messen statt Raten“ von Dr. Dana Seifert. ^1
 
-*[[C1-Hoehen-T1-101-Text#^2|^]]* In ihrem Debüt als Autorin [[eruiert]] die Heilpraktikerin die Wirkungsweise und Wirksamkeit der Elektroakupunktur nach Voll, kurz EAV, einer Diagnoseform, die auf die Traditionelle Chinesische Medizin [[zurückgeht]]. ^2
+*[[C1-Hoehen-T1-101-Text#^2|^]]* In ihrem Debüt als Autorin [[eruiert]] die Heilpraktikerin die Wirkungsweise und Wirksamkeit der Elektroakupunktur `nach` [[Voll]], kurz EAV, einer Diagnoseform, die auf die Traditionelle Chinesische Medizin [[zurückgeht]]. ^2
 
 *[[C1-Hoehen-T1-101-Text#^3|^]]* Dabei werden elektrische [[Widerstandsmessung]]en an den [[Meridianpunkt]]en [[durchgeführt]]. ^3
 
@@ -58,7 +58,7 @@ Samstag, 10:00 Uhr: Das heißt: Michas Medizinbox. Mein Name ist Dr. Michael von
 
 *[[C1-Hoehen-T1-101-Text#^8|^]]* Mein zweiter Tipp trägt den Titel „Iss dich gesund“ und beschäftigt sich mit den Erkenntnissen der orthomolekularen Medizin. ^8
 
-*[[C1-Hoehen-T1-101-Text#^9|^]]* [[Ausgehend]] davon, dass Aminosäuren, Vitamine und [[Mineralstoffe]] das [[Gerüst]] unseres Körpers [[ausmachen]] und an den [[Stoffwechselprozessen]] [[beteiligt]] sind, wirft die Ökotrophologin Alev Bükey-Schneider in ihrem Ratgeber einen Blick auf den [[Nährstoffgehalt]] von Obst und Gemüse in unseren Supermärkten. ^9
+*[[C1-Hoehen-T1-101-Text#^9|^]]* [[Ausgehen]]d davon, dass Aminosäuren, Vitamine und [[Mineralstoff]]e das [[Gerüst]] unseres Körpers [[ausmachen]] und an den [[Stoffwechselprozess]]en [[beteiligt]] sind, wirft die Ökotrophologin Alev Bükey-Schneider in ihrem Ratgeber einen Blick auf den [[Nährstoffgehalt]] von Obst und Gemüse in unseren Supermärkten. ^9
 
 *[[C1-Hoehen-T1-101-Text#^10|^]]* Wenn man in den [[Wintertag]]en [[häufig]]er zum [[Taschentuch]] [[greifen]] muss, kann das nach Bükey-Schneider auch daran [[anliegen|liegen]], dass aufgrund von [[Überbewirtschaftung]] von [[Agrarfläch]]en die Böden die Pflanzen nicht mehr [[ausreichend]] [[versorgen]] können. ^10
 
@@ -69,9 +69,9 @@ Samstag, 10:00 Uhr: Das heißt: Michas Medizinbox. Mein Name ist Dr. Michael von
 
 *[[C1-Hoehen-T1-101-Text#^13|^]]* Und ab dem 24. Mai findet ihr auch das Buch, das auf dem [[gleichnamig]]en Dokumentarfilm „Alte Medizin, neu genutzt“ beruht. ^13
 
-*[[C1-Hoehen-T1-101-Text#^14|^]]* Der Regisseur Lukas Vroeg zeigt hier, wie die Internistin Dr. Christine Meyerhagen auf einer Weltreise. ^14
+*[[C1-Hoehen-T1-101-Text#^14|^]]* Der Regisseur Lukas Vroeg begleitet hier, wie die Internistin Dr. Christine Meyerhagen auf einer Weltreise. ^14
 
-*[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en Wissen über [[Heilkunde]] [[hierzulande]] und international wuchs. ^15
+*[[C1-Hoehen-T1-101-Text#^15|^]]* Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en Wissen über [[Heilkunde]] [[hierzulande]] und international [[wuchs]]. ^15
 
 *[[C1-Hoehen-T1-101-Text#^16|^]]* Spielen bestimmte [[Ernährungsweise]]n bei [[einig]]en [[Naturvölkern]] eine Rolle bei ihrer langen [[Lebenserwartung]]? ^16
 

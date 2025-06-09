@@ -27,4 +27,4 @@ A: die [[Minderung]], die [[Minderungen]]
 G: der [[Minderung]], der [[Minderungen]]
 D: der [[Minderung]], den [[Minderungen]]
 
-#Feminin 
+#Feminin , [[Senkung]]

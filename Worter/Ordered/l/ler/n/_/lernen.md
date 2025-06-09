@@ -43,4 +43,4 @@ Partizip I: [[lernend]], Partizip II: [[gelernt]]
 
 [[lernen]] - [[en]] = [[lern]], [[ablehnen]], [[Weiterbildung]], [[erfahren]], [[Wiederholungskarte]], [[Erwachsenenanfängergruppe]], [[Erlernung]], [[lehren]], [[auswendig]]
 , [[kennenlernen]], [[Lernbereitschaft]], [[Zielsprache]], [[Klassenstufe]], [[spicken]], [[aneignen]], [[lernfähig]], [[Lerntyp]], [[Lernende]], [[Lernniveau]], [[Lerntempo]], [[erlernen]]
-, [[Lernaufgabe]], [[Sprachenlernen]], [[Lernmodell]]
+, [[Lernaufgabe]], [[Sprachenlernen]], [[Lernmodell]], [[weiterbilden]]

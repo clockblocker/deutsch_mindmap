@@ -21,10 +21,10 @@ ripeness, maturity
 
 
 ---
-N: die [[Reife]], die [[Reifen]]
-A: die [[Reife]], die [[Reifen]]
-G: der [[Reife]], der [[Reifen]]
-D: der [[Reife]], den [[Reifen]]
+N: die [[Reife]], die [[reifen]]
+A: die [[Reife]], die [[reifen]]
+G: der [[Reife]], der [[reifen]]
+D: der [[Reife]], den [[reifen]]
 
 
 #Feminin , [[Lebensalter]]

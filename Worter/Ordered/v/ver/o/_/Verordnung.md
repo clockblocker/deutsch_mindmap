@@ -1,1 +1,1 @@
-, [[Grundgesetz]], [[Beschluss]], [[Gesetz]], [[erlassen]], [[Regelung]], [[Regulierung]]
+, [[Grundgesetz]], [[Beschluss]], [[Gesetz]], [[erlassen]], [[Regelung]], [[Regulierung]], [[Umweltschutzgesetz]]

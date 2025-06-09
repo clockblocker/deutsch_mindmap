@@ -29,3 +29,4 @@ PI: [[ausnehmend]], PII: [[ausgenommen]], Zu+inf: [[auszunehmen]]
 
 ---
 [[Ausnahme]], [[ausgenommen]], [[ausnehmend]], [[Ausnahmen]], [[Ausnehmer]]
+, [[ausscheiden]]

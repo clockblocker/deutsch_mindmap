@@ -1,1 +1,1 @@
-, [[Leisten]], [[Reparationsleistung]], [[gewährleisten]], [[Leistung]], [[Ableisten]]
+, [[Leisten]], [[Reparationsleistung]], [[gewährleisten]], [[Leistung]], [[Ableisten]], [[Hilfe leisten]]

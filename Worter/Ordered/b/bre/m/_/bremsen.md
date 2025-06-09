@@ -5,6 +5,10 @@
 ---
 c) Intensives Training [[bremste]] den Hunger.
 
+*[[C1-Hoehen-T2-102-Text#^31|^]]* Zudem hat das Unternehmen Mann&Hummel einen Filter [[hergestellt]], der 80% der Abriebpartikel gleich an den [[Bremsen]] abfängt
+
+*[[C1-Hoehen-T2-102-Text#^6|^]]* Tatsächlich [[stammen]] um die 60% [[umweltbelastend]]er [[Stoff]]e aus dem Straßenverkehr von [[Reif]]en und [[Bremsen]] sowie [[Abrieb]] des [[Straßenbelag]]s
+
 ---
 = [[abbremsen]], [[verlangsamen]], [[stoppen]]
 ≈ [[verzögern]], [[hemmen]], [[blockieren]]
@@ -58,4 +62,4 @@ sie, [[bremsen]], [[bremsten]], [[bremsen]], [[bremsten]], [[bremsen]]
 Adjektive: [[bremsend]], [[bremsender]], [[bremsendst]]
 
 ---
-[[bremsender]], [[bremsendes]], [[bremsende]], [[bremsenden]], [[bremsendem]], [[bremsenderer]], [[bremsenderes]], [[bremsendere]], [[bremsenderen]], [[bremsenderem]], [[bremsendster]], [[bremsendstes]], [[bremsendste]], [[bremsendsten]], [[bremsendstem]]
+[[bremsender]], [[bremsendes]], [[bremsende]], [[bremsenden]], [[bremsendem]], [[bremsenderer]], [[bremsenderes]], [[bremsendere]], [[bremsenderen]], [[bremsenderem]], [[bremsendster]], [[bremsendstes]], [[bremsendste]], [[bremsendsten]], [[bremsendstem]], [[Bremsscheibe]]

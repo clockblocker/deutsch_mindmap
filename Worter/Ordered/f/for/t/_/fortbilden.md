@@ -1,1 +1,1 @@
-, [[Fortbildung]], [[Aufstiegsfortbildung]], [[bilden]], [[erlernen]]
+, [[Fortbildung]], [[Aufstiegsfortbildung]], [[bilden]], [[erlernen]], [[weiterbilden]]

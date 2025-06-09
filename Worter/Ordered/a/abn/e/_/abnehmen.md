@@ -42,4 +42,4 @@ Partizip I: [[abnehmend]], Partizip II: [[abgenommen]]
 , [[schwinden]], [[anheften]], [[entfernen]], [[verringern]], [[absinken]], [[Diät]], [[beliefern]]
 
 , [[zurückgehen]], [[zulegen]], [[Abnahme]], [[nachlassen]]
-, [[ansteigen]]
+, [[ansteigen]], [[anwachsen]]

@@ -1,1 +1,1 @@
-, [[geliehen]], [[leihen]], [[ausleihen]], [[Ausleihsystem]]
+[[leihen]], [[Entleiher]], [[Leiharbeitsfirma]], [[Leiharbeitsphase]], [[Leihkraft]]

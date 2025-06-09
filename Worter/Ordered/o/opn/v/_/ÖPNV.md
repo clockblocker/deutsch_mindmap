@@ -22,4 +22,4 @@ public transport
 ---
 [[ÖPNV]]
 
-#Maskulin , [[Personennahverkehr]]
+#Maskulin , [[Personennahverkehr]], [[Nahverkehrsmittel]]

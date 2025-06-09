@@ -4,6 +4,8 @@ die [[Gehälter]]
 ---
 *[[C1-Hoehen-T1-203-Text#^19|^]]* Also erhalten sie höhere [[Gehälter]] und größere [[Prämien]].
 
+*[[C1-Hoehen-T3-400-Text#^18|^]]* Wir [[bekämen]] neue Kolleg:innen mit [[tariflich]] festgelegtem [[Gehalt]] und allen Rechten, die wir auch haben
+
 *[[C1-Hoehen-T3-301-Text#^63|^]]* Und neueste Forschungen haben ergeben, dass die [[Vereinbarkeit]] von Familie und Beruf sowie flexible [[Arbeitszeit]]en und [[betrieblich]] [[geförderte]] [[Kinderbetreuung]] eine ebenso große Rolle spielen wie ein [[angemessen]]es [[Gehalt]]
 
 *[[C1-Hoehen-T3-301-Text#^51|^]]* Wenn wir [[weiterhin]] unsere hohen [[Qualitätsstandard]]s [[beibehalten]] wollen, dann können wir nicht [[unbegrenzt]] [[Löhne]] und [[Gehälter]] [[erhöhen]]

@@ -47,3 +47,4 @@ Zu+infinitive: [[zu behaupten]]
 ---
 
 [[Behauptungen]], [[Behaupter]], [[Behaupterin]], [[behauptbar]], [[unbehauptbar]], [[Behauptung]], [[besagen]], [[durchsetzen]], [[einwenden]]
+, [[Hand ins Feuer legen]]

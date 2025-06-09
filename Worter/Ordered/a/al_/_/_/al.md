@@ -1,1 +1,1 @@
-, [[Personalausweis]], [[Sozialversicherungsausweis]]
+, [[Personalausweis]], [[Sozialversicherungsausweis]], [[pauschal]]

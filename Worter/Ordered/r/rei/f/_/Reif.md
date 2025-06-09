@@ -2,7 +2,9 @@
 nicht [[unreif]]
 
 ---
-*[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]]* Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen [[sprießen]] lassen, schließlich wird vieles gleichzeitig [[reif]]. ^35
+*[[3  Ein Selbstversuch als Hobbybäuerin#^35|^]]* Man muss auch beim [[Bewältigen]] der [[Erntemengen]] Ideen [[sprießen]] lassen, schließlich wird vieles gleichzeitig [[reif]]
+
+*[[C1-Hoehen-T2-102-Text#^6|^]]* Tatsächlich [[stammen]] um die 60% [[umweltbelastend]]er [[Stoff]]e aus dem Straßenverkehr von [[Reif]]en und [[Bremsen]] sowie [[Abrieb]] des [[Straßenbelag]]s
 
 ---
 Synonyme: 
@@ -35,4 +37,4 @@ Einzigartige mögliche Formen:
 *und brachte seinen runden [[Reif]].*  
 
 hoop
-, [[Ring]], [[ausreifen]]
+, [[Ring]], [[ausreifen]], [[Reifenmaterial]]

@@ -1,3 +1,3 @@
 🗓️ [[planen]]
 
-, [[zufällig]], [[willkürlich]], [[spontanen]], [[spontan]], [[unerwartet]]
+, [[zufällig]], [[willkürlich]], [[spontanen]], [[spontan]], [[unerwartet]], [[voraussichtlich]]

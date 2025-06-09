@@ -1,6 +1,7 @@
 🤔 [[nachvollziehbar]], [ˈnaːxˌfɔlt͡sɪbaːɐ̯](https://youglish.com/pronounce/nachvollziehbar/german)
 
 ---
+*[[C1-Hoehen-T2-102-Text#^5|^]]* Dieser Gedankengang ist vielleicht [[nachvollziehbar]], aber entspricht nicht unseren [[Forschungsergebnis]]sen
 
 *[[C1-Lesen-432-Text#^31|^]]* `20 h` Genauso [[nachvollziehbar]] ist, dass die Arbeit an Maschinen keine Ketten, Ringe oder Piercings zulässt ^31
 
@@ -62,3 +63,4 @@ Adjektive: [[nachvollziehbar]], [[nachvollziehbarer]], [[nachvollziehbarst]]
 
 ---
 [[nachvollziehbarer]], [[nachvollziehbares]], [[nachvollziehbare]], [[nachvollziehbaren]], [[nachvollziehbarem]], [[nachvollziehbarerer]], [[nachvollziehbareres]], [[nachvollziehbarere]], [[nachvollziehbareren]], [[nachvollziehbarerem]], [[nachvollziehbarster]], [[nachvollziehbarstes]], [[nachvollziehbarste]], [[nachvollziehbarsten]], [[nachvollziehbarstem]], [[Verknüpfung]]
+

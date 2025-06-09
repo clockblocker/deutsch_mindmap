@@ -10,31 +10,31 @@
 
 *[[C1-Hoehen-T2-201-Text#^2|^]]* 8 Frau Friedrich findet, dass durch digitales Lernen die Realität [[verfälscht]] wird ^2
 
-- [ ] a stimmt?
+- [ ] a stimmt
 - [x] b stimmt nicht
 - [ ] c dazu wird nichts gesagt
 
 *[[C1-Hoehen-T2-201-Text#^3|^]]* 9 Die Regierung sollte den [[Lehrerberuf]] [[angemessen]] [[honorieren]] ^3
 
-- [x] a stimmt
-- [ ] b stimmt nicht 
+- [x] a stimmt 
+- [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
 *[[C1-Hoehen-T2-201-Text#^4|^]]* 10 Es gibt [[Jugendlich]]e, die das [[Abstraktionsvermögen]] mit [[steigend]]em Alter [[verlieren]]. ^4
 
 - [ ] a stimmt  
 - [x] b stimmt nicht  
-- [ ] c dazu wird nichts gesagt
+- [ ] c dazu wird nichts gesagt 
 
 *[[C1-Hoehen-T2-201-Text#^5|^]]* 11 *[[C1-Hoehen-T2-201-Text#^5|^]]*  [[Defizit]]e im [[Fach]] Mathematik sind auch [[zeitlich]]en [[Restriktion]]en [[geschuldet]]^5
 
 - [x] a stimmt 
 - [ ] b stimmt nicht 
-- [ ] c dazu wird nichts gesagt ?
+- [ ] c dazu wird nichts gesagt 
 
-*[[C1-Hoehen-T2-201-Text#^6|^]]* 12 Im [[Lehramtsstudium]] sollte [[vermittelt]] werden, dass es [[unterschiedliche]] [[Lerntyp]]en gibt ^6
+*[[C1-Hoehen-T2-201-Text#^6|^]]* 12 Im [[Lehramtsstudium]] sollte [[vermittelt]] werden, dass es [[unterschiedliche]] [[Lerntyp]]en gibt  ^6
 
-- [x] a stimmt  
+- [ ] a stimmt  
 - [ ] b stimmt nicht  
 - [ ] c dazu wird nichts gesagt  
 
@@ -48,7 +48,7 @@
 
 - [x] a stimmt  
 - [ ] b stimmt nicht  
-- [ ] c   wird nichts gesagt  
+- [ ] c  wird nichts gesagt  
 
 *[[C1-Hoehen-T2-201-Text#^9|^]]* 15 Schreiben und Rechnen sind [[geschichtlich]] gesehen parallel [[entstanden]] ^9
 
@@ -72,9 +72,9 @@ Guten Tag.
 ###### Frau Friedrich:  
 *[[C1-Hoehen-T2-201-Text#^12|^]]* Richtig. ^12
 
-*[[C1-Hoehen-T2-201-Text#^13|^]]* [[Wobei]] ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast [[verehren]] oder als notwendiges Übel [[betrachten]]. ^13
+*[[C1-Hoehen-T2-201-Text#^13|^]]* [[Wobei]] ich sagen muss, dass die Menschen Mathematik entweder lieben und schon fast [[verehren]] oder als notwendiges [[Übel]] [[betrachten]]. ^13
 
-*[[C1-Hoehen-T2-201-Text#^14|^]]* Letzteres liegt vor allem daran, dass dieses Fach leider viel zu [[häufig]] [[langweilig]], abstrakt und ohne [[jeglichen]] [[Bezug]] zur Realität gelehrt wird. ^14
+*[[C1-Hoehen-T2-201-Text#^14|^]]* Letzteres liegt vor allem daran, dass dieses Fach leider viel zu [[häufig]] [[langweilig]], abstrakt und ohne [[jeglich]]en [[Bezug]] zur Realität gelehrt wird. ^14
   
 
 ###### Moderator:  
@@ -102,7 +102,7 @@ Matematik Lehrer zu werden ist ja nir für weniger ein Traumberuf...
 *[[C1-Hoehen-T2-201-Text#^22|^]]* Das kann auch den [[leidenschaftlichsten]] Mathematikfan davon [[abhalten]], Lehrer zu werden. ^22
 
 
-###### Moderator:  
+###### Moderator:   
 *[[C1-Hoehen-T2-201-Text#^23|^]]* Man sieht ja immer wieder, dass Grundschülerinnen und -schüler weniger oder gar keine Angst vor Mathe haben, während sich das ändert, je mehr es auf die nächste Klasse [[zugeht]]. Wie erklären Sie sich das? ^23
 
 
@@ -145,9 +145,9 @@ Matematik Lehrer zu werden ist ja nir für weniger ein Traumberuf...
 
 *[[C1-Hoehen-T2-201-Text#^37|^]]* Legt man auf das erste Quadrat eines Schachbretts ein [[Weizenkorn]], auf das nächste die doppelte [[Menge]], auf das [[darauffolgende]] die doppelte Menge des [[vorhergehenden]] usw. bräuchte man am Ende ungefähr 730 Mrd Tonnen Weizen. ^37
 
-*[[C1-Hoehen-T2-201-Text#^40|^]]* Das entspricht etwa dem [[Tausendfachen]] der [[weltweiten]] [[Weizenernte]] eines Jahres. ^40
+*[[C1-Hoehen-T2-201-Text#^40|^]]* Das entspricht etwa dem [[Tausendfach]]en der [[weltweiten]] [[Weizenernte]] eines Jahres. ^40
 
-*[[C1-Hoehen-T2-201-Text#^41|^]]* Und für die [[Ausführung]] des Projekts bräuchte man 585 Milliarden Jahre. ^41
+*[[C1-Hoehen-T2-201-Text#^41|^]]* Und für die [[Ausführung]] des Projekts  bräuchte man 585 Milliarden Jahre. ^41
 
 *[[C1-Hoehen-T2-201-Text#^42|^]]* Besser kann man [[Potenzrechnung]] nicht [[veranschaulichen]]. ^42
  

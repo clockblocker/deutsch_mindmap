@@ -33,3 +33,5 @@ G: der [[Kaufentscheidung]], der [[Kaufentscheidungen]]
 D: der [[Kaufentscheidung]], den [[Kaufentscheidungen]]
 
 #Feminin 
+
+

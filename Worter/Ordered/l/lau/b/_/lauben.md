@@ -35,3 +35,4 @@ PI: [[laubend]], PII: [[gelaubt]], Zu+inf: [[zulauben]]
 ---
 
 [[Laube]], [[Laubgang]], [[laubig]], [[Laubveranda]]
+, [[Verlaub]]

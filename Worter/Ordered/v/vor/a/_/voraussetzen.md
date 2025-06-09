@@ -4,6 +4,9 @@
 ---
 *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* *[[3 Sollte das Internet stärker reguliert werden?#^5|^]]* _Grundsätzlich sollten auf allen Seiten immer die_ [[Menschenrecht]]e _als_ [[richtungsgebend]]e _Linie_ [[voraussetzen|vorausgesetzt]] _werden, um [[strafbar]]e von [[legal]]en_ [[Äußerung]]en _und_ [[Tat]]en _zu_ [[unterscheiden]]
 
+*[[C1-Hoehen-T3-400-Text#^3|^]]* Aufgaben, die wenig [[Fachwissen]] [[voraussetzen]]
+*(Tasks that require little [[specialist knowledge]])*
+
 *[[C1-Hoehen-T2-200-Text#^3|^]]* Frau Avar hat [[herausgefunden]], dass eine hohe Intelligenz [[verschiedene]] Arten von Intelligenz [[voraussetzt]]
 
 *[[C1-Lesen-T2-101-Text#^26|^]]* Immer [[vorausgesetzt]], dass das Kind nicht in Gefahr [[gerät]], zum Beispiel durch [[verschluckbare]] Teile

@@ -1,1 +1,1 @@
-, [[Zeitraum]]
+, [[Zeitraum]], [[Zeitfaktor]]

@@ -1,1 +1,1 @@
-[[Fertig]], [[bestens]], [[wohlgeformt]], [[ausgezeichnet]]
+[[Fertig]], [[bestens]], [[wohlgeformt]], [[ausgezeichnet]], [[vorbildlich]]

@@ -61,4 +61,4 @@ sie, [[entgehen]], [[entgingen]], [[entgehen]], [[entgingen]], [[entgehen]]
 Adjektive: [[entgehend]], [[entgehender]], [[entgehendst]]
 
 ---
-[[entgehender]], [[entgehendes]], [[entgehende]], [[entgehenden]], [[entgehendem]], [[entgehenderer]], [[entgehenderes]], [[entgehendere]], [[entgehenderen]], [[entgehenderem]], [[entgehendster]], [[entgehendstes]], [[entgehendste]], [[entgehendsten]], [[entgehendstem]]
+[[entgehender]], [[entgehendes]], [[entgehende]], [[entgehenden]], [[entgehendem]], [[entgehenderer]], [[entgehenderes]], [[entgehendere]], [[entgehenderen]], [[entgehenderem]], [[entgehendster]], [[entgehendstes]], [[entgehendste]], [[entgehendsten]], [[entgehendstem]], [[begegnen]]

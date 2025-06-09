@@ -1,1 +1,1 @@
-, [[Bedeutungsverstärkung]], [[verstärken]]
+, [[Bedeutungsverstärkung]], [[verstärken]], [[Aufstockung]]

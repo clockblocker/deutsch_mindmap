@@ -1,1 +1,1 @@
-, [[ergeben]], [[verhindern]]
+[[verhindern]]

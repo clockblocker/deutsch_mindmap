@@ -39,3 +39,4 @@ PI: [[begehend]], PII: [[begangen]], Zu+inf: [[zu begehen]]
 ---
 
 [[Begehung]], [[Vergehen]], [[Fehler]], Tat]], [[begangen]], [[feiern]], [[Tat]], [[verschulden]]
+, [[Täter]]

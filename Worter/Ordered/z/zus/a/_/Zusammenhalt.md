@@ -26,4 +26,4 @@ A: den [[Zusammenhalt]], die [[Zusammenhalte]]
 G: des [[Zusammenhaltes]], der [[Zusammenhalte]]
 D: dem [[Zusammenhalt]], den [[Zusammenhalten]]
 
-#Maskulin 
+#Maskulin , [[Zugehörigkeitsgefühl]]

@@ -3,6 +3,10 @@
 ---
 *Die Weltgesundheitsorganisation (WHO)* [[anerkennt|erkennt]] *bestimmte Online-Exzesse* `als` *Sucht* [[an]]
 
+*[[C1-Hoehen-T3-400-Text#^23|^]]* Viele kommen aus nicht [[anerkannt]]en [[Ausbildungssystem]]en, kennen den Arbeitsmarkt und müssen mit einer großen Skepsis bei den Arbeitgebern rechnen
+
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Migranten erhalten durch [[Leiharbeit]] die Chance, dass ihre [[Ausbildung]] [[anerkannt]] wird
+
 *[[C1-Lesen-T2-301-Text#^8|^]]* Greenwashing kann man [[betreiben]], [[indem]] man [[anerkannte]] [[Umweltzertifikat]]e falsch [[verwendet]]
 
 *[[C1-Hoehen-T1-101-Text#^7|^]]* Betont wird in diesem Sachbuch, dass sich die Schulmedizin in Deutschland mit alternativer Medizin noch [[schwertut]] und die EAV wohl trotz großer [[Erfolg]]e noch einen langen Weg vor sich hat, bevor sie als [[Kassenleistung]] [[anerkannt]] wird

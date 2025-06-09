@@ -2,6 +2,7 @@
 die [[Geburtenraten]]
 
 ---
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Die Landflucht [[verursacht]] eine fallende [[Geburtenrate]]
 
 
 ---
@@ -27,4 +28,4 @@ A: die [[Geburtenrate]], die [[Geburtenraten]]
 G: der [[Geburtenrate]], der [[Geburtenraten]]
 D: der [[Geburtenrate]], den [[Geburtenraten]]
 
-#Feminin 
+#Feminin , [[C1-Hoehen-T3-401-Text]]

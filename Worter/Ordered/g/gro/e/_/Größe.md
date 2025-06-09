@@ -1,1 +1,1 @@
-, [[Anzahl]], [[Mengenangabe]], [[Fläche]], [[Quadratmeter]], [[Umfang]], [[Plakatgröße]], [[Quantität]], [[größtmöglich]]
+, [[Anzahl]], [[Mengenangabe]], [[Fläche]], [[Quadratmeter]], [[Umfang]], [[Plakatgröße]], [[Quantität]], [[größtmöglich]], [[Winzigkeit]]

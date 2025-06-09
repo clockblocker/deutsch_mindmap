@@ -59,4 +59,4 @@ Adjektive: [[verteilend]], [[verteilender]], [[verteilendst]]
 ---
 [[verteilender]], [[verteilendes]], [[verteilende]], [[verteilenden]], [[verteilendem]], [[verteilenderer]], [[verteilenderes]], [[verteilendere]], [[verteilenderen]], [[verteilenderem]], [[verteilendster]], [[verteilendstes]], [[verteilendste]], [[verteilendsten]], [[verteilendstem]]
 
-, [[anhäufen]]
+, [[anhäufen]], [[zuweisen]]

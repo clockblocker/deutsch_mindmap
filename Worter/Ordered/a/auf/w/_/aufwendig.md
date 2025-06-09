@@ -30,4 +30,4 @@ expensive, elaborate
 Adjektive: [[aufwendig]], [[aufwendiger]], [[aufwendigst]]
 
 ---
-[[aufwendiger]], [[aufwendiges]], [[aufwendige]], [[aufwendigen]], [[aufwendigem]], [[aufwendigerer]], [[aufwendigeres]], [[aufwendigere]], [[aufwendigeren]], [[aufwendigerem]], [[aufwendigster]], [[aufwendigstes]], [[aufwendigste]], [[aufwendigsten]], [[aufwendigstem]]
+[[aufwendiger]], [[aufwendiges]], [[aufwendige]], [[aufwendigen]], [[aufwendigem]], [[aufwendigerer]], [[aufwendigeres]], [[aufwendigere]], [[aufwendigeren]], [[aufwendigerem]], [[aufwendigster]], [[aufwendigstes]], [[aufwendigste]], [[aufwendigsten]], [[aufwendigstem]], [[zeitaufwendig]]

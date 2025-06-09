@@ -1,1 +1,1 @@
-, [[veranlagt]]
+, [[veranlagt]], [[Industrieanlage]]

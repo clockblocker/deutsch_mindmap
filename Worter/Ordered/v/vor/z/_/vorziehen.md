@@ -29,4 +29,4 @@ PI: [[vorziehend]], PII: [[vorgezogen]], Zu+inf: [[vorzuziehen]]
 [[vorziehen]] - [[vor]] = [[ziehen]] / to prefer, to choose before, to draw forward
 
 ---
-[[Vorziehen]], [[Vorzug]], [[Präferenz]], [[Bevorzugung]], [[vorziehbar]]
+[[Vorziehen]], [[Vorzug]], [[Präferenz]], [[Bevorzugung]], [[vorziehbar]], [[vorschieben]]

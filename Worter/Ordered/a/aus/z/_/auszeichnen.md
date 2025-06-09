@@ -4,6 +4,8 @@
 Was [[auszeichnet|zeichnet]] Künstlerinnen und Künstler aus?
 *(What [[distinguishes]] artists?)*
 
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Was [[auszeichnet|zeichnet]] den High Line Park aus?
+
 ---
 = [[ehren]], [[prämieren]], [[würdigen]]
 ≈ [[anerkennen]], [[loben]], [[ausgeben]], [[verleihen]], [[ehren]], [[Bundesverdienstkreuz]], [[loben]], [[ausgezeichnet]], [[Auszeichnung]], [[belohnen]], [[krönen]]

@@ -1,1 +1,1 @@
-[[Sorte]], [[Möglichkeit]], [[Version]], [[Sonderform]], [[Suchtform]], [[Alternative]]
+[[Sorte]], [[Möglichkeit]], [[Version]], [[Sonderform]], [[Suchtform]], [[Alternative]], [[Fahrzeugtyp]]

@@ -34,3 +34,4 @@ Einzigartige mögliche Formen:
 [[artigste]], [[artigster]], [[artigste]], [[artigstes]], [[artigsten]], [[artigstem]], [[artigster]], [[artigsten]], [[großartig]], [[weltfremd]]
 , [[aufsässig]]
 , [[rebellisch]], [[einzigartig]], [[derartig]], [[Eigenart]]
+, [[schlagartig]]

@@ -1,1 +1,1 @@
-, [[differenziert]]
+, [[differenziert]], [[pauschal]]

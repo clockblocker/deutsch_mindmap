@@ -5,8 +5,13 @@
 ---
 Alle [[angrenzenden]] [[Feld]]er [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] [[Gift]] pro [[Stufe]]
 
+*[[C1-Hoehen-T3-401-Text#^3|^]]* Die Landflucht [[verursacht]] eine fallende [[Geburtenrate]]
+
+*[[C1-Hoehen-T2-102-Text#^30|^]]* Bosch stellte vor einigen Jahren die sogenannte [[Bremsscheibe]] 2.0 her, die bis zu 90% weniger [[Abrieb]] [[verursacht]]
+
 *[[C1-Lesen-432-Text#^26|^]]*  Zu groß wäre die Gefahr eines Arbeitsunfalls, [[verursacht]] durch solche Accessoires
 
+*[[C1-Hoehen-T2-102-Text#^9|^]]* Aber ich will auch sagen, dass nicht nur ein [[Fahrzeugtyp]] die Verantwortung trägt, denn [[Feinstaub]] wird sowohl von Diesel, Benziner aber auch von E-Autos [[verursacht]]
 
 ---
 = [[bewirken]], [[auslösen]], [[hervorrufen]], [[ergeben]], [[resultieren]]

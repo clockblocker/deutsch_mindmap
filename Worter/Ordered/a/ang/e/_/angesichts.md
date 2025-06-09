@@ -26,3 +26,4 @@ in view of, in the face of
 [[an]]|[[gesicht]]|`s`
 [[angesichts]]
 
+, [[hinsichtlich]]

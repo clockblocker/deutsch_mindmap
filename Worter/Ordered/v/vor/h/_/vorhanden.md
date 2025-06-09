@@ -5,6 +5,11 @@
 ---
 Unser Großraumbüro ist für sieben Personen [[ausgelegt]], [[sodass]] für den neuen Kollegen [[kaum]] Arbeitsraum [[vorhanden]] ist. 
 
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne Stadtplanung sollte schon [[Vorhandenes]] neu [[gestalten]]
+*(Modern urban planning should redesign what is already [[existing]])*
+
+
+
 *[[C1-Lesen-411-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[fähig]]
 
 Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]. ^5

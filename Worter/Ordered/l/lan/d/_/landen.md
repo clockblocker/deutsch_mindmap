@@ -1,9 +1,11 @@
 🛬 [[landen]], [ˈlandn̩](https://youglish.com/pronounce/landen/german) | [[landete]], haben [[gelandet]]
 
 ---
-Katara und Sokka fliegen in hohem Bogen aus dem Boot und [[landen]] auf einer großen Scholle.
+Katara und Sokka fliegen in hohem Bogen aus dem Boot und [[landen]] auf einer großen Scholle
 
-[[Einen Kater haben.md#^3|^]] Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]. ^3
+*[[C1-Hoehen-T2-102-Text#^21|^]]* Je kleiner sie sind, desto schädlicher sind sie für unsere Gesundheit und [[landen]] im [[Extremfall]] sogar in unserem Blut
+
+*[[Einen Kater haben.md#^3|^]]* Doch dann [[kommen|kamen]] immer mehr [[Freund|Freunde]] dazu, und am [[Ende]] [[landen|landeten]] alle auf einer [[cool|coolen]] [[Party]]
 
 ---
 = [[ankommen]], [[aufsetzen]], [[eintreffen]]

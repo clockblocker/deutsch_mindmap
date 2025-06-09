@@ -1,1 +1,1 @@
-, [[Ausleihen]], [[ausleihen]]
+, [[Ausleihen]], [[ausleihen]], [[Entleiher]]

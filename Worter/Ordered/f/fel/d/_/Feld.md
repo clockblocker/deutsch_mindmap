@@ -27,4 +27,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Feldes]], [[Felde]], [[Felder]], [[Feldern]]
 
 ---
-#Substantiv #Neuter, [[Hauptbereich]], [[Acker]], [[Waldabschnitt]], [[Berufsfeld]], [[Plantage]], [[Schlachtfeld]], [[Agrarfläche]]
+#Substantiv #Neuter, [[Hauptbereich]], [[Acker]], [[Waldabschnitt]], [[Berufsfeld]], [[Plantage]], [[Schlachtfeld]], [[Agrarfläche]], [[Lebensbereich]]

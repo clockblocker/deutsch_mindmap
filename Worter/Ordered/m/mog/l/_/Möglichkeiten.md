@@ -1,1 +1,1 @@
-, [[Möglichkeit]], [[ermöglichen]], [[Bildungschance]]
+, [[Möglichkeit]], [[ermöglichen]], [[Bildungschance]], [[viel Luft nach oben]]

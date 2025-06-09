@@ -4,6 +4,10 @@
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne Stadtplanung wurde bei der Rooftop-Farm nicht [[berücksichtigt]]
+*(Modern urban planning was not [[taken into account]] in the rooftop farm)*
+
+
 *[[bro-schrieben-c1-t1-003#^5|^]]* Mein [[Vorschlag]] wäre, dass man bei der Wahl eines Ziellandes [[folgend]]e Kriterien [[berücksichtig]]en muss: die [[Anforderung]]en für das [[Fachkräfte]]-Visum, die aktuelle Situation auf dem Arbeits- und [[Wohnungsmarkt]] und [[potenziell]]e [[Gehaltsausgabe]]n
 
 *[[102-C1-Schreiben-T1#^8|^]]* Abschließend lässt sich sagen, dass neben den [[Auswirkung]]en auf die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, um realistische persönliche Maßnahmen gegen den [[Klimawandel]] [[vorzuschlagen]]

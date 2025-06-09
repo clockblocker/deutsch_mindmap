@@ -1,1 +1,1 @@
-, [[Besitzer]]
+, [[Besitzer]], [[Entleiher]]

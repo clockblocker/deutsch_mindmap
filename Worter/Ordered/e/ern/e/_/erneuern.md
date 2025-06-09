@@ -75,3 +75,4 @@ Adjektive: [[erneuernd]], [[erneuernder]], [[erneuerndst]]
 [[erneuernder]], [[erneuerndes]], [[erneuernde]], [[erneuernden]], [[erneuerndem]], [[erneuernderer]], [[erneuernderes]], [[erneuerndere]], [[erneuernderen]], [[erneuernderem]], [[erneuerndster]], [[erneuerndstes]], [[erneuerndste]], [[erneuerndsten]], [[erneuerndstem]]
 
 , [[wiederum]], [[Wiedergutmachung]]
+, [[umgestalten]]

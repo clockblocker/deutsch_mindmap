@@ -1,8 +1,12 @@
 ➡️ [[übertragen]], [ˈyːbɐˌtʁaːɡn̩](https://youglish.com/pronounce/übertragen/german) → [[übertragen]] → [[übertragen]]
 
 ---
-Der Atem wird im Körper zu Energie umgewandelt. 
+Der Atem wird im Körper zu Energie umgewandelt
+
 Die Energie [[überträgt]] sich direkt auf die [[Gliedmaße]]n und wird zu Feuer!
+
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Was für [[Tätigkeit]]en werden [[geliehen]]em Personal gern [[übertragen]]?
+*(What [[activities]] are temporary staff often [[assigned]] to?)*
 
 [[Renommiert]]e [[Wissenschaftler]]:innen konnten hier ihre [[Theorie]]n `in` die [[Praxis]] [[übertragen]]
 

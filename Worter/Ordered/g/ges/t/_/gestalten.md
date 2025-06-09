@@ -9,6 +9,11 @@ haben [[gestaltet]]
 Beethovens Zehnte Symphonie ist von KI unter [[Verwendung]] [[erlernter]] Originalmotive [[gestaltet]] worden
 *(Beethoven's Tenth Symphony has been [[created]] by AI using [[learned]] original motifs.)*
 
+
+*[[C1-Hoehen-T3-401-Text#^2|^]]* Moderne Stadtplanung sollte schon [[Vorhandenes]] neu gestalten
+*(Modern urban planning should redesign what is already [[existing]])*
+
+
 _[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^7|^]]_ Es ist ihre [[Pflicht]], sowohl auf [[ergonomisch]] [[gestaltete]] Arbeitsplätze als auch auf psychologische [[Unterstützungsangebote]] zu achten
 
 _[[C1-Hoehen-T2-203-Text#^6|^]]_ Man hat zu Beginn versucht, mit [[Fragebogen]] diese [[Zeitdauer]] zu [[ermitteln]], was sich jedoch als [[recht]] schwierig [[gestaltete]], denn die [[Einschätzung]]en der Probandinnen und Probanden waren sehr subjektiv und am Ende meist falsch
@@ -55,4 +60,4 @@ Partizip I: [[gestaltend]], Partizip II: [[gestaltet]]
 
 [[arrangieren]], [[bilden]]
 , [[erscheinen]], [[prägen]], [[malen]], [[verwandeln]], [[designen]], [[ausarbeiten]], [[Preisgestaltung]]
-, [[planen]], [[verzieren]], [[mitformen]], [[erschaffen]], [[einprogrammieren]]
+, [[planen]], [[verzieren]], [[mitformen]], [[erschaffen]], [[einprogrammieren]], [[umgestalten]]

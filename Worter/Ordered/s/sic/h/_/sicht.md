@@ -28,4 +28,4 @@ G: der [[Sicht]], der [[Sichten]]
 D: der [[Sicht]], den [[Sichten]]
 
 
-#Feminin 
+#Feminin , [[voraussichtlich]], [[hinsichtlich]]

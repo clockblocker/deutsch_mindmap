@@ -31,3 +31,4 @@ Einzigartige mögliche Formen: [[Aussicht]], [[Aussichten]], [[Aussichts]], [[Au
 
 #Substantiv #Feminin
 , [[Zukunft]], [[Fenstern]], [[zusehen]]
+, [[voraussichtlich]]

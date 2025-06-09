@@ -2,6 +2,7 @@
 
 ---
 *[[C1-Hoehen-T1-102-Text#^15|^]]* Für die meisten von uns seien dies aber Themen, die uns irgendwann einmal [[begegnen]] und wir dann diesen [[Börsenhai]] oder auch unserer eigenen [[Dummheit]] [[ausgeliefert]] [[seien]]
+*(For most of us, however, these are topics that will [[encounter]] us at some point and then we will be [[at the mercy]] of this [[stock market shark]] or even our own [[stupidity]].)*
 
 ---
 = [[liefern]], [[übergeben]], [[ausliefern]], [[übergeben]], [[abgeben]], [[beliefern]], [[liefern]]

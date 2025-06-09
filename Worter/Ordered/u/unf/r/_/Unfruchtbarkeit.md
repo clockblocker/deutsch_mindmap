@@ -1,1 +1,1 @@
-, [[unfruchtbar]], [[Schwangerschaft]]
+, [[unfruchtbar]], [[Schwangerschaft]], [[Fruchtbarkeit]]

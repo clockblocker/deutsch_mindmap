@@ -24,4 +24,4 @@ G: der [[Krise]], der [[Krisen]]
 D: der [[Krise]], den [[Krisen]]  
 
 ---
-[[krisenhaft]], [[krisenfest]], [[krisensicher]], [[Krisenherd]], [[Krisenmanager]], [[Krisenmanagement]], [[Anfall]], [[Spannung]], [[Pflegenotstand]]
+[[krisenhaft]], [[krisenfest]], [[krisensicher]], [[Krisenherd]], [[Krisenmanager]], [[Krisenmanagement]], [[Anfall]], [[Spannung]], [[Pflegenotstand]], [[Wirtschaftskrise]]

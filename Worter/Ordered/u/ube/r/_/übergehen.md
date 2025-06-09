@@ -1,7 +1,9 @@
 🚶 [[übergehen]], [ˈyːbɐˌɡeːən](https://youglish.com/pronounce/übergehen/german) → [[ging über]] → ist/haben [[übergegangen]]
 
 ---
-*[[C1-Lesen-T2-101-Text#^20|^]]* Die Kids [[beschäftigen]] sich dann [[oberflächlich]] mit einem Spielzeug und [[übergehen|gehen]] einfach zum nächsten über. ^20
+*[[C1-Lesen-T2-101-Text#^20|^]]* Die Kids [[beschäftigen]] sich dann [[oberflächlich]] mit einem Spielzeug und [[übergehen|gehen]] einfach zum nächsten über
+
+*[[C1-Hoehen-T3-400-Text#^35|^]]* Mmm. Ich habe neulich gelesen, dass die [[Einarbeitung]] des [[geliehen]]en Personals [[meist]] [[vergleichsweise]] [[zeitaufwendig]] ist und man deshalb dazu [[übergeht]], Leiharbeiter:innen eher Hilfsarbeiten [[zuzuweisen]]
 
 
 ---

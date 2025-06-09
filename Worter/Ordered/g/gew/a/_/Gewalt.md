@@ -2,6 +2,8 @@
 die [[Gewalten]]
 
 ---
+*[[C1-Hoehen-T2-401-Text#^2|^]]* Herr Gröner [[hervorhebt|hebt]] die [[Notwendigkeit]] des [[Handeln]]s in Fällen öffentlicher [[Gewalt]] hervor
+*(Mr. Gröner [[emphasizes]] the necessity of [[acting]] in cases of public [[violence]].)*
 
 Es gibt Menschen, die immer bekommen, was sie wollen, ganz ohne [[Druck]] oder [[Gewalt]]. Sie haben ein ganz [[besonderes]] Talent, andere zu manipulieren, ohne dass diese es wirklich [[merken]]. Aber wie machen sie das?
 

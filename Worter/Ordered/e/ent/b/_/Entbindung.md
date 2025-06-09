@@ -1,1 +1,1 @@
-, [[Abtreibung]]
+, [[Abtreibung]], [[entbinden]], [[entbinden]]

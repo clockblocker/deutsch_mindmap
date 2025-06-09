@@ -1,1 +1,1 @@
-, [[annehmen]], [[voraussetzen]]
+, [[annehmen]], [[voraussetzen]], [[vermutlich]], [[voraussichtlich]]

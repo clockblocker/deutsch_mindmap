@@ -32,4 +32,4 @@ D: dem [[Anfang]], den [[Anfängen]]
 ---
 [[anfangen]], [[anfänglich]], [[Anfänger]], [[Anfangsbuchstabe]], [[Anfangsphase]],  [[Strecke]], [[Abspann]], [[Schlusssatz]], [[Neuanfang]], [[Briefanfang]], [[Pitch]], [[Vorarbeit]], [[Garaus]], [[von vornherein]], [[Ausgang]]
 
-#Maskulin , [[bro-schrieben-c1-t1-002]], [[wieder von vorn]]
+#Maskulin , [[bro-schrieben-c1-t1-002]], [[wieder von vorn]], [[Beendigung]]

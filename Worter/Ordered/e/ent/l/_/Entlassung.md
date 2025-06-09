@@ -10,7 +10,7 @@ die [[Entlassungen]]
 
 ---
 = [[Kündigung]], [[Freilassung]], [[Abschied]]
-≈ [[Ausscheiden]], [[Beendigung]], [[Wegschicken]],[Kündigungsschutzklage]]
+≈ [[ausscheiden]], [[Beendigung]], [[Wegschicken]],[Kündigungsschutzklage]]
 ≠ [[Einstellung]], [[Anstellung]], [[Beschäftigung]]
 
 ---

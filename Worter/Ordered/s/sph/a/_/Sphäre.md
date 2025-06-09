@@ -1,1 +1,1 @@
-, [[Himmel]], [[Kugel]], [[Ebene]]
+, [[Himmel]], [[Kugel]], [[Ebene]], [[Lebensbereich]]

@@ -61,3 +61,4 @@ PI: [[lassend]], PII: [[gelassen]], Zu+inf: [[zu lassen]]
 [[Erlaubnis]], [[Zulassung]], [[Toleranz]], [[Passivität]], [[Genehmigung]]
 
 [[stören]], [[Quirlen]], [[umschalten]], [[ändern]], [[tun]], [[stehen lassen]], [[versuchen]], [[wechseln]], [[sehen lassen]], [[gestrichen]], , [[einlassen]], [[entlassen]], [[unterlassen]], [[einlassen]], [[Nachlass]], [[nachlassen]], [[hinterlassen]]
+, [[Überlassung]]

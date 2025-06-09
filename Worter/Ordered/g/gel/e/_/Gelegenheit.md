@@ -7,6 +7,8 @@ die [[Gelegenheiten]]
 ---
 *[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]
 
+*[[C1-Hoehen-T3-400-Text#^14|^]]* Stattdessen bieten wir ihnen die [[Gelegenheit]], eine schwierige Zeit zu [[überbrücken]] und vielleicht einen Sprung in ihrer Karriere zu machen.
+
 *[[bro-schrieben-c1-t1-004#^6|^]]* Außerdem bekommt man dabei [[Gelegenheit]], ein bisschen mehr das Leben zu [[genießen]] und als Jugendliche länger und ziemlich [[sorglos]] nach einer idealen [[Arbeitsstelle]] zu suchen. ^6
 
 

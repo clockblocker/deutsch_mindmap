@@ -1,1 +1,1 @@
-, [[Schulform]]
+, [[Schulform]], [[Ausbildungssystem]]

@@ -7,6 +7,9 @@ die [[Tätigkeiten]]
 ---
 *[[C1-Hoehen-T2-203-Text#^36|^]]* Man [[räumt]] dieser [[Tätigkeit]] immer mehr Raum in seinem Alltag ein zu [[Last]]en von anderen Aktivitäten, die man früher gern gemacht hat oder zu [[Last]]en der beruflichen [[Verpflichtung]]en
 
+*[[C1-Hoehen-T3-400-Text#^2|^]]* Was für [[Tätigkeit]]en werden [[geliehen]]em Personal gern [[übertragen]]?
+*(What [[activities]] are temporary staff often [[assigned]] to?)*
+
 *[[C1-Hoehen-T2-301-Text#^22|^]]* Praktisch könnte das bedeuten, dass es gute [[Wahlmöglichkeit]]en zwischen verschiedenen sinnvollen, [[gemeinnützig]]en [[Tätigkeit]]en gibt, die auch korrekt bezahlt werden
 
 *[[C1-Hoehen-T2-100-Text#^25|^]]* Ich könnte mit etwas Ruhe und Zeit der [[Tätigkeit]] nachgehen, die mich interessiert, wäre [[unabhängig]]er von [[Zwängen]], könnte mich leichter in meiner Arbeit [[verwirklichen]]

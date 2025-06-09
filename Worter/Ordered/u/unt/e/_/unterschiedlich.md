@@ -48,3 +48,4 @@ Plural: [[unterschiedlichen]], [[unterschiedlicheren]], [[unterschiedlichsten]]
 
 [[Unterschiedlichkeit]], [[unterschiedlich]], [[unterschiedlich sein]]
 [[andere]], [[anders]], [[verschiedene]], [[differenziert]], [[gleichnamig]]
+, [[gleichermaßen]]

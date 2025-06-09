@@ -49,4 +49,4 @@ Zu+infinitive: [[zu leisten]]
 [[Leistung]], [[Leistungsträger]], [[Leistungsfähigkeit]], [[Leistungssport]], [[Selbstleistung]]
 
 , [[vorstellen]], [[anlegen]], [[Reparationsleistung]], [[erfüllen]], [[übernehmen]], [[Dienstleistung]], [[Sozialleistung]], [[Ableisten]]
-, [[Vermögen]]
+, [[Vermögen]], [[Hilfe leisten]]

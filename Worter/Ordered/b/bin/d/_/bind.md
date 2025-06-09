@@ -1,1 +1,1 @@
-, [[binden]], [[verbinden]], [[Verbindung]], [[unterbinden]], [[Bindung]], [[Kundenbindung]]
+, [[binden]], [[verbinden]], [[Verbindung]], [[unterbinden]], [[Bindung]], [[Kundenbindung]], [[entbinden]], [[entbinden]], [[gegenüberentbinden]]

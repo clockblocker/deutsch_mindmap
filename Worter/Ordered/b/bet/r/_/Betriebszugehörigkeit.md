@@ -7,7 +7,7 @@
 ---
 = [[Dienstalter]], [[Firmenzugehörigkeit]]
 ≈ [[Anstellung]], [[Beschäftigung]], [[Arbeitsverhältnis]]
-≠ [[Entlassung]], [[Kündigung]], [[Ausscheiden]]
+≠ [[Entlassung]], [[Kündigung]], [[ausscheiden]]
 
 ---
 length of service, tenure  

@@ -23,4 +23,4 @@ Einzigartige mögliche Formen: [[Scholles]], [[Scholle]], [[Schollen]], [[Scholl
 
 ---
 #Substantiv #Maskulin
-'''
+''', [[verschollen]]

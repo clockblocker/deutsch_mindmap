@@ -25,4 +25,4 @@ vital, essential
 Adjektive: [[lebenswichtig]], [[lebenswichtiger]], [[lebenswichtigst]]
 
 ---
-[[lebenswichtiger]], [[lebenswichtiges]], [[lebenswichtige]], [[lebenswichtigen]], [[lebenswichtigem]], [[lebenswichtigerer]], [[lebenswichtigeres]], [[lebenswichtigere]], [[lebenswichtigeren]], [[lebenswichtigerem]], [[lebenswichtigster]], [[lebenswichtigstes]], [[lebenswichtigste]], [[lebenswichtigsten]], [[lebenswichtigstem]]
+[[lebenswichtiger]], [[lebenswichtiges]], [[lebenswichtige]], [[lebenswichtigen]], [[lebenswichtigem]], [[lebenswichtigerer]], [[lebenswichtigeres]], [[lebenswichtigere]], [[lebenswichtigeren]], [[lebenswichtigerem]], [[lebenswichtigster]], [[lebenswichtigstes]], [[lebenswichtigste]], [[lebenswichtigsten]], [[lebenswichtigstem]], [[Lebensbereich]]

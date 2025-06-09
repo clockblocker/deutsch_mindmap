@@ -1,4 +1,4 @@
-[[0-C1-Hoehen-T1-Ubung-List|Ubung-List]]
+ [[0-C1-Hoehen-T1-Ubung-List|Ubung-List]]
 
 ---
 ![[002_PT_Goethe_C1 1.mp3]]
@@ -15,33 +15,33 @@ c Buch 3 – Raus aus der Wohnung – und jetzt?
 
 1 Das Buch stellt negative und positive [[Entwicklung]]en auf dem [[Wohnungsmarkt]] gegenüber
 a Buch 1  
-b Buch 2 -
+b Buch 2 +
 c Buch 3
 
 2 Neben der [[Darstellung]] sozialer Probleme werden auch [[juristische]] Fragen [[behandelt]].  
 a Buch 1  
-b Buch 2 
-c Buch 3  -
+b Buch 2  
+c Buch 3 + 
 
 3 Der [[Zusammenhang]] zwischen [[Wohnungsknappheit]] und den [[allgemeinen]] Regeln der [[Marktwirtschaft]] wird erläutert.
 a Buch 1  
-b Buch 2 -
-c Buch 3
+b Buch 2 +
+c Buch 3 
 
 4 Ideen für eine andere [[Wohnungspolitik]] werden [[unterbreitet]].  
 a Buch 1  
 b Buch 2  
-c Buch 3 -
+c Buch 3 + 
 
 5 Man [[erfährt]] etwas über die Geschichte des [[Stadtteils]]
-a Buch 1 -
+a Buch 1 +
 b Buch 2  
 c Buch 3
 
 6 Hier kommen mehrere [[Betroffene]] zu Wort.  
 a Buch 1  
 b Buch 2  
-c Buch 3 -
+c Buch 3 +
 
 
 ---

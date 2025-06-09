@@ -1,1 +1,1 @@
-, [[Verbesserung]], [[verschlechtern]], [[Überbrückung]]
+, [[Verbesserung]], [[verschlechtern]], [[Überbrückung]], [[Linderung]]

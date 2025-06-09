@@ -27,4 +27,4 @@ A: die [[Herstellung]], die [[Herstellungen]]
 G: der [[Herstellung]], der [[Herstellungen]]
 D: der [[Herstellung]], den [[Herstellungen]]
 
-#Feminin 
+#Feminin , [[Automobilhersteller]]

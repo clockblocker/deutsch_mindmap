@@ -5,6 +5,8 @@
 ---
 *[[C1-Hoehen-T2-100-Text#^10|^]]* Diese werden aber oft erst nach einer [[aufwändig]]en Prüfung durch das Jobcenter zur [[Sicherung]] der Existenz [[genehmigt]]
 
+*[[C1-Hoehen-T3-400-Text#^4|^]]* Weiterbildung für die Leiharbeiter muss von der [[Bundesagentur]] für Arbeit [[genehmigt]] werden
+
 ---
 = [[billigen]], [[bewilligen]], [[erlauben]], [[gestatten]], [[erlaubt]], [[einverstanden]]
 ≈ [[akzeptieren]], [[zulassen]], [[autorisieren]]

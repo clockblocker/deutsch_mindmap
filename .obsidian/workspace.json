@@ -4,100 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "8f06854e6e0809dd",
+        "id": "005596154875feb5",
         "type": "tabs",
-        "dimension": 81.65137614678899,
+        "dimension": 69.94906621392191,
         "children": [
           {
-            "id": "58e287b259c00b6f",
+            "id": "a483fac07c5dd1a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/Ubungen/C1-Lesen-T3-4/C1-Lesen-432/C1-Lesen-432-Unmarked-Text.md",
+                "file": "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-401/C1-Hoehen-T3-401-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-432-Unmarked-Text"
+              "title": "C1-Hoehen-T3-401-Text"
             }
           },
           {
-            "id": "da267e0a2429bea6",
+            "id": "d247d0645837c9c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1-Lesen/Lesen-C1-Teils.md",
+                "file": "Worter/computergesteuert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesen-C1-Teils"
-            }
-          },
-          {
-            "id": "5ec8f4ee31ba6b6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1-Lesen/C1-Lesen-T3/0-C1-Lesen-T3-Ubung-List.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0-C1-Lesen-T3-Ubung-List"
-            }
-          },
-          {
-            "id": "264cb33da42a8247",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-409/C1-Hoehen-T4-409-Unmarked-Text.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Hoehen-T4-409-Unmarked-Text"
-            }
-          },
-          {
-            "id": "c200e8d4805e446b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worter/Ordered/b/bei/b/_/Beibehaltung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beibehaltung"
+              "title": "computergesteuert"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "b0202586b6ed89c4",
+        "id": "cdb5fead9e34a8b4",
         "type": "tabs",
-        "dimension": 18.34862385321101,
+        "dimension": 30.050933786078097,
         "children": [
           {
-            "id": "2e4eb7b4c7b7ae02",
+            "id": "2686e56b6304d363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1-Lesen/C1-Lesen-T2/Ubungen/C1-Lesen-T2-2/C1-Lesen-T2-201/C1-Lesen-T2-201-Text.md",
+                "file": "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-401/C1-Hoehen-T3-401-Loesung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Lesen-T2-201-Text"
+              "title": "C1-Hoehen-T3-401-Loesung"
             }
           }
         ]
@@ -157,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5004348754883
+    "width": 238.50271224975586
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -251,44 +208,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "264cb33da42a8247",
+  "active": "a483fac07c5dd1a3",
   "lastOpenFiles": [
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-409/C1-Hoehen-T4-409-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-409/C1-Hoehen-T4-409-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-410/C1-Hoehen-T4-410-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-410/C1-Hoehen-T4-410-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-410/C1-Hoehen-T4-410-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-408/C1-Hoehen-T4-408-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-408/C1-Hoehen-T4-408-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-408/C1-Hoehen-T4-408-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-407/C1-Hoehen-T4-407-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-407/C1-Hoehen-T4-407-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-407/C1-Hoehen-T4-407-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-406/C1-Hoehen-T4-406-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-406/C1-Hoehen-T4-406-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-406/C1-Hoehen-T4-406-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-405/C1-Hoehen-T4-405-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-405/C1-Hoehen-T4-405-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-405/C1-Hoehen-T4-405-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-404/C1-Hoehen-T4-404-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-404/C1-Hoehen-T4-404-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-404/C1-Hoehen-T4-404-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-403/C1-Hoehen-T4-403-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-403/C1-Hoehen-T4-403-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-403/C1-Hoehen-T4-403-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-402/C1-Hoehen-T4-402-Unmarked-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-402/C1-Hoehen-T4-402-Text.md",
-    "C1 Hoeren/C1-Hoehen-T4/Ubungen/C1-Hoehen-T4-4/C1-Hoehen-T4-402/C1-Hoehen-T4-402-Loesung.md",
-    "Worter/Ordered/e/epi/_",
-    "Worter/Ordered/m/mol/e",
-    "Worter/Ordered/g/gen/f",
-    "Worter/Ordered/f/fur/i",
-    "Worter/Ordered/r/rli/c",
-    "Worter/Ordered/r/rli",
-    "Worter/Ordered/k/kra/k",
-    "Worter/Ordered/c/cod/i",
-    "Worter/Ordered/z/zut/i",
-    "Worter/Ordered/s/sal/d",
+    "Worter/Schadstoffausstoßes.md",
+    "C1 Hoeren/C1-Hoehen-T3/Ubungen/C1-Hoehen-T3-4/C1-Hoehen-T3-401/C1-Hoehen-T3-401-Text.md",
+    "Worter/computergesteuert.md",
+    "Worter/Ordered/c/c1h/o/C1-Hoehen-T3-401-Text#^3.md",
+    "Worter/Ordered/c/c1h/o/C1-Hoehen-T3-401-Text#^2.md",
+    "Worter/Ordered/c/c1h/o/C1-Hoehen-T3-401-Text#^1.md",
+    "Worter/Ordered/c/com/p/computergesteuertestem.md",
+    "Worter/Ordered/c/com/p/computergesteuertesten.md",
+    "Worter/Ordered/c/com/p/computergesteuerteste.md",
+    "Worter/Ordered/c/com/p/computergesteuertestes.md",
+    "Worter/Ordered/c/com/p/computergesteuertester.md",
+    "Worter/Ordered/c/com/p/computergesteuerterem.md",
+    "Worter/Ordered/c/com/p/computergesteuerteren.md",
+    "Worter/Ordered/c/com/p/computergesteuertere.md",
+    "Worter/Ordered/c/com/p/computergesteuerteres.md",
+    "Worter/Ordered/c/com/p/computergesteuerterer.md",
+    "Worter/Ordered/c/com/p/computergesteuertem.md",
+    "Worter/Ordered/c/com/p/computergesteuerten.md",
+    "Worter/Ordered/c/com/p/computergesteuerte.md",
+    "Worter/Ordered/c/com/p/computergesteuertes.md",
+    "Worter/Ordered/c/com/p/computergesteuertest.md",
+    "Worter/Ordered/c/com/p/computergesteuerter.md",
+    "Worter/Ordered/a/aut/o/automatisiert.md",
+    "Worter/Ordered/r/rec/h/rechnergestützt.md",
+    "Worter/Ordered/c/com/p/computerbasiert.md",
+    "Worter/Ordered/a/anz/u/_/anzupassen.md",
+    "Worter/Ordered/s/sto/d",
+    "Worter/Ordered/m/mob/t",
+    "Worter/Ordered/m/mob/_",
+    "Worter/Ordered/m/mob/b",
+    "Worter/Ordered/b/boo/m",
+    "Worter/Ordered/k/kfz/h",
+    "Worter/Ordered/a/aml/i",
+    "Worter/Ordered/p/pne/u",
+    "Worter/Ordered/p/pne",
+    "Worter/Ordered/g/gum/m",
+    "Anhänge/Pasted image 20250608062300.png",
+    "Anhänge/Pasted image 20250608053652.png",
     "Anhänge/Pasted image 20250606084333.png",
     "Anhänge/Pasted image 20250606084249.png",
     "Anhänge/Pasted image 20250606072126.png",
@@ -296,8 +255,6 @@
     "Anhänge/Pasted image 20250606064714.png",
     "Anhänge/Pasted image 20250606055302.png",
     "Anhänge/Pasted image 20250606051822.png",
-    "Anhänge/Pasted image 20250606043334.png",
-    "Anhänge/Pasted image 20250606032304.png",
-    "Anhänge/Pasted image 20250606032244.png"
+    "Anhänge/Pasted image 20250606043334.png"
   ]
 }

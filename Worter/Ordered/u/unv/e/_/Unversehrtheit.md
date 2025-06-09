@@ -1,2 +1,2 @@
 , [[Unantastbarkeit]]
-, [[Scherb]]
+, [[Scherb]], [[Verletzung]]

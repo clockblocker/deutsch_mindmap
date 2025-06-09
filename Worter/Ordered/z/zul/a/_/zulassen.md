@@ -3,13 +3,14 @@
 ✅ [[zulassen]], [ˈtsuːˌlasn̩](https://youglish.com/pronounce/zulassen/german) → [[ließ zu]] → [[zugelassen]]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^34|^]]* Das ist im Grunde genommen eine langfristige Rotation, die leider Gottes laut [[Betriebsvereinbarung]]en [[zugelassen]] wird
 
 _[[C1-Hoehen-T2-203-Text#^19|^]]_ So [[entsteht]] ein Profil über jeden Nutzer, welches sogar [[Prognose]]n über [[künftig]]es [[Kaufverhalten]] [[zulässt]]
 
 ---
 
 = [[genehmigen]], [[erlauben]], [[gestatten]]
-≈ [[bewilligen]], [[autorisieren]], [[akzeptieren]]
+≈ [[bewilligen]], [[autorisieren]], [[akzeptieren]], [[wahlberechtigt]], [[verbannt]], 
 ≠ [[verbieten]], [[untersagen]], [[verweigern]]
 , [[zugeben]], [[beißen]], [[verbieten]], [[lassen]], [[wehrten]], [[erlauben]], [[Zulassungsgrenze]], [[hineinlassen]], [[ermöglichen]], [[gewähren]], [[dürfen]], [[einlassen]], [[aufhalten]], [[verhindern]]
 
@@ -69,4 +70,4 @@ Adjektive: [[zulassend]], [[zulassender]], [[zulassendst]]
 ---
 
 [[zulassender]], [[zulassendes]], [[zulassende]], [[zulassenden]], [[zulassendem]], [[zulassenderer]], [[zulassenderes]], [[zulassendere]], [[zulassenderen]], [[zulassenderem]], [[zulassendster]], [[zulassendstes]], [[zulassendste]], [[zulassendsten]], [[zulassendstem]], [[freigeben]], [[einlassen]], [[verdrängen]], [[drängen]], [[unterbinden]], [[freischalten]], [[unzulässig]]
-, [[verhüten]]
+, [[verhüten]], [[abhalten]]

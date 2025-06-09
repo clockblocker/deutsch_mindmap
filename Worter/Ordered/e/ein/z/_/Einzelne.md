@@ -34,3 +34,5 @@ D: dem [[einzelnen]], den [[einzelnen]]
 [[einzeln]], [[Einzelheit]], [[Einzelfall]], [[Einzelgänger]], [[vereinzeln]], [[Meinungsäußerung]], [[mehrere]]
 
 #Maskulin 
+
+

@@ -1,6 +1,8 @@
 [[decken]] + Akk, [ˈdɛkn̩]
 
 ---
+*[[C1-Hoehen-T3-400-Text#^32|^]]* Ihnen ist aber schon klar, dass der Bedarf so meist nicht [[gedeckt]] wird, oder?
+*(But you do realize that the need is usually not [[met]] that way, don't you?)*
 
 _[[C1-Hoehen-T3-301-Text#^29|^]]_ Man hört ja immer wieder von Politikern,
 man `könne` den [[Bedarf]] `durch` [[gezielt]]e [[Zuwanderung]] [[decken]]

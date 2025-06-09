@@ -1,1 +1,1 @@
-, [[vermuten]]
+, [[vermuten]], [[vermutlich]]

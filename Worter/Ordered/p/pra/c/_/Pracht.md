@@ -1,1 +1,1 @@
-, [[prächtig]]
+, [[prächtig]], [[Glanz]]
