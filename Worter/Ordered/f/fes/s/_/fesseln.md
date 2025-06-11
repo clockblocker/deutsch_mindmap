@@ -55,4 +55,4 @@ sie, [[fesseln]], [[fesselten]], [[fesseln]], [[fesselten]], [[fesseln]]
 Adjektive: [[fesselnd]], [[fesselnder]], [[fesselndst]]
 
 ---
-[[fesselnder]], [[fesselndes]], [[fesselnde]], [[fesselnden]], [[fesselndem]], [[fesselnderer]], [[fesselnderes]], [[fesselndere]], [[fesselnderen]], [[fesselnderem]], [[fesselndster]], [[fesselndstes]], [[fesselndste]], [[fesselndsten]], [[fesselndstem]]
+[[fesselnder]], [[fesselndes]], [[fesselnde]], [[fesselnden]], [[fesselndem]], [[fesselnderer]], [[fesselnderes]], [[fesselndere]], [[fesselnderen]], [[fesselnderem]], [[fesselndster]], [[fesselndstes]], [[fesselndste]], [[fesselndsten]], [[fesselndstem]], [[berühren]]

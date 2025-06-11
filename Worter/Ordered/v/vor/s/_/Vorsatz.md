@@ -1,3 +1,3 @@
 , [[Absicht]], [[absichtlich]]
 , [[Flüchtigkeitsfehler]]
-, [[Sorgfaltsfehler]], [[Zufall]], [[Versehen]]
+, [[Sorgfaltsfehler]], [[Zufall]], [[Versehen]], [[vorsehen]]

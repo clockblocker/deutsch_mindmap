@@ -3,6 +3,9 @@
 ---
 Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern
 
+Umweltorganisationen sind allerdings der Meinung, dass die bis heute 
+[[ergriffen]]en [[Maßnahme]]n nicht [[ausreichen]]
+
 *[[C1-Hoehen-T3-301-Text#^31|^]]* Ein [[Allheilmittel]] kann es nicht sein und es wird sicher nicht [[ausreichen]]
 
 *[[C1-Hoehen-T3-301-Text#^23|^]]* Das ist schon richtig, aber 

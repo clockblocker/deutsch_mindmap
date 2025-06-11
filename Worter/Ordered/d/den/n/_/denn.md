@@ -1,6 +1,9 @@
 [[Grammatik-Konjunktoren-Coordinating-Kausal]]
 
 ---
+*[[C1-Lesen-412-Text#^1|^]]* Vielleicht sogar [[aufrichtiger]],  [[denn]] die Körpersprache `hat` ein [[Eigenleben]], das [[unbewusst]] [[abläuft]]
+
+NO SUBORDINATE
 
 [[Was tut denn weh?]]
 

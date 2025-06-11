@@ -3,6 +3,7 @@
 haben [[gefragt]]
 
 ---
+Die Gäste müssen dann nicht mehr `danach` [[fragen]], ob sie Reste mitnehmen dürfen, was vielen immer noch [[peinlich]] ist.  
 
 _Du hast mich [[gefragt]] und Ich hab nichts gesagt_
 

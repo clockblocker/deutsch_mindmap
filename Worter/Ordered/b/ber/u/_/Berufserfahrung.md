@@ -1,1 +1,1 @@
-, [[Berufsgruppe]], [[Berufsfeld]], [[berufserfahren]]
+, [[Berufsgruppe]], [[Berufsfeld]], [[berufserfahren]], [[Berufsstand]]

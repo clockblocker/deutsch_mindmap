@@ -32,4 +32,4 @@ G: der [[Ausstattung]], der [[Ausstattungen]]
 D: der [[Ausstattung]], den [[Ausstattungen]]
 
 
-#Feminin
+#Feminin, [[Inneneinrichtung]]

@@ -25,4 +25,4 @@ D: dem [[Bildband]], den [[Bildbänden]]
 ---
 [[Bild]], [[Bilden]], [[Illustration]], [[Buch]], [[Broschüre]], [[Band]]
 
-#Neuter , [[bilden]]
+#Neuter , [[bilden]], [[Bilderdruckpapier]]

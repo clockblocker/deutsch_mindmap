@@ -1,2 +1,2 @@
 
-, [[innerlich]], [[emotional]]
+, [[innerlich]], [[emotional]], [[inner]]

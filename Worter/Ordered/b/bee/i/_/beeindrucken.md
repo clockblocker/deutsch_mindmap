@@ -1,9 +1,10 @@
 💪 [[beeindrucken]], [beːaɪ̯nˈdʁʊkŋ] | [[beeindruckte]], haben [[beeindruckt]]
 
 ---
-[[Eindruck]]
+*[[C1-Hoehen-T1-409-Text#^6|^]]* Teuer [[erstanden]]e [[Kunstwerk]]e [[erfüllen]] allein den [[Zweck]], seine Businesspartner zu [[beeindrucken]] 
+*(Expensive [[acquired]] [[artwork]]s alone [[fulfill]] the [[purpose]] of [[impressing]] one's business partners)*
 
-[[Eigenlob stinkt.md#^2|^]] [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente. ^2
+*[[Eigenlob stinkt.md#^2|^]]* [[Selbstbewusste]] Menschen haben es leichter im Leben. Sie [[beeindrucken]] andere durch ihre [[Fähigkeiten]] und Talente
 
 ---
 = [[faszinieren]], [[begeistern]], [[erstaunen]]
@@ -31,4 +32,4 @@ ihr: [[beeindruckt]], [[beeindrucktet]], [[beeindruckt]], [[beeindrucket]], [[be
 
 ---
 [[beeindruckend]], [[beeindruckend]], [[beeindruckend]], [[beeindruckende]], [[Beeindruckung]], [[Eindruck]]
-, [[selbstbewusst]], [[unter die Haut gehen]], [[überwältigen]]
+, [[selbstbewusst]], [[unter die Haut gehen]], [[überwältigen]], [[berühren]]

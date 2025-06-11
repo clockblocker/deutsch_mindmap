@@ -5,6 +5,9 @@
 die [[Anwendungen]]
 
 ---
+*[[214-C1-Schreiben-Model#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` mich `durch` seine Pionierrolle im Bereich KI-[[Anwendung]]en hervor – genau das [[Umfeld]], in dem ich mein Praxissemester ideal [[absolvieren]] kann ^2
+
+
 Um mir dabei zu helfen, habe ich eine spezielle [[Anwendung]] geschrieben, die für Menschen, die Deutsch lernen, sehr nützlich ist.
 
 ---

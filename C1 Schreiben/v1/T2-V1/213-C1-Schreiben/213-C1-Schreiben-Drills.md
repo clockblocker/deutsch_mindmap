@@ -11,10 +11,11 @@
 
 ---
 ###### *Model*
+deren Studium den Einsatz von Laptops erfordet
 
 
 ###### *Versuch* 
-
+erheblich erschwert
 
 
 ---

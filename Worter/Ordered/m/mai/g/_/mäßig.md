@@ -27,4 +27,4 @@ moderate, mild
 Adjektive: [[mäßig]], [[mäßiger]], [[mäßigst]]
 
 ---
-[[mäßiger]], [[mäßiges]], [[mäßige]], [[mäßigen]], [[mäßigem]], [[mäßigerer]], [[mäßigeres]], [[mäßigere]], [[mäßigeren]], [[mäßigerem]], [[mäßigster]], [[mäßigstes]], [[mäßigste]], [[mäßigsten]], [[mäßigstem]], [[gleichmäßig]]
+[[mäßiger]], [[mäßiges]], [[mäßige]], [[mäßigen]], [[mäßigem]], [[mäßigerer]], [[mäßigeres]], [[mäßigere]], [[mäßigeren]], [[mäßigerem]], [[mäßigster]], [[mäßigstes]], [[mäßigste]], [[mäßigsten]], [[mäßigstem]], [[gleichmäßig]], [[zweckmäßig]]

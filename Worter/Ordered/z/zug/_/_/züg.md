@@ -1,2 +1,2 @@
 
-, [[abzüglich]]
+, [[abzüglich]], [[vorzüglich]]

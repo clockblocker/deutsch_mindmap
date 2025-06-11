@@ -6,6 +6,8 @@
 *[[C1-Lesen-421-Text#^54|^]]* Doch die Probleme Berlins bleiben [[überschaubar]]
 *(But Berlin's problems remain [[manageable]].)*
 
+Wenn die Einwohnerzahl des Fürstentums Liechtenstein mit 39.000 nur [[überschaubar]] ist, hat es doch so einiges zu [[bieten]].  
+*(If the population of the Principality of Liechtenstein with only [[modest]] 39k, it has a lot to [[offer]])*
 
 ---
 = [[verständlich]], [[überblickbar]], [[fassbar]]

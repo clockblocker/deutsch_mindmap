@@ -1,6 +1,7 @@
 🤯 [[erstaunen]], [ɛɐ̯ˈʃtaʊ̯nən] | [[erstaunte]], haben [[erstaunt]]
 
 ---
+Jedoch [[versetzt]] es nicht wenige in [[Erstaunen]] , wenn sie erfahren, dass Armstrong & Co bei der bemannten Mondlandung 1969 auch die Liechtensteiner Nationalflagge bei sich trugen.
 
 „Sie [[wickelt]] dich immer um den Finger“, sagt Peter. Sein bester Freund Leo sitzt ihm gegenüber und fragt [[erstaunt]]: „Wie meinst du das?“
 
@@ -38,3 +39,6 @@ Zu+infinifive: [[zu erstaunen]]
 
 [[Überraschen]], [[verwundern]], [[wundern]]
 , [[beeindrucken]]
+
+
+#Neuter 

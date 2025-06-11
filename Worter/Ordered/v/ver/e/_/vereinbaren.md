@@ -1,6 +1,7 @@
 🤝 [[vereinbaren]] | [[vereinbarte]], haben [[vereinbart]]
 
 ---
+*[[214-C1-Schreiben-Model#^5|^]]* *Sollten* Sie Interesse haben, *schlage ich vor, dass* wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]] 
 
 „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“
 

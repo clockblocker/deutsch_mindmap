@@ -19,3 +19,4 @@ Morphems:
 ---
 #Substantiv #Neuter, [[Schulwesen]], [[Persönlichkeit]], [[wesentlich]], [[Finanzwesen]], [[Gesundheitswesen]], [[Erscheinungsbild]]
 
+, [[Wesensart]]

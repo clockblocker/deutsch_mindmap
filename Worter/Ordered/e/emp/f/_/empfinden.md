@@ -3,7 +3,7 @@
 ---
 *[[101-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es `als` [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] auf Twitter auf 30 Minuten pro Tag zu [[beschränken]]
 
-*[[C1-Lesen-412-Text#^2|^]]* Eine zu große körperliche Nähe [[empfindet]] z. B. ein Japaner `4 als` äußerst unangebracht oder gar peinlich, wohingegen es für einen Europäer eher Vertrautheit signalisiert
+*[[C1-Lesen-412-Text#^2|^]]* Eine zu große körperliche Nähe [[empfindet]] z. B. ein Japaner `als` äußerst unangebracht oder gar peinlich, wohingegen es für einen Europäer eher Vertrautheit signalisiert
 
 *[[C1-Hoehen-T2-202-Text#^34|^]]* Viele Deutsche [[empfinden]], dass die [[Schere]] zwischen Arm und Reich immer größer wird, was ja einen guten Nährboden für Populismus bietet
 

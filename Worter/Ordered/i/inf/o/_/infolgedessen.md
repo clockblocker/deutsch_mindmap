@@ -19,3 +19,4 @@ consequently, therefore
 [[in]]|[[folge]]|`s`|[[en]]
 [[infolge]] + `s` + [[dessen]]
 
+, [[anschließend]]

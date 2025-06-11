@@ -29,3 +29,4 @@ Einzigartige mögliche Formen: [[Segens]], [[Segen]], [[Segen]], [[Segen]], [[Se
 ---
 
 #Substantiv #Maskulin[[Glückstag]], [[Glück]], [[Deutschland]], [[segnen]]
+, [[Unheil]]

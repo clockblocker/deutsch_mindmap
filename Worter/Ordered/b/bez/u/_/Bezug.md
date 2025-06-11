@@ -1,6 +1,7 @@
 🔵 der [[Bezug]], die [[Bezüge]] | `in` [[Bezug]] `auf`
 
 ---
+*[[C1-Lesen-T1-201-Text#^1|^]]* die als Biedermeier unter anderem Beispiel [[Bezug]] in Malerei und Literatur [[gehalten]] hat
 
 Die [[Sendung]] [[sensibilisiert]] die [[Konsument]]en `in` [[Bezug]] `auf` [[Billigprodukt]]e.
 

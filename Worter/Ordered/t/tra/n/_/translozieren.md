@@ -1,1 +1,1 @@
-, [[verlagern]]
+, [[verlagern]], [[versetzen]]

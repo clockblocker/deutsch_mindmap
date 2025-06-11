@@ -3,6 +3,7 @@
 haben [[weggeworfen]]
 
 ---
+Viele [[treten]] deshalb für ein Anti-Wegwerf-Gesetz ein, also ein [[Verbot]] z. B. `für` Supermärkte, Lebensmittel [[wegzuwerfen]]
 
 Miau! Mio! Miau! Mio!  
 [[wirf’s weg]]! sonst brennst du lichterloh!

@@ -1,1 +1,1 @@
-, [[Vertrautheit]]
+, [[Vertrautheit]], [[Ähnlichkeit]]

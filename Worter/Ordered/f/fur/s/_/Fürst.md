@@ -1,1 +1,1 @@
-, [[Fürstentum]], [[Monarch]], [[König]]
+, [[Fürstentum]], [[Monarch]], [[König]], [[Fürstenfamilie]]

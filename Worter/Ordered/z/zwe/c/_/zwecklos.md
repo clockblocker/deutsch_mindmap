@@ -1,1 +1,1 @@
-, [[aussichtslos]], [[vergebens]], [[unnötig]]
+, [[aussichtslos]], [[vergebens]], [[unnötig]], [[Zweck]]

@@ -2,6 +2,7 @@
 die [[Behinderungen]]
 
 ---
+Sie können langfristig zu [[schwerwiegenden]] [[Beeinträchtigung]]en der [[Leistungs]]- und Konzentrationsfähigkeit führen. Auch psychische Störungen zählen zu den Langzeitfolgen von Schlafstörungen.
 
 Viele Menschen mit [[Behinderung]] interessieren sich für ihre Arbeit und sind hochmotiviert
 

@@ -1,4 +1,4 @@
 --> ⏱️ [[Temporal-Frequenz]] <--
 
 
-, [[ausschließlich]], [[mehrere]], [[einzig]]
+, [[ausschließlich]], [[mehrere]], [[einzig]], [[Mehrzweckmöbel]]

@@ -11,6 +11,9 @@
 *[[Bevölkerungsgruppen]]* 
 *kommen konnte*
 
+[[Witzig]]es [[auftaucht|taucht]] nur am [[Rand]]e auf.
+*(Funny things [[appear]] only on the [[side]])*
+
 
 ---
 Synonyme:

@@ -1,1 +1,2 @@
 Singular: das [[Bild]]
+, [[Bilderdruckpapier]]

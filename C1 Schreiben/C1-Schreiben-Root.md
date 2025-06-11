@@ -1,4 +1,5 @@
-[[C1-Schreiben-Root]]
+  [[C1-Schreiben-Root]]
+  [[0-drills]] | [[0-LEGO]] 
 
 ---
 ---
@@ -9,16 +10,17 @@
 ###### T2-V1
 - [x] [[211-C1-Schreiben-Model|211]] Bildungsurlaub
 - [x] [[212-C1-Schreiben-Model|212]] Schließung der Kantine
-- [ ] [[213-C1-Schreiben-Model|213]] Kein Arbeitsplatz in der Bibliothek
-- [ ] [[214-C1-Schreiben-Model|214]] Praktikum
-- [ ] [[215-C1-Schreiben-Model|215]] Schlecht Urlaub
+- [x] [[213-C1-Schreiben-Model|213]] Kein Arbeitsplatz in der Bibliothek
+- [x] [[214-C1-Schreiben-Model|214]] Praktikum
+- [x] [[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Model|215]] Schlecht Urlaub
+- [x] [[216-C1-Schreiben-Model|216]] Schlecht Hotel
 
 ###### T1-V1
 - [ ] [[111-C1-Schreiben-Model|111]] Soziale Medien – Fluxh oder Segen?
 - [ ] [[112-C1-Schreiben-Model|112]] Klimaschutz – aber wie?
 - [ ] [[113-C1-Schreiben-Model|113]] Familie + Arbeit
 - [ ] [[114-C1-Schreiben-Model|114]] Carsharing
-- [ ] [[115-C1-Schreiben-Model|115]] Blue color jobs
+- [ ] [[C1 Schreiben/v1/T1-V1/115-C1-Schreiben/115-C1-Schreiben-Model|115]] Blue color jobs
 
 ---
 [[bro-s-t1-root]]

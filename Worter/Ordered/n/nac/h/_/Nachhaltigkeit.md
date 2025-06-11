@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-202-Text#^17|^]]* So werden [[Nachhaltigkeit]] und damit Klimaschutz [[erlebbar]]
 
+Immer mehr Initiativen setzen sich für [[Nachhaltigkeit]] ein.
+
 *[[C1-Lesen-T2-301-Text#^3|^]]* Es gibt einen [[Trend]] zur [[Akzeptanz]] von [[Preissteigerung]]en, wenn es um [[Nachhaltigkeit]] geht
 
 *[[C1-Lesen-T4-103-Text#^16|^]]* Doch ist unserem System auf vielen [[Ebene]]n die [[Nachhaltigkeit]] verloren gegangen

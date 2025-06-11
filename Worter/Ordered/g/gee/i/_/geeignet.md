@@ -44,3 +44,4 @@ Plural: [[geeigneten]], [[geeigneteren]], [[geeignetesten]]
 
 [[Eignung]], [[Geeignetheit]], [[Tauglichkeit]], [[Qualifikation]], [[fähig]]
 , [[gelegen]], [[Buchhaltung]], [[Datenbank]], [[Ausstattung]], [[angemessen]], [[unangemessen]], [[einsatzfähig]], [[wünschenswert]], [[praktikabel]], [[veranlagt]], [[aneignen]], [[anwendbar]], [[adäquat]], [[zurecht]]
+, [[zweckmäßig]]

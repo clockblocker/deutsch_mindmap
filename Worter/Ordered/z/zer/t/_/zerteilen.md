@@ -1,1 +1,1 @@
-[[teilen]], [[schneiden]], [[durchtrennen]], [[spalten]], [[vereinigen]]
+[[teilen]], [[schneiden]], [[durchtrennen]], [[spalten]], [[vereinigen]], [[Zerrissenheit]]

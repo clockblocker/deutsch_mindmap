@@ -55,4 +55,4 @@ sie, [[täuschen]], [[täuschten]], [[täuschen]], [[täuschten]], [[täuschen]]
 Adjektive: [[täuschend]], [[täuschender]], [[täuschendst]]
 
 ---
-[[täuschender]], [[täuschendes]], [[täuschende]], [[täuschenden]], [[täuschendem]], [[täuschenderer]], [[täuschenderes]], [[täuschendere]], [[täuschenderen]], [[täuschenderem]], [[täuschendster]], [[täuschendstes]], [[täuschendste]], [[täuschendsten]], [[täuschendstem]]
+[[täuschender]], [[täuschendes]], [[täuschende]], [[täuschenden]], [[täuschendem]], [[täuschenderer]], [[täuschenderes]], [[täuschendere]], [[täuschenderen]], [[täuschenderem]], [[täuschendster]], [[täuschendstes]], [[täuschendste]], [[täuschendsten]], [[täuschendstem]], [[flunkern]]

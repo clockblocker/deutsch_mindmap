@@ -1,1 +1,1 @@
-, [[bedürfnisorientiert]]
+, [[bedürfnisorientiert]], [[zweckmäßig]]

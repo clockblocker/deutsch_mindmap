@@ -1,1 +1,1 @@
-, [[Druck]], [[veröffentlichen]], [[Zeitdruck]], [[Drucker]], [[herausgeben]]
+, [[Druck]], [[veröffentlichen]], [[Zeitdruck]], [[Drucker]], [[herausgeben]], [[Bilderdruckpapier]]

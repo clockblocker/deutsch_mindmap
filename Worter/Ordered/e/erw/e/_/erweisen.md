@@ -3,6 +3,8 @@
 ---
 Zur Suche nach [[geeigneten]] Bewerbern kann sich ein Bewerbungsgespräch als hilfreich [[erweisen]]
 
+[[Trotz]] [[anfänglich]]er positiver [[Rückmeldung]]en [[erwies]] sich diese Regelung in der Praxis als zu kompliziert, führte sie doch oft zu längeren Diskussionen.  
+
 *[[C1-Lesen-421-Text#^40|^]]* Während sich ein besonders beliebtes Reiseziel, die Ostseeküste Mecklenburg-Vorpommerns, als Region mit hoher Tourismusakzeptanz [[erweist]], liegt Bayern mit dem Alpenvorland und seinen attraktiven Seen unter dem deutschen Durchschnitt. ^40
 
 

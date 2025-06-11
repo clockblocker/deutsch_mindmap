@@ -1,1 +1,1 @@
-, [[zustimmen]]
+, [[zustimmen]], [[Zustimmung]]

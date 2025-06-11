@@ -29,4 +29,4 @@ Dative: der [[Stirn]], den [[Stirnen]]
 ---
 [[stirnrunzeln]], [[Stirnband]], [[Stirnfalte]], [[stirnlos]], [[Wange]]
 
-#Feminin 
+#Feminin , [[an der Stirn führen]]

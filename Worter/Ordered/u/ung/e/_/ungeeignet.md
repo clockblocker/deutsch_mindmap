@@ -36,4 +36,4 @@ unsuitable, unfit
 Adjektive: [[ungeeignet]], [[ungeeigneter]], [[ungeeignetst]]
 
 ---
-[[ungeeigneter]], [[ungeeignetes]], [[ungeeignete]], [[ungeeigneten]], [[ungeeignetem]], [[ungeeigneterer]], [[ungeeigneteres]], [[ungeeignetere]], [[ungeeigneteren]], [[ungeeigneterem]], [[ungeeignetster]], [[ungeeignetstes]], [[ungeeignetste]], [[ungeeignetsten]], [[ungeeignetstem]], [[anwendbar]], [[adäquat]], [[qualifiziert]], [[unangebracht]]
+[[ungeeigneter]], [[ungeeignetes]], [[ungeeignete]], [[ungeeigneten]], [[ungeeignetem]], [[ungeeigneterer]], [[ungeeigneteres]], [[ungeeignetere]], [[ungeeigneteren]], [[ungeeigneterem]], [[ungeeignetster]], [[ungeeignetstes]], [[ungeeignetste]], [[ungeeignetsten]], [[ungeeignetstem]], [[anwendbar]], [[adäquat]], [[qualifiziert]], [[unangebracht]], [[zweckmäßig]]

@@ -36,3 +36,4 @@ D: der [[Arbeitswelt]], den [[Arbeitswelten]]
 [[arbeiten]], [[Arbeitsplatz]], [[Arbeitgeber]], [[Arbeitnehmer]], [[weltlich]], [[Arbeitsbedingungen]]
 
 #Feminin
+, [[Berufsstand]]

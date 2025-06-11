@@ -1,1 +1,1 @@
-, [[durchschnittliches]], [[üblich]], [[ungewöhnlich]]
+, [[durchschnittliches]], [[üblich]], [[ungewöhnlich]], [[traditionsgemäß]]

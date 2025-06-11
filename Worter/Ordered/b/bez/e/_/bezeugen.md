@@ -1,7 +1,6 @@
 ✍️ [[bezeugen]], [bəˈt͡sɔɪ̯ɡn̩](https://youglish.com/pronounce/bezeugen/german) → [[bezeugte]] → [[bezeugt]]
 
 ---
-testify
 
 ---
 = [[bestätigen]], [[beweisen]], [[bekunden]], [[aussagen]], [[bestätigen]]

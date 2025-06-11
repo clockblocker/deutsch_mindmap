@@ -1,1 +1,1 @@
-, [[packen]], [[Verpackung]]
+, [[packen]], [[Verpackung]], [[Zigarettenschachtel]]

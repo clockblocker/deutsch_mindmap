@@ -3,6 +3,8 @@
 ---
 *[[C1-Hoehen-T1-401-Text#^5|^]]* Ein [[unbestritten]]es Highlight der Reise ist die [[Verpflegung]], die man ohne [[Übertreibung]] als ein [[lustvoll]]es [[Eintauchen]] in mediterrane [[Esskultur]] [[bezeichnen]] darf
 
+[[Bezeichnend]] ist, dass fast zwei Drittel der Deutschen zugeben, sich von der Institution Kirche zu distanzieren.
+
 Ärzte werden auch als Doktoren [[bezeichnet]].
 
 _[[C1-Hoehen-T1-301-Text#^7|^]]_ Einen ganz anderen Weg – entschuldigen Sie bitte diesen Wortwitz – geht der zweite Podcast: „Tausende Schritte“ ist ein persönliches und sehr intimes Hör-[[Reisetagebuch]] des – wie er sich selbst [[bezeichnet]] – [[Naturpilger]]s Reinmar Wegorst

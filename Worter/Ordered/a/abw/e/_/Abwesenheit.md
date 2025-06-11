@@ -2,8 +2,9 @@
 die [[Abwesenheiten]]
 
 ---
+Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel jede [[Abwesenheit]] [[sorgfältig]] [[geprüft]] werden muss.
 
-_[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^3|^]]_ Der [[Wegfall]] langer [[Geschäftsreise]]n reduziert den Stress und den damit [[verbundenen]] physischen als auch psychischen Druck, der durch ständige [[Abwesenheiten]] [[entstehen]] kann. ^3
+_[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^3|^]]_ Der [[Wegfall]] langer [[Geschäftsreise]]n reduziert den Stress und den damit [[verbundenen]] physischen als auch psychischen Druck, der durch ständige [[Abwesenheiten]] [[entstehen]] kann
 
 ---
 

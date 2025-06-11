@@ -114,3 +114,13 @@ Doch wie sollten Sprachregeln durchgesetzt werden? In Deutschland dürfen alle M
 *[[C1-Lesen-T2-200-Text#^14|^]]* Der Autor wünscht sich, dass juristische Regelungen [[eingeführt]] werden. ^14
 
 *[[C1-Lesen-T2-200-Text#^15|^]]* Der Autor wünscht sich, dass die Auseinandersetzung zu dem Thema in Zukunft konstruktiver [[verläuft]]. ^15
+
+
+einschatzen 
+anschatzen
+wertschatzen
+
+einschatzen - to assess
+anschatzen - to estimate
+wertschatzen - to appreciate
+

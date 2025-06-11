@@ -1,7 +1,9 @@
-🔎 [[aufzeigen]], [ˈaʊ̯ft͡saɪ̯ɡn̩](https://youglish.com/pronounce/aufzeigen/german) → [[zeigte auf]] → [[aufgezeigt]]
+☝️ [[aufzeigen]], [ˈaʊ̯ft͡saɪ̯ɡn̩](https://youglish.com/pronounce/aufzeigen/german) → [[zeigte auf]] → [[aufgezeigt]]
 
 ---
 Die [[Folge]]n des [[Handeln]]s von [[Konsument]]en werden hier [[aufgezeigt]]
+
+Es wird die [[Vereinbarkeit]] von Funktion und Schönheit [[aufgezeigt]]
 
 *[[C1-Hoehen-T2-301-Text#^6|^]]* Es werden [[zuallererst]] juristische Hürden [[aufgezeigt]], die auch nicht ohne [[Weiteres]] vom Tisch [[gewischt]] werden sollten
 

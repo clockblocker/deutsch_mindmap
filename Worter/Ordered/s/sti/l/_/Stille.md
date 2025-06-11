@@ -1,4 +1,4 @@
 --> [[Ingredinet-Action-Nomen]] <--
 
 ---
-, [[Funk]], [[Ausdruck]]
+, [[Funk]], [[Ausdruck]], [[Telefonat]]

@@ -1,1 +1,1 @@
-, [[durchmogeln]], [[lügen]]
+, [[durchmogeln]], [[lügen]], [[flunkern]]

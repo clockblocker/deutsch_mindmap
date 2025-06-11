@@ -4,7 +4,7 @@
 *[[17 zu inf#^12|^]]* «Warum nach Australien?» fragte meine Frau. 
 «Aus [[Versehen]]», sagte ich
 
-*[[C1-Lesen-413-Text#^3|^]]* Aus Holz geschnitzte Krokodile und Löwen hatten [[bewegliche]] [[Unterkiefer]] und die Puppen trugen bereits Kleider und Schmuck, waren `mit` Haaren [[versehen]] und konnten ihre [[Gliedmaßen]] bewegen
+Aus Holz geschnitzte Krokodile und Löwen hatten bewegliche Unterkiefer und die Puppen trugen bereits Kleider und Schmuck, waren `mit` Haaren [[versehen]]
 *(were [[provided]] `with` hair and could move their [[limbs]])*
 
 

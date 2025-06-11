@@ -1,1 +1,1 @@
-, [[aufopfernd]]
+, [[aufopfernd]], [[Hinwendung]]

@@ -32,4 +32,4 @@ D: der [[Absicht]], den [[Absichten]]
 , [[Sorgfaltsfehler]], [[bestreben]]
 
 
-#Feminin , [[Wille]], [[Hauptziel]]
+#Feminin , [[Wille]], [[Hauptziel]], [[Zweck]]

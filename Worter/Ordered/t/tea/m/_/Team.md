@@ -3,6 +3,7 @@
 ---
 *Allerdings* *ist* sein ständiges [[Bellen]] *ein großes Problem* für unser [[Team]]: 
 
+*[[214-C1-Schreiben-Model#^4|^]]* Deshalb hoffe ich, in kurzer Zeit Ihr [[Team]] mit meinen [[Fähigkeit]]en [[bereichern]] zu können
 
 ---
 = [[Mannschaft]], [[Gruppe]], [[Truppe]]

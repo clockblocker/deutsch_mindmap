@@ -25,4 +25,4 @@ to practice
 Adjektive: [[praktizierend]], [[praktizierender]], [[praktizierendst]]
 
 ---
-[[praktizierender]], [[praktizierendes]], [[praktizierende]], [[praktizierenden]], [[praktizierendem]], [[praktizierenderer]], [[praktizierenderes]], [[praktizierendere]], [[praktizierenderen]], [[praktizierenderem]], [[praktizierendster]], [[praktizierendstes]], [[praktizierendste]], [[praktizierendsten]], [[praktizierendstem]]
+[[praktizierender]], [[praktizierendes]], [[praktizierende]], [[praktizierenden]], [[praktizierendem]], [[praktizierenderer]], [[praktizierenderes]], [[praktizierendere]], [[praktizierenderen]], [[praktizierenderem]], [[praktizierendster]], [[praktizierendstes]], [[praktizierendste]], [[praktizierendsten]], [[praktizierendstem]], [[Praktikant]]

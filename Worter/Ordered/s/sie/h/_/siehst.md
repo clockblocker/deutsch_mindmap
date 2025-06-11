@@ -1,2 +1,2 @@
 👁️ [[sehen]]
-, [[absehen]], [[zusehen]], [[voraussehen]]
+, [[absehen]], [[zusehen]], [[voraussehen]], [[vorsehen]]

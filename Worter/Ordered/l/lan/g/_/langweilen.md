@@ -57,4 +57,4 @@ sie, [[langweilen]], [[langweilten]], [[langweilen]], [[langweilten]], [[langwei
 Adjektive: [[langweilend]], [[langweilender]], [[langweiligst]]
 
 ---
-[[langweilender]], [[langweilendes]], [[langweilende]], [[langweilenden]], [[langweilendem]], [[langweilenderer]], [[langweilenderes]], [[langweilendere]], [[langweilenderen]], [[langweilenderem]], [[langweiligster]], [[langweiligstes]], [[langweiligste]], [[langweiligsten]], [[langweiligstem]], [[fesseln]]
+[[langweilender]], [[langweilendes]], [[langweilende]], [[langweilenden]], [[langweilendem]], [[langweilenderer]], [[langweilenderes]], [[langweilendere]], [[langweilenderen]], [[langweilenderem]], [[langweiligster]], [[langweiligstes]], [[langweiligste]], [[langweiligsten]], [[langweiligstem]], [[fesseln]], [[berühren]]

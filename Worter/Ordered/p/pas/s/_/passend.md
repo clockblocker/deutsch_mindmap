@@ -35,4 +35,4 @@ P: [[passenden]], [[passenderen]], [[passendsten]]
 ---
 [[passen]], [[Passform]], [[Passbild]], [[passend gemacht]], [[passgenau]]
 </ideal_output>
-, [[gelegen]], [[Anpassung]], [[zurecht]], [[bro-schrieben-c1-t1-002]]
+, [[gelegen]], [[Anpassung]], [[zurecht]], [[bro-schrieben-c1-t1-002]], [[zweckmäßig]]

@@ -1,7 +1,10 @@
 💪 [[bemühen]], [bəˈmyːən] | [[bemühte]], haben [[bemüht]]
 
 ---
-[[1 Wer bin ich und was mache ich hier?#^9|^]] Und im letzten Jahr habe ich mich maximal [[bemüht]], die Kriterien für den Erhalt eines deutschen Passes zu erfüllen. ^9
+[[1 Wer bin ich und was mache ich hier?#^9|^]] Und im letzten Jahr habe ich mich maximal [[bemüht]], die Kriterien für den Erhalt eines deutschen Passes zu erfüllen
+
+Die Autorin ist um eine [[ausgewogene]] Darstellung ihres Themas [[bemüht]]
+
 
 ---
 = [[anstrengen]], [[sich mühen]], [[sich abmühen]]

@@ -1,1 +1,1 @@
-, [[nachdenken]], [[überlegen]], [[Zweifel]], [[tüfteln]]
+, [[nachdenken]], [[überlegen]], [[Zweifel]], [[tüfteln]], [[an der Stirn führen]]

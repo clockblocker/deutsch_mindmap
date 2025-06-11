@@ -28,4 +28,4 @@ A: die [[Umwandlung]], die [[Umwandlungen]]
 G: der [[Umwandlung]], der [[Umwandlungen]]
 D: der [[Umwandlung]], den [[Umwandlungen]]
 
-#Feminin 
+#Feminin , [[Wandlung]]

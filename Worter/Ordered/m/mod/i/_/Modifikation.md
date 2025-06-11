@@ -1,1 +1,1 @@
-[[Veränderung]], [[Bearbeitung]], [[Wechsel]], [[Änderung]], [[Abweichung]], [[Anpassung]]
+[[Veränderung]], [[Bearbeitung]], [[Wechsel]], [[Änderung]], [[Abweichung]], [[Anpassung]], [[Wandlung]]

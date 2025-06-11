@@ -1,2 +1,2 @@
 , [[innerhalb]], [[Grenze]], [[Grenz]], [[verinnerlichen]]
-, [[innerlich]], [[Erscheinungsbild]]
+, [[innerlich]], [[Erscheinungsbild]], [[inner]]

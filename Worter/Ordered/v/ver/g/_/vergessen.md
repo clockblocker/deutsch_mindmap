@@ -42,4 +42,4 @@ PI: [[vergessend]], PII: [[vergessen]], Zu+inf: [[zu vergessen]]
 
 [[Vergessen]], [[Vergessenheit]], [[vergeßlich]], [[unvergessen]], [[Vergesslichkeit]], [[Wiederholung]]
 , [[verzeihen]], [[wiedererkennen]], [[wiederholen]], [[erfassen]], [[verzeichnen]], [[Gedächtnis]], [[festhalten]], [[verewigen]], [[erlernen]]
-, [[zurückblicken]]
+, [[zurückblicken]], [[Wiederentdeckung]], [[an der Stirn führen]]

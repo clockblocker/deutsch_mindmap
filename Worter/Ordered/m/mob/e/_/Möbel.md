@@ -1,3 +1,3 @@
 --> [[⛪ Ingredient-Plazt]] <--
 
-[[Schrank]], [[Sitz]], [[Stuhl]], [[Einrichtung]], [[Küchenutensil]]
+[[Schrank]], [[Sitz]], [[Stuhl]], [[Einrichtung]], [[Küchenutensil]], [[Mehrzweckmöbel]]

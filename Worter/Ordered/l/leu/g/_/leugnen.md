@@ -38,4 +38,4 @@ PI: [[leugnend]], PII: [[geleugnet]], Zu+inf: [[zu leugnen]]
 
 , [[zugeben]], [[verantworten]], [[behaupten]], [[haupten]]
 , [[gestehen]], [[aussagen]], [[versichern]], [[besagen]], [[belegen]], [[absprechen]], [[nachweisen]]
-, [[zuschreiben]]
+, [[zuschreiben]], [[wegleugnen]]

@@ -1,7 +1,7 @@
 🔗 [[gemäß]], [ɡəˈmɛːs]
 
 ---
-[[2 prap.md#^15|^]] [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[C1 Schreiben/misc/Regel]] ^15
+*[[2 prap.md#^15|^]]* [[Gemäß]] unserem [[Vorbild]], [[gemäß]] unseren [[Vereinbarungen]], [[gemäß]] dieser [[C1 Schreiben/misc/Regel]]
 
 [[erwartungsgemäß]]
 
@@ -19,4 +19,4 @@ according to, pursuant to
 
 ---
 [[Maß]], [[messen]], [[gemessen]], [[gemessen]], [[gemäßigt]]
-, [[zeitgemäß]], [[erwartungsgemäß]]
+, [[zeitgemäß]], [[erwartungsgemäß]], [[traditionsgemäß]]

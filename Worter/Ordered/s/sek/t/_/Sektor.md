@@ -31,4 +31,4 @@ D: dem [[Sektor]], den [[Sektoren]]
 
 
 
-#Neuter, [[komplett]], [[Wirtschaftsbranche]], [[Pflegesektor]], [[Berufssparte]], [[Lebensbereich]]
+#Neuter, [[komplett]], [[Wirtschaftsbranche]], [[Pflegesektor]], [[Berufssparte]], [[Lebensbereich]], [[Berufsstand]]

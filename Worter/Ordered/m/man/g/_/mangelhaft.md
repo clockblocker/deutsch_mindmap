@@ -42,4 +42,4 @@ Adjektive: [[mangelhaft]], [[mangelhafter]], [[mangelhaftest]]
 ---
 
 [[mangelhafter]], [[mangelhaftes]], [[mangelhafte]], [[mangelhaften]], [[mangelhaftem]], [[mangelhafterer]], [[mangelhafteres]], [[mangelhaftere]], [[mangelhafteren]], [[mangelhafterem]], [[mangelhaftester]], [[mangelhaftestes]], [[mangelhafteste]], [[mangelhaftesten]], [[mangelhaftestem]]
-, [[vollwertig]], [[vorbildlich]]
+, [[vollwertig]], [[vorbildlich]], [[vorzüglich]]

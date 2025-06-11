@@ -1,1 +1,1 @@
-, [[Talent]], [[veranlagt]]
+, [[Talent]], [[veranlagt]], [[Wesensart]]

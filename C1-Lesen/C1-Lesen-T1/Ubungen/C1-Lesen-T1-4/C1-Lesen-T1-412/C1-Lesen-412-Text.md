@@ -14,7 +14,7 @@ Wenn unser Körper Bände spricht
 Zwischenmenschliche Verständigung basiert vornehmlich auf sprachlicher Kommunikation. 
 Aber auch durch Gestik, Stimmlage und Berührungen, ja sogar durch Kleidung kommunizieren wir mit unseren Mitmenschen, nur eben nonverbal. 
 
-*[[C1-Lesen-412-Text#^1|^]]* Vielleicht sogar [[aufrichtiger]], `0 denn` die Körpersprache `hat` ein [[Eigenleben]], das [[unbewusst]] [[abläuft]]. ^1
+*[[C1-Lesen-412-Text#^1|^]]* Vielleicht sogar [[aufrichtiger]], `0 ...` die Körpersprache `hat` ein [[Eigenleben]], das [[unbewusst]] [[abläuft]]. ^1
 
 Schon in den ersten Sekunden einer neuen Bekanntschaft, noch vor den ersten Sätzen, entscheidet sich, `1 ...` wir jemanden sympathisch finden oder nicht, noch vor den ersten Sätzen. Mimik und Bewegung prägen zu 95 Prozent den ersten Eindruck. Der Körper sendet unmissverständliche Botschaften, und die werden von den meisten auch richtig verstanden.
 
@@ -24,7 +24,11 @@ In allen Kulturen `2 ...` der Gesichtsausdruck bei elementaren Gefühlen gleich 
 
 Bei `5 ...` jemandem sind die Hände während des Sprechens unbeteiligt. Variiert durch Temperament und regionale Eigenheiten, unterstützen die Hände das Gesagte. Schon kleine Kinder benutzen ihre Hände, noch `6 ...` sie sprechen können, um mit ihrer Umgebung zu interagieren. Ausgestreckte Kinderhände und ein Fingerzeig sind eindeutige Kommunikationszeichen.
 
-Eine starke Wirkung haben Körperhaltung und Gestik. Streckt ein Mann demonstrativ seine Brust vor, will er wohl Stärke und Selbstbewusstsein zeigen. Fährt sich eine Frau mit der Hand unentwegt durchs Haar, bekundet sie Bereitschaft auf das andere Geschlecht `7 ...`
+Eine starke Wirkung haben Körperhaltung und Gestik. Streckt ein Mann demonstrativ seine Brust vor, will er wohl Stärke und Selbstbewusstsein zeigen. Fährt sich eine Frau mit der Hand [[unentwegt]] durchs Haar, [[bekundet]] sie Bereitschaft `auf` das andere Geschlecht [[einzugehen]]
+
+If a woman runs her hand [[constantly]] through her hair, she [[shows]] readiness for the opposite sex `7 ...
+
+
 
 Auch die Art, wie man sich kleidet und schmückt, darf nicht unterschätzt werden. Es sagt viel über uns aus. Folgen wir den gängigen Gepflogenheiten? Man denke da nur an die Überlegung „Was ziehe ich an?“ vor einem Vorstellungsgespräch oder nach der Einladung zu einer Feierlichkeit. 
 *[[C1-Lesen-412-Text#^3|^]]* Oder [[entscheiden]] wir `uns` provozierend `8 gegen` den herrschenden Dresscode und geben uns unangepasst.  ^3
@@ -37,9 +41,9 @@ Durch jede Entscheidung tun wir unsere Einstellung zur Gesellschaft kund.
 
 0. 
     - [ ] a weil
-    - [ ] b [[weswegen]]
+    - [ ] *b [[weswegen]]*
     - [ ] c da
-    - [x] d denn 
+    - [ ] d denn 
 
 1. 
     - [ ] a wie
@@ -49,9 +53,9 @@ Durch jede Entscheidung tun wir unsere Einstellung zur Gesellschaft kund.
 
 2. 
     - [ ] a erscheint
-    - [ ] b scheint
-    - [ ] c sieht
-    - [ ] d bedeutet
+    - [x] b scheint
+    - [ ] *c sieht*
+    - [ ] *d bedeutet*
 
 3. 
     - [ ] a Argument
@@ -60,9 +64,9 @@ Durch jede Entscheidung tun wir unsere Einstellung zur Gesellschaft kund.
     - [ ] d Zeichen
 
 4. 
-    - [ ] a als
+    - [x] a als
     - [ ] b für
-    - [ ] c nach
+    - [ ] *c nach*
     - [ ] d wie
 
 5. 
@@ -78,8 +82,8 @@ Durch jede Entscheidung tun wir unsere Einstellung zur Gesellschaft kund.
     - [ ] d vorher
 
 7. 
-    - [ ] a zu beeindrucken
-    - [ ] b zu beeinflussen
+    - [ ] *a zu beeindrucken*
+    - [ ] *b zu beeinflussen*
     - [ ] c einzugehen
     - [ ] d anzunähern
 

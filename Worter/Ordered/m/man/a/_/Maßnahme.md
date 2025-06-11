@@ -7,6 +7,9 @@ die [[Maßnahmen]]
 ---
 Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es [[zahlreiche]] persönliche [[Maßnahme]]n `zum` [[Schutz]] der [[Umwelt]] gibt. 
 
+Umweltorganisationen sind allerdings der Meinung, dass die bis heute 
+[[ergriffen]]en [[Maßnahme]]n nicht [[ausreichen]]
+
 *[[C1-Hoehen-T4-100-Text#^25|^]]* Eine weitere [[Maßnahme]] `zum` Verbraucherschutz [[betrifft]] die [[Deutlichkeit]] der [[Preisgestaltung]]. ^25
 
 

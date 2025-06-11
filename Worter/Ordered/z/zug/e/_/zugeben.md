@@ -35,3 +35,4 @@ Partizip I: [[zugebend]], Partizip II: [[zugegeben]]
 
 [[zugeben]] - [[zu]] = [[geben]]
 , [[ablehnen]], [[gestehen]], [[zugegebenermaßen]]
+, [[wegleugnen]]

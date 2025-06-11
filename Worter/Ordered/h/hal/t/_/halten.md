@@ -1,6 +1,12 @@
 ✋ [[halten]] sich
 
 ---
+*[[C1-Lesen-T1-201-Text#^1|^]]* die als Biedermeier unter anderem Beispiel [[Bezug]] in Malerei und Literatur [[gehalten]] hat
+*(has [[held]] [[reference]] in painting and literature)*
+
+*[[C1-Lesen-416-Text#^1|^]]* Pünktlichkeit ist eine gesellschaftliche Konvention; man erwartet, dass `sich` jeder `daran` [[hält]]
+*one expects that everyone [[adheres]] `to it`*
+
 
 _[[101-C1-Schreiben-T1#^13|^]]_ [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
 

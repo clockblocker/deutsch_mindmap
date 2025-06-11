@@ -1,1 +1,2 @@
 , [[gleichzeitig]], [[hineinversetzen]]
+🤔 [[versetzen]]

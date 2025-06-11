@@ -48,4 +48,4 @@ Adjektive: [[gestehend]], [[gestehender]], [[gestehendst]]
 [[gestehender]], [[gestehendes]], [[gestehende]], [[gestehenden]], [[gestehendem]], [[gestehenderer]], [[gestehenderes]], [[gestehendere]], [[gestehenderen]], [[gestehenderem]], [[gestehendster]], [[gestehendstes]], [[gestehendste]], [[gestehendsten]], [[gestehendstem]]
 
 
-[[stehen]], [[bestreiten]], [[lügen]], [[aufrichtig]]
+[[stehen]], [[bestreiten]], [[lügen]], [[aufrichtig]], [[wegleugnen]], [[flunkern]]

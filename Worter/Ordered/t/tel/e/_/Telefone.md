@@ -1,1 +1,1 @@
-das [[Telefon]] / die [[Telefone]] | #Substantiv #Neuter | telephone
+das [[Telefon]] / die [[Telefone]] | #Substantiv #Neuter | telephone, [[Telefonat]]

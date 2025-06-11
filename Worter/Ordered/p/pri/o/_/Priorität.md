@@ -1,1 +1,1 @@
-, [[Vorfahrt]]
+, [[Vorfahrt]], [[Vorrang]]

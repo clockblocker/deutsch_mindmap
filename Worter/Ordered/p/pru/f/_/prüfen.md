@@ -1,7 +1,9 @@
 🧐 [[prüfen]], [ˈpʁyːfn̩](https://youglish.com/pronounce/prüfen/german) → [[prüfte]] → haben [[geprüft]]
 
 ---
-*[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten. ^3
+*[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten
+
+Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel jede [[Abwesenheit]] [[sorgfältig]] [[geprüft]] werden muss.
 
 
 ---

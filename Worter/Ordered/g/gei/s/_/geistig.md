@@ -32,4 +32,4 @@ P: [[geistigen]], [[geistigeren]], [[geistigsten]]
 
 ---
 [[Geist]], [[geistlos]], [[geistreich]], [[Geistesblitz]], [[geistesabwesend]]
-, [[innerlich]]
+, [[innerlich]], [[inner]]

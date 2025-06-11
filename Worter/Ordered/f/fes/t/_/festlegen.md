@@ -32,4 +32,4 @@ PI: [[festlegend]], PII: [[festgelegt]], Zu+inf: [[festzulegen]]
 [[Festlegung]], [[Bestimmung]], [[Vereinbarung]], [[Regelung]], [[festgelegt]], [[verbindlich]]
 
 [[abmachen]], [[entscheiden]], [[vereinbaren]], [[entschließen]], [[beschließen]], [[begrenzen]], [[erlassen]]
-, [[verabreden]], [[selbstauferlegen]], [[wenden]], [[umstellen]], [[abgrenzen]], [[verschieben]], [[verlagern]], [[feststehen]], [[ausmachen]], [[vorschreiben]], [[befristen]]
+, [[verabreden]], [[selbstauferlegen]], [[wenden]], [[umstellen]], [[abgrenzen]], [[verschieben]], [[verlagern]], [[feststehen]], [[ausmachen]], [[vorschreiben]], [[befristen]], [[vorsehen]]

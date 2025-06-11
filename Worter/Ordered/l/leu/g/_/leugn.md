@@ -1,1 +1,1 @@
-, [[leugnen]], [[Leugner]]
+, [[leugnen]], [[Leugner]], [[wegleugnen]]

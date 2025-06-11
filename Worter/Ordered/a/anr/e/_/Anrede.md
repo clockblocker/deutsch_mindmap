@@ -6,6 +6,8 @@ Wir sehen uns in zwei Tage==,==`Juliane`
 `Juliane`==,== wir sehen uns in zwei Tage
 Wir sehen uns==,== `Juliane`==,== in zwei Tage.
 
+Das förmliche „Sie“, stets `für` die [[Anrede]] der [[Fürstenfamilie]] vorgesehen, wird im Alltag also wenig genutzt.  
+
 
 ---
 = [[Grußformel]], [[Adressierung]]

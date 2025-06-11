@@ -3,6 +3,8 @@
 ---
 Alle [[angrenzenden]] [[Felder]] [[verursachen]] nun [[Giftschaden]]. Ein [[Stapel]] Gift pro [[Stufe]].
 
+Vielen ist der `mit` der Schweiz [[angrenzende]] Mikrostaat vielleicht durch sein Bankwesen oder Steuerschlupflöcher bekannt
+
 *[[C1-Hoehen-T1-100-Text#^24|^]]* [[Erdarbeiten]]: [[freiSchaltet|Schaltet]] [[angrenzende]] Felder des [[Ziels]] [[frei]]. Du [[erhältst]] bis zu 3 Kopien seiner Karte
 
 ---

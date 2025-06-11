@@ -1,2 +1,2 @@
 , [[vorziehen]]
-, [[bevorzugen]], [[Aufgabengerechtigkeit]], [[Vorfahrt]], [[Vorzug]]
+, [[bevorzugen]], [[Aufgabengerechtigkeit]], [[Vorfahrt]], [[Vorzug]], [[Vorrang]]

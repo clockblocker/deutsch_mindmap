@@ -38,4 +38,4 @@ G: des [[Anschlusses]], der [[Anschlüsse]]
 D: dem [[Anschluss]], den [[Anschlüssen]]
 
 
-#Maskulin , [[Stromzugang]]
+#Maskulin , [[Stromzugang]], [[anschließend]]

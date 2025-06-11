@@ -34,4 +34,4 @@ G: der [[Berufsgruppe]], der [[Berufsgruppen]]
 D: der [[Berufsgruppe]], den [[Berufsgruppen]]
 
 
-#Feminin 
+#Feminin , [[Berufsstand]]

@@ -1,2 +1,2 @@
 , [[äußern]]
-, [[innerlich]], [[intern]], [[extern]]
+, [[innerlich]], [[intern]], [[extern]], [[inner]]

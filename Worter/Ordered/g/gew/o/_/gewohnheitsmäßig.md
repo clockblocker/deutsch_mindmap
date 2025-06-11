@@ -1,1 +1,1 @@
-, [[gewöhnlich]]
+, [[gewöhnlich]], [[traditionsgemäß]]

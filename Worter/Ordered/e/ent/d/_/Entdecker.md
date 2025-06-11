@@ -1,1 +1,1 @@
-, [[Abenteurer]]
+, [[Abenteurer]], [[Wiederentdeckung]]

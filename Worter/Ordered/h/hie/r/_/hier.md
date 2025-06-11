@@ -2,4 +2,4 @@
 SASCHA: Hey, nein ... [[hier]] gibt es nur ein Schlafzimmer.
 
 [[irgendwo]], [[woanders]], [[herum]], [[bald]], [[hierfür]]
-, [[nirgendwo]], [[hiervon]], [[hierbei]], [[hiesig]], [[hierzulande]], [[hierzu]]
+, [[nirgendwo]], [[hiervon]], [[hierbei]], [[hiesig]], [[hierzulande]], [[hierzu]], [[hiergegen]]

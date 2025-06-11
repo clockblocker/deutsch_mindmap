@@ -30,4 +30,4 @@ G: des [[Umfangs]], der [[Umfänge]]
 D: dem [[Umfang]], den [[Umfängen]]
 
 
-#Maskulin , [[Taillenumfang]], [[C1-Hoehen-T3-401-Text]]
+#Maskulin , [[Taillenumfang]], [[C1-Hoehen-T3-401-Text]], [[Umfeld]]

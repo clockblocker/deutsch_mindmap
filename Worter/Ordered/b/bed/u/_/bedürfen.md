@@ -1,6 +1,8 @@
 🥺 [[bedürfen]], [bəˈdʏʁfn̩] | [[bedurfte]], haben [[bedurft]]
 
 ---
+*Umweltorganisationen sind allerdings der Meinung, dass die bis heute [[ergriffen]]en Maßnahmen nicht [[ausreichen]], und dass* 
+es noch `(Gen)` weiter==er== Maßnahmen [[bedarf]]
 
 ---
 = [[brauchen]], [[benötigen]], [[erfordern]]

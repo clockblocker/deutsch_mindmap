@@ -1,1 +1,1 @@
-, [[gemütlich]]
+, [[gemütlich]], [[Wesensart]]

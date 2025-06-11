@@ -1,1 +1,1 @@
-, [[leugnen]], [[Holocaustleugnung]], [[Leugner]]
+, [[leugnen]], [[Holocaustleugnung]], [[Leugner]], [[wegleugnen]]

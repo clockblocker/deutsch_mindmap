@@ -28,3 +28,4 @@ PI: [[beabsichtigend]], PII: [[beabsichtigt]], Zu+inf: [[zu beabsichtigen]]
 
 ---
 [[Absicht]], [[absichtlich]], [[beabsichtigt]]
+, [[vorsehen]]

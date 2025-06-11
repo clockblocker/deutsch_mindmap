@@ -34,3 +34,4 @@ Partizip I: [[telefonierend]], Partizip II: [[telefoniert]]
 
 [[telefonieren]] - pure verb without prefix
 ''', [[Telefonzelle]]
+, [[Telefonat]]

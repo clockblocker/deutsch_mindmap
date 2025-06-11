@@ -23,4 +23,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Holzes]], [[Holze]], [[Hölzer]], [[Hölzern]]
 
 ---
-#Substantiv #Neuter, [[Streichholz]], [[Holzplatte]], [[Bambus]], [[Kalamitätsholz]], [[abholzen]], [[Abholzung]], [[Holzreserve]]
+#Substantiv #Neuter, [[Streichholz]], [[Holzplatte]], [[Bambus]], [[Kalamitätsholz]], [[abholzen]], [[Abholzung]], [[Holzreserve]], [[holzgeschnitzt]]

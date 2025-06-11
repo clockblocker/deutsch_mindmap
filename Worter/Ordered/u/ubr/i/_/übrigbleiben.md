@@ -1,7 +1,9 @@
 ➕ [[übrigbleiben]], [ˈyːbʁɪçˌblaɪ̯bn̩](https://youglish.com/pronounce/übrigbleiben/german) → [[blieb übrig]] → ist [[übriggeblieben]]
 
 ---
-*[[C1-Lesen-T2-101-Text#^14|^]]* [[Fehlten]] aus dem Spielzeugangebot der anderen Gruppe [[plötzlich]] mehrere Spiele, arrangierten sich die Kinder schnell mit dem [[übriggebliebenen]] Spielzeug und wurden kreativer und sogar sozialer: Sie teilten sich das Spielzeug, obwohl es während der Zeit des [[Übergangebot]]s [[ständig]] [[Streitereien]] gab. ^14
+*[[C1-Lesen-T2-101-Text#^14|^]]* [[Fehlten]] aus dem Spielzeugangebot der anderen Gruppe [[plötzlich]] mehrere Spiele, arrangierten sich die Kinder schnell mit dem [[übriggebliebenen]] Spielzeug und wurden kreativer und sogar sozialer: Sie teilten sich das Spielzeug, obwohl es während der Zeit des [[Übergangebot]]s [[ständig]] [[Streitereien]] gab
+
+Das Mitbringen eigener [[Verpackung]]en macht die sinnvolle [[Verwertung]] [[übriggebliebener]] Lebensmittel dann zu einer normalen [[Angelegenheit]].
 
 
 ---

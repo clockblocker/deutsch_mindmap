@@ -25,4 +25,4 @@ appreciated, valued
 Adjektive: [[wertgeschätzt]], [[wertgeschätzter]], [[wertgeschätztest]]
 
 ---
-[[wertgeschätzter]], [[wertgeschätztes]], [[wertgeschätzte]], [[wertgeschätzten]], [[wertgeschätztem]], [[wertgeschätzterer]], [[wertgeschätzteres]], [[wertgeschätztere]], [[wertgeschätzteren]], [[wertgeschätzterem]], [[wertgeschätztester]], [[wertgeschätztestes]], [[wertgeschätzteste]], [[wertgeschätztesten]], [[wertgeschätztestem]], [[ernstnehmen]]
+[[wertgeschätzter]], [[wertgeschätztes]], [[wertgeschätzte]], [[wertgeschätzten]], [[wertgeschätztem]], [[wertgeschätzterer]], [[wertgeschätzteres]], [[wertgeschätztere]], [[wertgeschätzteren]], [[wertgeschätzterem]], [[wertgeschätztester]], [[wertgeschätztestes]], [[wertgeschätzteste]], [[wertgeschätztesten]], [[wertgeschätztestem]], [[ernstnehmen]], [[würdigen]]

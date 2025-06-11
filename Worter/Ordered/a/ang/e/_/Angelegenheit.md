@@ -2,6 +2,7 @@
 die [[Angelegenheiten]]
 
 ---
+Das Mitbringen eigener [[Verpackung]]en macht die sinnvolle [[Verwertung]] [[übriggebliebener]] Lebensmittel dann zu einer normalen [[Angelegenheit]].
 
 _[[1 ADHD#^15|^]]_ [[erledigt]] [[Angelegenheit]]en nicht, außer unter hohem äußeren [[Termindruck]]
 

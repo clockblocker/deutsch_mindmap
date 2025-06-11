@@ -1,19 +1,21 @@
 🤝 [[annehmen]] | [[nahm an|nahm an]], haben [[angenommen]]
 
 ---
+Die Regelung wird inzwischen `von` den Gästen `mit` großer [[Zustimmung]] [[angenommen]]
+
 *[[C1-Hoehen-T2-401-Text#^4|^]]* Nach Herrn Gröner ist kaum [[anzunehmen]], dass [[Täter]] außer ihrem [[Opfer]] weitere Personen angreifen
 
-*[[C1-Hoehen-T3-401-Text#^7|^]]* Der Park wurde von den New Yorkern sofort [[angenommen]], hat einen [[Förderverein]] und konnte sich auch zu einem [[Touristenmagnet]] [[entwickeln]]
+*[[C1-Hoehen-T3-401-Text#^7|^]]* Der Park wurde `von` den New Yorkern sofort [[angenommen]], hat einen [[Förderverein]] und konnte sich auch zu einem [[Touristenmagnet]] [[entwickeln]]
 
 Ich [[annehmen|nehme]] an, dass die guten Studenten die Prüfung bestehen.
 
-*[[C1-Lesen-T3-301-Text#^20|^]]* Was von dem Muster­markt Haßloch nicht [[angenommen]] wurde, bekam der Rest der Republik oft gar nicht zu [[Gesicht]]
+*[[C1-Lesen-T3-301-Text#^20|^]]* Was `von` dem Muster­markt Haßloch nicht [[angenommen]] wurde, bekam der Rest der Republik oft gar nicht zu [[Gesicht]]
 
 _[[C1-Hoehen-T2-100-Text#^24|^]]_ Ich wäre nicht gezwungen, eine Arbeit [[anzunehmen]], die mir gar nicht gefällt.
 
-_[[C1-Lesen-T2-102-Text#^4|^]]_ Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg von der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]]
+_[[C1-Lesen-T2-102-Text#^4|^]]_ Anders als lange [[angenommen]], wurde sie [[demnach]] wohl nicht durch Obst- und Gemüseimporte nach dem Zweiten Weltkrieg `von` der Iberischen Halbinsel [[eingeschleppt]] – der Name führt also in die [[Irre]]
 
-_[[Golfstorm#^6|^]]_ Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis von [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]
+_[[Golfstorm#^6|^]]_ Eine am Mittwoch [[veröffentlichte]] Studie auf der Basis `von` [[Modellrechnungen]] zeigt nun, dass die Nordatlantikströmung, zu der auch der Golfstrom gezählt wird, [[widerstandsfähiger]] sein könnte als [[bisher]] [[angenommen]]
 
 Da musste Laura nicht lange [[überlegen]]. „Ich möchte dein Angebot [[annehmen]]“, antwortete sie, „denn wenn ich warte, bis ich wieder genug Geld habe, muss auch ich ins Altersheim. Und wie sagt man so schön? Besser den [[Spatz]] in der Hand als die [[Taube]] auf dem [[Dach]].“
 

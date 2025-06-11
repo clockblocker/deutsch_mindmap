@@ -1,1 +1,1 @@
-, [[rauchen]]
+, [[rauchen]], [[Zigarettenschachtel]]

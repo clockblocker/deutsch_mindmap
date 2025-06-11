@@ -3,6 +3,9 @@
 ---
 [[Nachlässigkeit]], [[vernachlässigen]], [[fahrlässig]]
 
+Andere Kulturen gehen mit [[Zeitangabe]]n [[lässiger]] um als die Deutschen.
+*(Other cultures deal with [[time indications]] more [[casually]] than the Germans.)*
+
 ---
 = [[entspannt]], [[locker]], [[ungezwungen]]
 ≈ [[gelassen]], [[cool]], [[zwanglos]], [[faul]]

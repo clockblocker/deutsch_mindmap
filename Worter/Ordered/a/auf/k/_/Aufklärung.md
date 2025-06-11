@@ -5,6 +5,8 @@
 ---
 12 Man kann der [[Politikverdrossenheit]] mit [[Aufklärung]] [[begegnen]].
 
+[[Nichtsdestotrotz]] glauben sie aber auf eine persönliche Art an Gott, `trotz` Wissenschaft und [[Aufklärung]].
+
 *[[C1-Hoehen-T1-402-Text#^6|^]]* Da wäre auch die [[Aufklärung]] eines spektakulären Falls höchst willkommen
 *(Then the [[investigation]] of a spectacular case would also be most welcome.)*
 

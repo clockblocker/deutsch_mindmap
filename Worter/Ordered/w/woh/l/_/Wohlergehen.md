@@ -27,4 +27,4 @@ A: das [[Wohlergehen]], die [[Wohlergehen]]
 G: des [[Wohlergehens]], der [[Wohlergehen]]
 D: dem [[Wohlergehen]], den [[Wohlergehen]]
 
-#Neuter 
+#Neuter , [[Unheil]]

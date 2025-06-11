@@ -29,4 +29,4 @@ P: [[hervorragenden]]
 
 ---
 [[Hervorragenheit]], [[Herausragendes]], [[Hervorhebung]], [[hervorragend]]
-, [[gut]], [[ausgezeichnet]]
+, [[gut]], [[ausgezeichnet]], [[vorzüglich]]

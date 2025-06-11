@@ -31,4 +31,4 @@ G: des [[Nachteils]], der [[Nachteile]]
 D: dem [[Nachteil]], den [[Nachteilen]]
 
 
-#Maskulin , [[schaden]], [[Vorzug]], [[nutzen]]
+#Maskulin , [[schaden]], [[Vorzug]], [[nutzen]], [[Vorrang]]

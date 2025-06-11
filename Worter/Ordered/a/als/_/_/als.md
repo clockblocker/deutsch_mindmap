@@ -5,6 +5,8 @@
 🔗 [[als]], [als]
 
 ---
+*[[C1-Lesen-T1-202-Text#^1|^]]* Die Amtssprache im sechstkleinsten Land der Welt ([[als]] kleiner [[bestehen]] lediglich der Vatikan, Monaco, Nauru, Tuvalu und San Marino)
+
 
 - Ich bin [[kürzer]] [[als]] mein Bruder.
 - NIC: Na ja, … also … es [[Waren]] schon weniger [[als]] 100 …

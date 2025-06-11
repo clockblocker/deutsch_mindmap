@@ -11,8 +11,8 @@
 
 
 *2023 Prüfungstraining*
-- [ ] [[C1-Lesen-T1-200-Text|200]] Zu gut für die Tonne  
-- [ ] [[C1-Lesen-T1-201-Text|201]] Das Neo-Biedermeier  
+- [x] [[C1-Lesen-T1-200-Text|200]] Zu gut für die Tonne  
+- [x] [[C1-Lesen-T1-201-Text|201]] Das Neo-Biedermeier  
 - [ ] [[C1-Lesen-T1-202-Text|202]] Kleines Land ganz groß  
 
 *2023 Mit Erfolg Modellsätzen*
@@ -29,12 +29,12 @@
 - [ ] [[C1-Lesen-T1-303-Text|303 ]]
 
 _400 - Project Neue_
-- [ ] [[C1-Lesen-411-Text|401]] 
-- [ ] [[C1-Lesen-412-Text|402]] 
-- [ ] [[C1-Lesen-413-Text|403]] 
-- [ ] [[C1-Lesen-414-Text|404]] 
-- [ ] [[C1-Lesen-415-Text|405]] 
-- [ ] [[C1-Lesen-416-Text|406]] 
+- [x] [[C1-Lesen-411-Text|401]] 
+- [x] [[C1-Lesen-412-Text|402]] 
+- [x] [[C1-Lesen-413-Text|403]] 
+- [x] [[C1-Lesen-414-Text|404]] 
+- [x] [[C1-Lesen-415-Text|405]] 
+- [x] [[C1-Lesen-416-Text|406]] 
 - [ ] [[C1-Lesen-417-Text|407]] 
 - [ ] [[C1-Lesen-418-Text|408]] 
 - [ ] [[C1-Lesen-419-Text|409]] 

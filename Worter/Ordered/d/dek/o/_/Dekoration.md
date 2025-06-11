@@ -1,1 +1,1 @@
-, [[schmücken]], [[Verdienstorden]], [[Vorhang]], [[Ausstattung]], [[Kunstgegenstand]]
+, [[schmücken]], [[Verdienstorden]], [[Vorhang]], [[Ausstattung]], [[Kunstgegenstand]], [[Inneneinrichtung]]

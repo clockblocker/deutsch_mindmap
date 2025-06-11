@@ -1,1 +1,1 @@
-, [[Pausenhof]], [[Mittelpunkt]], [[Räumlichkeit]]
+, [[Pausenhof]], [[Mittelpunkt]], [[Räumlichkeit]], [[Inneneinrichtung]]

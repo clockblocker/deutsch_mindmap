@@ -12,16 +12,24 @@ Gesunder Schlaf
 Schlafmangel führt zu Schädigung des Gehirns
 
 Die moderne Industriegesellschaft mit ihrem 24-Stunden-Rhythmus bringt immer mehr Menschen um ihren Schlaf.
+
 _[[C1-Lesen-411-Text#^1|^]]_ Die Folgen von Schlafstörungen und Schlafmangel dürfen [[keinesfalls]] [[unterschätzt]] werden. ^1
 
-Sie können langfristig zu schwerwiegenden Beeinträchtigungen der Leistungs- und Konzentrationsfähigkeit führen. Auch psychische Störungen zählen zu den Langzeitfolgen von Schlafstörungen.
+*[[C1-Lesen-411-Text#^17|^]]* Sie können langfristig zu [[schwerwiegenden]] [[Beeinträchtigung]]en der [[Leistung]]s- und Konzentrationsfähigkeit führen. ^17
 
-Die Kriterien für guten oder schlechten Schlaf `1 ...` sich an drei einfachen Fragen [[festmachen]]: Schlafe ich leicht ein? Habe ich ruhig durchgeschlafen? Wie bewerte ich selbst die Qualität meines Schlafs? Und wie definiert die Wissenschaft Schlafstörungen? Einschlafstörungen sind das meistverbreitete Problem.
+
+Auch psychische Störungen zählen zu den Langzeitfolgen von Schlafstörungen.
+
+Die Kriterien für guten oder schlechten Schlaf `1 ...` sich an drei einfachen Fragen [[festmachen]]: Schlafe ich leicht ein? Habe ich ruhig durchgeschlafen? 
+Wie bewerte ich selbst die Qualität meines Schlafs? Und wie definiert die Wissenschaft Schlafstörungen? Einschlafstörungen sind das meistverbreitete Problem.
+
 _[[C1-Lesen-411-Text#^2|^]]_ Dazu gehört auch die Schwierigkeit, die ganze Nacht durchzuschlafen bzw. der [[erfolglos]]e `Versuch` wieder einzuschlafen, wenn man einmal aufgewacht ist. ^2
 
 _[[C1-Lesen-411-Text#^3|^]]_ Die Ursachen sind hauptsächlich psychischer Art: [[unbewältigte]] Stresssituationen, Gedanken, die ständig im Kopf kreisen und einen nicht zur Ruhe kommen lassen. ^3
 
+
 _[[C1-Lesen-411-Text#^4|^]]_ Ein weiteres Problem ist das [[Einnicken]] [[tagsüber]] und das Gefühl, ständig schläfrig zu sein, `3 ...` man eigentlich glaubt, [[ausreichend]] geschlafen zu haben. ^4
+
 
 _[[C1-Lesen-411-Text#^5|^]]_ Schlafwandeln, Albträume oder Zähneknirschen werden ebenso als Schlafstörungen verzeichnet wie chronische Müdigkeit. ^5
 
@@ -62,20 +70,20 @@ _[[C1-Lesen-411-Text#^16|^]]_ Der Schlaf sollte erholsam sein und die Schlafdaue
 1. 
     - [x] a lassen
     - [ ] b können
-    - [ ] c werden
-    - [ ] d würden
+    - [ ] *c werden*
+    - [ ] *d würden*
 
 2. 
-    - [x] a Versuch
+    - [ ] a Versuch
     - [ ] b Bereich
     - [ ] c Fehler
     - [ ] d Umgang
 
 3. 
-    - [ ] a weshalb
+    - [ ] *a weshalb*
     - [ ] b dennoch
-    - [ ] c obwohl
-    - [ ] d denn
+    - [x] c obwohl
+    - [ ] *d denn*
 
 4. 
     - [ ] a was
@@ -93,16 +101,16 @@ _[[C1-Lesen-411-Text#^16|^]]_ Der Schlaf sollte erholsam sein und die Schlafdaue
     - [ ] a gestrichen
     - [ ] b untersucht
     - [ ] c beobachtet
-    - [x] d integriert
+    - [ ] d integriert
 
 7. 
     - [ ] a entschlossen
     - [ ] b überzeugt
-    - [x] c fähig
+    - [ ] c fähig
     - [ ] d nötig
 
 8. 
     - [ ] a in Bewegung
     - [ ] b zur Vernunft
     - [ ] c in Kontakt
-    - [x] d zur Ruhe
+    - [ ] d zur Ruhe

@@ -3,6 +3,10 @@
 ---
 *Seit dem* [[Auftauchen]] des Begriffs “iPad-Kind”*sind* die [[Lesefähigkeiten]] überall [[gesunken]].
 
+[[Witzig]]es [[auftaucht|taucht]] nur am [[Rand]]e auf.
+*(Funny things [[appear]] only on the [[side]])*
+
+
 *[[C1-Hoehen-T2-203-Text#^39|^]]* Weil immer neue Technologien [[auftauchen]], [[tritt]] sofort die Diskussion der Abhängigkeit davon in den [[Vordergrund]]
 
 ---

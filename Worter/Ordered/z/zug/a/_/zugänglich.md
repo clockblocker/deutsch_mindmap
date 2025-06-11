@@ -3,6 +3,8 @@
 ---
 *[[101-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind
 
+Ihre Residenz, das Schloss Vaduz aus dem 13. Jahrhundert, benannt nach der gleichnamigen Hauptstadt der Nation, ist `für` die Öffentlichkeit `nicht` [[zugänglich]]
+
 *[[C1-Hoehen-T2-401-Text#^1|^]]* Die Arbeit der Studierenden ist nun auch für ein größeres Publikum [[zugänglich]]
 *(The work of the students is now also [[accessible]] to a larger audience.)*
 

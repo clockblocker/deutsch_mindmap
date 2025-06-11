@@ -5,6 +5,8 @@ die [[Tatsachen]]
 *[[C1-Lesen-T2-100-Text#^2|^]]* Eine Hoffnung, die sich nicht [[erfüllte]], hatte man doch [[damals]] noch keinen [[Einblick]] in die [[Tatsache]], dass Gene nicht nur [[steuern]], sondern auch gesteuert werden können. ^2
 
 
+eine [[Tatsache]], die nicht [[wegzuleugnen]] ist
+
 *[[C1-Lesen-T4-101-Text#^6|^]]* Und wir sollten die [[Tatsache]] nicht vergessen, dass die [[Fähigkeit]]en von Robotern immer besser werden. ^6
 
 

@@ -56,4 +56,4 @@ sie, [[verwandeln]], [[verwandelten]], [[verwandeln]], [[verwandelten]], [[verwa
 Adjektive: [[verwandelnd]], [[verwandelnder]], [[verwandelndst]]
 
 ---
-[[verwandelnder]], [[verwandelndes]], [[verwandelnde]], [[verwandelnden]], [[verwandelndem]], [[verwandelnderer]], [[verwandelnderes]], [[verwandelndere]], [[verwandelnderen]], [[verwandelnderem]], [[verwandelndster]], [[verwandelndstes]], [[verwandelndste]], [[verwandelndsten]], [[verwandelndstem]], [[übergehen]]
+[[verwandelnder]], [[verwandelndes]], [[verwandelnde]], [[verwandelnden]], [[verwandelndem]], [[verwandelnderer]], [[verwandelnderes]], [[verwandelndere]], [[verwandelnderen]], [[verwandelnderem]], [[verwandelndster]], [[verwandelndstes]], [[verwandelndste]], [[verwandelndsten]], [[verwandelndstem]], [[übergehen]], [[Wandlung]], [[versetzen]]

@@ -1,0 +1,1 @@
+🤔 [[ähneln]] | 🔴 die [[Ähnlichkeit]] 🤔

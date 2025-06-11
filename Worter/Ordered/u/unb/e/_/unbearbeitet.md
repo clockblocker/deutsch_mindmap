@@ -1,1 +1,1 @@
-, [[gewachsene]]
+, [[gewachsene]], [[holzgeschnitzt]]

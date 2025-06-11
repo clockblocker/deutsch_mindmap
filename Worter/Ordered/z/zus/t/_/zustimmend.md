@@ -1,1 +1,1 @@
-, [[einverstanden]], [[zustimmen]], [[missbilligend]], [[affirmierend]]
+, [[einverstanden]], [[zustimmen]], [[missbilligend]], [[affirmierend]], [[Zustimmung]]

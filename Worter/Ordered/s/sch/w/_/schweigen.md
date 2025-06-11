@@ -43,3 +43,4 @@ PI: [[schweigend]], PII: [[geschwiegen]], Zu+inf: [[zuschweigen]]
 [[Schweigen]], [[Stillschweigen]], [[schweigsam]], [[verschweigen]], [[beschwichtigen]]
 
 , [[Ausdruck]], [[chatten]]
+, [[Telefonat]]

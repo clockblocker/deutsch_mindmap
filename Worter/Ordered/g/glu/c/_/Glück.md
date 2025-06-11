@@ -41,3 +41,4 @@ Morphems:
 - [[Glück]]
 
 ---[[Glückstag]], [[Unglück]], [[Freude]], [[Glückwunsch]], [[Glücksspiel]], [[gelingen]], [[Herzeleid]], [[Glücksfälle]], [[Wohlbefinden]], [[Zufall]], [[Wohlergehen]], [[Lebenslage]], [[Glückshormon]]
+, [[Unheil]]

@@ -1,6 +1,8 @@
 😊 [[bereichern]], [bəˈʁaɪ̯çɐn](https://youglish.com/pronounce/bereichern/german) → [[bereicherte]] → haben [[bereichert]]
 
 ---
+*[[214-C1-Schreiben-Model#^4|^]]* Deshalb hoffe ich, in kurzer Zeit Ihr [[Team]] mit meinen [[Fähigkeit]]en [[bereichern]] zu können
+
 *[[C1-Hoehen-T1-202-Text#^16|^]]* [[Bereichert]] die Welt eurer Kinder mit Aktivitäten und nicht mit [[kurzlebigen]] Dingen!
 
 ---

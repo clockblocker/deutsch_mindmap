@@ -23,6 +23,7 @@ Es hat sie zu medizinischen Supernasen gemacht, die mit einer Präzision von 92 
  _c) von denen_  
  _d) welche_
 
+
 Man hatte sie nicht nur mit Speichelproben trainiert, aber sie erschnüffelten Corona ebenso zuverlässig in Urin- und Schweißproben.
 
 ---

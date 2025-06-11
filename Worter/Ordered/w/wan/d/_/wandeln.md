@@ -35,4 +35,4 @@ Partizip I: [[wandelnd]], Partizip II: [[gewandelt]]
 
 [[ändern]]
 , [[Wandel]], [[Lebenswandel]]
-, [[mutieren]]
+, [[mutieren]], [[Wandlung]]

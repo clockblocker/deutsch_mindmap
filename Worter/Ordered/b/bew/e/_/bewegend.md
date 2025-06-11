@@ -1,1 +1,1 @@
-, [[bewegen]], [[Bewegung]]
+, [[bewegen]], [[Bewegung]], [[berühren]]

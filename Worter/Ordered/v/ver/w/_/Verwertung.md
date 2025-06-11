@@ -4,6 +4,7 @@
 ♻️ 🔴 die [[Verwertung]], [fɛɐ̯ˈvɛʁtʊŋ](https://youglish.com/pronounce/Verwertung/german)
 
 ---
+Das Mitbringen eigener [[Verpackung]]en macht die sinnvolle [[Verwertung]] [[übriggebliebener]] Lebensmittel dann zu einer normalen [[Angelegenheit]].
 
 
 ---

@@ -44,4 +44,4 @@ sie, [[erwägen]], [[erwogen]], [[erwägen]], [[erwögen]], [[erwägen]]
 Adjektive: [[erwägend]], [[erwägender]], [[erwägendst]]
 
 ---
-[[erwägender]], [[erwägendes]], [[erwägende]], [[erwägenden]], [[erwägendem]], [[erwägenderer]], [[erwägenderes]], [[erwägendere]], [[erwägenderen]], [[erwägenderem]], [[erwägendster]], [[erwägendstes]], [[erwägendste]], [[erwägendsten]], [[erwägendstem]]
+[[erwägender]], [[erwägendes]], [[erwägende]], [[erwägenden]], [[erwägendem]], [[erwägenderer]], [[erwägenderes]], [[erwägendere]], [[erwägenderen]], [[erwägenderem]], [[erwägendster]], [[erwägendstes]], [[erwägendste]], [[erwägendsten]], [[erwägendstem]], [[an der Stirn führen]]

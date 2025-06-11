@@ -3,6 +3,9 @@
 ---
 [[Bestechung]]
 
+*[[C1-Hoehen-T1-409-Text#^7|^]]* Der [[Band]] [[besticht]] auf den ersten Blick durch seine vielen [[Abbildung]]en, alle auf klassischem [[Bilderdruckpapier]]
+*(The [[volume]] [[captivates]] at first glance with its many [[illustrations]], all on classic [[art paper]].)*
+
 ---
 = [[manipulieren]], [[korrumpieren]], [[schmieren]]
 ≈ [[Bestechung geben]], [[werben]], [[verführen]]

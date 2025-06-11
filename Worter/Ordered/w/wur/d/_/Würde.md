@@ -27,4 +27,4 @@ G: der [[Würde]], der [[Würden]]
 D: der [[Würde]], den [[Würden]]
 
 
-#Feminin 
+#Feminin , [[würdigen]]

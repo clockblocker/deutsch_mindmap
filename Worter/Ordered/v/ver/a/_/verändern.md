@@ -58,4 +58,4 @@ sie, [[verändern]], [[veränderten]], [[verändern]], [[veränderten]], [[verä
 Adjektive: [[verändernd]], [[verändernder]], [[veränderndst]]
 
 ---
-[[verändernder]], [[veränderndes]], [[verändernde]], [[verändernden]], [[veränderndem]], [[verändernderer]], [[verändernderes]], [[veränderndere]], [[verändernderen]], [[verändernderem]], [[veränderndster]], [[veränderndstes]], [[veränderndste]], [[veränderndsten]], [[veränderndstem]], [[verfälschen]], [[adaptieren]], [[umgestalten]], [[ausprägen]], [[mutieren]]
+[[verändernder]], [[veränderndes]], [[verändernde]], [[verändernden]], [[veränderndem]], [[verändernderer]], [[verändernderes]], [[veränderndere]], [[verändernderen]], [[verändernderem]], [[veränderndster]], [[veränderndstes]], [[veränderndste]], [[veränderndsten]], [[veränderndstem]], [[verfälschen]], [[adaptieren]], [[umgestalten]], [[ausprägen]], [[mutieren]], [[versetzen]]

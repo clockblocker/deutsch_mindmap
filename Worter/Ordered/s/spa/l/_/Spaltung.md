@@ -1,1 +1,1 @@
-, [[Wiedervereinigung]], [[Einheit]], [[Zusammenschluss]], [[spalten]], [[Verschmelzung]]
+, [[Wiedervereinigung]], [[Einheit]], [[Zusammenschluss]], [[spalten]], [[Verschmelzung]], [[Zerrissenheit]]

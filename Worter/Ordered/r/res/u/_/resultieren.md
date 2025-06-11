@@ -3,6 +3,7 @@
 💡 [[resultieren]], [ʁezʊlˈtiːʁən] | [[resultierte]], haben [[resultiert]]
 
 ---
+[[Dauerstress]] [[resultiert]] daraus [[resultierend]]e Krankheiten sind eine häufige Folge
 
 ---
 = [[folgen]], [[entstehen]], [[sich ergeben]]

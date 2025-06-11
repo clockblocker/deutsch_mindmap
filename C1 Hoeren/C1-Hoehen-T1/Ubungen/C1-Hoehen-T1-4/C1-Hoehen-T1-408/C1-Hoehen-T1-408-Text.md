@@ -9,32 +9,32 @@
    - [x] b Buch 2 – *Im Kontakt mit dem Feind*  
    - [ ] c Buch 3 – *Benno Schmidt*  
 
-1. Die Autorin setzt sich mit dem Problem der inneren Zerrissenheit auseinander.  
+0. Die Autorin setzt sich mit dem Problem der inneren [[Zerrissenheit]] auseinander.  
    - [ ] a Buch 1  
    - [ ] b Buch 2  
    - [ ] c Buch 3  
 
-2. Die Autorin ist um eine ausgewogene Darstellung ihres Themas bemüht.  
+0. Die Autorin ist um eine [[ausgewogene]] Darstellung ihres Themas [[bemüht]].  
    - [ ] a Buch 1  
    - [ ] b Buch 2  
    - [ ] c Buch 3  
 
-3. Der Schreibstil der Autorin passt vorzüglich zum gewählten Genre.  
+0. Der Schreibstil der Autorin passt [[vorzüglich]] zum [[gewählten]] Genre.  
    - [ ] a Buch 1  
    - [ ] b Buch 2  
    - [ ] c Buch 3  
 
-4. Witziges taucht nur am Rande auf.  
+0. Witziges [[auftaucht|taucht]] nur am [[Rand]]e auf.  
    - [ ] a Buch 1  
    - [ ] b Buch 2  
    - [ ] c Buch 3  
 
-5. Das Buch behandelt die Schwierigkeiten eines graduellen Wandlungsprozesses.  
+0. Das Buch behandelt die Schwierigkeiten eines graduellen [[Wandlung]]sprozesses.  
    - [ ] a Buch 1  
    - [ ] b Buch 2  
    - [ ] c Buch 3  
 
-6. In einem Gedankenexperiment werden gesellschaftliche Konsequenzen aufgezeigt.  
+0. In einem Gedankenexperiment werden [[gesellschaftlich]]e Konsequenzen aufgezeigt.  
    - [ ] a Buch 1  
    - [ ] b Buch 2  
    - [ ] c Buch 3  

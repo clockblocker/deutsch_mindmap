@@ -32,4 +32,4 @@ G: des [[Zufalls]], der [[Zufälle]]
 D: dem [[Zufall]], den [[Zufällen]]
 
 
-#Maskulin, [[Versehen]]
+#Maskulin, [[Versehen]], [[Zweck]]

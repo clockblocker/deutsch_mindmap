@@ -4,7 +4,9 @@
 💡 [[ausgehen]], [ˈaʊ̯sˌɡeːən] → [[ging aus]] → [[ausgegangen]]
 
 ---
-Wir [[ausgehen|gehen]] davon aus, dass du kommst.
+Wir [[ausgehen|gehen]] `davon` aus, dass du kommst.
+
+Man hat sie in historischen Kindergräbern als Grabbeigaben gefunden und [[ausgehen]] `davon` aus,
 
 *[[C1-Lesen-413-Text#^1|^]]* Man hat sie in historischen Kindergräbern als Grabbeigaben gefunden und [[ausgehen|geht]] [[davon]] [[aus]], dass sie vermutlich auch im Alltag den Nachwuchs unterhalten haben
 

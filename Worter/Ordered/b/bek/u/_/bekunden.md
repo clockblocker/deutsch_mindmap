@@ -1,6 +1,9 @@
 🗣️ [[bekunden]], [bəˈkuːndn̩](https://youglish.com/pronounce/bekunden/german) → [[bekundete]] → haben [[bekundet]]
 
 ---
+*[[214-C1-Schreiben-Model#^3|^]]* ich wende mich an Sie, um mein Interesse an der Position als [[Praktikant]] in Ihrem KI R&D-Team zu [[bekunden]], deren [[Ausschreibung]] ich auf Ihrer Unternehmenswebsite gelesen habe
+
+
 *[[C1-Lesen-412-Text#^6|^]]* Fährt sich eine Frau mit der Hand [[unentwegt]] durchs Haar, [[bekundet]] sie [[Bereitschaft]] `auf` das andere Geschlecht [[einzugehen]]
 
 ---

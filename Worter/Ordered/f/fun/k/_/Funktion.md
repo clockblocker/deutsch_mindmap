@@ -3,4 +3,4 @@
 🔴 die [[Funktion]] ⚙️
 
 
-#Feminin , [[Funktionsraum]]
+#Feminin , [[Funktionsraum]], [[Mehrzweckmöbel]], [[Zweck]]

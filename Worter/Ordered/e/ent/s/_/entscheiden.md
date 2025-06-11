@@ -3,6 +3,8 @@
 ---
 *[[C1-Lesen-412-Text#^3|^]]* Oder [[entscheiden]] wir `uns` provozierend `8 gegen` den herrschenden Dresscode und geben uns [[unangepasst]]
 
+*[[C1-Hoehen-T1-409-Text#^8|^]]* Jahrhundert allein oder mithilfe eines Polsters über die [[Einrichtung]] des [[Heim]]s [[entschied]], bis hin zur [[Entstehung]] des professionellen Interior Designs in der Mitte des 20. Jahrhunderts
+
 *[[bro-schrieben-c1-t1-003#^9|^]]* Ein anderer [[Bekannte]]r hat sich für den Consulting-Bereich [[entschieden]] und ist gerade als [[Berater]] bei einem [[Consulting]]-Unternehmen [[angestellt]]
 
 *[[bro-schrieben-c1-t1-002#^14|^]]* [[Jugendlich]]e und [[arbeitende]] Menschen sollten `selbst` [[entscheiden]], welches Format des Lernens ihnen passt

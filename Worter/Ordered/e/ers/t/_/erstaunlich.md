@@ -1,6 +1,7 @@
 🔥 [[erstaunlich]], [ɛɐ̯ˈʃtaʊ̯nlɪç]
 
 ---
+*[[C1-Lesen-T1-201-Text#^2|^]]* Dr. Tina Messer-Schmidt, Leiterin der interdisziplinären Forschergruppe, erklärt, dass die [[Ähnlichkeit]]en zum [[ursprünglich]]en Biedermeier tatsächlich [[erstaunlich]] seien
 
 Und obwohl seine Fähigkeiten [[erstaunlich]] sind, muss er noch eine Menge lernen.
 

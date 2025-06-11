@@ -1,1 +1,1 @@
-, [[hervorragend]], [[schlimm]], [[toll]], [[Schlecht]], [[mangelhaft]]
+, [[hervorragend]], [[schlimm]], [[toll]], [[Schlecht]], [[mangelhaft]], [[vorzüglich]]

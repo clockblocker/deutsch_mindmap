@@ -5,6 +5,8 @@ sein [[erschienen]]
 ---
 *[[C1-Lesen-432-Text#^10|^]]* Sie dürfen nicht im Sportdress [[erscheinen]], da sie ihre Firma repräsentieren müssen
 
+Wenn der Termin einem unwichtig [[erscheint]] und die eigene [[Anwesenheit]] dort als [[belanglos]] [[eingeschätzt]] wird, ist es [[unvermeidlich]], dass das [[Erscheinen]] [[hinausgezögert]] wird. 
+
 Was macht von KI produzierte Kunst für [[Kunstbegeisterte]] attraktiv? 
 Die Vorstellung humaner Maschinen [[erscheint]] [[tröstlich]].
 *The idea of human machines [[seems]] [[comforting]]*

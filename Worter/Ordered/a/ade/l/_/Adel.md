@@ -1,1 +1,1 @@
-, [[Bürgertum]]
+, [[Bürgertum]], [[Fürstenfamilie]]

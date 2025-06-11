@@ -30,3 +30,4 @@ G: des [[Leugners]], der [[Leugner]]
 D: dem [[Leugner]], den [[Leugnern]]
 
 #Maskulin 
+, [[wegleugnen]]

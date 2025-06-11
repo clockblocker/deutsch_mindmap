@@ -57,4 +57,4 @@ Zu+infinitive: [[vorzubereiten]]
 ---
 
 [[Vorbereitung]], [[Vorbereitungszeit]], [[Vorbereitungskurs]], [[Vorbereitungsraum]], [[Vorbereitungsteam]], [[Geburtsvorbereitung]], [[ausrichten]], [[Vorarbeit]], [[bereitstellen]], [[einleiten]], [[studienvorbereiten]]
-, [[voraussehen]]
+, [[voraussehen]], [[vorsehen]]

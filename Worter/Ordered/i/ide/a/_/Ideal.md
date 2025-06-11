@@ -1,2 +1,2 @@
 
-, [[Vorbild]], [[wünschenswert]]
+, [[Vorbild]], [[wünschenswert]], [[vorzüglich]]

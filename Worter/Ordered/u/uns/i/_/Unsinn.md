@@ -30,3 +30,4 @@ Morphems:
 #Substantiv #Maskulin
 
 , [[Schwachsinn]], [[Blödelei]], [[Logikaufgabe]], [[Bedeutung]]
+, [[Zweck]]

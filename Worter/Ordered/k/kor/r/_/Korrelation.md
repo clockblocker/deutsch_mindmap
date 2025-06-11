@@ -1,1 +1,1 @@
-, [[Zusammenhang]], [[Wechselwirkung]]
+, [[Zusammenhang]], [[Wechselwirkung]], [[Ähnlichkeit]]

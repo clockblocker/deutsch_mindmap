@@ -1,1 +1,1 @@
-, [[hervorragend]], [[schlimm]], [[am besten]]
+, [[hervorragend]], [[schlimm]], [[am besten]], [[vorzüglich]]

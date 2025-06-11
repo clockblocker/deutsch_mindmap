@@ -6,6 +6,10 @@
 ---
 Erklären Sie, welche Kriterien Angestellte in [[Behörden]] mit [[Publikumsverkehr]] [[erfüllen]] sollten. 
 
+*[[C1-Hoehen-T1-409-Text#^6|^]]* Teuer [[erstanden]]e [[Kunstwerk]]e [[erfüllen]] allein den [[Zweck]], seine Businesspartner zu [[beeindrucken]] 
+*(Expensive [[acquired]] [[artwork]]s alone [[fulfill]] the [[purpose]] of [[impressing]] one's business partners)*
+
+
 *[[bro-schrieben-c1-t1-002#^8|^]]* Dazu kommt, dass man beim Online-Lernen Zeit sparen kann, um [[Familienaufgabe]]n zu [[erfüllen]]
 
 *[[101-C1-Schreiben-T1#^4|^]]* Auf der einen Seite ist der [[Nutz]]en sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:

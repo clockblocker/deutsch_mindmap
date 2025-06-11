@@ -6,6 +6,9 @@ haben [[behandelt]]
 
 ---
 
+Ein [[behandelter]] Aspekt ist [[Inneneinrichtung]] als Ausdruck der [[Wesensart]] des Bewohners
+*(A [[treated]] aspect is [[interior design]] as an expression of the inhabitant's [[character]].)*
+
 SASCHA: Meine Mutter [[behandelt]] mich auch wie ein Baby
 
 Im Buch wird die [[fehlen]]de [[Anerkennung]] der [[Naturheilkunde]] [[seitens]] der [[Schulmedizin]] [[behandelt]]

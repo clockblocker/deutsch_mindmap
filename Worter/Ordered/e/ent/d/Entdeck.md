@@ -1,1 +1,1 @@
-, [[Entdeckung]]
+, [[Entdeckung]], [[Wiederentdeckung]]

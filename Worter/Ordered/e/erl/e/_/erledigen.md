@@ -4,6 +4,8 @@
 ---
 Sie [[erledigt]] die Arbeit in einer ruhigen [[Weise]]
 
+*[[C1-Lesen-T1-201-Text#^3|^]]* Seine zu (7) [[erledigend]]en Alltagsaufgaben umfassen ja Kinder, Arbeit, Hobbys, Sport, neue Technologien, Flexwork etc.
+
 *[[C1-Hoehen-T3-400-Text#^17|^]]* Im Arbeitsalltag zahlreicher Entleiher-Unternehmen würden die Leiharbeiter fehlen, und so müsste man rasch handeln, um [[dringend]] notwendige Arbeit [[erledigen]] zu können
 
 *[[bro-schrieben-c1-t1-011#^2|^]]* Ich bin selbst [[ITler]] und stehe stets unter Druck, [[riesig]]e [[Menge]]n an [[Arbeitsaufgabe]]n in einem [[eng]] begrenzten [[Zeitfenster]] zu [[erledigen]]

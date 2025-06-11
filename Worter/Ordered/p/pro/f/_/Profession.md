@@ -1,1 +1,1 @@
-[[Beruf]], [[Berufsgruppe]], [[Laufbahn]]
+[[Beruf]], [[Berufsgruppe]], [[Laufbahn]], [[Berufsstand]]

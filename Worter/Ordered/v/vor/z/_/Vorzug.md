@@ -29,4 +29,4 @@ A: den [[Vorzug]], die [[Vorzüge]]
 G: des [[Vorzugs]], der [[Vorzüge]]
 D: dem [[Vorzug]], den [[Vorzügen]]
 
-#Maskulin , [[nutzen]], [[Missstand]]
+#Maskulin , [[nutzen]], [[Missstand]], [[Vorrang]]

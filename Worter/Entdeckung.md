@@ -27,3 +27,4 @@ G: der [[Entdeckung]], der [[Entdeckungen]]
 D: der [[Entdeckung]], den [[Entdeckungen]]
 
 #Feminin 
+, [[Wiederentdeckung]]

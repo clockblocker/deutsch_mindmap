@@ -19,3 +19,4 @@ for this, to this
 [[hier]]|[[zu]]
 [[hierzu]]
 
+, [[hiergegen]]

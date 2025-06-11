@@ -1,1 +1,1 @@
-, [[Wandel]]
+, [[Wandel]], [[Wandlung]]

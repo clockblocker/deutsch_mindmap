@@ -1,7 +1,7 @@
 ✅ [[erwartungsgemäß]], [ɛɐ̯ˈvaʁtʊŋsɡəˌmɛːs](https://youglish.com/pronounce/erwartungsgemäß/german)
 
 ---
-*[[Golfstorm#^18|^]]* Die Meeresströmungen [[abschwächten|schwächten]] sich unter diesen [[Bedingungen]] [[erwartungsgemäß]] ab – aber sie [[kollabierten]] nicht. ^18
+*[[Golfstorm#^18|^]]* Die Meeresströmungen [[abschwächten|schwächten]] sich unter diesen [[Bedingungen]] [[erwartungsgemäß]] ab – aber sie [[kollabierten]] nicht
 
 ---
 = [[voraussichtlich]], [[planmäßig]], [[wie erwartet]]

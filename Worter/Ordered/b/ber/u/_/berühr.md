@@ -1,1 +1,1 @@
-, [[unberührt]]
+, [[unberührt]], [[berühren]]

@@ -161,7 +161,7 @@
 
 *[[C1-Hoehen-T3-301-Text#^24|^]]* Schon jetzt ist der Fachkräftemangel nicht mehr zu [[übersehen]]. ^24
 
-*[[C1-Hoehen-T3-301-Text#^25|^]]* [[Bewährte]] Kräfte gehen [[reihenweis]]e in den [[Ruhestand]] und der [[Nachwuchs]] kann das nicht [[ausgleichen]]. ^25
+*[[C1-Hoehen-T3-301-Text#^25|^]]* [[Bewährte]] Kräfte gehen [[reihenweise]] in den [[Ruhestand]] und der [[Nachwuchs]] kann das nicht [[ausgleichen]]. ^25
 
 *[[C1-Hoehen-T3-301-Text#^26|^]]* Und es braucht noch Zeit, bis die [[Studierend]]en ins [[Berufsleben]] [[einsteigen]] können. ^26
 

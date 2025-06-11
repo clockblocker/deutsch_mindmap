@@ -2,7 +2,9 @@
 ✅ [[bestehen]], [bəˈʃteːən] | [[Bestand]], haben [[bestanden]]
 
 ---
-Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
+Es [[besteht]] die [[Möglichkeit]], dass ich krank bin
+
+*[[C1-Lesen-T1-202-Text#^1|^]]* Die Amtssprache im sechstkleinsten Land der Welt ([[als]] kleiner [[bestehen]] [[lediglich]] der Vatikan, Monaco, Nauru, Tuvalu und San Marino)
 
 *[[C1-Lesen-431-Text#^8|^]]* [[Bestanden]] hat, wer sich am Ende noch gut an den Text erinnern kann und nicht [[wieder von vorn]] beginnen muss
 

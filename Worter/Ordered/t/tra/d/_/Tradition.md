@@ -1,1 +1,1 @@
-, [[Brauch]], [[Gewohnheit]]
+, [[Brauch]], [[Gewohnheit]], [[traditionsgemäß]]

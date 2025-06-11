@@ -1,1 +1,1 @@
-, [[Recherchen]], [[Rechercheergebenis]], [[Zwischenergebnis]], [[Untersuchung]], [[Geschichtsbuch]], [[Rechercheergebnis]], [[Fachliteraturrecherche]], [[Erkundung]]
+, [[Recherchen]], [[Rechercheergebenis]], [[Zwischenergebnis]], [[Untersuchung]], [[Geschichtsbuch]], [[Rechercheergebnis]], [[Fachliteraturrecherche]], [[Erkundung]], [[Wiederentdeckung]]

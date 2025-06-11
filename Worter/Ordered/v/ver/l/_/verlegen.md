@@ -1,2 +1,2 @@
 , [[umziehen]], [[schüchtern]]
-, [[selbstbewusst]], [[verstopfen]], [[orten]], [[verschieben]], [[auslagern]], [[verlagern]], [[übertragen]], [[herausgeben]], [[vorschieben]]
+, [[selbstbewusst]], [[verstopfen]], [[orten]], [[verschieben]], [[auslagern]], [[verlagern]], [[übertragen]], [[herausgeben]], [[vorschieben]], [[versetzen]]

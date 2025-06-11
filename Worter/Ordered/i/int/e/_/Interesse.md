@@ -34,4 +34,4 @@ G: des [[Interesses]], der [[Interessen]]
 D: dem [[Interesse]], den [[Interessen]]
 
 
-#Neuter , [[lenken]], [[Verlangen]], [[Zulauf]], [[Politikmüdigkeit]], [[Relevanz]], [[Anziehung]]
+#Neuter , [[lenken]], [[Verlangen]], [[Zulauf]], [[Politikmüdigkeit]], [[Relevanz]], [[Anziehung]], [[Hinwendung]]

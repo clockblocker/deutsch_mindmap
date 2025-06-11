@@ -5,6 +5,8 @@
 haben [[gesetzt]]
 
 ---
+Unter dem Motto *Zu gut für die Tonne* hat sich das deutsche Landwirtschaftsministerium zusammen mit Organisationen und Initiativen der Lebensmittel- und Gastronomiebranche das [[Ziel]] [[gesetzt]], [[hiergegen]] etwas zu unternehmen.  
+
 
 *[[bro-schrieben-c1-t1-011#^5|^]]* [[Arbeitgebende]] sind `in` der [[Lage]], [[gesetzte]] Ziele monatlich zu [[überprüfen]] und zu [[adaptieren]]
 
@@ -50,4 +52,4 @@ Morpheme: [[setz]], [[en]]
 Partizip I: [[setzend]], Partizip II: [[gesetzt]]
 
 [[setzen]] - [[setz]] = [[en]], [[einsetzen]], [[besetzen]], [[übersetzen]], [[s1 e1]], [[ersetzen]], [[aussetzen]], [[auseinandersetzen]], [[umsetzen]], [[voraussetzen]], [[aufs Spiel setzen]], [[zusammensetzen]], [[durchsetzen]], [[Einsatz]], [[anbringen]], [[Setzling]], [[freisetzen]], [[umsetzbar]], [[außer Kraft setzen]]
-, [[Gegensatz]], [[fortsetzen]], [[in Gang setzen]], [[ansetzen]], [[Auseinandersetzung]]
+, [[Gegensatz]], [[fortsetzen]], [[in Gang setzen]], [[ansetzen]], [[Auseinandersetzung]], [[versetzen]]

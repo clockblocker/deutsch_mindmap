@@ -1,1 +1,1 @@
-, [[Vereinstrainer]], [[Forscher]], [[Friseur]], [[Fachmann]], [[Laie]]
+, [[Vereinstrainer]], [[Forscher]], [[Friseur]], [[Fachmann]], [[Laie]], [[Berufsstand]]

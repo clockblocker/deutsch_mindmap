@@ -1,7 +1,7 @@
-[[215-C1-Schreiben-Model|Back to Model]]
+[[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Model|Back to Model]]
 
-[[215-C1-Schreiben-Drills|Drills]]
-[[215-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
+[[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Drills|Drills]]
+[[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
 
 ----
 ---

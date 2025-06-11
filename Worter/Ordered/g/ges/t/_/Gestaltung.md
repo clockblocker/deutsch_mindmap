@@ -33,4 +33,4 @@ D: der [[Gestaltung]], den [[Gestaltungen]]
 , [[Ausarbeitung]], [[Erzählstruktur]], [[Preisgestaltung]]
 
 
-#Feminin , [[Baukunst]]
+#Feminin , [[Baukunst]], [[Inneneinrichtung]]

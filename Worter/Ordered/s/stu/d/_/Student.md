@@ -1,1 +1,1 @@
-, [[Schüler]], [[Studierender]], [[studieren]], [[Studie]], [[Grundschulkind]], [[Schulabgänger]], [[Lehrkraft]], [[Studierendenwohnheim]], [[Studierendenwerk]], [[Lehrerberuf]], [[Lehramt]], [[Lernende]], [[Mathelehrkraft]]
+, [[Schüler]], [[Studierender]], [[studieren]], [[Studie]], [[Grundschulkind]], [[Schulabgänger]], [[Lehrkraft]], [[Studierendenwohnheim]], [[Studierendenwerk]], [[Lehrerberuf]], [[Lehramt]], [[Lernende]], [[Mathelehrkraft]], [[Praktikant]]

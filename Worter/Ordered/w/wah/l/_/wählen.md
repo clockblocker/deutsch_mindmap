@@ -3,6 +3,8 @@
 haben [[gewählt]]
 
 ---
+Der Schreibstil der Autorin passt [[vorzüglich]] zum [[gewählten]] Genre
+*(The author's writing style is [[excellent]] for the [[chosen]] genre)*
 
 Dort kann man für nicht einmal 50 Euro zwischen Sommerblumen, einem Haus in einsamer Landschaft oder einer Straße im Nebel [[wählen]].
 

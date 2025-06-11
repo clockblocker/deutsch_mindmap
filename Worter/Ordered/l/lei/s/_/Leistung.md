@@ -4,6 +4,11 @@ die [[Leistungen]]
 ---
 *[[C1-Lesen-411-Text#^7|^]]* Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser [[bewältigen]] und zu [[höh]]erer [[Leistung]] 7 [[fähig]] waren
 
+*[[C1-Lesen-411-Text#^17|^]]* Sie können langfristig zu [[schwerwiegenden]] [[Beeinträchtigung]]en der [[Leistung]]s- und Konzentrationsfähigkeit führen
+
+_[[C1-Lesen-411-Text#^1|^]]_ Die Folgen von Schlafstörungen und Schlafmangel dürfen [[keinesfalls]] [[unterschätzt]] werden. ^1
+
+
 *[[bro-schrieben-c1-t1-011#^3|^]]* Viele [[Arbeitnehmende]] werden [[stets]] [[gefordert]], ihre [[Leistung]] regelmäßig auf ein höheres Niveau zu bringen, was zu [[langfristig]]er [[emotional]]er [[Überforderung]] führen könnte
 
 *[[bro-schrieben-c1-t1-003#^8|^]]* Einer meiner [[Bekannt]]en hat nach einer 15-jährigen Karriere als [[Entwickler]] ein eigenes [[Logistiksystem]] entwickelt und ein Unternehmen gegründet, das seine App [[verkauft]] und Support-[[Leistung]]en anbietet

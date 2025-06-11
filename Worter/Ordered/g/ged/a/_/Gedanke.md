@@ -37,3 +37,4 @@ Zusätzliche Informationen:
 - Stammt vom Verb [[denken]]
 - Häufig verwendet in philosophischen und intellektuellen Kontexten, [[Begriff]]
   , [[Gegenstand]], [[Einstellung]], [[überdenken]], [[Empfindung]]
+, [[an der Stirn führen]]

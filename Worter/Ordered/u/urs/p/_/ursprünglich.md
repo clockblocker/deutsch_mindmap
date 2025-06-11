@@ -1,8 +1,9 @@
 ursprünglich, [ʊrˈʃpʁʊŋlɪç], nicht [[abgeleitet]]
 
 ---
-*[[C1-Lesen-T2-102-Text#^5|^]]* Nach wie vor ist nicht [[eindeutig]] geklärt, woher die (2) [[Eigenart]] [[ursprünglich]] stammt. ^5
+*[[C1-Lesen-T2-102-Text#^5|^]]* Nach wie vor ist nicht [[eindeutig]] geklärt, woher die (2) [[Eigenart]] [[ursprünglich]] stammt
 
+*[[C1-Lesen-T1-201-Text#^2|^]]* Dr. Tina Messer-Schmidt, Leiterin der interdisziplinären Forschergruppe, erklärt, dass die [[Ähnlichkeit]]en zum [[ursprünglich]]en Biedermeier tatsächlich [[erstaunlich]] seien
 
 Also bedeutet **“weihnachten”** wörtlich **“heilige nächte”**, weil das fest [[ursprünglich]] als eine zeit der [[geweih­ten]]/[[gesegneten]] Nächte [[galt]]. Es hat [[wurzeln]] in alten germanischen und christlichen Traditionen.
 

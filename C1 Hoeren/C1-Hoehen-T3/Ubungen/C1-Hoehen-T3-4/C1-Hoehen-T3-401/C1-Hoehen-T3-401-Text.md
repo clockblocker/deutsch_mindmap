@@ -150,7 +150,7 @@
 *Gibt es dafür schon Lösungen?*
 
 **Frau Zimmermann:**  
-*[[C1-Hoehen-T3-401-Text#^5|^]]* Ein Beispiel, das zur [[Nachahmung]] [[anregt]], ist ein auf einem alten [[Fabrikgelände]] [[angelegt]]er Park. ^5
+*[[C1-Hoehen-T3-401-Text#^5|^]]* Ein Beispiel, das zur [[Nachahmung]] [[anregt]], ist ein auf einem alten [[Fabrikgelände]] [[angelegt]]er Park ^5
 
 *[[C1-Hoehen-T3-401-Text#^6|^]]* Er kann fast 4 Millionen Liter Wasser [[speichern]], da unter einem höher [[liegend]]en Teil dieser [[Grünanlage]] Wassertanks [[gebaut]] wurden. ^6
 
@@ -158,10 +158,13 @@
 *Die Tanks liefern Wasser während der Trockenperiode. Ein niedriger gelegener Teil des Parks besteht aus einem See, der ebenfalls aus den Wassertanks gespeist wird.*
 
 ***Herr Floto:***  
-*Ein geniales Konzept und mit einem hohen Freizeitwert für die Stadtbevölkerung! Lassen Sie mich noch etwas zur Stadtplanung sagen. Zeichen einer zukunftsweisenden Stadtplanung ist für mich, schon bestehende städtische Bauwerke umzuwandeln und zu begrünen. Als Beispiel dafür möchte ich eine Rooftop-Farm anführen. In Bangkok wird solche eine Farm auf einem Gebäude gedacht mit großem Erfolg betrieben. Bangkok hat außerdem eine Fußgängerbrücke, die inzwischen zu einer Art grünem Tunnel wurde, einer „Garden-Bridge“ wie man sagt.*
+*Ein geniales Konzept und mit einem hohen Freizeitwert für die Stadtbevölkerung! Lassen Sie mich noch etwas zur Stadtplanung sagen.*
+Zeichen einer zukunftsweisenden Stadtplanung ist für mich, schon bestehende städtische Bauwerke umzuwandeln und zu begrünen. 
+*Als Beispiel dafür möchte ich eine Rooftop-Farm anführen. In Bangkok wird solche eine Farm auf einem Gebäude gedacht mit großem Erfolg betrieben. Bangkok hat außerdem eine Fußgängerbrücke, die inzwischen zu einer Art grünem Tunnel wurde, einer „Garden-Bridge“ wie man sagt.*
 
 ***Moderator:***  
-*Und das erinnert mich an eine andere erfolgreiche Begrünung, nämlich den High Line Park in New York. Ein gutes Konzept für Megacitys, alte Gleisanlagen nicht abzureißen, sondern für die Menschen neu zu gestalten.*
+*Und das erinnert mich an eine andere erfolgreiche Begrünung, nämlich den High Line Park in New York.*
+Ein gutes Konzept für Megacitys, alte Gleisanlagen nicht abzureißen, sondern für die Menschen neu zu gestalten
 
 ***Herr Floto:***  
 *Ja, eine stadtplanerische Glanzleistung wie die stillgelegte Hochbahntrasse, die durch ein weniger attraktives Stadtgebiet Manhattans führt, nicht doch abgerissen, sondern umgebaut und begrünt wurde. Man kann da auf einer gewissen Höhe wunderbar flanieren.*
