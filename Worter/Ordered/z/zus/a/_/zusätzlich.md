@@ -4,7 +4,9 @@
 [[mehr]]
 
 ---
-Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden.
+*[[215-C1-Schreiben-Model#^7|^]]* [[Zusätzlich]] halte ich es für sinnvoll, für [[Ausflüge]] [[vorsorglich]] alternative Routen bei [[möglich]]en Verkehrsproblemen zu planen
+
+Sein Buch [[enthält]] [[zusätzliche]] Informationen, die im Film nicht [[gezeigt]] werden
 
 *[[101-C1-Schreiben-T1#^13|^]]* [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
 

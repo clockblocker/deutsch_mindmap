@@ -1,4 +1,4 @@
 --> ⏱️ [[Temporal-Template]] <--
 --> ⏱️ [[Temporal-Frequenz]] <--
 
-[[Treu]], [[geduldig]], [[kontinuierlich]], [[standhaft]], [[launisch]], [[unzuverlässig]], [[tragfähig]], [[zuverlässig]]
+[[Treu]], [[geduldig]], [[kontinuierlich]], [[standhaft]], [[launisch]], [[unzuverlässig]], [[tragfähig]], [[zuverlässig]], [[konsequent]]

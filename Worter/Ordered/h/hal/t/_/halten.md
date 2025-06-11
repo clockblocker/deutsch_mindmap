@@ -1,6 +1,9 @@
 ✋ [[halten]] sich
 
 ---
+*[[111-C1-Schreiben-Model#^16|^]]* Zusätzlich hat es sich als [[effektiv]] [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedienfrei zu [[halten]]
+
+
 *[[C1-Lesen-T1-201-Text#^1|^]]* die als Biedermeier unter anderem Beispiel [[Bezug]] in Malerei und Literatur [[gehalten]] hat
 *(has [[held]] [[reference]] in painting and literature)*
 

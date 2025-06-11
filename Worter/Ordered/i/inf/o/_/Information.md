@@ -32,4 +32,4 @@ A: die [[Information]], die [[Informationen]]
 G: der [[Information]], der [[Informationen]]
 D: der [[Information]], den [[Informationen]]
 
-#Feminin , [[Betriebsgeheimnis]], [[Orientierung]]
+#Feminin , [[Betriebsgeheimnis]], [[Orientierung]], [[Ankündigung]]

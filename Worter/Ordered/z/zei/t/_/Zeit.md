@@ -27,4 +27,4 @@ G: der [[Zeit]], der [[Zeiten]]
 D: der [[Zeit]], den [[Zeiten]]
 
 #Feminin
-, [[bro-schrieben-c1-t1-002]], [[Zeitfenster]], [[Zeitfaktor]], [[zeitaufwendig]]
+, [[bro-schrieben-c1-t1-002]], [[Zeitfenster]], [[Zeitfaktor]], [[zeitaufwendig]], [[Restaurantöffnungszeit]]

@@ -1,1 +1,1 @@
-, [[Reparationsleistung]]
+, [[Reparationsleistung]], [[Entschädigung]]

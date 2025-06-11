@@ -3,6 +3,8 @@
 🔶 [[ähnlich]], [ˈʔeːnlɪç] ≠ [[unterschiedlich]]
 
 ---
+*[[216-C1-Schreiben-Model#^6|^]]* Um [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n regelmäßig zu [[warten]], die WLAN-Stabilität zu [[prüfen]] und die [[Restaurantöffnungszeit]]en aktuell auf Ihrer Website zu [[kommunizieren]]
+
 Wir haben [[ähnliche]] Interessen
 
 *[[C1-Hoehen-T3-402-Text#^4|^]]* Er könnte [[ähnlich]] einer [[Kanonenkugel]] anderes im Orbit zerstören

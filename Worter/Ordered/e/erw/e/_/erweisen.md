@@ -1,6 +1,8 @@
 ✅ [[erweisen]], [ɛɐ̯ˈvaɪ̯zn̩] | [[erwies]], haben [[erwiesen]]
 
 ---
+*[[111-C1-Schreiben-Model#^16|^]]* Zusätzlich hat es sich als [[effektiv]] [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedienfrei zu [[halten]]
+
 Zur Suche nach [[geeigneten]] Bewerbern kann sich ein Bewerbungsgespräch als hilfreich [[erweisen]]
 
 [[Trotz]] [[anfänglich]]er positiver [[Rückmeldung]]en [[erwies]] sich diese Regelung in der Praxis als zu kompliziert, führte sie doch oft zu längeren Diskussionen.  

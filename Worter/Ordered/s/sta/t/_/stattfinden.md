@@ -1,6 +1,9 @@
 📞 [[stattfinden]], [ˈʃtatˌfɪndn̩]
 
 ---
+*[[111-C1-Schreiben-Model#^3|^]]* Soziale Medien stehen nicht nur im Mittelpunkt öffentlicher Diskussionen – sie sind auch der Ort, `an` dem diese Diskussionen [[stattfinden]]
+
+
  Das Studium findet jedoch `vor` [[Ort]] statt, und um daran teilzunehmen, benötige ich eine Bildungsfreistellung.
 
 

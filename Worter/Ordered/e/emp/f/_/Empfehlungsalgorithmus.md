@@ -1,8 +1,7 @@
 🤖 🔵 der [[Empfehlungsalgorithmus]], [ɛmˈpfeːʊŋsʔalɡoˌʁɪtmus](https://youglish.com/pronounce/Empfehlungsalgorithmus/german)
 
 ---
-*[[101-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]. ^14
-
+*[[111-C1-Schreiben-Model#^17|^]]* Und schließlich war die Regel, nur [[heruntergeladene]] Videos [[anzuschauen]], [[hilfreich]] im [[Kampf]] [[gegen]] [[Empfehlungsalgorithm]]en
 
 ---
 = [[Empfehlungssystem]], [[Empfehlungsmaschine]]

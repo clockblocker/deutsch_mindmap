@@ -6,6 +6,8 @@
 [[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderung]]en [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9
 
 
+*[[215-C1-Schreiben-Model#^6|^]]* Um ähnliche Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässigen]] Transportunternehmen [[abzuschließen]]
+
 *[[C1-Hoehen-T1-202-Text#^10|^]]* Schritt für Schritt wird uns erklärt, wie wir Müll in allen [[Lebenslage]]n [[vermeiden]] können und dass das weder schwer noch teuer sein muss
 
 ---

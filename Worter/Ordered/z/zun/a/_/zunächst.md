@@ -1,6 +1,9 @@
 🥇 [[zunächst]], [[erst]]
 
 ---
+*[[215-C1-Schreiben-Model#^1|^]]* [[zunächst]] möchte ich mich dafür bedanken, dass Sie unsere Gruppenreise so [[kompetent]] [[begleitet]] haben
+
+*[[216-C1-Schreiben-Model#^1|^]]* [[zunächst]] danke ich Ihnen für den [[aufmerksam]]en Service und die ruhige [[Lage]] Ihres Hotels Seeblick
 
 Ich sah den Mann [[zunächst]] nicht, bis er [[winkte]]
 

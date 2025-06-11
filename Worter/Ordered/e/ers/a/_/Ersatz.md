@@ -27,4 +27,4 @@ G: des [[Ersatzes]], der [[Ersätze]]
 D: dem [[Ersatz]], den [[Ersätzen]]
 
 
-#Maskulin, [[Umtausch]], [[Ersatzdienst]]
+#Maskulin, [[Umtausch]], [[Ersatzdienst]], [[Entschädigung]]

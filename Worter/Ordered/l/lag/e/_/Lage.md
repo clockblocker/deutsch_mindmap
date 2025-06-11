@@ -5,6 +5,8 @@
 die [[Lagen]]
 
 ---
+*[[216-C1-Schreiben-Model#^1|^]]* [[zunächst]] danke ich Ihnen für den [[aufmerksam]]en Service und die ruhige [[Lage]] Ihres Hotels Seeblick
+
 *[[bro-schrieben-c1-t1-011#^5|^]]* [[Arbeitgebende]] sind `in` der [[Lage]], [[gesetzte]] Ziele monatlich zu [[überprüfen]] und zu [[adaptieren]]
 
 *[[C1-Hoehen-T2-102-Text#^28|^]]* Haben denn die [[Automobilhersteller]] die [[Lage]] erkannt?

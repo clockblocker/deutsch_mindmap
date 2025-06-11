@@ -3,6 +3,8 @@
 🌊 [[sinken]]
 
 ---
+*[[111-C1-Schreiben-Model#^10|^]]* So wird [[etwa]] die [[konstant]]e Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] angesehen
+
 *[[C1-Lesen-421-Text#^1|^]]* In Venedig bringen Kreuzfahrttouristen [[sinkende]] [[Umsätze]] mit sich
 
 Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem Schrecken davon.

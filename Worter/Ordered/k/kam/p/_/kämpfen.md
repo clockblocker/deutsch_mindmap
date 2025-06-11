@@ -82,3 +82,4 @@ Konjunktiv II:
 - Wenn sie mehr Unterstützung hätten, [[kämpften]] sie mit größerem Einsatz., [[bemühen]], [[verzichten]], [[verzweifeln]], [[s1 e1]]
   , [[zufriedengeben]]
   , [[umkämpfen]], [[Schlacht]], [[schwertun]]
+, [[Kampf]]

@@ -1,1 +1,1 @@
-[[Fach]]
+[[Fach]], [[Klimaanlage]]

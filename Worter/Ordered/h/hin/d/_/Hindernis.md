@@ -31,4 +31,4 @@ G: des [[Hindernisses]], der [[Hindernisse]]
 D: dem [[Hindernis]], den [[Hindernissen]]
 
 
-#Neuter , [[verhindern]], [[Lösungsansatz]], [[Tool]], [[Engpass]], [[Stolpergefahr]], [[Anreiz]], [[Nährboden]], [[Beschwernis]], [[Einstellungshürde]]
+#Neuter , [[verhindern]], [[Lösungsansatz]], [[Tool]], [[Engpass]], [[Stolpergefahr]], [[Anreiz]], [[Nährboden]], [[Beschwernis]], [[Einstellungshürde]], [[Unannehmlichkeit]]

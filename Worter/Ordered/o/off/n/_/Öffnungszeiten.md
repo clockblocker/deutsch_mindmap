@@ -1,1 +1,1 @@
-🔴 ⏰ die [[Öffnungszeit]], [ˈœfnʊŋsˌt͡saɪ̯t]
+🔴 ⏰ die [[Öffnungszeit]], [ˈœfnʊŋsˌt͡saɪ̯t], [[Restaurantöffnungszeit]]

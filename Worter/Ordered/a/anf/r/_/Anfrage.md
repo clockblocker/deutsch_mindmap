@@ -1,3 +1,3 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
 
-, [[Nachfrage]], [[Antrag]], [[Bewerbung]], [[ungefragt]], [[anliegen]]
+, [[Nachfrage]], [[Antrag]], [[Bewerbung]], [[ungefragt]], [[anliegen]], [[anfragen]]

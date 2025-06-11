@@ -1,1 +1,1 @@
-, [[Atmosphäre]]
+, [[Atmosphäre]], [[Ambiente]]

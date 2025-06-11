@@ -1,6 +1,9 @@
 😩 [[erschweren]], [ɛɐ̯ˈʃveːrən](https://youglish.com/pronounce/erschweren/german) → [[erschwerte]] → [[erschwert]]
 
 ---
+*[[112-C1-Schreiben-Model#^6|^]]* Nicht nur würde die [[alltäglich]]e Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuern]]“ steigen – etwa in Form höherer [[Energiepreis]]e, [[kostspielig]]er recycelbarer [[Verpackung]]en oder teurer Bio-[[Lebensmittel]]
+
+
 [[Dennoch]] [[erschwert]] neue Bürosituation meine Arbeit [[erheblich]].
 
 *[[C1-Hoehen-T1-402-Text#^4|^]]* Von [[Eifersucht]] gepackte Männer [[erschweren]] ihm die [[Aufklärungsarbeit]], während ihm die Damen oft die entscheidenden Informationen zukommen lassen

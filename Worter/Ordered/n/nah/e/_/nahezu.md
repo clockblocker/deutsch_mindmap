@@ -3,6 +3,9 @@
 🤏 [[nahezu]], [ˈnaːˌt͡suː](https://youglish.com/pronounce/nahezu/german)
 
 ---
+*[[112-C1-Schreiben-Model#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und Waldbrände [[deutlich]] [[gestiegen]]
+
+*[[111-C1-Schreiben-Model#^8|^]]* und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
 
 *[[102-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
 

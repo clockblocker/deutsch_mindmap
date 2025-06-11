@@ -1,7 +1,7 @@
 🌍 [[klimafreundlich]], [ˈkliːmaˌfʁɔɪ̯ntlɪç](https://youglish.com/pronounce/klimafreundlich/german)
 
 ---
-Auf der anderen Seite sind viele der festen Überzeugung, dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[einfach]]er gesagt alt getan ist.
+*[[112-C1-Schreiben-Model#^5|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] leichter gesagt als getan ist
 
 ---
 = [[umweltfreundlich]], [[klimaschonend]]

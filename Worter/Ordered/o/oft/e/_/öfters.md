@@ -1,1 +1,1 @@
-, [[mehrmals]]
+, [[mehrmals]], [[mehrfach]]

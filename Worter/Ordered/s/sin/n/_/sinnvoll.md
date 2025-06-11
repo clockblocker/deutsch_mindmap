@@ -2,6 +2,7 @@
 nicht [[sinnlos]]
 
 ---
+*[[111-C1-Schreiben-Model#^15|^]]* Ich persönlich habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] auf Twitter auf 30 Minuten pro Tag zu beschränken
 
 Nun ist es nicht [[sinnvoll]], auf den Klatsch zu verzichten, denn aus den Fehlern der anderen können wir ja selbst etwas lernen
 

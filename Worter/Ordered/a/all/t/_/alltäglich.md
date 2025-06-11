@@ -1,6 +1,9 @@
 🗓️ [[alltäglich]], [ˈalˌtɛːklɪç](https://youglish.com/pronounce/alltäglich/german)
 
 ---
+*[[112-C1-Schreiben-Model#^6|^]]* Nicht nur würde die [[alltäglich]]e Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuern]]“ steigen – etwa in Form höherer [[Energiepreis]]e, [[kostspielig]]er recycelbarer [[Verpackung]]en oder teurer Bio-[[Lebensmittel]]. ^6
+
+
 Nicht nur würde die [[alltäglich]]e [[Mobilität]] ohne Autos erheblich erschwert, sondern auch die [[Lebenshaltungskosten]] würden durch [[sogenannte]] „[[Grünsteuern]]“ [[steigen]]
 
 *[[C1-Hoehen-T1-301-Text#^9|^]]* Wer aber jetzt [[Anekdotisch]]es über die britischen Inseln und die [[alltäglich]]en [[Beschwernis]]se einer [[Fußwanderung]] erwartet, sei [[gewarnt]]

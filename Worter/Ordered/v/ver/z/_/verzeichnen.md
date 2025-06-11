@@ -1,6 +1,9 @@
 ✍️ [[verzeichnen]], [fɛɐ̯ˈtsaɪ̯çnən](https://youglish.com/pronounce/verzeichnen/german) → [[verzeichnete]] → haben [[verzeichnet]]
 
 ---
+*[[112-C1-Schreiben-Model#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und Waldbrände [[deutlich]] [[gestiegen]]
+
+
 *[[102-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
 
 

@@ -4,6 +4,9 @@
 nicht [[vorübergehend]]
 
 ---
+*[[112-C1-Schreiben-Model#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] statt des Autos als [[Verkehrsmittel]] nutzen oder [[Kleidung]] in Second-Hand-Läden kaufen, [[anstatt]] [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modisch]]en [[Boutique]]n zu [[erwerben]]
+
+
 *[[Eine Extrawurst bekommen.md#^4|^]]* Tims Schwestern Hannah und Lara [[ärgern]] sich schon lange darüber, dass ihr Bruder [[ständig]] [[bevorzugt]] wird
 
 *[[bro-schrieben-c1-t1-004#^17|^]]* Nennen Sie [[Schwierigkeit]]en, die `durch` eine [[ständig]] [[alternde]] Gesellschaft [[entstehen]] könnten

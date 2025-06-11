@@ -1,6 +1,8 @@
 🌌 [[entstehen]], [ɛntˈʃteːən](https://youglish.com/pronounce/entstehen/german) → [[entstand]] → sein [[entstanden]]
 
 ---
+*[[215-C1-Schreiben-Model#^5|^]]* Daher möchte ich höflich [[anfragen]], ob eine [[Entschädigung]] für die [[entstanden]]en [[Unannehmlichkeit]]en [[in Betracht gezogen]] werden könnte
+
 *[[Aschenputtel.md#^2|^]]* Neben unserem Haus [[entsteht]] ein neues [[Gebäude]]
 
 *[[bro-schrieben-c1-t1-004#^17|^]]* Nennen Sie [[Schwierigkeit]]en, die `durch` eine [[ständig]] [[alternde]] [[Gesellschaft]] [[entstehen]] könnten

@@ -44,4 +44,4 @@ sie, [[beantragen]], [[beantragten]], [[beantragen]], [[beantragten]], [[beantra
 Adjektive: [[beantragend]], [[beantragender]], [[beantragendst]]
 
 ---
-[[beantragender]], [[beantragendes]], [[beantragende]], [[beantragenden]], [[beantragendem]], [[beantragenderer]], [[beantragenderes]], [[beantragendere]], [[beantragenderen]], [[beantragenderem]], [[beantragendster]], [[beantragendstes]], [[beantragendste]], [[beantragendsten]], [[beantragendstem]]
+[[beantragender]], [[beantragendes]], [[beantragende]], [[beantragenden]], [[beantragendem]], [[beantragenderer]], [[beantragenderes]], [[beantragendere]], [[beantragenderen]], [[beantragenderem]], [[beantragendster]], [[beantragendstes]], [[beantragendste]], [[beantragendsten]], [[beantragendstem]], [[anfragen]]

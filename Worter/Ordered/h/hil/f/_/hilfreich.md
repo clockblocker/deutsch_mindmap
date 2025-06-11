@@ -1,10 +1,9 @@
 👍 [[hilfreich]], [ˈhɪlfˌʁaɪ̯ç](https://youglish.com/pronounce/hilfreich/german)
 
 ---
+*[[111-C1-Schreiben-Model#^17|^]]* Und schließlich war die Regel, nur [[heruntergeladene]] Videos [[anzuschauen]], [[hilfreich]] im [[Kampf]] [[gegen]] [[Empfehlungsalgorithm]]en
+
 [[Hilfreiche]] Tipps finden Sie unter "Zustellung vorbereiten".
-
-*[[101-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]. ^14
-
 
 ---
 = [[nützlich]], [[dienlich]], [[praktisch]]

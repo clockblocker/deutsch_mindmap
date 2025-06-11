@@ -16,6 +16,8 @@ Schreiben Sie eine E-Mail an den Bibliotheksleiter, Herrn Dr. Schneider.
 ---
 ---
 
+![[0213.mp3]]
+
 Sehr geehrter Herr Dr. Schneider,
 
 ich wende mich an Sie, um auf die geringe Anzahl der Arbeitsplätze in der Universitätsbibliothek hinzuweisen.

@@ -49,4 +49,4 @@ PI: [[betrachtend]], PII: [[betrachtet]], Zu+inf: [[zu betrachten]]
 
 
 [[ansehen]], [[lesen]], [[sehen]], [[gucken]], [[angucken]], [[schauen]], [[mustern]], [[anschauen]], [[anblicken]], [[berücksichtigen]]
-, [[zugucken]], [[Hinsicht]], [[beträchtlich]], [[betreuen]], [[Betrachtungsweise]], [[hinschauen]], [[umschauen]], [[überdenken]], [[zusehen]], [[zurückblicken]]
+, [[zugucken]], [[Hinsicht]], [[beträchtlich]], [[betreuen]], [[Betrachtungsweise]], [[hinschauen]], [[umschauen]], [[überdenken]], [[zusehen]], [[zurückblicken]], [[in Betracht ziehen]]

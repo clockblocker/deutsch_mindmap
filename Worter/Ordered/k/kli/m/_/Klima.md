@@ -1,1 +1,1 @@
-[[Wetter]], [[Monsun]], [[Klimabedingung]], [[Arbeitsumfeld]], [[klimafreundlich]], [[Klimaschutz]], [[Klimawandel]], [[Atmosphäre]]
+[[Wetter]], [[Monsun]], [[Klimabedingung]], [[Arbeitsumfeld]], [[klimafreundlich]], [[Klimaschutz]], [[Klimawandel]], [[Atmosphäre]], [[Klimaanlage]]

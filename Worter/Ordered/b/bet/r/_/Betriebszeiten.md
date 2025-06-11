@@ -1,2 +1,2 @@
 
-, [[Öffnungszeit]]
+, [[Öffnungszeit]], [[Restaurantöffnungszeit]]

@@ -4,6 +4,8 @@
 ✅ [[erfüllen]], [ɛɐ̯ˈfʏlən](https://youglish.com/pronounce/erfüllen/german) → [[erfüllte]] → [[erfüllt]]
 
 ---
+*[[111-C1-Schreiben-Model#^4|^]]* Auf der einen Seite ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – fast jeder Wunsch der Nutzer:innen kann [[erfüllt]] werden
+
 Erklären Sie, welche Kriterien Angestellte in [[Behörden]] mit [[Publikumsverkehr]] [[erfüllen]] sollten. 
 
 *[[C1-Hoehen-T1-409-Text#^6|^]]* Teuer [[erstanden]]e [[Kunstwerk]]e [[erfüllen]] allein den [[Zweck]], seine Businesspartner zu [[beeindrucken]] 

@@ -1,1 +1,1 @@
-, [[Abschied]], [[Ankunft]], [[Rückkehr]]
+, [[Abschied]], [[Ankunft]], [[Rückkehr]], [[Aufenthalt]]

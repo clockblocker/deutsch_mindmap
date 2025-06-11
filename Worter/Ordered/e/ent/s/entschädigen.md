@@ -1,1 +1,1 @@
-, [[kompensieren]]
+, [[kompensieren]], [[Entschädigung]]

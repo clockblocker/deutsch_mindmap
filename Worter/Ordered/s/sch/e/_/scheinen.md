@@ -1,6 +1,8 @@
 💡 [[scheinen]] + Dat, [ʃaɪ̯nən], [[schien]], [[geschienen]]
 
 ---
+*[[111-C1-Schreiben-Model#^8|^]]* und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]. ^8
+
 *[[C1-Lesen-412-Text#^1|^]]* In allen Kulturen [[scheint]] der [[Gesichtsausdruck]] `bei` elementaren Gefühlen gleich zu sein
 
 [[von]] Schmuck [[scheint]] er nicht viel zu verstehen.

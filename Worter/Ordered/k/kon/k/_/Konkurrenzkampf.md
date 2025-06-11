@@ -27,4 +27,4 @@ A: den [[Konkurrenzkampf]], die [[Konkurrenzkämpfe]]
 G: des [[Konkurrenzkampfes]], der [[Konkurrenzkämpfe]]
 D: dem [[Konkurrenzkampf]], den [[Konkurrenzkämpfen]]
 
-#Maskulin 
+#Maskulin , [[Kampf]]

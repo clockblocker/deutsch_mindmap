@@ -5,6 +5,11 @@
 nicht [[undeutlich]]
 
 ---
+*[[111-C1-Schreiben-Model#^10|^]]* So wird [[etwa]] die [[konstant]]e Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] angesehen
+
+*[[112-C1-Schreiben-Model#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und Waldbrände [[deutlich]] [[gestiegen]]
+
+
 Ich kann dich nicht verstehen, bitte sprich [[deutlich]].
 
 *[[C1-Hoehen-T3-301-Text#^56|^]]* Nicht nur im Transport- oder im [[Gesundheitswesen]] zeigt sich bereits ein [[deutlich]]er Mangel an [[Fachkräften]];

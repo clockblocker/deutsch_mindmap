@@ -4,16 +4,17 @@
 haben [[abgeschlossen]]
 
 ---
+*[[215-C1-Schreiben-Model#^6|^]]* Um ähnliche Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässigen]] Transportunternehmen [[abzuschließen]]
 
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 
-_[[C1-Lesen-T1-001-Text#^38|^]]_ Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren. ^38
+_[[C1-Lesen-T1-001-Text#^38|^]]_ Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren
 
-[[1 Wer bin ich und was mache ich hier?#^2|^]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]. ^2
+[[1 Wer bin ich und was mache ich hier?#^2|^]] Ich habe meinen Bachelor in der Stadt Samara in "[[Angewandter]] Mathematik und Informatik" [[abgeschlossen]]
 
-1951 begann er mit einem Studium an der Dresdner Kunstakade-5 mie und [[schloss]] es mit einem Wandgemälde als Diplomarbeit [[ab]].
+1951 begann er mit einem Studium an der Dresdner Kunstakade-5 mie und [[schloss]] es mit einem Wandgemälde als Diplomarbeit [[ab]]
 
-Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]].
+Elena ist [[sauer]]. Sechs Monate lang hat sie an einem [[wichtigen]] Projekt gearbeitet. Ihr [[Abschlussbericht]] war perfekt. [[ausführlich]], detailliert, [[sachlich]]
 
 ---
 

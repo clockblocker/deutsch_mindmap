@@ -67,3 +67,15 @@ Ich persönlich habe es als sinnvoll empfunden, meinen Zugriff auf Twitter auf 3
 *[[101-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen Empfehlungsalgorithmen. ^14
 
 
+
+---
+
+In den letzten fünf Jahrzehnten ist die Zahl der Internetnutzer:innen exponentiell gestiegen. Einer der wichtigsten Antriebsfaktoren dafür ist das enorme Angebot an sozialen Medien: Sie ermöglichen [[sowohl]] dauerhaften sozialen Kontakt als auch grenzenlose [[Unterhaltung]]. Soziale Medien stehen nicht nur im Mittelpunkt öffentlicher Diskussionen – sie sind auch der Ort, `an` dem diese Diskussionen [[stattfinden]].
+
+Auf der einen Seite ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – fast jeder Wunsch der Nutzer:innen kann erfüllt werden: Über WhatsApp bleiben Eltern auch aus dem [[Ausland]] erreichbar, Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem Ausbau beruflicher Netzwerke, und auf Plattformen wie YouTube oder TikTok scheint das Unterhaltungsangebot nahezu endlos.
+
+Auf der anderen Seite sind viele der festen Überzeugung, dass die dauerhafte [[Verschmelzung]] von Online- und Realwelt zahlreiche Gefahren mit sich bringt. So wird etwa die konstante Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das deutlich gesunkene Leseverstehen angesehen. Ohne die Entwicklung der Empfehlungssysteme auf Plattformen wie YouTube wäre der Begriff „iPad-Kind“ wahrscheinlich nie entstanden.
+
+Angesichts dieser Risiken stellt sich die Frage, wie man einen ausgewogenen Lebensstil mit sozialen Medien im Alltag erreichen kann. Leider ist das leichter gesagt als getan, denn es erfordert enorme Disziplin, praktikable Regeln zu etablieren, um die Online-Zeit konsequent zu begrenzen. Allerdings – gerade weil dieses Problem so bekannt ist – wurden zahlreiche Methoden entwickelt, die in thematischen Foren offen zugänglich sind.
+
+Ich persönlich habe es als sinnvoll empfunden, meinen Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken. Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten. Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen.

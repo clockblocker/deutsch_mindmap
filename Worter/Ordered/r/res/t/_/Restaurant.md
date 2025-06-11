@@ -25,4 +25,4 @@ A: das [[Restaurant]], die [[Restaurants]]
 G: des [[Restaurants]], der [[Restaurants]]
 D: dem [[Restaurant]], den [[Restaurants]]
 
-#Neuter 
+#Neuter , [[Restaurantöffnungszeit]]

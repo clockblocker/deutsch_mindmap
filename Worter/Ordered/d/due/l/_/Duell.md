@@ -1,2 +1,2 @@
 
-, [[Gefecht]], [[Spiel]], [[Zweikampf]]
+, [[Gefecht]], [[Spiel]], [[Zweikampf]], [[Kampf]]

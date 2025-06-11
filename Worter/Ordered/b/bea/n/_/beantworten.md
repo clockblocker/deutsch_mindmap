@@ -34,3 +34,4 @@ PI: [[antwortend]], PII: [[beantwortet]], Zu+inf: [[zu beantworten]]
 
 [[Antwort]], [[Antworten]]
 [[Antwortbrief]], [[Antwortkarte]], [[Antwortschreiben]], [[Antwortformular]]
+, [[anfragen]]

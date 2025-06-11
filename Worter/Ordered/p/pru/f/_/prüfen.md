@@ -3,6 +3,9 @@
 ---
 *[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten
 
+*[[216-C1-Schreiben-Model#^6|^]]* Um [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n regelmäßig zu [[warten]], die WLAN-Stabilität zu [[prüfen]] und die [[Restaurantöffnungszeit]]en aktuell auf Ihrer Website zu [[kommunizieren]]
+
+
 Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel jede [[Abwesenheit]] [[sorgfältig]] [[geprüft]] werden muss.
 
 
@@ -63,4 +66,4 @@ sie, [[prüfen]], [[prüften]], [[prüfen]], [[prüften]], [[prüfen]]
 Adjektive: [[prüfend]], [[prüfender]], [[prüfendst]]
 
 ---
-[[prüfender]], [[prüfendes]], [[prüfende]], [[prüfenden]], [[prüfendem]], [[prüfenderer]], [[prüfenderes]], [[prüfendere]], [[prüfenderen]], [[prüfenderem]], [[prüfendster]], [[prüfendstes]], [[prüfendste]], [[prüfendsten]], [[prüfendstem]], [[hinterfragen]], [[erforschen]], [[beobachten]], [[nachgehen]], [[überdenken]], [[revidieren]]
+[[prüfender]], [[prüfendes]], [[prüfende]], [[prüfenden]], [[prüfendem]], [[prüfenderer]], [[prüfenderes]], [[prüfendere]], [[prüfenderen]], [[prüfenderem]], [[prüfendster]], [[prüfendstes]], [[prüfendste]], [[prüfendsten]], [[prüfendstem]], [[hinterfragen]], [[erforschen]], [[beobachten]], [[nachgehen]], [[überdenken]], [[revidieren]], [[in Betracht ziehen]]

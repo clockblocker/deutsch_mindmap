@@ -1,1 +1,1 @@
-, [[wohnen]], [[befinden]], [[aufhalten]]
+, [[wohnen]], [[befinden]], [[aufhalten]], [[Aufenthalt]]

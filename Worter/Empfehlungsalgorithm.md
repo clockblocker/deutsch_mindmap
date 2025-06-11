@@ -1,0 +1,3 @@
+🤖 [[Empfehlungsalgorithmus]]
+
+#Maskulin 

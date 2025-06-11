@@ -15,6 +15,8 @@ Schreiben Sie circa 120 Wörter.
 
 ---
 
+![[0211.mp3]]
+
 Sehr geehrte Frau Keller,
 
 ich wende mich an Sie, um auf mein zukünftiges MBA-Studium an der Technischen Universität München einzugehen.
@@ -25,7 +27,7 @@ Allerdings habe ich zwei Jahre daran gearbeitet, einen Platz im Programm zu sich
 
 Am Ende des Programms könnte ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch ein wertvolles Alumni-Netzwerk mitbringen – wodurch das Unternehmen neue Kunden und Partner gewinnen könnte.
 
-Sollte derzeit keine längere Freistellung gewährt werden können, wäre ich Ihnen sehr verbunden, wenn ich mein Studium vollständig aus dem Homeoffice absolvieren dürfte.
+Sollte derzeit keine längere Freistellung möglich sein, schlage ich vor, mein Studium vollständig im Homeoffice absolvieren zu dürfen.
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 

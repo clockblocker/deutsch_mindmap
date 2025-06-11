@@ -3,6 +3,7 @@
 haben [[gewartet]]
 
 ---
+*[[216-C1-Schreiben-Model#^6|^]]* Um [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n regelmäßig zu [[warten]], die WLAN-Stabilität zu [[prüfen]] und die [[Restaurantöffnungszeit]]en aktuell auf Ihrer Website zu [[kommunizieren]]
 
 Wie oft haben Sie schon auf den Fahrstuhl gewartet und [[während]] des Wartens ungefähr siebenmal auf den Fahrstuhlknopf gedrückt?
 

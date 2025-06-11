@@ -1,6 +1,8 @@
 👫 [[begleiten]]
 
 ---
+*[[215-C1-Schreiben-Model#^1|^]]* zunächst möchte ich mich dafür bedanken, dass Sie unsere Gruppenreise so [[kompetent]] [[begleitet]] haben
+
 In der Größe einer [[Zigarettenschachtel]] [[begleitet]]e sie die Astronauten auf dem Weg ins All und wieder zurück, um die Liechtensteiner Balzers AG zu [[würdigen]] , die durch ihre Vakuumtechnik und in der Fertigung von Schutzschichten einen wesentlichen Beitrag zum Gelingen der Mondmission leistete.
 
 [[Begleitest]] du mich [[bis zu]] der Bushaltestelle? _(auf, bis zu, bei, zu)_

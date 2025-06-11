@@ -54,4 +54,4 @@ PI: [[erledigend]], PII: [[erledigt]], Zu+inf: [[zu erledigen]]
 [[Erledigung]], [[ledig]], [[erledigt]], [[erledigbar]]
 
 [[erledigen]] - [[er]] = [[ledig]], 
-, [[abarbeiten]], [[Behördengang]], [[absolvieren]], [[abspeisen]], [[Wältigen]]
+, [[abarbeiten]], [[Behördengang]], [[absolvieren]], [[abspeisen]], [[Wältigen]], [[abschließen]]

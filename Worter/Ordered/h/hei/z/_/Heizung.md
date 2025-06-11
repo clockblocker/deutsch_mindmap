@@ -27,3 +27,4 @@ Einzigartige mögliche Formen: [[Heizung]], [[Heizungen]]
 ---
 
 #Substantiv #Feminin, [[Extra 8]], [[Fächer]], [[Heiztemperatur]], [[Heizungsbereich]]
+, [[Klimaanlage]]

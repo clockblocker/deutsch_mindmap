@@ -1,2 +1,2 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-, [[Entdeckung]]
+, [[Entdeckung]], [[Ankündigung]]

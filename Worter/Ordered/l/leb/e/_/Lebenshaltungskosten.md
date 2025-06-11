@@ -1,6 +1,8 @@
 💰 🔴 die [[Lebenshaltungskosten]], [ˈleːbn̩shaltʊŋsˌkɔstn̩](https://youglish.com/pronounce/Lebenshaltungskosten/german)
 
 ---
+*[[112-C1-Schreiben-Model#^6|^]]* Nicht nur würde die [[alltäglich]]e Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuern]]“ steigen – etwa in Form höherer [[Energiepreis]]e, [[kostspielig]]er recycelbarer [[Verpackung]]en oder teurer Bio-[[Lebensmittel]]
+
 *[[031-C1-Schreiben-T2#^6|^]]* Ich habe vollstes Verständnis dafür, dass sich [[Lebenshaltungskosten]] nicht auf einem festen Niveau halten lassen – insbesondere, da auf unserem Campus im vergangenen Jahr umfangreiche Umbauarbeiten stattgefunden haben. ^6
 
 

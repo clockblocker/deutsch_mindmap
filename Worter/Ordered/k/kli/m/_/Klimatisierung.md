@@ -1,1 +1,1 @@
-, [[Kühlung]]
+, [[Kühlung]], [[Klimaanlage]]

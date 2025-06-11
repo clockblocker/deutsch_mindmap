@@ -1,1 +1,1 @@
-, [[ankündigen]]
+, [[ankündigen]], [[Ankündigung]]

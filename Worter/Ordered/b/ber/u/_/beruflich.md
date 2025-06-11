@@ -1,6 +1,8 @@
 💼 [[beruflich]], [bəˈʁuːflɪç]
 
 ---
+*[[111-C1-Schreiben-Model#^7|^]]* LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e,
+
 *[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]]* Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein. ^2
 
 

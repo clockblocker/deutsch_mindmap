@@ -1,1 +1,1 @@
-, [[schaden]]
+, [[schaden]], [[Entschädigung]]

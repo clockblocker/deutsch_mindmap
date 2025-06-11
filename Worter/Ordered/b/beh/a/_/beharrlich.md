@@ -1,2 +1,2 @@
 
-, [[zielstrebig]]
+, [[zielstrebig]], [[konsequent]]

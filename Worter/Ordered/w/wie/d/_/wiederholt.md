@@ -8,4 +8,4 @@
 mehrmals
 Öfteren
 einmalig, [[einhundertmal]]
-, [[wieder von vorn]]
+, [[wieder von vorn]], [[mehrfach]]

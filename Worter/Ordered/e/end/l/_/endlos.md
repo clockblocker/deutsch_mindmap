@@ -2,6 +2,9 @@ endlos, [ˈɛntloːs]
 nicht [[begrenzt]]
 
 ---
+*[[111-C1-Schreiben-Model#^8|^]]* und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
+
+
 Es gibt Menschen, bei denen selbst kleine Arbeiten [[endlos]] dauern. 
 
 

@@ -2,6 +2,9 @@
 die [[Unterhaltungen]]
 
 ---
+*[[111-C1-Schreiben-Model#^2|^]]* Sie ermöglichen [[sowohl]] dauerhaften sozialen Kontakt als auch grenzenlose [[Unterhaltung]]. ^2
+
+
 *[[C1-Lesen-T2-100-Text#^2|^]]* Jugendliche [[legen]] in der Mehrzahl [[Wert]] auf Spaß sowie [[Unterhaltung]] und [[anstreben|streben]] einen unkomplizierten [[Umgang]] mit [[Gleichaltrigen]] an, was sich auch sprachlich [[ausdrückt]]. ^2
 
 

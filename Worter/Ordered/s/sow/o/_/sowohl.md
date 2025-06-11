@@ -5,6 +5,9 @@
 ➕ [[sowohl]], [zoˈvoːl](https://youglish.com/pronounce/sowohl/german)
 
 ---
+*[[111-C1-Schreiben-Model#^2|^]]* Sie ermöglichen [[sowohl]] dauerhaften sozialen Kontakt als auch grenzenlose [[Unterhaltung]]. ^2
+
+
 Mit diesem Kriterium wird die [[inhaltliche]] [[Bearbeitung]] der Aufgabe [[bewertet]].
 
 In den vergangenen zehn Jahren wurden [[nahezu]] jeden Sommer neue [[Temperaturrekorde]] [[verzeichnet]], und [[sowohl]] die [[Zahl]] der Hitzewellen als auch der Waldbrände ist deutlich [[gestiegen]]

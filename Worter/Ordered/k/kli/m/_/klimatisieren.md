@@ -1,1 +1,1 @@
-, [[Klimabedingung]]
+, [[Klimabedingung]], [[Klimaanlage]]

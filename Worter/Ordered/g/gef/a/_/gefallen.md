@@ -1,6 +1,8 @@
 ❤️ [[gefallen]], [ɡəˈfalən](https://youglish.com/pronounce/gefallen/german) → [[gefiel]] → haben [[gefallen]]
 
 ---
+*[[215-C1-Schreiben-Model#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] durch Sie und Ihr Team
+
 Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas Bericht nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem Bericht. 
 
 Was sollten Sie tun, wenn Sie von Ihrem [[Ansprechpartner]] / Ihrer Ansprechpartnerin in einer deutschen [[Behörde]] schlecht [[behandelt]] werden? (95%)

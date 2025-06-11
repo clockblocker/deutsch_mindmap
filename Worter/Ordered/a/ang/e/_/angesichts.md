@@ -1,6 +1,8 @@
 🧐 [[angesichts]], [ˈaŋɡəˌzɪçts](https://youglish.com/pronounce/angesichts/german)
 
 ---
+*[[111-C1-Schreiben-Model#^12|^]]* [[Angesichts]] dieser Risiken stellt sich die Frage, wie man einen ausgewogenen [[Lebensstil]] mit sozialen Medien im [[Alltag]] erreichen kann
+
 Ich habe vollstes Verständnis dafür, dass es [[angesichts]] des Arbeits- und [[Zeitdruck]]s zu [[Verzögerung]]en kommen kann. 
 
 *[[101-C1-Schreiben-T1#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt sich die [[Frage]], wie man einen [[ausgewogenen]] [[Lebensstil]] mit sozialen Medien im [[Alltag]] [[erreichen]] kann. ^9

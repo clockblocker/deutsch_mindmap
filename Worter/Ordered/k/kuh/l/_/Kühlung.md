@@ -27,4 +27,4 @@ G: der [[Kühlung]], der [[Kühlung]]
 D: der [[Kühlung]], den [[Kühlung]]
 
 
-#Feminin 
+#Feminin , [[Klimaanlage]]

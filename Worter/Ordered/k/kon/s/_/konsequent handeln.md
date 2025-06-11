@@ -1,1 +1,1 @@
-, [[Konsequenz]]
+, [[Konsequenz]], [[konsequent]]

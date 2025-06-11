@@ -1,1 +1,1 @@
-, [[Anzeige]], [[Betriebsgeheimnis]], [[Mitteilung]], [[Ausschreibung]]
+, [[Anzeige]], [[Betriebsgeheimnis]], [[Mitteilung]], [[Ausschreibung]], [[Ankündigung]]

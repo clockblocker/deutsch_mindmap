@@ -6,6 +6,9 @@
 sein [[gestiegen]]
 
 ---
+*[[112-C1-Schreiben-Model#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und Waldbrände [[deutlich]] [[gestiegen]]
+
+
 *[[bro-schrieben-c1-t1-004#^8|^]]* Ein wichtiges Argument gegen eine immer älter [[werdende]] [[Gesellschaft]] ist, dass [[infolge]] [[steigen]]der [[Bevölkerungszahlen]] ein [[Mangel]] an [[Naturressourcen]] wie Wasser und Lebensmitteln entstehen könnte
 
 _[[203-C1-Schreiben-T2#^2|^]]_ Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeiten]] nicht alle [[Bedürfnisse]] [[berücksichtigen]] kann - insbesondere, da die [[Besucherzahl]] zum [[Jahresende]] deutlich [[gestiegen]] ist

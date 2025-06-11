@@ -1,1 +1,1 @@
-, [[Lastenrad]]
+, [[Lastenrad]], [[Fahrrad]]

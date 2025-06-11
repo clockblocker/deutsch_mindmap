@@ -1,2 +1,2 @@
 , [[Soldat]], [[Held]], [[Faust]]
-, [[umkämpfen]], [[Feinstaubprotagonist]]
+, [[umkämpfen]], [[Feinstaubprotagonist]], [[Kampf]]

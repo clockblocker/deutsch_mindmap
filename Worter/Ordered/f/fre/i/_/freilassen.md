@@ -1,1 +1,1 @@
-, [[bestrafen]], [[bändigen]], [[befreien]], [[verhaften]], [[festnehmen]], [[gefangenzuhalten]], [[entführen]]
+, [[bestrafen]], [[bändigen]], [[befreien]], [[verhaften]], [[festnehmen]], [[gefangenzuhalten]], [[entführen]], [[abschließen]]

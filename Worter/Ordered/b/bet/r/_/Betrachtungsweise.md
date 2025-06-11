@@ -28,4 +28,4 @@ A: die [[Betrachtungsweise]], die [[Betrachtungsweisen]]
 G: der [[Betrachtungsweise]], der [[Betrachtungsweisen]]
 D: der [[Betrachtungsweise]], den [[Betrachtungsweisen]]
 
-#Feminin 
+#Feminin , [[in Betracht ziehen]]

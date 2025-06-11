@@ -30,3 +30,4 @@ D: der [[Öffnungszeit]], den [[Öffnungszeiten]]
 ---
 
 [[öffnen]], [[Öffnung]], [[zeit]], [[Öffnungszeiten]], [[Öffnungszeiten]]
+, [[Restaurantöffnungszeit]]

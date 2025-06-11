@@ -38,4 +38,4 @@ Partizip I: [[fragend]], Partizip II: [[gefragt]]
 , [[befragen]], [[Fragerei]], [[ungefragt]], [[verfügen]]
 
 [[frage]]
-, [[Ausgangsfrage]]
+, [[Ausgangsfrage]], [[anfragen]]

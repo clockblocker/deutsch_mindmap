@@ -1,8 +1,10 @@
-
 🤝 🔴 die [[Betreuung]], [bəˈtʁøːʊŋ](https://youglish.com/pronounce/Betreuung/german)
 die [[Betreuungen]]
 
 ---
+*[[215-C1-Schreiben-Model#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] durch Sie und Ihr Team
+
+
 📚 [[Pflege]] / [[Betreuung]] / [[Verantwortung]] *Attention, Care, Responsibility*
 
 ---

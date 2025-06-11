@@ -1,1 +1,1 @@
-, [[Reparationsleistung]], [[Ausgleich]], [[Lohn]], [[Wiedergutmachung]], [[kompensieren]]
+, [[Reparationsleistung]], [[Ausgleich]], [[Lohn]], [[Wiedergutmachung]], [[kompensieren]], [[Entschädigung]]

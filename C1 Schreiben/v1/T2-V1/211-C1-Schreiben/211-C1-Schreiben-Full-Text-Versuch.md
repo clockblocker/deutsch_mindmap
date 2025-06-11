@@ -16,6 +16,14 @@ Schreiben Sie circa 120 Wörter.
 
 ---
 
+![[ElevenLabs_2025-06-11T08_16_53_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+Sehr geehrte Frau Keller,
+
+ich wende mich an Sie, um auf mein zukünftiges MBA-Studuim an der Technischen Univetsität München einzugehen. 
+
+Ich have vollstes Verständnis dafür, das die Firma unter Personalmängel jede 
+
 ###### 03.06: *15 / 40*  
 
 Sehr geehrte Fraf Keller,

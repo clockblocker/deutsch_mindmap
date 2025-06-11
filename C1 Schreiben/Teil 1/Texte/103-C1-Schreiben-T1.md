@@ -14,8 +14,6 @@ Schreiben Sie circa 230 Wörter.
 
 ---
 
-*Heute wird überall darüber diskutiert, was die Regierung tun kann, um die Bürger:innen zu dabei helfen, die Berufs- und Familienleben miteinander erfolgreich zu vereinbaren.* 
-
 In den letzten fünf Jahrzehnten ist die Geburtenrate deutlich gesunken - obwohl sich die gewünschte Kinderzahl kaum verändert hat. Eine mögliche Ursache dafür könnten die finanziellen und logistischen Schwierigkeiten sein, die entstehen, wenn beide Elternteile berufstätig sind und gleichzeitig die Kinder betreuen müssen.
 
 Da Rentensysteme und Volkswirtschaften auf eine höhere Geburtenrate angewiesen sind, ist es für Staaten sinnvoll, Bürger:innen dabei zu unterstützen, Berufs- und Familienleben erfolgreich miteinander zu vereinbaren. So würden sowohl die Unternehmen von heute mit der benötigten Belegschaft versorgt als auch die demografische Zukunft des Landes gesichert.

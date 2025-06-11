@@ -1,6 +1,7 @@
 ✅ [[unbestreitbar]], [ʊnbəˈʃtʁaɪ̯tbaːɐ̯](https://youglish.com/pronounce/unbestreitbar/german)
 
 ---
+*[[111-C1-Schreiben-Model#^4|^]]* Auf der einen Seite ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – fast jeder Wunsch der Nutzer:innen kann [[erfüllt]] werden
 
 
 ---

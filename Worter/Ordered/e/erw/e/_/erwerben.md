@@ -1,6 +1,9 @@
 💰 [[erwerben]], [ɛɐ̯ˈvɛʁbn̩](https://youglish.com/pronounce/erwerben/german) → [[erwarb]] → [[erworben]]
 
 ---
+*[[112-C1-Schreiben-Model#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] statt des Autos als [[Verkehrsmittel]] nutzen oder [[Kleidung]] in Second-Hand-Läden kaufen, [[anstatt]] [[ständig]] neue Sachen bei Fast-Fashion-[[Anbieter]]n oder in [[modisch]]en [[Boutique]]n zu [[erwerben]]
+
+
 *[[102-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]
 
 *[[C1-Hoehen-T2-201-Text#^26|^]]* weil sie denken, dass sie dieses Verständnis nicht mehr [[erwerben]] können

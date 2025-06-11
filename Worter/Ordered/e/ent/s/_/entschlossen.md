@@ -28,4 +28,4 @@ Plural: [[entschlossenen]], [[entschlosseneren]], [[entschlossenesten]]
 
 [[Entschlossenheit]], [[Entschlusskraft]], [[entschließen]], [[ratlos]], [[standhaft]], [[tapfer]], [[zaghaft]]
 , [[beherzt]]
-, [[selbstbewusst]], [[Entscheidungsfreude]], [[zielgerichtet]]
+, [[selbstbewusst]], [[Entscheidungsfreude]], [[zielgerichtet]], [[konsequent]]

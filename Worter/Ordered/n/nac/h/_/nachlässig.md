@@ -1,1 +1,1 @@
-[[schlampig]], [[faul]], [[sorglich]], [[leichtsinnig]], [[ordentlich]], [[gründlich]], [[sorgsam]], [[Nachlässigkeit]], [[verantwortungsvoll]], [[akribisch]], [[vernachlässigen]]
+[[schlampig]], [[faul]], [[sorglich]], [[leichtsinnig]], [[ordentlich]], [[gründlich]], [[sorgsam]], [[Nachlässigkeit]], [[verantwortungsvoll]], [[akribisch]], [[vernachlässigen]], [[vorsorglich]]

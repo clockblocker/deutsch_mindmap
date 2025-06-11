@@ -3,6 +3,8 @@
 haben [[geschlossen]]
 
 ---
+*[[216-C1-Schreiben-Model#^4|^]]* Am zweiten Abend war das Restaurant [[entgegen]] der [[Ankündigung]] auf Ihrer Website [[geschlossen]]
+
 
 Der Richter erklärt den Fall für [[geschlossen]].
 

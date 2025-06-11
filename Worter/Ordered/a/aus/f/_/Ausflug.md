@@ -2,6 +2,12 @@
 die [[Ausflüge]]
 
 ---
+*[[215-C1-Schreiben-Model#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] durch Sie und Ihr Team
+
+*[[215-C1-Schreiben-Model#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren sogar einmal gezwungen, in einem Hostel statt im [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]
+
+*[[215-C1-Schreiben-Model#^7|^]]* [[Zusätzlich]] halte ich es für sinnvoll, für [[Ausflüge]] [[vorsorglich]] alternative Routen bei [[möglich]]en Verkehrsproblemen zu planen
+
 [[Unterwegs]] zum Bahnhof haben wir über unseren [[Ausflug]] aufs Land gesprochen 
 
 *[[C1-Lesen-421-Text#^14|^]]* In Südbayern werden motorisierte [[Ausflügler]] am Wochenende massiv [[zur Kasse gebeten]]

@@ -1,1 +1,1 @@
-, [[vorsichtig]]
+, [[vorsichtig]], [[vorsorglich]]

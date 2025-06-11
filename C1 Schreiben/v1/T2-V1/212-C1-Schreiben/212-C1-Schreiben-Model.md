@@ -14,6 +14,9 @@ Frau Ebert aus der Kommunikationsabteilung plant, die Kantine Ihrer Firma in ein
 
 
 ---
+
+![[0212.mp3]]
+
 Sehr geehrte Frau Ebert,
 
 ich habe vollstes Verständnis dafür, dass geplante Funktionsräume die interne Kommunikation fördern – ein Aspekt, der im Arbeitsalltag unabdingbar ist.

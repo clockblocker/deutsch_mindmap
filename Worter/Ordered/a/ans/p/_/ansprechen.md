@@ -3,6 +3,8 @@
 haben [[angesprochen]]
 
 ---
+*[[216-C1-Schreiben-Model#^2|^]]* Besonders gefiel mir das [[ansprechen]]de [[Ambiente]] der [[Lobby]]
+
 *[[C1-Lesen-421-Text#^51|^]]* Darüber hinaus soll die Aufmerksamkeit auf die [[Randgebiet]]e Berlins [[gelenkt]] werden, die auch nicht wenig [[Ansprechende]]s zu [[bieten]] haben
 
 *[[C1-Lesen-T2-200-Text#^7|^]]* Der Stern hat den Vorteil, dass sich Menschen mit unterschiedlichen Geschlechtsidentitäten [[vertreten]] und [[angesprochen]] [[fühlen]]

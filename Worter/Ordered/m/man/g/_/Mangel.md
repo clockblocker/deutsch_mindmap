@@ -5,6 +5,8 @@ die [[Mängel]]
 ---
 Andererseits ist der [[Bewegungsmangel]] im Home-Office ein großes Problem.
 
+*[[216-C1-Schreiben-Model#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von mehreren [[Mängeln]] [[beeinträchtigt]]: Die [[Klimaanlage]] im Zimmer funktionierte nur [[sporadisch]], wodurch es [[nachts]] sehr heiß war. Das WLAN war [[unzuverlässig]] und [[abbrachen|brach]] [[mehrfach]] ab
+
 *[[bro-schrieben-c1-t1-004#^8|^]]* Ein wichtiges Argument gegen eine immer älter [[werdende]] [[Gesellschaft]] ist, dass [[infolge]] [[steigen]]der [[Bevölkerungszahlen]] ein [[Mangel]] an [[Naturressourcen]] wie Wasser und Lebensmitteln entstehen könnte
 
 *[[C1-Hoehen-T3-301-Text#^3|^]]* Der Fachkräftemangel könnte dazu führen, dass viele Supermärkte aus [[Mangel]] an [[Ware]]n schließen

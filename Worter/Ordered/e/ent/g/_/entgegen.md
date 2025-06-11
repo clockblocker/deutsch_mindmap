@@ -1,6 +1,8 @@
 [[entgegen]], [ˈɛntˌɡeːɡən]
 
 ---
+*[[216-C1-Schreiben-Model#^4|^]]* Am zweiten Abend war das Restaurant [[entgegen]] der [[Ankündigung]] auf Ihrer Website [[geschlossen]]
+
 
 [[Entgegen]] meinem [[Rat]] hat er es gemacht.
 

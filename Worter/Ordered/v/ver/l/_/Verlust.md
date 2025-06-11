@@ -41,4 +41,4 @@ Einzigartige mögliche Formen: [[Verlustes]], [[Verluste]], [[Verlusten]], [[Ver
 ---
 
 #Substantiv #Maskulin, [[Gewinnorientierung]], [[Zunahme]]
-, [[Einnahme]], [[Steigerungsquote]], [[Beibehaltung]], [[verschollen]], [[Wiederentdeckung]]
+, [[Einnahme]], [[Steigerungsquote]], [[Beibehaltung]], [[verschollen]], [[Wiederentdeckung]], [[Entschädigung]]

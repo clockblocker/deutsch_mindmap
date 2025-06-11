@@ -34,8 +34,6 @@ Schreiben Sie circa 230 Wörter.
 
 ---
 
-*Heute wird kontrovers darüber diskutiert, was die Menschen für den [[Klimaschutz]] tun könnten, um die Herausforderungen des Klimawandels zu bewältigen.*
-
 In den vergangenen zehn Jahren wurden in nahezu jedem Sommer neue Temperaturrekorde verzeichnet; mittlerweile ist die Zahl der Hitzewellen und Waldbrände deutlich gestiegen. Aus diesem Grund steht das Thema Klimaschutz im Mittelpunkt öffentlicher Diskussionen.
 
 Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es zahlreiche persönliche Maßnahmen zum Schutz der Umwelt gibt. Man kann zum Beispiel das Fahrrad statt des Autos als Verkehrsmittel nutzen oder Kleidung in Second-Hand-Läden kaufen, anstatt ständig neue Sachen bei Fast-Fashion-Anbietern oder in modischen Boutiquen zu erwerben.

@@ -6,6 +6,7 @@
 die [[Handlungen]]
 
 ---
+*[[112-C1-Schreiben-Model#^5|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] leichter gesagt als getan ist
 
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt
 

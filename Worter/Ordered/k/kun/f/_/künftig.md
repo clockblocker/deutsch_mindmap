@@ -3,6 +3,10 @@
 🔮 [[künftig]], [ˈkʏnftɪç](https://youglish.com/pronounce/künftig/german) ≠ [[vergangen]]
 
 ---
+*[[215-C1-Schreiben-Model#^6|^]]* Um ähnliche Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässigen]] Transportunternehmen [[abzuschließen]]
+
+*[[216-C1-Schreiben-Model#^6|^]]* Um [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n regelmäßig zu [[warten]], die WLAN-Stabilität zu [[prüfen]] und die [[Restaurantöffnungszeit]]en aktuell auf Ihrer Website zu [[kommunizieren]]
+
 *[[Golfstorm#^4|^]]* Die sogenannte Atlantische meridionale [[Umwälzzirkulation]] (AMOC) sorgt in Nordeuropa für ein [[gemäßigtes]] Klima, könnte [[künftig]] aber schwächer [[ausfallen]]
 
 *[[C1-Hoehen-T3-301-Text#^62|^]]* Die [[Löhne]] und [[Gehälter]] sind ein Aspekt, aber es wird [[künftig]] auch immer wichtiger, qualifizierte Arbeitskräfte zu [[binden]]

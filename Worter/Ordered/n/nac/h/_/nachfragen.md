@@ -56,4 +56,4 @@ sie, [[fragen nach]], [[fragten nach]], [[fragen nach]], [[fragten nach]], [[fra
 Adjektive: [[nachfragend]], [[nachfragender]], [[nachfragendst]]
 
 ---
-[[nachfragender]], [[nachfragendes]], [[nachfragende]], [[nachfragenden]], [[nachfragendem]], [[nachfragenderer]], [[nachfragenderes]], [[nachfragendere]], [[nachfragenderen]], [[nachfragenderem]], [[nachfragendster]], [[nachfragendstes]], [[nachfragendste]], [[nachfragendsten]], [[nachfragendstem]]
+[[nachfragender]], [[nachfragendes]], [[nachfragende]], [[nachfragenden]], [[nachfragendem]], [[nachfragenderer]], [[nachfragenderes]], [[nachfragendere]], [[nachfragenderen]], [[nachfragenderem]], [[nachfragendster]], [[nachfragendstes]], [[nachfragendste]], [[nachfragendsten]], [[nachfragendstem]], [[anfragen]]

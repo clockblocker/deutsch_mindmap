@@ -4,7 +4,7 @@
 die [[Schutze]] oder [[Schutzarten]]
 
 ---
-*[[102-C1-Schreiben-T1#^2|^]]* Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es [[zahlreiche]] persönliche [[Maßnahme]]n `zum` [[Schutz]] der [[Umwelt]] gibt. 
+*[[112-C1-Schreiben-Model#^3|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es zahlreiche persönliche Maßnahmen `zum` [[Schutz]] der Umwelt gibt
 
 *[[C1-Hoehen-T1-100-Text#^19|^]]* Auch die Stadt [[unternimmt]] einiges, um Spekulation in bestimmten Stadtteilen [[einzudämmen]], zum Beispiel Kündigungsschutz für Mieterinnen und Mieter bei [[Wohnungsverkauf]], [[Schutz]] bei der [[Umwandlung]] in [[Eigentumswohnungen]]. ^19
 

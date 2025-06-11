@@ -5,6 +5,8 @@
 ---
 Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]
 
+*[[216-C1-Schreiben-Model#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von mehreren [[Mängeln]] [[beeinträchtigt]]: Die [[Klimaanlage]] im Zimmer funktionierte nur [[sporadisch]], wodurch es [[nachts]] sehr heiß war. Das WLAN war [[unzuverlässig]] und [[abbrachen|brach]] [[mehrfach]] ab
+
 *[[C1-Hoehen-T2-102-Text#^45|^]]* Und das [[beeinträhtigt]] unsere Gesundheit vermutlich nicht [[unerheblich]]
 
 *[[bro-schrieben-c1-t1-001#^7|^]]* Es gibt auch [[weiter]]e [[Aspekt]]e [[außer]] Doping, die einen [[fair]]en [[Konkurrenzkampf]] [[beeinträchtigen]] könnten, [[nämlich]] eine [[Vergiftung]] des [[Gegner]]s, z. B. im [[Pferdesport]]

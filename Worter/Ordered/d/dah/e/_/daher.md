@@ -5,6 +5,9 @@
 ➡️ [[daher]], [daˈheːɐ̯](https://youglish.com/pronounce/daher/german)
 
 ---
+*[[216-C1-Schreiben-Model#^5|^]]* [[Daher]] möchte ich höflich [[anfragen]], ob eine [[Entschädigung]] für die [[entstandenen]] [[Unannehmlichkeit]]en in Betracht gezogen werden könnte
+
+
 Ich bin krank, [[daher]] kann ich nicht zur Party kommen.
 
 *denn der [[Schneider]] mit der [[Scher]]*  

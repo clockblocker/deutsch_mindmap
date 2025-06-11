@@ -59,4 +59,4 @@ P: [[häufigen]], [[häufigeren]], [[häufigsten]]
 ---
 [[häufig]], [[Häufigkeit]], [[Häufung]], [[aufhäufen]], [[anhäufen]]
 
-, [[selten]], [[manchmal]],  [[Techniker]], [[C1-Hoehen-T3-401-Text]]
+, [[selten]], [[manchmal]],  [[Techniker]], [[C1-Hoehen-T3-401-Text]], [[mehrfach]]

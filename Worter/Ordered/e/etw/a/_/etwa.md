@@ -5,6 +5,9 @@ formal for [[wie]]
 🤔 [[etwa]], [ˈɛtva](https://youglish.com/pronounce/etwa/german)
 
 ---
+*[[111-C1-Schreiben-Model#^10|^]]* So wird [[etwa]] die [[konstant]]e Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das deutlich gesunkene Leseverstehen angesehen. ^10
+
+
 *[[Golfstorm#^17|^]]* Die Autoren der aktuellen Studie simulierten eine Welt unter extremen [[Klimabedingungen]] wie einem viel höheren CO₂-Gehalt in der Atmosphäre und einem massiven Zustrom von 
 
 *[[C1-Hoehen-T2-201-Text#^40|^]]* Das [[entspricht]] [[etwa]] dem [[Tausendfachen]] der [[weltweiten]] [[Weizenernte]] eines Jahres

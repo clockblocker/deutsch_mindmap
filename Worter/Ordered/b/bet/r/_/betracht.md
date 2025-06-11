@@ -1,1 +1,1 @@
-, [[betrachten]], [[Hinsicht]]
+, [[betrachten]], [[Hinsicht]], [[in Betracht ziehen]]

@@ -1,4 +1,4 @@
-[[C1-Schreiben-Root|Back to Root]]
+  [[C1-Schreiben-Root|Back to Root]]
 
 [[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Drills|Drills]]
 [[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
@@ -13,6 +13,8 @@ Sie haben soeben eine zweiwöchige Gruppenreise mit dem Veranstalter SunTravel T
 - Machen Sie Vorschläge, wie man solche Mängel in Zukunft vermeiden kann.
 
 ---
+
+![[0215.mp3]]
 
 Sehr geehrte Frau König,
 
@@ -37,15 +39,24 @@ Denis Popov
 
 Sehr geehrte Frau König,
 
-zunächst danke ich Ihnen für den Service und die ruhige Lage Ihres Hotels Seeblick. Besonders gefiel mir das Ambiente der Lobby.
+*[[215-C1-Schreiben-Model#^1|^]]* [[zunächst]] möchte ich mich dafür bedanken, dass Sie unsere Gruppenreise so [[kompetent]] [[begleitet]] haben. ^1
 
-Leider wurde mein dreitägiger Aufenthalt von mehreren Mängeln beeinträchtigt: Die Klimaanlage im Zimmer funktionierte nur sporadisch, sodass es nachts sehr warm war. Das WLAN brach wiederholt zusammen, und das Restaurant war entgegen Ihrer Internet-Ankündigung an zwei Abenden geschlossen.
+*[[215-C1-Schreiben-Model#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] durch Sie und Ihr Team. ^2
 
-Könnten Sie mir bitte einen Teil der Übernachtungskosten erstatten oder alternativ einen Gutschein für einen künftigen Aufenthalt anbieten?
 
-Um solche Unannehmlichkeiten künftig zu vermeiden, schlage ich vor, die Klimaanlagen regelmäßig warten zu lassen, die WLAN-Stabilität zu überprüfen und die Restaurantöffnungszeiten aktuell auf Ihrer Website zu halten.
+*[[215-C1-Schreiben-Model#^3|^]]* Allerdings kam es [[mehrfach]] zu [[Verspätung]]en bei den Busfahrten. ^3
+
+*[[215-C1-Schreiben-Model#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren sogar einmal gezwungen, in einem Hostel statt im [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]. ^4
+
+*[[215-C1-Schreiben-Model#^5|^]]* Daher möchte ich höflich [[anfragen]], ob eine [[Entschädigung]] für die [[entstanden]]en [[Unannehmlichkeit]]en [[in Betracht gezogen]] werden könnte. ^5
+
+
+*[[215-C1-Schreiben-Model#^6|^]]* Um ähnliche Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässigen]] Transportunternehmen [[abzuschließen]]. ^6
+
+*[[215-C1-Schreiben-Model#^7|^]]* [[Zusätzlich]] halte ich es für sinnvoll, für Ausflüge [[vorsorglich]] alternative Routen bei [[möglich]]en Verkehrsproblemen zu planen. ^7
+
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
-Mit freundlichen Grüßen  
+Mit freundlichen Grüßen
 Denis Popov

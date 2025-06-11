@@ -1,8 +1,8 @@
 📃 [[dienen]] + Dat/Akk, [ˈdiːnən]
-[[diente]]
-haben [[gedient]]
+
 
 ---
+*[[111-C1-Schreiben-Model#^7|^]]* LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e,
 
 _[[TD#^2|^]]_ **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]
 
