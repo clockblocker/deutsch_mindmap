@@ -14,7 +14,7 @@ _[[C1-Lesen-T2-102-Text#^16|^]]_ Das Gewicht eines normal [[gebauten]] Menschen 
 _Aang hat aus Appas [[Schwanz]] eine [[Rutsche]] [[gebaut]], von der nun die kleinen Kinder [[rutschen]]._
 
 2. Der deutsche Staat hat viele [[Aufgaben]]. Welche Aufgabe gehört dazu? (96%)
-   - [x] Er [[baut]] [[Straßen]] und [[Schulen]].
+   - [x] Er [[baut]] [[Straßen]] und [[schulen]].
    - [ ] Er verkauft Lebensmittel und Kleidung.
    - [ ] Er [[versorgt]] alle [[Einwohner]] und [[Einwohnerinnen]] [[kostenlos]]mit Zeitungen.
 
@@ -52,4 +52,4 @@ Partizip I: [[bauend]], Partizip II: [[gebaut]]
 +[[auf]] = [[aufbauen]],
 
 [[einbauen]], [[umbauen]], [[errichteten]], [[Gebäude]], [[s1 e1]], [[Bauingenieur]], [[Baustelle]], [[Bauart]], [[Zusammenbau]], [[Bauarbeit]], [[ausbauen]], [[Schiffbau]], [[anbauen]]
-, [[Baukunst]]
+, [[Baukunst]], [[Bautätigkeit]], [[Altbau]]

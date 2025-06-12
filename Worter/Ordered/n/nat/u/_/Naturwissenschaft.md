@@ -27,4 +27,4 @@ A: die [[Naturwissenschaft]], die [[Naturwissenschaften]]
 G: der [[Naturwissenschaft]], der [[Naturwissenschaften]]
 D: der [[Naturwissenschaft]], den [[Naturwissenschaften]]
 
-#Feminin , [[MINT]]
+#Feminin , [[MINT]], [[Fachkraft]]

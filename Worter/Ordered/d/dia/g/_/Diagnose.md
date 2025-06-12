@@ -1,1 +1,1 @@
-, [[Abstrich]]
+, [[Abstrich]], [[Diagnosegerät]]

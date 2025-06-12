@@ -1,1 +1,1 @@
-, [[Entwicklungspotenzial]]
+, [[Entwicklungspotenzial]], [[Weiterbildungschance]]

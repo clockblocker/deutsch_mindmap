@@ -23,4 +23,4 @@ G: des [[Bohrmaschine]]s, der [[Bohrmaschinen]]
 D: dem [[Bohrmaschine]], den [[Bohrmaschinen]]  
 
 ---
-[[bohren]], [[Bohrer]], [[maschinell]], [[Elektrowerkzeug]], [[herstellen]]
+[[bohren]], [[Bohrer]], [[maschinell]], [[Elektrowerkzeug]], [[herstellen]], [[Maschine]]

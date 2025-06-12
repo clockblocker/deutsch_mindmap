@@ -1,1 +1,1 @@
-[[mittel]], [[Rechner]], [[Gerät]], [[Werkzeug]]
+[[mittel]], [[Rechner]], [[Gerät]], [[Werkzeug]], [[Maschine]]

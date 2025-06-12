@@ -1,1 +1,1 @@
-, [[Riechsinn]]
+, [[Riechsinn]], [[Sensor]]

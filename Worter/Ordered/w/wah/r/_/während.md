@@ -5,6 +5,16 @@
 🔗 während, [ˈveːʀʌnt]
 
 ---
+---
+
+*[[215-LEGO#^11|^]]* Brillen mit digitaler [[Anleitung]] können [[komplex]]e [[Montageprozess]]e [[erleichtern]], [[während]] [[Sensor]]en in [[Maschine]]n [[frühzeitig]] [[Verschleiß]] [[anzeigen]]
+
+
+
+----
+
+
+
 *[[C1-Lesen-412-Text#^4|^]]* `Bei` [[kaum]] jemandem sind die Hände [[während]] des Sprechens [[unbeteiligt]]
 
 ![[006-C1-Schreiben-T2#^2|^]]

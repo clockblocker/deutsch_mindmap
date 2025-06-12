@@ -30,4 +30,4 @@ A: den [[Wohnungsmarkt]], die [[Wohnungsmärkte]]
 G: des [[Wohnungsmarktes]], der [[Wohnungsmärkte]]
 D: dem [[Wohnungsmarkt]], den [[Wohnungsmärkten]]
 
-#Maskulin , [[verdeutlichen]]
+#Maskulin , [[verdeutlichen]], [[Fachkraft]]

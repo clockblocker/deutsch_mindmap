@@ -1,1 +1,1 @@
-, [[erben]], [[Nachlass]], [[hinterlassen]]
+, [[erben]], [[Nachlass]], [[hinterlassen]], [[tradieren]]

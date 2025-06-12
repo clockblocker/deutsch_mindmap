@@ -50,3 +50,4 @@ Morpheme: [[deut]], [[en]]
 Partizip I: [[deutend]], Partizip II: [[gedeutet]]
 
 , [[Deutung]], [[deutlich]], [[Auslegung]], [[weisen]], [[s1 e1]], [[eindeutig]], [[hindeuten]], [[entziffern]], [[ablesen]], [[Deutlichkeit]]
+, [[unverzichtbar]]

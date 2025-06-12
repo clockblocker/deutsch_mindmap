@@ -25,4 +25,4 @@ A: den [[Job]], die [[Jobs]]
 G: des [[Jobs]], der [[Jobs]]
 D: dem [[Job]], den [[Jobs]]
 
-#Maskulin , [[Arbeitsaufgabe]]
+#Maskulin , [[Arbeitsaufgabe]], [[Verdienstmöglichkeit]]

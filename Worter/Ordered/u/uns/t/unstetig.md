@@ -1,1 +1,1 @@
-, [[stetig]]
+, [[stetig]], [[konstant]]

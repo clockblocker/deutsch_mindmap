@@ -44,4 +44,4 @@ sie, [[befeueren]], [[befeuerten]], [[befeueren]], [[befeuerten]], [[befeueren]]
 Adjektive: [[befeuernd]], [[befeuernder]], [[befeuerndst]]
 
 ---
-[[befeuernder]], [[befeuerndes]], [[befeuernde]], [[befeuernden]], [[befeuerndem]], [[befeuernderer]], [[befeuernderes]], [[befeuerndere]], [[befeuernderen]], [[befeuernderem]], [[befeuerndster]], [[befeuerndstes]], [[befeuerndste]], [[befeuerndsten]], [[befeuerndstem]]
+[[befeuernder]], [[befeuerndes]], [[befeuernde]], [[befeuernden]], [[befeuerndem]], [[befeuernderer]], [[befeuernderes]], [[befeuerndere]], [[befeuernderen]], [[befeuernderem]], [[befeuerndster]], [[befeuerndstes]], [[befeuerndste]], [[befeuerndsten]], [[befeuerndstem]], [[befeuern]]

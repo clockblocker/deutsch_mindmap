@@ -25,4 +25,4 @@ solid, sound
 Adjektive: [[solide]], [[solider]], [[solideste]]
 
 ---
-[[solideer]], [[solidees]], [[solidee]], [[solideen]], [[solideem]], [[soliderer]], [[solideres]], [[solidere]], [[solideren]], [[soliderem]], [[solidesteer]], [[solidestees]], [[solidestee]], [[solidesteen]], [[solidesteem]]
+[[solideer]], [[solidees]], [[solidee]], [[solideen]], [[solideem]], [[soliderer]], [[solideres]], [[solidere]], [[solideren]], [[soliderem]], [[solidesteer]], [[solidestees]], [[solidestee]], [[solidesteen]], [[solidesteem]], [[verlässlich]]

@@ -1,1 +1,1 @@
-, [[zusammenschrauben]], [[Zusammenbau]]
+, [[zusammenschrauben]], [[Zusammenbau]], [[Installation]], [[Montageprozess]]

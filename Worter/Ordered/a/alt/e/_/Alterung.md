@@ -1,1 +1,1 @@
-, [[Lebensalter]], [[altern]]
+, [[Lebensalter]], [[altern]], [[Verschleiß]]

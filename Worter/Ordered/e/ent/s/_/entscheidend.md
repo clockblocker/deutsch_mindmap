@@ -3,6 +3,16 @@
 🎯 [[entscheidend]], [ɛntˈʃaɪ̯dnt](https://youglish.com/pronounce/entscheidend/german) |  [[entscheiden]] | [[Entscheidung]]
  
 ---
+----
+
+*[[215-LEGO#^2|^]]* `Bei` der [[Berufswahl]] spielen [[verschiedene]] Kriterien eine Rolle: `Neben` [[persönlich]]en [[Neigung]]en und [[Talent]]en sind `vor` `allem` [[Arbeitsmarktperspektive]]n, [[Verdienstmöglichkeit]]en und [[Weiterbildungschance]]n [[entscheidend]]
+
+
+
+
+
+---
+
 *[[Golfstorm#^11|^]]* Die Meeresströmungen transportieren Wärme in [[verschiedene]] [[Gebiete]] der Erde und tragen [[entscheidend]] dazu bei, dass das Klima in großen Teilen der nördlichen Hemisphäre relativ mild bleibt
 
 Die [[Anzahl]] an positiven [[Bewertung]]en ist nicht allein [[entscheidend]]

@@ -3,12 +3,20 @@
 😤 [[speziellen]], [ʃpɛtsi̯ˈʔɛln̩], ≠ [[allgemein]]
 
 ---
-[[besonders]], [[speziellen]], [[grundsätzlich]], [[allgemein]]
+---
+
+*[[215-LEGO#^6|^]]* [[Hinzukommen|Hinzu kommt]], dass viele Unternehmen `in` Zeiten des [[Fachkräftemangel]]s [[speziell]]e [[Schulung]]en und [[attraktiv]]e [[Gehaltsmodell]]e [[anbieten]], um [[Fachpersonal]] [[langfristig]] zu [[binden]]
+
+
+
+
+---
+
 
 
 ---
 = [[spezifisch]], [[konkret]], [[bestimmt]]
-≈ [[individuell]], [[einzigartig]]
+≈ [[individuell]], [[einzigartig]], [[besonders]], [[speziellen]], [[grundsätzlich]], [[allgemein]]
 ≠ [[unspezifisch]], [[unbestimmt]]
 
 - in der [[speziellen]] Reihenfolge

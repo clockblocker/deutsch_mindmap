@@ -1,1 +1,1 @@
-, [[Automechatronikerin]]
+, [[Automechatronikerin]], [[Kfz-Mechatroniker]], [[Mechatroniker]]

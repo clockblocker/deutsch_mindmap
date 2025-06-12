@@ -1,7 +1,20 @@
 🧩 [[komplex]], [kɔmˈplɛks](https://youglish.com/pronounce/komplex/german) ≠ [[einfach]]
 
 ---
-*[[2 Bäumepflanzen für das Klima#^1|^]]* Bäumepflanzen für das Klima: Warum das [[komplex]] und teuer istSetzling in die Erde und fertig? ^1
+---
+
+*[[215-LEGO#^11|^]]* Brillen mit digitaler [[Anleitung]] können [[komplex]]e [[Montageprozess]]e [[erleichtern]], [[während]] [[Sensor]]en in [[Maschine]]n [[frühzeitig]] [[Verschleiß]] [[anzeigen]]
+
+
+
+
+
+---
+
+
+
+
+*[[2 Bäumepflanzen für das Klima#^1|^]]* Bäumepflanzen für das Klima: Warum das [[komplex]] und teuer istSetzling in die Erde und fertig?
 
 ---
 = [[vielschichtig]], [[verwickelt]], [[anspruchsvoll]]

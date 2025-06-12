@@ -1,10 +1,17 @@
 🤝 [[versprechen]] + Akk, [fɛɐ̯ˈʃpʁɛçn̩]
-[[versprach]]
-haben [[versprochen]]
+
+---
+---
+
+*[[215-LEGO#^3|^]]* [[Ebenso]] [[fließt ein|fließt]] [[zunehmend]] die Work-Life-Balance in die [[Entscheidung]] [[ein]], weil flexible [[Arbeitsmodell]]e und [[verlässlich]]e [[Arbeitszeit]]en [[Lebensqualität]] [[versprechen]]
+
+
 
 ---
 
-*[[C1-Lesen-T1-301-Text#^5|^]]* 4_[[Davon]]_  [[verspricht]] man sich eine wachsende Loyalität zum Unternehmen, eine emotionale Bindung und intrinsische Motivation
+
+
+*[[C1-Lesen-T1-301-Text#^5|^]]* [[Davon]]_  [[verspricht]] man sich eine wachsende Loyalität zum Unternehmen, eine emotionale Bindung und intrinsische Motivation
 *(4_[[From this]],_ one [[expects]])* 
 
 

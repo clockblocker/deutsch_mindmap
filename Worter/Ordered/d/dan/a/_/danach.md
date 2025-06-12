@@ -24,4 +24,4 @@ after that, afterwards
 ---
 [[da]]|[[nach]]
 
-, [[Konnektivpartikeln]], [[von vornherein]], [[jenseits]]
+, [[Konnektivpartikeln]], [[von vornherein]], [[jenseits]], [[zugleich]]

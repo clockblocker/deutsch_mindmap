@@ -43,4 +43,4 @@ A: das [[Fach]], die [[Fächer]]
 G: des [[Fachs]], der [[Fächer]]
 D: dem [[Fach]], den [[Fächern]]
 
-#Neuter, [[Schulfach]], [[Einfachheit]], [[Fachkräftemangel]], [[Fachhochschule]], [[mehrfach]]
+#Neuter, [[Schulfach]], [[Einfachheit]], [[Fachkräftemangel]], [[Fachhochschule]], [[mehrfach]], [[Fachpersonal]]

@@ -1,1 +1,1 @@
-, [[Heizungsbereich]]
+, [[Heizungsbereich]], [[Heizung]]

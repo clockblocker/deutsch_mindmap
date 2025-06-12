@@ -1,6 +1,14 @@
 🚶 [[gehen]], [ˈɡeːən] | [[ging]], sein [[gegangen]]
 
 ---
+---
+
+*[[215-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz]]-[[Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
+
+
+
+---
+
 
 _[[C1-Lesen-T2-102-Text#^35|^]]_ Was im [[Umkehrschluss]] natürlich heißt, dass man mit [[flott]]em [[Gehen]] [[ähnlich]] [[absprecken]] kann wie mit [[schweißtreibend]]em Hochintensiv-Training
 

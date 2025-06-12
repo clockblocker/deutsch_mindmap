@@ -28,3 +28,4 @@ D: der [[Abwanderung]], den [[Abwanderungen]]
 
 
 #Feminin 
+, [[Fachkraft]]

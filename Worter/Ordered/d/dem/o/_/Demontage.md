@@ -1,1 +1,1 @@
-, [[Bauart]], [[Zusammenbau]]
+, [[Bauart]], [[Zusammenbau]], [[Installation]], [[Montageprozess]]

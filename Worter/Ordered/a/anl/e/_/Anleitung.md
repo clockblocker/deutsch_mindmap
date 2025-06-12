@@ -1,5 +1,14 @@
 die [[Anleitung]], [ˈanlaɪ̯tʊŋ]
-die [[Anleitungen]]
+
+---
+---
+
+*[[215-LEGO#^11|^]]* Brillen mit digitaler [[Anleitung]] können [[komplex]]e [[Montageprozess]]e [[erleichtern]], [[während]] [[Sensor]]en in [[Maschine]]n [[frühzeitig]] [[Verschleiß]] [[anzeigen]]
+
+
+
+
+
 
 ---
 
@@ -28,5 +37,4 @@ Einzigartige mögliche Formen: [[Anleitung]], [[Anleitung]], [[Anleitungen]], [[
 
 ---
 
-#Substantiv #Maskulin, [[vorlesen]], [[Extra 8]], [[erst]], [[leiten]], [[Ratgeber]]
-, [[Einarbeitung]]
+#Feminin 

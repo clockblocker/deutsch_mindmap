@@ -35,3 +35,4 @@ Adjektive: [[tätig]], [[tätiger]], [[tätigst]]
 ---
 
 [[tätiger]], [[tätiges]], [[tätige]], [[tätigen]], [[tätigem]], [[tätigerer]], [[tätigeres]], [[tätigere]], [[tätigeren]], [[tätigerem]], [[tätigster]], [[tätigstes]], [[tätigste]], [[tätigsten]], [[tätigstem]], [[wohltätig]], [[Wohltätigkeit]], [[beruflich]], [[Großtat]], [[Erwerbstätigkeit]], [[Tat]], [[Berufstätigkeit]], [[Untätigkeit]], [[Tatendrang]], [[wirksam]], [[tatenlos]]
+, [[Bautätigkeit]]

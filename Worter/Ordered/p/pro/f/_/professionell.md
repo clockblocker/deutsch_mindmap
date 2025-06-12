@@ -1,1 +1,1 @@
-, [[berufsbezogen]], [[erfahrenen]], [[beruflich]], [[berufserfahren]], [[ungeübt]]
+, [[berufsbezogen]], [[erfahrenen]], [[beruflich]], [[berufserfahren]], [[ungeübt]], [[handwerklich]]

@@ -1,1 +1,1 @@
-, [[Einfluss]], [[Gültigkeit]], [[Wirkungsweise]]
+, [[Einfluss]], [[Gültigkeit]], [[Wirkungsweise]], [[Effizienz]]

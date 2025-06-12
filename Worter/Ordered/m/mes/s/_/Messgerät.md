@@ -1,1 +1,1 @@
-, [[Zirkel]], [[Messung]]
+, [[Zirkel]], [[Messung]], [[Diagnosegerät]], [[Sensor]]

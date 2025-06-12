@@ -6,11 +6,13 @@
 ----
 ---
 
-Sie studieren derzeit an der Hochschule Ihrer Stadt und möchten Ihr obligatorisches Praxissemester in einem innovativen Unternehmen absolvieren. Schreiben Sie ein formelles Anschreiben an die Leiterin der [[Personalabteilung]], Frau Dr. Weber.
-- Eröffnen Sie höflich, indem Sie kurz erläutern, weshalb Sie sich gerade an diesen Ansprechpartner wenden.
-- Erläutern Sie, weshalb Sie das Unternehmen besonders ansprechend finden 
-- Stellen Sie dar, warum Ihre Mitarbeit für beide Seiten gewinnbringend wäre.
-- Schlagen Sie vor, wie der weitere Bewerbungsprozess ablaufen könnte 
+![[0214.mp3]]
 
----
 
+Sehr geehrte Frau
+
+ich wende mich an Sie, um mein Interesse an der Position als Praktikant in Ihrem KI-RND Team zu bekunden 
+
+ich wende mich an Sie, um mein Interesse an der Position als Praktikant in Ihrem KI RnD Team zu bekunden, deren Ausschreibung ich auf Ihrer Unternehmenswebsite gelesen habe 
+
+Blauhimmel hebж 

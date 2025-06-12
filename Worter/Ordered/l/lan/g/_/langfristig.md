@@ -2,6 +2,25 @@
 ⏳ [[langfristig]], [ˈlaŋˌfʁɪstɪç](https://youglish.com/pronounce/langfristig/german)
 
 ---
+---
+
+*[[215-LEGO#^6|^]]* [[Hinzukommen|Hinzu kommt]], dass viele Unternehmen `in` Zeiten des [[Fachkräftemangel]]s [[speziell]]e [[Schulung]]en und [[attraktiv]]e [[Gehaltsmodell]]e [[anbieten]], um [[Fachpersonal]] [[langfristig]] zu [[binden]]
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
 *[[C1-Hoehen-T3-301-Text#^33|^]]* Allerdings ist das eine [[langfristig]]e [[Aufgabe]], die sich nicht von heute auf morgen [[erledigen]] lässt, denn ohne [[ausreichend]]e [[Sprachkenntnis]]se funktioniert das nicht
 
 *[[bro-schrieben-c1-t1-011#^3|^]]* Viele [[Arbeitnehmende]] werden [[stets]] [[gefordert]], ihre [[Leistung]] regelmäßig auf ein höheres Niveau zu bringen, was zu [[langfristig]]er [[emotional]]er [[Überforderung]] führen könnte

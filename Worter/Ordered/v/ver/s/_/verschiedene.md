@@ -3,7 +3,15 @@
 💜 [[verschiedene]], [fɛɐ̯ˈʃiːdənə] | [[verschieden]]
 nicht [[gleich]], nicht [[einheitlich]]
 
+----
 ---
+
+*[[215-LEGO#^2|^]]* Bei der [[Berufswahl]] spielen [[verschiedene]] Kriterien eine Rolle: `Neben` [[persönlich]]en [[Neigung]]en und [[Talent]]en sind `vor` `allem` [[Arbeitsmarktperspektive]]n, [[Verdienstmöglichkeit]]en und [[Weiterbildungschance]]n [[entscheidend]]
+
+
+----
+
+
 
 Fleisch [[enthält]] [[verschiedene]] Proteine.
 

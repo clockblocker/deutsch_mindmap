@@ -1,8 +1,15 @@
 --> [[Management-Coordination-Allocation]] <--
-
 🚚 [[liefern]], [ˈliːfɐn](https://youglish.com/pronounce/liefern/german) → [[lieferte]] → haben [[geliefert]]
 
 ---
+---
+
+*[[215-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]
+
+
+
+---
+
 Teamleiter [[liefert]] wichtige [[Unterlagen]] für eine Präsentation nicht [[rechtzeitig]].
 
 *[[C1-Hoehen-T1-200-Text#^17|^]]* Die Autorin erklärt, wie der Wald den [[Wasserkreislauf]] reguliert, der Atmosphäre [[Kohlendioxid]] [[entzieht]] und der Umwelt – und somit auch dem Menschen – [[Sauerstoff]] und [[Nahrung]] [[liefert]].

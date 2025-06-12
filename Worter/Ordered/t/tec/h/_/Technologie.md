@@ -32,3 +32,4 @@ G: der [[Technologie]], der [[Technologien]]
 D: der [[Technologie]], den [[Technologien]]
 
 #Feminin , [[Bürotechnik]]
+, [[Technik]]

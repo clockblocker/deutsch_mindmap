@@ -56,4 +56,4 @@ Ausserung
 ==[[Äuwßerung]]==
 
 #Maskulin 
-, [[Kompromissvorschlag]], [[Vorgehen]], [[Lösungsvorschlag]], [[Empfehlungssystem]], [[Anweisung]]
+, [[Kompromissvorschlag]], [[Vorgehen]], [[Lösungsvorschlag]], [[Empfehlungssystem]], [[Anweisung]], [[Fachkraft]]

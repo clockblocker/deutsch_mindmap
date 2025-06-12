@@ -33,4 +33,4 @@ D: dem [[Aufbau]], den [[Aufbauten]]
 
 
 #Maskulin 
-, [[Verfasstheit]]
+, [[Verfasstheit]], [[Installation]]

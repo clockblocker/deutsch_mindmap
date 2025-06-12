@@ -3,4 +3,4 @@
 
 2 Man [[erfährt]] etwas [[darüber]], wie die [[Natur]] auf den [[Klimawandel]] [[reagiert]].  
 
-#Feminin , [[Naturheilkunde]], [[Naturvolk]], [[Naturpilger]], [[Naturwissenschaft]], [[Wesensart]]
+#Feminin , [[Naturheilkunde]], [[Naturvolk]], [[Naturpilger]], [[Naturwissenschaft]], [[Wesensart]], [[Technik]]

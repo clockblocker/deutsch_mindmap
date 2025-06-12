@@ -1,1 +1,1 @@
-, [[Abrieb]]
+, [[Abrieb]], [[Verschleiß]]

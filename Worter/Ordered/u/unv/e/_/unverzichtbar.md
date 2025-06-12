@@ -2,7 +2,18 @@
 💯 [[unverzichtbar]], [ˈʊnfɛɐ̯ˌt͡sɪçtbaːɐ̯](https://youglish.com/pronounce/unverzichtbar/german) ≠ [[verzichbar]]
 
 ---
-- Argumentieren Sie anhand eines Beispiels, wann persönliche Treffen [[unverzichtbar]] sind.  
+---
+
+*[[215-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz]]-[[Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
+
+
+
+
+---
+
+
+
+Argumentieren Sie anhand eines Beispiels, wann persönliche Treffen [[unverzichtbar]] sind.  
 
 Alle uns zur [[Verfügung]] [[hinstehenden|stehenden]] Analysen [[deuten]] darauf hin, dass die Kernenergie heute im polnischen Energiemix [[unverzichtbar]] ist, um die Energiesicherheit zu [[gewährleisten]].* ^8
 > 

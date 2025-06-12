@@ -1,1 +1,1 @@
-, [[Produktsupport]], [[Bedienung]], [[Angebot]], [[Unterstützungsangebot]], [[Lieferservice]], [[Aufschlag]], [[Dienstleistung]]
+, [[Produktsupport]], [[Bedienung]], [[Angebot]], [[Unterstützungsangebot]], [[Lieferservice]], [[Aufschlag]], [[Dienstleistung]], [[Instandhaltung]]

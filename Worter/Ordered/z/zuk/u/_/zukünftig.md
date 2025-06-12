@@ -1,8 +1,17 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
-
 🔮 [[zukünftig]], [ˈt͡suːˌkʏnftɪç] ≠ [[vergangen]]
 
 ---
+---
+
+*[[215-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzte]] [[Diagnosegeräte]] den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
+
+
+
+---
+
+
+
 *[[1 Wer bin ich und was mache ich hier?#^3|^]]* Nach meinem Umzug nach Moskau lernte ich in einer speziellen App, die über Bekannte [[verbreitet]] wurde, meine [[zukünftige]] Frau kennen. Wir begannen, zusammenzuleben
 
 *[[bro-schrieben-c1-t1-004#^15|^]]* Erklären Sie, wie sich die [[Lebenserwartung]] des Menschen entwickelt bzw. [[zukünftig]] [[entwickeln]] dürfte

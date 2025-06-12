@@ -27,4 +27,4 @@ A: den [[Bauern]], die [[Bauern]]
 G: des [[Bauern]], der [[Bauern]]
 D: dem [[Bauern]], den [[Bauern]]
 
-#Maskulin , [[anbauen]]
+#Maskulin , [[anbauen]], [[Maurer]]

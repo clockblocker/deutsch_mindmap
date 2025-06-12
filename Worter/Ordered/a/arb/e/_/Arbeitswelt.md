@@ -2,6 +2,7 @@
 die [[Arbeitswelten]]
 
 ---
+*[[215-LEGO#^1|^]]* In einer [[zunehmend]] digitalisierten [[Arbeitswelt]] entscheiden `sich` viele Menschen [[bewusst]] `für` [[handwerklich]]e oder praktische Berufe, `da` diese `nach` [[wie]] `vor` [[stabil]]e [[Beschäftigungsmöglichkeit]]en bieten
 
 _[[C1-Hoehen-T3-301-Text#^7|^]]_ Studierende der MINT-Fächer können den [[demografischen]] [[Wandel]] in der [[Arbeitswelt]] nicht [[ausgleichen]]
 

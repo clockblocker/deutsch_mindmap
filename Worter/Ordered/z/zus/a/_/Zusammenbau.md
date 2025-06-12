@@ -33,3 +33,4 @@ G: des [[Zusammenbaus]], der [[Zusammenbauten]]
 D: dem [[Zusammenbau]], den [[Zusammenbauten]]
 
 #Maskulin
+, [[Montageprozess]]

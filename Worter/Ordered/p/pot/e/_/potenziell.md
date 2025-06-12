@@ -23,4 +23,4 @@ potentially
 Adjektive: [[potenziell]], [[potenzieller]], [[potenziellst]]
 
 ---
-[[potenzieller]], [[potenzielles]], [[potenzielle]], [[potenziellen]], [[potenziellem]], [[potenziellerer]], [[potenzielleres]], [[potenziellere]], [[potenzielleren]], [[potenziellerem]], [[potenziellster]], [[potenziellstes]], [[potenziellste]], [[potenziellsten]], [[potenziellstem]]
+[[potenzieller]], [[potenzielles]], [[potenzielle]], [[potenziellen]], [[potenziellem]], [[potenziellerer]], [[potenzielleres]], [[potenziellere]], [[potenzielleren]], [[potenziellerem]], [[potenziellster]], [[potenziellstes]], [[potenziellste]], [[potenziellsten]], [[potenziellstem]], [[Fachkraft]]

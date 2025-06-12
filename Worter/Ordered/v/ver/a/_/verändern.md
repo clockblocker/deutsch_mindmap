@@ -1,6 +1,14 @@
 🔄 [[verändern]], [fɛɐ̯ˈʔɛndɐn](https://youglish.com/pronounce/verändern/german) → [[veränderte]] → [[verändert]]
 
 ---
+---
+
+*[[215-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzt]]e [[Diagnosegerät]]e den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
+
+
+---
+
+
 Wir wollen die Welt [[verändern]].
 
 9 Politikerinnen und Politiker aus [[verschiedenenändern]] [[bestreiten]], sie würden die [[Wahrheitertuschen]].  

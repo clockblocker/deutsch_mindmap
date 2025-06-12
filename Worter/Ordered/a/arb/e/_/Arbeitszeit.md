@@ -2,6 +2,14 @@
 die [[Arbeitszeiten]]
 
 ---
+---
+
+*[[215-LEGO#^3|^]]* [[Ebenso]] [[fließt ein|fließt]] [[zunehmend]] die Work-Life-Balance in die [[Entscheidung]] [[ein]], weil flexible Arbeitsmodelle und [[verlässlich]]e [[Arbeitszeit]]en [[Lebensqualität]] [[versprechen]]
+
+
+
+---
+
 *[[2 Work Life Balance#^8|^]]* _Das kann zum Beispiel dadurch_ [[erreicht]] _werden, dass_ [[Arbeitszeiten]] _klar definiert werden und_ [[Feierabend]] _wirklich Feierabend bedeutet
 
 *[[C1-Hoehen-T3-301-Text#^63|^]]* Und neueste Forschungen haben ergeben, dass die [[Vereinbarkeit]] von Familie und Beruf sowie flexible [[Arbeitszeit]]en und [[betrieblich]] [[geförderte]] [[Kinderbetreuung]] eine ebenso große Rolle spielen wie ein [[angemessen]]es [[Gehalt]].

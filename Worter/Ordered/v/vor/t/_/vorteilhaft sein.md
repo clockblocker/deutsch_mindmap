@@ -1,1 +1,1 @@
-, [[lohnen]]
+, [[lohnen]], [[profitieren]]

@@ -39,3 +39,4 @@ G: des [[Wohlbefindens]], der [[Wohlbefinden]]
 D: dem [[Wohlbefinden]], den [[Wohlbefinden]]
 
 #Neuter , [[Burnout]], [[Geborgenheit]], [[Trauma]], [[Wohlergehen]]
+, [[Lebensqualität]]

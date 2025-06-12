@@ -1,8 +1,13 @@
 🤲 [[erleichtern]] + Akk, [ɛɐ̯ˈlaɪ̯çtɐn]
-[[erleichterte]]
-haben [[erleichtert]]
 
 ---
+---
+
+*[[215-LEGO#^11|^]]* Brillen mit digitaler [[Anleitung]] können [[komplex]]e [[Montageprozess]]e [[erleichtern]], [[während]] [[Sensor]]en in [[Maschine]]n [[frühzeitig]] [[Verschleiß]] [[anzeigen]]
+
+
+---
+
 
 „Hey, ich bin Nasim. Hilfst du mir mal mit den Getränken? Die sind noch im Auto.“
 Sebastian ist [[erleichtert]], dass er etwas tun kann: „Klar, gerne.“

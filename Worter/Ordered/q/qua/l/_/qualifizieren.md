@@ -1,1 +1,1 @@
-, [[ausbilden]], [[Zusatzqualifikation]], [[studienvorbereiten]], [[qualifiziert]], [[weiterbilden]]
+, [[ausbilden]], [[Zusatzqualifikation]], [[studienvorbereiten]], [[qualifiziert]], [[weiterbilden]], [[schulen]]

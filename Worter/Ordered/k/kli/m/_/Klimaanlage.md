@@ -30,4 +30,4 @@ G: der [[Klimaanlage]], der [[Klimaanlagen]]
 D: der [[Klimaanlage]], den [[Klimaanlagen]]
 
 
-#Feminin 
+#Feminin , [[Klimatechnik]], [[Wärmepumpe]]

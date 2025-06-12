@@ -1,3 +1,3 @@
 --> 🧱[[Grad-Gewicht]] <--
 
-, [[lebenswichtig]], [[unabdingbar]], [[unumgänglich]]
+, [[lebenswichtig]], [[unabdingbar]], [[unumgänglich]], [[unverzichtbar]]

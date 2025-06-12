@@ -1,1 +1,1 @@
-, [[Sanierung]], [[Baustelle]], [[Bauarbeit]], [[Renovierungsbedarf]]
+, [[Sanierung]], [[Baustelle]], [[Bauarbeit]], [[Renovierungsbedarf]], [[Modernisierungsbedarf]]

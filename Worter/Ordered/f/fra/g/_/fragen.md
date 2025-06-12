@@ -1,8 +1,18 @@
 🙋 [[fragen]] + Akk., [ˈfʁaːɡən]
-[[fragte]]
-haben [[gefragt]]
+
+----
+---
+
+*[[215-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]
+
+
 
 ---
+
+
+
+
+
 Die Gäste müssen dann nicht mehr `danach` [[fragen]], ob sie Reste mitnehmen dürfen, was vielen immer noch [[peinlich]] ist.  
 
 _Du hast mich [[gefragt]] und Ich hab nichts gesagt_

@@ -27,4 +27,4 @@ D: der [[Chance]], den [[Chancen]]
 [[chancenreich]], [[chancenlos]]
 , [[Bildungschance]]
 
-#Feminin , [[absolvieren]], [[Wahlmöglichkeit]]
+#Feminin , [[absolvieren]], [[Wahlmöglichkeit]], [[Weiterbildungschance]]

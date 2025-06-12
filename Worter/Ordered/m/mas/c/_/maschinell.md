@@ -1,1 +1,1 @@
-, [[Bohrmaschinen]], [[manuell]]
+, [[Bohrmaschinen]], [[manuell]], [[Maschine]]

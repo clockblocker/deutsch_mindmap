@@ -2,6 +2,17 @@
 🔗 [[ebenso]], [ˈeːbənˌzoː]
 
 ---
+---
+
+*[[215-LEGO#^3|^]]* [[Ebenso]] [[fließt ein|fließt]] [[zunehmend]] die Work-Life-Balance in die [[Entscheidung]] [[ein]], weil flexible Arbeitsmodelle und [[verlässlich]]e [[Arbeitszeit]]en [[Lebensqualität]] [[versprechen]]
+
+
+
+
+
+---
+
+
 Meinen Bruder mag ich [[ebenso]] gerne wie meine Schwester.
 
 *[[C1-Lesen-T1-001-Text#^6|^]]* Man hatte sie nicht nur mit [[Speichelproben]] trainiert, aber sie [[erschnüffelten]] Corona [[ebenso]] [[zuverlässig]] in Urin- und Schweißproben

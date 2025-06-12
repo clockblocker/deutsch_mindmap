@@ -1,1 +1,1 @@
-, [[sonst]], [[obendrein]], [[zudem]], [[ferner]], [[weiterhin]], [[vielmehr]]
+, [[sonst]], [[obendrein]], [[zudem]], [[ferner]], [[weiterhin]], [[vielmehr]], [[zugleich]]

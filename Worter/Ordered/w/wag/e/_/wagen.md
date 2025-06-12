@@ -65,4 +65,4 @@ D: dem [[wagen]], den [[wagen]]
 , [[versuchen]]
 
 ---
-, [[fürchten]], [[aufs Spiel setzen]], [[Essenswagen]], [[Essenwagen]], [[PKW]]
+, [[fürchten]], [[aufs Spiel setzen]], [[Essenswagen]], [[Essenwagen]], [[PKW]], [[Kfz]]

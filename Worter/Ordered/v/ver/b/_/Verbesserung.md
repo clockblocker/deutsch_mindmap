@@ -30,4 +30,4 @@ A: die [[Verbesserung]], die [[Verbesserungen]]
 G: der [[Verbesserung]], der [[Verbesserungen]]
 D: der [[Verbesserung]], den [[Verbesserungen]]
 
-#Feminin , [[Erhöhung]], [[Neuzüchtung]], [[Ausbau]], [[Weiterentwicklung]], [[Linderung]], [[viel Luft nach oben]]
+#Feminin , [[Erhöhung]], [[Neuzüchtung]], [[Ausbau]], [[Weiterentwicklung]], [[Linderung]], [[viel Luft nach oben]], [[Modernisierungsbedarf]]

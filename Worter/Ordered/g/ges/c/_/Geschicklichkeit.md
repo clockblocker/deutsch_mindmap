@@ -1,1 +1,1 @@
-, [[Fähigkeiten]], [[Fähigkeit]], [[geschickt]]
+, [[Fähigkeiten]], [[Fähigkeit]], [[geschickt]], [[Fertigkeit]]

@@ -1,1 +1,1 @@
-, [[verderben]], [[verletzen]], [[brechen]], [[richten]], [[bessern]], [[zerbrechen]], [[zerstörten]], [[Reparationsleistung]], [[versauen]], [[zerrütten]]
+, [[verderben]], [[verletzen]], [[brechen]], [[richten]], [[bessern]], [[zerbrechen]], [[zerstörten]], [[Reparationsleistung]], [[versauen]], [[zerrütten]], [[Reparatur]]

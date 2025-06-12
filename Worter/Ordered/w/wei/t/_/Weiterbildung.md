@@ -40,4 +40,4 @@ D: der [[Weiterbildung]], den [[Weiterbildungen]]
 [[weiterbilden]], [[weiterbildend]], [[weiterbildungsorientiert]], [[Bildung]], [[Erlernung]]
 
 
-#Feminin , [[Bildungsfreistellung]], [[weitergeben]], [[Berufsausbildung]]
+#Feminin , [[Bildungsfreistellung]], [[weitergeben]], [[Berufsausbildung]], [[Weiterbildungschance]]

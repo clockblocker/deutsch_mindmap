@@ -1,1 +1,1 @@
-, [[übersetzen]], [[hinterlassen]]
+, [[übersetzen]], [[hinterlassen]], [[tradieren]]

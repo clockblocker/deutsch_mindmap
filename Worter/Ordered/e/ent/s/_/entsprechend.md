@@ -1,9 +1,17 @@
---> 📈 [[Grad-Vergleich]] <--
---> ⏱️ [[Temporal-Zeitpunkt]] <--
-
+--> 📈 [[Grad-Vergleich]] | [[Temporal-Zeitpunkt]] <--
 ➡️ [[entsprechend]], [ɛntˈʃpʁɛçn̩t] | [[entsprechen]]
 
 ---
+---
+
+*[[215-LEGO#^9|^]]* `Vor` allem die [[Energiewende]] und das [[politisch]] [[forcierte]] Ziel, Millionen [[Wärmepumpe]]n in [[Altbau]]ten zu [[installieren]], [[befeuern]] die [[Nachfrage]] nach [[entsprechend]] [[geschulten]] [[Fachkräften]]
+
+
+
+----
+
+
+
 *[[C1-Lesen-421-Text#^48|^]]* Wer kommt, sollte möglichst länger bleiben und pro Person [[entsprechend]] mehr [[ausgeben]]
 
 [[Entsprechend]] unserem [[Vorschlag]]

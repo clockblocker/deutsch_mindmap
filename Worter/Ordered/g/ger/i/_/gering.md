@@ -1,9 +1,18 @@
---> 💥 [[Grad-Intensität]] <--
---> 🧮 [[Grad-Quantität]] <--
-
+--> 💥 [[Grad-Intensität]] | [[Grad-Quantität]]<--
 🐭 [[gering]], [ɡəˈʁɪŋə] ≠ [[groß]]
 
 ---
+---
+
+*[[215-LEGO#^4|^]]* Wer sich für einen [[sogenannt]]en „Blue-Collar“-Beruf [[entscheidet]], profitiert von einer [[konstant]] hohen [[Nachfrage]] und [[gering]]erer [[Automatisierungsgefahr]]
+
+
+---
+
+
+
+
+
 Diese Arbeiter bekommen nur [[gering]] [[Löhne]].
 
 *[[C1-Hoehen-T2-202-Text#^12|^]]* Wie äußert sich denn ein [[gering]]es [[Vertrauen]] in die Politik?
@@ -54,4 +63,4 @@ P: [[geringen]], [[geringeren]], [[geringsten]]
 [[Geringfügigkeit]], [[geringschätzig]], [[Geringverdiener]], [[Geringfügigkeit]]
 
 [[speziellen]], [[prima]], [[breit]], [[bitterlich]], [[gewaltigen]], [[gewaltig]], [[klein]], [[speziell]]
-, [[viel]], [[verringern]], [[Million]], [[erheblich]], [[Verringerung]], [[zahlreich]], [[unschätzbar]], [[unzureichend]], [[beträchtlich]], [[Geringschätzung]], [[mäßig]], [[prestigeträchtig]], [[geraum]], [[drastisch]]
+, [[viel]], [[verringern]], [[Million]], [[erheblich]], [[Verringerung]], [[zahlreich]], [[unschätzbar]], [[unzureichend]], [[beträchtlich]], [[Geringschätzung]], [[mäßig]], [[prestigeträchtig]], [[geraum]], [[drastisch]], [[konstant]]

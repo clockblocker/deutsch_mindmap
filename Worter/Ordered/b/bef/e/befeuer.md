@@ -1,1 +1,1 @@
-, [[befeueren]]
+, [[befeueren]], [[befeuern]]

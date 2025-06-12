@@ -1,1 +1,1 @@
-, [[Personalausweis]], [[Belegschaft]], [[Bedienung]], [[Beschäftigte]], [[Personalmangel]], [[Fachkräftemangel]], [[Arbeitskraft]], [[Pflegekraft]], [[Pflegepersonal]], [[Personalvermögen]], [[Personalabteilung]]
+, [[Personalausweis]], [[Belegschaft]], [[Bedienung]], [[Beschäftigte]], [[Personalmangel]], [[Fachkräftemangel]], [[Arbeitskraft]], [[Pflegekraft]], [[Pflegepersonal]], [[Personalvermögen]], [[Personalabteilung]], [[Fachpersonal]]

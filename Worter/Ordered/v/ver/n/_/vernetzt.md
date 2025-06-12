@@ -1,6 +1,16 @@
 🕸️ [[vernetzt]], [fɛɐ̯ˈnɛt͡st]
 
 ---
+---
+
+*[[215-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzt]]e [[Diagnosegeräte]] den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
+
+
+---
+
+
+
+
 [[2 Unter Druck nach oben#^20|^]] [[An der Spitze]] der „[[Erfolgsfaktoren]]“ steht jedoch das strategische, [[vernetzte]] Denken. Eine Studie der Boston Consulting Group kristallisierte vier Idealtypen heraus: den Analytiker, den Macher, den Integrator und den [[Erfinder]], die meistens in Kombination gesucht sind. ^20
 
 

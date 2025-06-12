@@ -1,1 +1,1 @@
-, [[Berufsstand]]
+, [[Berufsstand]], [[Handwerk]]

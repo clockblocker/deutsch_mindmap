@@ -44,4 +44,4 @@ D: der [[Gefahr]], den [[Gefahren]]
 ---
 [[gefährlich]], [[gefährden]], [[gefährten]], [[Gefahrenzone]], [[Gefahrenstufe]], [[Notfallschutz]]
 
-#Feminin , [[aufs Spiel setzen]], [[Stolpergefahr]]
+#Feminin , [[aufs Spiel setzen]], [[Stolpergefahr]], [[Automatisierungsgefahr]]

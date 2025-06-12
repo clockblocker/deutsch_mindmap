@@ -1,1 +1,1 @@
-, [[Fahrzeug]], [[PKW]]
+, [[Fahrzeug]], [[PKW]], [[Kfz]]

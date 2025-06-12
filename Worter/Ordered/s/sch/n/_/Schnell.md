@@ -23,4 +23,4 @@ fast, quick
 Adjektive: [[schnell]], [[schneller]], [[schnellsten]]
 
 ---
-[[schneller]], [[schnelles]], [[schnelle]], [[schnellen]], [[schnellem]], [[schnellerer]], [[schnelleres]], [[schnellere]], [[schnelleren]], [[schnellerem]], [[schnellstener]], [[schnellstenes]], [[schnellstene]], [[schnellstenen]], [[schnellstenem]], [[Schnell]], [[direkt]], [[kurzfristig]], [[zeitsparend]], [[exponentiell]], [[Geschwindigkeit]], [[vorschnell]], [[langwierig]], [[schlagartig]], [[zeitaufwendig]], [[rapid]]
+[[schneller]], [[schnelles]], [[schnelle]], [[schnellen]], [[schnellem]], [[schnellerer]], [[schnelleres]], [[schnellere]], [[schnelleren]], [[schnellerem]], [[schnellstener]], [[schnellstenes]], [[schnellstene]], [[schnellstenen]], [[schnellstenem]], [[Schnell]], [[direkt]], [[kurzfristig]], [[zeitsparend]], [[exponentiell]], [[Geschwindigkeit]], [[vorschnell]], [[langwierig]], [[schlagartig]], [[zeitaufwendig]], [[rapid]], [[frühzeitig]]

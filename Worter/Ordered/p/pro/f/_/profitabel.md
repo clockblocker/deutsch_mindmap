@@ -1,1 +1,1 @@
-, [[wirtschaftlich]], [[lohnenswert]]
+, [[wirtschaftlich]], [[lohnenswert]], [[profitieren]]

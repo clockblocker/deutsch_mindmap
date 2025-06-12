@@ -27,4 +27,4 @@ A: den [[Schwerpunkt]], die [[Schwerpunkte]]
 G: des [[Schwerpunktes]], der [[Schwerpunkte]]
 D: dem [[Schwerpunkt]], den [[Schwerpunkten]]
 
-#Maskulin 
+#Maskulin , [[Fachkraft]]

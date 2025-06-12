@@ -1,1 +1,1 @@
-, [[vertrauen]], [[zuverlässig]]
+, [[vertrauen]], [[zuverlässig]], [[verlässlich]]

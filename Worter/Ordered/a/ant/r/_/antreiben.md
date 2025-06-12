@@ -46,4 +46,4 @@ sie, [[treiben an]], [[rieben an]], [[treiben an]], [[rieben an]], [[treiben an]
 Adjektive: [[antreibend]], [[antreibender]], [[antreibendst]]
 
 ---
-[[antreibender]], [[antreibendes]], [[antreibende]], [[antreibenden]], [[antreibendem]], [[antreibenderer]], [[antreibenderes]], [[antreibendere]], [[antreibenderen]], [[antreibenderem]], [[antreibendster]], [[antreibendstes]], [[antreibendste]], [[antreibendsten]], [[antreibendstem]]
+[[antreibender]], [[antreibendes]], [[antreibende]], [[antreibenden]], [[antreibendem]], [[antreibenderer]], [[antreibenderes]], [[antreibendere]], [[antreibenderen]], [[antreibenderem]], [[antreibendster]], [[antreibendstes]], [[antreibendste]], [[antreibendsten]], [[antreibendstem]], [[befeuern]]

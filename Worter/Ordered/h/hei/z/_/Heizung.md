@@ -1,30 +1,39 @@
-die [[Heizung]], [ˈhaɪ̯tsʊŋ]
+🔥 🔴 die [[Heizung]], [ˈhaɪ̯tsʊŋ](https://youglish.com/pronounce/Heizung/german)  
 die [[Heizungen]]
 
 ---
-
-Keine Unterwäsche auf der [[Heizung]] …
-
 ---
 
-Synonyme:
+*[[215-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]
 
-- [[Heizkörper]], [[Thermostat]], [[Radiator]], [[Ofen]], [[Brenner]]
 
----
 
-Übersetzung: heating, heater
 
----
+----
 
-Morpheme:
-[[Heiz]], [[ung]]
+
 
 ---
-
-Einzigartige mögliche Formen: [[Heizung]], [[Heizungen]]
+= [[Heizsystem]], [[Wärmeversorgung]]
+≈ [[Wärme]], [[Heizkörper]]
+≠ [[Kühlung]], [[Kälte]]
 
 ---
+heating  
+отопление
 
-#Substantiv #Feminin, [[Extra 8]], [[Fächer]], [[Heiztemperatur]], [[Heizungsbereich]]
-, [[Klimaanlage]]
+---
+[[heizen]], [[Heizkörper]], [[Heizungsanlage]]
+
+---
+[[Heizung]]
+
+
+---
+N: die [[Heizung]], die [[Heizungen]]
+A: die [[Heizung]], die [[Heizungen]]
+G: der [[Heizung]], der [[Heizungen]]
+D: der [[Heizung]], den [[Heizungen]]
+
+#Feminin 
+, [[Wärmepumpe]]

@@ -62,4 +62,4 @@ sie, [[bremsen]], [[bremsten]], [[bremsen]], [[bremsten]], [[bremsen]]
 Adjektive: [[bremsend]], [[bremsender]], [[bremsendst]]
 
 ---
-[[bremsender]], [[bremsendes]], [[bremsende]], [[bremsenden]], [[bremsendem]], [[bremsenderer]], [[bremsenderes]], [[bremsendere]], [[bremsenderen]], [[bremsenderem]], [[bremsendster]], [[bremsendstes]], [[bremsendste]], [[bremsendsten]], [[bremsendstem]], [[Bremsscheibe]], [[antreiben]]
+[[bremsender]], [[bremsendes]], [[bremsende]], [[bremsenden]], [[bremsendem]], [[bremsenderer]], [[bremsenderes]], [[bremsendere]], [[bremsenderen]], [[bremsenderem]], [[bremsendster]], [[bremsendstes]], [[bremsendste]], [[bremsendsten]], [[bremsendstem]], [[Bremsscheibe]], [[antreiben]], [[befeuern]]

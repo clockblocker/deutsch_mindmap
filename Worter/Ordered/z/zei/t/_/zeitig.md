@@ -1,3 +1,3 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
 
-, [[spätabends 1]], [[gleichzeitig]], [[gegenwärtig]], [[derzeit]], [[Zeit]]
+, [[spätabends 1]], [[gleichzeitig]], [[gegenwärtig]], [[derzeit]], [[Zeit]], [[frühzeitig]]

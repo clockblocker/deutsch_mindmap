@@ -28,4 +28,4 @@ PI: [[könnend]], PII: [[gekonnt]], Zu+inf: [[können]]
 ---
 [[könnte]], [[unbedingt]], [[unmöglich]], [[vermögend]], [[Vermögen]]
 
-, [[Talent]], [[Beherrschung]], [[beherrschen]], [[unbewältigen]]
+, [[Talent]], [[Beherrschung]], [[beherrschen]], [[unbewältigen]], [[Fertigkeit]]

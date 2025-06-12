@@ -25,4 +25,4 @@ sensitive, sensible
 Adjektive: [[sensibel]], [[sensibler]], [[sensibelst]]
 
 ---
-[[sensibeler]], [[sensibeles]], [[sensibele]], [[sensibelen]], [[sensibelem]], [[sensiblerer]], [[sensibleres]], [[sensiblere]], [[sensibleren]], [[sensiblerem]], [[sensibelster]], [[sensibelstes]], [[sensibelste]], [[sensibelsten]], [[sensibelstem]], [[sensibilisieren]], [[emotional]], [[Sensibilisierung]], [[subtil]], [[neuralgisch]]
+[[sensibeler]], [[sensibeles]], [[sensibele]], [[sensibelen]], [[sensibelem]], [[sensiblerer]], [[sensibleres]], [[sensiblere]], [[sensibleren]], [[sensiblerem]], [[sensibelster]], [[sensibelstes]], [[sensibelste]], [[sensibelsten]], [[sensibelstem]], [[sensibilisieren]], [[emotional]], [[Sensibilisierung]], [[subtil]], [[neuralgisch]], [[Sensor]]

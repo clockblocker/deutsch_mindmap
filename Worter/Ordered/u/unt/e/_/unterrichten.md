@@ -1,1 +1,1 @@
-, [[beibringen]], [[ausbilden]], [[Religionsunterricht]], [[Politikunterricht]], [[Sprachunterricht]], [[lehren]], [[verständigen]], [[erziehen]]
+, [[beibringen]], [[ausbilden]], [[Religionsunterricht]], [[Politikunterricht]], [[Sprachunterricht]], [[lehren]], [[verständigen]], [[erziehen]], [[schulen]]

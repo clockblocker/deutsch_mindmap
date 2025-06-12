@@ -32,4 +32,4 @@ G: des [[Technikers]], der [[Techniker]]
 D: dem [[Techniker]], den [[Technikern]]
 
 #Maskulin
-, [[Entwickler]]
+, [[Entwickler]], [[Elektriker]], [[Installateur]], [[Mechatroniker]], [[Anlagenmechaniker]], [[Technik]]

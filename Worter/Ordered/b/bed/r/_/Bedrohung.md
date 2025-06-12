@@ -35,4 +35,4 @@ G: der [[Bedrohung]], der [[Bedrohungen]]
 D: der [[Bedrohung]], den [[Bedrohungen]]
 
 
-#Feminin 
+#Feminin , [[Automatisierungsgefahr]]

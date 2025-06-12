@@ -32,3 +32,4 @@ G: der [[Bürotechnik]], -
 D: der [[Bürotechnik]], -
 
 #Feminin
+, [[Technik]]

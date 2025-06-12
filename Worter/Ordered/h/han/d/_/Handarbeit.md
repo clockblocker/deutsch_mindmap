@@ -1,1 +1,1 @@
-, [[Bürotechnik]]
+, [[Bürotechnik]], [[Maschine]]

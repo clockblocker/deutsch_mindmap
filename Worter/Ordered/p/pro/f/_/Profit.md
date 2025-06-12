@@ -1,1 +1,1 @@
-, [[Gewinn]], [[Vorteil]], [[Ertrag]], [[Erlös]], [[Rendite]]
+, [[Gewinn]], [[Vorteil]], [[Ertrag]], [[Erlös]], [[Rendite]], [[profitieren]]

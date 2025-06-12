@@ -1,6 +1,17 @@
 🔗 [[verbinden]] | [[verband]], haben [[verbunden]]
 
 ---
+---
+
+*[[215-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en mit [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
+
+
+
+
+
+
+----
+
 
 *[[C1-Lesen-T2-201-Text#^5|^]]* Dr. Alexander sagt, [[jene]] höhere Macht [[verbind]]e unterschiedliche religiöse Konzepte
 *(Dr. Alexander says that [[that]] higher power [[connects]] different religious concepts)*

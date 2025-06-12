@@ -1,1 +1,1 @@
-, [[Techniker]]
+, [[Techniker]], [[Kfz-Mechatroniker]], [[Mechatroniker]], [[Anlagenmechaniker]]

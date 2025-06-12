@@ -1,1 +1,1 @@
-, [[anregen]], [[beleben]], [[wecken]], [[befeueren]]
+, [[anregen]], [[beleben]], [[wecken]], [[befeueren]], [[befeuern]]

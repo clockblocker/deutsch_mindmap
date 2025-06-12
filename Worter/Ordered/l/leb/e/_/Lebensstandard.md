@@ -1,1 +1,1 @@
-, [[Lebenshaltungskosten]]
+, [[Lebenshaltungskosten]], [[Lebensqualität]]

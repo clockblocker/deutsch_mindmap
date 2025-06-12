@@ -1,7 +1,15 @@
-🔵 der [[Nachfrage]], [ˈnaːxˌfʁaːɡə]
-die [[Nachfragen]]
+🙋 🔴 die [[Nachfrage]], [ˈnaːxˌfʁaːɡə](https://youglish.com/pronounce/Nachfrage/german)  
 
 ---
+---
+
+*[[215-LEGO#^9|^]]* `Vor` allem die [[Energiewende]] und das [[politisch]] [[forcierte]] Ziel, Millionen [[Wärmepumpe]]n in [[Altbau]]ten zu [[installieren]], [[befeuern]] die [[Nachfrage]] nach [[entsprechend]] [[geschulten]] [[Fachkräften]]
+
+
+
+
+---
+
 
 Das richtige „Bildgefühl" ist auch bei Ikea der Grund für die steigende [[Nachfrage]].
 
@@ -27,26 +35,27 @@ _[[02-C1-Schreiben-T2-M#^2|^]]_ Ihr Teamleiter sollte Ihnen schon vor einer Woch
   - [x] [[richtet]] sich nach [[Angebot]] und [[Nachfrage]], aber der Staat [[sorgt]] für einen sozialen [[Ausgleich]].
 
 ---
-
-Synonyme:
-
-- [[Anfrage]], [[Erkundigung]], [[Frage]], [[Anforderung]], [[Bedarf]]
-
----
-
-Übersetzung: inquiry, request, query, demand
+= [[Bedarf]], [[Interesse]], [[Anfrage]]
+≈ [[Wunsch]], [[Konsum]]
+≠ [[Angebot]], [[Überangebot]]
 
 ---
-
-Morpheme:
-[[nach]], [[Frage]]
-
----
-
-Einzigartige mögliche Formen: [[Nachfrage]], [[Nachfragen]], [[Nachfragen]], [[Nachfrage]]
+demand, inquiry  
+спрос, запрос
 
 ---
+[[nachfragen]], [[nachgefragt]]
 
-#Substantiv #Maskulin #Wirtschaft #Kommunikation
+---
+[[Nach]]|[[frag]]|[[e]]
+[[Nachfrage]]
 
-, [[steigende]], [[nachfragen]], [[Kaufverhalten]]
+
+---
+N: die [[Nachfrage]], die [[Nachfragen]]
+A: die [[Nachfrage]], die [[Nachfragen]]
+G: der [[Nachfrage]], der [[Nachfragen]]
+D: der [[Nachfrage]], den [[Nachfragen]]
+
+
+#Feminin 

@@ -1,7 +1,19 @@
-, [[Woraus]], [[woran]], [[dadurch]]
 🔗 [[wodurch]], [vɔˈdʊʁç]
 
 ---
+---
+
+*[[215-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en `mit` [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
+
+
+
+
+---
+
+
+
+
+
 _Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht werfen wir mit diesen Verben auf eine Szene und [[wodurch]] [[erreichen]] wir den illuminierenden Effekt?
 
 *[[201-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke [[einbringen]] – [[wodurch]] die Firma potenziell neue Partner und Kunden [[gewinnen]] kann. 
@@ -11,7 +23,7 @@ _Begehen_, _entgehen_, _ergehen_, _vergehen_, _zergehen_.... Welches Licht w
 
 ---
 = [[womit]], [[wodurch]], [[durch was]]
-≈ [[mittels]], [[vermittels]], [[vermöge]]
+≈ [[mittels]], [[vermittels]], [[vermöge]], [[Woraus]], [[woran]], [[dadurch]]
 ≠ [[warum]], [[weshalb]], [[wieso]]
 
 ---

@@ -3,7 +3,7 @@
 
 ---
 ---
-
+https://text-compare.com/
 [[C1-Schreiben-compare-model]]
 [[C1-Schreiben-compare-versuch]]
 
@@ -19,8 +19,8 @@
 - [x] [[111-C1-Schreiben-Model|111]] Soziale Medien – Fluxh oder Segen?
 - [x] [[112-C1-Schreiben-Model|112]] Klimaschutz – aber wie?
 - [x] [[113-C1-Schreiben-Model|113]] Familie + Arbeit
-- [ ] [[114-C1-Schreiben-Model|114]] Carsharing
-- [ ] [[C1 Schreiben/v1/T1-V1/115-C1-Schreiben/115-C1-Schreiben-Model|115]] Blue color jobs
+- [x] [[114-C1-Schreiben-Model|114]] Carsharing
+- [x] [[C1 Schreiben/v1/T1-V1/115-C1-Schreiben/115-C1-Schreiben-Model|115]] Blue color jobs
 - [x] [[116-C1-Schreiben-Model|116]] Kinder + handies
 
 ---

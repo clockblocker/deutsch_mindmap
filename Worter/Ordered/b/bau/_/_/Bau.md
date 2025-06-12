@@ -32,4 +32,4 @@ D: dem [[Bau]], den [[Bauten]]
 , [[Bauarbeit]], [[Bauplan]], [[Baubranche]], [[ausbauen]], [[Ausbau]], [[Muskelaufbau]], [[Aufbau]], [[Schiffbau]], [[anbauen]]
 
 
-#Maskulin , [[Baukunst]]
+#Maskulin , [[Baukunst]], [[Bautätigkeit]]

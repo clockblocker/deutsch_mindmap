@@ -1,1 +1,1 @@
-, [[Heiztemperatur]], [[wärmen]], [[Wärmedämmung]]
+, [[Heiztemperatur]], [[wärmen]], [[Wärmedämmung]], [[Heizung]], [[Wärmepumpe]]

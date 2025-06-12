@@ -1,6 +1,12 @@
 🧠 [[bewusst]], [bəˈvʊst]
 
 ---
+---
+
+*[[215-LEGO#^1|^]]* In einer [[zunehmend]] digitalisierten [[Arbeitswelt]] entscheiden `sich` viele Menschen [[bewusst]] `für` [[handwerklich]]e oder praktische Berufe, `da` diese `nach` [[wie]] `vor` [[stabil]]e [[Beschäftigungsmöglichkeit]]en bieten
+
+---
+
 *[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^8|^]]* Man sollte sich [[bewusst]] sein, dass es schwierig sein kann, sich an eine neue Arbeitskultur zu [[gewöhnen]]
 
 Kunden, die [[bewusst]] falsch bewerten, müssen mit einer [[Strafe]] [[rechnen]]

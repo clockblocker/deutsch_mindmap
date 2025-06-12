@@ -1,7 +1,15 @@
 🟢 🏢 das [[Gebäude]], [ɡəˈbɔɪ̯də]
-die [[Gebäude]]
 
 ---
+---
+
+*[[215-LEGO#^8|^]]* Diese Berufe [[profitieren]] `von` der [[Bautätigkeit]] und dem [[Modernisierungsbedarf]] in [[Gebäuden]]
+
+
+
+
+----
+
 Neben unserem Haus [[entsteht]] ein neues [[Gebäude]].
 
 Sie [[verlassen]] [[gleichzeitig]] das [[Gebäude]].
@@ -30,4 +38,4 @@ D: dem [[Gebäude]], den [[Gebäuden]]
 ,  [[Zelle]], [[Halle]], [[Schulgebäude]], [[Anlage]], [[Traufe]], [[Räumlichkeit]]
 
 
-#Neuter , [[Gebäudeverwaltung]], [[Agrarfläche]]
+#Neuter , [[Gebäudeverwaltung]], [[Agrarfläche]], [[Altbau]]

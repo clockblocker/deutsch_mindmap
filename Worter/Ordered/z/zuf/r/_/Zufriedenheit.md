@@ -29,4 +29,4 @@ A: die [[Zufriedenheit]], die [[Zufriedenheiten]]
 G: der [[Zufriedenheit]], der [[Zufriedenheiten]]
 D: der [[Zufriedenheit]], den [[Zufriedenheiten]]
 
-#Feminin 
+#Feminin , [[Lebensqualität]]

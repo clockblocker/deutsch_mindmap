@@ -30,4 +30,4 @@ D: dem [[Verdienst]], den [[Verdiensten]]
 , [[Verdienst]]
 
 
-#Maskulin , [[Leistung]], [[Provision]], [[Lohnniveau]], [[Einnahme]]
+#Maskulin , [[Leistung]], [[Provision]], [[Lohnniveau]], [[Einnahme]], [[Verdienstmöglichkeit]]

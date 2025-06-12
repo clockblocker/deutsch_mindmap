@@ -1,1 +1,1 @@
-[[Treu]], [[standhaft]], [[unzuverlässig]], [[zuverlässig]], [[konsequent]]
+[[Treu]], [[standhaft]], [[unzuverlässig]], [[zuverlässig]], [[konsequent]], [[verlässlich]]

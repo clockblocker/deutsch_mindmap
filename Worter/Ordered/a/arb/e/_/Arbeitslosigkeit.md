@@ -4,4 +4,4 @@
 *[[C1-Hoehen-T3-400-Text#^2|^]]* Sie [[verhindert]] eine längere [[Arbeitslosigkeit]]
 
 
-#Feminin 
+#Feminin , [[Beschäftigungsmöglichkeit]], [[Arbeitsmarktperspektive]], [[Verdienstmöglichkeit]]

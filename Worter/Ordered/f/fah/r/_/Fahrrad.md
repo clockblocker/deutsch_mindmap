@@ -27,4 +27,4 @@ A: das [[Fahrrad]], die [[Fahrräder]]
 G: des [[Fahrrads]], der [[Fahrräder]]
 D: dem [[Fahrrad]], den [[Fahrrädern]]
 
-#Neuter 
+#Neuter , [[Kfz]]

@@ -1,1 +1,1 @@
-, [[Brauch]], [[Gewohnheit]], [[traditionsgemäß]]
+, [[Brauch]], [[Gewohnheit]], [[traditionsgemäß]], [[Handwerk]], [[tradieren]]

@@ -1,1 +1,1 @@
-[[Veränderung]], [[umstellen]], [[Änderung]], [[Umstieg]], [[Umwandlung]]
+[[Veränderung]], [[umstellen]], [[Änderung]], [[Umstieg]], [[Umwandlung]], [[Energiewende]]

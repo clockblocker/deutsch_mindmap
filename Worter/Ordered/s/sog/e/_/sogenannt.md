@@ -2,6 +2,15 @@
 🏷️ [[sogenannt]], [ˈzoːɡəˌnant] ≠ [[wirklich]]
 
 ---
+---
+
+*[[215-LEGO#^4|^]]* Wer sich für einen [[sogenannt]]en „Blue-Collar“-Beruf [[entscheidet]], profitiert von einer [[konstant]] hohen [[Nachfrage]] und [[gering]]erer [[Automatisierungsgefahr]]
+
+
+
+
+
+---
 
 Sie lebt in New York dem [[sogenannten]] Big Apple.
 

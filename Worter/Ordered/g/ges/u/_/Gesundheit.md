@@ -34,4 +34,4 @@ D: der [[Gesundheit]], -
 
 #Feminin
 , [[Anfall]], [[Wohlergehen]], [[Weltgesundheitsorganisation]], [[Giftschaden]], [[Lebenserwartung]]
-, [[Erkrankung]]
+, [[Erkrankung]], [[Lebensqualität]]

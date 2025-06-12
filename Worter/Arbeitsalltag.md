@@ -1,6 +1,14 @@
 🏢 🔵 der [[Arbeitsalltag]], [ˈaʁbaɪ̯t͡sˌʔalˌtaːk](https://youglish.com/pronounce/Arbeitsalltag/german)
 
 ---
+---
+
+*[[215-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzt]]e [[Diagnosegerät]]e den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
+
+
+---
+
+
 *[[212-C1-Schreiben-Model#^1|^]]* *ich habe vollstes Verständnis dafür, dass* geplante Funktionsräume die interne Kommunikation [[fördern]] – ein Aspekt, der `im` [[Arbeitsalltag]] [[unabdingbar]] ist
 
 

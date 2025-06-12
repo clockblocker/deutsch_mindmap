@@ -41,4 +41,4 @@ D: dem [[Verfahren]], den [[Verfahren]]
 [[verfahren]], [[Verfahrensweise]], [[Verfahrensablauf]], [[Verfahrensdokumentation]], [[Prozessmanagement]], [[Mahnverfahren]], [[dreistufig]], [[Technologie]], [[Arbeitsform]], [[Arbeitsprozess]], [[System]], [[Vorgehensweise]], [[Funktionsweise]], [[Herstellungsprozess]], [[Behandlungsform]], [[Wirkungsweise]], [[Bewertungssystem]]
 
 #Neuter
-, [[Produktionsprozess]]
+, [[Produktionsprozess]], [[Technik]]

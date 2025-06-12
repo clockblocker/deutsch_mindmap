@@ -1,8 +1,17 @@
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 ⏱️ [[derzeit]], [ˈdeːɐ̯ˌtsaɪ̯t](https://youglish.com/pronounce/derzeit/german)
 
---> ⏱️ [[Temporal-Zeitpunkt]] <--
-
 ---
+---
+
+*[[215-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]. ^7
+
+
+
+
+----
+
+
 *[[214-C1-Schreiben-T2#^1|^]]* Sie studieren [[derzeit]] [[Wirtschaftsinformatik]] `an` der Hochschule Ihrer Stadt und möchten Ihr [[obligatorisch]]es [[Praxissemester]] in einem innovativen Unternehmen [[absolvieren]]
 
 _„Der Parkplatz ist [[derzeit]] [[gesperrt]].“_

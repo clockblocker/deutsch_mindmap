@@ -40,3 +40,4 @@ Morpheme: [[eben]], [[fall]], [[s]]
 
 #Adverb
 , [[seinerseits]], [[zudem]], [[Konnektivpartikeln]], [[ferner]], [[sichtbar]]
+, [[zugleich]]

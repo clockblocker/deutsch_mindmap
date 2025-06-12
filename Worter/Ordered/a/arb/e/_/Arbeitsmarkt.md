@@ -1,1 +1,1 @@
-, [[Arbeitsbedingungen]], [[Fachkräftemangel]], [[Arbeitskraft]]
+, [[Arbeitsbedingungen]], [[Fachkräftemangel]], [[Arbeitskraft]], [[Arbeitsmarktperspektive]]

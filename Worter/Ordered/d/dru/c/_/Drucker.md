@@ -31,3 +31,4 @@ D: dem [[Drucker]], den [[Druckern]]
 #Maskulin
 
 , [[Papierstau]]
+, [[Technik]]

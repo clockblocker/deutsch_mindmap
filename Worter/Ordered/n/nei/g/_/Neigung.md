@@ -2,6 +2,15 @@
 die [[Neigungen]]
 
 ---
+---
+
+*[[215-LEGO#^2|^]]* Bei der [[Berufswahl]] spielen [[verschiedene]] Kriterien eine Rolle: `Neben` [[persönlich]]en [[Neigung]]en und [[Talent]]en sind `vor` `allem` [[Arbeitsmarktperspektive]]n, [[Verdienstmöglichkeit]]en und [[Weiterbildungschance]]n [[entscheidend]]
+
+
+
+
+---
+
 *[[C1-Lesen-421-Text#^4|^]]* [[Heftig]]e Reaktionen auf Overtourismus in Deutschland haben die [[Neigung]] zum [[Urlaub]] in der Heimat [[erlahmen]] lassen
 
 ---

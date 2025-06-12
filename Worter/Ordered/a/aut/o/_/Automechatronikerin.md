@@ -17,7 +17,7 @@ automotive mechatronics technician (female)
 [[Automechatroniker]], [[Automechatronik]], [[Mechatronik]]
 
 ---
-[[Auto]]|[[mechatroniker]]|[[in]]
+[[Auto]]|[[Mechatroniker]]|[[in]]
 [[Automechatroniker]] + [[in]]
 
 

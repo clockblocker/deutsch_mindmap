@@ -3,6 +3,10 @@
 infromal for [[etwa]]
 
 ---
+*[[215-LEGO#^1|^]]* In einer [[zunehmend]] digitalisierten [[Arbeitswelt]] entscheiden `sich` viele Menschen [[bewusst]] `für` [[handwerklich]]e oder praktische Berufe, `da` diese `nach` [[wie]] `vor` [[stabil]]e [[Beschäftigungsmöglichkeit]]en bieten
+
+
+
 [[Fühl dich wie zu Hause]]
 [[Das ist ja wie]]
 So [[wie]] bei mir.  

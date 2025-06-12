@@ -1,1 +1,1 @@
-, [[Sanierung]]
+, [[Sanierung]], [[Modernisierungsbedarf]]

@@ -1,1 +1,1 @@
-, [[Renovierungsbedarf]]
+, [[Renovierungsbedarf]], [[Altbau]]

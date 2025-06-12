@@ -2,6 +2,19 @@ die [[Fähigkeit]], [fɛˈçɪçkaɪ̯t]
 die [[Fähigkeiten]]
 
 ---
+---
+
+*[[215-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz-Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
+
+
+---
+
+
+
+
+
+
+
 *[[C1-Lesen-415-Text#^10|^]]* Ab drei Jahren [[entwickeln]] sie die [[Fähigkeit]] `sich` `6 in` andere Menschen [[hineinzuversetzen]] und deren Gefühle zu erkennen
 
 *[[214-C1-Schreiben-Model#^4|^]]* Deshalb hoffe ich, in kurzer Zeit Ihr Team mit meinen [[Fähigkeit]]en [[bereichern]] zu können

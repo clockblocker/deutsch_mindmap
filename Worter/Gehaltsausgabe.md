@@ -28,3 +28,4 @@ G: der [[Gehaltsausgabe]], der [[Gehaltsausgaben]]
 D: der [[Gehaltsausgabe]], den [[Gehaltsausgaben]]
 
 #Feminin 
+, [[Fachkraft]]
