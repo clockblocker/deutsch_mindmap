@@ -29,8 +29,14 @@ Angesichts dieser Risiken stellt sich die Frage, wie man einen ausgewogenen Lebe
 
 Ich persönlich habe es als sinnvoll empfunden, meinen Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken. Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten. Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen.
 
+
+
+
 ---
 ---
+
+
+
 
 
 *[[111-C1-Schreiben-Model#^1|^]]* In den letzten fünf Jahrzehnten ist die Zahl der Internetnutzer:innen exponentiell gestiegen. Einer der wichtigsten Antriebsfaktoren dafür ist das enorme Angebot an sozialen Medien: ^1
