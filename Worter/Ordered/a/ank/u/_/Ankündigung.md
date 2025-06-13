@@ -1,8 +1,13 @@
 📢 🔴 die [[Ankündigung]], [ˈanˌkʏndɪɡʊŋ](https://youglish.com/pronounce/Ankündigung/german)  
-die [[Ankündigungen]]
 
 ---
-*[[216-C1-Schreiben-Model#^4|^]]* Am zweiten Abend war das Restaurant [[entgegen]] der [[Ankündigung]] auf Ihrer Website [[geschlossen]]
+---
+
+*[[216-LEGO#^6|^]]* `Am` zweiten [[Abend]] war das [[Restaurant]] [[entgegen]] der [[Ankündigung]] `auf` Ihrer Website geschlossen
+
+
+---
+
 
 ---
 = [[Bekanntmachung]], [[Ansage]], [[Mitteilung]], [[Vorschau]], [[Inserat]], [[Botschaft]], [[ankündigen]], [[Ruf]], [[Wahlversprechen]], [[Ausschreibung]]

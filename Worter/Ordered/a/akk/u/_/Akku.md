@@ -1,1 +1,1 @@
-, [[Stromanschluss]]
+, [[Stromanschluss]], [[Powerbank]]

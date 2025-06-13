@@ -26,3 +26,6 @@ N: die [[Aufklärungsarbeit]], die [[Aufklärungsarbeiten]]
 A: die [[Aufklärungsarbeit]], die [[Aufklärungsarbeiten]]
 G: der [[Aufklärungsarbeit]], der [[Aufklärungsarbeiten]]
 D: der [[Aufklärungsarbeit]], den [[Aufklärungsarbeiten]]
+
+
+#Feminin 

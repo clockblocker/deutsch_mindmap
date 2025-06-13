@@ -1,6 +1,14 @@
 😒 [[unzuverlässig]], [ˈʊntsuːɐ̯ˌfɛɐ̯lɛsɪç] ≠ [[zuverlässig]]
 
 ---
+---
+
+*[[216-LEGO#^5|^]]* Das [[WLAN]] war [[unzuverlässig]] und [[abbrechen|brach]] [[mehrfach]] ab
+
+
+---
+
+
 *[[3  Ein Selbstversuch als Hobbybäuerin#^33|^]]* „So ein [[unzuverlässiges]] und [[treuloses]] Pack“, dachte ich mir ganz oft
 
 *[[216-C1-Schreiben-Model#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von mehreren [[Mängeln]] [[beeinträchtigt]]: Die [[Klimaanlage]] im Zimmer funktionierte nur [[sporadisch]], wodurch es [[nachts]] sehr heiß war. Das WLAN war [[unzuverlässig]] und [[abbrachen|brach]] [[mehrfach]] ab

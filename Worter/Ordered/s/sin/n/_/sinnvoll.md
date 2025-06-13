@@ -1,12 +1,18 @@
-[[sinnvoll]], [ˈzɪnfɔl]
-nicht [[sinnlos]]
+[[sinnvoll]], [ˈzɪnfɔl] | nicht [[sinnlos]]
 
 ---
-*[[111-C1-Schreiben-Model#^15|^]]* Ich persönlich habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] auf Twitter auf 30 Minuten pro Tag zu beschränken
+
+---
+
+_[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
+
+---
+
+_[[111-C1-Schreiben-Model#^15|^]]_ Ich persönlich habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] auf Twitter auf 30 Minuten pro Tag zu beschränken
 
 Nun ist es nicht [[sinnvoll]], auf den Klatsch zu verzichten, denn aus den Fehlern der anderen können wir ja selbst etwas lernen
 
-*[[bro-schrieben-c1-t1-002#^13|^]]* Ich stehe auf dem [[Standpunkt]], dass ein [[sinnvoll]]es [[Lernmodell]] wäre, Kinder an Präsenzkursen zu [[beteiligen]], da sie dabei nicht nur die Sprache lernen können, sondern auch kommunikative [[Fähigkeit]]en [[entwickeln]] können
+_[[bro-schrieben-c1-t1-002#^13|^]]_ Ich stehe auf dem [[Standpunkt]], dass ein [[sinnvoll]]es [[Lernmodell]] wäre, Kinder an Präsenzkursen zu [[beteiligen]], da sie dabei nicht nur die Sprache lernen können, sondern auch kommunikative [[Fähigkeit]]en [[entwickeln]] können
 
 _[[C1-Hoehen-T2-203-Text#^2|^]]_ Es geht dabei darum, ab wann die [[durchaus]] [[sinnvoll]]e Nutzung der digitalen Medien in eine [[Sucht]] [[umschlägt]]
 

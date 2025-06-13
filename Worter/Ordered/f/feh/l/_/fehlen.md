@@ -1,6 +1,13 @@
 😟 [[fehlen]], [ˈfeːlən](https://youglish.com/pronounce/fehlen/german) | [[fehlte]], haben [[gefehlt]]
 
 ---
+---
+
+*[[212-LEGO#^3|^]]* Ohne sie wäre ich persönlich [[gezwungen]], mein [[Mittagessen]] [[täglich]] selbst zu Hause [[vorzubereiten]] – [[wofür]] mir leider die Zeit [[fehlt]]
+
+
+---
+
 Das könnte zu [[fehlender]] Gruppendynamik und Kreativität führen, die für viele Unternehmen wichtig sind
 
 *[[C1-Hoehen-T3-301-Text#^35|^]]* Ich sehe zudem das große Problem des sogenannten „[[Braindrain]]“, d. h. qualifizierte junge Menschen werden [[abgeworben]] und in ihren [[Herkunftsländern]] [[fehlen]] dann [[dringend]] benötigte Arbeitskräfte

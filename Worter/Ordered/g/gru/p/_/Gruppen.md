@@ -1,1 +1,1 @@
-, [[Gruppendynamik]]
+, [[Gruppendynamik]], [[Gruppenreise]]

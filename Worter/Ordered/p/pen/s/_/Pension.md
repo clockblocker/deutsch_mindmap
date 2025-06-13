@@ -26,3 +26,5 @@ A: die [[Pension]], die [[Pensionen]]
 G: der [[Pension]], der [[Pensionen]]  
 D: der [[Pension]], den [[Pensionen]]
 , [[Unterkunft]]
+
+#Feminin 

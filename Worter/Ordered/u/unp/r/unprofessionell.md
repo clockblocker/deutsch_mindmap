@@ -1,1 +1,1 @@
-, [[ungeübt]], [[handwerklich]]
+, [[ungeübt]], [[handwerklich]], [[technisch]]

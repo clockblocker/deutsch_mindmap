@@ -1,6 +1,14 @@
 🧐 [[angesichts]], [ˈaŋɡəˌzɪçts](https://youglish.com/pronounce/angesichts/german)
 
 ---
+---
+
+*[[213-LEGO#^1|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeit]]en nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann, insbesondere zum [[Jahresende]], wenn die Zahl der [[Nutzer]] deutlich [[steigt]]. ^1
+
+
+
+---
+
 *[[111-C1-Schreiben-Model#^12|^]]* [[Angesichts]] dieser Risiken stellt sich die Frage, wie man einen ausgewogenen [[Lebensstil]] mit sozialen Medien im [[Alltag]] erreichen kann
 
 Ich habe vollstes Verständnis dafür, dass es [[angesichts]] des Arbeits- und [[Zeitdruck]]s zu [[Verzögerung]]en kommen kann. 

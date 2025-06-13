@@ -9,9 +9,11 @@ nicht [[leer]]
 ---
 
 Synonyme:
+
 - [[voll]], [[überfüllt]], [[gefüllt]]
 
 ---
+
 Beispiele:
 
 - Der Koffer ist bis zum Rand [[gestopft]].
@@ -33,14 +35,16 @@ Beispiele:
 - Seine Schublade ist [[am gestopftesten]] nach dem Umzug.
 
 ---
+
 **Übersetzung**:
 stuffed, packed
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
 [[gestopft]], [[Stopfen]]

@@ -21,7 +21,6 @@ Laut einiger Untersuchungen hat Greenwashing, wenn es aufgedeckt wird, negative 
 Auch wenn beim Greenwashing die „Guten“ und die „Bösen“ eindeutig zuzuordnen zu sein scheinen, weisen doch gerade neuere Untersuchungen darauf hin, dass die Lage keineswegs so klar ist. Gerade im komplexen und verzahnten Bereich der Umstellung der Produktion auf umweltfreundlichere und nachhaltigerer Verfahren gibt es selten eindeutige Lösungen. Schon Verbraucherinnen und Verbraucher stehen in ihrem Konsumverhalten oft vor einem nicht auflösbaren Dilemma, wie z. B. der Frage, ob der Kauf eines Elektroautos mit Ökostrom tatsächlich besser ist als das Weiterfahren eines schon produzierten und kraftstoffsparenden Fahrzeugs mit Verbrennungsmotor. Für Unternehmen ist es natürlich leichter, Ziele und Prinzipien zu postulieren, als sie tatsächlich in grundlegende Umsetzung zu bringen. Diese „leeren“ Bekenntnisse können aber auch hilfreich sein, um den Weg zu einer realen Umsetzung zu ebnen, da sie Umweltziele bewusstmachen und zu einer Änderung der Firmenkultur beitragen können. Für diese positive Sichtweise spricht, dass Formen des Greenwashing auch in einer ehrlichen Unternehmenskommunikation gefunden werden.
 
 ---
-
 ---
 
 9. Welches Ergebnis haben die im Text erwähnten Umfragen?

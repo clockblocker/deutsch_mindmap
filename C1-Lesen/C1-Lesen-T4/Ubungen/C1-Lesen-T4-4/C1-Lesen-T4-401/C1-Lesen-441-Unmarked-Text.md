@@ -1,9 +1,9 @@
-   [[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
-   [[C1-Lesen-441-Text|Text]]  | [[C1-Lesen-441-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-441-Loesung|Loesung]]
+[[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+[[C1-Lesen-441-Text|Text]] | [[C1-Lesen-441-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-441-Loesung|Loesung]]
 
 ---
 
-[[C1-Lesen-431-Text|←]]         →
+[[C1-Lesen-431-Text|←]] →
 
 ---
 ---
@@ -20,7 +20,6 @@ _c Mateo Soares, Germanistikprofessor an der Universität São Paulo_
 Grund für die vermeintliche Humorlosigkeit der Deutschen ist wahrscheinlich, dass sie alles viel zu ernst nehmen und witzig gemeinte Bemerkungen zu wörtlich auffassen. Aber man kann nicht vom deutschen Humor allgemein reden. Ich habe die Erfahrung gemacht, dass die Rheinländer humorvoller sind als die Preußen. In Köln oder Düsseldorf bekommt man schnell Kontakt zu den Menschen, und ich habe gestaunt, wie humorvoll die Leute dort sind. Doch passiert es mir immer wieder, dass ich den Sinn eines deutschen Witzes nicht verstehe. Das ist mir dann peinlich, weil ich nicht darüber lachen kann. Vielleicht ist der deutsche Humor zu einfach. Es ist wahr, dass im Ausland das Vorurteil herrscht, der deutsche Humor, wenn es denn einen gebe, sei zu ernsthaft und dunkel, und die Deutschen verstünden Ironie überhaupt nicht, besonders wenn es um sie selbst gehe. Man muss eben akzeptieren, dass Deutsche einen anderen Humor haben.
 
 ---
-
 ---
 
 0 Der Erfolg deutscher Witze, die Leute zum Lachen zu bringen, wird angezweifelt.

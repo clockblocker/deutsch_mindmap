@@ -1,7 +1,15 @@
 💼 🔵 der [[Aufgabenbereich]], [ˈaʊ̯fɡaːbn̩bəˌʁaɪ̯ç](https://youglish.com/pronounce/Aufgabenbereich/german)
-die [[Aufgabenbereiche]]
 
 ---
+---
+
+*[[211-LEGO#^5|^]]* `Am` Ende des [[Programm]]s könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], `sondern` `auch` ein [[wertvoll]]es [[Alumni]]-Netzwerk [[mitbringen]] – [[wodurch]] das Unternehmen neue Kunden und Partner [[gewinnen]] könnte. ^5
+
+
+
+---
+
+
 *[[201-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke einbringen – wodurch die Firma potenziell neue Partner und Kunden gewinnen kann
 
 *[[C1-Hoehen-T3-400-Text#^4|^]]* [[Weiterbildung]] für die Leiharbeiter fällt nicht in den [[Aufgabenbereich]] der [[Leiharbeitsfirma]] ^4

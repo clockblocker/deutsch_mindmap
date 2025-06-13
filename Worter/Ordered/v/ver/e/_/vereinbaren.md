@@ -1,6 +1,21 @@
 🤝 [[vereinbaren]] | [[vereinbarte]], haben [[vereinbart]]
 
 ---
+----
+
+*[[214-LEGO#^6|^]]* Sollten Sie [[Interesse]] haben, schlage ich vor, dass wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]]
+
+
+---
+
+
+
+
+
+
+
+
+
 *[[215-C1-Schreiben-Model#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren sogar einmal gezwungen, in einem Hostel statt im [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]
 
 *[[214-C1-Schreiben-Model#^5|^]]* *Sollten* Sie Interesse haben, *schlage ich vor, dass* wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]] 

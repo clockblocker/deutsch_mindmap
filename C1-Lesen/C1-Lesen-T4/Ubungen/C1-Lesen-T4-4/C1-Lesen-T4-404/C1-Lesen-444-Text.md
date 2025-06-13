@@ -1,9 +1,9 @@
-   [[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
-   [[C1-Lesen-444-Text|Text]]  | [[C1-Lesen-444-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-444-Loesung|Loesung]]
+[[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+[[C1-Lesen-444-Text|Text]] | [[C1-Lesen-444-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-444-Loesung|Loesung]]
 
 ---
 
-[[C1-Lesen-434-Text|←]]         →
+[[C1-Lesen-434-Text|←]] →
 
 ---
 ---
@@ -20,7 +20,6 @@ _c Mark Ulrichsen, Gewerkschaft für Gesundheitswesen_
 Es stört mich ein wenig, dass man bei psychischer Gesundheit eher an die Krankheit denkt, also an den Mangel. Vielmehr wäre es angebracht, sich auf die Erhaltung der psychischen Gesundheit zu konzentrieren und rechtzeitig für Prävention zu sorgen, und das nicht nur auf persönlicher und familiärer Ebene. Auch Arbeitgeber und Vorgesetzte sollten bei Leistungsabfall und häufigen Erkrankungen sensibilisiert sein und die psychische Gesundheit ihrer Mitarbeiter nicht aus dem Blick verlieren. Dezentrales Arbeiten und die damit einhergehenden Schwierigkeiten, sowohl dem Familienleben als auch den geforderten Arbeitszeiten gerecht zu werden, Konflikte am Arbeitsplatz, wie negatives Arbeitsumfeld, Mobbing, erhöhter Leistungsdruck — das alles sind Stressparameter. Unternehmen sind deshalb aufgerufen, dem vorzubeugen. Voraussetzungen, die es den Beschäftigten ermöglichen, ihren eigenen Arbeitsrhythmus zu finden, Flexibilität, festgelegte Arbeitszeiten und regelmäßige Pausen tragen wesentlich zu entspanntem und motiviertem Arbeiten bei, was letztendlich auch dem Unternehmen zum Vorteil gereicht.
 
 ---
-
 ---
 
 0 Neben der physischen Gesundheit sollte man sich auch um die psychische kümmern.

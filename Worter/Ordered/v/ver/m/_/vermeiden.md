@@ -1,6 +1,13 @@
 -->🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
-
 🙅 [[vermeiden]], [fɛɐ̯ˈmaɪ̯dn̩] | [[vermied]], haben [[vermieden]]
+
+---
+---
+
+*[[216-LEGO#^8|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n [[regelmäßig]] zu [[warten]], die WLAN-[[Stabilität]] zu [[prüfen]] und die [[Restaurantöffnungszeit]]en [[aktuell]] `auf` Ihrer [[Website]] zu kommunizieren
+
+*[[215-LEGO#^6|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
+
 
 ---
 [[1 ADHD#^9|^]] [[vermeidet]] neue [[Herausforderung]]en [[mangels]] [[Vertrauen]] in ihre [[Fähigkeiten]]. ^9

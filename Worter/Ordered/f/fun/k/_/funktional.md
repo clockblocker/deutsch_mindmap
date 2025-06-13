@@ -1,1 +1,1 @@
-, [[Nützliches]], [[Funktionsraum]], [[zweckmäßig]]
+, [[Nützliches]], [[Funktionsraum]], [[zweckmäßig]], [[technisch]]

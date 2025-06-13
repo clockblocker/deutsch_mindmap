@@ -1,32 +1,37 @@
 📈 [[profitieren]], [pʁofiˈtiːʁən](https://youglish.com/pronounce/profitieren/german) → [[profitierte]] → [[profitiert]]
 
 ---
----
-
-*[[215-LEGO#^8|^]]* Diese Berufe [[profitieren]] `von` der [[Bautätigkeit]] und dem [[Modernisierungsbedarf]] in [[Gebäuden]]
-
 
 ---
 
+_[[115-LEGO#^8|^]]_ Diese Berufe [[profitieren]] `von` der [[Bautätigkeit]] und dem [[Modernisierungsbedarf]] in [[Gebäuden]]
+
 ---
+
+---
+
 = [[gewinnen]], [[nutzen]], [[vorteilhaft sein]]
 ≈ [[beziehen]], [[erhalten]], [[zugute kommen]]
 ≠ [[verlieren]], [[schaden]]
 
 ---
+
 to profit, to benefit  
 извлекать выгоду, получать пользу
 
 ---
+
 [[Profit]], [[profitabel]], [[Profitabilität]]
 
 ---
+
 [[profitier]]|[[en]]
 [[profitieren]]
 
-
 ---
+
 ###### [[profitieren]] `von` jM
+
 - `Wovon` [[profitierst]] du?
 - `Von` der Erfahrung.
 
@@ -37,6 +42,7 @@ to profit, to benefit
 - Weil er hart gearbeitet hat.
 
 ---
+
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 ich, [[profitiere]], [[profitierte]], [[profitiere]], [[profitierte]], -
 du, [[profitierst]], [[profitiertest]], [[profitiere]], [[profitiertest]], [[profitiere]]
@@ -45,8 +51,9 @@ wir, [[profitieren]], [[profitierten]], [[profitieren]], [[profitierten]], [[pro
 ihr, [[profitiert]], [[profitiertet]], [[profitiert]], [[profitiertet]], [[profitiert]]
 sie, [[profitieren]], [[profitierten]], [[profitieren]], [[profitierten]], [[profitieren]]
 
-*Zu + Inf*: zu [[profitieren]], *P2*: [[profitiert]]
+_Zu + Inf_: zu [[profitieren]], _P2_: [[profitiert]]
 Adjektive: [[profitierend]], [[profitierender]], [[profitierendst]]
 
 ---
+
 [[profitierender]], [[profitierendes]], [[profitierende]], [[profitierenden]], [[profitierendem]], [[profitierenderer]], [[profitierenderes]], [[profitierendere]], [[profitierenderen]], [[profitierenderem]], [[profitierendster]], [[profitierendstes]], [[profitierendste]], [[profitierendsten]], [[profitierendstem]]

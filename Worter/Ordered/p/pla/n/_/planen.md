@@ -1,8 +1,21 @@
 --> [[Management-Coordination-Allocation]] <--
-
 🗓️ [[planen]], [ˈplaːnən](https://youglish.com/pronounce/planen/german) → [[plante]] → haben [[geplant]]
 
 ---
+---
+
+*[[212-LEGO#^2|^]]* [[Allerdings]] finde ich die [[Kantine]], `an` deren [[Stelle]] [[künftig]] Funktionsräume [[geplant]] sind, [[unverzichtbar]], da unser Büro sich in einem [[Industriegebiet]] [[befindet]], in dem es weder Restaurants noch Supermärkte gibt
+
+
+
+---
+
+
+
+
+
+---
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^11|^]]* Um die [[Vorteile]] beider [[Kommunikationsform]]en [[sinnvoll]] zu kombinieren, sollten Unternehmen hybride Modelle [[etablieren]], in denen digitale Meetings mit [[regelmäßig]] [[geplanten]] persönlichen [[Treffen]] [[ergänzt]] werden. ^11
 
 
@@ -63,4 +76,4 @@ sie, [[planen]], [[planten]], [[planen]], [[planten]], [[planen]]
 Adjektive: [[planend]], [[planender]], [[planendst]]
 
 ---
-[[planender]], [[planendes]], [[planende]], [[planenden]], [[planendem]], [[planenderer]], [[planenderes]], [[planendere]], [[planenderen]], [[planenderem]], [[planendster]], [[planendstes]], [[planendste]], [[planendsten]], [[planendstem]], [[anstreben]], [[ausdenken]], [[Bauplan]], [[voraussehen]], [[vorsehen]]
+[[planender]], [[planendes]], [[planende]], [[planenden]], [[planendem]], [[planenderer]], [[planenderes]], [[planendere]], [[planenderen]], [[planenderem]], [[planendster]], [[planendstes]], [[planendste]], [[planendsten]], [[planendstem]], [[anstreben]], [[ausdenken]], [[Bauplan]], [[voraussehen]], [[vorsehen]], [[arrangieren]]

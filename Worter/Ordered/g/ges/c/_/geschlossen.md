@@ -1,1 +1,1 @@
-🔒 [[schließen]], [[mehrheitlich]],  [[dicht]]
+🔒 [[schließen]], [[mehrheitlich]],  [[dicht]], [[Schließung]]

@@ -1,14 +1,22 @@
 --> ⏱️ [[Temporal-Dauerhaft]] <--
-
 📏 [[lang]], [laŋ] ≠ [[kurz]]
 
 ---
+---
+
+*[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine [[längere]] [[Freistellung]] möglich sein, schlage ich vor, mein Studium [[vollständig]] `im` Homeoffice [[absolvieren]] zu dürfen.
+
+
+
+---
+
 
 Was wollen wir trinken, sieben Tage [[lang]]?
 
-\*_[[Atom#^5|^]]_ Die Region hat den [[längsten]] [[ununterbrochenen]] [[Waldabschnitt]] der [[Küste]] – 24 Kilometer lang. ^5
+_[[Atom#^5|^]]_ Die Region hat den [[längsten]] [[ununterbrochenen]] [[Waldabschnitt]] der [[Küste]] – 24 Kilometer lang
 
 Ich hatte keine Ahnung, dass er [[schon]] [[lange]] weggefahren ist
+
 
 ---
 

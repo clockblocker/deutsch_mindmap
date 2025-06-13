@@ -1,1 +1,1 @@
-[[regeln]], [[sortieren]], [[zerzausen]], [[Ordnen]]
+[[regeln]], [[sortieren]], [[zerzausen]], [[Ordnen]], [[arrangieren]]

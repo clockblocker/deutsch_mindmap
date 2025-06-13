@@ -3,7 +3,7 @@
 ---
 ---
 
-*[[215-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en mit [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
+*[[115-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en mit [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
 
 
 

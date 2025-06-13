@@ -24,4 +24,4 @@ exemplary, model
 Adjektive: [[vorbildlich]], [[vorbildlicher]], [[vorbildlichst]]
 
 ---
-[[vorbildlicher]], [[vorbildliches]], [[vorbildliche]], [[vorbildlichen]], [[vorbildlichem]], [[vorbildlicherer]], [[vorbildlicheres]], [[vorbildlichere]], [[vorbildlicheren]], [[vorbildlicherem]], [[vorbildlichster]], [[vorbildlichstes]], [[vorbildlichste]], [[vorbildlichsten]], [[vorbildlichstem]], [[C1-Hoehen-T3-401-Text]]
+[[vorbildlicher]], [[vorbildliches]], [[vorbildliche]], [[vorbildlichen]], [[vorbildlichem]], [[vorbildlicherer]], [[vorbildlicheres]], [[vorbildlichere]], [[vorbildlicheren]], [[vorbildlicherem]], [[vorbildlichster]], [[vorbildlichstes]], [[vorbildlichste]], [[vorbildlichsten]], [[vorbildlichstem]], [[C1-Hoehen-T3-401-Text]], [[ideal]]

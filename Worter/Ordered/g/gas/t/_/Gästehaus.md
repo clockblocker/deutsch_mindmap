@@ -31,3 +31,4 @@ D: dem [[Gästehaus]], den [[Gästehäusern]]
 ---
 
 [[gästefreundlich]], [[beherbergen]], [[Gast]], [[Haus]]
+, [[Hostel]]

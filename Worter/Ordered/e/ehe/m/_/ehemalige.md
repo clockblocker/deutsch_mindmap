@@ -43,3 +43,4 @@ Einzigartige mögliche Formen:
 [[ehemalige]], [[ehemaliger]], [[ehemaligen]], [[ehemaliges]], [[ehemaligem]]
 [[ehemaligsten]], [[ehemaligster]], [[ehemaligste]], [[ehemalingstes]], [[ehemaligsten]], [[ehemalingstem]]
 , [[jetzig]], [[ehemalig]]
+, [[Alumnus]]

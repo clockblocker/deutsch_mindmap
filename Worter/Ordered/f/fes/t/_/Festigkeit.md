@@ -1,1 +1,1 @@
-, [[Widerstandsfähigkeit]], [[festigen]]
+, [[Widerstandsfähigkeit]], [[festigen]], [[Stabilität]]

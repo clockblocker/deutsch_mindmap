@@ -31,4 +31,4 @@ G: der [[Vorbereitung]], der [[Vorbereitungen]]
 D: der [[Vorbereitung]], den [[Vorbereitungen]]
 
 
-#Feminin , [[studienvorbereiten]]
+#Feminin , [[studienvorbereiten]], [[Durchführung]]

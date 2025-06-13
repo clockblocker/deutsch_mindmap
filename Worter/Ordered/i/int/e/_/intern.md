@@ -1,7 +1,14 @@
 🏢 [[intern]], [ɪnˈtɛʁn](https://youglish.com/pronounce/intern/german)
 
 ---
-Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]].
+---
+
+*[[212-LEGO#^1|^]]* ich habe vollstes Verständnis dafür, dass geplante [[Funktionsräume]] die [[intern]]e [[Kommunikation]] [[fördern]] – ein [[Aspekt]], der im [[Arbeitsalltag]] [[unabdingbar]] ist
+
+
+---
+
+Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]]
 
 Zurzeit [[leite]] ich ein Team von sechs Softwareingenieur:innen bei der [[Entwicklung]] unseres [[intern]]en „E-Ledger“-Projekts für den [[Buchhaltungsbereich]]. ^2
 

@@ -4,7 +4,7 @@ die [[Heizungen]]
 ---
 ---
 
-*[[215-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]
+*[[115-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]
 
 
 

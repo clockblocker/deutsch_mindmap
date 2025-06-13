@@ -73,4 +73,4 @@ Adjektive: [[unterhaltend]], [[unterhaltender]], [[unterhaltendst]]
 
 [[geselschaft]]
 
-[[buroangestelle]], [[Unterhaltungskino]], [[nähren]]
+[[buroangestelle]], [[Unterhaltungskino]], [[nähren]], [[kommunizieren]]

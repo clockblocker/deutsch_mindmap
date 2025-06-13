@@ -1,1 +1,1 @@
-, [[Erlernung]], [[Realisierung]], [[unterlassen]], [[Ausübung]], [[Ausführung]]
+, [[Erlernung]], [[Realisierung]], [[unterlassen]], [[Ausübung]], [[Ausführung]], [[Durchführung]]

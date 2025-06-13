@@ -1,6 +1,15 @@
 🙋 [[teilnehmen]], [ˈtaɪ̯lˌneːmən](https://youglish.com/pronounce/teilnehmen/german) | [[nahm teil]], haben [[teilgenommen]]
 
 ---
+---
+
+*[[211-LEGO#^4|^]]* `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen]] zu können, [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]
+
+
+
+
+---
+
 Als Projektmanager [[teilnehmen|nehme]] ich [[ständig]] an [[virtuell]]en [[Meeting]]s mit [[extern]]en [[Partner]]n teil. 
 
 ---

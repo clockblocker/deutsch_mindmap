@@ -1,6 +1,12 @@
 🏥 [[befinden]] (sich), [bəˈfɪndən] | [[befand]], haben [[befunden]]
 
 ---
+---
+
+*[[212-LEGO#^2|^]]* [[Allerdings]] finde ich die [[Kantine]], `an` deren [[Stelle]] [[künftig]] Funktionsräume [[geplant]] sind, [[unverzichtbar]], da unser Büro sich in einem [[Industriegebiet]] [[befindet]], in dem es weder Restaurants noch Supermärkte gibt
+
+
+---
 
 Das Restaurant [[befindet]] sich in der Nähe des Bahnhofs.
 

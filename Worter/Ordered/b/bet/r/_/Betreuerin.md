@@ -1,1 +1,1 @@
-, [[betreuen]]
+, [[betreuen]], [[Betreuung]]

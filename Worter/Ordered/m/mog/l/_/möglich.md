@@ -1,9 +1,15 @@
-🟡 [[möglich]], [ˈmœklɪç]
-nicht [[unmöglich]]
+🟡 [[möglich]], [ˈmœklɪç] nicht [[unmöglich]]
 
 ---
+
+---
+
+_[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
+
+---
+
 Sie muss [[möglichst]] zahlreiche Bilder aus der kindlichen [[Lebenswelt]] [[eingespeist]] bekommen.
-*(It must be [[fed]] with [[as many]] images as possible from the child's [[world]].)*
+_(It must be [[fed]] with [[as many]] images as possible from the child's [[world]].)_
 
 SASCHA: Hm … wenn das [[möglich]] ist!
 

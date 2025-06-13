@@ -1,7 +1,15 @@
 🔴 die [[Steckdose]], [ˈʃtɛkdoːzə]
-die [[Steckdosen]]
 
 ---
+---
+
+*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] [[Powerbank]]s `in` der Bibliothek verboten sind, [erschwert] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den Einsatz `von` Laptops [[erfordert]], [[erheblich]]
+
+*[[213-LEGO#^5|^]]* Sollten [[derzeit]] keine [[zusätzlich]]en [[Steckdose]]n [[eingebaut]] werden können, schlage ich vor, die [[Nutzung]] von Powerbanks [[während]] der Umbauarbeiten zu erlauben. ^5
+
+
+---
+
 
 [[Internetzugang]] und [[Stromanschluss]] + [[Steckdosen]]
 

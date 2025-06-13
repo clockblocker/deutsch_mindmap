@@ -4,9 +4,9 @@
 ---
 ---
 
-*[[215-LEGO#^6|^]]* [[Hinzukommen|Hinzu kommt]], dass viele Unternehmen `in` Zeiten des [[Fachkräftemangel]]s [[speziell]]e [[Schulung]]en und [[attraktiv]]e [[Gehaltsmodell]]e [[anbieten]], um [[Fachpersonal]] [[langfristig]] zu [[binden]]
+*[[115-LEGO#^6|^]]* [[Hinzukommen|Hinzu kommt]], dass viele Unternehmen `in` Zeiten des [[Fachkräftemangel]]s [[speziell]]e [[Schulung]]en und [[attraktiv]]e [[Gehaltsmodell]]e [[anbieten]], um [[Fachpersonal]] [[langfristig]] zu [[binden]]
 
-*[[215-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en `mit` [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
+*[[115-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en `mit` [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
 
 
 

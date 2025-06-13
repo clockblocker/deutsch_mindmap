@@ -110,4 +110,4 @@ Konjunktiv II:
 - Wenn sie die Tür [[schlössen]], wäre es dunkel., [[11 08]], [[einschließen]], [[aufgehen]], [[aufmachen]], [[aufzukriegen]], [[auseinanderklapfen]], [[entschließen]], [[schließlich]], [[gründen]], [[eröffnen]], [[öffnen]], [[Lücke]], [[s1 e1]]
   , [[einschließlich]]
   , [[zudrücken]], [[Schlusssatz]], [[Aufrufen]], [[sperren]], [[fächern]], [[auslaufen]], [[ablesen]], [[Entschluss]], [[aufbrechen]]
-, [[erschließen]]
+, [[erschließen]], [[Schließung]]

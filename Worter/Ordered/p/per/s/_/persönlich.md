@@ -2,7 +2,7 @@
 
 ---
 
-*[[215-LEGO#^2|^]]* Bei der [[Berufswahl]] spielen [[verschiedene]] Kriterien eine Rolle: `Neben` [[persönlich]]en [[Neigung]]en und [[Talent]]en sind `vor` `allem` [[Arbeitsmarktperspektive]]n, [[Verdienstmöglichkeit]]en und [[Weiterbildungschance]]n [[entscheidend]]
+*[[115-LEGO#^2|^]]* Bei der [[Berufswahl]] spielen [[verschiedene]] Kriterien eine Rolle: `Neben` [[persönlich]]en [[Neigung]]en und [[Talent]]en sind `vor` `allem` [[Arbeitsmarktperspektive]]n, [[Verdienstmöglichkeit]]en und [[Weiterbildungschance]]n [[entscheidend]]
 
 *[[101-C1-Schreiben-T1#^12|^]]* Ich [[persönlich]] habe es als [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]]
 

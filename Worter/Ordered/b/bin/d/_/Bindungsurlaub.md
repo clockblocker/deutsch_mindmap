@@ -4,27 +4,31 @@ die [[Bindungsurlaube]]
 ---
 
 ---
+
 = [[Elternzeit]], [[Babypause]]
 ≈ [[Mutterschutz]], [[Vaterschaftsurlaub]], [[Erziehungsurlaub]]
 ≠ [[Arbeit]], [[Beruf]], [[Dienst]]
 
 ---
+
 parental leave
 отпуск по уходу за ребенком
 
 ---
+
 [[Bindung]]|[[s]]|[[Urlaub]]
 
 ---
+
 N: der [[Bindungsurlaub]], die [[Bindungsurlaube]]
 A: den [[Bindungsurlaub]], die [[Bindungsurlaube]]
 G: des [[Bindungsurlaubes]], der [[Bindungsurlaube]]
 D: dem [[Bindungsurlaub]], den [[Bindungsurlauben]]
 
 ---
-[[binden]], [[Bindung]], [[Urlaub]]
 
+[[binden]], [[Bindung]], [[Urlaub]]
 
 ---
 
-#Maskulin 
+#Maskulin

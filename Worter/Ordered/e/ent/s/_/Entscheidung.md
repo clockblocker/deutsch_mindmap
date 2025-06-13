@@ -1,7 +1,14 @@
 🔴 die [[Entscheidung]], [ˈɛntʃaɪ̯dʊŋ]
-die [[Entscheidungen]]
 
 ---
+---
+
+*[[212-LEGO#^5|^]]* Sollte die [[Entscheidung]] zur [[Schließung]] der [[Kantine]] nicht [[rückgängig]] gemacht werden können, schlage ich vor, ein [[Firmenangebot]] mit einem [[Lieferdienst]] zu [[arrangieren]]. ^5
+
+
+
+---
+
 
 Ich habe eine [[Entscheidung]] [[getroffen]]: Diesen Monat konzentriere ich mich nur auf Kamanova.
 

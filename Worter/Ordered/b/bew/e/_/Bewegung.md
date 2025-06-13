@@ -42,3 +42,4 @@ D: der [[Bewegung]], den [[Bewegungen]]
 [[Schritt]], [[Partei]], [[Spielzug]], [[Sport]], [[begeben]], [[Spaziergang]], [[Umwälzzirkulation]], [[Bewegungsmangel]], [[gang]], [[Lauf]]
 
 #Feminin , [[Schrebergartenbewegung]]
+, [[Position]]

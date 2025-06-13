@@ -4,7 +4,12 @@
 ---
 ---
 
-*[[215-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]. ^7
+*[[115-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]. ^7
+
+
+*[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine [[längere]] [[Freistellung]] möglich sein, schlage ich vor, mein Studium [[vollständig]] `im` Homeoffice [[absolvieren]] zu dürfen
+
+*[[213-LEGO#^5|^]]* Sollten [[derzeit]] keine [[zusätzlich]]en [[Steckdose]]n [[eingebaut]] werden können, schlage ich vor, die [[Nutzung]] von Powerbanks [[während]] der Umbauarbeiten zu erlauben. ^5
 
 
 

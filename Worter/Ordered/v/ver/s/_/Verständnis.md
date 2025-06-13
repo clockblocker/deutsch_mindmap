@@ -1,6 +1,19 @@
 🧠 🟢 das [[Verständnis]], [fɛɐ̯ˈʃtɛntnɪs](https://youglish.com/pronounce/Verständnis/german)
 
 ---
+---
+
+*[[211-LEGO#^2|^]]* Ich habe [[voll]]stes [[Verständnis]] `dafür`, dass die Firma `unter` [[Personalmangel]] jede [[Abwesenheit]] [[sorgfältig]] [[geprüft]] werden muss
+
+
+
+---
+
+
+
+
+
+
 Natürlich ist das hauptsächlich in großen Firmen mit vielen Angestellten möglich, aber auch im Kleinen kann durch eine gute Atmosphäre am Arbeitsplatz und_ [[generelles]] [[Verständnis]] _und_ [[Wertschätzung]] _viel_ [[erreicht]] _werden. ^9
 
 

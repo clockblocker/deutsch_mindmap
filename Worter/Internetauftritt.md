@@ -26,4 +26,4 @@ A: den [[Internetauftritt]], die [[Internetauftritte]]
 G: des [[Internetauftritts]], der [[Internetauftritte]]
 D: dem [[Internetauftritt]], den [[Internetauftritten]]
 
-#Maskulin 
+#Maskulin , [[Unternehmenswebsite]]

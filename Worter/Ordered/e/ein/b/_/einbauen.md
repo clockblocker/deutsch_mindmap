@@ -1,10 +1,20 @@
 --> [[Ingredient-Add-Remove]] <--
-
 📦 [[einbauen]] + Akk, [ˈaɪ̯nˌbaʊ̯ən]
-[[baute ein|baute ein]]
-haben [[eingebaut]]
 
 ---
+---
+
+*[[213-LEGO#^5|^]]* Sollten [[derzeit]] keine [[zusätzlich]]en [[Steckdose]]n [[eingebaut]] werden können, schlage ich vor, die [[Nutzung]] von Powerbanks [[während]] der Umbauarbeiten zu erlauben
+
+
+
+
+
+----
+
+
+
+
 
 Wo waren wir… also … die [[Metallteile]] [[einbauen]] …
 

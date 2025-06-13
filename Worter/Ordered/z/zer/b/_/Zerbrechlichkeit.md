@@ -28,4 +28,4 @@ A: die [[Zerbrechlichkeit]], die [[Zerbrechlichkeiten]]
 G: der [[Zerbrechlichkeit]], der [[Zerbrechlichkeiten]]
 D: der [[Zerbrechlichkeit]], den [[Zerbrechlichkeiten]]
 
-#Feminin 
+#Feminin , [[Stabilität]]

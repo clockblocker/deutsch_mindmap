@@ -12,7 +12,6 @@ Unbestritten ist, dass sich die Arbeitswelt im wohl stärksten Umbruch seit der 
 Es liegt auf der Hand, dass „New Work“ große Vorteile für Arbeitnehmerinnen und Arbeitnehmer bietet. `7 ...` ist „New Work“ mit seinen flexiblen Formen und der Forderung nach Eigenverantwortung nicht für jeden Persönlichkeitstyp geeignet. Eine Studie des Instituts für Arbeitsmarkt- und Berufsforschung `8 ...` , dass „Remote Work“, also das standortunabhängige Arbeiten und das damit einhergehende „Work-Life-Blending“ auch durchaus ambivalent eingeschätzt werden. Es bleibt also abzuwarten, wie stark sich diese neue Form der Arbeit durchsetzt.
 
 ---
-
 ---
 
 ###### 1

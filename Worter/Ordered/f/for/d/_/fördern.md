@@ -1,8 +1,14 @@
 --> [[🎯 Ingredient-Result-Verb]] <--
-
 🆙 [[fördern]]  [ˈfœʁdɐn](https://youglish.com/pronounce/fördern/german) | [[förderte]], haben [[gefördert]]
 
 ---
+----
+
+*[[212-LEGO#^1|^]]* ich habe vollstes Verständnis dafür, dass geplante [[Funktionsräume]] die [[intern]]e [[Kommunikation]] [[fördern]] – ein [[Aspekt]], der im [[Arbeitsalltag]] [[unabdingbar]] ist
+
+
+---
+
 *[[M1A1.md#^1|^]]* Aber gerade das [[fördert]] das Verantwortungsbewusstsein, das Pflichtbewusstsein. Da lernt ein Kind schnell, dass es nicht nur Spaß im Leben gibt, sondern auch Pflichten. Wie alt ist denn Ihr Sohn?
 
 *[[C1-Hoehen-T3-400-Text#^46|^]]* Die [[Bundesagentur]] für Arbeit würde eine Weiterbildung [[ihrerseits]] zwar [[fördern]], aber [[Leiharbeitsfirmen]] wollen einfach nicht investieren

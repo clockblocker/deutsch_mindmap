@@ -1,1 +1,1 @@
-, [[Kabelfernsehen]], [[Leitung]]
+, [[Kabelfernsehen]], [[Leitung]], [[WLAN]]

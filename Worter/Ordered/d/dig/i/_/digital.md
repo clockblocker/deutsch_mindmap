@@ -1,1 +1,1 @@
-, [[virtuell]], [[computergesteuert]]
+, [[virtuell]], [[computergesteuert]], [[digitalisieren]]

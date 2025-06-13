@@ -90,7 +90,6 @@ _b) dafür_
 _c) damit_  
 _d) darum_
 
-
 ---
 
 _[[Lesen-Teil-1-Verb]]_  
@@ -104,9 +103,7 @@ _d) verlässt_
 _[[C1-Lesen-T1-001-Text#^38|^]]_ Aber in der Studie heißt es auch, dass [[zusätzliche]] Labortests [[durchgeführt]] werden müssen, um eine bestimmte Krankheit [[abschließend]] zu diagnostizieren. ^38
 
 ---
-
 ---
-
 ---
 
 ###### AUS DER TIERWELT

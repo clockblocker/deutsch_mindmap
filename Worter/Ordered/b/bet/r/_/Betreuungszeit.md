@@ -1,1 +1,1 @@
-, [[Elternzeit]], [[betreuen]]
+, [[Elternzeit]], [[betreuen]], [[Betreuung]]

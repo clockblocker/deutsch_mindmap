@@ -1,1 +1,1 @@
-, [[geisteswissenschaftlich]], [[Wissen]], [[Wissenschaftler]]
+, [[geisteswissenschaftlich]], [[Wissen]], [[Wissenschaftler]], [[technisch]]

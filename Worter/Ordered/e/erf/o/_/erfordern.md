@@ -1,8 +1,17 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-
 🤔 [[erfordern]], [ɛɐ̯ˈfɔʁdɐn](https://youglish.com/pronounce/erfordern/german) → [[erforderte]] → [[erfordert]]
 
 ---
+---
+
+*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] [[Powerbank]]s `in` der [[Bibliothek]] verboten sind, [[erschwert]] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], [[erheblich]] 
+
+
+---
+
+
+
+
 *[[111-C1-Schreiben-Model#^13|^]]* Leider ist das leichter gesagt als getan, denn es [[erfordert]] enorme [[Disziplin]], praktikable Regeln zu etablieren, um die Online-Zeit [[konsequent]] zu begrenzen. ^13
 
 

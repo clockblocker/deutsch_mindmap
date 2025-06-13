@@ -1,1 +1,1 @@
-🔵 der [[Vorteil]], [[Nachteile]]
+🔵 der [[Vorteil]], [[Nachteile]], [[regelmäßig]]

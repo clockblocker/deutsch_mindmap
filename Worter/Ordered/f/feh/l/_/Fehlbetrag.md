@@ -5,23 +5,27 @@
 ---
 
 ---
+
 = [[Defizit]], [[Verlust]], [[Minusbetrag]], [[fehlend]], [[Defizit]]
 ≈ [[Schulden]], [[Rückstand]], [[Mangel]], [[Bilanz]],
 ≠ [[Überschuss]], [[Gewinn]], [[Plusbetrag]]
 
 ---
+
 deficit, shortfall  
 недостача, дефицит
 
 ---
+
 [[Betrag]], [[fehlen]], [[Fehler]]
 
 ---
+
 [[Fehl]]|[[betrag]]
 [[Fehlbetrag]]
 
-
 ---
+
 N: der [[Fehlbetrag]], die [[Fehlbeträge]]
 A: den [[Fehlbetrag]], die [[Fehlbeträge]]
 G: des [[Fehlbetrags]], der [[Fehlbeträge]]

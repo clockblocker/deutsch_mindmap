@@ -1,1 +1,1 @@
-, [[Gründungsmitglied]], [[Gründer]], [[Wegbereiter]], [[initiieren]], [[Initiative]]
+, [[Gründungsmitglied]], [[Gründer]], [[Wegbereiter]], [[initiieren]], [[Initiative]], [[Pionierrolle]]

@@ -29,3 +29,4 @@ Related Words:
 
 , [[Damit]]
 , [[Konnektivpartikeln]], [[Konjunktoren]], [[vielmehr]]
+, [[alternativ]]

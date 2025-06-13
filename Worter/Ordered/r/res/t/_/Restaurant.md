@@ -2,6 +2,11 @@
 die [[Restaurants]]
 
 ---
+---
+
+*[[216-LEGO#^6|^]]* `Am` zweiten [[Abend]] war das [[Restaurant]] [[entgegen]] der [[Ankündigung]] `auf` Ihrer Website geschlossen
+
+
 
 ---
 = [[Gaststätte]], [[Speiselokal]], [[Gasthaus]]

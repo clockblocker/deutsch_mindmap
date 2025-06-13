@@ -1,2 +1,2 @@
 ⚔️ [[streiten]]
-, [[geduld]], [[befürchten]], [[bisher]]
+, [[geduld]], [[befürchten]], [[bisher]], [[regelmäßig]]

@@ -5,18 +5,22 @@
 ---
 
 ---
+
 = [[bestehen]], [[vorhanden sein]], [[geben]]
 ≈ [[sein]], [[auftreten]], [[vorkommen]], [[funktionieren]]
 ≠ [[verschwinden]], [[aufhören]], [[aussterben]], [[untergehen]]
 
 ---
+
 to exist
 существовать
 
 ---
+
 [[exis]]|[[tie]]|[[ren]]
 
 ---
+
 ich: [[existiere]], [[existierte]], –, [[existiere]], [[existierte]]
 du: [[existierst]], [[existiertest]], [[existiere]] | [[existier]], [[existierst]], [[existiertest]]
 er/sie/es: [[existiert]], [[existierte]], –, [[existiere]], [[existierte]]
@@ -26,8 +30,10 @@ ihr: [[existiert]], [[existiertet]], [[existiert]], [[existiert]], [[existiertet
 PI: [[existierend]], PII: [[existiert]], Zu+inf: [[zu existieren]]
 
 ---
+
 [[existieren]] - [[exis]] = [[tieren]] / to exist
 
 ---
+
 [[Existenz]], [[existent]], [[Existenzialismus]], [[Existenzangst]], [[Koexistenz]]
 , [[dastehen]], [[fortleben]]

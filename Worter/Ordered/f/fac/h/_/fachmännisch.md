@@ -1,1 +1,1 @@
-, [[Fach]], [[Fachmann]], [[handwerklich]]
+, [[Fach]], [[Fachmann]], [[handwerklich]], [[technisch]]

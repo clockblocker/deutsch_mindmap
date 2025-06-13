@@ -1,6 +1,19 @@
 😩 [[erschweren]], [ɛɐ̯ˈʃveːrən](https://youglish.com/pronounce/erschweren/german) → [[erschwerte]] → [[erschwert]]
 
 ---
+---
+
+*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] [[Powerbank]]s `in` der Bibliothek verboten sind, [[erschwert]] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], [[erheblich]]
+
+
+----
+
+
+
+
+
+
+
 *[[112-C1-Schreiben-Model#^6|^]]* Nicht nur würde die [[alltäglich]]e Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuern]]“ steigen – etwa in Form höherer [[Energiepreis]]e, [[kostspielig]]er recycelbarer [[Verpackung]]en oder teurer Bio-[[Lebensmittel]]
 
 

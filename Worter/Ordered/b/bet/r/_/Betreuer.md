@@ -1,1 +1,1 @@
-, [[Erzieher]], [[betreuen]], [[Kinderbetreuung]]
+, [[Erzieher]], [[betreuen]], [[Kinderbetreuung]], [[Betreuung]]

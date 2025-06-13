@@ -1,1 +1,1 @@
-, [[Kleidung]], [[Bekleidung]], [[beträchtlich]], [[prestigeträchtig]], [[abträglich]]
+, [[Kleidung]], [[Bekleidung]], [[beträchtlich]], [[prestigeträchtig]], [[abträglich]], [[Beeinträchtigung]]

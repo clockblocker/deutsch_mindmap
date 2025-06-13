@@ -1,1 +1,1 @@
-, [[einstellen]], [[Softwareprogramm]], [[Programm]], [[Grundprogramm]], [[einprogrammieren]]
+, [[einstellen]], [[Softwareprogramm]], [[Programm]], [[Grundprogramm]], [[einprogrammieren]], [[Hackathon]]

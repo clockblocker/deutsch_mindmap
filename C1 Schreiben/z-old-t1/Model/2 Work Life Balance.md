@@ -51,7 +51,6 @@ _[[2 Work Life Balance#^11|^]]_ \_Ich denke, das ist ein großer Fehler. ^11
 _[[2 Work Life Balance#^12|^]]_ \_Ein gutes Gespräch, ein Spaziergang mit den Kindern oder auch nur ein kurzes Kaffeetreffen mit einem guten Freund, das sind die Dinge, die wirklich im Leben zählen. ^12
 
 ---
-
 ---
 
 - _Das moderne Leben fordert von uns,_ ... _, was nicht immer leicht ist._
@@ -92,9 +91,7 @@ _[[2 Work Life Balance#^12|^]]_ \_Ein gutes Gespräch, ein Spaziergang mit den K
 - Qualitätszeit (mit jM) zu verbringen
 
 ---
-
 ---
-
 ---
 
 _Das moderne Leben fordert von uns,_ die Erwerbstätigkeit, das Familienleben und die persönliche Zeit in ein ausgewogenes Verhältnis zu bringen, _was nicht immer leicht ist._

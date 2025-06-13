@@ -23,7 +23,6 @@ Es hat sie zu medizinischen Supernasen gemacht, die mit einer Präzision von 92 
  _c) von denen_  
  _d) welche_
 
-
 Man hatte sie nicht nur mit Speichelproben trainiert, aber sie erschnüffelten Corona ebenso zuverlässig in Urin- und Schweißproben.
 
 ---
@@ -96,9 +95,7 @@ Das Team um Volk (8) \_\_\_ zwar auf Hundenasen, weil die ihre Eignung zum Aufsp
 Aber in der Studie heißt es auch, dass zusätzliche Labortests durchgeführt werden müssen, um eine bestimmte Krankheit abschließend zu diagnostizieren.
 
 ---
-
 ---
-
 ---
 
 ###### AUS DER TIERWELT

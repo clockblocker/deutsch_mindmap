@@ -1,5 +1,13 @@
 🔄 [[austauschen]], [aʊ̯sˈtaʊ̯ʃn̩] | [[tauschte aus]], haben [[ausgetauscht]]
 
+----
+---
+
+*[[214-LEGO#^6|^]]* Sollten Sie [[Interesse]] haben, schlage ich vor, dass wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]]
+
+
+
+
 ---
 
 Wir [[austauschen|tauschen]] unsere [[Erfahrung]]en [[aus]].
@@ -45,3 +53,4 @@ PI: [[austauschend]], PII: [[ausgetauscht]], Zu+inf: [[auszutauschen]]
 ---
 
 [[Austausch]], [[austauschbar]], [[Austauschprogramm]], [[tauschen]], [[Tauschlager]]
+, [[kommunizieren]]

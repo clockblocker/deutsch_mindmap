@@ -27,4 +27,4 @@ A: die [[Analyse]], die [[Analysen]]
 G: der [[Analyse]], der [[Analysen]]
 D: der [[Analyse]], den [[Analysen]]
 
-#Feminin , [[Marktbeobachtung]], [[Konsumforschung]]
+#Feminin , [[Marktbeobachtung]], [[Konsumforschung]], [[Datenanalyse]]

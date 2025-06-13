@@ -1,6 +1,10 @@
 🔵 täglich, [ˈtɛːɡlɪç]
 
 ---
+---
+
+*[[212-LEGO#^3|^]]* Ohne sie wäre ich persönlich [[gezwungen]], mein [[Mittagessen]] [[täglich]] selbst zu Hause [[vorzubereiten]] – [[wofür]] mir leider die Zeit [[fehlt]]
+
 
 Dass Bastian von der [[täglichen]] Arbeit in der Firma wenig weiß, sieht ihr Chef nicht.
 

@@ -33,3 +33,6 @@ G: des [[Spaziergangs]], der [[Spaziergänge]]
 D: dem [[Spaziergang]], den [[Spaziergängen]]
 , [[Fußwanderung]]
 , [[Strandwanderung]]
+
+
+#Maskulin 

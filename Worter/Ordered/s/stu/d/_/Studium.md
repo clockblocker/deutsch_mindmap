@@ -5,6 +5,12 @@ die [[Studien]]
 
 ---
 
+_[[211-LEGO#^4|^]]_ `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen]] zu können, [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]
+
+---
+
+---
+
 = [[Ausbildung]], [[Universität]]
 ≈ [[Studium]], [[Hochschule]]
 ≠ [[Schule]], [[Arbeit]], [[Hobby]], [[Freizeit]]

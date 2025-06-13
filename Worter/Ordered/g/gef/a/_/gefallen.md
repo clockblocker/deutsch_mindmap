@@ -1,7 +1,18 @@
 ❤️ [[gefallen]], [ɡəˈfalən](https://youglish.com/pronounce/gefallen/german) → [[gefiel]] → haben [[gefallen]]
 
 ---
-*[[215-C1-Schreiben-Model#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] durch Sie und Ihr Team
+----
+
+*[[215-LEGO#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] `durch` Sie und Ihr Team
+
+
+---
+
+*[[216-LEGO#^2|^]]* Besonders [[gefiel]] mir das [[ansprechend]]e [[Ambiente]] der [[Lobby]]
+
+
+----
+
 
 Diesmal [[gefiel]] ihr die [[Nummerierung]] der Seiten in Elenas Bericht nicht. „Die [[Seitenzahlen]] sollten immer [[unten]] rechts stehen. Bitte achten Sie in Zukunft [[darauf]]!“, war ihr [[einziger]] Kommentar zu dem Bericht. 
 

@@ -1,10 +1,13 @@
 die [[Fähigkeit]], [fɛˈçɪçkaɪ̯t]
-die [[Fähigkeiten]]
+
 
 ---
 ---
 
-*[[215-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz-Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
+*[[115-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz-Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
+
+*[[214-LEGO#^5|^]]* Deshalb hoffe ich, in kurzer Zeit Ihr Team `mit` meinen [[Fähigkeit]]en [[bereichern]] zu können
+
 
 
 ---

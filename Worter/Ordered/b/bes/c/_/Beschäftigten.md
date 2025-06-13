@@ -1,3 +1,3 @@
 , [[beschäftigen]], [[schäftigen]]
 
-[[Beschäftigte]], [[bro-schrieben-c1-t1-002]]
+[[Beschäftigte]], [[bro-schrieben-c1-t1-002]], [[regelmäßig]]

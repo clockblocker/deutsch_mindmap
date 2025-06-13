@@ -82,7 +82,7 @@ _[[C1-Lesen-411-Text#^16|^]]_ Der Schlaf sollte erholsam sein und die Schlafdaue
 3. 
     - [ ] *a weshalb*
     - [ ] b dennoch
-    - [x] c obwohl
+    - [ ] c obwohl
     - [ ] *d denn*
 
 4. 

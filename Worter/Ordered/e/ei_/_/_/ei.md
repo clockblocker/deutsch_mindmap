@@ -6,9 +6,11 @@ Beispiele:
 ---
 
 Synonyme:
+
 - [[Ovum]]
 
 ---
+
 **Übersetzung**: egg
 
 ---
@@ -19,6 +21,7 @@ Synonyme:
 ---
 
 **Morphems of only infinitive:**
+
 - [[ei]]
 
 ---

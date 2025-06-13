@@ -31,4 +31,4 @@ G: der [[Veranstaltung]], der [[Veranstaltungen]]
 D: der [[Veranstaltung]], den [[Veranstaltungen]]
 
 
-#Feminin , [[Meeting]], [[Eröffnungsfeier]], [[Blockveranstaltung]], [[Unterhaltungsangebot]], [[Straßenfest]], [[Großveranstaltung]]
+#Feminin , [[Meeting]], [[Eröffnungsfeier]], [[Blockveranstaltung]], [[Unterhaltungsangebot]], [[Straßenfest]], [[Großveranstaltung]], [[Hackathon]]

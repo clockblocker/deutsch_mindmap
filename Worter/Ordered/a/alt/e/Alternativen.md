@@ -1,1 +1,1 @@
-, [[Alternative]]
+, [[Alternative]], [[alternativ]]

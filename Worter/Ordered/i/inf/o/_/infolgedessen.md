@@ -1,7 +1,16 @@
 ➡️ [[infolgedessen]], [ɪnfɔlɡəˈdɛsn̩](https://youglish.com/pronounce/infolgedessen/german) | [[Konnektoren]], [[Konnektivpartikeln]]
 
 ---
-*[[215-C1-Schreiben-Model#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren sogar einmal gezwungen, in einem Hostel statt im [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]
+---
+
+*[[215-LEGO#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren [[sogar]] einmal [[gezwungen]], in einem [[Hostel]] [[statt]] `im` [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]] ^4
+
+
+
+
+---
+
+
 
 *[[C1-Hoehen-T2-101-Text#^16|^]]* Denken wir an ein einfaches Beispiel: Man wählt eine Partei und diese bekommt [[infolgedessen]] Sitze im Parlament
 

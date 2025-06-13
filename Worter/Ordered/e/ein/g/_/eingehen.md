@@ -1,6 +1,14 @@
 📧 [[eingehen]] | [[ging ein|ging ein]], sein [[eingegangen]]
 
 ---
+---
+
+*[[211-LEGO#^1|^]]* ich wende mich an Sie, um auf mein [[zukünftig]]es MBA-Studium an der [[Technisch]]en [[Universität]] München [[einzugehen]]
+
+
+
+---
+
 *[[C1-Lesen-412-Text#^6|^]]* Fährt sich eine Frau mit der Hand [[unentwegt]] durchs Haar, [[bekundet]] sie [[Bereitschaft]] `auf` das andere [[Geschlecht]] [[einzugehen]]
 
 *[[C1-Hoehen-T3-400-Text#^6|^]]* Ein Unternehmen kann auf die [[jeweilig]]e [[Auftragslage]] [[eingehen]] und bei Personalengpässen temporär [[Einstellung]]en [[vornehmen]]

@@ -4,46 +4,207 @@
     "type": "split",
     "children": [
       {
-        "id": "14ce132b8bb55eaa",
+        "id": "d7f4267f403ae374",
         "type": "tabs",
-        "dimension": 68.26843413421707,
         "children": [
           {
-            "id": "3782309f8499be52",
+            "id": "a5a54dc76ddc1685",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/v1/T2-V1/213-C1-Schreiben/213-C1-Schreiben-Model.md",
+                "file": "C1 Schreiben/v1/V1-Lego/215-LEGO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "213-C1-Schreiben-Model"
+              "title": "215-LEGO"
             }
-          }
-        ]
-      },
-      {
-        "id": "c17c682791d87483",
-        "type": "tabs",
-        "dimension": 31.731565865782933,
-        "children": [
+          },
           {
-            "id": "39ed64ca2a6d9734",
+            "id": "b45014687af84cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/v1/T2-V1/214-C1-Schreiben/214-C1-Schreiben-Model.md",
+                "file": "Worter/Ordered/z/zus/a/_/zusätzlich.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "214-C1-Schreiben-Model"
+              "title": "zusätzlich"
+            }
+          },
+          {
+            "id": "94cfd633e65d0a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/h/hal/t/_/halte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "halte"
+            }
+          },
+          {
+            "id": "e5c9187347663e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/h/hal/t/_/halten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "halten"
+            }
+          },
+          {
+            "id": "9d88f65fa5ecc868",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/s/sin/n/_/sinnvoll.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sinnvoll"
+            }
+          },
+          {
+            "id": "b2bc96405d73a6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/a/aus/f/_/Ausflüge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ausflüge"
+            }
+          },
+          {
+            "id": "e4f16a151171f484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/a/aus/f/_/Ausflug.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ausflug"
+            }
+          },
+          {
+            "id": "a635f0939ecffcdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/v/vor/s/_/vorsorglich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vorsorglich"
+            }
+          },
+          {
+            "id": "3b81f57c0477bb69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/a/alt/e/_/alternativ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "alternativ"
+            }
+          },
+          {
+            "id": "122cd5a3fdda2423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/r/rou/t/_/Route.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Route"
+            }
+          },
+          {
+            "id": "80a2d3fc4a3b6a59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Ordered/m/mog/l/_/möglich.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "möglich"
+            }
+          },
+          {
+            "id": "7811095fc05ebcfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Verkehrsprobleme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verkehrsprobleme"
+            }
+          },
+          {
+            "id": "4b22bc558fef6054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Verkehrsproblem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verkehrsproblem"
+            }
+          },
+          {
+            "id": "986e5f3d03a2e85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/v1/V1-Lego/215-LEGO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "215-LEGO"
             }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -100,7 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5026054382324
+    "width": 200
   },
   "right": {
     "id": "d9319cd8d7ae9854",
@@ -194,43 +355,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3782309f8499be52",
+  "active": "986e5f3d03a2e85f",
   "lastOpenFiles": [
-    "C1 Schreiben/C1-Schreiben-Root.md",
-    "C1 Schreiben/v1/T1-V1/111-C1-Schreiben/111-C1-Schreiben-Model.md",
-    "Anhänge/0111.mp3",
-    "C1 Schreiben/v1/T1-V1/115-C1-Schreiben/115-C1-Schreiben-Model.md",
-    "C1 Schreiben/v1/V1-Lego/215-LEGO.md",
-    "C1 Schreiben/v1/T1-V1/114-C1-Schreiben/114-C1-Schreiben-Model.md",
-    "Anhänge/0114.mp3",
-    "C1 Schreiben/v1/T1-V1/116-C1-Schreiben/116-C1-Schreiben-Model.md",
-    "Worter/Ordered/z/zuk/u/_/zukünftig.md",
-    "Worter/Ordered/v/ver/n/_/vernetzte.md",
-    "Worter/Ordered/v/ver/n/_/vernetzen.md",
-    "Worter/Ordered/v/ver/n/_/vernetzt.md",
-    "Worter/Diagnosegeräte.md",
-    "Worter/Diagnosegerät.md",
-    "Worter/Arbeitsalltag.md",
-    "Worter/Ordered/v/ver/a/_/verändern.md",
-    "Worter/Auf diese Weise.md",
-    "Worter/Ordered/v/ver/b/_/verbinden.md",
-    "Worter/handwerklich.md",
-    "Worter/tradiert.md",
-    "Worter/tradieren.md",
-    "Worter/Ordered/f/fer/t/_/Fertigkeit.md",
-    "Worter/Ordered/m/mod/e/_/modern.md",
-    "Worter/Ordered/t/tec/h/_/Technik.md",
-    "Worter/Ordered/w/wod/u/_/wodurch.md",
-    "Worter/Ordered/e/eff/i/_/Effizienz.md",
-    "Worter/Ordered/z/zug/l/_/zugleich.md",
-    "Anhänge/0115.mp3",
-    "Worter/Ordered/p/pum/p",
-    "Worter/Ordered/p/pum",
-    "Worter/Ordered/a/alt/g",
-    "Anhänge/ElevenLabs_2025-06-12T06_11_53_Mila_pvc_sp100_s50_sb75_v3.mp3",
-    "Worter/Ordered/k/kfz/k",
-    "Worter/Ordered/k/kfz/w",
-    "Worter/Ordered/k/kfz/_",
+    "Worter/Verkehrsproblem.md",
+    "Worter/Ordered/v/ver/k/Verkehrsproblemen.md",
+    "Worter/Ordered/v/ver/k/Verkehrsproblems.md",
+    "Worter/Ordered/v/ver/k/Verkehrsbehinderung.md",
+    "Worter/Verkehrsprobleme.md",
+    "Worter/Ordered/m/mog/l/_/möglich.md",
+    "Worter/Ordered/r/rou/t/_/Route.md",
+    "Worter/Ordered/r/rou/t/Routenführung.md",
+    "Worter/Ordered/r/rou/t/Routenplanung.md",
+    "Worter/Ordered/r/rou/t/routen.md",
+    "Worter/Ordered/a/alt/e/alternativstem.md",
+    "Worter/Ordered/a/alt/e/alternativsten.md",
+    "Worter/Ordered/a/alt/e/alternativste.md",
+    "Worter/Ordered/a/alt/e/alternativstes.md",
+    "Worter/Ordered/a/alt/e/alternativster.md",
+    "Worter/Ordered/a/alt/e/alternativerem.md",
+    "Worter/Ordered/a/alt/e/alternativeren.md",
+    "Worter/Ordered/a/alt/e/_/alternativ.md",
+    "Worter/Ordered/a/alt/e/alternativere.md",
+    "Worter/Ordered/a/alt/e/alternativeres.md",
+    "Worter/Ordered/a/alt/e/alternativerer.md",
+    "Worter/Ordered/a/alt/e/alternativem.md",
+    "Worter/Ordered/a/alt/e/alternatives.md",
+    "Worter/Ordered/a/alt/e/alternativst.md",
+    "Worter/Ordered/a/alt/e/alternativer.md",
+    "Worter/Ordered/e/ent/w/entweder...oder.md",
+    "Worter/Ordered/b/bus/u",
+    "Worter/Ordered/z/zug/f",
+    "Worter/Ordered/b/bus/a",
+    "Worter/Ordered/b/bus/r",
+    "Worter/Ordered/b/bus/f",
+    "Worter/Ordered/w/web/d",
+    "Worter/Ordered/g/gpt/1",
+    "Worter/Ordered/g/gpt/2",
+    "Worter/Ordered/w/wla/n",
+    "Worter/Ordered/w/wla",
     "Anhänge/Pasted image 20250611033834.png",
     "Anhänge/Pasted image 20250610161356.png",
     "Anhänge/Pasted image 20250610065146.png",

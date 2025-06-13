@@ -1,9 +1,12 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
-
 ➡️ [[anschließend]], [ˈanˌʃliːsn̩t](https://youglish.com/pronounce/anschließend/german)
 
 ---
-*[[214-C1-Schreiben-Model#^5|^]]* *Sollten* Sie Interesse haben, *schlage ich vor, dass* wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]] 
+---
+
+*[[214-LEGO#^6|^]]* Sollten Sie [[Interesse]] haben, schlage ich vor, dass wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]]
+
+
 
 
 ---

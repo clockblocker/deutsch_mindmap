@@ -3,4 +3,4 @@
 🟢 das [[Datum]] 🗓️
 
 
-#Plural , [[Datenschutz]], [[Software]], [[Information]], [[Marktdaten]], [[Datenmenge]], [[Datenübertragung]]
+#Plural , [[Datenschutz]], [[Software]], [[Information]], [[Marktdaten]], [[Datenmenge]], [[Datenübertragung]], [[Datenanalyse]]

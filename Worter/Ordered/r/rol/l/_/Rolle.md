@@ -27,4 +27,4 @@ A: die [[Rolle]], die [[Rollen]]
 G: der [[Rolle]], der [[Rollen]]
 D: der [[Rolle]], den [[Rollen]]
 
-#Feminin 
+#Feminin , [[Pionierrolle]]

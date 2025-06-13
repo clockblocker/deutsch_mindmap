@@ -3,17 +3,20 @@
 ---
 
 ---
+
 = [[anlaufen]], [[starten]], [[beginnen]]
 ≈ [[sich entwickeln]], [[funktionieren]]
 ≠ [[stoppen]], [[aufhören]]
 
 ---
+
 to get going, to start  
 запускаться, начинаться
 
 ---
+
 [[Gang]], [[kommen]]
 
 ---
-[[Gang]]
 
+[[Gang]]

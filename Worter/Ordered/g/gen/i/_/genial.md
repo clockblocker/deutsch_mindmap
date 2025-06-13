@@ -9,9 +9,11 @@ nicht [[dumm]]
 ---
 
 Synonyme:
+
 - [[brillant]], [[intelligent]], [[großartig]], [[klug]]
 
 ---
+
 Beispiele:
 
 - Das ist eine [[geniale]] Idee.
@@ -27,14 +29,16 @@ Beispiele:
 - Ihre Fähigkeiten sind [[am genialsten]].
 
 ---
+
 **Übersetzung**:
 brilliant, ingenious
 
 ---
 
-Tags: 
+Tags:
 #Adjective
 
 ---
+
 Morphems:
 [[genial]]

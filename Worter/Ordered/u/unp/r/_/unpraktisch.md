@@ -1,2 +1,2 @@
 
-, [[gelegen]], [[zweckmäßig]]
+, [[gelegen]], [[zweckmäßig]], [[technisch]]

@@ -1,8 +1,15 @@
 📢 🔴 die [[Ausschreibung]], [ˈaʊ̯sˌʃʁaɪ̯bʊŋ](https://youglish.com/pronounce/Ausschreibung/german)
-die [[Ausschreibungen]]
 
 ---
-*[[214-C1-Schreiben-Model#^3|^]]* ich wende mich an Sie, um mein Interesse an der Position als [[Praktikant]] in Ihrem KI R&D-Team zu [[bekunden]], deren [[Ausschreibung]] ich auf Ihrer Unternehmenswebsite gelesen habe
+----
+
+*[[214-LEGO#^1|^]]* ich wende mich `an` Sie, `um` mein [[Interesse]] `an` der [[Position]] `als` [[Praktikant]] `in` Ihrem KI R&D-Team zu [[bekunden]], `deren` [[Ausschreibung]] ich `auf` Ihrer [[Unternehmenswebsite]] gelesen habe
+
+
+
+
+
+
 
 ---
 = [[Ausschreiben]], [[Ankündigung]], [[Bekanntmachung]]

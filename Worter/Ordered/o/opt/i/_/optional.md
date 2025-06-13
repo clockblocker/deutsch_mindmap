@@ -1,1 +1,1 @@
-, [[zwangsläufig]], [[obligatorisch]]
+, [[zwangsläufig]], [[obligatorisch]], [[alternativ]]

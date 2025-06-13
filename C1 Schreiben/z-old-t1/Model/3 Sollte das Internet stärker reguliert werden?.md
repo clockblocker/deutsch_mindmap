@@ -49,7 +49,6 @@ _[[3 Sollte das Internet stärker reguliert werden?#^6|^]]_ _Zuallererst liegt e
 _[[3 Sollte das Internet stärker reguliert werden?#^6|^]]_ _Wir müssen unsere Kinder zu Respekt und Toleranz_ [[erziehen]] _und sie auch auf_ [[bestehende]] [[Gefahren]] _im Netz sowie deren_ [[Handhabung]] [[hinweisen]]. ^6
 
 ---
-
 ---
 
 - _Selbstverständlich sind solche [[Äußerung]], [[en]] sowohl in der realen als auch in der virtuellen Welt strafbar_
@@ -93,7 +92,6 @@ _[[3 Sollte das Internet stärker reguliert werden?#^6|^]]_ _Wir müssen unsere 
 - _Wir müssen unsere Kinder zu_ [[Respekt]] _und_ [[Toleranz]] [[erziehen]]
 
 ---
-
 ---
 
 - _Qualität der_ [[Berichterstattung]] `durch` _die_ [[Medien]]

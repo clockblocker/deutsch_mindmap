@@ -1,14 +1,18 @@
-, [[Ferien]]
 🗓️ 🟢 das [[Semester]], [zɛˈmɛstɐ](https://youglish.com/pronounce/Semester/german)
 
 ---
-*[[031-C1-Schreiben-T2#^2|^]]* Vom nächsten [[Semester]] an soll die monatliche [[Warmmiete]] von 400 € auf 600 € erhöht werden. ^2
+---
+
+*[[214-LEGO#^3|^]]* [[Zurzeit]] studiere ich `im` zweiten [[Semester]] der Technischen Universität München
+
+
+---
 
 
 ---
 = [[Halbjahr]], [[Studienabschnitt]]
 ≈ [[Zeitraum]], [[Periode]], [[Abschnitt]]
-≠ [[Jahr]]
+≠ [[Jahr]], [[Ferien]]
 
 ---
 semester  

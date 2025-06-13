@@ -1,1 +1,1 @@
-, [[willkürlich]], [[Methode]]
+, [[willkürlich]], [[Methode]], [[technisch]]

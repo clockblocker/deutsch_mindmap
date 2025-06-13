@@ -2,7 +2,19 @@
 🔒 [[sichern]], [ˈziːçɐn](https://youglish.com/pronounce/sichern/german) → [[sicherte]] → [[gesichert]]
 
 ---
-*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^8|^]]* Nur so lässt sich [[langfristig]] die Gesundheit der [[Belegschaft]] [[sichern]] und ein Burnout [[verhindern]]. ^8
+---
+
+*[[211-LEGO#^3|^]]* Allerdings habe ich zwei Jahre `daran` gearbeitet, einen Platz `im` [[Programm]] zu [[sichern]]. ^3
+
+
+
+
+
+---
+
+
+
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^8|^]]* Nur so lässt sich [[langfristig]] die Gesundheit der [[Belegschaft]] [[sichern]] und ein Burnout [[verhindern]]
 
 
 ---
@@ -59,4 +71,4 @@ sie, [[sichern]], [[sicherten]], [[sichern]], [[sicherten]], [[sichern]]
 Adjektive: [[sichernd]], [[sichernder]], [[sicherndst]]
 
 ---
-[[sichernder]], [[sicherndes]], [[sichernde]], [[sichernden]], [[sicherndem]], [[sichernderer]], [[sichernderes]], [[sicherndere]], [[sichernderen]], [[sichernderem]], [[sicherndster]], [[sicherndstes]], [[sicherndste]], [[sicherndsten]], [[sicherndstem]], [[bergen]], [[verwahren]], [[Existenzsicherung]], [[Beiseitelegen]], [[festmachen]], [[verankern]], [[speichern]]
+[[sichernder]], [[sicherndes]], [[sichernde]], [[sichernden]], [[sicherndem]], [[sichernderer]], [[sichernderes]], [[sicherndere]], [[sichernderen]], [[sichernderem]], [[sicherndster]], [[sicherndstes]], [[sicherndste]], [[sicherndsten]], [[sicherndstem]], [[bergen]], [[verwahren]], [[Existenzsicherung]], [[Beiseitelegen]], [[festmachen]], [[verankern]], [[speichern]], [[Programm]]

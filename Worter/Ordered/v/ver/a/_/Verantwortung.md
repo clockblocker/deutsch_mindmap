@@ -37,4 +37,4 @@ D: der [[Verantwortung]], den [[Verantwortungen]]
 , [[verantwortungsvoll]], [[verantwortungsbewusst]]
 
 
-#Feminin , [[Familienaufgabe]]
+#Feminin , [[Familienaufgabe]], [[Betreuung]]

@@ -1,21 +1,23 @@
 ✋ [[halten]] sich
 
 ---
-*[[111-C1-Schreiben-Model#^16|^]]* Zusätzlich hat es sich als [[effektiv]] [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedienfrei zu [[halten]]
 
+---
 
-*[[C1-Lesen-T1-201-Text#^1|^]]* die als Biedermeier unter anderem Beispiel [[Bezug]] in Malerei und Literatur [[gehalten]] hat
-*(has [[held]] [[reference]] in painting and literature)*
+_[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
 
-*[[C1-Lesen-416-Text#^1|^]]* Pünktlichkeit ist eine gesellschaftliche Konvention; man erwartet, dass `sich` jeder `daran` [[hält]]
-*one expects that everyone [[adheres]] `to it`*
+---
 
+_[[C1-Lesen-T1-201-Text#^1|^]]_ die als Biedermeier unter anderem Beispiel [[Bezug]] in Malerei und Literatur [[gehalten]] hat
+_(has [[held]] [[reference]] in painting and literature)_
+
+_[[C1-Lesen-416-Text#^1|^]]_ Pünktlichkeit ist eine gesellschaftliche Konvention; man erwartet, dass `sich` jeder `daran` [[hält]]
+_one expects that everyone [[adheres]] `to it`_
 
 _[[101-C1-Schreiben-T1#^13|^]]_ [[Zusätzlich]] hat es sich als effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedien[[frei]] zu [[halten]]
 
 Herr Gröner [[hält]] an der Universität Vorlesungen über Zivilcourage
-*(Mr. Gröner gives lectures on civil courage at the university)*
-
+_(Mr. Gröner gives lectures on civil courage at the university)_
 
 _[[C1-Hoehen-T4-100-Text#^30|^]]_ Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschrift]]en [[gehalten]] wird
 _(whether these new regulations are being [[followed]] in practice.)_
@@ -126,4 +128,4 @@ Konjunktiv II:
 - Wenn sie mehr Kraft hätten, [[hielten]] sie den Rekord.[[werfen]], [[fassen]], [[aushalten]], [[aufhalten]], [[mithalten]], [[schieben]], [[s1 e1]], [[abhalten]], [[hinhalten]], [[Einhaltung]], [[enthalten]], [[beibehalten]], [[verhalten]], [[einhalten]], [[packen]]
   , [[aufrechterhalten]]
   , [[durchhalten]], [[fernhalten]], [[gefangenzuhalten]], [[tragen]], [[Haltung]], [[Lebenshaltungskosten]], [[Nachhaltigkeit]], [[Zusammenhalt]]
-, [[Beibehaltung]]
+  , [[Beibehaltung]]

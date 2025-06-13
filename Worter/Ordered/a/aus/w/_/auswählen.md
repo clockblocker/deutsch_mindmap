@@ -1,6 +1,15 @@
 ✅ [[auswählen]], [ˈaʊ̯sˌveːlən](https://youglish.com/pronounce/auswählen/german) → [[wählte aus]] → [[ausgewählt]]
 
 ---
+---
+
+*[[215-LEGO#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] `durch` Sie und Ihr Team
+
+
+---
+
+
+
 *[[5 Für die Arbeit das Land wechseln - Lohnt sich das?#^4|^]]* Die Frage, nach welchen Kriterien man „seinen“ neuen Arbeitsplatz [[auswählt]], ist dabei nicht immer so einfach zu beantworten
 
 *[[215-C1-Schreiben-Model#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] durch Sie und Ihr Team

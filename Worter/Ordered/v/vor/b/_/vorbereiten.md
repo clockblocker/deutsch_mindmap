@@ -1,8 +1,15 @@
---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
---> [[Ingredient-Pflege]] <--
+--> ⏯️ [[Ingredient-Verb-Beginn-Ende]] | [[Ingredient-Pflege]] <--
 🏃‍♂️[[vorbereiten]] | [[bereitete vor|bereitete vor]], haben [[vorbereitet]]
 
 ---
+---
+
+*[[212-LEGO#^3|^]]* Ohne sie wäre ich persönlich [[gezwungen]], mein [[Mittagessen]] [[täglich]] selbst zu Hause [[vorzubereiten]] – [[wofür]] mir leider die Zeit [[fehlt]]
+
+
+---
+
+
 
 Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]]
 

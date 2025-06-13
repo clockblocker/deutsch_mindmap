@@ -1,8 +1,14 @@
 🚚 🔵 der [[Lieferdienst]], [ˈliːfɐˌdiːnst](https://youglish.com/pronounce/Lieferdienst/german)
-die [[Lieferdienste]]
 
 ---
-![[006-C1-Schreiben-T2#^1|^]]
+----
+
+*[[212-LEGO#^5|^]]* Sollte die [[Entscheidung]] zur [[Schließung]] der [[Kantine]] nicht [[rückgängig]] gemacht werden können, schlage ich vor, ein [[Firmenangebot]] mit einem [[Lieferdienst]] zu [[arrangieren]]
+
+
+
+---
+
 
 ---
 = [[Zustelldienst]], [[Lieferservice]]

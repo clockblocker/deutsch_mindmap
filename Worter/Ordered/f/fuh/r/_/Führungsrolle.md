@@ -1,1 +1,1 @@
-, [[Führungsstil]]
+, [[Führungsstil]], [[Pionierrolle]]

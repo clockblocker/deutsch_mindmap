@@ -4,4 +4,4 @@ traffic, [[Verkehrstote]], [[Verkehrsmittel]]
 🔵 der [[Verkehr]] 🚦
 
 #Maskulin 
-, [[Nahverkehrsmittel]]
+, [[Nahverkehrsmittel]], [[Verkehrsproblem]]

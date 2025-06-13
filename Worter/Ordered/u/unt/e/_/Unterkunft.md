@@ -29,4 +29,4 @@ A: die [[Unterkunft]], die [[Unterkünfte]]
 G: der [[Unterkunft]], der [[Unterkünfte]]
 D: der [[Unterkunft]], den [[Unterkünften]]
 
-#Feminin 
+#Feminin , [[Hostel]]

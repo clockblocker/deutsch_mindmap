@@ -33,4 +33,4 @@ G: der [[Mittagspause]], der [[Mittagspausen]]
 D: der [[Mittagspause]], den [[Mittagspausen]]
 
 
-#Feminin 
+#Feminin , [[Mittagessen]]

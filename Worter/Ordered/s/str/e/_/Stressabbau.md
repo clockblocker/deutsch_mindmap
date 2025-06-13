@@ -29,4 +29,4 @@ G: des [[Stressabbaus]], -
 D: dem [[Stressabbau]], -
 
 
-#Maskulin , [[Kurs]]
+#Maskulin , [[Kurs]], [[regelmäßig]]

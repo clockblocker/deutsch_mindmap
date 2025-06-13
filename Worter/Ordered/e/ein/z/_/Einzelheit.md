@@ -6,26 +6,30 @@ die [[Einzelheiten]]
 ---
 
 ---
-= [[Detail]], [[Besonderheit]], 
+
+= [[Detail]], [[Besonderheit]],
 ≈ [[Aspekt]], [[Punkt]], [[Merkmal]], [[Faktor]]
 ≠ [[Ganzes]], [[Gesamtheit]], [[Überblick]],[[Gemeinschaft]]
 
 ---
+
 detail  
 деталь
 
 ---
+
 [[einzeln]], [[detailliert]], [[verfeinern]], [[Einzelheiten]]
 
 ---
+
 [[einzel]]|[[heit]]
 [[Einzelheit]]
 
-
 ---
+
 N: die [[Einzelheit]], die [[Einzelheiten]]
 A: die [[Einzelheit]], die [[Einzelheiten]]
 G: der [[Einzelheit]], der [[Einzelheiten]]
 D: der [[Einzelheit]], den [[Einzelheiten]]
 
-#Feminin 
+#Feminin

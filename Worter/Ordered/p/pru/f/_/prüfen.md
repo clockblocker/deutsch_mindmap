@@ -1,12 +1,20 @@
 🧐 [[prüfen]], [ˈpʁyːfn̩](https://youglish.com/pronounce/prüfen/german) → [[prüfte]] → haben [[geprüft]]
 
 ---
-*[[TD#^3|^]]* Nur [[geeignet]] für [[erfahrene]] Spieler, die ihre [[Spielweise]] auf Herz und [[Nieren]] [[prüfen]] und/oder die [[Spitze]] der [[Bestenliste]] [[erklimmen]] möchten
+---
 
-*[[216-C1-Schreiben-Model#^6|^]]* Um [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n regelmäßig zu [[warten]], die WLAN-Stabilität zu [[prüfen]] und die [[Restaurantöffnungszeit]]en aktuell auf Ihrer Website zu [[kommunizieren]]
+*[[216-LEGO#^8|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n [[regelmäßig]] zu [[warten]], die WLAN-[[Stabilität]] zu [[prüfen]] und die [[Restaurantöffnungszeit]]en [[aktuell]] `auf` Ihrer [[Website]] zu kommunizieren
+
+*[[211-LEGO#^2|^]]* Ich habe [[voll]]stes [[Verständnis]] `dafür`, dass die Firma `unter` [[Personalmangel]] jede [[Abwesenheit]] [[sorgfältig]] [[geprüft]] werden muss
 
 
-Ich habe vollstes Verständnis dafür, dass die Firma unter Personalmangel jede [[Abwesenheit]] [[sorgfältig]] [[geprüft]] werden muss.
+
+
+
+
+---
+
+
 
 
 ---

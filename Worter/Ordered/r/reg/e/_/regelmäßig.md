@@ -1,10 +1,15 @@
---> ⏱️ [[Temporal-Template]] <--
---> ⏱️ [[Temporal-Frequenz]] <--
-
-🔤 [[regelmäßig]], [ˈʁeːɡl̩ˌmɛsɪç]
-nicht [[unregelmäßig]]
+⏱️ [[Temporal-Template]] | [[Temporal-Frequenz]] 
+🔤 [[regelmäßig]], [ˈʁeːɡl̩ˌmɛsɪç] nicht [[unregelmäßig]]
 
 ---
+---
+
+*[[216-LEGO#^8|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n [[regelmäßig]] zu [[warten]], die WLAN-[[Stabilität]] zu [[prüfen]] und die [[Restaurantöffnungszeit]]en [[aktuell]] `auf` Ihrer [[Website]] zu kommunizieren
+
+
+
+---
+
 Seine Frau [[streitet]] sich [[deswegen]] [[regelmäßig]] mit ihm und ist langsam mit ihrer [[Geduld]] am Ende. Sie glaubt, dass Alfred [[bisher]] nur Glück gehabt hat und [[befürchtet]], dass er irgendwann sein ganzes Geld verlieren wird
 
 *[[bro-schrieben-c1-t1-001#^9|^]]* Das ist [[ziemlich]] [[regelmäßig]] im Boxsport zu [[beobachten]]

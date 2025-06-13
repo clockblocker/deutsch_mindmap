@@ -1,7 +1,12 @@
 🙋 [[anfragen]], [ˈanˌfʁaːɡn̩](https://youglish.com/pronounce/anfragen/german) → [[fragte an]] → [[angefragt]]
 
 ---
-*[[215-C1-Schreiben-Model#^5|^]]* Daher möchte ich höflich [[anfragen]], ob eine [[Entschädigung]] für die [[entstanden]]en [[Unannehmlichkeit]]en [[in Betracht gezogen]] werden könnte
+---
+
+*[[216-LEGO#^7|^]]* Daher möchte ich [[höflich]] [[anfragen]], `ob` eine [[Entschädigung]] für die [[entstanden]]en [[Unannehmlichkeit]]en `in` [[Betracht]] [[gezogen]] werden könnte
+
+
+
 
 ---
 = [[nachfragen]], [[sich erkundigen]], [[sich wenden an]]

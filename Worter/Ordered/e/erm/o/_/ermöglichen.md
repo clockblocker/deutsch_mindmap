@@ -1,12 +1,18 @@
---> ✅ [[Ingredient-erlauben-verbieten]] <--
---> [[🎯 Ingredient-Result-Verb]] <--
---> [[Management-Coordination-Allocation]] <--
-
+--> [[Management-Coordination-Allocation]] | [[🎯 Ingredient-Result-Verb]] <--
 🔓 [[ermöglichen]], [ɛɐ̯ˈmøːɡlɪçən] | [[ermöglichte]], haben [[ermöglicht]]
 
 ---
+---
 
-- Erläutern Sie, warum viele Unternehmen Homeoffice [[ermöglichen]].
+*[[212-LEGO#^4|^]]* [[Zusätzlich]] [[ermöglicht]] die Kantine allen Mitarbeitenden [[preiswert]]e warme [[Mahlzeit]]en und [[Erholungspause]]n, was `sich` positiv `auf` [[Arbeitsatmosphäre]] und Produktivität [[auswirkt]]. ^4
+
+
+
+
+---
+
+
+Erläutern Sie, warum viele Unternehmen Homeoffice [[ermöglichen]].
 
 _[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^2|^]]_ [[Einerseits]] [[ermöglichen]] digitale Tools flexible Arbeitsmodelle und eine [[Reduktion]] von [[Reisezeiten]] und [[Reisekosten]], [[wodurch]] nicht nur die Umwelt [[geschont]] wird, sondern auch die [[Vereinbarkeit]] von Beruf und Privatleben verbessert wird. ^2
 

@@ -1,9 +1,20 @@
 --> 📈 [[Grad-Vergleich]] <--
-
 🔶 [[ähnlich]], [ˈʔeːnlɪç] ≠ [[unterschiedlich]]
 
 ---
-*[[216-C1-Schreiben-Model#^6|^]]* Um [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n regelmäßig zu [[warten]], die WLAN-Stabilität zu [[prüfen]] und die [[Restaurantöffnungszeit]]en aktuell auf Ihrer Website zu [[kommunizieren]]
+---
+
+*[[216-LEGO#^8|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n [[regelmäßig]] zu [[warten]], die WLAN-[[Stabilität]] zu [[prüfen]] und die [[Restaurantöffnungszeit]]en [[aktuell]] `auf` Ihrer [[Website]] zu kommunizieren
+
+*[[215-LEGO#^6|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
+
+
+
+
+---
+
+
+
 
 Wir haben [[ähnliche]] Interessen
 

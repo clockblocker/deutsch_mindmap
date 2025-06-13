@@ -2,4 +2,4 @@
 --> ⏱️ [[Temporal-Template]] <--
 --> ⏱️ [[Temporal-Frequenz]] <--
 
-, [[unangepasst]], [[konform]]
+, [[unangepasst]], [[konform]], [[alternativ]]

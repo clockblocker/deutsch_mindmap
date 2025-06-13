@@ -1,1 +1,1 @@
-😱 [[befürchten]], [[bisher]], [[Befürchtung]]
+😱 [[befürchten]], [[bisher]], [[Befürchtung]], [[regelmäßig]]

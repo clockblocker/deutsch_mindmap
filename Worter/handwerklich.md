@@ -1,11 +1,11 @@
 🔨 [[handwerklich]], [ˈhantˌvɛʁklɪç](https://youglish.com/pronounce/handwerklich/german)
 
 ---
-*[[215-LEGO#^1|^]]* In einer [[zunehmend]] digitalisierten [[Arbeitswelt]] entscheiden `sich` viele Menschen [[bewusst]] `für` [[handwerklich]]e oder praktische Berufe, `da` diese `nach` [[wie]] `vor` [[stabil]]e [[Beschäftigungsmöglichkeit]]en bieten
+*[[115-LEGO#^1|^]]* In einer [[zunehmend]] digitalisierten [[Arbeitswelt]] entscheiden `sich` viele Menschen [[bewusst]] `für` [[handwerklich]]e oder praktische Berufe, `da` diese `nach` [[wie]] `vor` [[stabil]]e [[Beschäftigungsmöglichkeit]]en bieten
 
-*[[215-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz-Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
+*[[115-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz-Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
 
-*[[215-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en mit [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
+*[[115-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en mit [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
 
 
 

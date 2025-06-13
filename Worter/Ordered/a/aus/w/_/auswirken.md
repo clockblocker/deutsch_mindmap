@@ -1,6 +1,14 @@
 ✨ [[auswirken]], [ˈaʊ̯sˌvɪʁkn̩](https://youglish.com/pronounce/auswirken/german) | [[wirkte aus]], haben [[ausgewirkt]] | | [[Auswirkung]]
 
 ---
+---
+
+*[[212-LEGO#^4|^]]* [[Zusätzlich]] [[ermöglicht]] die Kantine allen Mitarbeitenden [[preiswert]]e warme [[Mahlzeit]]en und [[Erholungspause]]n, was `sich` positiv `auf` [[Arbeitsatmosphäre]] und Produktivität [[auswirkt]]
+
+
+
+---
+
 
 _[[C1-Hoehen-T2-101-Text#^19|^]]_ [[Konsumverhalten|Konsum]]- und [[Reiseverhalten]], was ja mit den [[Einkommensverhältnis]]sen in [[Verbindung]] steht, [[auswirken|wirkt]] sich [[schließlich]] direkt aufs Klima aus
 

@@ -9,7 +9,7 @@ die [[Vorbilder]]
 
 
 ---
-= [[Ideal]], [[Muster]], [[Leitbild]]
+= [[ideal]], [[Muster]], [[Leitbild]]
 ≈ [[Beispiel]], [[Inspiration]], [[Modell]], [[Vorbildfunktion]], [[Held]], [[Heiliger]],
 ≠ [[Gegenbeispiel]], [[Schreckbild]], [[Negativbeispiel]],  [[Mistkerl]]
 

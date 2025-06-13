@@ -1,6 +1,7 @@
 🤝 [[bedanken]] | [[bedankte]], haben [[bedankt]]
 
 ---
+*[[215-LEGO#^1|^]]* [[zunächst]] möchte ich `mich` `dafür` [[bedanken]], dass Sie unsere [[Gruppenreise]] so [[kompetent]] [[begleitet]] haben
 
 Simon [[bedankt]] sich und [[verlässt]] zufrieden das Büro seines Chefs. Jannis [[lächelt]]. Er hat wieder eine gute Entscheidung [[getroffen]].
 

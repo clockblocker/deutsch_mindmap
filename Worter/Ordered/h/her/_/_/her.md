@@ -5,17 +5,21 @@
 ---
 
 ---
+
 = [[hierher]], [[dorthin]]
 ≈ [[hin]], [[dort]], [[hier]]
 ≠ [[hinweg]], [[weg]]
 
 ---
+
 here, hither
 сюда
 
 ---
+
 [[her]]
 
 ---
+
 [[herkommen]], [[heraus]], [[herum]], [[herüber]], [[herunter]], [[herausfinden]], [[herstellen]], [[hergeben]]
 , [[Herkunft]], [[vorher]], [[hervorrufen]], [[hervorbringen]], [[heranziehen]], [[herausgeben]], [[Herstellung]]

@@ -59,9 +59,7 @@ _Die Selbsteinschätzungen der Testpersonen_ [[stimmten]] _nicht_ `mit` _der Wir
 - _Man kann der [[Politikverdrossenheit]] mit [[Aufklärung]]_ [[begegnen]]
 
 ---
-
 ---
-
 ---
 
 ##### Смысла нет

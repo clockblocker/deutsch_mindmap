@@ -68,7 +68,6 @@ Translate to English
 die [[Deutschländer]]
 
 ---
-
 ---
 
 = [[Bundesrepublik]], [[Vaterland]]

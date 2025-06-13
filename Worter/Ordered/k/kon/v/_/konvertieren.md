@@ -1,1 +1,1 @@
-, [[umwandeln]], [[um­schlagen]]
+, [[umwandeln]], [[um­schlagen]], [[digitalisieren]]

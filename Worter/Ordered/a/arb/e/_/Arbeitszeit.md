@@ -4,7 +4,7 @@ die [[Arbeitszeiten]]
 ---
 ---
 
-*[[215-LEGO#^3|^]]* [[Ebenso]] [[fließt ein|fließt]] [[zunehmend]] die Work-Life-Balance in die [[Entscheidung]] [[ein]], weil flexible Arbeitsmodelle und [[verlässlich]]e [[Arbeitszeit]]en [[Lebensqualität]] [[versprechen]]
+*[[115-LEGO#^3|^]]* [[Ebenso]] [[fließt ein|fließt]] [[zunehmend]] die Work-Life-Balance in die [[Entscheidung]] [[ein]], weil flexible Arbeitsmodelle und [[verlässlich]]e [[Arbeitszeit]]en [[Lebensqualität]] [[versprechen]]
 
 
 

@@ -4,7 +4,7 @@
 ---
 ---
 
-*[[215-LEGO#^6|^]]* [[Hinzukommen|Hinzu kommt]], dass viele Unternehmen `in` Zeiten des [[Fachkräftemangel]]s [[speziell]]e [[Schulung]]en und [[attraktiv]]e [[Gehaltsmodell]]e [[anbieten]], um [[Fachpersonal]] [[langfristig]] zu [[binden]]
+*[[115-LEGO#^6|^]]* [[Hinzukommen|Hinzu kommt]], dass viele Unternehmen `in` Zeiten des [[Fachkräftemangel]]s [[speziell]]e [[Schulung]]en und [[attraktiv]]e [[Gehaltsmodell]]e [[anbieten]], um [[Fachpersonal]] [[langfristig]] zu [[binden]]
 
 
 

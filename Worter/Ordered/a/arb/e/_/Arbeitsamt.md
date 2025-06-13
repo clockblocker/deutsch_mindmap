@@ -1,7 +1,5 @@
-🔵 das [[Arbeitsamt]], [ˈaʁbaɪ̯tscˌamt]
+das [[Arbeitsamt]], [ˈaʁbaɪ̯tscˌamt]
 die [[Arbeitsämter]]
-
----
 
 241. Frau Seger bekommt ein Kind. Was muss sie tun, um [[Elterngeld]] zu [[erhalten]]? (98%)
 
@@ -33,3 +31,6 @@ D: dem [[Arbeitsamt]], den [[Arbeitsämtern]]
 ---
 
 [[arbeitslos]], [[Arbeitslosigkeit]], [[Arbeitsvermittlung]], [[Arbeitssuchender]], [[Arbeitsbedingungen]]
+
+
+#Neuter 

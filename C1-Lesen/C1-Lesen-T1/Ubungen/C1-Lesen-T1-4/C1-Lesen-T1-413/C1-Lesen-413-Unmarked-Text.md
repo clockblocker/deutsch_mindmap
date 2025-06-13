@@ -1,9 +1,9 @@
-   [[Lesen-C1-Teils|Tiles]] | [[Lesen-C1-Models|Models]]
-   [[C1-Lesen-413-Text|Text]]  | [[C1-Lesen-413-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-413-Loesung|Loesung]]
+[[Lesen-C1-Teils|Tiles]] | [[Lesen-C1-Models|Models]]
+[[C1-Lesen-413-Text|Text]] | [[C1-Lesen-413-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-413-Loesung|Loesung]]
 
 ---
 
-←         [[C1-Lesen-423-Text|→]]
+← [[C1-Lesen-423-Text|→]]
 
 ---
 ---
@@ -22,7 +22,6 @@ Die Industrialisierung brachte neue Technologien. Aus Blech war es nun möglich,
 Die Spannweite der produzierten Spielsachen ist heute `8 ...` verschiedener Kunststoffe und preiswerter Produktion fast grenzenlos. Bauklötze aus allen möglichen Materialien, kuschelige Tierfiguren, Outdoorspielzeug, elektronisches Lernspielzeug, Modepuppen und Co. haben schon lange Einzug ins Kinderzimmer gehalten und versprechen den Kids grenzenlosen Spaß.
 
 ---
-
 ---
 
 0.  - [ ] a davon

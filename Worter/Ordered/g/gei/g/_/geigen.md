@@ -3,18 +3,22 @@
 ---
 
 ---
+
 = [[musizieren]], [[spielen]]
 ≈ [[aufspielen]], [[aufspielen]], [[darbieten]]
 ≠ [[schweigen]], [[pausieren]], [[aufhören]]
 
 ---
+
 to play (violin), to fiddle
 играть (на скрипке)
 
 ---
+
 [[geig]]|[[en]]
 
 ---
+
 ich: [[geige]], [[geigete]], –, [[geige]], [[geigte]]
 du: [[geigst]], [[geigetest]], [[geige]] | [[geig]] | [[geige]], [[geigest]], [[geigetest]]
 er/sie/es: [[geigt]], [[geigete]], –, [[geige]], [[geigte]]
@@ -24,7 +28,9 @@ ihr: [[geigt]], [[geigetet]], [[geigt]], [[geigt]], [[geigetet]]
 PI: [[geigend]], PII: [[gegeigt]], Zu+inf: [[zugeigen]]
 
 ---
+
 [[geigen]] - to play violin / Musikinstrument spielen
 
 ---
+
 [[Geige]], [[Geiger]], [[Geigerin]], [[Geigenspiel]], [[Geigenunterricht]], [[vergeigen]]

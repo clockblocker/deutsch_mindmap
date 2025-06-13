@@ -3,6 +3,17 @@
 ✅ [[absolvieren]], [ˌapzoˈviːʁən](https://youglish.com/pronounce/absolvieren/german) → [[absolvierte]] → haben [[absolviert]]
 
 ---
+---
+
+*[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine [[längere]] [[Freistellung]] möglich sein, schlage ich vor, mein Studium [[vollständig]] `im` Homeoffice [[absolvieren]] zu dürfen.
+
+*[[214-LEGO#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` `mich` `durch` seine [[Pionierrolle]] im Bereich KI-[[Anwendung]]en [[hervor]] – genau das [[Umfeld]], in dem ich mein [[Praxissemester]] [[ideal]] [[absolvieren]] kann
+
+
+---
+
+
+
 *[[C1-Lesen-T1-001-Text#^20|^]]* Cordula ist einer von [[insgesamt]] 15 Hunden, die im [[Rahmen]] einer [[Studie]] ein [[einwöchiges]] Spezialtraining [[absolviert]] haben
 
 *[[214-C1-Schreiben-T2#^1|^]]* Sie studieren [[derzeit]] [[Wirtschaftsinformatik]] `an` der Hochschule Ihrer Stadt und möchten Ihr [[obligatorisch]]es [[Praxissemester]] in einem innovativen Unternehmen [[absolvieren]]

@@ -1,7 +1,13 @@
 🗓️ 🔴 die [[Bildungsfreistellung]], [ˈbɪldʊŋsfʁaɪ̯ˌʃtɛlʊŋ](https://youglish.com/pronounce/Bildungsfreistellung/german)
-die [[Bildungsfreistellungen]]
 
 ---
+---
+
+*[[211-LEGO#^4|^]]* `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen]] zu können, [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]
+
+
+---
+
 [[Bildungsurlaub]] = gesetzlich garantiert, aber kurz
 [[Bildungsfreistellung]] = kann länger, aber hängt vom Arbeitgeber ab
 

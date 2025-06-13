@@ -1,1 +1,1 @@
-, [[Lebensjahr]], [[Saison]], [[Zeitalter]], [[Frist]], [[Zeitraum]], [[Kunstepoche]], [[Jahrzehnt]], [[Zyklus]], [[Zeitdauer]], [[Zwischenzeit]], [[Zeit]], [[Jahrtausend]], [[Lebensdauer]], [[Zeitfenster]], [[Leiharbeitsphase]]
+, [[Lebensjahr]], [[Saison]], [[Zeitalter]], [[Frist]], [[Zeitraum]], [[Kunstepoche]], [[Jahrzehnt]], [[Zyklus]], [[Zeitdauer]], [[Zwischenzeit]], [[Zeit]], [[Jahrtausend]], [[Lebensdauer]], [[Zeitfenster]], [[Leiharbeitsphase]], [[Semester]]

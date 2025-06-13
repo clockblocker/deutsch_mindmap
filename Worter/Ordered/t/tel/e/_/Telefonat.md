@@ -1,8 +1,12 @@
 📞 das [[Telefonat]], [teːlefoˈnaːt](https://youglish.com/pronounce/Telefonat/german)
-die [[Telefonate]]
+
+----
+---
+
+*[[214-LEGO#^6|^]]* Sollten Sie [[Interesse]] haben, schlage ich vor, dass wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]]
+
 
 ---
-*[[214-C1-Schreiben-Model#^5|^]]* *Sollten* Sie Interesse haben, *schlage ich vor, dass* wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]] 
 
 
 ---

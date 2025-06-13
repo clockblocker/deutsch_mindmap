@@ -1,8 +1,17 @@
-🗣️[[ansprechen]] + Akk, [ˈanʃpʁɛçn̩], 🗣️ [[Ansprache]]
-[[sprach an|sprach an]]  
-haben [[angesprochen]]
+🗣️ [[ansprechen]] + Akk, [ˈanʃpʁɛçn̩], 🗣️ [[Ansprache]]
 
 ---
+---
+
+*[[216-LEGO#^2|^]]* Besonders [[gefiel]] mir das [[ansprechend]]e [[Ambiente]] der [[Lobby]]
+
+
+
+
+---
+
+
+
 *[[216-C1-Schreiben-Model#^2|^]]* Besonders gefiel mir das [[ansprechen]]de [[Ambiente]] der [[Lobby]]
 
 *[[C1-Lesen-421-Text#^51|^]]* Darüber hinaus soll die Aufmerksamkeit auf die [[Randgebiet]]e Berlins [[gelenkt]] werden, die auch nicht wenig [[Ansprechende]]s zu [[bieten]] haben

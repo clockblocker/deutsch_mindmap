@@ -4,6 +4,7 @@
 ---
 
 ---
+
 = [[fortleiten]], [[transferieren]], [[schicken]]
 ≈ [[senden]], [[übermitteln]], [[weitergeben]], [[fortsetzen]]
 ≠ [[zurückhalten]], [[stoppen]], [[behalten]]
@@ -11,19 +12,23 @@
 , [[verschicken]], [[übertragen]], [[abgeben]], [[versenden]]
 
 ---
+
 to forward, to pass on  
 пересылать, направлять
 
 ---
+
 [[Weiterleitung]], [[Leitung]], [[leiten]], [[weiter]]
 
 ---
+
 [[weit]]|[[er]]|[[leit]]|[[en]]
 [[weiter]] + [[leiten]]
 
-
 ---
+
 ###### [[weiterleiten]] jN
+
 - Was [[leitest]] du [[weiter]]?
 - Die E-Mail.
 
@@ -34,6 +39,7 @@ to forward, to pass on
 - Weil er nicht zuständig war.
 
 ---
+
 ich, [[leite weiter]] / [[leite weiter]], [[leitete weiter]], [[leite weiter]], [[leitete weiter]], -
 du, [[leitest weiter]], [[leitetest weiter]], [[leitest weiter]], [[leitetest weiter]], [[leite weiter]] / [[leite weiter]]
 er, [[leitet weiter]], [[leitete weiter]], [[leite weiter]], [[leitete weiter]], -
@@ -41,8 +47,9 @@ wir, [[leiten weiter]], [[leiteten weiter]], [[leiten weiter]], [[leiteten weite
 ihr, [[leitet weiter]], [[leitetet weiter]], [[leitet weiter]], [[leitetet weiter]], [[leitet weiter]]
 sie, [[leiten weiter]], [[leiteten weiter]], [[leiten weiter]], [[leiteten weiter]], [[leiten weiter]]
 
-*Zu + Inf*: [[weiterzuleiten]], *P2*: [[weitergeleitet]]
+_Zu + Inf_: [[weiterzuleiten]], _P2_: [[weitergeleitet]]
 Adjektive: [[weiterleitend]], [[weiterleitender]], [[weiterleitendst]]
 
 ---
+
 [[weiterleitender]], [[weiterleitendes]], [[weiterleitende]], [[weiterleitenden]], [[weiterleitendem]], [[weiterleitenderer]], [[weiterleitenderes]], [[weiterleitendere]], [[weiterleitenderen]], [[weiterleitenderem]], [[weiterleitendster]], [[weiterleitendstes]], [[weiterleitendste]], [[weiterleitendsten]], [[weiterleitendstem]]

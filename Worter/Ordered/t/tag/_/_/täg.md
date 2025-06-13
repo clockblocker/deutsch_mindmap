@@ -1,1 +1,1 @@
-[[täglich]]
+[[täglich]], [[dreitägig]]

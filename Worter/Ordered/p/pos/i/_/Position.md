@@ -6,22 +6,26 @@ die [[Positionen]]
 ---
 
 ---
+
 = [[Stellung]], [[Lage]], [[Standort]]
 ≈ [[Ort]], [[Platz]], [[Haltung]]
 
 ---
+
 position  
 позиция
 
 ---
+
 [[positionieren]], [[Positionsbestimmung]]
 
 ---
-[[Position]]
-[[Position]]
 
+[[Position]]
+[[Position]]
 
 ---
+
 N: die [[Position]], die [[Positionen]]
 A: die [[Position]], die [[Positionen]]
 G: der [[Position]], der [[Positionen]]

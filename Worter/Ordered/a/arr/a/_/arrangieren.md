@@ -1,36 +1,69 @@
 --> [[Management-Coordination-Allocation]] <--
-🎼 [[arrangieren]] + Akk, [aʁaŋˈʒiːʁən]
-[[arrangierte]]
-haben [[arrangiert]]
+🤝 [[arrangieren]], [aʁãˈʒiːʁən](https://youglish.com/pronounce/arrangieren/german) → [[arrangierte]] → haben [[arrangiert]]
+
+---
+---
+
+*[[212-LEGO#^5|^]]* Sollte die [[Entscheidung]] zur [[Schließung]] der [[Kantine]] nicht [[rückgängig]] gemacht werden können, schlage ich vor, ein [[Firmenangebot]] mit einem [[Lieferdienst]] zu [[arrangieren]]
+
+
 
 ---
 
-- bürstet ihre Haare und [[arrangiert]] die Kissen
-- ***
 
-  Synonyme: [[ordnen]], [[strukturieren]], [[komponieren]], [[einrichten]], [[gestalten]]
-  Antonyme: [[auflösen]], [[zerstören]], [[demontieren]], [[zerstreuen]], [[vereinfachen]]
 
-  ***
 
-  Übersetzung: to arrange, to organize
 
-  ***
+---
+= [[vereinbaren]], [[ordnen]], [[organisieren]],  [[zusammenstellen]], [[vereinbaren]], [[vorbereiten]], [[einpacken]], [[inszenieren]]
+≈ [[planen]], [[vorbereiten]], [[vereinbaren]]
+≠ [[verwirren]], [[durcheinanderbringen]]
 
-  Morpheme: [[arrangier]], [[en]]
-  #Verb #Trennbar
+---
+to arrange, to organize  
+организовать
 
-  ***
+---
+[[Arrangement]], [[Arrangement]], [[Arrangierer]]
 
-| Person    | Präsens         | Präteritum        | Imperativ           | Konjunktiv I    | Konjunktiv II     |
-| --------- | --------------- | ----------------- | ------------------- | --------------- | ----------------- |
-| Ich       | [[arrangiere]]  | [[arrangierte]]   | -                   | [[arrangiere]]  | [[arrangierte]]   |
-| Du        | [[arrangierst]] | [[arrangiertest]] | [[arrangiere]]      | [[arrangieres]] | [[arrangiertest]] |
-| Er/sie/es | [[arrangiert]]  | [[arrangierte]]   | -                   | [[arrangiere]]  | [[arrangierte]]   |
-| Wir       | [[arrangieren]] | [[arrangierten]]  | -                   | [[arrangieren]] | [[arrangierten]]  |
-| Ihr       | [[arrangiert]]  | [[arrangieret]]   | [[arrangiert]]      | [[arrangieret]] | [[arrangieret]]   |
-| Sie       | [[arrangieren]] | [[arrangierten]]  | [[arrangieren Sie]] | [[arrangieren]] | [[arrangierten]]  |
+---
+[[arrangier]]|[[en]]
+[[arrangieren]]
 
-Partizip I: [[arrangierend]], Partizip II: [[arrangiert]]
 
-, [[zusammenstellen]], [[vereinbaren]], [[vorbereiten]], [[einpacken]], [[inszenieren]]
+---
+###### [[arrangieren]] jN
+- Was [[arrangierst]] du?
+- Ein Treffen.
+
+- Warum [[arrangieren]] wir das?
+- Um die Details zu besprechen.
+
+- Wie lange [[hast]] du das [[arrangiert]]?
+- Seit gestern.
+
+---
+###### [[arrangieren]] jN `mit` jM
+- `Womit` [[arrangierst]] du das?
+- `Mit` dem Caterer.
+
+- `Mit` wem [[hat]] sie das [[arrangiert]]?
+- `Mit` ihrem Kollegen.
+
+- Warum [[hat]] er das `damit` [[arrangiert]]?
+- Um die Präsentation vorzubereiten.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[arrangier]] / [[arrangiere]], [[arrangierte]], [[arrangiere]], [[arrangierte]], -
+du, [[arrangierst]], [[arrangiertest]], [[arrangierst]], [[arrangiertest]], [[arrangier]] / [[arrangiere]]
+er, [[arrangiert]], [[arrangierte]], [[arrangiere]], [[arrangierte]], -
+wir, [[arrangieren]], [[arrangierten]], [[arrangieren]], [[arrangierten]], [[arrangieren]]
+ihr, [[arrangiert]], [[arrangiertet]], [[arrangiert]], [[arrangiertet]], [[arrangiert]]
+sie, [[arrangieren]], [[arrangierten]], [[arrangieren]], [[arrangierten]], [[arrangieren]]
+
+*Zu + Inf*: zu [[arrangieren]], *P2*: [[arrangiert]]
+Adjektive: [[arrangierend]], [[arrangierender]], [[arrangierendst]]
+
+---
+[[arrangierender]], [[arrangierendes]], [[arrangierende]], [[arrangierenden]], [[arrangierendem]], [[arrangierenderer]], [[arrangierenderes]], [[arrangierendere]], [[arrangierenderen]], [[arrangierenderem]], [[arrangierendster]], [[arrangierendstes]], [[arrangierendste]], [[arrangierendsten]], [[arrangierendstem]]

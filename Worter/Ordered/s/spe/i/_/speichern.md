@@ -46,4 +46,4 @@ sie, [[speichern]], [[speicherten]], [[speichern]], [[speicherten]], [[speichern
 Adjektive: [[speichernd]], [[speichernder]], [[speicherndst]]
 
 ---
-[[speichernder]], [[speicherndes]], [[speichernde]], [[speichernden]], [[speicherndem]], [[speichernderer]], [[speichernderes]], [[speicherndere]], [[speichernderen]], [[speichernderem]], [[speicherndster]], [[speicherndstes]], [[speicherndste]], [[speicherndsten]], [[speicherndstem]]
+[[speichernder]], [[speicherndes]], [[speichernde]], [[speichernden]], [[speicherndem]], [[speichernderer]], [[speichernderes]], [[speicherndere]], [[speichernderen]], [[speichernderem]], [[speicherndster]], [[speicherndstes]], [[speicherndste]], [[speicherndsten]], [[speicherndstem]], [[digitalisieren]]

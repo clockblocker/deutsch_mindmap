@@ -2,10 +2,12 @@
 --> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
 
 ---
+
 🛠️ [[nutzen]] + Akk, [ˈnʊtsən]
 
 ---
-*[[111-C1-Schreiben-Model#^4|^]]* Auf der einen Seite ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – fast jeder Wunsch der Nutzer:innen kann [[erfüllt]] werden
+
+_[[111-C1-Schreiben-Model#^4|^]]_ Auf der einen Seite ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – fast jeder Wunsch der Nutzer:innen kann [[erfüllt]] werden
 
 ---
 

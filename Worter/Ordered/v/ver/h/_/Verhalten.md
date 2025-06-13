@@ -2,10 +2,10 @@
 🧘 [[verhalten]] sich wie, [fɛɐ̯ˈhaltən] | [[verhielt]], haben [[verhalten]]
 
 ---
-*[[C1-Lesen-432-Text#^32|^]]* `21 f` So ein [[Verhalten]] führt noch nicht direkt zur [[Kündigung]], sondern zunächst nur zu einer [[Abmahnung]]
 
-*[[C1-Hoehen-T3-402-Text#^8|^]]* Allerdings gibt es 21 nicht bindende [[Richtlinie]]n für das [[Verhalten]] im All, [[erarbeitet]] von einem Komitee der [[Vereinten]] Nationen für die friedliche [[Nutzung]] des [[Weltraums]]. ^8
+_[[C1-Lesen-432-Text#^32|^]]_ `21 f` So ein [[Verhalten]] führt noch nicht direkt zur [[Kündigung]], sondern zunächst nur zu einer [[Abmahnung]]
 
+_[[C1-Hoehen-T3-402-Text#^8|^]]_ Allerdings gibt es 21 nicht bindende [[Richtlinie]]n für das [[Verhalten]] im All, [[erarbeitet]] von einem Komitee der [[Vereinten]] Nationen für die friedliche [[Nutzung]] des [[Weltraums]]. ^8
 
 Du [[verhältst]] dich wie ein Kind.
 

@@ -24,4 +24,4 @@ inexperienced, untrained
 Adjektive: [[ungeübt]], [[ungeübter]], [[ungeübtest]]
 
 ---
-[[ungeübter]], [[ungeübtes]], [[ungeübte]], [[ungeübten]], [[ungeübtem]], [[ungeübterer]], [[ungeübteres]], [[ungeübtere]], [[ungeübteren]], [[ungeübterem]], [[ungeübtester]], [[ungeübtestes]], [[ungeübteste]], [[ungeübtesten]], [[ungeübtestem]], [[handwerklich]]
+[[ungeübter]], [[ungeübtes]], [[ungeübte]], [[ungeübten]], [[ungeübtem]], [[ungeübterer]], [[ungeübteres]], [[ungeübtere]], [[ungeübteren]], [[ungeübterem]], [[ungeübtester]], [[ungeübtestes]], [[ungeübteste]], [[ungeübtesten]], [[ungeübtestem]], [[handwerklich]], [[technisch]]

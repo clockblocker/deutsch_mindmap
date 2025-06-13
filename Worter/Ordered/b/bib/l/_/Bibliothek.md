@@ -1,7 +1,14 @@
 🔴 📚 die [[Bibliothek]], [bɪblɪoˈteːk]
-die [[Bibliotheken]]
 
 ---
+---
+
+*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] [[Powerbank]]s `in` der [[Bibliothek]] verboten sind, [[erschwert]] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], [[erheblich]] 
+
+
+
+---
+
 9. Wir kaufen Blumen [[entweder]] im Geschäft [[gegenüber]] der [[Bibliothek]] oder in einem anderen Blumengeschäft gegenüber dem Kino.
 
 
@@ -24,3 +31,5 @@ D: der [[Bibliothek]], den [[Bibliotheken]]
 
 ---
 [[bibliothekarisch]], [[Bibliothekar]], [[Bibliothekarin]], [[bibliophil]], [[Ausleihsystem]], [[Turnhalle]], [[Universitätsbibliothek]]
+
+#Feminin 

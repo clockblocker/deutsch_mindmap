@@ -1,7 +1,16 @@
 🤏 [[hervorheben]] | [[hob hervor|hob hervor]], haben [[hervorgehoben]]
 
 ---
-*[[214-C1-Schreiben-Model#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` mich `durch` seine Pionierrolle im Bereich KI-[[Anwendung]]en hervor – genau das [[Umfeld]], in dem ich mein Praxissemester ideal [[absolvieren]] kann ^2
+---
+
+*[[214-LEGO#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` `mich` `durch` seine [[Pionierrolle]] im Bereich KI-[[Anwendung]]en [[hervor]] – genau das [[Umfeld]], in dem ich mein [[Praxissemester]] [[ideal]] [[absolvieren]] kann. ^2
+
+
+
+
+-----
+
+
 
 
 *[[C1-Hoehen-T2-401-Text#^2|^]]* Herr Gröner [[hervorhebt|hebt]] die [[Notwendigkeit]] des [[Handeln]]s in Fällen öffentlicher [[Gewalt]] hervor

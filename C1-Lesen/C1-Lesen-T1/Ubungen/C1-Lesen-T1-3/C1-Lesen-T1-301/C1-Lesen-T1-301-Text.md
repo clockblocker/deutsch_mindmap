@@ -22,7 +22,6 @@ _[[C1-Lesen-T1-301-Text#^3|^]]_ Eine Studie des Instituts für Arbeitsmarkt- und
 _[[C1-Lesen-T1-301-Text#^4|^]]_ Es bleibt also abzuwarten, wie stark sich diese neue Form der Arbeit durchsetzt. ^4
 
 ---
-
 ---
 
 ###### 1

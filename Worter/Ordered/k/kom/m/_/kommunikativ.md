@@ -1,1 +1,1 @@
-, [[stumm]], [[Kommunikationsstärke]], [[vernetzt]], [[Kommunikation]], [[zwischenmenschlich]]
+, [[stumm]], [[Kommunikationsstärke]], [[vernetzt]], [[Kommunikation]], [[zwischenmenschlich]], [[kommunizieren]]

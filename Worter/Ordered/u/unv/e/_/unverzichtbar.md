@@ -4,8 +4,9 @@
 ---
 ---
 
-*[[215-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz]]-[[Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
+*[[115-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz]]-[[Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
 
+*[[212-LEGO#^2|^]]* [[Allerdings]] finde ich die [[Kantine]], `an` deren [[Stelle]] [[künftig]] Funktionsräume [[geplant]] sind, [[unverzichtbar]], da unser Büro sich in einem [[Industriegebiet]] [[befindet]], in dem es weder Restaurants noch Supermärkte gibt
 
 
 

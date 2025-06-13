@@ -18,9 +18,7 @@ Vorbeugend lässt sich eine gesunde Unternehmenskultur schaffen, wenn flexible M
 ![[ElevenLabs_2025-04-14T01_09_52_Rachel_pre_sp100_s50_sb75_se0_b_m2.mp3]]
 
 ---
-
 ---
-
 ---
 
 _[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]_ Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
@@ -44,9 +42,7 @@ _[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^9|^]]_ [[Vorbeug
 _[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]_ [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[eingehen]] | _[[kümmern]]_, um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
 
 ---
-
 ---
-
 ---
 
 ![[ElevenLabs_2025-04-14T01_09_52_Rachel_pre_sp100_s50_sb75_se0_b_m2 1.mp3]]

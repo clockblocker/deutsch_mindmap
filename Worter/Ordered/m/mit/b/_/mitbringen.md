@@ -1,8 +1,15 @@
 ✋ [[mitbringen]]
-[[brachte mit]]
-haben [[mitgebracht]]
 
 ---
+---
+
+*[[211-LEGO#^5|^]]* `Am` Ende des [[Programm]]s könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], `sondern` `auch` ein [[wertvoll]]es [[Alumni]]-Netzwerk [[mitbringen]] – [[wodurch]] das Unternehmen neue Kunden und Partner [[gewinnen]] könnte
+
+
+---
+
+
+
 
 _Ich hab' euch etwas [[mit]], [[gebracht]]_
 

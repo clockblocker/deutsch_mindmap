@@ -3,24 +3,29 @@
 ---
 
 ---
+
 = [[nicht genügen]], [[nicht ausreichen]]
 ≈ [[fehlen]], [[mangeln]], [[versagen]]
 ≠ [[genügen]], [[ausreichen]], [[befriedigen]]
 
 ---
+
 to be insufficient, to be inadequate  
 быть недостаточным, быть неадекватным
 
 ---
+
 [[Genüge]], [[genügend]], [[Genügsamkeit]], [[Unzulänglichkeit]]
 
 ---
+
 [[un]]|[[genüg]]|[[en]]
 [[un]] + [[genügen]]
 
-
 ---
+
 ###### [[ungenügen]] jD
+
 - Wem [[genügt]] das?
 - Dem Kind.
 
@@ -31,6 +36,7 @@ to be insufficient, to be inadequate
 - Für eine Weile.
 
 ---
+
 Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
 ich, [[genüge]], [[genügte]], [[genüge]], [[genügte]], -
 du, [[genügst]], [[genügtest]], [[genügest]], [[genügtest]], [[genüge]]
@@ -39,8 +45,9 @@ wir, [[genügen]], [[genügten]], [[genügen]], [[genügten]], [[genügen]]
 ihr, [[genügt]], [[genügtet]], [[genüget]], [[genügtet]], [[genügt]]
 sie, [[genügen]], [[genügten]], [[genügen]], [[genügten]], [[genügen]]
 
-*Zu + Inf*: zu [[genügen]], *P2*: [[genügt]]
+_Zu + Inf_: zu [[genügen]], _P2_: [[genügt]]
 Adjektive: [[genügend]], [[genügender]], [[genügendst]]
 
 ---
+
 [[genügender]], [[genügendes]], [[genügende]], [[genügenden]], [[genügendem]], [[genügenderer]], [[genügenderes]], [[genügendere]], [[genügenderen]], [[genügenderem]], [[genügendster]], [[genügendstes]], [[genügendste]], [[genügendsten]], [[genügendstem]]

@@ -1,9 +1,9 @@
-   [[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
-   [[C1-Lesen-443-Text|Text]]  | [[C1-Lesen-443-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-443-Loesung|Loesung]]
+[[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+[[C1-Lesen-443-Text|Text]] | [[C1-Lesen-443-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-443-Loesung|Loesung]]
 
 ---
 
-[[C1-Lesen-433-Text|←]]         →
+[[C1-Lesen-433-Text|←]] →
 
 ---
 ---
@@ -20,7 +20,6 @@ _c Sven Lüttich, Philosoph_
 Es gibt so viele Pilgerstätten und Pilgerwege, dass man ein Leben lang unterwegs sein könnte. Ich kenne Leute, die weniger aus religiösen Gründen, als vielmehr aus kulturellem Interesse zu solchen Orten pilgern. Ob man das eigentlich noch Pilgern nennen kann, da bin ich mir nicht sicher. Auf jeden Fall sind diese Menschen auf der Suche nach sich selbst, wobei es nicht auszuschließen ist, dass die spirituelle Dimension auch eine Rolle spielt. Außer den für das Christentum populärsten Pilgerzielen Rom, Jerusalem und Santiago de Compostela machen sich viele, das Abenteuer suchend, auf den Weg zu Kultstätten wie Machu Picchu und dem heiligen Berg in Tibet. Ist das noch eine Pilgerreise oder Tourismus? Die Unterscheidung fällt hier schwer. Aber es muss nicht immer etwas Großartiges am anderen Ende der Welt sein. Auch innerhalb Deutschlands werden Klöster und Pilgerwege wiederentdeckt. Auf der Wanderstrecke entflieht man für eine Weile den Zwängen des Alltags und den digitalen Verpflichtungen.
 
 ---
-
 ---
 
 0 Pilgerreisen waren ursprünglich religiös motiviert.

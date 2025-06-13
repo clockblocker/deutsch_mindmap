@@ -1,8 +1,16 @@
 --> 🧮 [[Grad-Quantität]] <--
 📉 🔵 der [[Mangel]], [ˈmaŋəl](https://youglish.com/pronounce/Mangel/german)
-die [[Mängel]]
 
 ---
+---
+
+*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` Steckdosen, [[zumal]] Powerbanks `in` der Bibliothek verboten sind, [erschwert] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den Einsatz `von` Laptops [[erfordert]], [[erheblich]]
+
+*[[216-LEGO#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von [[mehr]]eren [[Mängeln]] [[beeinträchtigt]]:
+
+
+---
+
 Andererseits ist der [[Bewegungsmangel]] im Home-Office ein großes Problem.
 
 *[[216-C1-Schreiben-Model#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von mehreren [[Mängeln]] [[beeinträchtigt]]: Die [[Klimaanlage]] im Zimmer funktionierte nur [[sporadisch]], wodurch es [[nachts]] sehr heiß war. Das WLAN war [[unzuverlässig]] und [[abbrachen|brach]] [[mehrfach]] ab

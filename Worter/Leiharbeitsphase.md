@@ -26,3 +26,6 @@ N: die [[Leiharbeitsphase]], die [[Leiharbeitsphasen]]
 A: die [[Leiharbeitsphase]], die [[Leiharbeitsphasen]]
 G: der [[Leiharbeitsphase]], der [[Leiharbeitsphasen]]
 D: der [[Leiharbeitsphase]], den [[Leiharbeitsphasen]]
+
+
+#Feminin 

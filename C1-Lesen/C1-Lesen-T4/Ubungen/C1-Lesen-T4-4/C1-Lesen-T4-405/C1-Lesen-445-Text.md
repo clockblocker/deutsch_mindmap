@@ -1,9 +1,9 @@
-   [[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
-   [[C1-Lesen-445-Text|Text]]  | [[C1-Lesen-445-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-445-Loesung|Loesung]]
+[[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+[[C1-Lesen-445-Text|Text]] | [[C1-Lesen-445-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-445-Loesung|Loesung]]
 
 ---
 
-[[C1-Lesen-435-Text|←]]         →
+[[C1-Lesen-435-Text|←]] →
 
 ---
 ---
@@ -20,7 +20,6 @@ _c Anneliese Funke, Umweltforscherin_
 Es heißt, wir müssen vorsichtiger umgehen mit unseren Wasserreserven. Wir passen unser persönliches Verhalten den neuen Bedingungen gezwungenermaßen auch an. Vermeidbar wären das Bewässern des Rasens, das Füllen von Swimmingpools mit Trinkwasser und das Autowaschen. Und 15 Liter Trinkwasser jedes Mal die Toilette runterzuspülen ist bei den düsteren Prognosen mehr als unvernünftig. Erfreulicherweise gibt es Pilotprojekte, wo für die Toilettenspülung gereinigtes Duschwasser wiederverwendet wird. Doch es sind nicht vorwiegend die Privathaushalte, die das meiste Wasser verbrauchen. Fast die Hälfte des Wasserhaushalts verbrauchen Energieversorger für das Kühlen von Kraftwerken. Dann sind da noch die gängigen landwirtschaftlichen Produktionsmethoden. Neben den beträchtlichen Wassermengen, die für die Bewässerung von Agrarflächen erforderlich sind, belastet die Landwirtschaft darüber hinaus auch noch das Grundwasser durch Pestizide und chemische Düngemittel. Was wir dringend brauchen, ist ein weitsichtiges und vorbeugendes Wassermanagement für die Zukunft.
 
 ---
-
 ---
 
 0 Wir schenken den Gefahrenmeldungen über Wasserknappheit nicht genügend Beachtung.

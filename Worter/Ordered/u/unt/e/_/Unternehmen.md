@@ -97,4 +97,4 @@ Adjektive: [[unternehmend]], [[unternehmender]], [[unternehmendst]]
 ---
 
 [[unternehmender]], [[unternehmendes]], [[unternehmende]], [[unternehmenden]], [[unternehmendem]], [[unternehmenderer]], [[unternehmenderes]], [[unternehmendere]], [[unternehmenderen]], [[unternehmenderem]], [[unternehmendster]], [[unternehmendstes]], [[unternehmendste]], [[unternehmendsten]], [[unternehmendstem]], [[Geschäft]], [[Großkonzern]], [[Privatperson]]
-, [[Automobilhersteller]], [[Leiharbeitsfirma]], [[Raumfahrtunternehmen]]
+, [[Automobilhersteller]], [[Leiharbeitsfirma]], [[Raumfahrtunternehmen]], [[Unternehmenswebsite]], [[Transportunternehmen]]

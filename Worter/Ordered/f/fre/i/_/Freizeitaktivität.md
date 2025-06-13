@@ -32,3 +32,7 @@ D: der [[Freizeitaktivität]], den [[Freizeitaktivitäten]]
 
 [[Freizeit]], [[aktiv]], [[Aktivität]], [[Freizeitgestaltung]], [[Freizeitpark]], [[Freizeitkleidung]], [[Freizeitverhalten]], [[Freizeitbeschäftigung]], [[Freizeitgestaltung]]
 , [[Betriebssport]], [[Arbeitsform]]
+
+
+
+#Feminin 

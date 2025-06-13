@@ -33,3 +33,4 @@ G: des [[Betriebssports]], -
 D: dem [[Betriebssport]], -
 
 #Maskulin
+, [[regelmäßig]]

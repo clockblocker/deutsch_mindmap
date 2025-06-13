@@ -49,4 +49,4 @@ D: der [[Unterstützung]], den [[Unterstützungen]]
 [[unterstützen]], [[unterstützend]], [[Unterstützer]], [[Unterstützerin]], [[Unterstützung­sanspruch]], [[beistehen]], [[Versorgung]], [[unter]], [[Gegenwind]]
 , [[Spende]], [[Mittelzuweisung]], [[Beitrag]], [[Wohltätigkeit]], [[Patenschaft]], [[Pflege]], [[mithilfe]], [[Hindernis]], [[Unterstützungsangebot]], [[Notbetreuung]], [[Fördermittel]]
 
-#Feminin , [[mieterunterstützend]], [[Grundeinkommen]], [[Basiseinkommen]], [[Sozialleistung]], [[Arbeitslosengeld]], [[Beratung]], [[Überbrückung]], [[Sozialdienst]], [[Freiwilligendienst]], [[Consulting]]
+#Feminin , [[mieterunterstützend]], [[Grundeinkommen]], [[Basiseinkommen]], [[Sozialleistung]], [[Arbeitslosengeld]], [[Beratung]], [[Überbrückung]], [[Sozialdienst]], [[Freiwilligendienst]], [[Consulting]], [[Service]], [[Betreuung]]

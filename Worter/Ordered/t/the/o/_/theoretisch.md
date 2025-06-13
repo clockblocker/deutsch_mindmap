@@ -1,1 +1,1 @@
-, [[geisteswissenschaftlich]], [[inhaltlich]], [[virtuell]], [[Theorie]], [[abstrakt]], [[handwerklich]]
+, [[geisteswissenschaftlich]], [[inhaltlich]], [[virtuell]], [[Theorie]], [[abstrakt]], [[handwerklich]], [[ideal]]

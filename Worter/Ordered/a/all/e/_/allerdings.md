@@ -1,6 +1,15 @@
 [[allerdings]], [ˈalɐdɪŋs]
 
 ---
+---
+
+*[[212-LEGO#^2|^]]* [[Allerdings]] finde ich die [[Kantine]], `an` deren [[Stelle]] [[künftig]] Funktionsräume geplant sind, [[unverzichtbar]], da unser Büro sich in einem [[Industriegebiet]] [[befindet]], in dem es weder Restaurants noch Supermärkte gibt. ^2
+
+
+
+---
+
+
 
 _[[101-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
 

@@ -1,1 +1,1 @@
-, [[eröffnen]], [[Einführung]], [[Eröffnungsfeier]], [[Unternehmenseröffnung]], [[Anstoß]]
+, [[eröffnen]], [[Einführung]], [[Eröffnungsfeier]], [[Unternehmenseröffnung]], [[Anstoß]], [[Schließung]]

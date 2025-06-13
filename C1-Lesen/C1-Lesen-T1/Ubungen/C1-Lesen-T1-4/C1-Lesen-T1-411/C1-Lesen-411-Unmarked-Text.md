@@ -1,9 +1,9 @@
-   [[Lesen-C1-Teils|Tiles]] | [[Lesen-C1-Models|Models]]
-   [[C1-Lesen-411-Text|Text]]  | [[C1-Lesen-411-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-411-Loesung|Loesung]]
+[[Lesen-C1-Teils|Tiles]] | [[Lesen-C1-Models|Models]]
+[[C1-Lesen-411-Text|Text]] | [[C1-Lesen-411-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-411-Loesung|Loesung]]
 
 ---
 
-←         [[C1-Lesen-421-Text|→]]
+← [[C1-Lesen-421-Text|→]]
 
 ---
 ---
@@ -20,7 +20,6 @@ Dass Schlafverhalten die Leistungsfähigkeit beeinflusst, `4 ...` belegen zahlre
 Eine Studie wies nach, dass Schulkinder, die gut geschlafen hatten, am nächsten Tag die Aufgaben in der Schule besser bewältigen und zu höherer Leistung `7 ...` waren. Eine unruhige Nacht dagegen mit schlechtem Schlaf ließ die Denkleistung am nächsten Tag merklich sinken. Wenn das Gehirn nachts nicht genug Ruhe bekommt, versucht es, am Tag `8 ...` zu kommen. Das schädigt das Gehirn dauerhaft. Die Studie kommt zu dem Ergebnis, dass regelmäßige Schlafenszeiten ausgesprochen wichtig sind. Der Schlaf sollte erholsam sein und die Schlafdauer möglichst konstant bleiben.
 
 ---
-
 ---
 
 0.  - [ ] a jedenfalls

@@ -32,7 +32,6 @@ _Auf der einen Seite vertreten viele `jD` den Standpunkt,_
 _Auf der anderen Seite sind viele_ `jD` _der festen Überzeugung, dass_ _(+das Wichtigste dabei ist,)_ `Nebensatz`
 
 ---
-
 ---
 
 ##### Meiner Ansicht
@@ -42,7 +41,6 @@ _Meiner Ansicht nach sind beide Kriterien entscheidend bei der Wahl, aber auch_ 
 _ich beabsichtigen würde, so viele wie möglich davon zu_ ... _wenn ich darüber entscheiden könnte_
 
 ---
-
 ---
 
 ##### Schwanz
@@ -52,9 +50,7 @@ _Abschließend lässt sich sagen, dass außer den_ ... _auch die Aspekte_ ... _b
 _Letztlich stellt sich daher (für viele_ `jN`_)_ _die Frage_ _(nach `jN` gar nicht, wenn)_
 
 ---
-
 ---
-
 ---
 
 ##### Phrasen
@@ -91,9 +87,7 @@ _Außerdem:_
 _Und nicht zuletzt:_
 
 ---
-
 ---
-
 ---
 
 - _Selbstverständlich sind solche [[Äußerung]], [[en]] sowohl in der realen als auch in der virtuellen Welt strafbar_
@@ -192,9 +186,7 @@ Persönlichkeitsentwicklung
 _Wenn diese_ [[Voraussetzungen]] \_erfüllt werden,
 
 ---
-
 ---
-
 ---
 
 ###### Seiten

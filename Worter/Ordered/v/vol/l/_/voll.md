@@ -1,8 +1,18 @@
 --> 🧩 [[Grad-Ganzheit]] <--
-💚 [[voll]], [fɔl]
-nicht ist das Gegenteil von [[leer]]
+💚 [[voll]], [fɔl] nicht ist das Gegenteil von [[leer]]
 
 ---
+---
+
+*[[211-LEGO#^2|^]]* Ich habe [[voll]]stes [[Verständnis]] `dafür`, dass die Firma `unter` [[Personalmangel]] jede [[Abwesenheit]] [[sorgfältig]] [[geprüft]] werden muss
+
+
+
+
+---
+
+
+
 Es reicht, ich hab die Nase [[voll]]!
 
 *[[C1-Hoehen-T1-101-Text#^2|^]]* In ihrem Debüt als Autorin [[eruiert]] die Heilpraktikerin die Wirkungsweise und Wirksamkeit der Elektroakupunktur `nach` Voll, kurz EAV, einer Diagnoseform, die auf die Traditionelle Chinesische Medizin [[zurückgeht]]

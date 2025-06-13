@@ -30,4 +30,4 @@ G: der [[Beendigung]], der [[Beendigungen]]
 D: der [[Beendigung]], den [[Beendigungen]]
 
 
-#Feminin 
+#Feminin , [[Schließung]]

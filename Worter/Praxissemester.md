@@ -1,8 +1,14 @@
 🎓 🟢 das [[Praxissemester]], [ˈpʁaːksɪsˌzɛmɛstɐ](https://youglish.com/pronounce/Praxissemester/german)
-die [[Praxissemester]]
 
 ---
-*[[214-C1-Schreiben-T2#^1|^]]* Sie studieren [[derzeit]] [[Wirtschaftsinformatik]] `an` der Hochschule Ihrer Stadt und möchten Ihr [[obligatorisch]]es [[Praxissemester]] in einem innovativen Unternehmen [[absolvieren]]
+----
+
+*[[214-LEGO#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` `mich` `durch` seine [[Pionierrolle]] im Bereich KI-[[Anwendung]]en [[hervor]] – genau das [[Umfeld]], in dem ich mein [[Praxissemester]] [[ideal]] [[absolvieren]] kann
+
+
+
+---
+
 
 ---
 = [[Praktikumssemester]]

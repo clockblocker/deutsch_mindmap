@@ -3,11 +3,9 @@
 
 ---
 
-Mein Gott! Wie schwach bin ich! Ich soll unbedingt zum Arzt. Er [[untersucht]] mich und gibt mir Tabletten.
+_[[C1-Lesen-T2-101-Text#^10|^]]_ Das Forscherteam [[beschränkte]] sich nicht auf genetische Analysen, sondern [[untersuchte]] auch anatomische [[Eigenschaften]] des Pompejaners
 
-_[[C1-Lesen-T2-101-Text#^10|^]]_ Das Forscherteam [[beschränkte]] sich nicht auf genetische Analysen, sondern [[untersuchte]] auch anatomische [[Eigenschaften]] des Pompejaners. ^10
-
-3. Der Arzt [[untersucht]] mich (ich).
+Der Arzt [[untersucht]] mich (ich).
 
 Die [[Untersuchung]] [[ergeben]] keinen [[Beweis]] für seine [[Schuld]]
 
@@ -45,7 +43,11 @@ PI: [[untersuchend]], PII: [[untersucht]], Zu+inf: [[zu untersuchend]]
 
 [[Untersuchung]], [[Untersuchungsausschuss]], [[Untersuchungsbericht]], [[Untersuchungsrichter]], [[untersuchbar]], [[Untersuchende]]
 
-[[kontrollieren]], [[behandeln]], [[recherchieren]], [[checken]], [[durchchecken]], [[beobachten]], [[absuchen]], [[ermitteln]], [[studieren]], [[durchsuchen]], [[mustern]],
-, [[betrachten]], [[ausprobieren]]
-, [[zichten]], [[forschen]], [[auseinandersetzen]], [[Erkunden]], [[befassen]], [[hinterfragen]], [[nachfragen]], [[überprüfen]], [[nachgehen]], [[abhandeln]], [[eruieren]], [[revidieren]]
-, [[testen]], [[erörtern]]
+[[kontrollieren]], [[behandeln]], [[recherchieren]], [[checken]], [[durchchecken]], [[beobachten]], [[absuchen]], [[ermitteln]], [[studieren]], [[durchsuchen]], [[mustern]], [[betrachten]], [[ausprobieren]], [[zichten]], [[forschen]], [[auseinandersetzen]], [[erkunden]], [[befassen]], [[hinterfragen]], [[nachfragen]], [[überprüfen]], [[nachgehen]], [[abhandeln]], [[eruieren]], [[revidieren]], [[testen]], [[erörtern]]
+
+
+
+
+
+
+Mein Gott! Wie schwach bin ich! Ich soll unbedingt zum Arzt. Er [[untersucht]] mich und gibt mir Tabletten.

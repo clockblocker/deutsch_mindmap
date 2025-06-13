@@ -1,9 +1,9 @@
-   [[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
-   [[C1-Lesen-441-Text|Text]]  | [[C1-Lesen-441-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-441-Loesung|Loesung]]
+[[0-C1-Lesen-T4-Ubung-List|Tiles]] | [[Lesen-C1-Models|Models]]
+[[C1-Lesen-441-Text|Text]] | [[C1-Lesen-441-Unmarked-Text|Unmarked-Text]] | [[C1-Lesen-441-Loesung|Loesung]]
 
 ---
 
-[[C1-Lesen-431-Text|←]]         →
+[[C1-Lesen-431-Text|←]] →
 
 ---
 ---
@@ -70,7 +70,6 @@ _[[C1-Lesen-441-Text#^33|^]]_ Es ist wahr, dass im Ausland das Vorurteil herrsch
 _[[C1-Lesen-441-Text#^34|^]]_ Man muss eben akzeptieren, dass Deutsche einen anderen Humor haben. ^34
 
 ---
-
 ---
 
 Der [[Erfolg]] deutscher Witze, die Leute zum Lachen zu bringen, wird [[angezweifelt]]

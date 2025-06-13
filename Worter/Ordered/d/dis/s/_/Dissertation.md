@@ -2,7 +2,7 @@
 die [[Dissertationen]]
 
 ---
-*[[203-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3
+*[[213-LEGO#^2|^]]* Allerdings bin ich für die [[Durchführung]] meiner [[Dissertation]] auf einen ruhigen Arbeitsplatz mit [[stabil]]em Internet- und [[Stromanschluss]] [[angewiesen]]
 
 
 ---

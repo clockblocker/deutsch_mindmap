@@ -1,4 +1,4 @@
-🔵 💼 die [[Arbeitsbedingungen]], [aʁˈbaɪ̯t͡sbeˈdɪŋʊŋən]
+💼 die [[Arbeitsbedingungen]], [aʁˈbaɪ̯t͡sbeˈdɪŋʊŋən]
 
 ---
 
@@ -27,3 +27,5 @@ D: der [[Arbeitsbedingung]], den [[Arbeitsbedingungen]]
 ---
 
 [[arbeiten]], [[arbeiten]], [[arbeitsam]], [[arbeitslos]], [[arbeitsfähig]], [[Arbeitsamt]], [[1 Präpositionen Übungen]]
+
+#Feminin

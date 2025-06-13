@@ -61,4 +61,4 @@ D: dem [[Gebiet]], den [[Gebieten]]
 [[gebieten]], [[gebieterisch]], [[Gebietsreform]], [[Gebietsabtretung]], [[Gebietskörperschaft]]
 
 #Neuter , [[Abteil]], [[Themenbereich]]
-, [[Naherholungsgebiet]], [[Randgebiet]], [[Berufssparte]], [[Lebensbereich]], [[Schutzgebiet]]
+, [[Naherholungsgebiet]], [[Randgebiet]], [[Berufssparte]], [[Lebensbereich]], [[Schutzgebiet]], [[Industriegebiet]]

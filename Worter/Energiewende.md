@@ -1,7 +1,7 @@
 💡 🔴 die [[Energiewende]], [ɛnˈeːʁɡiːˌvɛndə](https://youglish.com/pronounce/Energiewende/german)
 
 ---
-*[[215-LEGO#^9|^]]* `Vor` allem die [[Energiewende]] und das [[politisch]] [[forcierte]] Ziel, Millionen [[Wärmepump]]en in [[Altbauten]] zu [[installieren]], [[befeuern]] die [[Nachfrage]] nach [[entsprechend]] [[geschulten]] [[Fachkräften]]
+*[[115-LEGO#^9|^]]* `Vor` allem die [[Energiewende]] und das [[politisch]] [[forcierte]] Ziel, Millionen [[Wärmepump]]en in [[Altbauten]] zu [[installieren]], [[befeuern]] die [[Nachfrage]] nach [[entsprechend]] [[geschulten]] [[Fachkräften]]
 
 ---
 = [[Energiewechsel]], [[Energiereform]]

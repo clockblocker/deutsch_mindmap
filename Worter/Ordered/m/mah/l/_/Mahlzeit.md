@@ -33,3 +33,4 @@ G: der [[Mahlzeit]], der [[Mahlzeiten]]
 D: der [[Mahlzeit]], den [[Mahlzeiten]]
 
 #Feminin , [[Büfett]], [[Zehrung]], [[Tafel]]
+, [[Mittagessen]]

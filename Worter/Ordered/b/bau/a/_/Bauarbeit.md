@@ -30,3 +30,6 @@ N: die [[Bauarbeit]], die [[Bauarbeiten]]
 A: die [[Bauarbeit]], die [[Bauarbeiten]]
 G: der [[Bauarbeit]], der [[Bauarbeiten]]
 D: der [[Bauarbeit]], den [[Bauarbeiten]]
+
+
+#Feminin 

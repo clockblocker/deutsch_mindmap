@@ -87,4 +87,4 @@ Konjunktiv II:
 - Wenn wir uns mehr anstrengen würden, [[glänzten]] wir vor Stolz.
 - Wenn ihr mehr Licht hättet, [[glänztet]] ihr immer.
 - Wenn sie glücklicher wären, [[glänzten]] sie vor Freude., [[scheinen]], [[aufleuchten]]
-, [[Glanz]]
+  , [[Glanz]]

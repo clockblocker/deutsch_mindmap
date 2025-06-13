@@ -1,9 +1,15 @@
 --> [[⛪ Ingredient-Plazt]] <--
-
 🔴 die [[Stelle]], [ˈʃtɛlə] | 🛠️ [[stellen]]  
-die [[Stellen]]
 
 ---
+---
+
+*[[212-LEGO#^2|^]]* [[Allerdings]] finde ich die [[Kantine]], `an` deren [[Stelle]] [[künftig]] Funktionsräume geplant sind, [[unverzichtbar]], da unser Büro sich in einem [[Industriegebiet]] [[befindet]], in dem es weder Restaurants noch Supermärkte gibt
+
+
+---
+
+
 Sein Name [[steht]] [[an]] erster [[Stelle]]
 
 *[[C1-Hoehen-T3-301-Text#^45|^]]* Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stelle]]n [[unbesetzt]] bleiben

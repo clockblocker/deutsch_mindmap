@@ -38,4 +38,4 @@ Adjektive: [[kurzfristig]], [[kurzfristiger]], [[kurzfristigst]]
 
 
 nachhaltig
-vorübergehend, [[Schulung]]
+vorübergehend, [[Schulung]], [[dreitägig]]

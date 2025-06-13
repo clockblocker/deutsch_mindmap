@@ -1,1 +1,1 @@
-, [[Schulabgänger]], [[absolvieren]]
+, [[Schulabgänger]], [[absolvieren]], [[Alumnus]]

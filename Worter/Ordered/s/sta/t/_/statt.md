@@ -1,6 +1,15 @@
-instead of
+[[statt]]
 
 ---
+---
+
+*[[215-LEGO#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren [[sogar]] einmal [[gezwungen]], in einem [[Hostel]] [[statt]] `im` [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]
+
+
+
+----
+
+
 NIC: Und du hast Apfelsinen [[statt]] Äpfel gekauft!
 Ich [[nehme]] [[statt]] der Suppe einen Salat
 ANNA: Sam hat 10 Kilo Apfelsinen eingekauft – [[statt]] 10 Äpfel.

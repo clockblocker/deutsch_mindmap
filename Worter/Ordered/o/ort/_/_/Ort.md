@@ -1,9 +1,15 @@
 --> [[⛪ Ingredient-Plazt]] <--
-
 📍 🔵 der [[Ort]], [ɔʁt](https://youglish.com/pronounce/Ort/german)
 
 ---
- Das Studium findet jedoch `vor` [[Ort]] statt, und um daran teilzunehmen, benötige ich eine Bildungsfreistellung.
+---
+
+*[[211-LEGO#^4|^]]* `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen]] zu können, [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]
+
+
+
+---
+
 
 ---
 = [[Platz]], [[Stelle]], [[Lokalität]]

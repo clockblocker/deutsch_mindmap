@@ -31,4 +31,4 @@ G: der [[Stimmung]], der [[Stimmungen]]
 D: der [[Stimmung]], den [[Stimmungen]]
 
 
-#Feminin , [[Lebensgefühl]], [[Zustimmung]]
+#Feminin , [[Lebensgefühl]], [[Zustimmung]], [[Arbeitsatmosphäre]]

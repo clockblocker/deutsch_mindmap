@@ -1,1 +1,1 @@
-, [[Anlage]]
+, [[Anlage]], [[Schließung]]

@@ -1,6 +1,6 @@
   [[C1-Schreiben-Root|Back to Root]]
 
-[[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Drills|Drills]]
+[[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Drills|Drills]] | [[215-LEGO]] 
 [[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
 
 ----
@@ -30,6 +30,9 @@ Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
 Mit freundlichen Grüßen
 Denis Popov
+
+[[216-C1-Schreiben-Model|216]]
+
 
 ---
 ---

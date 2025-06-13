@@ -1,7 +1,15 @@
 🏘️ 🟢 das [[Studierendenwohnheim]], [ʃtuˈdiːʁəndənvoːnˌhaɪ̯m](https://youglish.com/pronounce/Studierendenwohnheim/german)
 
 ---
+---
 
+*[[213-LEGO#^3|^]]* Mein [[Studierendenwohnheim]] bietet diese [[Voraussetzung]]en leider nicht
+
+
+
+
+
+---
 _[[031-C1-Schreiben-T2#^1|^]]_ Sie haben ein Zimmer in einem [[Studierendenwohnheim]] in Deutschland. ^1
 
 _[[203-C1-Schreiben-T2#^3|^]]_ Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3

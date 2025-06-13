@@ -55,4 +55,4 @@ Morpheme:
 Einzigartige mögliche Formen: 
 [[sonst]]
 , [[sonst nichts]], [[s1 e1]], [[Kick]], [[Abenteuer 1]], [[langweilen]], [[klappen]], [[Konnektoren]], [[Texte/Misc/Anki]]
-, [[sonstig]], [[umsonst]], [[Konnektivpartikeln]]
+, [[sonstig]], [[umsonst]], [[Konnektivpartikeln]], [[alternativ]]

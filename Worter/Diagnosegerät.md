@@ -2,7 +2,7 @@
 
 ---
 ---
-*[[215-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzt]]e [[Diagnosegerät]]e den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
+*[[115-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzt]]e [[Diagnosegerät]]e den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
 
 
 ---

@@ -1,1 +1,1 @@
-, [[speichern]]
+, [[speichern]], [[digitalisieren]]

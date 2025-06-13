@@ -1,9 +1,16 @@
 --> [[⛪ Ingredient-Plazt]] <--
-
 🔵 der [[Bereich]], [bəˈʁaɪ̯ç]
-die [[Bereiche]]
 
 ---
+---
+
+*[[214-LEGO#^4|^]]* In meiner [[Freizeit]] [[teilnehmen|nehme]] ich `an` [[Hackathon]]s im [[Bereich]] KI und [[Datenanalyse]] teil
+
+
+
+----
+
+
 
 Diesen [[Bereich]] darf niemand [[betreten]]
 

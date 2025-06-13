@@ -1,1 +1,1 @@
-, [[durchchecken]], [[absuchen]], [[durchsuchen]]
+, [[durchchecken]], [[absuchen]], [[durchsuchen]], [[digitalisieren]]

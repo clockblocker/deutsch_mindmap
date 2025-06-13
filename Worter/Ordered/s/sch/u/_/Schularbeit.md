@@ -30,3 +30,6 @@ D: der [[Schularbeit]], den [[Schularbeiten]]
 ---
 
 [[Schule]], [[Arbeit]], [[schulisch]], [[Schulaufgabe]], [[Schulbuch]], [[Schulferien]]
+
+
+#Feminin 

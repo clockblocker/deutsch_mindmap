@@ -1,2 +1,2 @@
 🛋️ [[Pausenraum]]
-#Plural 
+#Plural , [[regelmäßig]]

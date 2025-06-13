@@ -1,7 +1,17 @@
 🏨 [[übernachten]] | [[übernachtete]], haben [[übernachtet]]
 
 ---
-*[[215-C1-Schreiben-Model#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren sogar einmal gezwungen, in einem Hostel statt im [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]
+---
+
+*[[215-LEGO#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren [[sogar]] einmal [[gezwungen]], in einem [[Hostel]] [[statt]] `im` [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]
+
+
+
+---
+
+
+
+
 
 Als Martin von der Uni nach Hause kommt, sitzt sein [[Mitbewohner]] Tom mit einer [[Tüte]] Chips auf dem Sofa. Genau auf dem Sofa, auf dem Martins Mutter morgen [[übernachten]] soll, wenn sie zu Besuch kommt. Um das Sofa herum [[stapeln]] sich alte Zeitungen, [[ungebügelte]] [[Wäsche]] und leere [[Getränkekisten]].
 

@@ -1,9 +1,17 @@
 --> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <--
-
 ✅ 🔴 die [[Voraussetzung]], [fɛɐ̯ˈʔaʊ̯sˌzɛt͡sʊŋ]
-die [[Voraussetzungen]]
 
 ---
+----
+
+*[[213-LEGO#^3|^]]* Mein [[Studierendenwohnheim]] bietet diese [[Voraussetzung]]en leider nicht
+
+
+---
+
+
+
+
 *[[2 Unter Druck nach oben#^10|^]]* Die [[üblichen]] [[Voraussetzungen]] [[erfüllen]] die Bewerber beim Nivea-Konzern [[ohnehin]] meistens – eine gute Universität oder Business-School, Auslandspraktika, [[fließendes]] Englisch und noch ein paar [[zusätzliche]] Zertifikate
 
 *[[C1-Hoehen-T3-301-Text#^34|^]]* Sie sind eine [[zwingende]] [[Voraussetzung]] für das Land, in dem man eine Ausbildung machen und arbeiten möchte, und das ist selbst mit [[Vorkenntnis]]sen ein recht langwieriger Prozess. 

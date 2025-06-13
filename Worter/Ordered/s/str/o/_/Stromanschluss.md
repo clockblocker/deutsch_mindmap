@@ -2,6 +2,13 @@
 die [[Stromanschlüsse]]
 
 ---
+---
+
+*[[213-LEGO#^2|^]]* Allerdings bin ich für die [[Durchführung]] meiner [[Dissertation]] auf einen ruhigen Arbeitsplatz mit [[stabil]]em Internet- und [[Stromanschluss]] [[angewiesen]]
+
+
+---
+
 [[Internetzugang]] und [[Stromanschluss]] + [[Steckdose]]nenen
 
 ---

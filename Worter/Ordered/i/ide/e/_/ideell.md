@@ -1,1 +1,1 @@
-, [[Geschäftsidee]], [[höchstmögliche]], [[abstrakt]], [[vorbildlich]]
+, [[Geschäftsidee]], [[höchstmögliche]], [[abstrakt]], [[vorbildlich]], [[ideal]]

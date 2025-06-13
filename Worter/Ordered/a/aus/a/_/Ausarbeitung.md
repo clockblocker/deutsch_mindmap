@@ -37,3 +37,6 @@ N: die [[Ausarbeitung]], die [[Ausarbeitungen]]
 A: die [[Ausarbeitung]], die [[Ausarbeitungen]]
 G: der [[Ausarbeitung]], der [[Ausarbeitungen]]
 D: der [[Ausarbeitung]], den [[Ausarbeitungen]]
+
+
+#Feminin 

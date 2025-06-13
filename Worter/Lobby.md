@@ -2,7 +2,12 @@
 die [[Lobbys]] | die [[Lobbys]]
 
 ---
-*[[216-C1-Schreiben-Model#^2|^]]* Besonders gefiel mir das [[ansprechen]]de [[Ambiente]] der [[Lobby]] 
+----
+
+*[[216-LEGO#^2|^]]* Besonders [[gefiel]] mir das [[ansprechend]]e [[Ambiente]] der [[Lobby]] 
+
+----
+
 
 ---
 = [[Empfangshalle]], [[Vorraum]] | [[Interessengruppe]], [[Lobbyismus]]

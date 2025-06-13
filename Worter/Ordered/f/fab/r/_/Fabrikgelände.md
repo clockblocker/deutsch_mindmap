@@ -27,4 +27,4 @@ A: das [[Fabrikgelände]], die [[Fabrikgelände]]
 G: des [[Fabrikgeländes]], der [[Fabrikgelände]]
 D: dem [[Fabrikgelände]], den [[Fabrikgeländen]]
 
-#Neuter 
+#Neuter , [[Industriegebiet]]

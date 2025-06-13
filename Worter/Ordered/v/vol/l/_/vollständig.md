@@ -1,8 +1,17 @@
---> 📊 [[Grad-Verteilung]] <--
---> 🧩 [[Grad-Ganzheit]] <--
+--> 📊 [[Grad-Verteilung]] | [[Grad-Ganzheit]]<--
 💯 [[vollständig]], [ˈfɔlˌʃtɛndɪç](https://youglish.com/pronounce/vollständig/german) ≠ [[unvollständig]]
 
 ---
+---
+
+*[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine [[längere]] [[Freistellung]] möglich sein, schlage ich vor, mein Studium [[vollständig]] `im` Homeoffice [[absolvieren]] zu dürfen.
+
+
+
+---
+
+
+
 *[[111-C1-Schreiben-Model#^16|^]]* Zusätzlich hat es sich als [[effektiv]] [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedienfrei zu [[halten]]
 
 _[[Golfstorm#^7|^]]_ die [[Forschenden]] fanden jedoch keine [[Hinweis]]e auf einen [[vollständigen]] Kollaps. ^7

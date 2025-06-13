@@ -5,7 +5,8 @@
 haben [[gerast]]
 
 ---
-*[[C1-Hoehen-T3-402-Text#^14|^]]* 8.500 Tonnen Schrott [[darstellen|stellen]] eine [[beachtliche]] Gefahr im Weltraum dar, weil dieser mit einer Geschwindigkeit von [[zehntausend]] Kilometern pro Stunde durch das All [[rast]] und so auch kleinste [[Teilchen]] zu [[zerstörerisch]]en [[Geschossen]] [[mutieren]] können
+
+_[[C1-Hoehen-T3-402-Text#^14|^]]_ 8.500 Tonnen Schrott [[darstellen|stellen]] eine [[beachtliche]] Gefahr im Weltraum dar, weil dieser mit einer Geschwindigkeit von [[zehntausend]] Kilometern pro Stunde durch das All [[rast]] und so auch kleinste [[Teilchen]] zu [[zerstörerisch]]en [[Geschossen]] [[mutieren]] können
 
 Tot sank dieser zu Boden und die restliche Herde [[raste]] in panischem Schrecken davon.
 

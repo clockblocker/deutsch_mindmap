@@ -26,3 +26,6 @@ A: die [[Rente]], die [[Renten]]
 G: der [[Rente]], der [[Renten]]  
 D: der [[Rente]], den [[Renten]]
 , [[Rentensystem]], [[Altersvorsorge]]
+
+
+#Feminin 

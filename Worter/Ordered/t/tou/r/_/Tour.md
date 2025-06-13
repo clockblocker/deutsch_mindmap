@@ -1,1 +1,1 @@
-, [[Reise]], [[Fußwanderung]]
+, [[Reise]], [[Fußwanderung]], [[Gruppenreise]], [[Busfahrt]]

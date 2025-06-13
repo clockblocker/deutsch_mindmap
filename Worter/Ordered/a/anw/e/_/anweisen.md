@@ -1,6 +1,15 @@
-✍️ [[anweiˇsen]], [ˈanˌvaɪ̯zn̩](https://youglish.com/pronounce/anweisen/german) → [[wies an]] → haben [[angewiesen]]
+✍️ [[anweisen]], [ˈanˌvaɪ̯zn̩](https://youglish.com/pronounce/anweisen/german) → [[wies an]] → haben [[angewiesen]]
 
 ---
+---
+
+*[[213-LEGO#^2|^]]* Allerdings bin ich für die [[Durchführung]] meiner [[Dissertation]] auf einen ruhigen Arbeitsplatz mit [[stabil]]em Internet- und [[Stromanschluss]] [[angewiesen]]
+
+
+
+---
+
+
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^2|^]]* _Besonders bei_ [[Behördengängen]] _verstehen viele oft nur wenig und sind auf einen_ [[Dolmetscher]] [[angewiesen]] _. Wer schon einmal einen Brief von einer_ [[Behörde]] _bekommen hat, weiß, dass diese komplizierten_ [[Satzkonstruktionen]] _auch für_ [[Muttersprachler]] _eine_ [[Herausforderung]] _sein können.
 
 *[[203-C1-Schreiben-T2#^3|^]]* Allerdings für die [[erfolgreiche]] Arbeit an meiner [[Dissertation]], bin ich auf einen ruhigen Arbeitsplatz mit Internet- und [[Stromzugang]] [[angewiesen]] und mein [[Studierendenwohnheim]] [[bietet]] das leider nicht. ^3

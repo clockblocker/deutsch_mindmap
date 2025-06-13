@@ -36,4 +36,4 @@ D: dem [[Wettbewerb]], den [[Wettbewerben]]
 [[wettbewerbsfähig]], [[wettbewerbslos]], [[wettbewerbsorientiert]], [[Wettbewerbsrecht]], [[konkurrieren]], [[anregen]], [[Mitbewerber]], [[Wettbewerbsgesellschaft]]
 
 
-#Maskulin , [[Marktgesetz]], [[Preisdiktat]], [[Konkurrenzkampf]]
+#Maskulin , [[Marktgesetz]], [[Preisdiktat]], [[Konkurrenzkampf]], [[Hackathon]]

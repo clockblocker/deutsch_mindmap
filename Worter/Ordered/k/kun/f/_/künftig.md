@@ -1,8 +1,20 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
-
 🔮 [[künftig]], [ˈkʏnftɪç](https://youglish.com/pronounce/künftig/german) ≠ [[vergangen]]
 
 ---
+---
+
+*[[216-LEGO#^8|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n [[regelmäßig]] zu [[warten]], die WLAN-[[Stabilität]] zu [[prüfen]] und die [[Restaurantöffnungszeit]]en [[aktuell]] `auf` Ihrer [[Website]] zu kommunizieren
+
+*[[212-LEGO#^2|^]]* [[Allerdings]] finde ich die [[Kantine]], `an` deren [[Stelle]] [[künftig]] Funktionsräume geplant sind, [[unverzichtbar]], da unser Büro sich in einem [[Industriegebiet]] [[befindet]], in dem es weder Restaurants noch Supermärkte gibt
+
+*[[215-LEGO#^6|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
+
+
+---
+
+
+
 *[[215-C1-Schreiben-Model#^6|^]]* Um ähnliche Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässigen]] Transportunternehmen [[abzuschließen]]
 
 *[[216-C1-Schreiben-Model#^6|^]]* Um [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n regelmäßig zu [[warten]], die WLAN-Stabilität zu [[prüfen]] und die [[Restaurantöffnungszeit]]en aktuell auf Ihrer Website zu [[kommunizieren]]

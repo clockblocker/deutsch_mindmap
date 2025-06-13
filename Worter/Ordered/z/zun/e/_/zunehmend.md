@@ -2,7 +2,14 @@
 📈 [[zunehmend]], [ˈtsuːˌneːmənt]
 
 ---
-*[[215-LEGO#^1|^]]* In einer [[zunehmend]] digitalisierten [[Arbeitswelt]] entscheiden `sich` viele Menschen [[bewusst]] `für` [[handwerklich]]e oder praktische Berufe, `da` diese `nach` [[wie]] `vor` [[stabil]]e [[Beschäftigungsmöglichkeit]]en bieten. ^1
+---
+
+*[[115-LEGO#^1|^]]* In einer [[zunehmend]] [[digitalisierten]] [[Arbeitswelt]] [[entscheiden]] `sich` viele Menschen [[bewusst]] `für` [[handwerklich]]e oder praktische Berufe, `da` diese `nach` [[wie]] `vor` [[stabil]]e [[Beschäftigungsmöglichkeit]]en bieten
+
+
+
+
+---
 
 
 *[[2 Unter Druck nach oben#^19|^]]* Sie werden [[zunehmend]] als [[Grundvoraussetzungen]] [[betrachtet]]. Wer [[Führungskraft]] werden will, muss auch „Macher-[[Eigenschaften]]“ wie [[Ergebnisorientierung]] und [[unternehmerisches]] Denken [[vorweisen]]

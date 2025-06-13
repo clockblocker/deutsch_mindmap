@@ -1,1 +1,1 @@
-, [[Abenteurer]], [[Gründungsmitglied]], [[Gründer]], [[Wegbereiter]]
+, [[Abenteurer]], [[Gründungsmitglied]], [[Gründer]], [[Wegbereiter]], [[Pionierrolle]]

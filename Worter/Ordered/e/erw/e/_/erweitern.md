@@ -1,8 +1,15 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
-
 ➕ [[erweitern]], [ɛɐ̯ˈvaɪ̯tɐn](https://youglish.com/pronounce/erweitern/german) → [[erweiterte]] → [[erweitert]]
 
 ---
+---
+
+*[[211-LEGO#^5|^]]* `Am` Ende des [[Programm]]s könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], `sondern` `auch` ein [[wertvoll]]es [[Alumni]]-Netzwerk [[mitbringen]] – [[wodurch]] das Unternehmen neue Kunden und Partner [[gewinnen]] könnte
+
+
+---
+
+
 *[[201-C1-Schreiben-T2#^4|^]]* Am Ende des Programms könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], sondern auch neue Netzwerke [[einbringen]] – [[wodurch]] die Firma potenziell neue Partner und Kunden [[gewinnen]] kann
 
 *[[bro-schrieben-c1-t1-001#^2|^]]* Der wichtigste Grund für die [[Einnahme]] eines [[Dopingmittel]]s ist, die [[Leistungsfähigkeit]] zu erhöhen und die [[Grenze]] des menschlichen Organismus zu [[erweitern]]

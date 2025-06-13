@@ -1,6 +1,6 @@
 [[C1-Schreiben-Root|Back to Root]]
 
-[[C1 Schreiben/v1/T1-V1/115-C1-Schreiben/115-C1-Schreiben-Drills|Drills]] | [[215-LEGO]] 
+[[C1 Schreiben/v1/T1-V1/115-C1-Schreiben/115-C1-Schreiben-Drills|Drills]] | [[115-LEGO]] 
 [[C1 Schreiben/v1/T1-V1/115-C1-Schreiben/115-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
 
 ----

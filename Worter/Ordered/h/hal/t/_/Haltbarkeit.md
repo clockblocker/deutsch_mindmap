@@ -1,1 +1,1 @@
-, [[langanhaltend]], [[Lebensdauer]]
+, [[langanhaltend]], [[Lebensdauer]], [[Stabilität]]

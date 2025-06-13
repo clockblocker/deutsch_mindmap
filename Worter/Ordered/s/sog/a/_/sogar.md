@@ -1,6 +1,16 @@
 [[sogar]]
 
 ---
+---
+
+*[[215-LEGO#^4|^]]* [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren [[sogar]] einmal [[gezwungen]], in einem [[Hostel]] [[statt]] `im` [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]
+
+
+
+----
+
+
+
 [[Sogar]] du kannst die Welt ein bisschen verbessern!
 
 [[16 Plusquamperfekt#^23|^]] Aber es ist ganz klar, dass die junge Künstlerin die tragischen Motive [[sogar]] in ihren ersten naiven Werken gehabt hatte. ^23

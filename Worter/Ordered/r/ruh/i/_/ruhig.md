@@ -1,9 +1,16 @@
-ruhig, [ˈʀuːɪ̯ç]
-nicht [[unruhig]]
-
-ohne inere und äusere Bevegung 
+ruhig, [ˈʀuːɪ̯ç] nicht [[unruhig]]
 
 ---
+---
+
+*[[216-LEGO#^1|^]]* [[zunächst]] danke ich Ihnen `für` den [[aufmerksam]]en [[Service]] und die [[ruhig]]e [[Lage]] Ihres Hotels Seeblick
+
+
+
+---
+
+
+
 SASCHA: Aber ich weiß, wie ich [[ruhig]] bleiben kann 
 (Ich will) Ich will die [[Ruhe]] stören  
 

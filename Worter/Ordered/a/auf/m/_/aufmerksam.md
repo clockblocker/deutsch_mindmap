@@ -1,10 +1,16 @@
 ! [[Passiv-Ingredient-POV]] !
-
-🧠 [[aufmerksam]], [ˈaʊ̯fmɛɐ̯kzaːm]
-nicht [[unaufmerksam]]
+🧠 [[aufmerksam]], [ˈaʊ̯fmɛɐ̯kzaːm] nicht [[unaufmerksam]]
 
 ---
-*[[216-C1-Schreiben-Model#^1|^]]* [[zunächst]] danke ich Ihnen für den [[aufmerksam]]en Service und die ruhige [[Lage]] Ihres Hotels Seeblick
+---
+
+*[[216-LEGO#^1|^]]* [[zunächst]] danke ich Ihnen `für` den [[aufmerksam]]en [[Service]] und die [[ruhig]]e [[Lage]] Ihres Hotels Seeblick
+
+
+
+---
+
+
 
 
 *[[C1-Lesen-441-Text#^2|^]]* Ausländische humoristische [[Sendung]]en haben die Gewohnheit, das Publikum auf den Witz [[aufmerksam]] zu machen

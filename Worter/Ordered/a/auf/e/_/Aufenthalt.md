@@ -1,8 +1,19 @@
 🏡 🔵 der [[Aufenthalt]], [ˈaʊ̯fʔɛntˌhalt](https://youglish.com/pronounce/Aufenthalt/german)  
-die [[Aufenthalte]]
 
 ---
-*[[216-C1-Schreiben-Model#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von mehreren [[Mängeln]] [[beeinträchtigt]]: Die [[Klimaanlage]] im Zimmer funktionierte nur [[sporadisch]], wodurch es [[nachts]] sehr heiß war. Das WLAN war [[unzuverlässig]] und [[abbrachen|brach]] [[mehrfach]] ab
+---
+
+*[[216-LEGO#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von [[mehr]]eren [[Mängeln]] [[beeinträchtigt]]:
+*(Unfortunately, my [[three-day]] [[stay]] was [[impaired]] by [[several]] [[deficiencies]]:)*
+
+
+
+
+
+
+
+---
+
 
 ---
 = [[Verweilen]], [[Bleiben]], [[Aufenthalt]], [[Reise]], [[aufhalten]], [[Präsenz]], [[Hotelaufenthalt]]
@@ -27,4 +38,4 @@ A: den [[Aufenthalt]], die [[Aufenthalte]]
 G: des [[Aufenthaltes]], der [[Aufenthalte]]
 D: dem [[Aufenthalt]], den [[Aufenthalten]]
 
-#Maskulin 
+#Maskulin 🔵 der [[Aufenthalt]] 🏡

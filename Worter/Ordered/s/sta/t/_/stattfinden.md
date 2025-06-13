@@ -1,6 +1,18 @@
 📞 [[stattfinden]], [ˈʃtatˌfɪndn̩]
 
 ---
+---
+
+*[[211-LEGO#^4|^]]* `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen]] zu können, [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]. ^4
+
+
+
+---
+
+
+
+
+
 *[[111-C1-Schreiben-Model#^3|^]]* Soziale Medien stehen nicht nur im Mittelpunkt öffentlicher Diskussionen – sie sind auch der Ort, `an` dem diese Diskussionen [[stattfinden]]
 
 

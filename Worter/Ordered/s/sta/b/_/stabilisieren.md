@@ -1,1 +1,1 @@
-, [[zusammenbrechen]], [[umwerfen]], [[schütteln]], [[stützen]], [[festigen]]
+, [[zusammenbrechen]], [[umwerfen]], [[schütteln]], [[stützen]], [[festigen]], [[Stabilität]]

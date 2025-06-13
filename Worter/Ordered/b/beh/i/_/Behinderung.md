@@ -32,4 +32,4 @@ D: der [[Behinderung]], den [[Behinderungen]]
 [[behindern]], [[behindert]], [[Behindertenrecht]], [[Behindertenausweis]], [[behindertengerecht]], [[stau]], [[mithilfe]], [[Hindernis]], [[Förderung]], [[Hemmung]], [[Gesundheit]]
 
 #Feminin
-, [[Verletzung]]
+, [[Verletzung]], [[Verkehrsproblem]]

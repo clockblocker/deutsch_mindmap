@@ -25,3 +25,7 @@ N: die [[Beeinträchtigung]], die [[Beeinträchtigungen]]
 A: die [[Beeinträchtigung]], die [[Beeinträchtigungen]]
 G: der [[Beeinträchtigung]], der [[Beeinträchtigungen]]
 D: der [[Beeinträchtigung]], den [[Beeinträchtigungen]]
+
+#Feminin 
+
+

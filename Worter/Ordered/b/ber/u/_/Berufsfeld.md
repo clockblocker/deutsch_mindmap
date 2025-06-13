@@ -35,3 +35,6 @@ N: das [[Berufsfeld]], die [[Berufsfelder]]
 A: das [[Berufsfeld]], die [[Berufsfelder]]
 G: des [[Berufsfeldes]], der [[Berufsfelder]]
 D: dem [[Berufsfeld]], den [[Berufsfeldern]]
+
+
+#Neuter 

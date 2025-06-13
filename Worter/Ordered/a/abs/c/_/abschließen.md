@@ -1,9 +1,17 @@
 --> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🔒[[abschließen]] + Akk, [ˈapˌʃliːsən]
-[[schloss ab|schloss ab]]  
-haben [[abgeschlossen]]
 
 ---
+---
+
+*[[215-LEGO#^6|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
+
+
+---
+
+
+
+
 *[[215-C1-Schreiben-Model#^6|^]]* Um ähnliche Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässigen]] Transportunternehmen [[abzuschließen]]
 
 Perfekt wird hier benutzt, weil es sich um eine [[abgeschlossene]] [[Handlung]] in der [[Vergangenheit]] handelt

@@ -3,23 +3,27 @@
 ---
 
 ---
+
 = [[Achtung]]
 ≈ [[Aufsicht]],[[Konzentration]], [[Bewusstsein]], [[Achtsamkeitstraining]], [[Achtsamkeitsübung]] , [[Sorgfalt]] , [[Vorsicht]], [[Acht]]
 ≠ [[Unachtsamkeit]], [[Ablenkung]], [[Zerstreutheit]]
 
 ---
+
 mindfulness
 осознанность
 
 ---
+
 [[achtsam]], [[achten]], [[Achtung]]
 
 ---
+
 [[acht]]|[[sam]]|[[keit]]
 [[Achtsamkeit]]
 
-
 ---
+
 N: die [[Achtsamkeit]], die [[Achtsamkeiten]]
 A: die [[Achtsamkeit]], die [[Achtsamkeiten]]
 G: der [[Achtsamkeit]], der [[Achtsamkeiten]]

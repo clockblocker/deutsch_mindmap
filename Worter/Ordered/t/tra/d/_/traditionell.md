@@ -1,1 +1,1 @@
-, [[modern]], [[jüdisch]], [[preußisch]], [[üblich]], [[künstlerischer]], [[langjährig]], [[veraltet]], [[geschichtlich]], [[jahrhundertealt]], [[urig]], [[traditionsgemäß]], [[tradieren]]
+, [[modern]], [[jüdisch]], [[preußisch]], [[üblich]], [[künstlerischer]], [[langjährig]], [[veraltet]], [[geschichtlich]], [[jahrhundertealt]], [[urig]], [[traditionsgemäß]], [[tradieren]], [[alternativ]]

@@ -26,3 +26,6 @@ D: der [[Zwangsarbeit]], den [[Zwangsarbeiten]]
 
 ---
 [[zwingen]], [[arbeiten]], [[Zwang]], [[Arbeiter]], [[Zwangsarbeiter]], [[zwangsweise]]
+
+
+#Feminin 

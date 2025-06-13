@@ -3,7 +3,7 @@
 ---
 ---
 
-*[[215-LEGO#^11|^]]* Brillen mit digitaler [[Anleitung]] können [[komplex]]e [[Montageprozess]]e [[erleichtern]], [[während]] [[Sensor]]en in [[Maschine]]n [[frühzeitig]] [[Verschleiß]] [[anzeigen]]
+*[[115-LEGO#^11|^]]* Brillen mit digitaler [[Anleitung]] können [[komplex]]e [[Montageprozess]]e [[erleichtern]], [[während]] [[Sensor]]en in [[Maschine]]n [[frühzeitig]] [[Verschleiß]] [[anzeigen]]
 
 
 ---

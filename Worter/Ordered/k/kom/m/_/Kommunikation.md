@@ -1,6 +1,12 @@
 🗣️ 🔴 die [[Kommunikation]], [ˌkɔmuniˈkaːt͡si̯oːn](https://youglish.com/pronounce/Kommunikation/german)
 
 ---
+---
+
+*[[212-LEGO#^1|^]]* ich habe vollstes Verständnis dafür, dass geplante [[Funktionsräume]] die [[intern]]e [[Kommunikation]] [[fördern]] – ein [[Aspekt]], der im [[Arbeitsalltag]] [[unabdingbar]] ist
+
+---
+
 Sie [[fördern]] die aktive [[Kommunikation]] zwischen [[Anbieter]] und [[Konsument]].
 
 

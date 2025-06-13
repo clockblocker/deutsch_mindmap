@@ -2,7 +2,7 @@
 die [[Mechatroniker]]
 
 ---
-*[[215-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz]]-[[Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
+*[[115-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz]]-[[Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
 
 ---
 = [[Mechaniker]], [[Elektriker]]

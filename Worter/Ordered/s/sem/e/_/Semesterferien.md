@@ -1,1 +1,1 @@
-, [[Semesterende]]
+, [[Semesterende]], [[Semester]]

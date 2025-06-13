@@ -1,7 +1,14 @@
 👍 [[zuverlässig]], [ˈtuːɐ̯ˌfɛɐ̯lɛsɪç](https://youglish.com/pronounce/zuverlässig/german)
 
 ---
-*[[215-C1-Schreiben-Model#^6|^]]* Um ähnliche Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässigen]] Transportunternehmen [[abzuschließen]]
+---
+
+*[[215-LEGO#^6|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
+
+---
+
+
+
 
 *[[C1-Lesen-T1-001-Text#^26|^]]* Man hatte sie nicht nur mit [[Speichelproben]] trainiert, aber sie [[erschnüffelten]] Corona ebenso [[zuverlässig]] in Urin- und Schweißproben
 

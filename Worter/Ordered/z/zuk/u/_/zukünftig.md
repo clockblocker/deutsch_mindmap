@@ -4,8 +4,9 @@
 ---
 ---
 
-*[[215-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzte]] [[Diagnosegeräte]] den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
+*[[115-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzte]] [[Diagnosegeräte]] den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
 
+*[[211-LEGO#^1|^]]* ich wende mich an Sie, um auf mein [[zukünftig]]es MBA-Studium an der [[Technisch]]en [[Universität]] München [[einzugehen]]
 
 
 ---

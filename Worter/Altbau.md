@@ -4,7 +4,7 @@ die [[Altbauten]]
 ---
 ---
 
-*[[215-LEGO#^9|^]]* `Vor` allem die [[Energiewende]] und das [[politisch]] [[forcierte]] Ziel, Millionen [[Wärmepump]]en in [[Altbau]]ten zu [[installieren]], [[befeuern]] die [[Nachfrage]] nach [[entsprechend]] [[geschulten]] [[Fachkräften]]
+*[[115-LEGO#^9|^]]* `Vor` allem die [[Energiewende]] und das [[politisch]] [[forcierte]] Ziel, Millionen [[Wärmepump]]en in [[Altbau]]ten zu [[installieren]], [[befeuern]] die [[Nachfrage]] nach [[entsprechend]] [[geschulten]] [[Fachkräften]]
 
 
 ---

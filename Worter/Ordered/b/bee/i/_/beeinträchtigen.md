@@ -3,6 +3,14 @@
 😟 [[beeinträchtigen]], [bəˈʔiːntʁɛçtɪɡn̩](https://youglish.com/pronounce/beeinträchtigen/german) → [[beeinträchtigte]] → haben [[beeinträchtigt]]
 
 ---
+---
+
+*[[216-LEGO#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von [[mehr]]eren [[Mängeln]] [[beeinträchtigt]]:
+
+
+---
+
+
 Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]
 
 *[[216-C1-Schreiben-Model#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von mehreren [[Mängeln]] [[beeinträchtigt]]: Die [[Klimaanlage]] im Zimmer funktionierte nur [[sporadisch]], wodurch es [[nachts]] sehr heiß war. Das WLAN war [[unzuverlässig]] und [[abbrachen|brach]] [[mehrfach]] ab

@@ -1,6 +1,6 @@
 [[C1-Schreiben-Root|Back to Root]]
 
-[[216-C1-Schreiben-Drills|Drills]]
+[[216-C1-Schreiben-Drills|Drills]] | [[216-LEGO]] 
 [[216-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
 
 ----

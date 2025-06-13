@@ -3,18 +3,22 @@
 ---
 
 ---
+
 = [[entschlafen]], [[wegdämmern]], [[einnicken]], [[schlafen]]
 ≈ [[schlafen gehen]], [[sich betten]], [[zur Ruhe kommen]]
-≠ [[aufwachen]], [[erwachen]], [[aufschrecken]], [[erwachen]], [[wecken]], 
+≠ [[aufwachen]], [[erwachen]], [[aufschrecken]], [[erwachen]], [[wecken]],
 
 ---
+
 to fall asleep
 засыпать
 
 ---
+
 [[ein]]|[[schlaf]]|[[en]]
 
 ---
+
 ich: [[schlafe ein]], [[schlief ein]], –, [[schlafe ein]], [[schliefe ein]]
 du: [[schläfst ein]], [[schliefst ein]], [[schlaf ein]] | [[schlaf]], [[schläfst ein]], [[schliefest ein]]
 er/sie/es: [[schläft ein]], [[schlief ein]], –, [[schlafe ein]], [[schliefe ein]]
@@ -24,7 +28,9 @@ ihr: [[schlaft ein]], [[schlieft ein]], [[schlaft ein]], [[schlafet ein]], [[sch
 PI: [[einschlafend]], PII: [[eingeschlafen]], Zu+inf: [[einzuschlafen]]
 
 ---
+
 [[einschlafen]] - [[ein]] = [[schlafen]] / to fall asleep
 
 ---
+
 [[Einschlaf]], [[Schlaf]], [[schlafen]], [[schläfrig]], [[Schlaflied]]
