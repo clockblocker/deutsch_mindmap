@@ -8,20 +8,20 @@ https://text-compare.com/
 [[C1-Schreiben-compare-versuch]]
 
 ###### T2-V1
-- [x] [[211-C1-Schreiben-Model|211]] Bildungsurlaub
-- [x] [[212-C1-Schreiben-Model|212]] Schließung der Kantine
-- [x] [[213-C1-Schreiben-Model|213]] Kein Arbeitsplatz in der Bibliothek
-- [x] [[214-C1-Schreiben-Model|214]] Praktikum
-- [ ] [[C1 Schreiben/v1/T2-V1/215-C1-Schreiben/215-C1-Schreiben-Model|215]] Schlecht Urlaub
-- [x] [[216-C1-Schreiben-Model|216]] Schlecht Hotel
+- [x] [[211-C1-Schreiben-Model|211-Text]] | [[211-LEGO]] Bildungsurlaub
+- [x] [[212-C1-Schreiben-Model|212-Text]] | [[212-LEGO]] Schließung der Kantine
+- [x] [[213-C1-Schreiben-Model|213-Text]] | [[213-LEGO]] Kein Arbeitsplatz in der Bibliothek
+- [x] [[214-C1-Schreiben-Model|214-Text]] | [[214-LEGO]] Praktikum
+- [x] [[215-C1-Schreiben-Model|215-Text]] | [[215-LEGO]] Schlecht Urlaub
+- [x] [[216-C1-Schreiben-Model|216-Text]] | [[216-LEGO]] Schlecht Hotel
 
 ###### T1-V1
-- [ ] [[111-C1-Schreiben-Model|111]] Soziale Medien – Fluxh oder Segen?
-- [ ] [[112-C1-Schreiben-Model|112]] Klimaschutz – aber wie?
-- [ ] [[113-C1-Schreiben-Model|113]] Familie + Arbeit
-- [ ] [[114-C1-Schreiben-Model|114]] Carsharing
-- [ ] [[C1 Schreiben/v1/T1-V1/115-C1-Schreiben/115-C1-Schreiben-Model|115]] Blue color jobs
-- [ ] [[116-C1-Schreiben-Model|116]] Kinder + handies
+- [ ] [[111-C1-Schreiben-Model|111-Text]] | [[111-LEGO]] Soziale Medien – Fluxh oder Segen?
+- [ ] [[112-C1-Schreiben-Model|112-Text]] | [[112-LEGO]] Klimaschutz – aber wie?
+- [ ] [[113-C1-Schreiben-Model|113-Text]] | [[113-LEGO]] Familie + Arbeit
+- [ ] [[114-C1-Schreiben-Model|114-Text]] | [[114-LEGO]] Carsharing
+- [ ] [[115-C1-Schreiben-Model|115-Text]] | [[115-LEGO]] Blue color jobs
+- [ ] [[116-C1-Schreiben-Model|116-Text]] | [[116-LEGO]] Kinder + handies
 
 ---
 [[bro-s-t1-root]]
@@ -40,7 +40,6 @@ T2-V0
 - [ ] [[102-C1-Schreiben-T1|102]] Klimaschutz – aber wie?
 - [ ] [[103-C1-Schreiben-T1|103]] Familie + Arbeit
 
-###### 
 
 ###### Shit
 - [ ] [[101-C1-Schreiben-T1|100]] Home-Office oder Arbeitsplatz im Büro einer Firma?

@@ -8,7 +8,7 @@
 
 Ich habe vollstes Verständnis dafür, dass die Bibliothek angesichts der Umbauarbeiten nicht alle Bedürfnisse berücksichtigen kann, insbesondere zum Jahresende, wenn die Zahl der Nutzer deutlich steigt.
 
-
+![[ElevenLabs_2025-06-13T06_13_31_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 
@@ -20,7 +20,7 @@ Ich habe vollstes Verständnis dafür, dass die Bibliothek angesichts der Umbaua
 
 Allerdings bin ich für die Durchführung meiner Dissertation auf einen ruhigen Arbeitsplatz mit stabilem Internet- und Stromanschluss angewiesen.
 
-
+![[ElevenLabs_2025-06-13T06_13_57_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 
@@ -32,8 +32,7 @@ Allerdings bin ich für die Durchführung meiner Dissertation auf einen ruhigen 
 
 Mein Studierendenwohnheim bietet diese Voraussetzungen leider nicht.
 
-
-
+![[ElevenLabs_2025-06-13T06_14_17_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 ---
@@ -44,7 +43,7 @@ Mein Studierendenwohnheim bietet diese Voraussetzungen leider nicht.
 
 Der Mangel an Steckdosen, zumal Powerbanks in der Bibliothek verboten sind, erschwert das Arbeiten für mich und alle Studierenden, deren Studium den Einsatz von Laptops erfordert, erheblich.
 
-
+![[ElevenLabs_2025-06-13T06_14_33_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 
@@ -56,8 +55,7 @@ Der Mangel an Steckdosen, zumal Powerbanks in der Bibliothek verboten sind, ersc
 
 Sollten derzeit keine zusätzlichen Steckdosen eingebaut werden können, schlage ich vor, die Nutzung von Powerbanks während der Umbauarbeiten zu erlauben.
 
-
-
+![[ElevenLabs_2025-06-13T06_15_06_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 ---
