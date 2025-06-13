@@ -1,5 +1,4 @@
 🔴 die [[Berufswahl]], [bəˈʁuːfsvɑːl]
-die [[Berufswahlen]]
 
 ---
 ---

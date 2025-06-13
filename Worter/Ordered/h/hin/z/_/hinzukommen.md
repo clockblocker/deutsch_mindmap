@@ -1,4 +1,3 @@
-
 ➕ [[hinzukommen]], [hɪnˈt͡suːˌkɔmən](https://youglish.com/pronounce/hinzukommen/german) → [[kam hinzu]] → [[hinzugekommen]]
 
 ---

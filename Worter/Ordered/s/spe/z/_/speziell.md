@@ -1,5 +1,4 @@
 --> 🧩 [[Grad-Wahrheit]] <--
-
 😤 [[speziellen]], [ʃpɛtsi̯ˈʔɛln̩], ≠ [[allgemein]]
 
 ---

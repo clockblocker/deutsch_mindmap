@@ -1,7 +1,5 @@
 --> 📈 [[Grad-Vergleich]] <--
-
-💜 [[verschiedene]], [fɛɐ̯ˈʃiːdənə] | [[verschieden]]
-nicht [[gleich]], nicht [[einheitlich]]
+💜 [[verschiedene]], [fɛɐ̯ˈʃiːdənə] | [[verschieden]] | nicht [[gleich]], nicht [[einheitlich]]
 
 ----
 ---

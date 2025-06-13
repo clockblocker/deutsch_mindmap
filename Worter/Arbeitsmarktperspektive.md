@@ -1,5 +1,4 @@
 📈 🔴 die [[Arbeitsmarktperspektive]], [ˈaʁbaɪ̯tsmaʁktpɛʁˌspɛktɪvə](https://youglish.com/pronounce/Arbeitsmarktperspektive/german)  
-die [[Arbeitsmarktperspektiven]]
 
 ---
 ---

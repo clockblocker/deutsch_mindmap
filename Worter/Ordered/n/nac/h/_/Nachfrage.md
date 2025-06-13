@@ -3,6 +3,8 @@
 ---
 ---
 
+*[[115-LEGO#^4|^]]* Wer sich für einen [[sogenannt]]en „Blue-Collar“-Beruf [[entscheidet]], profitiert von einer [[konstant]] hohen [[Nachfrage]] und [[gering]]erer [[Automatisierungsgefahr]]
+
 *[[115-LEGO#^9|^]]* `Vor` allem die [[Energiewende]] und das [[politisch]] [[forcierte]] Ziel, Millionen [[Wärmepumpe]]n in [[Altbau]]ten zu [[installieren]], [[befeuern]] die [[Nachfrage]] nach [[entsprechend]] [[geschulten]] [[Fachkräften]]
 
 

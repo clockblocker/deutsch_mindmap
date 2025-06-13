@@ -1,5 +1,4 @@
 💰 🔴 die [[Verdienstmöglichkeit]], [fɛɐ̯ˈdiːnstˌmøːklɪçkaɪ̯t](https://youglish.com/pronounce/Verdienstmöglichkeit/german)  
-die [[Verdienstmöglichkeiten]]
 
 ---
 ---

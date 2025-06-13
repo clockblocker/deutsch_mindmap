@@ -1,6 +1,14 @@
 👁️ [[wahrnehmen]], [ˈvaːɐ̯ˌneːmən](https://youglish.com/pronounce/wahrnehmen/german) → [[nahm wahr]] → haben [[wahrgenommen]]
 
+----
 ---
+
+*[[C1-Lesen-T2-100-Text#^8|^]]* Interessanterweise sind Wörter aus Jugendsprachen vergangener Generationen in das Standarddeutsch [[eingeflossen]] und werden kaum noch als umgangssprachlich, [[geschweige]] denn jugendsprachlich, [[wahrgenommen]]
+
+
+----
+
+
 Würde ein Kind das Überwachungsgeheimnis entdecken, *würden* seine Eltern `als` Femde `statt` Freunde [[wahrgenommen]] *werden*
 
 *[[C1-Hoehen-T3-403-Text#^6|^]]* Ihr Zugang zum Ökosystem achtet und respektiert Bäume und Pflanzen, die ganz bewusst als [[Lebewesen]] [[wahrgenommen]] und teilweise auch [[verehrt]] werden

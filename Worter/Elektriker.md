@@ -1,7 +1,8 @@
 👨‍🔧 🔵 der [[Elektriker]], [eˈlɛktʁɪkɐ](https://youglish.com/pronounce/Elektriker/german)  
-die [[Elektriker]]
 
 ---
+---
+
 *[[115-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz-Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]
 
 ---

@@ -1,5 +1,4 @@
 🎓 🔴 die [[Weiterbildungschance]], [ˈvaɪ̯tɐbɪldʊŋsˌʃaŋsə](https://youglish.com/pronounce/Weiterbildungschance/german)  
-die [[Weiterbildungschancen]]
 
 ---
 ----
