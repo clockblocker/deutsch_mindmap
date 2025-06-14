@@ -1,8 +1,14 @@
---> 📊 [[Grad-Verteilung]] <--
---> 🧩 [[Grad-Wahrheit]] <--
+--> 📊 [[Grad-Verteilung]] | 🧩 [[Grad-Wahrheit]] <--
+recht, [ˈʁɛçt] | nicht [[falsch]]
 
-recht, [ˈʁɛçt]
-nicht [[falsch]]
+----
+---
+
+*[[116-LEGO#^6|^]]* Auf der anderen Seite sind [[zahlreiche]] Psychologen der festen [[Überzeugung]], dass [[Überwachungssoftware]] nicht nur das [[Recht]] auf [[Privatsphäre]] des Kindes [[verletzt]], sondern [[zudem]] das [[Vertrauen]] `zwischen` Kindern und Eltern [[zerstört]]
+
+
+
+
 
 ---
 

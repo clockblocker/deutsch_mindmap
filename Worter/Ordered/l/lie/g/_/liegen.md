@@ -1,6 +1,18 @@
 🛌 [[liegen]], [ˈliːɡn̩](https://youglish.com/pronounce/liegen/german) → [[lag]] → [[gelegen]] | 🏠 die [[Lage]]
 
 ---
+---
+
+*[[114-LEGO#^5|^]]* `Auf` `der` anderen [[Seite]] kann [[Carsharing]] `mit` [[Unannehmlichkeit]]en [[verbunden]] sein: [[Manchmal]] sind [[verfügbar]]e [[Fahrzeug]]e nicht [[rechtzeitig]] [[buchbar]], die [[Rückgabeort]]e [[liegen]] [[ungünstig]] und [[kurzfristig]]e [[Preisspitze]]n machen das [[System]] [[unübersichtlich]]
+
+
+
+
+
+
+----
+
+
 *[[C1-Hoehen-T3-401-Text#^4|^]]* Es kommt schnell zu [[Überschwemmung]]en, da die Stadt am [[Fluss]] Chao Phraya [[liegt]], der große [[Wassermassen]] [[befördert]] und dann, wie alle großen Ströme, auch über seine [[Ufer]] [[treten]] kann
 
 *[[C1-Hoehen-T3-401-Text#^6|^]]* Er kann fast 4 Millionen Liter Wasser [[speichern]], da unter einem höher [[liegend]]en Teil dieser [[Grünanlage]] Wassertanks [[gebaut]] wurden

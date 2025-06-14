@@ -27,4 +27,4 @@ A: die [[Ausführung]], die [[Ausführungen]]
 G: der [[Ausführung]], der [[Ausführungen]]
 D: der [[Ausführung]], den [[Ausführungen]]
 
-#Feminin , [[Vollzug]], [[Fahrzeugtyp]]
+#Feminin , [[Vollzug]], [[Fahrzeugtyp]], [[Fahrzeugmodell]]

@@ -1,12 +1,15 @@
-[[bestehen]], [[sein]], [[fehlen]], [[Leben]], [[befinden]], [[gelten]], [[vorliegen]], [[überleben]], [[stehen]], [[geschehen]], [[vorkommen]], [[sterben]]
-
 ✨ [[existieren]], [ɛksɪsˈtiːʁən] | [[existierte]], haben [[existiert]]
 
 ---
-
 ---
 
-= [[bestehen]], [[vorhanden sein]], [[geben]]
+*[[114-LEGO#^8|^]]* In vielen [[Städten]] [[existieren]] [[bereits]] Fahrrad- und E-Scooter-Sharing–[[Angebot]]e, die den Sharing-[[Gedanke]]n [[erfolgreich]] [[ausgeweitet]] haben
+
+
+
+
+----
+= [[bestehen]], [[vorhanden sein]], [[geben]], [[bestehen]], [[sein]], [[fehlen]], [[Leben]], [[befinden]], [[gelten]], [[vorliegen]], [[überleben]], [[stehen]], [[geschehen]], [[vorkommen]], [[sterben]]
 ≈ [[sein]], [[auftreten]], [[vorkommen]], [[funktionieren]]
 ≠ [[verschwinden]], [[aufhören]], [[aussterben]], [[untergehen]]
 

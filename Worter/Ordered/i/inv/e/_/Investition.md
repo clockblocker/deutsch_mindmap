@@ -1,1 +1,1 @@
-, [[Einsatzes]], [[Anlage]], [[Aufwand]], [[Kapitalanlage]], [[Geldanlage]], [[Wertanlage]]
+, [[Einsatzes]], [[Anlage]], [[Aufwand]], [[Kapitalanlage]], [[Geldanlage]], [[Wertanlage]], [[Anschaffungskosten]]

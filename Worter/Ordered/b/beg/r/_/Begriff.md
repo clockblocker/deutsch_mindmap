@@ -6,6 +6,7 @@
 *[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]
 
 
+*[[116-LEGO#^5|^]]* Seit dem [[Auftauchen]] des [[Begriff]]s „iPad-Kind“ sind die [[Lesefähigkeit]]en vieler Kinder [[deutlich]] [[gesunken]]
 
 
 

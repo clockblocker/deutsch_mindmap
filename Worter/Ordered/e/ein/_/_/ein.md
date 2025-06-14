@@ -14,4 +14,4 @@
 • Nominative: [[Artikels_/ein]]
 • Accusative: [[Artikels_/ein]]
 • Genitive: [[eines]]
-• Dative: [[einem]], [[auseinandersetzen]], [[einwenden]], [[Markteinführung]], [[einnicken]], [[hineinversetzen]], [[Einnahme]], [[Eintauchen]], [[Eindämmung]], [[alteingesessen]], [[eintreten]], [[einprogrammieren]], [[einspeisen]], [[Festeinstellung]], [[Einarbeitung]], [[einschüchtern]], [[Eingeborene]], [[Inneneinrichtung]], [[Beeinträchtigung]]
+• Dative: [[einem]], [[auseinandersetzen]], [[einwenden]], [[Markteinführung]], [[einnicken]], [[hineinversetzen]], [[Einnahme]], [[Eintauchen]], [[Eindämmung]], [[alteingesessen]], [[eintreten]], [[einprogrammieren]], [[einspeisen]], [[Festeinstellung]], [[Einarbeitung]], [[einschüchtern]], [[Eingeborene]], [[Inneneinrichtung]], [[Beeinträchtigung]], [[vereinfachen]]

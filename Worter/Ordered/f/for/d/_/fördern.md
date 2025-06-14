@@ -4,6 +4,9 @@
 ---
 ----
 
+*[[114-LEGO#^4|^]]* [[Zudem]] [[fördern]] [[gemeinsam]]e [[Fahrzeugflotte]]n eine [[effizient]]ere [[Auslastung]] und [[verringern]] CO₂-[[Emission]]en, `da` [[wenig]]er [[privat]]e [[Pkw]] [[dauerhaft]] `im` [[Straßenverkehr]] [[unterwegs]] sind
+
+
 *[[212-LEGO#^1|^]]* ich habe vollstes Verständnis dafür, dass geplante [[Funktionsräume]] die [[intern]]e [[Kommunikation]] [[fördern]] – ein [[Aspekt]], der im [[Arbeitsalltag]] [[unabdingbar]] ist
 
 

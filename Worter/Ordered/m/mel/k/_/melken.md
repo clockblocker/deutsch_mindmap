@@ -11,4 +11,4 @@
 
 *Verb* 🐄 [[melken]]*Verb* 🐄 [[melken]]
  *Verb* 🐄 [[melken]] *Verb* 🐄 [[melken]]
-[[schloss]]
+[[schloss]], [[gewinnen]]

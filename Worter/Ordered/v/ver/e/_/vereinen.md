@@ -1,6 +1,16 @@
 🤝 [[vereinen]], [fɛɐ̯ˈaɪ̯nən] | [[vereinte]], haben [[vereint]]
 
 ---
+---
+
+*[[116-LEGO#^3|^]]* Es stellt sich die Frage: Wie kann ein Kind ohne die [[Sicherheit]] seiner Eltern der [[vereinten]] [[Kraft]] der [[sogenannt]]en „Big-Tech“-[[Aufmerksamkeitsökonomie]] [[widerstehen]]?
+
+
+
+
+
+---
+
 *[[C1-Hoehen-T3-402-Text#^8|^]]* Allerdings gibt es 21 nicht bindende [[Richtlinie]]n für das [[Verhalten]] im All, [[erarbeitet]] von einem Komitee der [[Vereinten]] Nationen für die friedliche [[Nutzung]] des [[Weltraums]]
 
 ---

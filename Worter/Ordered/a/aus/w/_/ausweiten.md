@@ -1,8 +1,14 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
-
 ↔️ [[ausweiten]], [ˈaʊ̯sˌvaɪ̯tn̩](https://youglish.com/pronounce/ausweiten/german) → [[weitete aus]] → [[ausgeweitet]]
 
 ---
+---
+
+*[[114-LEGO#^8|^]]* In vielen [[Städten]] [[existieren]] [[bereits]] Fahrrad- und E-Scooter-Sharing–[[Angebot]]e, die den Sharing-[[Gedanke]]n [[erfolgreich]] [[ausgeweitet]] haben
+
+
+
+
 *[[C1-Hoehen-T3-403-Text#^3|^]]* In Südamerika [[ausweiten|weitet]] sich eine Landwirtschaft sehr rasch aus, die die [[Holzwirtschaft]] bedroht
 
 ---

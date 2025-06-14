@@ -1,1 +1,1 @@
-, [[geistig]]
+, [[geistig]], [[psychologisch]]

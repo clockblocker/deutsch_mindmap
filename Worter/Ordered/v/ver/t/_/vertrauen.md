@@ -1,6 +1,16 @@
 🤝 [[vertrauen]], [fɛɐ̯ˈtʁaʊ̯ən] | [[vertraute]], haben [[vertraut]]
 
 ---
+---
+
+*[[116-LEGO#^6|^]]* Auf der anderen Seite sind [[zahlreiche]] Psychologen der festen [[Überzeugung]], dass [[Überwachungssoftware]] nicht nur das [[Recht]] auf [[Privatsphäre]] des Kindes [[verletzt]], sondern [[zudem]] das [[Vertrauen]] `zwischen` Kindern und Eltern [[zerstört]]
+
+
+*[[116-LEGO#^10|^]]* [[Abschließend]] lässt sich sagen, dass `neben` der [[Sicherheit]] des Kindes auch die [[Aspekt]]e seiner [[psychologisch]]en [[Entwicklung]] und des [[Vertrauen]]s in die Familie [[beachtet]] werden müssen, `um` die [[Entscheidung]] `über` die [[Überwachung]] zu [[beurteilen]]
+
+
+
+---
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]
 
 *[[C1-Hoehen-T2-202-Text#^12|^]]* Wie äußert sich denn ein [[gering]]es [[Vertrauen]] in die Politik? ^12
@@ -44,4 +54,6 @@ PI: [[vertrauend]], PII: [[vertraut]], Zu+inf: [[zu vertrauen]]
 [[Vertrauen]], [[vertrauenswürdig]], [[vertraulich]], [[Vertrauensperson]]
 , [[Vertrauensschwund]], [[fürchten]], [[Befürchtung]], [[mangeln]], [[gegenseitig]]
 
-#Feminin , [[Vertraulichkeit]], [[Geborgenheit]], [[Überzeugung]], [[Schnüffelgeschäft]], [[Hoffnung]], [[Zuversicht]], [[Vertrautheit]], [[erhoffen]], [[anzweifeln]], [[Eifersucht]]
+#Neuter 
+
+, [[Vertraulichkeit]], [[Geborgenheit]], [[Überzeugung]], [[Schnüffelgeschäft]], [[Hoffnung]], [[Zuversicht]], [[Vertrautheit]], [[erhoffen]], [[anzweifeln]], [[Eifersucht]]

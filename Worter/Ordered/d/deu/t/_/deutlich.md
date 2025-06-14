@@ -16,6 +16,20 @@
 *[[112-LEGO#^1|^]]* In den [[vergangen]]en zehn Jahren wurden in [[nahezu]] jedem Sommer neue [[Temperaturrekord]]e [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]
 
 
+
+*[[116-LEGO#^5|^]]* Seit dem [[Auftauchen]] des [[Begriff]]s „iPad-Kind“ sind die [[Lesefähigkeit]]en vieler Kinder [[deutlich]] [[gesunken]]
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 *[[111-C1-Schreiben-Model#^10|^]]* So wird [[etwa]] die [[konstant]]e Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] angesehen
 

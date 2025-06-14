@@ -1,1 +1,1 @@
-, [[Stadtverwaltung]], [[Stadt]], [[Verstädterung]]
+, [[Stadtverwaltung]], [[Stadt]], [[Verstädterung]], [[städtisch]]

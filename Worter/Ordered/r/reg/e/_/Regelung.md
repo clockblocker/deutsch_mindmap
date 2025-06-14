@@ -35,4 +35,4 @@ G: der [[Regelung]], der [[Regelungen]]
 D: der [[Regelung]], den [[Regelungen]]
 
 
-#Feminin , [[Ausnahmeregelung]], [[Einzelfallregelung]], [[Umweltstandard]], [[Regel]]
+#Feminin , [[Ausnahmeregelung]], [[Einzelfallregelung]], [[Umweltstandard]], [[Regel]], [[Handyverbot]]

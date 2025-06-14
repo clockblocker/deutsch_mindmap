@@ -36,4 +36,4 @@ G: der [[Technik]], der [[Techniken]]
 D: der [[Technik]], den [[Techniken]]
 
 
-#Feminin 
+#Feminin , [[Haushaltsgerät]]

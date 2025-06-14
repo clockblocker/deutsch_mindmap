@@ -1,5 +1,14 @@
 🎭 [[darstellen]], [ˈdaːɐ̯ˌʃtɛlən] | [[stellte dar]], haben [[dargestellt]]
 
+----
+---
+
+*[[114-LEGO#^10|^]]* Auf diese [[Weise]] würde Carsharing nicht nur eine [[Notlösung]] [[darstellen]], sondern zu einem [[integral]]en [[Bestandteil]] [[nachhaltig]]er [[Verkehrssystem]]e werden
+
+
+
+
+
 ---
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^1|^]]* _Deutschland ist schon lange ein_ [[Einwanderungsland]] _und für viele Migrantinnen und Migranten_ [[darstellen|stellt]] _die deutsche Sprache eine besondere_ [[Hürde]] _dar. ^1
 

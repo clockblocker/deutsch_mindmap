@@ -1,1 +1,1 @@
-, [[Buchen]], [[Tannenbaum]], [[Linde]]
+, [[buchen]], [[Tannenbaum]], [[Linde]]

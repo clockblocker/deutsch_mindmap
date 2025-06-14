@@ -1,6 +1,17 @@
 🤔 [[auftauchen]], [ˈaʊ̯fˌtaʊ̯xən](https://youglish.com/pronounce/auftauchen/german) → [[tauchte auf]] → sind [[aufgetaucht]]
 
 ---
+---
+
+*[[116-LEGO#^5|^]]* Seit dem [[Auftauchen]] des [[Begriff]]s „iPad-Kind“ sind die [[Lesefähigkeit]]en vieler Kinder [[deutlich]] [[gesunken]]
+
+
+
+
+
+
+
+---
 *Seit dem* [[Auftauchen]] des Begriffs “iPad-Kind”*sind* die [[Lesefähigkeiten]] überall [[gesunken]].
 
 [[Witzig]]es [[auftaucht|taucht]] nur am [[Rand]]e auf.

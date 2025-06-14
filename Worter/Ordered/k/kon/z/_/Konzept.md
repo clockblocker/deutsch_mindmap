@@ -1,1 +1,1 @@
-, [[Gedanke]], [[Vorstellung]], [[Begriff]], [[Urkunde]], [[Geschäftsidee]], [[Arbeitsmodell]], [[Lösungsansatz]], [[Modell]], [[Arbeitskonzept]], [[Skizze]], [[Lernmodell]]
+, [[Gedanke]], [[Vorstellung]], [[Begriff]], [[Urkunde]], [[Geschäftsidee]], [[Arbeitsmodell]], [[Lösungsansatz]], [[Modell]], [[Arbeitskonzept]], [[Skizze]], [[Lernmodell]], [[Mobilitätskonzept]]

@@ -2,6 +2,13 @@
 ✅ [[effizient]], [ɛfiˈt͡si̯ɛnt](https://youglish.com/pronounce/effizient/german)
 
 ---
+---
+
+*[[114-LEGO#^4|^]]* [[Zudem]] [[fördern]] [[gemeinsam]]e [[Fahrzeugflotte]]n eine [[effizient]]ere [[Auslastung]] und [[verringern]] CO₂-[[Emission]]en, `da` [[wenig]]er [[privat]]e [[Pkw]] [[dauerhaft]] `im` [[Straßenverkehr]] [[unterwegs]] sind
+
+
+
+---
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^12|^]]* So kann der [[effiziente]] [[Einsatz]] digitaler [[Technologie]]n [[optimal]] mit dem [[unschätzbaren]] [[Wert]] [[zwischenmenschlicher]] [[Kontakte]] [[verbunden]] werden. ^12
 
 

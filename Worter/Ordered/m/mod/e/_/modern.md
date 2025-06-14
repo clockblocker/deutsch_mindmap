@@ -35,3 +35,4 @@ Einzigartige mögliche Formen:
 
 [[uralte]], [[zeitgenössische]], [[preußisch]], [[neu]]
 , [[althochdeutsch]], [[überholt]], [[jahrhundertealt]], [[dörflich]], [[urig]], [[traditionsgemäß]]
+, [[digital]]

@@ -1,6 +1,14 @@
 --> 📈 [[Grad-Vergleich]] <--
-
 👥 [[manche]], [ˈmanxə] | [[Artikelwörter]]
+
+----
+---
+
+*[[114-LEGO#^6|^]]* [[Außerdem]] [[fühlen]] `sich` [[manche]] [[Nutzer]] [[angesichts]] [[wechsel]]nder [[Fahrzeugmodell]]e und [[fehlen]]der [[Personalisierung]] [[wenig]]er [[sicher]] `als` `mit` dem [[eigen]]en [[Pkw]]. ^6
+
+
+
+
 
 ---
 

@@ -1,5 +1,15 @@
 🌱 [[umweltfreundlich]], [ˈʊmvɛltˌfʁɔɪ̯ntlɪç](https://youglish.com/pronounce/umweltfreundlich/german)
 
+----
+---
+
+*[[114-LEGO#^2|^]]* Viele Menschen sehen [[darin]] eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigen]]en [[Auto]], die [[zugleich]] [[Kost]]en [[senkt]] und [[städtisch]]en [[Platzbedarf]] [[reduziert]]
+
+
+
+
+
+
 ---
 *[[C1-Lesen-T2-301-Text#^6|^]]* Greenwashing ist eine Methode, die von Unternehmen genutzt wird, um ihre Produkte [[umweltfreundlich]]er zu machen
 

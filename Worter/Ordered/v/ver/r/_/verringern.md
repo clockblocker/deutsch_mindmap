@@ -2,6 +2,14 @@
 📉 [[verringern]], [fɛɐ̯ˈʁɪŋɐn](https://youglish.com/pronounce/verringern/german) | [[verringerte]], haben [[verringert]]
 
 ---
+---
+
+*[[114-LEGO#^4|^]]* [[Zudem]] [[fördern]] [[gemeinsam]]e [[Fahrzeugflotte]]n eine [[effizient]]ere [[Auslastung]] und [[verringern]] CO₂-[[Emission]]en, `da` [[wenig]]er [[privat]]e [[Pkw]] [[dauerhaft]] `im` [[Straßenverkehr]] [[unterwegs]] sind
+
+
+
+
+----
 *[[Golfstorm#^15|^]]* Durch [[zusätzliches]] Süßwasser wird das [[Verhältnis]] von Temperatur und Salz im Meerwasser gestört, was [[wiederum]] die Stärke der Strömungen [[verringert]].
 
 Der Bonus von **Fokusrune** [[verringert]] sich mit jeder Sekunde (-**10%**/Sekunde).

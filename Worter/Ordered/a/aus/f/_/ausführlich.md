@@ -38,3 +38,4 @@ Plural: [[ausführlichen]], [[ausführlicheren]], [[ausführlichsten]]
 
 [[Ausführlichkeit]], [[ausführen]], [[Ausführung]]
 🧐 [[ausführen]] | 🔵 der [[Ausführliche]], [[Ausführlich]], [[komplett]], [[stundenlang]], [[differenziert]]
+, [[abschließen]]

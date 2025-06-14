@@ -49,3 +49,4 @@ PI: [[anmeldend]], PII: [[angemeldet]], Zu+inf: [[anzumelden]]
 ---
 
 [[Anmeldung]], [[Anmelder]], [[Anmelderin]], [[anmeldbar]], [[Anmeldetermin]], [[Einwohnermeldeamt]], [[zurückziehen]]
+, [[buchen]]

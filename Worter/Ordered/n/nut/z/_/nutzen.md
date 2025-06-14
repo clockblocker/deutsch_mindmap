@@ -54,3 +54,4 @@ D: dem [[Nutzen]], den [[Nutzen]]
 
 Partizip I: [[nutzend]], Partizip II: [[genutzt]]
 Prosessed the word nutzen. Identified it as Verb (Untrennbar). Picked the emoji 🛠️ because the word relates to using or utilizing something.
+, [[Internetnutzung]]

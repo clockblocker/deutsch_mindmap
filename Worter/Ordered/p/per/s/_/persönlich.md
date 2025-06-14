@@ -12,6 +12,10 @@
 *[[112-LEGO#^9|^]]* [[Abschließend]] lässt sich sagen, dass `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, `um` [[realistisch]]e [[persönlich]]e [[Maßnahme]]n `gegen` den [[Klimawandel]] [[vorzuschlagen]]
 
 
+*[[116-LEGO#^1|^]]* Heute wird kontrovers darüber diskutiert, ob Eltern ihre Kinder [[mithilfe]] einer [[Überwachungssoftware]] [[kontrollieren]] sollten oder ob eine solche [[Maßnahme]] als große [[Überschreitung]] [[persönlich]]er Grenzen [[angesehen]] werden muss
+
+
+
 ---
 = [[privat]], [[individuell]], [[eigen]]
 ≈ [[vertraulich]], [[persönlich]], [[selbst]]
@@ -36,4 +40,4 @@ personal, in person
 Adjektive: [[persönlich]], [[persönlicher]], [[persönlichst]]
 
 ---
-[[persönlicher]], [[persönliches]], [[persönliche]], [[persönlichen]], [[persönlichem]], [[persönlicherer]], [[persönlicheres]], [[persönlichere]], [[persönlicheren]], [[persönlicherem]], [[persönlichster]], [[persönlichstes]], [[persönlichste]], [[persönlichsten]], [[persönlichstem]], [[Führungspersönlichkeit]], [[demografisch]], [[aus meiner Sicht]]
+[[persönlicher]], [[persönliches]], [[persönliche]], [[persönlichen]], [[persönlichem]], [[persönlicherer]], [[persönlicheres]], [[persönlichere]], [[persönlicheren]], [[persönlicherem]], [[persönlichster]], [[persönlichstes]], [[persönlichste]], [[persönlichsten]], [[persönlichstem]], [[Führungspersönlichkeit]], [[demografisch]], [[aus meiner Sicht]], [[abschließen]]

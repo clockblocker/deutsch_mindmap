@@ -1,1 +1,1 @@
-, [[rekordverdächtig]], [[Temperaturrekord]]
+, [[rekordverdächtig]], [[Temperaturrekord]], [[Preisspitze]]

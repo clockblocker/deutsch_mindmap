@@ -1,6 +1,13 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
+🤝 [[Mithilfe]], [ˈmɪtˌhɪlfə](https://youglish.com/pronounce/Mithilfe/german) 
 
-🤝 [[Mithilfe]], [ˈmɪtˌhɪlfə](https://youglish.com/pronounce/Mithilfe/german) 🔴
+---
+---
+
+*[[116-LEGO#^1|^]]* Heute wird kontrovers darüber diskutiert, ob Eltern ihre Kinder [[mithilfe]] einer [[Überwachungssoftware]] [[kontrollieren]] sollten oder ob eine solche [[Maßnahme]] als große [[Überschreitung]] [[persönlich]]er Grenzen [[angesehen]] werden muss
+
+
+
 
 ---
 *[[1 lesen StadtTours#^5|^]]* Die teilnehmenden Besucherinnen und Besucher [[erhalten]] [[Einblicke]] in kulturelle, politische und wirtschaftliche [[Zusammenhänge]] und bekommen so ein [[facettenreiches]] Bild von historischen [[Entwicklungen]] und Bräuchen der Stadt, die z. B. auch 2 [[mithilfe]] von Fotos oder Anekdoten [[veranschaulicht]] werden. ^5

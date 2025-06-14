@@ -1,2 +1,2 @@
 , [[lösen]]
-, [[ausrechnen]], [[veranschaulichen]], [[verdeutlichen]], [[verschärfen]]
+, [[ausrechnen]], [[veranschaulichen]], [[verdeutlichen]], [[verschärfen]], [[vereinfachen]]

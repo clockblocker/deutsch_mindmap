@@ -1,6 +1,12 @@
 ⚖️ [[beurteilen]], [bəˈʔʊʁtaɪ̯lən] | [[beurteilte]], haben [[beurteilt]]
 
 ---
+---
+
+*[[116-LEGO#^10|^]]* [[Abschließend]] lässt sich sagen, dass `neben` der [[Sicherheit]] des Kindes auch die [[Aspekt]]e seiner [[psychologisch]]en [[Entwicklung]] und des [[Vertrauen]]s in die Familie [[beachtet]] werden müssen, `um` die [[Entscheidung]] `über` die [[Überwachung]] zu [[beurteilen]]
+
+
+---
 Sie können mein Niveau selbst [[beurteilen]]. You can judge my level for youself
 
 ---

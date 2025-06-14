@@ -1,1 +1,2 @@
 💡 [[anwenden]] | 💡 [[angewandt]]
+, [[abschließen]]

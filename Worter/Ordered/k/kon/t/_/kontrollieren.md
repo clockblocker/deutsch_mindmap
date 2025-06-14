@@ -1,7 +1,14 @@
 --> [[Ingredient-Pflege]] <--
 🔍 [[kontrollieren]] + Akk, [kɔntʁɔˈliːʁən]
-[[kontrollierte]]
-haben [[kontrolliert]]
+
+---
+---
+
+*[[116-LEGO#^1|^]]* Heute wird kontrovers darüber diskutiert, ob Eltern ihre Kinder [[mithilfe]] einer [[Überwachungssoftware]] [[kontrollieren]] sollten oder ob eine solche [[Maßnahme]] als große [[Überschreitung]] [[persönlich]]er Grenzen [[angesehen]] werden muss
+
+
+
+
 
 ---
 

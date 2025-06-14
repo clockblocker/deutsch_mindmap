@@ -33,4 +33,4 @@ D: der [[Verwendung]], den [[Verwendungen]]
 ---
 [[verwenden]], [[verwendbar]], [[Verwendungszweck]], [[Verwendungsart]], [[zweckentfremdete Verwendung]], [[Handhabung]], [[Bedienung]], [[Verwertung]], [[weiterverwenden]]
 
-#Feminin 
+#Feminin , [[Internetnutzung]]

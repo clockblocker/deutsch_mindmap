@@ -29,4 +29,4 @@ G: des [[Parkplatzes]], der [[Parkplätze]]
 D: dem [[Parkplatz]], den [[Parkplätzen]]
 
 
-#Maskulin 
+#Maskulin , [[Parkplatzsuche]]

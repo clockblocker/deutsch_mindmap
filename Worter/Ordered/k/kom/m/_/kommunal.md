@@ -1,1 +1,1 @@
-, [[öffentlich]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Stadträte]], [[Kommune]], [[Kommunalwahlen]], [[Bezirksverordnetenversammlung]], [[Bürgerversammlung]]
+, [[öffentlich]], [[Gemeindeverwaltung]], [[Gemeinderat]], [[Stadträte]], [[Kommune]], [[Kommunalwahlen]], [[Bezirksverordnetenversammlung]], [[Bürgerversammlung]], [[städtisch]]

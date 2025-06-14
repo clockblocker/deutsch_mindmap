@@ -1,5 +1,15 @@
 🔗 [[verknüpfen]], [fɛɐ̯ˈknʏp͡fn̩](https://youglish.com/pronounce/verknüpfen/german) → [[verknüpfte]] → [[verknüpft]]
 
+----
+---
+
+*[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netz]]e besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]
+
+
+
+
+
+
 ---
 *[[C1-Hoehen-T1-102-Text#^3|^]]* Es [[verknüpft]], wie alle meine [[Empfehlung]]en heute, Wirtschaft mit Ethik
 
@@ -45,4 +55,4 @@ sie, [[verknüpfen]], [[verknüpften]], [[verknüpfen]], [[verknüpften]], [[ver
 Adjektive: [[verknüpfend]], [[verknüpfender]], [[verknüpfendst]]
 
 ---
-[[verknüpfender]], [[verknüpfendes]], [[verknüpfende]], [[verknüpfenden]], [[verknüpfendem]], [[verknüpfenderer]], [[verknüpfenderes]], [[verknüpfendere]], [[verknüpfenderen]], [[verknüpfenderem]], [[verknüpfendster]], [[verknüpfendstes]], [[verknüpfendste]], [[verknüpfendsten]], [[verknüpfendstem]], [[behaften]]
+[[verknüpfender]], [[verknüpfendes]], [[verknüpfende]], [[verknüpfenden]], [[verknüpfendem]], [[verknüpfenderer]], [[verknüpfenderes]], [[verknüpfendere]], [[verknüpfenderen]], [[verknüpfenderem]], [[verknüpfendster]], [[verknüpfendstes]], [[verknüpfendste]], [[verknüpfendsten]], [[verknüpfendstem]], [[behaften]], [[abschließen]]

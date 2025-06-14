@@ -2,7 +2,13 @@
 
 ♻️ [[nachhaltig]], [ˈnaːxˌhaltɪç](https://youglish.com/pronounce/nachhaltig/german) ≠ [[unhaltbar]]
 
+----
 ---
+
+*[[114-LEGO#^10|^]]* Auf diese [[Weise]] würde Carsharing nicht nur eine [[Notlösung]] [[darstellen]], sondern zu einem [[integral]]en [[Bestandteil]] [[nachhaltig]]er [[Verkehrssystem]]e werden
+
+
+
 *[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus
 
 *[[C1-Hoehen-T3-402-Text#^18|^]]* Private Raumfahrtunternehmen wie SpaceX und Blue Origin [[tüfteln]] an [[nachhaltig]]en Innovationen für ihre Raketen

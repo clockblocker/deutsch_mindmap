@@ -35,4 +35,4 @@ G: der [[Maschine]], der [[Maschinen]]
 D: der [[Maschine]], den [[Maschinen]]
 
 
-#Feminin 
+#Feminin , [[Haushaltsgerät]]

@@ -1,1 +1,1 @@
-, [[Umsatz]], [[Erlös]]
+, [[Umsatz]], [[Erlös]], [[Anschaffungskosten]]

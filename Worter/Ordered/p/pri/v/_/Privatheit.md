@@ -1,1 +1,1 @@
-, [[Bürgerei]], [[Medium]]
+, [[Bürgerei]], [[Medium]], [[Privatsphäre]]

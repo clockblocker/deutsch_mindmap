@@ -1,1 +1,1 @@
-, [[verbuchen]], [[Buchhaltungsbereich]]
+, [[verbuchen]], [[Buchhaltungsbereich]], [[buchen]], [[Buchungsprozess]]

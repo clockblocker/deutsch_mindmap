@@ -57,4 +57,4 @@ Partizip I: [[entwickelnd]], Partizip II: [[entwickelt]]
 
 , [[allmählich]], [[ursprünglich]]
 
-[[Säugling]]
+[[Säugling]], [[Entwicklungsproblem]]

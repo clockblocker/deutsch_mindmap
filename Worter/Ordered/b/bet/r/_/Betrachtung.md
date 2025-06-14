@@ -1,1 +1,1 @@
-, [[betrachten]], [[Hinblick]], [[beträchtlich]], [[Überlegung]], [[in Betracht ziehen]]
+, [[betrachten]], [[Hinblick]], [[beträchtlich]], [[Überlegung]], [[in Betracht ziehen]], [[Beobachtung]], [[Erwägung]]

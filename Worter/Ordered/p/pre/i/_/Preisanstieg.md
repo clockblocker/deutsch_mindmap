@@ -29,3 +29,4 @@ G: des [[Preisanstiegs]], der [[Preisanstiege]]
 D: dem [[Preisanstieg]], den [[Preisanstiegen]]
 
 #Maskulin 
+, [[Preisspitze]]

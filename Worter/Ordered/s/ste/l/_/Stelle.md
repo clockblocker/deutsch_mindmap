@@ -34,4 +34,4 @@ D: der [[Stelle]], den [[Stellen]]
 ---
 [[stellen]], [[stellvertretend]], [[Stellvertretung]], [[Stellenanzeige]], [[stellenweise]], [[stehen]],  [[Arbeitsstelle]], [[Stellenwert]], [[abstellen]], [[Punkt]]
 
-#Feminin , [[Meridianpunkt]], [[Textstelle]], [[Ausbildungsstelle]], [[Anstellung]], [[Schwachstelle]], [[Beschäftigungsmöglichkeit]]
+#Feminin , [[Meridianpunkt]], [[Textstelle]], [[Ausbildungsstelle]], [[Anstellung]], [[Schwachstelle]], [[Beschäftigungsmöglichkeit]], [[Rückgabeort]]

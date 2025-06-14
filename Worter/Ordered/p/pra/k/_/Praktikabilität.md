@@ -31,4 +31,4 @@ G: der [[Praktikabilität]], -
 D: der [[Praktikabilität]], -
 
 
-#Feminin 
+#Feminin , [[abschließen]]

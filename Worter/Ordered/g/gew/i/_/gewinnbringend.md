@@ -1,1 +1,1 @@
-, [[Gewinn]], [[wirtschaftlich]], [[erfolglos]]
+, [[Gewinn]], [[wirtschaftlich]], [[erfolglos]], [[gewinnen]]

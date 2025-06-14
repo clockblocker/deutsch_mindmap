@@ -1,6 +1,15 @@
 --> ⚠️ [[Grad-Risiko]] <--
 🌟 [[sicher]], [ˈzɪçɐ]
-nicht [[unsicher]]
+
+---
+---
+
+*[[114-LEGO#^6|^]]* [[Außerdem]] [[fühlen]] `sich` [[manche]] [[Nutzer]] [[angesichts]] [[wechsel]]nder [[Fahrzeugmodell]]e und [[fehlen]]der [[Personalisierung]] [[wenig]]er [[sicher]] `als` `mit` dem [[eigen]]en [[Pkw]]
+
+
+
+
+
 
 ---
 Sie machen das Haus [[sicher]].

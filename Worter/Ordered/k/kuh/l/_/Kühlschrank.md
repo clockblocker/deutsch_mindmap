@@ -27,3 +27,4 @@ Einzigartige mögliche Formen: [[Kühlschranks]], [[Kühlschränke]], [[Kühlsch
 ---
 
 #Substantiv #Maskulin[[Schrank]]
+, [[Haushaltsgerät]]

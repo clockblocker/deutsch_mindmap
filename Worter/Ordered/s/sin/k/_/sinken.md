@@ -10,6 +10,8 @@
 *[[113-LEGO#^3|^]]* Diese [[finanziell]]en und [[logistisch]]en [[Schwierigkeit]]en können `als` [[möglich]]e [[Ursache]] `für` die [[gesunken]]e [[Geburtenrate]] [[gelten]]
 
 
+*[[116-LEGO#^5|^]]* Seit dem [[Auftauchen]] des [[Begriff]]s „iPad-Kind“ sind die [[Lesefähigkeit]]en vieler Kinder [[deutlich]] [[gesunken]]
+
 
 
 

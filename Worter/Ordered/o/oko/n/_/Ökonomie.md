@@ -1,1 +1,1 @@
-, [[Wirtschaft]], [[Verschwendung]], [[Sparsamkeit]], [[Volkswirtschaft]]
+, [[Wirtschaft]], [[Verschwendung]], [[Sparsamkeit]], [[Volkswirtschaft]], [[Aufmerksamkeitsökonomie]]

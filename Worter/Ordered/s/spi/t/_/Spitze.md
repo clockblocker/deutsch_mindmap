@@ -63,3 +63,4 @@ Morpheme:
 
 Einzigartige mögliche Formen:
 [[spitze]], [[spitzere]], [[spitzeste]], [[spitzeren]], [[spitzerem]], [[spitzerer]], [[spitzeren]], [[Speerende]], [[toll]], [[Spitzenposition]], [[Pitch]], [[Vorarbeit]], [[weltbest]], [[Spitzensportlerin]]
+, [[Preisspitze]]

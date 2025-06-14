@@ -1,6 +1,16 @@
 🤸 [[flexibel]], [flɛˈksiːbl̩](https://youglish.com/pronounce/flexibel/german)
 
 ---
+---
+
+*[[114-LEGO#^1|^]]* In den letzten Jahren hat [[Carsharing]] als [[flexible]]s [[Mobilitätskonzept]] [[zunehmend]] an [[Bedeutung]] [[gewonnen]]
+
+
+
+
+
+----
+
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^3|^]]* Ein Beispiel für Maßnahmen zur Stressreduktion ist die [[Einführung]] [[flexibler]] Arbeitszeiten und die Möglichkeit, im Homeoffice oder in hybriden [[Arbeitsmodellen]] zu arbeiten. ^3
 
 

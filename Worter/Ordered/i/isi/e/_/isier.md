@@ -1,1 +1,1 @@
-, [[Realisierung]], [[pathologisieren]], [[Demokratisierung]], [[digitalisieren]]
+, [[Realisierung]], [[pathologisieren]], [[Demokratisierung]], [[digitalisieren]], [[Personalisierung]]

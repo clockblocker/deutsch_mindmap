@@ -1,1 +1,1 @@
-, [[Übergangslösung]]
+, [[Übergangslösung]], [[Notlösung]]

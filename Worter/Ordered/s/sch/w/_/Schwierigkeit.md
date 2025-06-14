@@ -49,4 +49,4 @@ Dative: der [[Schwierigkeit]], den [[Schwierigkeiten]]
 [[schwierig]], [[erschweren]], [[vereinfachen]], [[meistern]], [[Herausforderung]], [[schwer]], [[Gegenwind]], [[Nachteil]], [[Engpass]], [[Bedrängnis]], [[Beschwernis]], [[Hauptproblem]]
 
 
-#Feminin , [[Kopfzerbrechen]], [[Einstellungshürde]], [[Unannehmlichkeit]]
+#Feminin , [[Kopfzerbrechen]], [[Einstellungshürde]], [[Unannehmlichkeit]], [[Entwicklungsproblem]]

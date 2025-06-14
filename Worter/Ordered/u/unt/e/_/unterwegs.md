@@ -1,6 +1,12 @@
 [[unterwegs]], [ˈʊntɐˌveːks]
 
 ---
+---
+
+*[[114-LEGO#^4|^]]* [[Zudem]] [[fördern]] [[gemeinsam]]e [[Fahrzeugflotte]]n eine [[effizient]]ere [[Auslastung]] und [[verringern]] CO₂-[[Emission]]en, `da` [[wenig]]er [[privat]]e [[Pkw]] [[dauerhaft]] `im` [[Straßenverkehr]] [[unterwegs]] sind
+
+
+---
 
 Na, er ist ja groß genug und muß [[eben]] [[unterwegs]] gut aufpassen.
 

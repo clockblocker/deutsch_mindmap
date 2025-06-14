@@ -51,4 +51,4 @@ Dative: der [[Umwelt]], den [[Umwelten]]
 [[umweltfreundlich]], [[umweltbewusst]], [[Umweltschutz]], [[Umweltverschmutzung]], [[Umweltpolitik]], [[Luftverschmutzung]], [[Umweltbelastung]], [[Klimabedingung]]
 
 #Feminin , [[Arbeitsumgebung]], [[Grünsteuer]], [[gen]], [[Erbgut]], [[Umwelteinfluss]]
-, [[Umweltzertifikat]], [[Umweltfreundlichkeit]], [[Umweltstandard]], [[Umweltsünde]], [[Umweltverhalten]], [[Lebensbereich]], [[Umweltschutzgesetz]], [[Lebensraum]], [[umweltschonend]]
+, [[Umweltzertifikat]], [[Umweltfreundlichkeit]], [[Umweltstandard]], [[Umweltsünde]], [[Umweltverhalten]], [[Lebensbereich]], [[Umweltschutzgesetz]], [[Lebensraum]], [[umweltschonend]], [[abschließen]]

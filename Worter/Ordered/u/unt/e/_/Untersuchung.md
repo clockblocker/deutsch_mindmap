@@ -48,4 +48,4 @@ D: der [[Untersuchung]], den [[Untersuchungen]]
 ,  [[ergeben]], [[Studie]], [[Abstrich]]
 
 #Feminin , [[Erkundung]], [[Abhandlung]], [[Auswertung]], [[Erhebung]]
-, [[Marktforschung]], [[Marktbeobachtung]], [[Konsumforschung]], [[Erprobung]]
+, [[Marktforschung]], [[Marktbeobachtung]], [[Konsumforschung]], [[Erprobung]], [[Beobachtung]]

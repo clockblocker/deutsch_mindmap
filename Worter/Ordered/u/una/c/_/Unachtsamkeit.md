@@ -1,1 +1,1 @@
---> [[🗣️ Ingredient-Meinung]] <--, [[Lebenswandel]]
+--> [[🗣️ Ingredient-Meinung]] <--, [[Lebenswandel]], [[Erwägung]]

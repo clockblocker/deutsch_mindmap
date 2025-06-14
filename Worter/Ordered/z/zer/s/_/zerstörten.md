@@ -1,5 +1,16 @@
 🏚️ [[zerstören]], [tsɛɐ̯ˈʃtøːʁən] | [[zerstörte]], haben [[zerstört]]
 
+----
+---
+
+*[[116-LEGO#^2|^]]* `Auf` `der` einen [[Seite]] [[vertreten]] viele Wissenschaftler den [[Standpunkt]], dass die [[Entwicklung]] der [[Empfehlungsalgorithmen]] in sozialen [[Netzwerk]]en das [[natürlich]]e [[Aufwachsen]] `von` Kindern [[zerstört]]
+
+
+*[[116-LEGO#^6|^]]* Auf der anderen Seite sind [[zahlreiche]] Psychologen der festen [[Überzeugung]], dass [[Überwachungssoftware]] nicht nur das [[Recht]] auf [[Privatsphäre]] des Kindes [[verletzt]], sondern [[zudem]] das [[Vertrauen]] `zwischen` Kindern und Eltern [[zerstört]]
+
+
+
+
 ---
 *[[Atom#^6|^]]* Nun soll er in der Mitte [[durchtrennt]] werden. *Und [[zerstört]] werden*, so die Aktivisten
 

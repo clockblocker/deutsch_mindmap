@@ -1,1 +1,1 @@
-, [[kern]], [[Inhalt]], [[Kernkraft]], [[Mittelpunkt]], [[Kerngeschäft]]
+, [[kern]], [[Inhalt]], [[Kernkraft]], [[Mittelpunkt]], [[Kerngeschäft]], [[zentral]]

@@ -42,4 +42,4 @@ D: dem [[Gerät]], den [[Geräten]]
 [[geräten]], [[gerätetechnisch]], [[Geräteraum]], [[Gerätschaft]], [[Werkzeug]], [[Zeug]], [[geraten]], [[Tool]]
 
 
-#Neuter , [[Drucker]], [[Fernbedienung]], [[Diagnosegerät]]
+#Neuter , [[Drucker]], [[Fernbedienung]], [[Diagnosegerät]], [[Haushaltsgerät]]

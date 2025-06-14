@@ -1,1 +1,1 @@
-, [[verbessern]], [[weiterentwickeln]]
+, [[verbessern]], [[weiterentwickeln]], [[vereinfachen]]

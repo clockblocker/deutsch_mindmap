@@ -1,7 +1,13 @@
-gemeinsam, [gəˈmaɪ̯nzaːm]
-nicht [[getrennt]]
+gemeinsam, [gəˈmaɪ̯nzaːm] | nicht [[getrennt]]
 
 ---
+---
+
+*[[114-LEGO#^4|^]]* [[Zudem]] [[fördern]] [[gemeinsam]]e [[Fahrzeugflotte]]n eine [[effizient]]ere [[Auslastung]] und [[verringern]] CO₂-[[Emission]]en, `da` [[wenig]]er [[privat]]e [[Pkw]] [[dauerhaft]] `im` [[Straßenverkehr]] [[unterwegs]] sind
+
+
+
+----
 
 Sie wurde [[gemeinsam]] von Historikern und ehemaligen DDR-Bürgern zusammengestellt.
 

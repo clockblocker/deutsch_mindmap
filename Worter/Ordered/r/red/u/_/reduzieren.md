@@ -1,9 +1,13 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
-
 📉 [[reduzieren]], [ʁeˈduːt͡siːʁən](https://youglish.com/pronounce/reduzieren/german) → [[reduzierte]] → haben [[reduziert]]
 
 ---
-reduzieren
+---
+
+*[[114-LEGO#^2|^]]* Viele Menschen sehen [[darin]] eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigen]]en [[Auto]], die [[zugleich]] [[Kost]]en [[senkt]] und [[städtisch]]en [[Platzbedarf]] [[reduziert]]
+
+
+
 
 ---
 = [[verringern]], [[senken]], [[mindern]]
@@ -46,4 +50,4 @@ sie, [[reduzieren]], [[reduzierten]], [[reduzieren]], [[reduzierten]], [[reduzie
 Adjektive: [[reduzierend]], [[reduzierender]], [[reduzierendst]]
 
 ---
-[[reduzierender]], [[reduzierendes]], [[reduzierende]], [[reduzierenden]], [[reduzierendem]], [[reduzierenderer]], [[reduzierenderes]], [[reduzierendere]], [[reduzierenderen]], [[reduzierenderem]], [[reduzierendster]], [[reduzierendstes]], [[reduzierendste]], [[reduzierendsten]], [[reduzierendstem]], [[verlangsamen]], [[verstärken]], [[vermehren]], [[ausbauen]], [[hochtreiben]], [[Abspecken]], [[rabattieren]], [[nachlassen]]
+[[reduzierender]], [[reduzierendes]], [[reduzierende]], [[reduzierenden]], [[reduzierendem]], [[reduzierenderer]], [[reduzierenderes]], [[reduzierendere]], [[reduzierenderen]], [[reduzierenderem]], [[reduzierendster]], [[reduzierendstes]], [[reduzierendste]], [[reduzierendsten]], [[reduzierendstem]], [[verlangsamen]], [[verstärken]], [[vermehren]], [[ausbauen]], [[hochtreiben]], [[Abspecken]], [[rabattieren]], [[nachlassen]], [[vereinfachen]]

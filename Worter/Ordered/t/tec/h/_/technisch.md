@@ -30,4 +30,4 @@ technical, technological
 Adjektive: [[technisch]], [[technischer]], [[technischst]]
 
 ---
-[[technischer]], [[technisches]], [[technische]], [[technischen]], [[technischem]], [[technischerer]], [[technischeres]], [[technischere]], [[technischeren]], [[technischerem]], [[technischster]], [[technischstes]], [[technischste]], [[technischsten]], [[technischstem]]
+[[technischer]], [[technisches]], [[technische]], [[technischen]], [[technischem]], [[technischerer]], [[technischeres]], [[technischere]], [[technischeren]], [[technischerem]], [[technischster]], [[technischstes]], [[technischste]], [[technischsten]], [[technischstem]], [[digital]]

@@ -1,6 +1,17 @@
 ✅ [[verfügbar]], [fɛɐ̯ˈfyːɐ̯baːɐ̯] ≠ [[nicht verfügbar]]
 
 ---
+---
+
+*[[114-LEGO#^5|^]]* `Auf` `der` anderen [[Seite]] kann [[Carsharing]] `mit` [[Unannehmlichkeit]]en [[verbunden]] sein: [[Manchmal]] sind [[verfügbar]]e [[Fahrzeug]]e nicht [[rechtzeitig]] [[buchbar]], die [[Rückgabeort]]e [[liegen]] [[ungünstig]] und [[kurzfristig]]e [[Preisspitze]]n machen das [[System]] [[unübersichtlich]]
+
+
+
+
+
+
+---
+
 Die Demoversion unseres "E-Ledger" Projekts ist seit drei Tagen im [[intern]]en [[Produktionssystem]] [[verfügbar]], aber ohne Ihre [[Grobplanung]] kann ich die Präsentation nicht [[vorbereiten]]. 
 
 Mach dir keine Sorgen über die [[erforderlichen]] [[Abonnements]] - die [[überwiegende]] [[Mehrheit]] der kostenpflichtigen Artikel ist in Internetarchiven kostenlos [[verfügbar]].

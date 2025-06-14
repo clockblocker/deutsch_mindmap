@@ -34,4 +34,4 @@ Adjektive: [[komplett]], [[kompletter]], [[komplettest]]
 [[kompletter]], [[komplettes]], [[komplette]], [[kompletten]], [[komplettem]], [[kompletterer]], [[kompletteres]], [[komplettere]], [[kompletteren]], [[kompletterem]], [[komplettester]], [[komplettestes]], [[kompletteste]], [[komplettesten]], [[komplettestem]]
 
 [[jeden]], [[ganz]], [[völlig]], [[halbes]], [[voll]], [[gesamt]], [[Sektor]], [[stück]], [[sämtlich]], [[insgesamt]], [[übrig]], [[teilweise]], [[ausnahmslos]]
-, [[vollwertig]]
+, [[vollwertig]], [[integral]]

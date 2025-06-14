@@ -1,1 +1,1 @@
-, [[Lösung]], [[Möglichkeit]], [[Ausgang]]
+, [[Lösung]], [[Möglichkeit]], [[Ausgang]], [[Notlösung]]

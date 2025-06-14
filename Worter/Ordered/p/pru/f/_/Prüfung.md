@@ -37,4 +37,4 @@ D: der [[Prüfung]], den [[Prüfungen]]
 , [[Schularbeit]], [[überprüfen]]
 
 #Feminin , [[Abwägung]], [[Widerstandsmessung]], [[Prüfungsteil]]
-, [[Überprüfbarkeit]], [[Analyse]], [[Lehrmaterial]], [[Erprobung]]
+, [[Überprüfbarkeit]], [[Analyse]], [[Lehrmaterial]], [[Erprobung]], [[Erwägung]]

@@ -1,5 +1,14 @@
-💞 🔴 die [[Beziehung]], [bəˈtsiːʊŋ](https://youglish.com/pronounce/Beziehung/german)
-die [[Beziehungen]]
+💞 die [[Beziehung]], [bəˈtsiːʊŋ](https://youglish.com/pronounce/Beziehung/german)
+
+----
+---
+
+*[[116-LEGO#^8|^]]* Meiner [[Ansicht]] nach gibt es keine [[allgemeingültig]]e Lösung: Alter des Kindes, sein Charakter und die Art seiner [[Beziehung]] `zu` den Eltern sind in der Kosten-Nutzen-Analyse [[entscheidend]]. ^8
+
+
+
+
+
 
 ---
 Der Kommissar hat eine [[ambivalent]]e [[Beziehung]] zur Unterwelt.  

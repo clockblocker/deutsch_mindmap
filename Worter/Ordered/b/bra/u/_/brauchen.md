@@ -1,6 +1,19 @@
 --> [[Ingredient-Verben-Bedürfnis]] <--
-
 🙏 [[brauchen]], [ˈbʁaʊ̯xn̩](https://youglish.com/pronounce/brauchen/german) → [[brauchte]] → haben [[gebraucht]]
+
+---
+---
+
+*[[114-LEGO#^3|^]]* `Auf` `der` einen [[Seite]] [[entscheiden]] `sich` viele Nutzer:innen `für` [[Carsharing]], weil es ihnen [[ermöglicht]], genau dann ein [[Fahrzeug]] zu [[buchen]], wenn sie es [[brauchen]], ohne sich `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen
+
+
+
+
+
+
+
+
+
 
 ---
 ###### 4 [[Der gestiefelte Kater.md######4|Der gestiefelte Kater.md]]

@@ -68,4 +68,4 @@ PI: [[berücksichtigend]], PII: [[berücksichtigt]], Zu+inf: [[zu berücksichtig
 [[berücksichtigen]] - [[be]] = [[Rücksicht]] / to consider, to take into account
 
 ---
-[[Berücksichtigung]], [[rücksichtsvoll]], [[Rücksicht]], [[sichtig]], [[beachten]], [[einzigartig]], [[Schulabgänger]], [[übergehen]], [[ernstnehmen]]
+[[Berücksichtigung]], [[rücksichtsvoll]], [[Rücksicht]], [[sichtig]], [[beachten]], [[einzigartig]], [[Schulabgänger]], [[übergehen]], [[ernstnehmen]], [[in Erwägung ziehen]]

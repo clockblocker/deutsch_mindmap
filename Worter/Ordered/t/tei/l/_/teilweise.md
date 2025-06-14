@@ -39,3 +39,4 @@ Adjektive: [[teilweise]], [[teilweiser]], [[teilweisest]]
 ---
 
 [[teilweiseer]], [[teilweisees]], [[teilweisee]], [[teilweiseen]], [[teilweiseem]], [[teilweiserer]], [[teilweiseres]], [[teilweisere]], [[teilweiseren]], [[teilweiserem]], [[teilweisester]], [[teilweisestes]], [[teilweiseste]], [[teilweisesten]], [[teilweisestem]]
+, [[integral]]

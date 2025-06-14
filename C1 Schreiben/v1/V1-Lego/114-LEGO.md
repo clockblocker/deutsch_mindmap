@@ -4,7 +4,7 @@
 ---
 ---
 
-*[[114-LEGO#^1|^]]* In den letzten Jahren hat [[Carsharing]] als [[flexible]]s [[Mobilitätskonzept]] [[zunehmend]] an [[Bedeutung]] [[gewonnen]]. ^1
+*[[114-LEGO#^1|^]]* In den letzten Jahren hat [[Carsharing]] als [[flexible]]s [[Mobilitätskonzept]] [[zunehmend]] `an` [[Bedeutung]] [[gewonnen]]. ^1
 
 
 In den letzten Jahren hat Carsharing als flexibles Mobilitätskonzept zunehmend an Bedeutung gewonnen.
@@ -18,7 +18,7 @@ In den letzten Jahren hat Carsharing als flexibles Mobilitätskonzept zunehmend 
 ---
 ---
 
-*[[114-LEGO#^2|^]]* Viele Menschen sehen [[darin]] eine [[umweltfreundliche]] [[Alternativ]]e `zum` [[eigen]]en [[Auto]], die [[zugleich]] [[Kosten]] senkt und [[städtisch]]en [[Platzbedarf]] [[reduziert]]. ^2
+*[[114-LEGO#^2|^]]* Viele Menschen sehen [[darin]] eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigen]]en [[Auto]], die [[zugleich]] [[Kost]]en [[senkt]] und [[städtisch]]en [[Platzbedarf]] [[reduziert]] ^2
 
 
 Viele Menschen sehen darin eine umweltfreundliche Alternative zum eigenen Auto, die zugleich Kosten senkt und städtischen Platzbedarf reduziert.
@@ -32,7 +32,7 @@ Viele Menschen sehen darin eine umweltfreundliche Alternative zum eigenen Auto, 
 ---
 ---
 
-*[[114-LEGO#^3|^]]* `Auf` der einen Seite [[entscheiden]] `sich` viele Nutzer:innen `für` Carsharing, weil es ihnen [[ermöglicht]], genau dann ein [[Fahrzeug]] zu buchen, wenn sie es brauchen, ohne sich `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen. ^3
+*[[114-LEGO#^3|^]]* `Auf` `der` einen [[Seite]] [[entscheiden]] `sich` viele Nutzer:innen `für` [[Carsharing]], weil es ihnen [[ermöglicht]], genau dann ein [[Fahrzeug]] zu [[buchen]], wenn sie es [[brauchen]], ohne `sich` `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen ^3
 
 
 Auf der einen Seite entscheiden sich viele Nutzer:innen für Carsharing, weil es ihnen ermöglicht, genau dann ein Fahrzeug zu buchen, wenn sie es brauchen, ohne sich um Wartung, Versicherung oder Parkplatzsuche kümmern zu müssen.
@@ -46,7 +46,7 @@ Auf der einen Seite entscheiden sich viele Nutzer:innen für Carsharing, weil es
 ---
 ---
 
-*[[114-LEGO#^4|^]]* Zudem fördern gemeinsame Fahrzeugflotten eine effizientere Auslastung und verringern CO₂-Emissionen, da weniger private Pkw dauerhaft im Straßenverkehr unterwegs sind. ^4
+*[[114-LEGO#^4|^]]* [[Zudem]] [[fördern]] [[gemeinsam]]e [[Fahrzeugflotte]]n eine [[effizient]]ere [[Auslastung]] und [[verringern]] CO₂-[[Emission]]en, `da` [[wenig]]er [[privat]]e [[Pkw]] [[dauerhaft]] `im` [[Straßenverkehr]] [[unterwegs]] sind. ^4
 
 
 Zudem fördern gemeinsame Fahrzeugflotten eine effizientere Auslastung und verringern CO₂-Emissionen, da weniger private Pkw dauerhaft im Straßenverkehr unterwegs sind.
@@ -60,7 +60,7 @@ Zudem fördern gemeinsame Fahrzeugflotten eine effizientere Auslastung und verri
 ---
 ---
 
-*[[114-LEGO#^5|^]]* Auf der anderen Seite kann Carsharing mit Unannehmlichkeiten verbunden sein: Manchmal sind verfügbare Fahrzeuge nicht rechtzeitig buchbar, die Rückgabeorte liegen ungünstig und kurzfristige Preisspitzen machen das System unübersichtlich. ^5
+*[[114-LEGO#^5|^]]* `Auf` `der` anderen [[Seite]] kann [[Carsharing]] `mit` [[Unannehmlichkeit]]en [[verbunden]] sein: [[Manchmal]] sind [[verfügbar]]e [[Fahrzeug]]e nicht [[rechtzeitig]] [[buchbar]], die [[Rückgabeort]]e [[liegen]] [[ungünstig]] und [[kurzfristig]]e [[Preisspitze]]n machen das [[System]] [[unübersichtlich]]. ^5
 
 
 Auf der anderen Seite kann Carsharing mit Unannehmlichkeiten verbunden sein: Manchmal sind verfügbare Fahrzeuge nicht rechtzeitig buchbar, die Rückgabeorte liegen ungünstig und kurzfristige Preisspitzen machen das System unübersichtlich.
@@ -74,7 +74,7 @@ Auf der anderen Seite kann Carsharing mit Unannehmlichkeiten verbunden sein: Man
 ---
 ---
 
-*[[114-LEGO#^6|^]]* Außerdem fühlen sich manche Nutzer angesichts wechselnder Fahrzeugmodelle und fehlender Personalisierung weniger sicher als mit dem eigenen Pkw. ^6
+*[[114-LEGO#^6|^]]* [[Außerdem]] [[fühlen]] `sich` [[manche]] [[Nutzer]] [[angesichts]] [[wechsel]]nder [[Fahrzeugmodell]]e und [[fehlen]]der [[Personalisierung]] [[wenig]]er [[sicher]] `als` `mit` dem [[eigen]]en [[Pkw]]. ^6
 
 
 Außerdem fühlen sich manche Nutzer angesichts wechselnder Fahrzeugmodelle und fehlender Personalisierung weniger sicher als mit dem eigenen Pkw.
@@ -88,7 +88,7 @@ Außerdem fühlen sich manche Nutzer angesichts wechselnder Fahrzeugmodelle und 
 ---
 ---
 
-*[[114-LEGO#^7|^]]* Nicht nur Autos, sondern auch Fahrräder, Werkzeuge oder sogar Haushaltsgeräte könnten Ihrer Ansicht nach geteilt werden, um Ressourcen zu schonen und die Anschaffungskosten zu senken. ^7
+*[[114-LEGO#^7|^]]* `Nicht nur` [[Auto]]s, `sondern` `auch` [[Fahrräder]], [[Werkzeug]]e `oder` `sogar` [[Haushaltsgerät]]e könnten Ihrer [[Ansicht]] `nach` [[geteilt]] werden, `um` [[Ressource]]n zu [[schonen]] und die [[Anschaffungskosten]] zu [[senken]]. ^7
 
 
 Nicht nur Autos, sondern auch Fahrräder, Werkzeuge oder sogar Haushaltsgeräte könnten Ihrer Ansicht nach geteilt werden, um Ressourcen zu schonen und die Anschaffungskosten zu senken.
@@ -102,7 +102,7 @@ Nicht nur Autos, sondern auch Fahrräder, Werkzeuge oder sogar Haushaltsgeräte 
 ---
 ---
 
-*[[114-LEGO#^8|^]]* In vielen Städten existieren bereits Fahrrad- und E-Scooter-Sharing–Angebote, die den Sharing-Gedanken erfolgreich ausgeweitet haben. ^8
+*[[114-LEGO#^8|^]]* In vielen [[Städten]] [[existieren]] [[bereits]] Fahrrad- und E-Scooter-Sharing–[[Angebot]]e, die den Sharing-[[Gedanke]]n [[erfolgreich]] [[ausgeweitet]] haben. ^8
 
 
 In vielen Städten existieren bereits Fahrrad- und E-Scooter-Sharing–Angebote, die den Sharing-Gedanken erfolgreich ausgeweitet haben.
@@ -116,7 +116,7 @@ In vielen Städten existieren bereits Fahrrad- und E-Scooter-Sharing–Angebote,
 ---
 ---
 
-*[[114-LEGO#^9|^]]* Abschließend könnte Carsharing in der Mobilität der Zukunft eine zentrale Rolle spielen, wenn es gelingt, Netze besser zu verknüpfen, Ladesäuleninfrastruktur für E-Fahrzeuge auszubauen und Buchungsprozesse zu vereinfachen. ^9
+*[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]. ^9
 
 
 Abschließend könnte Carsharing in der Mobilität der Zukunft eine zentrale Rolle spielen, wenn es gelingt, Netze besser zu verknüpfen, Ladesäuleninfrastruktur für E-Fahrzeuge auszubauen und Buchungsprozesse zu vereinfachen.
@@ -130,7 +130,7 @@ Abschließend könnte Carsharing in der Mobilität der Zukunft eine zentrale Rol
 ---
 ---
 
-*[[114-LEGO#^10|^]]* Auf diese Weise würde Carsharing nicht nur eine Notlösung darstellen, sondern zu einem integralen Bestandteil nachhaltiger Verkehrssysteme werden. ^10
+*[[114-LEGO#^10|^]]* Auf diese [[Weise]] würde Carsharing nicht nur eine [[Notlösung]] [[darstellen]], sondern zu einem [[integral]]en [[Bestandteil]] [[nachhaltig]]er [[Verkehrssystem]]e werden. ^10
 
 
 Auf diese Weise würde Carsharing nicht nur eine Notlösung darstellen, sondern zu einem integralen Bestandteil nachhaltiger Verkehrssysteme werden.

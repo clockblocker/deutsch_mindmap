@@ -1,1 +1,1 @@
-, [[weit]], [[gründlich]], [[gesamt]], [[begrenzt]], [[allgemein]], [[lediglich]], [[umfangreich]], [[umfassen]], [[systemisch]], [[weitreichend]], [[pauschal]]
+, [[weit]], [[gründlich]], [[gesamt]], [[begrenzt]], [[allgemein]], [[lediglich]], [[umfangreich]], [[umfassen]], [[systemisch]], [[weitreichend]], [[pauschal]], [[integral]]

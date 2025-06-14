@@ -1,1 +1,1 @@
-, [[Kauf]], [[Verkauf]], [[Erwerb]]
+, [[Kauf]], [[Verkauf]], [[Erwerb]], [[Anschaffungskosten]]

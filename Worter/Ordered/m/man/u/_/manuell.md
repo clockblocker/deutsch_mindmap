@@ -24,4 +24,4 @@ manual
 Adjektive: [[manuell]], [[manueller]], [[manuellst]]
 
 ---
-[[manueller]], [[manuelles]], [[manuelle]], [[manuellen]], [[manuellem]], [[manuellerer]], [[manuelleres]], [[manuellere]], [[manuelleren]], [[manuellerem]], [[manuellster]], [[manuellstes]], [[manuellste]], [[manuellsten]], [[manuellstem]], [[computergesteuert]], [[handwerklich]]
+[[manueller]], [[manuelles]], [[manuelle]], [[manuellen]], [[manuellem]], [[manuellerer]], [[manuelleres]], [[manuellere]], [[manuelleren]], [[manuellerem]], [[manuellster]], [[manuellstes]], [[manuellste]], [[manuellsten]], [[manuellstem]], [[computergesteuert]], [[handwerklich]], [[digital]]

@@ -26,4 +26,4 @@ A: den [[Stoffwechselprozess]], die [[Stoffwechselprozesse]]
 G: des [[Stoffwechselprozesses]], der [[Stoffwechselprozesse]]
 D: dem [[Stoffwechselprozess]], den [[Stoffwechselprozessen]]
 
-#Maskulin 
+#Maskulin , [[Wechsel]]

@@ -28,4 +28,4 @@ A: den [[Stoffwechselmechanismus]], die [[Stoffwechselmechanismen]]
 G: des [[Stoffwechselmechanismus]], der [[Stoffwechselmechanismen]]
 D: dem [[Stoffwechselmechanismus]], den [[Stoffwechselmechanismen]]
 
-#Maskulin 
+#Maskulin , [[Wechsel]]

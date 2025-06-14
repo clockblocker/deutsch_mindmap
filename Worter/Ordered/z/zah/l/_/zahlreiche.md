@@ -12,6 +12,10 @@ zahlreiche, [ˈtsaːlˌʁaɪ̯çə] = nicht [[wenige]]
 *[[112-LEGO#^3|^]]* `Auf` `der` einen [[Seite]] [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] [[persönlich]]e [[Maßnahme]]n `zum` [[Schutz]] der [[Umwelt]] gibt
 
 
+*[[116-LEGO#^6|^]]* Auf der anderen Seite sind [[zahlreiche]] Psychologen der festen [[Überzeugung]], dass [[Überwachungssoftware]] nicht nur das [[Recht]] auf [[Privatsphäre]] des Kindes [[verletzt]], sondern [[zudem]] das [[Vertrauen]] `zwischen` Kindern und Eltern [[zerstört]]. ^6
+
+
+
 
 
 

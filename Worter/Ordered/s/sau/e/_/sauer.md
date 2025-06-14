@@ -12,3 +12,4 @@
 
 - _Die_ [[Flexion/Adjektiv/s/a/sauerstee|sauerstee]] _Mutter und ein_ [[Flexion/Adjektiv/s/a/sauersteer|sauersteer]] _Sohn gaben_ [[Flexion/Adjektiv/s/a/sauersteem|sauersteem]] _Vater ein_ [[Flexion/Adjektiv/s/a/sauerstees|sauerstees]] _Geschenk_ [[Flexion/Adjektiv/s/a/sauersteen|sauersteen]] _Onkels_
   , [[angenehm]], [[versauen]], [[Sauerstoff]]
+, [[abschließen]]

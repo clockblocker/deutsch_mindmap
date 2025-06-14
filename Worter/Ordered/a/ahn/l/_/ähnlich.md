@@ -49,4 +49,4 @@ N: [[ähnliches]], [[ähnlicheres]], [[ähnlichstes]]
 P: [[ähnlichen]], [[ähnlicheren]], [[ähnlichsten]]  
 
 ---
-[[Ähnlichkeit]], [[ähneln]], [[unähnlich]], [[annähernd]], [[vergleichen]], [[ebenso]], [[derartig]], [[gleichaltrig]], [[dergleichen]], [[gleichnamig]], [[Textstelle]]
+[[Ähnlichkeit]], [[ähneln]], [[unähnlich]], [[annähernd]], [[vergleichen]], [[ebenso]], [[derartig]], [[gleichaltrig]], [[dergleichen]], [[gleichnamig]], [[Textstelle]], [[abschließen]]

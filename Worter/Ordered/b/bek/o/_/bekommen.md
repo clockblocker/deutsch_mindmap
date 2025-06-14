@@ -46,4 +46,4 @@ PI: [[bekommend]], PII: [[bekommen]], Zu+inf: [[zu bekommen]]
 
 , [[erhalten]], [[erben]], [[versenden]]
 , [[zusammenbekommen]]
-, [[erwerben]], [[einnehmen]], [[erleiden]], [[zustehen]], [[entgehen]], [[verdanken]]
+, [[erwerben]], [[einnehmen]], [[erleiden]], [[zustehen]], [[entgehen]], [[verdanken]], [[gewinnen]]

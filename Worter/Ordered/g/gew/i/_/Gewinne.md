@@ -1,1 +1,1 @@
-, [[Gewinn]]
+, [[Gewinn]], [[gewinnen]]

@@ -1,7 +1,11 @@
-😠 🔵 der [[Gegner]], [ˈɡeːɡnɐ](https://youglish.com/pronounce/Gegner/german)
-die [[Gegner]]
+😠 der [[Gegner]], [ˈɡeːɡnɐ](https://youglish.com/pronounce/Gegner/german)
 
 ---
+---
+
+*[[116-LEGO#^7|^]]* Würde ein Kind `von` der [[Überwachung]] [[erfahren]], [[wahrnehmen|nähmen]] es seine Eltern [[eher]] `als` [[Gegner]] `denn` `als` [[Freund]]e wahr
+
+
 *[[bro-schrieben-c1-t1-001#^7|^]]* Es gibt auch [[weiter]]e [[Aspekt]]e [[außer]] Doping, die einen [[fair]]en [[Konkurrenzkampf]] [[beeinträchtigen]] könnten, [[nämlich]] eine [[Vergiftung]] des [[Gegner]]s, z. B. im [[Pferdesport]]
 
 ---

@@ -11,6 +11,11 @@
 
 
 
+*[[116-LEGO#^3|^]]* Es stellt sich die Frage: Wie kann ein Kind ohne die [[Sicherheit]] seiner Eltern der [[vereinten]] [[Kraft]] der [[sogenannt]]en „Big-Tech“-[[Aufmerksamkeitsökonomie]] [[widerstehen]]?
+
+
+
+
 
 ---
 

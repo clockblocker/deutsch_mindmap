@@ -1,6 +1,19 @@
 🔗 [[zudem]], [ˈt͡suːˌdeːm]
 
 ---
+---
+
+*[[114-LEGO#^4|^]]* [[Zudem]] [[fördern]] [[gemeinsam]]e [[Fahrzeugflotte]]n eine [[effizient]]ere [[Auslastung]] und [[verringern]] CO₂-[[Emission]]en, `da` [[wenig]]er [[privat]]e [[Pkw]] [[dauerhaft]] `im` [[Straßenverkehr]] [[unterwegs]] sind
+
+
+*[[116-LEGO#^6|^]]* Auf der anderen Seite sind [[zahlreiche]] Psychologen der festen [[Überzeugung]], dass [[Überwachungssoftware]] nicht nur das [[Recht]] auf [[Privatsphäre]] des Kindes [[verletzt]], sondern [[zudem]] das [[Vertrauen]] `zwischen` Kindern und Eltern [[zerstört]]
+
+
+
+---
+
+
+
 Heute ist es kalt und [[zudem]] gibt es Regen.
 
 *[[C1-Lesen-T2-101-Text#^1|^]]* In der Studie wird [[zudem]] betont, dass Kinder auch eine Möglichkeit zum [[Herumtollen]] haben müssen – und das weniger in Schulen oder Kindergärten. ^1

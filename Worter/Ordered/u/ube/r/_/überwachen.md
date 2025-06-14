@@ -44,3 +44,4 @@ PI: [[überwachend]], PII: [[überwacht]], Zu+inf: [[überzuwachen]]
 ---
 
 [[Überwachung]], [[Überwacher]], [[überwachbar]], [[Überwachungsgerät]], [[Kontrollsystem]], [[ausspionieren]]
+, [[Überwachungssoftware]]

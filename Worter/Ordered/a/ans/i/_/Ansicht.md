@@ -1,7 +1,15 @@
 --> [[🗣️ Ingredient-Meinung]] <--
+die [[Ansicht]], [ˈanˌzɪçt]
 
-🔴 die [[Ansicht]], [ˈanˌzɪçt]
-die [[Ansichten]]
+---
+---
+
+*[[114-LEGO#^7|^]]* `Nicht nur` [[Auto]]s, `sondern` `auch` [[Fahrräder]], [[Werkzeug]]e `oder` `sogar` [[Haushaltsgerät]]e könnten Ihrer [[Ansicht]] `nach` [[geteilt]] werden, `um` [[Ressource]]n zu [[schonen]] und die [[Anschaffungskosten]] zu [[senken]]
+
+
+*[[116-LEGO#^8|^]]* Meiner [[Ansicht]] nach gibt es keine [[allgemeingültig]]e Lösung: Alter des Kindes, sein Charakter und die Art seiner [[Beziehung]] `zu` den Eltern sind in der Kosten-Nutzen-Analyse [[entscheidend]]. ^8
+
+
 
 ---
 Wir treffen eine [[Entscheidung]], [[nachdem]] jeder seine [[Ansichten]] mit uns [[geteilt]] hat.

@@ -30,4 +30,4 @@ G: des [[Prozesses]], der [[Prozesse]]
 D: dem [[Prozess]], den [[Prozessen]]
 
 
-#Maskulin , [[Verdrängungsprozess]], [[Arbeitsablauf]], [[Produktionsprozess]], [[Montageprozess]]
+#Maskulin , [[Verdrängungsprozess]], [[Arbeitsablauf]], [[Produktionsprozess]], [[Montageprozess]], [[Buchungsprozess]]

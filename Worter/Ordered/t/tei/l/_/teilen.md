@@ -1,6 +1,16 @@
 🍰 [[teilen]] + Akk, [ˈtaɪ̯ln̩]
-[[teilte]]  
-haben [[geteilt]]
+
+---
+---
+
+*[[114-LEGO#^7|^]]* `Nicht nur` [[Auto]]s, `sondern` `auch` [[Fahrräder]], [[Werkzeug]]e `oder` `sogar` [[Haushaltsgerät]]e könnten Ihrer [[Ansicht]] `nach` [[geteilt]] werden, `um` [[Ressource]]n zu [[schonen]] und die [[Anschaffungskosten]] zu [[senken]]
+
+
+
+
+
+
+
 
 ---
 
@@ -42,3 +52,4 @@ Morpheme: Teil]], [[en]]
 Partizip I: [[teilend]], Partizip II: [[geteilt]]
 
 [[teilen]] - Teil]] = [[en]], [[beteiligen]], [[Eiserner Vorhang]], [[gliedern]], [[durchtrennen]], [[spalten]], [[teilweise]], [[einteilen]]
+, [[Carsharing]]

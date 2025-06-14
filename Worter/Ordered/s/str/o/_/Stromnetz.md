@@ -1,1 +1,1 @@
-, [[Energieversorgung]]
+, [[Energieversorgung]], [[Ladesäuleninfrastruktur]]

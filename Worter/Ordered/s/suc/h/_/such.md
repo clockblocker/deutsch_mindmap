@@ -1,4 +1,4 @@
 [[aussuchen]]
 
 [[suchen]], [[versuchen]], [[absuchen]], [[durchsuchen]], [[Untersuchung]], [[untersuchen]]
-, [[Versuch]], [[Futtersuche]], [[Malversuch]]
+, [[Versuch]], [[Futtersuche]], [[Malversuch]], [[Parkplatzsuche]]

@@ -1,1 +1,1 @@
-, [[verstricken]]
+, [[verstricken]], [[vereinfachen]]

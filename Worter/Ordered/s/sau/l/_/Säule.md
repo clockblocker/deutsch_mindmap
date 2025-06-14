@@ -1,1 +1,1 @@
-, [[Lichtsäule]]
+, [[Lichtsäule]], [[Ladesäuleninfrastruktur]]

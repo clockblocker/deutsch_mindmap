@@ -1,6 +1,13 @@
 💸 🔴 die [[Kost]], [kɔst](https://youglish.com/pronounce/Kost/german)
 
 ---
+---
+
+*[[114-LEGO#^2|^]]* Viele Menschen sehen [[darin]] eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigen]]en [[Auto]], die [[zugleich]] [[Kost]]en [[senkt]] und [[städtisch]]en [[Platzbedarf]] [[reduziert]]
+
+
+
+---
 💸 [[kosten]], [ˈkɔstn̩](https://youglish.com/pronounce/kosten/german) → [[kostete]] → haben [[gekostet]]
 
 ---
@@ -91,4 +98,4 @@ G: der [[Kost]], der [[Kosten]]
 D: der [[Kost]], den [[Kosten]]
 
 
-#Feminin , [[Futter]], [[Zehrung]]
+#Feminin , [[Futter]], [[Zehrung]], [[Anschaffungskosten]]

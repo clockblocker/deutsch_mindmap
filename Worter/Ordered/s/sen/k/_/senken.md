@@ -2,6 +2,17 @@
 📉 [[senken]], [ˈzɛŋkn̩](https://youglish.com/pronounce/senken/german) → [[senkte]] → [[gesenkt]]
 
 ---
+---
+
+*[[114-LEGO#^2|^]]* Viele Menschen sehen [[darin]] eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigen]]en [[Auto]], die [[zugleich]] [[Kost]]en [[senkt]] und [[städtisch]]en [[Platzbedarf]] [[reduziert]] 
+
+
+*[[114-LEGO#^7|^]]* `Nicht nur` [[Auto]]s, `sondern` `auch` [[Fahrräder]], [[Werkzeug]]e `oder` `sogar` [[Haushaltsgerät]]e könnten Ihrer [[Ansicht]] `nach` [[geteilt]] werden, `um` [[Ressource]]n zu [[schonen]] und die [[Anschaffungskosten]] zu [[senken]]
+
+
+
+---
+
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^3|^]]* Unternehmen [[wiederum]] [[senken]] durch die Reduktion von Büroflächen und Betriebskosten ihren finanziellen [[Aufwand]] und verbessern ihre Kosteneffizienz. ^3
 
 

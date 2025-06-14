@@ -1,1 +1,1 @@
-, [[tragbar]], [[mobilitätseingeschränkt]], [[Mobilität]], [[Automobilhersteller]]
+, [[tragbar]], [[mobilitätseingeschränkt]], [[Mobilität]], [[Automobilhersteller]], [[Mobilitätskonzept]]

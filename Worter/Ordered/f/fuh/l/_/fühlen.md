@@ -1,6 +1,14 @@
 😌 [[fühlen]], [ˈfyːlən] | [[fühlte]], haben [[gefühlt]]
 
 ---
+---
+
+*[[114-LEGO#^6|^]]* [[Außerdem]] [[fühlen]] `sich` [[manche]] [[Nutzer]] [[angesichts]] [[wechsel]]nder [[Fahrzeugmodell]]e und [[fehlen]]der [[Personalisierung]] [[wenig]]er [[sicher]] `als` `mit` dem [[eigen]]en [[Pkw]]. ^6
+
+
+
+
+---
 Wie [[misst]] du deinen [[fortschritt]]?Machst du mock-tests oder einfach nur [[gefühltes]] [[verständnis]]?
 
 *[[C1-Lesen-T2-200-Text#^7|^]]* Der Stern hat den Vorteil, dass sich Menschen mit unterschiedlichen Geschlechtsidentitäten [[vertreten]] und [[angesprochen]] [[fühlen]]

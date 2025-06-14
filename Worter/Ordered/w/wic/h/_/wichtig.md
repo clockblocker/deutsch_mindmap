@@ -56,4 +56,4 @@ Einzigartige mögliche Formen:
 [[wichtig]], [[wichtiger]], [[wichtige]], [[wichtiges]], [[wichtigen]], [[wichtigem]], [[wichtiger]], [[wichtigen]]
 [[wichtigste]], [[wichtigster]], [[wichtigste]], [[wichtigstes]], [[wichtigsten]], [[wichtigstem]], [[wichtigster]], [[wichtigsten]], [[notwendig]], [[egal]], [[wertvoll]], [[unentbehrlich]], [[s1 e1]], [[unnötig]], [[angelegen]], [[grundlegend]], [[vorrangig]], [[unverzichtbar]], [[bedeutend]], [[wesentlich]], [[unschätzbar]]
 , [[dringend]], [[lebenswichtig]], [[bemerkenswert]], [[zweitrangig]], [[prestigeträchtig]], [[namhaft]], [[erwähnenswert]]
-, [[neuralgisch]]
+, [[neuralgisch]], [[zentral]]

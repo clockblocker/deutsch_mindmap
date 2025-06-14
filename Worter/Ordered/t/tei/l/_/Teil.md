@@ -14,4 +14,4 @@ Part
 
 #Substantiv #Maskulin  
 , [[Nachteil]]
-, [[Forumsteilnehmer]], [[Hautteil]], [[Teilchen]], [[Schrottteil]]
+, [[Forumsteilnehmer]], [[Hautteil]], [[Teilchen]], [[Schrottteil]], [[Bestandteil]]

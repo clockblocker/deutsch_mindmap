@@ -1,6 +1,15 @@
 ✅ [[allgemeingültig]], [aˈlɡəˌmaɪ̯nˈɡʏltɪç] ≠ [[speziell]]
 
 ---
+---
+
+*[[116-LEGO#^8|^]]* Meiner [[Ansicht]] nach gibt es keine [[allgemeingültig]]e Lösung: Alter des Kindes, sein Charakter und die Art seiner [[Beziehung]] `zu` den Eltern sind in der Kosten-Nutzen-Analyse [[entscheidend]]. ^8
+
+
+
+
+
+---
 
 [[2 Unter Druck nach oben#^5|^]] Fest steht nur eins: Sie Taten]] die [[richtigen]] Dinge richtig. Für das Richtige aber gibt es keine Regel, [[jedenfalls]] keine [[allgemeingültige]]. ^5
 

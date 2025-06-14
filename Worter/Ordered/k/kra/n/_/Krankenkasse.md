@@ -33,3 +33,5 @@ D: der [[Krankenkasse]], den [[Krankenkassen]]
 ---
 
 [[krank]], [[Kasse]], [[versichern]], [[Versicherung]], [[Gesundheit]], [[Gesundheit]]
+
+#Feminin 

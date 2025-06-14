@@ -1,1 +1,1 @@
-, [[Gewinn]], [[liebgewinnen]]
+, [[Gewinn]], [[liebgewinnen]], [[gewinnen]]

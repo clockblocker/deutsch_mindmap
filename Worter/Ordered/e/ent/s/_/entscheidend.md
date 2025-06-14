@@ -7,6 +7,8 @@
 *[[115-LEGO#^2|^]]* `Bei` der [[Berufswahl]] spielen [[verschiedene]] Kriterien eine Rolle: `Neben` [[persönlich]]en [[Neigung]]en und [[Talent]]en sind `vor` `allem` [[Arbeitsmarktperspektive]]n, [[Verdienstmöglichkeit]]en und [[Weiterbildungschance]]n [[entscheidend]]
 
 
+*[[116-LEGO#^8|^]]* Meiner [[Ansicht]] nach gibt es keine [[allgemeingültig]]e Lösung: Alter des Kindes, sein Charakter und die Art seiner [[Beziehung]] `zu` den Eltern sind in der Kosten-Nutzen-Analyse [[entscheidend]]
+
 
 
 

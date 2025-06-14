@@ -40,4 +40,4 @@ G: der [[Fläche]], der [[Flächen]]
 D: der [[Fläche]], den [[Flächen]]
 , [[Rasenfläche]], [[Quadratmeter]], [[Bürofläche]], [[Räumlichkeit]], [[Gelände]], [[Wasseroberfläche]]
 
-#Feminin , [[Agrarfläche]]
+#Feminin , [[Agrarfläche]], [[Platzbedarf]]

@@ -66,4 +66,4 @@ sie, [[arrangieren]], [[arrangierten]], [[arrangieren]], [[arrangierten]], [[arr
 Adjektive: [[arrangierend]], [[arrangierender]], [[arrangierendst]]
 
 ---
-[[arrangierender]], [[arrangierendes]], [[arrangierende]], [[arrangierenden]], [[arrangierendem]], [[arrangierenderer]], [[arrangierenderes]], [[arrangierendere]], [[arrangierenderen]], [[arrangierenderem]], [[arrangierendster]], [[arrangierendstes]], [[arrangierendste]], [[arrangierendsten]], [[arrangierendstem]]
+[[arrangierender]], [[arrangierendes]], [[arrangierende]], [[arrangierenden]], [[arrangierendem]], [[arrangierenderer]], [[arrangierenderes]], [[arrangierendere]], [[arrangierenderen]], [[arrangierenderem]], [[arrangierendster]], [[arrangierendstes]], [[arrangierendste]], [[arrangierendsten]], [[arrangierendstem]], [[vereinfachen]]

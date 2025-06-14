@@ -43,4 +43,4 @@ Dative: der [[Herausforderung]], den [[Herausforderung]]en
 [[herausfordern]], [[herausfordernd]], [[herausforderungsvoll]], [[bewältigen]], [[Hürde]], [[Wettbewerb]], [[Hauptproblem]]
 
 #Feminin
-, [[Familienaufgabe]], [[bro-schrieben-c1-t1-002]], [[Durchschnitt]]
+, [[Familienaufgabe]], [[bro-schrieben-c1-t1-002]], [[Durchschnitt]], [[Entwicklungsproblem]]

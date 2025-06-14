@@ -1,7 +1,17 @@
 --> [[Ingredient-Risiko-Schutz-Nomen]] <--
+die [[Sicherheit]], [ˈzɪçɐhaɪt]
 
-🔴 die [[Sicherheit]], [ˈzɪçɐhaɪt]
-die [[Sicherheiten]]
+---
+---
+
+*[[116-LEGO#^3|^]]* Es stellt sich die Frage: Wie kann ein Kind ohne die [[Sicherheit]] seiner Eltern der [[vereinten]] [[Kraft]] der [[sogenannt]]en „Big-Tech“-[[Aufmerksamkeitsökonomie]] [[widerstehen]]? ^3
+
+
+
+*[[116-LEGO#^10|^]]* [[Abschließend]] lässt sich sagen, dass `neben` der [[Sicherheit]] des Kindes auch die [[Aspekt]]e seiner [[psychologisch]]en [[Entwicklung]] und des [[Vertrauen]]s in die Familie [[beachtet]] werden müssen, `um` die [[Entscheidung]] `über` die [[Überwachung]] zu [[beurteilen]]
+
+
+
 
 ---
 

@@ -1,1 +1,1 @@
-, [[überquellen]], [[Armut]], [[Bedürfnis]], [[Wohlstand]], [[Mangel]], [[fehlen]], [[Engpass]], [[Bedarf]], [[Übergangebot]], [[Erfordernis]], [[Bedürftigkeit]], [[Verschwendungsgesellschaft]], [[zu viel des Guten]], [[Übertreibung]]
+, [[überquellen]], [[Armut]], [[Bedürfnis]], [[Wohlstand]], [[Mangel]], [[fehlen]], [[Engpass]], [[Bedarf]], [[Übergangebot]], [[Erfordernis]], [[Bedürftigkeit]], [[Verschwendungsgesellschaft]], [[zu viel des Guten]], [[Übertreibung]], [[Platzbedarf]]

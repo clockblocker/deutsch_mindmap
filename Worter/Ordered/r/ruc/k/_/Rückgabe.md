@@ -28,4 +28,4 @@ G: der [[Rückgabe]], der [[Rückgaben]]
 D: der [[Rückgabe]], den [[Rückgaben]]
 
 
-#Feminin
+#Feminin, [[Rückgabeort]]

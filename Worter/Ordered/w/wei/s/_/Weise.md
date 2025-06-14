@@ -1,5 +1,11 @@
-weise, [ˈvaɪ̯zə]
-nicht [[dumm]]
+weise, [ˈvaɪ̯zə] | nicht [[dumm]]
+
+---
+---
+
+*[[114-LEGO#^10|^]]* Auf diese [[Weise]] würde Carsharing nicht nur eine [[Notlösung]] [[darstellen]], sondern zu einem [[integral]]en [[Bestandteil]] [[nachhaltig]]er [[Verkehrssystem]]e werden. ^10
+
+
 
 ---
 

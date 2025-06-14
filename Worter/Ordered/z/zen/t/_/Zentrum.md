@@ -1,1 +1,1 @@
-, [[kern]], [[Grenze]], [[Grenz]], [[Berufsinformationszentrum]], [[Viertel]], [[Innenstadt]], [[Brennpunkt]], [[Mittelpunkt]], [[Raummitte]], [[Sprachenzentrum]], [[Großstadt]], [[Stadt]], [[Vordergrund]], [[Ballungszentrum]], [[Außenbezirk]], [[Randgebiet]]
+, [[kern]], [[Grenze]], [[Grenz]], [[Berufsinformationszentrum]], [[Viertel]], [[Innenstadt]], [[Brennpunkt]], [[Mittelpunkt]], [[Raummitte]], [[Sprachenzentrum]], [[Großstadt]], [[Stadt]], [[Vordergrund]], [[Ballungszentrum]], [[Außenbezirk]], [[Randgebiet]], [[zentral]]

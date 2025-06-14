@@ -8,7 +8,12 @@
 *[[111-LEGO#^6|^]]* `Auf` `der` anderen [[Seite]] sind viele `der` festen [[Überzeugung]], `dass` die [[dauerhaft]]e [[Verschmelzung]] `von` Online- und [[Realwelt]] [[zahlreiche]] [[Gefahr]]en `mit` `sich` bringt
 
 
-*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist. ^10
+*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist
+
+
+*[[116-LEGO#^6|^]]* Auf der anderen Seite sind [[zahlreiche]] Psychologen der festen [[Überzeugung]], dass [[Überwachungssoftware]] nicht nur das [[Recht]] auf [[Privatsphäre]] des Kindes [[verletzt]], sondern [[zudem]] das [[Vertrauen]] `zwischen` Kindern und Eltern [[zerstört]]
+
+
 
 
 

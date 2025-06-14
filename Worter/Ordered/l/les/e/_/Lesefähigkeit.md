@@ -1,4 +1,16 @@
-📖 🔴 die [[Lesefähigkeit]], [ˈleːzəˌfɛːɪçkaɪ̯t](https://youglish.com/pronounce/Lesefähigkeit/german)
+📖 die [[Lesefähigkeit]], [ˈleːzəˌfɛːɪçkaɪ̯t](https://youglish.com/pronounce/Lesefähigkeit/german)
+
+----
+---
+
+*[[116-LEGO#^5|^]]* Seit dem [[Auftauchen]] des [[Begriff]]s „iPad-Kind“ sind die [[Lesefähigkeit]]en vieler Kinder [[deutlich]] [[gesunken]]
+
+
+
+
+
+
+
 
 ---
 *Seit dem* [[Auftauchen]] des Begriffs “iPad-Kind”*sind* die [[Lesefähigkeit]]en überall [[gesunken]].

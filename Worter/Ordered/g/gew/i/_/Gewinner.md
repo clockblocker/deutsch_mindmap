@@ -1,1 +1,1 @@
-, [[Sieger]], [[Aufsteiger]]
+, [[Sieger]], [[Aufsteiger]], [[gewinnen]]

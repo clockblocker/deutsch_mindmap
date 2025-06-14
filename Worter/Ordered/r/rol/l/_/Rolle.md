@@ -1,5 +1,16 @@
-🎭 🔴 die [[Rolle]], [ˈʁɔlə](https://youglish.com/pronounce/Rolle/german)
-🛞 [[rollen]]
+🎭 die [[Rolle]], [ˈʁɔlə](https://youglish.com/pronounce/Rolle/german) | 🛞 [[rollen]]
+
+---
+---
+
+*[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]
+
+
+
+
+
+
+
 
 ---
 Welche [[Rolle]] [[spielen]] Online-[[Bewertung]]en bei [[Kaufentscheidung]]en?
@@ -27,4 +38,4 @@ A: die [[Rolle]], die [[Rollen]]
 G: der [[Rolle]], der [[Rollen]]
 D: der [[Rolle]], den [[Rollen]]
 
-#Feminin , [[Pionierrolle]]
+#Feminin , [[Pionierrolle]], [[abschließen]]

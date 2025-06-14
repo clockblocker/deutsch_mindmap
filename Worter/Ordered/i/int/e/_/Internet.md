@@ -29,4 +29,4 @@ G: des [[Internets]], der [[Internets]]
 D: dem [[Internet]], den [[Internets]]
 
 
-#Neuter , [[Internetsucht]], [[Internetauftritt]], [[Unternehmenswebsite]], [[WLAN]]
+#Neuter , [[Internetsucht]], [[Internetauftritt]], [[Unternehmenswebsite]], [[WLAN]], [[Internetnutzung]]

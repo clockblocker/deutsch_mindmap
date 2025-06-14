@@ -54,4 +54,4 @@ sie, [[benötigen]], [[benötigten]], [[benötigen]], [[benötigten]], [[benöti
 Adjektive: [[benötigend]], [[benötigender]], [[benötigendst]]
 
 ---
-[[benötigender]], [[benötigendes]], [[benötigende]], [[benötigenden]], [[benötigendem]], [[benötigenderer]], [[benötigenderes]], [[benötigendere]], [[benötigenderen]], [[benötigenderem]], [[benötigendster]], [[benötigendstes]], [[benötigendste]], [[benötigendsten]], [[benötigendstem]]
+[[benötigender]], [[benötigendes]], [[benötigende]], [[benötigenden]], [[benötigendem]], [[benötigenderer]], [[benötigenderes]], [[benötigendere]], [[benötigenderen]], [[benötigenderem]], [[benötigendster]], [[benötigendstes]], [[benötigendste]], [[benötigendsten]], [[benötigendstem]], [[Platzbedarf]]

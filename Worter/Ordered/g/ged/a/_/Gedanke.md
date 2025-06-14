@@ -1,5 +1,13 @@
 🤔 🔵 in der [[Gedanke]], ist bei etwas [ɡəˈdaŋkən]
-die [[Gedanken]]
+
+---
+---
+
+*[[114-LEGO#^8|^]]* In vielen [[Städten]] [[existieren]] [[bereits]] Fahrrad- und E-Scooter-Sharing–[[Angebot]]e, die den Sharing-[[Gedanke]]n [[erfolgreich]] [[ausgeweitet]] haben
+
+
+
+
 
 ---
 

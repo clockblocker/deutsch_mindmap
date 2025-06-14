@@ -94,4 +94,4 @@ Partizip I: [[erhaltend]], Partizip II: [[erhalten]]
 
 [[erhalten]] - [[er]] = [[halten]]
 
-[[ändern]], [[holen]], [[verloren]], [[verlieren]], [[haben]], [[kriegen]], [[verdienen]], [[abbekommen]], [[beibehalten]], [[überlebt]], [[erben]], [[vernichten]], [[versenden]], [[kosten]], [[zusammenbekommen]], [[aufrechterhalten]], [[Erhalt]], [[verspielen]], [[einnehmen]], [[wegzüchten]], [[zustehen]], [[spendieren]], [[verbleiben]], [[schulden]], [[speichern]], [[entgehen]], [[verdanken]], [[profitieren]]
+[[ändern]], [[holen]], [[verloren]], [[verlieren]], [[haben]], [[kriegen]], [[verdienen]], [[abbekommen]], [[beibehalten]], [[überlebt]], [[erben]], [[vernichten]], [[versenden]], [[kosten]], [[zusammenbekommen]], [[aufrechterhalten]], [[Erhalt]], [[verspielen]], [[einnehmen]], [[wegzüchten]], [[zustehen]], [[spendieren]], [[verbleiben]], [[schulden]], [[speichern]], [[entgehen]], [[verdanken]], [[profitieren]], [[gewinnen]]

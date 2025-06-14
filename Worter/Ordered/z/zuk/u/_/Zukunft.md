@@ -6,6 +6,9 @@
 *[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
 
 
+*[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]
+
+
 
 ----
 
@@ -95,3 +98,4 @@ D: [[Zukunft]], [[Zukunft]]
 ---
 
 [[zukünftig]], [[zukünftiglich]], [[Zukunftsforschung]], [[Geschichte]], [[Ausblick]], [[Nachwuchs]], [[Rückblick]], [[künftig]]
+, [[abschließen]]

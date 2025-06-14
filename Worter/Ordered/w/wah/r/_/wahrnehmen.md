@@ -6,6 +6,13 @@
 *[[C1-Lesen-T2-100-Text#^8|^]]* Interessanterweise sind Wörter aus Jugendsprachen vergangener Generationen in das Standarddeutsch [[eingeflossen]] und werden kaum noch als umgangssprachlich, [[geschweige]] denn jugendsprachlich, [[wahrgenommen]]
 
 
+*[[116-LEGO#^7|^]]* Würde ein Kind `von` der [[Überwachung]] [[erfahren]], [[wahrnehmen|nähmen]] es seine Eltern [[eher]] `als` [[Gegner]] `denn` `als` [[Freunde]] wahr
+
+
+
+
+
+
 ----
 
 

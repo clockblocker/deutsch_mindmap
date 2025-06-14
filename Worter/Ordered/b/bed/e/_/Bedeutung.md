@@ -1,6 +1,16 @@
 🤔 🔴 die [[Bedeutung]], [bəˈdɔɪ̯tʊŋ](https://youglish.com/pronounce/Bedeutung/german)
 
 ---
+---
+
+*[[114-LEGO#^1|^]]* In den letzten Jahren hat [[Carsharing]] `als` [[flexible]]s [[Mobilitätskonzept]] [[zunehmend]] an [[Bedeutung]] [[gewonnen]]
+
+
+
+---
+
+
+
 *[[C1-Hoehen-T1-101-Text#^18|^]]* Und welche [[Bedeutung]] [[zukommen|kommt]] der [[Heilkunde]] von [[Hildegard]] von [[Bingen]], einer [[Äbtissin]] und [[Mystikerin]] des [[Mittelalters]] zu? 
 
 ---

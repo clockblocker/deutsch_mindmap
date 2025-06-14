@@ -40,4 +40,4 @@ D: dem [[Verkehrsmittel]], den [[Verkehrsmitteln]]
 [[verkehren]], [[Verkehr]], [[Verkehrsverbindung]], [[befördern]]
 
 #Neuter
-, [[Nahverkehrsmittel]]
+, [[Nahverkehrsmittel]], [[Carsharing]], [[Verkehrssystem]]

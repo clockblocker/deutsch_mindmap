@@ -1,1 +1,1 @@
-, [[Produktsupport]], [[Produktrezension]], [[Buchhaltung]], [[Buchhaltungsbereich]], [[Werbeindustrie]], [[Vermarktung]]
+, [[Produktsupport]], [[Produktrezension]], [[Buchhaltung]], [[Buchhaltungsbereich]], [[Werbeindustrie]], [[Vermarktung]], [[Aufmerksamkeitsökonomie]]

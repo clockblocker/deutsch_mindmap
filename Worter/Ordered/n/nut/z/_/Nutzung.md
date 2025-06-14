@@ -49,3 +49,4 @@ D: der [[Nutzung]], den [[Nutzungen]]
 
 
 #Feminin
+, [[Internetnutzung]]

@@ -9,6 +9,8 @@
 *[[113-LEGO#^12|^]]* So können diese [[finanziell]]en und [[logistisch]]en [[Schwierigkeit]]en `als` [[möglich]]e [[Ursache]] `für` die [[deutlich]] [[gesunkene]] [[Geburtenrate]] [[angesehen]] werden
 
 
+*[[116-LEGO#^1|^]]* Heute wird kontrovers darüber diskutiert, ob Eltern ihre Kinder [[mithilfe]] einer [[Überwachungssoftware]] [[kontrollieren]] sollten oder ob eine solche [[Maßnahme]] als große [[Überschreitung]] [[persönlich]]er Grenzen [[angesehen]] werden muss
+
 
 ---
 

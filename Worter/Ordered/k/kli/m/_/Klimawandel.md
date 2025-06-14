@@ -34,4 +34,4 @@ G: des [[Klimawandels]], der [[Klimawandel]]
 D: dem [[Klimawandel]], den [[Klimawandeln]]
 
 
-#Maskulin 
+#Maskulin , [[abschließen]]

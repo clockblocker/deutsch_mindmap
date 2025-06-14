@@ -1,1 +1,1 @@
-, [[überwachen]]
+, [[überwachen]], [[Überwachung]]

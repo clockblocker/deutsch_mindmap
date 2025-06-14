@@ -6,6 +6,12 @@
 *[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]
 
 
+*[[116-LEGO#^2|^]]* `Auf` `der` einen [[Seite]] [[vertreten]] viele Wissenschaftler den [[Standpunkt]], dass die [[Entwicklung]] der [[Empfehlungsalgorithmen]] in sozialen [[Netzwerk]]en das [[natürlich]]e [[Aufwachsen]] `von` Kindern [[zerstört]]
+
+
+*[[116-LEGO#^10|^]]* [[Abschließend]] lässt sich sagen, dass `neben` der [[Sicherheit]] des Kindes auch die [[Aspekt]]e seiner [[psychologisch]]en [[Entwicklung]] und des [[Vertrauen]]s in die Familie [[beachtet]] werden müssen, `um` die [[Entscheidung]] `über` die [[Überwachung]] zu [[beurteilen]]
+
+
 
 
 ---
@@ -63,4 +69,4 @@ D: der [[Entwicklung]], den [[Entwicklungen]]
 [[entwickeln]], [[entwicklungsfähig]], [[entwicklungsbedürftig]], [[entwicklungspolitisch]], [[Entfaltung]],  [[Wendung]]
 , [[fehlentwicklung]], [[Karriere]], [[Stadtentwicklung]], [[Persönlichkeitsentwicklung]], [[Laufbahn]], [[Kindesalter]], [[Verbesserung]], [[Teamentwicklung]], [[Technologie]], [[Ausarbeitung]]
 
-#Feminin , [[Open Space]], [[Ablauf]], [[Bedeutungsverschiebung]], [[Verlauf]], [[Neuzüchtung]], [[Wandel]], [[Ausbau]], [[Schwangerschaft]], [[Entwicklungspotenzial]], [[Entwicklungsstufe]], [[Weiterentwicklung]], [[Demokratisierung]], [[Trend]], [[Entwickler]], [[Wandlung]]
+#Feminin , [[Open Space]], [[Ablauf]], [[Bedeutungsverschiebung]], [[Verlauf]], [[Neuzüchtung]], [[Wandel]], [[Ausbau]], [[Schwangerschaft]], [[Entwicklungspotenzial]], [[Entwicklungsstufe]], [[Weiterentwicklung]], [[Demokratisierung]], [[Trend]], [[Entwickler]], [[Wandlung]], [[Entwicklungsproblem]]

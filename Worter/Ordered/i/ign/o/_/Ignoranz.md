@@ -1,4 +1,4 @@
 --> [[Ingredinet-Action-Nomen]] <--
 
 ---
---> [[🗣️ Ingredient-Meinung]] <--, [[Wissen]], [[Abwägung]], [[Aufklärung]], [[Beurteilung]], [[Erhebung]], [[Behandlungsform]], [[Beratung]], [[Marktforschung]], [[Marktbeobachtung]], [[Konsumforschung]], [[Beachtung]], [[Hinwendung]]
+--> [[🗣️ Ingredient-Meinung]] <--, [[Wissen]], [[Abwägung]], [[Aufklärung]], [[Beurteilung]], [[Erhebung]], [[Behandlungsform]], [[Beratung]], [[Marktforschung]], [[Marktbeobachtung]], [[Konsumforschung]], [[Beachtung]], [[Hinwendung]], [[Beobachtung]], [[Erwägung]]

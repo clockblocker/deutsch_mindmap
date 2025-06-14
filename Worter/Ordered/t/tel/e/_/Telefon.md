@@ -1,1 +1,1 @@
-das [[Telefon]] / die [[Telefone]] | #Substantiv #Neuter | telephone, [[Telefonzelle]], [[Telefonkabine]], [[Telefonat]]
+das [[Telefon]] / die [[Telefone]] | #Substantiv #Neuter | telephone, [[Telefonzelle]], [[Telefonkabine]], [[Telefonat]], [[Handyverbot]]

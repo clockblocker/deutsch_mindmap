@@ -24,4 +24,4 @@ emotional
 Adjektive: [[emotional]], [[emotionaler]], [[emotionalst]]
 
 ---
-[[emotionaler]], [[emotionales]], [[emotionale]], [[emotionalen]], [[emotionalem]], [[emotionalerer]], [[emotionaleres]], [[emotionalere]], [[emotionaleren]], [[emotionalerem]], [[emotionalster]], [[emotionalstes]], [[emotionalste]], [[emotionalsten]], [[emotionalstem]]
+[[emotionaler]], [[emotionales]], [[emotionale]], [[emotionalen]], [[emotionalem]], [[emotionalerer]], [[emotionaleres]], [[emotionalere]], [[emotionaleren]], [[emotionalerem]], [[emotionalster]], [[emotionalstes]], [[emotionalste]], [[emotionalsten]], [[emotionalstem]], [[psychologisch]]

@@ -1,2 +1,2 @@
 , [[geistig]]
-, [[innerlich]], [[krankheitsbedingt]], [[virtuell]]
+, [[innerlich]], [[krankheitsbedingt]], [[virtuell]], [[digital]], [[psychologisch]]

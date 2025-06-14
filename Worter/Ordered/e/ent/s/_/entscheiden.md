@@ -6,6 +6,11 @@
 *[[115-LEGO#^4|^]]* Wer sich für einen [[sogenannt]]en „Blue-Collar“-Beruf [[entscheidet]], profitiert von einer [[konstant]] hohen [[Nachfrage]] und [[gering]]erer [[Automatisierungsgefahr]]
 
 
+*[[114-LEGO#^3|^]]* `Auf` `der` einen [[Seite]] [[entscheiden]] `sich` viele Nutzer:innen `für` Carsharing, weil es ihnen [[ermöglicht]], genau dann ein [[Fahrzeug]] zu buchen, wenn sie es brauchen, ohne sich `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen
+
+
+
+
 
 ---
 

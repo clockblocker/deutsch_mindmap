@@ -1,7 +1,11 @@
-🔵 🧑‍🤝‍🧑 der [[Freund]], [fʁɔɪ̯nt]
-die [[Freunde]]
+🧑‍🤝‍🧑 der [[Freund]], [fʁɔɪ̯nt]
 
 ---
+---
+
+*[[116-LEGO#^7|^]]* Würde ein Kind `von` der [[Überwachung]] [[erfahren]], [[wahrnehmen|nähmen]] es seine Eltern [[eher]] `als` [[Gegner]] `denn` `als` [[Freund]]e wahr
+
+
 Freude, [[Freund]], [[Krieg]]
 
 ---

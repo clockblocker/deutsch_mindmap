@@ -1,1 +1,1 @@
-, [[Mittelpunkt]], [[Raummitte]]
+, [[Mittelpunkt]], [[Raummitte]], [[zentral]]

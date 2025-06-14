@@ -1,1 +1,1 @@
-, [[dörflich]]
+, [[dörflich]], [[städtisch]]

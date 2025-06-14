@@ -1,1 +1,1 @@
-, [[Verbraucherzentrale]], [[Niederlassung]]
+, [[Verbraucherzentrale]], [[Niederlassung]], [[zentral]]

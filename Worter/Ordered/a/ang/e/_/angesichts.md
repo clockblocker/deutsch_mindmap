@@ -5,9 +5,11 @@
 
 *[[213-LEGO#^1|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeit]]en nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann, insbesondere zum [[Jahresende]], wenn die [[Zahl]] der [[Nutzer]] deutlich [[steigt]]
 
-*[[111-LEGO#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt `sich` die Frage, `wie` man einen [[ausgewogenen]] [[Lebensstil]] `mit` sozialen Medien `im` [[Alltag]] [[erreichen]] kann. ^9
+
+*[[111-LEGO#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt `sich` die Frage, `wie` man einen [[ausgewogenen]] [[Lebensstil]] `mit` sozialen Medien `im` [[Alltag]] [[erreichen]] kann
 
 
+*[[114-LEGO#^6|^]]* [[Außerdem]] [[fühlen]] `sich` [[manche]] [[Nutzer]] [[angesichts]] [[wechsel]]nder [[Fahrzeugmodell]]e und [[fehlen]]der [[Personalisierung]] [[wenig]]er [[sicher]] `als` `mit` dem [[eigen]]en [[Pkw]]
 
 
 ---

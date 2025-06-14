@@ -1,1 +1,1 @@
-, [[loswerden]], [[erwerben]], [[zulegen]]
+, [[loswerden]], [[erwerben]], [[zulegen]], [[Anschaffungskosten]]

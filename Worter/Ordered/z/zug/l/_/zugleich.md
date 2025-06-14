@@ -6,8 +6,9 @@
 *[[115-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en `mit` [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
 
 
+*[[114-LEGO#^2|^]]* Viele Menschen sehen [[darin]] eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigen]]en [[Auto]], die [[zugleich]] [[Kost]]en [[senkt]] und [[städtisch]]en [[Platzbedarf]] [[reduziert]]
 
----
+
 
 
 

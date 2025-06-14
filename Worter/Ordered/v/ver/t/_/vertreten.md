@@ -6,6 +6,7 @@
 *[[112-LEGO#^3|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] [[persönlich]]e [[Maßnahme]]n `zum` [[Schutz]] der [[Umwelt]] gibt
 
 
+*[[116-LEGO#^2|^]]* `Auf` `der` einen [[Seite]] [[vertreten]] viele Wissenschaftler den [[Standpunkt]], dass die [[Entwicklung]] der [[Empfehlungsalgorithmen]] in sozialen [[Netzwerk]]en das [[natürlich]]e [[Aufwachsen]] `von` Kindern [[zerstört]]
 
 
 

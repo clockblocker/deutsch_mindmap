@@ -13,6 +13,8 @@
 *[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]] 
 
 
+*[[116-LEGO#^1|^]]* Heute wird kontrovers darüber diskutiert, ob Eltern ihre Kinder [[mithilfe]] einer [[Überwachungssoftware]] [[kontrollieren]] sollten oder ob eine solche [[Maßnahme]] als große [[Überschreitung]] [[persönlich]]er Grenzen [[angesehen]] werden muss
+
 
 
 
@@ -52,4 +54,4 @@ D: der [[Maßnahme]], den [[Maßnahmen]]
 ---
 [[maßnehmen]], [[maßnahmenbezogen]], [[Maßnahmenkatalog]], [[Präventivmaßnahme]], [[verbot]], [[Autoverbot]]
 #Feminin 
-Fe , [[Eingriff]]
+Fe , [[Eingriff]], [[abschließen]]

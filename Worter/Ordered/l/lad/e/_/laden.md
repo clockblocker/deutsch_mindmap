@@ -49,3 +49,4 @@ Partizip I: [[ladend]], Partizip II: [[geladen]]
 [[laden]] - [[la]] = [[d]]en, [[abfeuern]], [[Aufrufen]]
 
 #Maskulin , [[Spielzeuggeschäft]], [[Boutique]], [[herunterladen]], [[Geschäft]]
+, [[Ladesäuleninfrastruktur]]

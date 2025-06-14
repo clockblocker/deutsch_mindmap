@@ -75,4 +75,4 @@ Einzigartige mögliche Formen:
 [[überlegener]], [[überlegenderer]], [[überlegendere]], [[überlegenderes]], [[überlegendere]], [[überlegendem]], [[überlegenderer]], [[überlegendere]]
 [[überlegensten]], [[überlegenster]], [[überlegenste]], [[überlegenstes]], [[überlegensten]], [[überlegensten]], [[überlegenster]], [[überlegensten]]
 , [[Deutschland]], [[Überlegung]], [[überordnen]], [[untergeordnet]], [[weltbest]], [[überdenken]]
-, [[an der Stirn führen]]
+, [[an der Stirn führen]], [[in Erwägung ziehen]]

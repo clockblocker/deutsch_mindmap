@@ -1,2 +1,2 @@
 [[ziehen]]
-, [[hineingezogen]], [[herabgezogen]], [[Umzug]]
+, [[hineingezogen]], [[herabgezogen]], [[Umzug]], [[in Erwägung ziehen]]

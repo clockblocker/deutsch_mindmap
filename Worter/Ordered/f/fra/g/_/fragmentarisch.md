@@ -1,2 +1,2 @@
 --> 🧩 [[Grad-Ganzheit]] <--
-, [[gesamt]], [[ununterbrochen]], [[komplett]]
+, [[gesamt]], [[ununterbrochen]], [[komplett]], [[integral]]

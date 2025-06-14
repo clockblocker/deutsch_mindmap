@@ -1,5 +1,14 @@
-🔴 die [[Verbindung]], [fɛɐ̯ˈbɪndʊŋ]
-die [[Verbindungen]]
+die [[Verbindung]], [fɛɐ̯ˈbɪndʊŋ]
+
+---
+---
+
+*[[116-LEGO#^4|^]]* Die [[Verbindung]] zwischen [[Internetnutzung]] und [[Entwicklungsproblem]]en `lässt` `sich` `an` einem Beispiel [[veranschaulichen]]:
+
+
+
+
+
 
 ---
 

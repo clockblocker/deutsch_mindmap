@@ -31,4 +31,4 @@ realistic
 Adjektive: [[realistisch]], [[realistischer]], [[realistischst]]
 
 ---
-[[realistischer]], [[realistisches]], [[realistische]], [[realistischen]], [[realistischem]], [[realistischerer]], [[realistischeres]], [[realistischere]], [[realistischeren]], [[realistischerem]], [[realistischster]], [[realistischstes]], [[realistischste]], [[realistischsten]], [[realistischstem]]
+[[realistischer]], [[realistisches]], [[realistische]], [[realistischen]], [[realistischem]], [[realistischerer]], [[realistischeres]], [[realistischere]], [[realistischeren]], [[realistischerem]], [[realistischster]], [[realistischstes]], [[realistischste]], [[realistischsten]], [[realistischstem]], [[abschließen]]

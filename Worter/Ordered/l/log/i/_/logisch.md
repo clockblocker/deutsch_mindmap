@@ -1,1 +1,1 @@
-, [[lächerlich]], [[sinnvoll]], [[vernünftig]], [[Logikaufgabe]], [[nachvollziehbar]]
+, [[lächerlich]], [[sinnvoll]], [[vernünftig]], [[Logikaufgabe]], [[nachvollziehbar]], [[psychologisch]]

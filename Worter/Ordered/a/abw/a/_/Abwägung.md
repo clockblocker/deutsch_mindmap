@@ -31,3 +31,4 @@ G: der [[Abwägung]], der [[Abwägungen]]
 D: der [[Abwägung]], den [[Abwägungen]]
 
 #Feminin
+, [[Erwägung]]

@@ -39,4 +39,4 @@ D: der [[Vergangenheit]], den [[Vergangenheiten]]
 [[vergangen]], [[vergangenheitsbezogen]], [[vergänglich]], [[Zeitvergangenheit]], [[Ausblick]], [[Perspektive]]
 
 
-#Feminin , [[eilen]], [[Rückblick]]
+#Feminin , [[eilen]], [[Rückblick]], [[abschließen]]

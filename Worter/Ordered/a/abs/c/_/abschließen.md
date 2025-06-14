@@ -11,6 +11,13 @@
 
 
 
+*[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]. ^9
+
+
+
+*[[116-LEGO#^10|^]]* [[Abschließend]] lässt sich sagen, dass `neben` der [[Sicherheit]] des Kindes auch die [[Aspekt]]e seiner [[psychologisch]]en [[Entwicklung]] und des [[Vertrauen]]s in die Familie [[beachtet]] werden müssen, `um` die [[Entscheidung]] `über` die [[Überwachung]] zu [[beurteilen]]
+
+
 
 
 ---

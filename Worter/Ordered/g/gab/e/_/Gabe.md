@@ -1,2 +1,2 @@
 , [[Geschenk]], [[Aufgabe]], [[Angabe]], [[Talent]]
-, [[Spende]], [[Zuwendung]]
+, [[Spende]], [[Zuwendung]], [[Rückgabeort]]

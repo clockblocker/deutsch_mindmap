@@ -1,2 +1,2 @@
 --> 🧩 [[Grad-Ganzheit]] <--
-[[ganz]], [[halbes]], [[gesamt]], [[insgesamt]], [[allgemeingültig]], [[teilweise]]
+[[ganz]], [[halbes]], [[gesamt]], [[insgesamt]], [[allgemeingültig]], [[teilweise]], [[integral]]

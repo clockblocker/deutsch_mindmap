@@ -1,6 +1,15 @@
 --> 🧗 [[Ingredient-Verb-Erfolg-Scheitern]] <--
-
 🌈 [[gelingen]], [ɡəˈlɪŋən] | [[gelang]], sein [[gelungen]]
+
+----
+---
+
+*[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]
+
+
+
+
+
 
 ---
 Beethovens Zehnte Symphonie [[gelangt]]e `nach` einer maschinellen [[Orchestrierung]] zur [[Aufführung]]

@@ -1,9 +1,11 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
 
-🎁 🟢 das [[Angebot]], [ˈaŋɡəˌboːt](https://youglish.com/pronounce/Angebot/german)
+🎁 das [[Angebot]], [ˈaŋɡəˌboːt](https://youglish.com/pronounce/Angebot/german)
 
 ---
 ---
+
+*[[114-LEGO#^8|^]]* In vielen [[Städten]] [[existieren]] [[bereits]] Fahrrad- und E-Scooter-Sharing–[[Angebot]]e, die den Sharing-[[Gedanke]]n [[erfolgreich]] [[ausgeweitet]] haben
 
 *[[111-LEGO#^2|^]]* Einer der wichtigsten [[Antriebsfaktor]]en `dafür` ist das [[enorm]]e [[Angebot]] `an` sozialen [[Medie]]n: Sie ermöglichen [[sowohl]] [[dauerhaft]]en [[sozial]]en [[Kontakt]] `als` auch [[grenzenlos]]e [[Unterhaltung]]. ^2
 

@@ -29,4 +29,4 @@ G: des [[Stoffwechsels]], der [[Stoffwechsel]]
 D: dem [[Stoffwechsel]], den [[Stoffwechseln]]
 , [[Stoffwechselmechanismus]]
 
-#Maskulin , [[Energiegrundumsatz]]
+#Maskulin , [[Energiegrundumsatz]], [[Wechsel]]

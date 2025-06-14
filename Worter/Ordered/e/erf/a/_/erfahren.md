@@ -1,6 +1,12 @@
  ! [[Passiv-Ingredient-POV]] !
-
 🧐 [[erfahren]], [ɛɐ̯ˈfaːʁən] | [[erfuhr]], haben [[erfahren]]
+
+---
+----
+
+*[[116-LEGO#^7|^]]* Würde ein Kind `von` der [[Überwachung]] [[erfahren]], [[wahrnehmen|nähmen]] es seine Eltern [[eher]] `als` [[Gegner]] `denn` `als` [[Freunde]] wahr
+
+
 
 ---
 „Ich wollte nicht, dass du es [[erfährst]]“, [[flüsterte]] Petunia. „aber es ist [[wahr]]. Ich habe Sachen gesehen …“

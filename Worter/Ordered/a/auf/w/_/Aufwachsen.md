@@ -1,8 +1,10 @@
 🌱 [[Aufwachsen]] + Gen, [ˈaʊ̯fˌvaksn̩] = Der Process des [[erwachsen]] werdens.  
-[[wuchs auf|wuchs auf]]
-sein [[aufgewachsen]]
 
 ---
+---
+
+*[[116-LEGO#^2|^]]* `Auf` `der` einen [[Seite]] [[vertreten]] viele Wissenschaftler den [[Standpunkt]], dass die [[Entwicklung]] der [[Empfehlungsalgorithmen]] in sozialen [[Netzwerk]]en das [[natürlich]]e [[Aufwachsen]] `von` Kindern [[zerstört]]
+
 
 Doch kein anderes Museum stellt das Leben und [[Aufwachsen]] in der DDR auf eine so anschauliche Weise dar
 

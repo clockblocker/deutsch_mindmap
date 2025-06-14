@@ -30,4 +30,4 @@ G: des [[Vorgangs]], der [[Vorgänge]]
 D: dem [[Vorgang]], den [[Vorgängen]]
 
 
-#Maskulin , [[Arbeitsablauf]]
+#Maskulin , [[Arbeitsablauf]], [[Buchungsprozess]]

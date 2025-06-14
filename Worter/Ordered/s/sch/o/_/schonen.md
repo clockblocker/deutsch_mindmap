@@ -1,6 +1,14 @@
 😌 [[schonen]], [ˈʃoːnən](https://youglish.com/pronounce/schonen/german) → [[schonte]] → [[geschont]]
 
+----
 ---
+
+*[[114-LEGO#^7|^]]* `Nicht nur` [[Auto]]s, `sondern` `auch` [[Fahrräder]], [[Werkzeug]]e `oder` `sogar` [[Haushaltsgerät]]e könnten Ihrer [[Ansicht]] `nach` [[geteilt]] werden, `um` [[Ressource]]n zu [[schonen]] und die [[Anschaffungskosten]] zu [[senken]]
+
+
+
+----
+
 *[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^2|^]]* [[Einerseits]] [[ermöglichen]] digitale Tools flexible Arbeitsmodelle und eine [[Reduktion]] von [[Reisezeit]]en und [[Reisekosten]], [[wodurch]] nicht nur die Umwelt [[geschont]] wird, sondern auch die [[Vereinbarkeit]] von Beruf und Privatleben verbessert wird. ^2
 
 

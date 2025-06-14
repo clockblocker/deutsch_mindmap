@@ -1,2 +1,2 @@
 --> 📈 [[Grad-Vergleich]] <--
-, [[vergleichbar]], [[computergesteuert]]
+, [[vergleichbar]], [[computergesteuert]], [[digital]]

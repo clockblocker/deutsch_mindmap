@@ -14,7 +14,7 @@ Die [[klingt]] ja [[schrecklich]]! [[Schlimmer]] als die Tarantel!
 SASCHA: Hm … wenn das [[möglich]] ist!  
 ANNA: Glaubst du, sie wird sagen: Keine Regale'? Hihihi.  
 SASCHA: Das darf sie nicht! Es wird fantastisch aussehen!  
-Regal Timbol, klar [[lackiertes]] [[Buchen]]-Furnier.  
+Regal Timbol, klar [[lackiertes]] [[buchen]]-Furnier.  
 ANNA: … mit sechs [[Rollen]].  
 SASCHA: … und [[Fernsehtisch]]!  
 ANNA: Also … wo [[anfangen|fangen]] wir an …?  

@@ -1,1 +1,1 @@
-, [[Vertrag]], [[Reparationsleistung]]
+, [[Vertrag]], [[Reparationsleistung]], [[abschließen]]

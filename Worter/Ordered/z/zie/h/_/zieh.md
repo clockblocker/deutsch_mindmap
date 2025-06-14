@@ -3,4 +3,4 @@
 , [[abziehen]]
 , [[zeihen]]
 , [[Korkenzieher]], [[erziehen]], [[zurückziehen]], [[entziehen]], [[überziehen]], [[heranziehen]]
-, [[in Betracht ziehen]]
+, [[in Betracht ziehen]], [[in Erwägung ziehen]]

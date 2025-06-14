@@ -1,11 +1,15 @@
 ⚙️ 🟢 das [[System]], [ˈzʏsteːm](https://youglish.com/pronounce/System/german)
-die [[Systeme]]
 
 ---
-, [[Ordnung]], [[Ausleihsystem]], [[Hierarchie]], [[Arbeitsmodell]], [[Software]], [[Produktionssystem]]
+---
+
+*[[114-LEGO#^5|^]]* `Auf` `der` anderen [[Seite]] kann [[Carsharing]] `mit` [[Unannehmlichkeit]]en [[verbunden]] sein: [[Manchmal]] sind [[verfügbar]]e [[Fahrzeug]]e nicht [[rechtzeitig]] [[buchbar]], die [[Rückgabeort]]e [[liegen]] [[ungünstig]] und [[kurzfristig]]e [[Preisspitze]]n machen das [[System]] [[unübersichtlich]]
+
+
+
 
 ---
-= [[Struktur]], [[Organisation]], [[Aufbau]]
+= [[Struktur]], [[Organisation]], [[Aufbau]], [[Ordnung]], [[Ausleihsystem]], [[Hierarchie]], [[Arbeitsmodell]], [[Software]], [[Produktionssystem]]
 ≈ [[Methode]], [[Verfahren]], [[Regelwerk]]
 ≠ [[Chaos]], [[Unordnung]], [[Zufall]]
 
@@ -27,4 +31,4 @@ G: des [[Systems]], der [[Systeme]]
 D: dem [[System]], den [[Systemen]]
 
 
-#Neuter , [[Systemabsturz]], [[Rentensystem]], [[Netzwerk]], [[Empfehlungssystem]], [[Plattform]], [[Sozialsystem]], [[systemisch]], [[Bewertungssystem]], [[Logistiksystem]], [[Ausbildungssystem]]
+#Neuter , [[Systemabsturz]], [[Rentensystem]], [[Netzwerk]], [[Empfehlungssystem]], [[Plattform]], [[Sozialsystem]], [[systemisch]], [[Bewertungssystem]], [[Logistiksystem]], [[Ausbildungssystem]], [[Verkehrssystem]]

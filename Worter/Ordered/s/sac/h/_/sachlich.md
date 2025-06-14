@@ -32,4 +32,4 @@ Plural: [[sachlichen]], [[sachlicheren]], [[sachlichsten]]
 [[Sachlichkeit]], [[Sachlichkeit]], [[versachlichen]], [[Versachlichung]]
 
 [[Sache]],, [[weltfremd]], [[inhaltlich]]
-, [[realistisch]]
+, [[realistisch]], [[abschließen]]

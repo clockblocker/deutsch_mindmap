@@ -7,6 +7,10 @@
 
 
 
+*[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]
+
+
+
 ---
 
 
@@ -36,4 +40,4 @@ G: der [[Mobilität]], der [[Mobilitäten]]
 D: der [[Mobilität]], den [[Mobilitäten]]
 , [[Grünsteuer]]
 
-#Feminin , [[Arbeitsweg]]
+#Feminin , [[Arbeitsweg]], [[Carsharing]], [[Verkehrssystem]], [[abschließen]]

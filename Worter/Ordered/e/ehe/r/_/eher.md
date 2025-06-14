@@ -3,6 +3,10 @@
 ---
 *[[C1-Hoehen-T1-401-Text#^4|^]]* Die Wanderrouten [[hingegen]] [[liegen]] wohl [[eher]] unter dem deklarierten [[Anforderungsprofil]]
 
+
+*[[116-LEGO#^7|^]]* Würde ein Kind `von` der [[Überwachung]] [[erfahren]], [[wahrnehmen|nähmen]] es seine Eltern [[eher]] `als` [[Gegner]] `denn` `als` [[Freunde]] wahr
+
+
 Das ist aber [[eher]] eine Ausnahme
 But that is [[rather]] an exception.
 

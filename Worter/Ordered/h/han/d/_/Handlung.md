@@ -50,3 +50,4 @@ D: der [[Handlung]], den [[Handlungen]]
 [[handeln]], [[handlungslos]], [[handlungsfähig]], [[handlungsorientiert]], [[antun]], [[Maßnahme]], [[Bewegung]], [[Tat]]
 
 #Feminin , [[Tatendrang]], [[Praxis]], [[abhandeln]], [[Handlungsbedarf]]
+, [[abschließen]]

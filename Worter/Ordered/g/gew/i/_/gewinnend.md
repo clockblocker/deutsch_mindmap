@@ -1,1 +1,1 @@
-, [[erfolgreich]], [[charmant]]
+, [[erfolgreich]], [[charmant]], [[gewinnen]]

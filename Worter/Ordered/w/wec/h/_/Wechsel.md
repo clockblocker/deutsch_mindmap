@@ -1,17 +1,15 @@
-смена
-
-[[Ortwechsel]] des Subjekts, [[wechseln]]
-, [[Stimmungsschwankung]], [[wechselvoll]], [[Austausch]], [[abwechslungsreich]]
-
 🔄 🔵 der [[Wechsel]], [ˈvɛksl̩](https://youglish.com/pronounce/Wechsel/german) | 🍂 🔵 der [[Wechsel]], [ˈvɛksl̩]
-die [[Wechsel]] | die [[Wechsel]]
 
 ---
-PowerPoint
+---
+
+*[[114-LEGO#^6|^]]* [[Außerdem]] [[fühlen]] `sich` [[manche]] [[Nutzer]] [[angesichts]] [[wechsel]]nder [[Fahrzeugmodell]]e und [[fehlen]]der [[Personalisierung]] [[wenig]]er [[sicher]] `als` `mit` dem [[eigen]]en [[Pkw]]
+
+
 
 ---
 = [[Veränderung]], [[Änderung]], [[Austausch]] | [[Herbst]]
-≈ [[Modifikation]], [[Transformation]], [[Umschwung]] | [[Jahreszeit]], [[Herbstzeit]]
+≈ [[Modifikation]], [[Transformation]], [[Umschwung]] | [[Jahreszeit]], [[Herbstzeit]], [[Ortwechsel]] des Subjekts, [[wechseln]], [[Stimmungsschwankung]], [[wechselvoll]], [[Austausch]], [[abwechslungsreich]]
 ≠ [[Beibehaltung]], [[Konstanz]] | [[Frühling]], [[Sommer]], [[Winter]]
 
 ---

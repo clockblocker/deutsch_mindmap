@@ -1,5 +1,15 @@
-🏙️ 🔴 die [[Stadt]], [ʃtat](https://youglish.com/pronounce/Stadt/german)
-die [[Städte]]
+🏙️ die [[Stadt]], [ʃtat](https://youglish.com/pronounce/Stadt/german)
+
+---
+---
+
+*[[114-LEGO#^8|^]]* In vielen [[Städten]] [[existieren]] [[bereits]] Fahrrad- und E-Scooter-Sharing–[[Angebot]]e, die den Sharing-[[Gedanke]]n [[erfolgreich]] [[ausgeweitet]] haben
+
+
+
+
+
+
 
 ---
 *[[C1-Hoehen-T1-100-Text#^20|^]]* [[Lesenswert]] sind auch konkrete Vorschläge an [[Städte]] und [[Gemeinden]], wie das Wohnungsproblem [[gelöst]] werden kann

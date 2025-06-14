@@ -1,7 +1,15 @@
-⚠️ [[verletzt]], [fɛɐˈlɛtst]
-nicht [[heil]], [[unversehrt]]
+⚠️ [[verletzt]], [fɛɐˈlɛtst] | [[heil]], [[unversehrt]]
 
-[[verletzen]]
+---
+---
+
+*[[116-LEGO#^6|^]]* Auf der anderen Seite sind [[zahlreiche]] Psychologen der festen [[Überzeugung]], dass [[Überwachungssoftware]] nicht nur das [[Recht]] auf [[Privatsphäre]] des Kindes [[verletzt]], sondern [[zudem]] das [[Vertrauen]] `zwischen` Kindern und Eltern [[zerstört]]
+
+
+
+
+
+
 
 ---
 

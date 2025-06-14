@@ -32,4 +32,4 @@ G: des [[Transportunternehmens]], der [[Transportunternehmen]]
 D: dem [[Transportunternehmen]], den [[Transportunternehmen]]
 
 
-#Neuter 
+#Neuter , [[abschließen]]

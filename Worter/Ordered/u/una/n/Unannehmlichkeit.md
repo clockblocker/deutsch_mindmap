@@ -1,8 +1,17 @@
 😒 🔴 die [[Unannehmlichkeit]], [ˈʊnʔanˌneːmlɪçkaɪ̯t](https://youglish.com/pronounce/Unannehmlichkeit/german)  
-die [[Unannehmlichkeiten]]
 
 ---
-*[[215-C1-Schreiben-Model#^5|^]]* Daher möchte ich höflich [[anfragen]], ob eine [[Entschädigung]] für die [[entstanden]]en [[Unannehmlichkeit]]en [[in Betracht gezogen]] werden könnte
+---
+
+*[[215-C1-Schreiben-Model#^5|^]]* Daher möchte ich höflich [[anfragen]], `ob` eine [[Entschädigung]] `für` die [[entstanden]]en [[Unannehmlichkeit]]en [[in Betracht gezogen]] werden könnte
+
+
+*[[114-LEGO#^5|^]]* `Auf` `der` anderen [[Seite]] kann [[Carsharing]] `mit` [[Unannehmlichkeit]]en [[verbunden]] sein: [[Manchmal]] sind [[verfügbar]]e [[Fahrzeug]]e nicht [[rechtzeitig]] [[buchbar]], die [[Rückgabeort]]e [[liegen]] [[ungünstig]] und [[kurzfristig]]e [[Preisspitze]]n machen das [[System]] [[unübersichtlich]]
+
+
+
+
+
 
 ---
 = [[Ärgernis]], [[Unbequemlichkeit]], [[Störung]], [[Zumutung]], [[unangenehm]], [[Kopfzerbrechen]]
