@@ -5,6 +5,7 @@
 
 *[[215-LEGO#^5|^]]* [[Daher]] möchte ich [[höflich]] [[anfragen]], `ob` eine [[Entschädigung]] `für` die [[entstandenen]] [[Unannehmlichkeit]]en `in` [[Betracht]] [[gezogen]] werden könnte
 
+*[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]
 
 
 

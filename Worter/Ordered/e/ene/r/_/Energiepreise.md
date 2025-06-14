@@ -1,1 +1,1 @@
-[[Energiepreis]]
+ [[Energiepreis]]

@@ -1,6 +1,15 @@
 --> [[Ingredient-Verben-Bedürfnis]] <--
-
 ✅ [[erforderlich]], [ɛɐ̯ˈfɔʁdɐlɪç] ≠ [[unnötig]]
+
+---
+---
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]] 
+
+
+
+
+
 
 ---
 Mach dir keine Sorgen über die [[erforderlichen]] [[Abonnements]] - die [[überwiegende]] [[Mehrheit]] der kostenpflichtigen Artikel ist in Internetarchiven kostenlos [[verfügbar]].

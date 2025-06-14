@@ -1,13 +1,23 @@
---> [[🎯 Ingredient-Result-Verb]] <--
---> 📈 [[Grad-Vergleich]] <--
-
+--> [[🎯 Ingredient-Result-Verb]] | 📈 [[Grad-Vergleich]] <--
 🏔️ [[steigen]], [ˈʃtaɪ̯gən]
-[[stieg]], [[stiegen]]
-sein [[gestiegen]]
 
 ---
-*[[112-C1-Schreiben-Model#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und Waldbrände [[deutlich]] [[gestiegen]]
+---
 
+*[[112-LEGO#^1|^]]* In den [[vergangen]]en zehn Jahren wurden in [[nahezu]] jedem Sommer neue [[Temperaturrekord]]e [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]
+
+
+*[[112-LEGO#^5|^]]* `Nicht nur` würde die [[alltäglich]]e [[Mobilität]] `ohne` Autos [[erheblich]] [[erschwert]], `sondern` `auch` die [[Lebenshaltungskosten]] würden `durch` [[sogenannt]]e „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in [[Form]] [[höh]]erer [[Energiepreis]]e, [[kostspielig]]er [[recycelbar]]er [[Verpackung]]en `oder` [[teurer]] Bio-[[Lebensmittel]]. ^5
+
+
+
+*[[113-LEGO#^2|^]]* In Deutschland [[etwa]] arbeiten beide Partner [[häufig]] `in` [[Vollzeit]], `während` die [[Vereinbarkeit]] `durch` [[steigen]]de [[Kita]]- und [[Schulgebühr]]en `sowie` lange [[Pendelzeit]]en [[erschwert]] wird
+
+
+*[[113-LEGO#^7|^]]* Ein [[wichtig]]er [[Schritt]] war die [[gestiegen]]e [[Popularität]] `von` [[Homeoffice]]- und [[Hybridarbeitsmodell]]en
+
+
+----
 
 *[[bro-schrieben-c1-t1-004#^8|^]]* Ein wichtiges Argument gegen eine immer älter [[werdende]] [[Gesellschaft]] ist, dass [[infolge]] [[steigen]]der [[Bevölkerungszahlen]] ein [[Mangel]] an [[Naturressourcen]] wie Wasser und Lebensmitteln entstehen könnte
 
@@ -21,7 +31,7 @@ _[[C1-Hoehen-T2-201-Text#^4|^]]_ 10 Es gibt [[Jugendlich]]e, die das [[Abstrakti
 
 _[[101-C1-Schreiben-T1#^1|^]]_ In den letzten fünf [[Jahrzehnten]] ist die [[Zahl]] der [[Internetnutzer]]:innen [[exponentiell]] [[gestiegen]]. ^1
 
-_[[102-C1-Schreiben-T1#^5|^]]_ Nicht nur würde die [[alltägliche]] Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in Form höherer [[Energiepreise]], [[kostspieliger]] recycelbarer [[Verpackungen]] oder teurer Bio-[[Lebensmittel]]. ^5
+_[[102-C1-Schreiben-T1#^5|^]]_ Nicht nur würde die [[alltägliche]] Mobilität ohne Autos [[erheblich]] [[erschwert]], sondern auch die [[Lebenshaltungskosten]] würden durch sogenannte „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in Form höherer [[Energiepreis]]e, [[kostspieliger]] recycelbarer [[Verpackungen]] oder teurer Bio-[[Lebensmittel]]. ^5
 
 _[[102-C1-Schreiben-T1#^1|^]]_ In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
 

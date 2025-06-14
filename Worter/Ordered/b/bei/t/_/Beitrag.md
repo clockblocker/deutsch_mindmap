@@ -41,4 +41,4 @@ D: dem [[Beitrag]], den [[Beiträgen]]
 , [[Betrag]]
 
 #Maskulin 
-, [[Abgabe]]
+, [[Abgabe]], [[Schulgebühr]]

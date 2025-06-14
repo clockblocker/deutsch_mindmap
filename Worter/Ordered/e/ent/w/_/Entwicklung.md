@@ -1,7 +1,12 @@
-[[Fortschritt]] = [[Entwicklung]]
-
 📈 die [[Entwicklung]], [ɛntˈvɪklʊŋ]
-die [[Entwicklungen]]
+
+---
+---
+
+*[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]
+
+
+
 
 ---
 Der Film zeigt die [[Entwicklung]] eines Menschen von der Geburt bis zum Tod.
@@ -38,7 +43,7 @@ der [[Entwicklung]] der Demokratie
 
 
 ---
-= [[Erziehung]], [[Fortschritt]], [[Wachstum]], [[Evolution]]
+= [[Erziehung]], [[Fortschritt]], [[Wachstum]], [[Evolution]], [[Fortschritt]] = [[Entwicklung]]
 ≈ [[Veränderung]], [[Fortgang]], [[Werdegang]], [[Prozess]], [[Weiterbildung]]
 ≠ [[Stillstand]], [[Stagnation]], [[Rückgang]], [[Regression]]
 

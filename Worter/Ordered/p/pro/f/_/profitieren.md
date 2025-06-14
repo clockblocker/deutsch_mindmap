@@ -1,13 +1,17 @@
 📈 [[profitieren]], [pʁofiˈtiːʁən](https://youglish.com/pronounce/profitieren/german) → [[profitierte]] → [[profitiert]]
 
 ---
-
 ---
 
 _[[115-LEGO#^8|^]]_ Diese Berufe [[profitieren]] `von` der [[Bautätigkeit]] und dem [[Modernisierungsbedarf]] in [[Gebäuden]]
 
----
 
+
+*[[115-LEGO#^4|^]]* Wer sich für einen [[sogenannt]]en „Blue-Collar“-[[Beruf]] [[entscheidet]], [[profitiert]] `von` einer [[konstant]] hohen [[Nachfrage]] und [[gering]]erer [[Automatisierungsgefahr]]
+
+
+
+---
 ---
 
 = [[gewinnen]], [[nutzen]], [[vorteilhaft sein]]

@@ -1,1 +1,1 @@
-, [[Abschnitt]]
+, [[Abschnitt]], [[Seite]]

@@ -34,4 +34,4 @@ G: des [[Fußes]], der [[Füße]]
 D: dem [[Fuß]], den [[Füßen]]
 
 
-#Maskulin , [[Fußwanderung]]
+#Maskulin , [[Fußwanderung]], [[Fuß fassen]]

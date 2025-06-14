@@ -27,4 +27,4 @@ D: der [[Zahlung]], den [[Zahlungen]]
 [[zahlen]], [[Zahler]], [[Zahlerin]], [[zahlbar]], [[zahlungspflichtig]]
 , [[Ausgabe]], [[Zahlungskräftig]], [[Einmalzahlung]], [[Geldleistung]], [[Sonderzahlung]], [[Zahlungsmittel]]
 
-#Feminin , [[zur Kasse bitten]], [[zahlungsfreudig]]
+#Feminin , [[zur Kasse bitten]], [[zahlungsfreudig]], [[bezahlbar]]

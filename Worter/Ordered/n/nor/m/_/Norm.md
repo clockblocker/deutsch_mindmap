@@ -1,1 +1,1 @@
-, [[C1 Schreiben/misc/Regel]], [[Gesetz]], [[Richtlinie]], [[Prinzip]], [[Qualitätsstandard]]
+, [[C1 Schreiben/misc/Regel]], [[Gesetz]], [[Richtlinie]], [[Prinzip]], [[Qualitätsstandard]], [[Regel]]

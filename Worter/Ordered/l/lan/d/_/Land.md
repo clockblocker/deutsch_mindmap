@@ -1,7 +1,15 @@
-🟢 das [[Land]], [lant]
-die [[Länder]]
+das [[Land]], [lant]
+
+----
+---
+
+*[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
+
+
+
 
 ---
+
 Politikerinnen und Politiker aus [[verschiedenen]] [[Ländern]] [[bestreiten]], sie würden die [[Wahrheitertuschen]].  
 
 *[[C1-Hoehen-T4-100-Text#^8|^]]* Ein [[wirksam]]er Verbraucherschutz [[beschränkt]] sich nicht auf ein [[einzig]]es [[Land]]

@@ -49,4 +49,4 @@ sie, [[setzen auseinander]], [[setzten auseinander]], [[setzen sich auseinander]
 Adjektive: [[auseinandersetzend]], [[auseinandersetzender]], [[auseinandersetzendst]]
 
 ---
-[[auseinandersetzender]], [[auseinandersetzendes]], [[auseinandersetzende]], [[auseinandersetzenden]], [[auseinandersetzendem]], [[auseinandersetzenderer]], [[auseinandersetzenderes]], [[auseinandersetzendere]], [[auseinandersetzenderen]], [[auseinandersetzenderem]], [[auseinandersetzendster]], [[auseinandersetzendstes]], [[auseinandersetzendste]], [[auseinandersetzendsten]], [[auseinandersetzendstem]]
+[[auseinandersetzender]], [[auseinandersetzendes]], [[auseinandersetzende]], [[auseinandersetzenden]], [[auseinandersetzendem]], [[auseinandersetzenderer]], [[auseinandersetzenderes]], [[auseinandersetzendere]], [[auseinandersetzenderen]], [[auseinandersetzenderem]], [[auseinandersetzendster]], [[auseinandersetzendstes]], [[auseinandersetzendste]], [[auseinandersetzendsten]], [[auseinandersetzendstem]], [[Regel]]

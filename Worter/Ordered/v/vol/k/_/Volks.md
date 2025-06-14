@@ -1,1 +1,1 @@
-, [[Volkssouveränität]], [[Volksbildung]]
+, [[Volkssouveränität]], [[Volksbildung]], [[Volkswirtschaft]]

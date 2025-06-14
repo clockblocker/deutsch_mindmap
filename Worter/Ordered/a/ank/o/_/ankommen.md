@@ -44,4 +44,4 @@ PI: [[ankommend]], PII: [[angekommen]], Zu+inf: [[anzukommen]]
 [[Ankunft]], [[Ankömmmling]], [[ankömmbarer]], [[Ankunftsort]], [[Anreise]]
 
 - [[an]], [[kommen]], [[weggehen]], [[verschwinden]], [[erreichten]], [[zugehen]], [[einreisen]], [[reisen]], [[s1 e1]], [[Ankunft]], [[aufliegen]], [[verabschieden]], [[münden]], [[ausgehen]], [[abwandern]]
-, [[Unterkunft]]
+, [[Unterkunft]], [[Fuß fassen]]

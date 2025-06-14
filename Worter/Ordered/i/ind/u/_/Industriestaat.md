@@ -1,5 +1,10 @@
 🏭 🔵 der [[Industriestaat]], [ɪndʊsˈtʁiːˌʃtaːt](https://youglish.com/pronounce/Industriestaat/german)
-die [[Industriestaaten]]
+
+---
+---
+
+*[[113-LEGO#^1|^]]* In vielen [[Industrieländern]] [[stehen]] Eltern `vor` der [[Herausforderung]], [[Beruf]] und [[Familie]] [[miteinander]] zu [[vereinbaren]]
+
 
 ---
 Die [[Lebenserwartung]] von Menschen in [[Industrieländern]] [[verkürzt]] sich besonders

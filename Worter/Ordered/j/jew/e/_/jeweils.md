@@ -20,4 +20,4 @@ respectively, each time, in each case
 
 ---
 [[jeweilig]], [[jeweils­ge]], [[jeweils­da]], [[jeder]], [[jedes]]
-, [[zutreffen]]
+, [[zutreffen]], [[Regel]]

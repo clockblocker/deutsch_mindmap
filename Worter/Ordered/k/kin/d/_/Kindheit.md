@@ -1,7 +1,15 @@
 👶 🔴 die [[Kindheit]], [ˈkɪntˌhaɪ̯t](https://youglish.com/pronounce/Kindheit/german)
 
 ---
-*[[101-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+---
+
+*[[111-LEGO#^15|^]]* So kann [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` [[möglich]]e [[Ursache]] `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]] werden
+
+
+
+---
+
+
 
 
 ---
@@ -27,4 +35,4 @@ A: die [[Kindheit]], die [[Kindheiten]]
 G: der [[Kindheit]], der [[Kindheiten]]
 D: der [[Kindheit]], den [[Kindheiten]]
 
-#Feminin , [[Lebensalter]], [[Durchschnittsalter]]
+#Feminin , [[Lebensalter]], [[Durchschnittsalter]], [[Elternschaft]]

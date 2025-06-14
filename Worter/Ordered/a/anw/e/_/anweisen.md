@@ -6,6 +6,16 @@
 *[[213-LEGO#^2|^]]* Allerdings bin ich für die [[Durchführung]] meiner [[Dissertation]] auf einen ruhigen Arbeitsplatz mit [[stabil]]em Internet- und [[Stromanschluss]] [[angewiesen]]
 
 
+*[[113-LEGO#^4|^]]* `Da` [[Rentensystem]]e und [[Volkswirtschaft]]en `auf` höhere [[Geburtenrate]]n [[angewiesen]] sind, ist es `für` [[Staat]]en [[sinnvoll]], Bürger:innen `dabei` zu [[unterstützen]], [[Berufsleben|Berufs]]- und [[Familienleben]] [[erfolgreich]] zu [[verbinden]]
+
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]]
+
+
+
+
+
+
 
 ---
 

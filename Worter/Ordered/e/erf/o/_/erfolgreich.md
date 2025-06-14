@@ -1,5 +1,14 @@
-🏆 [[erfolgreich]], [ɛɐ̯ˈfɔlkʁaɪ̯ç] | 🏆 [[erfolgen]]
-nicht [[erfolglos]]
+🏆 [[erfolgreich]], [ɛɐ̯ˈfɔlkʁaɪ̯ç] | 🏆 [[erfolgen]] nicht [[erfolglos]]
+
+---
+---
+
+*[[113-LEGO#^4|^]]* `Da` [[Rentensystem]]e und [[Volkswirtschaft]]en `auf` höhere [[Geburtenrate]]n [[angewiesen]] sind, ist es `für` [[Staat]]en [[sinnvoll]], Bürger:innen `dabei` zu [[unterstützen]], [[Berufsleben|Berufs]]- und [[Familienleben]] [[erfolgreich]] zu [[verbinden]]
+
+
+
+
+
 
 ---
 *[[bro-schrieben-c1-t1-002#^10|^]]* Wenn ich selbst nur online lerne und keine Zeit beim [[Pendeln]] [[verliere]], benutze ich innere Kräfte, um mehr [[Lernaufgabe]]n [[erfolgreich]] zu [[bewältigen]] und am [[selben]] Tag [[einkaufen]] zu gehen

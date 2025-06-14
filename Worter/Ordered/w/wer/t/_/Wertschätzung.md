@@ -33,4 +33,4 @@ G: der [[Wertschätzung]], der [[Wertschätzungen]]
 D: der [[Wertschätzung]], den [[Wertschätzungen]]
 
 
-#Feminin 
+#Feminin , [[Popularität]]

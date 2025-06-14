@@ -27,4 +27,4 @@ A: die [[Südseeinsel]], die [[Südseeinseln]]
 G: der [[Südseeinsel]], der [[Südseeinseln]]
 D: der [[Südseeinsel]], den [[Südseeinseln]]
 
-#Feminin 
+#Feminin , [[See]]

@@ -1,7 +1,10 @@
 👍 [[hilfreich]], [ˈhɪlfˌʁaɪ̯ç](https://youglish.com/pronounce/hilfreich/german)
 
 ---
-*[[111-C1-Schreiben-Model#^17|^]]* Und schließlich war die Regel, nur [[heruntergeladene]] Videos [[anzuschauen]], [[hilfreich]] im [[Kampf]] [[gegen]] [[Empfehlungsalgorithm]]en
+---
+
+*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] [[Video]]s [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]
+
 
 [[Hilfreiche]] Tipps finden Sie unter "Zustellung vorbereiten".
 

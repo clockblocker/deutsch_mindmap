@@ -1,2 +1,2 @@
 --> 🧩 [[Grad-Wahrheit]] <--
-[[verfehlen]]
+[[verfehlen]], [[Regel]]

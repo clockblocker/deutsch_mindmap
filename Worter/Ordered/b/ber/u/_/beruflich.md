@@ -1,6 +1,16 @@
 💼 [[beruflich]], [bəˈʁuːflɪç]
 
 ---
+---
+
+*[[111-LEGO#^5|^]]* `Über` WhatsApp [[bleiben]] Eltern auch `aus` dem [[Ausland]] [[erreichbar]], Instagram [[ermöglicht]] es, mit Freund:innen `in` [[Kontakt]] zu [[bleiben]], LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und `auf` [[Plattform]]en `wie` YouTube `oder` TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
+
+
+---
+
+
+
+
 *[[111-C1-Schreiben-Model#^7|^]]* LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e,
 
 *[[3  Ein Selbstversuch als Hobbybäuerin#^2|^]]* Damit meine ich nicht nur die [[beruflichen]] Ziele, sondern auch meine privaten, denn diese können ja bekanntlich [[gleichermaßen]] [[anspruchsvoll]] sein. ^2

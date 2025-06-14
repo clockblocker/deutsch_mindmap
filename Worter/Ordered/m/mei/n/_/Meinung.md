@@ -1,8 +1,13 @@
-! [[Passiv-Ingredient-POV]] !
---> [[🗣️ Ingredient-Meinung]] <--
+! [[Passiv-Ingredient-POV]] ! --> [[🗣️ Ingredient-Meinung]] <--
+🗣️ die [[Meinung]], [ˈmaɪ̯nʊŋ]
 
-die [[Meinung]], [ˈmaɪ̯nʊŋ]
-die [[Meinungen]]
+---
+---
+
+*[[112-LEGO#^6|^]]* Meiner [[Meinung]] `nach` ist das [[Wichtig]]ste, was jeder [[Einzeln]]e zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] `an` [[Wahl]]en
+
+
+
 
 ---
 
@@ -71,3 +76,4 @@ Einzigartige mögliche Formen: [[Meinung]], [[Meinungen]], [[Meinungs]]
 ---
 
 #Substantiv #Neuter, [[Meinungsumfrage]]
+, [[aus meiner Sicht]]

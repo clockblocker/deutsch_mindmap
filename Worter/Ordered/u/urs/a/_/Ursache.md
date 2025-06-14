@@ -1,7 +1,15 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-
 🔴 die [[Ursache]]
-die [[Ursachen]]
+
+---
+---
+
+*[[111-LEGO#^15|^]]* So kann [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` [[möglich]]e [[Ursache]] `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]] werden
+
+
+*[[113-LEGO#^12|^]]* So können diese [[finanziell]]en und [[logistisch]]en [[Schwierigkeit]]en `als` [[möglich]]e [[Ursache]] `für` die [[deutlich]] [[gesunkene]] [[Geburtenrate]] [[angesehen]] werden
+
+
 
 ---
 
@@ -11,7 +19,7 @@ _[[C1-Hoehen-T1-101-Text#^4|^]]_ Sollte ein Patient beispielsweise aus großer [
 
 Es thematisiert die [[Ursache]]e des [[Waldsterbens]].
 
-_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Gerät]]e seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 ---
 

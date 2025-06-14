@@ -1,5 +1,4 @@
 🏞 <span class="custom-color-for-der">der</span> [[See]] | 🌊 <span class="custom-color-for-die">die</span> [[See]]
-die [[Seen]] | kein Mehrzahl
 
 ---
 10 [[Feinstaub]] [[darstellen|stellt]] auch für [[Flüsse]] und [[Seen]] ein [[Problem]] dar

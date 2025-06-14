@@ -1,1 +1,1 @@
-, [[erweisen]]
+, [[erweisen]], [[effektiv]]

@@ -1,7 +1,16 @@
 🔵 der [[Wunsch]], [vʊnʃ]
-die [[Wünsche]]
+
+----
+---
+
+*[[111-LEGO#^4|^]]* `Auf` `der` einen [[Seite]] ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – [[fast]] jeder [[Wunsch]] der N
+
+
+
 
 ---
+
+
 Mutter Birgit seufzt: „Wie sollen wir all diese [[Wünsche]] unter einen Hut bringen?“ 
 
 *[[101-C1-Schreiben-T1#^4|^]]* Auf der einen Seite ist der [[Nutz]]en sozialer Medien [[unbestreitbar]] – fast jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:

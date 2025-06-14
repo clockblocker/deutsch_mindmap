@@ -1,1 +1,1 @@
-, [[inhaltlich]], [[Bearbeitung]], [[sowohl]]
+, [[inhaltlich]], [[Bearbeitung]], [[sowohl]], [[Regel]]

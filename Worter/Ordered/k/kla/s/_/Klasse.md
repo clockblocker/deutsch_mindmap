@@ -25,4 +25,4 @@ Morphems:
 ---
 
 #Substantiv #Feminin, [[toll]], [[Schulklasse]], [[Klassenstufe]], [[Gesellschaftsschicht]]
-, [[Klassifizierung]]
+, [[Klassifizierung]], [[Schulplatz]]

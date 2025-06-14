@@ -1,7 +1,10 @@
 🧾 [[steuerlich]], [ˈʃtɔɪ̯ɐlɪç](https://youglish.com/pronounce/steuerlich/german)
 
 ---
-*[[102-C1-Schreiben-T1#^7|^]]* Außerdem kann [[staatliche]] [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf [[recycelbar]]e [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreize]] unterstützen. ^7
+---
+
+*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]]
+
 
 
 ---

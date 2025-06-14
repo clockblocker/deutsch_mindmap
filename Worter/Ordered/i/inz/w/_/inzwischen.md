@@ -1,6 +1,13 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
-
 🕰️ inzwischen, [ɪntˈsvaɪ̯ʃn̩] = [[bereits]]
+
+---
+---
+
+*[[113-LEGO#^6|^]]* Diese [[Einsicht]] hat [[inzwischen]] auch in der [[Wirtschaft]] [[Fuß gefasst]], `sodass` [[Arbeitsmodell]]e [[immer]] [[stärker]] `an` die [[Bedürfnis]]se [[berufstätig]]er [[Eltern]] [[angepasst]] werden
+
+
+
 
 ---
 

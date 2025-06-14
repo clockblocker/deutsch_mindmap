@@ -1,7 +1,11 @@
 🎬 🟢 das [[Video]], [ˈviːdeo](https://youglish.com/pronounce/Video/german)
 
 ---
-*[[101-C1-Schreiben-T1#^14|^]]* Und [[schließlich]] war die [[C1 Schreiben/misc/Regel]], nur [[heruntergeladene]] [[Videos]] [[anzuschauen]], [[hilfreich]] im Kampf gegen [[Empfehlungsalgorithmen]]. ^14
+---
+
+*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] [[Video]]s [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]
+
+
 
 
 ---

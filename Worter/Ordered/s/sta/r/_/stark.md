@@ -1,6 +1,20 @@
 --> 💥 [[Grad-Intensität]] <--
 💪 [[stark]], [ʃtaʁk](https://youglish.com/pronounce/stark/german) ≠ [[schwach]]
 
+
+---
+---
+
+*[[113-LEGO#^6|^]]* Diese [[Einsicht]] hat [[inzwischen]] auch `in` der [[Wirtschaft]] [[Fuß gefasst]], `sodass` [[Arbeitsmodell]]e [[immer]] [[stärker]] `an` die [[Bedürfnis]]se [[berufstätig]]er [[Eltern]] [[angepasst]] werden
+
+
+
+
+
+
+
+
+
 ---
 _[[Große Koalition#^1|^]]_ Als **Große Koalition** (auch **große Koalition**) wird in der Regel eine Regierungskoalition der [[mandatsstärksten]] Parteien im Parlament [[bezeichnet]]
 

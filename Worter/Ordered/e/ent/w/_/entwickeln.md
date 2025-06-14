@@ -1,8 +1,5 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
-
 🔬[[entwickeln]] + Akk, [ɛntˈvɪkl̩n]
-[[entwickelte]]
-haben [[entwickelt]]
 
 ---
 *[[C1-Hoehen-T3-401-Text#^7|^]]* Der Park wurde von den New Yorkern sofort [[angenommen]], hat einen [[Förderverein]] und konnte sich auch zu einem [[Touristenmagnet]] [[entwickeln]]
@@ -56,4 +53,8 @@ Partizip I: [[entwickelnd]], Partizip II: [[entwickelt]]
 , [[Aufwachsen]], [[erfinden]]
 , [[erstellen]], [[Entwicklung]], [[ableiten]], [[entwerfen]], [[Entfaltung]],  [[bleiben]]
 , [[fehlentwicklung]], [[Persönlichkeitsentwicklung]], [[Teamentwicklung]], [[erweitern]], [[weiterentwickeln]], [[voranbringen]], [[ausbauen]], [[ausreifen]], [[reifen]], [[Entwicklungspotenzial]], [[Entwicklungsstufe]], [[bilden]], [[Weiterentwicklung]]
-, [[Entwickler]], [[einprogrammieren]], [[ausprägen]], [[erarbeiten]], [[mutieren]]
+, [[Entwickler]], [[einprogrammieren]], [[ausprägen]], [[erarbeiten]], [[mutieren]], [[Reif]], [[unreif]], [[entwickeln]], [[Texte/Misc/Anki]]
+
+, [[allmählich]], [[ursprünglich]]
+
+[[Säugling]]

@@ -1,7 +1,15 @@
 🔓 [[zugänglich]], [ˈt͡suːˌɡɛŋlɪç](https://youglish.com/pronounce/zugänglich/german)
 
 ---
-*[[101-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind
+---
+
+*[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die `in` [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind
+
+
+
+
+
+----
 
 Ihre Residenz, das Schloss Vaduz aus dem 13. Jahrhundert, benannt nach der gleichnamigen Hauptstadt der Nation, ist `für` die Öffentlichkeit `nicht` [[zugänglich]]
 

@@ -1,9 +1,17 @@
---> [[Ingredient-Add-Remove]] <--
---> [[🎯 Ingredient-Result-Verb]] <--
+[[Ingredient-Add-Remove]] | [[🎯 Ingredient-Result-Verb]]
+[[etablieren]], [etaˈbliːʁən](https://youglish.com/pronounce/etablieren/german) | [[etablierte]], haben [[etabliert]]
 
-🏢 [[etablieren]], [etaˈbliːʁən](https://youglish.com/pronounce/etablieren/german) | [[etablierte]], haben [[etabliert]]
+----
+----
+
+*[[111-LEGO#^10|^]]* Leider ist das [[leichter gesagt als getan]], `denn` es [[erfordert]] [[enorm]]e [[Disziplin]], [[praktikable]] [[Regel]]n zu [[etablieren]], `um` die Online-Zeit [[konsequent]] zu [[begrenzen]]
+
+
+
+
 
 ---
+
 ❤️ [[C1 Schreiben/misc/Regel]]n [[etablieren]]       *(Establish / Normalize)*
 
 *[[Große Koalition#^3|^]]* Zur [[Abgrenzung]] [[hiervon]] [[etablierte]] sich, [[insbesondere]] zur [[Bezeichnung]] einer Zwei-Parteien-Koalition, der Begriff **Kleine Koalition** (auch **kleine Koalition**). 

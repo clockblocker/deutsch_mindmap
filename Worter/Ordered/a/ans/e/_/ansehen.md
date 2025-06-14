@@ -1,8 +1,14 @@
 🔍 [[ansehen]] + Akk, [anˈzeːən]
-[[sah an|sah an]]
-haben [[angesehen]]
 
-[[Was wollen wir trinken]]
+---
+---
+
+*[[111-LEGO#^15|^]]* So kann [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` [[möglich]]e [[Ursache]] `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]] werden
+
+
+*[[113-LEGO#^12|^]]* So können diese [[finanziell]]en und [[logistisch]]en [[Schwierigkeit]]en `als` [[möglich]]e [[Ursache]] `für` die [[deutlich]] [[gesunkene]] [[Geburtenrate]] [[angesehen]] werden
+
+
 
 ---
 
@@ -12,7 +18,7 @@ _[[C1-Hoehen-T2-201-Text#^16|^]]_ Wenn ich mir am [[Bildschirm]] [[ansehen]] kan
 
 _[[C1-Hoehen-T2-100-Text#^18|^]]_ Was die [[Finanzierbarkeit]] [[betrifft]], so [[ansehen|sehen]] einige Modelle und auch ich die Finanzierbarkeit als [[machbar]] an, während andere das [[bestreiten]]
 
-_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Gerät]]e seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 _[[3. Schuldenpaket. Vergeigen es die Grünen?#^1|^]]_ Ich kann es mir [[kaum]] mit [[ansehen]]. ^1
 
@@ -57,4 +63,4 @@ Morpheme: [[an]], [[seh]], [[en]]
 Partizip I: [[ansehend]], Partizip II: [[angesehen]], Zuinf: [[anzusehen]]
 
 [[ansehen]] - [[an]] = [[sehen]], [[s1 e1]], [[angucken]], [[anschauen]], [[anblicken]], [[Ansichtskarte]], [[Verruf]], [[Abrechnung]], [[Bekanntheitsgrad]], [[Würde]]
-, [[unansehnlich]]
+, [[unansehnlich]], [[Popularität]]

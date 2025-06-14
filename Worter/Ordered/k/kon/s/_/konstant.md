@@ -4,9 +4,11 @@
 ---
 ---
 
-*[[115-LEGO#^4|^]]* Wer sich für einen [[sogenannt]]en „Blue-Collar“-Beruf [[entscheidet]], profitiert von einer [[konstant]] hohen [[Nachfrage]] und [[gering]]erer [[Automatisierungsgefahr]]
+*[[111-LEGO#^15|^]]* So kann [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` [[möglich]]e [[Ursache]] `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]] werden. ^15
 
-*[[111-C1-Schreiben-Model#^10|^]]* So wird [[etwa]] die [[konstant]]e Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] angesehen
+
+
+
 
 
 ---

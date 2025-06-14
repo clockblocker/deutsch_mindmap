@@ -1,1 +1,1 @@
-, [[naturgetreu]]
+, [[naturgetreu]], [[realistisch]]

@@ -1,9 +1,18 @@
 🔴 die [[Wahl]], [vaːl]
-die [[Wahlen]]
 
 ---
-*[[102-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an [[Wahl]]en. ^5
+---
 
+*[[112-LEGO#^6|^]]* Meiner [[Meinung]] `nach` ist das [[Wichtig]]ste, was jeder [[Einzeln]]e zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] `an` [[Wahl]]en
+
+
+
+
+
+
+
+
+---
 
 13. Im Parlament steht der [[Begriff]] „Opposition“ für… (96%)
 	- [x] alle [[Abgeordneten]], die nicht zu der [[Regierungspartei]]/den Regierungsparteien gehören.

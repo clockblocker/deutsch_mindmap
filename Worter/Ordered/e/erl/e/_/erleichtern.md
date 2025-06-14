@@ -6,6 +6,11 @@
 *[[115-LEGO#^11|^]]* Brillen mit digitaler [[Anleitung]] können [[komplex]]e [[Montageprozess]]e [[erleichtern]], [[während]] [[Sensor]]en in [[Maschine]]n [[frühzeitig]] [[Verschleiß]] [[anzeigen]]
 
 
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann. ^8
+
+
+
+
 ---
 
 

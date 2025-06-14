@@ -70,7 +70,7 @@ ausgewogenen Lebensstil
  
 *[[102-C1-Schreiben-T1#^5|^]]* Meiner Meinung nach ist das [[Wichtigste]], was jeder [[Einzelne]] zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] an Wahlen. ^5
 
-*[[102-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
+*[[112-LEGO#^7|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Gehweg|Geh]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
 
 *[[102-C1-Schreiben-T1#^7|^]]* Außerdem kann [[staatliche]] [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf recycelbare [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreiz]]e unterstützen. ^7
 

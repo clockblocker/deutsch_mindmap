@@ -1,1 +1,1 @@
-[[Schale]], [[Um­schlag]], [[Verpackung]]
+[[Schale]], [[Um­schlag]], [[Verpackung]], [[Verpackungsmaterial]]

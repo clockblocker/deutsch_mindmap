@@ -1,1 +1,1 @@
-[[Aufgabengerechtigkeit]]
+[[Aufgabengerechtigkeit]], [[Regel]]

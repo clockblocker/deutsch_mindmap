@@ -1,7 +1,20 @@
 🔴 👩‍💼 die [[Angestellte]], [ˈanɡəʃtɛltə]
-die [[Angestellten]]
 
+----
 ---
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann. ^8
+
+
+
+
+
+
+
+
+
+----
+
 173. Frau Frost arbeitet als [[fest]] [[angestellte]] [[Mitarbeiterin]] in einem Büro. Was muss sie nicht von ihrem [[Gehalt]] bezahlen? (75%)
 	- [x] [[Umsatzsteuer]]
 

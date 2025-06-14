@@ -33,4 +33,4 @@ G: der [[Strecke]], der [[Strecken]]
 D: der [[Strecke]], den [[Strecken]]
 , [[Lauf]]
 
-#Feminin
+#Feminin, [[Radweg]], [[Arbeitsweg]]

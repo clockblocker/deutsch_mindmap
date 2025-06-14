@@ -1,7 +1,13 @@
 🌍 [[klimafreundlich]], [ˈkliːmaˌfʁɔɪ̯ntlɪç](https://youglish.com/pronounce/klimafreundlich/german)
 
 ---
-*[[112-C1-Schreiben-Model#^5|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] leichter gesagt als getan ist
+---
+
+*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist. ^10
+
+
+
+
 
 ---
 = [[umweltfreundlich]], [[klimaschonend]]

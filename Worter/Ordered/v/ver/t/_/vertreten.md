@@ -1,7 +1,20 @@
 🙋‍♂️ [[vertreten]], [fɛɐ̯ˈtʁeːtn̩] | [[vertrat]], haben [[vertreten]]
 
 ---
-*[[112-C1-Schreiben-Model#^3|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es zahlreiche persönliche Maßnahmen `zum` [[Schutz]] der Umwelt gibt. ^3
+---
+
+*[[112-LEGO#^3|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] [[persönlich]]e [[Maßnahme]]n `zum` [[Schutz]] der [[Umwelt]] gibt
+
+
+
+
+
+
+
+
+
+
+---
 
 
 *[[102-C1-Schreiben-T1#^2|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] persönliche Maßnahmen zum [[Schutz]] der [[Umwelt]] gibt.

@@ -25,4 +25,4 @@ D: der [[Erziehung]], den [[Erziehungen]]
 [[erziehen]], [[erzieherisch]], [[Erzieher]], [[Erzieherin]], [[Erziehungsberechtigter]]
 
 
-#Feminin , [[Kinderbetreuung]], [[entscheiden]], [[Sensibilisierung]]
+#Feminin , [[Kinderbetreuung]], [[entscheiden]], [[Sensibilisierung]], [[Elternschaft]]

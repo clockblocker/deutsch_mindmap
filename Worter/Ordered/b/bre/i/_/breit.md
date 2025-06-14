@@ -1,7 +1,18 @@
-🔵 [[breit]], [bʀaɪt]
-nicht [[schmal]]
+🔵 [[breit]], [bʀaɪt] nicht [[schmal]]
 
 ---
+---
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]] 
+
+
+
+
+
+
+---
+
+
 *[[C1-Hoehen-T1-102-Text#^14|^]]* Besonders die Finanzkrise kurz nach der [[Jahrtausendwende]] habe [[gezeigt]], dass es dem [[breit]]en [[Bürgertum]] an [[Wissen]] [[fehle]] wie beispielsweise über sichere [[Geldanlage]]n, Vor- und Nachteile von Aktien oder [[Immobilienfinanzierung]]
 
 *[[C1-Hoehen-T3-401-Text#^1|^]]* Bangkoks Lage führt dazu, dass der durch die Stadt [[fließend]]e Strom sich ein immer [[breiteres]] [[Bett]] [[gräbt]]

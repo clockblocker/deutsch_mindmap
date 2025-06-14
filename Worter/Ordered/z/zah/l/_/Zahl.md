@@ -1,7 +1,27 @@
 🔢 die [[Zahl]], [tsa:l] | 💵 [[zahlen]]  
-die [[Zahlen]]
 
+----
 ---
+
+*[[213-LEGO#^1|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeit]]en nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann, insbesondere zum [[Jahresende]], wenn die [[Zahl]] der [[Nutzer]] deutlich [[steigt]]
+
+
+*[[112-LEGO#^1|^]]* In den [[vergangen]]en zehn Jahren wurden in [[nahezu]] jedem Sommer neue [[Temperaturrekord]]e [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]
+
+
+
+
+
+
+----
+
+
+
+
+
+
+
+
 *[[112-C1-Schreiben-Model#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und Waldbrände [[deutlich]] [[gestiegen]]
 
 
@@ -35,4 +55,4 @@ D: der [[Zahl]], den [[Zahlen]]
 , [[Mengenangabe]], [[auszahlen]]
 , [[Zahlung]], [[Vielzahl]], [[Million]], [[Besucherzahl]]
 
-#Feminin , [[Mehrzahl]], [[Zahlenverständnis]], [[Gästezahl]], [[zehntausend]]
+#Feminin , [[Mehrzahl]], [[Zahlenverständnis]], [[Gästezahl]], [[zehntausend]], [[bezahlbar]]

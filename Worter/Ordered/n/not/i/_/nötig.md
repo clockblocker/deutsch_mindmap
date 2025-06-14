@@ -1,7 +1,12 @@
 --> [[Ingredient-Verben-Bedürfnis]] <--
+[[nötig]], [ˈnøːtɪç] nicht [[unnötig]]
 
-[[nötig]], [ˈnøːtɪç]
-nicht [[unnötig]]
+---
+---
+
+*[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
+
+
 
 ---
 

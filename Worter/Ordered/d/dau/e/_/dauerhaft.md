@@ -1,11 +1,17 @@
---> ⏱️ [[Temporal-Template]] <--
---> ⏱️ [[Temporal-Frequenz]] <--
---> ⏱️ [[Temporal-Dauerhaft]] <--
-
+--> ⏱️ [[Temporal-Template]] | [[Temporal-Frequenz]] | [[Temporal-Dauerhaft]] <--
 🕰️ [[dauerhaft]], [ˈdaʊ̯ɐhaft](https://youglish.com/pronounce/dauerhaft/german)
 
 ---
-*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann. ^1
+---
+
+*[[111-LEGO#^2|^]]* Einer der [[wichtig]]sten [[Antriebsfaktor]]en `dafür` ist das [[enorm]]e [[Angebot]] `an` sozialen [[Medie]]n: Sie ermöglichen [[sowohl]] [[dauerhaft]]en [[sozial]]en [[Kontakt]] `als` auch [[grenzenlos]]e [[Unterhaltung]]
+
+*[[111-LEGO#^6|^]]* `Auf` `der` anderen [[Seite]] sind viele `der` festen [[Überzeugung]], `dass` die [[dauerhaft]]e [[Verschmelzung]] `von` Online- und [[Realwelt]] [[zahlreiche]] [[Gefahr]]en `mit` `sich` bringt
+
+
+---
+
+*[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^1|^]]* Psychische [[Belastung]] am Arbeitsplatz [[entsteht]] oft durch hohen Arbeitsdruck, [[mangelnde]] Pausen und die [[dauerhaft]]e [[Erreichbarkeit]], was zu einem [[Zustand]] [[chronisch]]er [[Überforderung]] [[führen]] kann
 
 
 *[[101-C1-Schreiben-T1#^6|^]]* Auf der anderen Seite sind viele der [[fest]]en [[Überzeugung]], dass die [[dauerhaft]]e [[Verschmelzung]] von Online- und [[Realwelt]] [[zahlreich]]e [[Gefahr]]en mit sich [[mitbringen|bringt]]. ^6

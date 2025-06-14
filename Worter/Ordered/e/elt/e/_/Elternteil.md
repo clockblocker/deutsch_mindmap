@@ -1,1 +1,1 @@
-, [[Elternzeit]], [[Erziehungsberechtigten]], [[Sprössling]], [[Mutter]]
+, [[Elternzeit]], [[Erziehungsberechtigten]], [[Sprössling]], [[Mutter]], [[Elternschaft]]

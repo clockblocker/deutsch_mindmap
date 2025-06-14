@@ -31,4 +31,4 @@ A: die [[Vorschrift]], die [[Vorschriften]]
 G: der [[Vorschrift]], der [[Vorschriften]]
 D: der [[Vorschrift]], den [[Vorschriften]]
 
-#Feminin , [[Umweltstandard]], [[Kleidervorschrift]], [[Kleidungsvorschrift]]
+#Feminin , [[Umweltstandard]], [[Kleidervorschrift]], [[Kleidungsvorschrift]], [[Regel]]

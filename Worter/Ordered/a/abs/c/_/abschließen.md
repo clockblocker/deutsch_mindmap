@@ -7,6 +7,12 @@
 *[[215-LEGO#^6|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
 
 
+*[[112-LEGO#^9|^]]* [[Abschließend]] lässt sich sagen, dass `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, `um` [[realistisch]]e [[persönlich]]e [[Maßnahme]]n `gegen` den [[Klimawandel]] [[vorzuschlagen]]. ^9
+
+
+
+
+
 ---
 
 

@@ -1,7 +1,21 @@
 🔴 die [[Diskussion]], [dɪsˈkuːsɪoːn]
-die [[Diskussionen]]
 
 ---
+---
+
+*[[111-LEGO#^3|^]]* Soziale Medien stehen `nicht nur` `im` [[Mittelpunkt]] [[öffentlich]]er [[Diskussion]]en – sie sind `auch` der [[Ort]], `an` dem diese [[Diskussion]]en [[stattfinden]]
+
+
+*[[112-LEGO#^2|^]]* Aus diesem Grund steht das Thema [[Klimaschutz]] im [[Mittelpunkt]] [[öffentlich]]er [[Diskussion]]en
+
+
+
+
+
+
+---
+
+
 
 Aber man kann Senf auch in einer [[Diskussion]] oder bei einem [[Streit]] [[einsetzen]]. Und [[darüber]] [[freuen]] sich die [[wenigsten]].
 

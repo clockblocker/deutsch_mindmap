@@ -1,11 +1,12 @@
 ⚙️ 🟢 das [[Arbeitsmodell]], [ˈaʁbaɪ̯t͡sˌmoˌdɛl](https://youglish.com/pronounce/Arbeitsmodell/german)
-die [[Arbeitsmodelle]]
 
 ----
 ---
 
 *[[115-LEGO#^3|^]]* [[Ebenso]] [[fließt ein|fließt]] [[zunehmend]] die Work-Life-Balance in die [[Entscheidung]] [[ein]], weil flexible [[Arbeitsmodell]]e und [[verlässlich]]e [[Arbeitszeit]]en [[Lebensqualität]] [[versprechen]]
 
+
+*[[113-LEGO#^6|^]]* Diese [[Einsicht]] hat [[inzwischen]] auch `in` der [[Wirtschaft]] [[Fuß gefasst]], `sodass` [[Arbeitsmodell]]e [[immer]] [[stärker]] `an` die [[Bedürfnis]]se [[berufstätig]]er [[Eltern]] [[angepasst]] werden
 
 
 
@@ -39,4 +40,4 @@ G: des [[Arbeitsmodells]], der [[Arbeitsmodelle]]
 D: dem [[Arbeitsmodell]], den [[Arbeitsmodellen]]
 
 
-#Neuter , [[Server]]
+#Neuter , [[Server]], [[Hybridarbeitsmodell]]

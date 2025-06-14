@@ -1,7 +1,22 @@
 🤝 🔴 die [[Vereinbarkeit]], [fɛɐ̯ˈʔaɪ̯nbarkhaɪ̯t](https://youglish.com/pronounce/Vereinbarkeit/german)
-(no plural form)
 
 ---
+---
+
+*[[113-LEGO#^2|^]]* In Deutschland [[etwa]] arbeiten beide Partner [[häufig]] `in` [[Vollzeit]], `während` die [[Vereinbarkeit]] `durch` [[steigen]]de [[Kita]]- und [[Schulgebühr]]en `sowie` lange [[Pendelzeit]]en [[erschwert]] wird
+
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann
+
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann
+
+
+
+
+
+---
+
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^4|^]]* Damit wird nicht nur die [[Vereinbarkeit]] von Beruf und Privatleben [[verbessert]], sondern auch Raum geschaffen, in dem Mitarbeitende [[eigenverantwortlich]] und in ihrem individuellen Tempo arbeiten können
 
 Es wird die [[Vereinbarkeit]] von Funktion und Schönheit [[aufgezeigt]]

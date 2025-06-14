@@ -1,5 +1,13 @@
 🏠 🟢 das [[Homeoffice]], [ˈhoːmʔɔfɪs](https://youglish.com/pronounce/Homeoffice/german)
-(no plural form)
+
+---
+---
+
+*[[113-LEGO#^7|^]]* Ein [[wichtig]]er [[Schritt]] war die [[gestiegen]]e [[Popularität]] `von` [[Homeoffice]]- und [[Hybridarbeitsmodell]]en
+
+
+
+
 
 ---
 Wenn kein größeres Büro angeboten werden kann, schlage ich vor, dem Team die Möglichkeit zu geben, an ein bis zwei Tagen pro Woche im [[Homeoffice]] zu arbeiten. ^4

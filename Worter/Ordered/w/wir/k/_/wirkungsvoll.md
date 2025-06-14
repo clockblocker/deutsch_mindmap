@@ -1,1 +1,1 @@
-, [[Wirkung]], [[wirksam]]
+, [[Wirkung]], [[wirksam]], [[effektiv]]

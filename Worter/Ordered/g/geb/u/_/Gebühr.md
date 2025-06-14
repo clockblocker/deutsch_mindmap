@@ -1,2 +1,2 @@
 , [[Preis]], [[Steuer]], [[bezahlen]]
-, [[Miete]]
+, [[Miete]], [[Schulgebühr]]

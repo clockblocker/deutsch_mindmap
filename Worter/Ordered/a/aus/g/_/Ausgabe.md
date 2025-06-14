@@ -29,4 +29,4 @@ G: der [[Ausgabe]], der [[Ausgaben]]
 D: der [[Ausgabe]], den [[Ausgaben]]
 
 
-#Feminin , [[Version]], [[Ersparnis]], [[Auflage]], [[Taschenbuchausgabe]], [[Gehaltsausgabe]]
+#Feminin , [[Version]], [[Ersparnis]], [[Auflage]], [[Taschenbuchausgabe]], [[Gehaltsausgabe]], [[Seite]]

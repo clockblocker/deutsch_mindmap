@@ -1,13 +1,13 @@
 --> ⏱️ [[Temporal-Zeitpunkt]] <--
-
-vergangen, [fɛɐ̯ˈɡaŋən]
-nicht [[zukünftig]]
+vergangen, nicht [[zukünftig]]
 
 ---
-*[[112-C1-Schreiben-Model#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und Waldbrände [[deutlich]] [[gestiegen]]
+---
 
-*[[102-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
+*[[112-LEGO#^1|^]]* In den [[vergangen]]en zehn Jahren wurden in [[nahezu]] jedem Sommer neue [[Temperaturrekord]]e [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
 
+
+---
 
 Meine Großmutter [[erzählte]] mir oft [[Geschichten]] über eine längst [[vergangene]] Zeit, von einer Zeit des [[Friedens]].
 

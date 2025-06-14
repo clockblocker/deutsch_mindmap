@@ -1,7 +1,12 @@
 💬 🟢 das [[Forum]], [ˈfoːʁʊm](https://youglish.com/pronounce/Forum/german)
 
 ---
-*[[101-C1-Schreiben-T1#^11|^]]* [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11
+---
+
+*[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die `in` [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind
+
+
+
 
 
 ---

@@ -1,1 +1,1 @@
-, [[Verpackung]]
+, [[Verpackung]], [[Verpackungsmaterial]]

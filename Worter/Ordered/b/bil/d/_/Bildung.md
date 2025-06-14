@@ -29,4 +29,4 @@ D: der [[Bildung]], den [[Bildungen]]
 
 [[Erzie­hung]], [[Erziehung]], [[Weiterbildung]], [[Politikunterricht]], [[Volksbildung]], [[Schulwesen]], [[Abbildung]], [[Erwachsenenanfängergruppe]], [[Bildungschance]], [[Bildungseinrichtung]], [[Bildungserfolg]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Entstehung]], [[Wissen]], [[Aufklärung]], [[bilden]]
 
-#Feminin, [[Bildungsergebnis]], [[weiterbilden]]
+#Feminin, [[Bildungsergebnis]], [[weiterbilden]], [[Schulplatz]]

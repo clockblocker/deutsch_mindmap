@@ -1,8 +1,20 @@
 --> [[🎯 Ingredient-Result-Verb]] <--
-
 🤝 [[unterstützen]], [ʊntɪˈʃtʏtsən] | [[unterstützte]], haben [[unterstützt]]
 
 ---
+---
+
+*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]]
+
+
+*[[113-LEGO#^4|^]]* `Da` [[Rentensystem]]e und [[Volkswirtschaft]]en `auf` höhere [[Geburtenrate]]n [[angewiesen]] sind, ist es `für` [[Staat]]en [[sinnvoll]], Bürger:innen `dabei` zu [[unterstützen]], [[Berufsleben|Berufs]]- und [[Familienleben]] [[erfolgreich]] zu [[verbinden]]
+
+
+
+
+
+---
+
 *[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^5|^]]* [[Zusätzlich]] können [[Angebot]]e wie [[Betriebssport]], Yoga-Kurse oder auch [[regelmäßige]] [[Pausenräume]], in denen sich die [[Beschäftigten]] [[zurückziehen]] und regenerieren können, den [[Stressabbau]] [[unterstützen]]
 
 *[[C1-Hoehen-T3-301-Text#^9|^]]* Studierende der MINT-Fächer sollen die [[Fachkräfte]] [[bereits]] [[während]] des Studiums [[unterstützen]] 

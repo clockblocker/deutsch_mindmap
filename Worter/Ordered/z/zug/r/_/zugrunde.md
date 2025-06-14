@@ -36,3 +36,4 @@ underlying, at the root of
 
 ---
 Adjektive: [[zugrunde]]
+, [[Regel]]

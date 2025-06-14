@@ -1,9 +1,15 @@
 🧠 der [[Begriff]], [bəˈɡʁɪf]
-die [[Begriffe]]
 
 ---
-*[[111-C1-Schreiben-Model#^11|^]]* Ohne die Entwicklung der [[Empfehlungssystem]]e auf Plattformen wie YouTube wäre der [[Begriff]] „iPad-Kind“ wahrscheinlich nie entstanden
+---
 
+*[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]
+
+
+
+
+
+---
 
 *[[C1-Hoehen-T2-102-Text#^36|^]]* Ich [[vermute]], dass [[Begriff]]e wie Null-Emission-Fahrzeug die Menschen auf eine falsche Fährte geführt haben, denn wie wir gehört haben, sind Abgase ja nicht die alleinigen Übeltäter
 

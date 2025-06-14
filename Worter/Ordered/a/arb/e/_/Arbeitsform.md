@@ -29,4 +29,4 @@ G: der [[Arbeitsform]], der [[Arbeitsformen]]
 D: der [[Arbeitsform]], den [[Arbeitsformen]]
 
 
-#Feminin , [[Recht]], [[Recht]]
+#Feminin , [[Recht]], [[Recht]], [[Form]]

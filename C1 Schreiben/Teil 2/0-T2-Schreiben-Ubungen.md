@@ -70,7 +70,7 @@
 
 2. Arbeitsressourcen (Fehlende oder schlechte Ausstattung):
 	•	Fehlender Strom / Internet / Technische [[Störungen]]
-	•	Fehlende Arbeitsmaterialien (Bücher, [[Geräte]], Software)
+	•	Fehlende Arbeitsmaterialien (Bücher, [[Gerät]]e, Software)
 
 3. Organisation und Prozesse ([[Abläufe]] und Regeln):
 	•	[[Ungenügende]] oder verspätete Kommunikation

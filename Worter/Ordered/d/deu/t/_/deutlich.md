@@ -1,8 +1,20 @@
---> 🧩 [[Grad-Wahrheit]] <--
---> 💥 [[Grad-Intensität]] <--
+--> 🧩 [[Grad-Wahrheit]] | 💥 [[Grad-Intensität]]<--
+🔬 [[deutlich]], [ˈdɔɪ̯tlɪç] |  [[Deutung]]  🗣️ [[deuten]] | nicht [[undeutlich]]
 
-🔬 [[deutlich]], [ˈdɔɪ̯tlɪç] |  [[Deutung]]😌 [[deutlich]] | 🗣️ [[deuten]]
-nicht [[undeutlich]]
+---
+---
+
+*[[111-LEGO#^15|^]]* So kann [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` [[möglich]]e [[Ursache]] `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]] werden
+
+
+*[[113-LEGO#^12|^]]* So können diese [[finanziell]]en und [[logistisch]]en [[Schwierigkeit]]en `als` [[möglich]]e [[Ursache]] `für` die [[deutlich]] [[gesunkene]] [[Geburtenrate]] [[angesehen]] werden
+
+
+*[[213-LEGO#^1|^]]* Ich habe vollstes Verständnis dafür, dass die Bibliothek [[angesichts]] der [[Umbauarbeit]]en nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann, insbesondere zum [[Jahresende]], wenn die [[Zahl]] der [[Nutzer]] [[deutlich]] [[steigt]]
+
+
+*[[112-LEGO#^1|^]]* In den [[vergangen]]en zehn Jahren wurden in [[nahezu]] jedem Sommer neue [[Temperaturrekord]]e [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]
+
 
 ---
 *[[111-C1-Schreiben-Model#^10|^]]* So wird [[etwa]] die [[konstant]]e Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] angesehen
@@ -14,7 +26,7 @@ Ich kann dich nicht verstehen, bitte sprich [[deutlich]].
 
 *[[C1-Hoehen-T3-301-Text#^56|^]]* Nicht nur im Transport- oder im [[Gesundheitswesen]] zeigt sich bereits ein [[deutlich]]er Mangel an [[Fachkräften]];
 
-*[[101-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+*[[101-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Gerät]]e seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 
 *[[102-C1-Schreiben-T1#^1|^]]* In den [[vergangenen]] zehn Jahren wurden in [[nahezu]] jedem Sommer neue Temperaturrekorde [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1

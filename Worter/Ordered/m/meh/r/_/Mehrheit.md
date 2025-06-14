@@ -1,6 +1,15 @@
 --> 🧮 [[Grad-Quantität]] <--
-🗳️ 🔴 die [[Mehrheit]], [ˈmeːɐ̯haɪ̯t]
-die [[Mehrheiten]]
+🗳️ die [[Mehrheit]], [ˈmeːɐ̯haɪ̯t]
+
+---
+---
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]]
+
+
+
+
+
 
 ---
 Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, kann die [[Regierung]] ihre [[Mehrheit]] [[verlieren]].

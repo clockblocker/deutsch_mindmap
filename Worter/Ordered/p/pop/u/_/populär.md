@@ -1,1 +1,1 @@
-, [[berühmt]], [[beliebtes]], [[unbeliebt]]
+, [[berühmt]], [[beliebtes]], [[unbeliebt]], [[Popularität]]

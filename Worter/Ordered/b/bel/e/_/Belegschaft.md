@@ -1,6 +1,17 @@
 👥 🔴 die [[Belegschaft]], [bəˈleːkʃaft](https://youglish.com/pronounce/Belegschaft/german)
 
 ---
+---
+
+*[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
+
+
+
+
+
+
+
+---
 *[[GPT 3 Homeoffice – Zukunftsmodell oder Ausnahme?#^1|^]]* Nach der Corona Pandemie haben viele Unternehmen das Homeoffice ermöglicht, weil es nicht nur [[zahlreiche]] organisatorische Vorteile bietet, sondern auch die Produktivität der [[Belegschaft]] [[steigern]] kann. ^1
 
 

@@ -1,7 +1,19 @@
 [[verloren]], [fɛɐ̯ˈlɔːʁən] -> [[verlieren]]
-nicht [[gefunden]]
 
 ---
+---
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann
+
+
+
+
+
+----
+
+
+
+
 
 _[[C1-Hoehen-T1-101-Text#^15|^]]_ Als studierte [[Schulmedizinerin]] [[fehlten]] ihr nach den ersten Jahren im [[Geschäft]] die Antworten auf [[wesentlich]]e Fragen, sodass das Interesse an dem teils [[verschollen]]en [[Wissen]] über [[Heilkunde]] [[hierzulande]] und international wuchs
 

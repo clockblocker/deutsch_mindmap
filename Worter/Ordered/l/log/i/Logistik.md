@@ -1,1 +1,1 @@
-, [[Logistiksystem]], [[Transportunternehmen]]
+, [[Logistiksystem]], [[Transportunternehmen]], [[logistisch]]

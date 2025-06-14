@@ -1,5 +1,15 @@
 👶 🔴 die [[Geburtenrate]], [ɡəˈbuːɐ̯tn̩ˌʁaːtə](https://youglish.com/pronounce/Geburtenrate/german)
-die [[Geburtenraten]]
+
+---
+---
+
+*[[113-LEGO#^12|^]]* So können diese [[finanziell]]en und [[logistisch]]en [[Schwierigkeit]]en `als` [[möglich]]e [[Ursache]] `für` die [[deutlich]] [[gesunkene]] [[Geburtenrate]] [[angesehen]] werden
+
+
+*[[113-LEGO#^4|^]]* `Da` [[Rentensystem]]e und [[Volkswirtschaft]]en `auf` höhere [[Geburtenrate]]n [[angewiesen]] sind, ist es `für` [[Staat]]en [[sinnvoll]], Bürger:innen `dabei` zu [[unterstützen]], [[Berufsleben|Berufs]]- und [[Familienleben]] [[erfolgreich]] zu [[verbinden]]
+
+
+
 
 ---
 *[[C1-Hoehen-T3-401-Text#^3|^]]* Die Landflucht [[verursacht]] eine fallende [[Geburtenrate]]

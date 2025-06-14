@@ -1,1 +1,1 @@
-, [[Fußabdruck]]
+, [[Fußabdruck]], [[Gehweg]]

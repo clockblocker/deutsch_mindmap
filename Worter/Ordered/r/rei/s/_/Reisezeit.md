@@ -33,3 +33,4 @@ G: der [[Reisezeit]], der [[Reisezeiten]]
 D: der [[Reisezeit]], den [[Reisezeiten]]
 
 #Feminin
+, [[Pendelzeit]]

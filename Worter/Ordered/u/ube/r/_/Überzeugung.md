@@ -3,8 +3,19 @@
 🤔 🔴 die [[Überzeugung]], [yːbɐˈtsɔʏ̯ɡʊŋ](https://youglish.com/pronounce/Überzeugung/german)
 
 ---
+---
+
+*[[111-LEGO#^6|^]]* `Auf` `der` anderen [[Seite]] sind viele `der` festen [[Überzeugung]], `dass` die [[dauerhaft]]e [[Verschmelzung]] `von` Online- und [[Realwelt]] [[zahlreiche]] [[Gefahr]]en `mit` `sich` bringt
+
+
+*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist. ^10
+
+
+
+---
+
  Ich bin der [[Überzeugung]], dass ...
- 
+
 *[[112-C1-Schreiben-Model#^5|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] leichter gesagt als getan ist
 
 *[[C1-Hoehen-T1-203-Text#^5|^]]* Als [[selbsternannt]]er [[Chauvinist]] war er der [[fest]]en [[Überzeugung]], dass ein Mann selbst in seinem Alter die Tennisspielerin schlagen könne

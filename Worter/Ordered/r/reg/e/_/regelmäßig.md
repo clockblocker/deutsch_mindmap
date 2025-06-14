@@ -43,4 +43,4 @@ Neuter: [[regelmäßiges]], [[regelmäßigeres]], [[regelmäßigstes]]
 Plural: [[regelmäßigen]], [[regelmäßigeren]], [[regelmäßigsten]]
 
 [[Regelmäßigkeit]], [[regelmäßig]], [[unregelmäßig]], [[Regelmäßigkeiten]], [[geduld]], [[befürchten]], [[häufig]], [[allwöchentlich]], [[gelegentlich]], [[alltäglich]], [[jährlich]], [[stetig]]
-, [[stets]]
+, [[stets]], [[Regel]]

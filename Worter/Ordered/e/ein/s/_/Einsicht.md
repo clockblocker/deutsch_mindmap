@@ -1,7 +1,18 @@
 🔴 die [[Einsicht]], [ˈaɪ̯nˌzɪçt]
-die [[Einsichten]]
 
 ---
+---
+
+*[[113-LEGO#^6|^]]* Diese [[Einsicht]] hat [[inzwischen]] auch in der [[Wirtschaft]] [[Fuß gefasst]], `sodass` [[Arbeitsmodell]]e [[immer]] [[stärker]] `an` die [[Bedürfnis]]se [[berufstätig]]er [[Eltern]] [[angepasst]] werden
+
+
+
+
+
+
+
+
+----
 
 _[[C1-Lesen-T4-102-Text#^22|^]]_ Außerdem bekommen die [[Fremdfirmen]] [[Einsicht]] in [[betrieblich]]e Interna und man macht sich [[abhängig]] von ihnen
 

@@ -1,9 +1,20 @@
-💼 🟢 das [[Berufsleben]], [bəˈʁuːfsˌleːbm̩](https://youglish.com/pronounce/Berufsleben/german)
-(no plural form)
+💼 das [[Berufsleben]], [bəˈʁuːfsˌleːbm̩](https://youglish.com/pronounce/Berufsleben/german)
 
 ---
+---
 
-_[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^1|^]]_ Virtuelle Meetings bieten im [[Berufsleben]] [[zahlreich]]e [[Vorteil]]e. ^1
+*[[113-LEGO#^4|^]]* `Da` [[Rentensystem]]e und [[Volkswirtschaft]]en `auf` höhere [[Geburtenrate]]n [[angewiesen]] sind, ist es `für` [[Staat]]en [[sinnvoll]], Bürger:innen `dabei` zu [[unterstützen]], [[Berufsleben|Berufs]]- und [[Familienleben]] [[erfolgreich]] zu [[verbinden]]
+
+
+
+
+
+
+----
+
+_[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^1|^]]_ Virtuelle Meetings bieten im [[Berufsleben]] [[zahlreich]]e [[Vorteil]]e
+
+
 
 ---
 

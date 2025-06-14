@@ -50,4 +50,4 @@ Adjektive: [[commutend]], [[commutender]], [[commutendst]]
 [[commutender]], [[commutendes]], [[commutende]], [[commutenden]], [[commutendem]], [[commutenderer]], [[commutenderes]], [[commutendere]], [[commutenderen]], [[commutenderem]], [[commutendster]], [[commutendstes]], [[commutendste]], [[commutendsten]], [[commutendstem]]
 
 
-#Neuter , [[bro-schrieben-c1-t1-002]]
+#Neuter , [[bro-schrieben-c1-t1-002]], [[Arbeitsweg]]

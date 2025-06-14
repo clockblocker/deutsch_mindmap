@@ -1,1 +1,1 @@
-, [[antreten]]
+, [[antreten]], [[Fuß fassen]]

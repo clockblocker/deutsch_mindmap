@@ -33,4 +33,4 @@ varied, diverse
 Adjektive: [[abwechslungsreich]], [[abwechslungsreicher]], [[abwechslungsreichst]]
 
 ---
-[[abwechslungsreicher]], [[abwechslungsreiches]], [[abwechslungsreiche]], [[abwechslungsreichen]], [[abwechslungsreichem]], [[abwechslungsreicherer]], [[abwechslungsreicheres]], [[abwechslungsreichere]], [[abwechslungsreicheren]], [[abwechslungsreicherem]], [[abwechslungsreichster]], [[abwechslungsreichstes]], [[abwechslungsreichste]], [[abwechslungsreichsten]], [[abwechslungsreichstem]]
+[[abwechslungsreicher]], [[abwechslungsreiches]], [[abwechslungsreiche]], [[abwechslungsreichen]], [[abwechslungsreichem]], [[abwechslungsreicherer]], [[abwechslungsreicheres]], [[abwechslungsreichere]], [[abwechslungsreicheren]], [[abwechslungsreicherem]], [[abwechslungsreichster]], [[abwechslungsreichstes]], [[abwechslungsreichste]], [[abwechslungsreichsten]], [[abwechslungsreichstem]], [[Regel]]

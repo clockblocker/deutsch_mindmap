@@ -1,10 +1,24 @@
 🧐 [[erwarten]], [ɛɐ̯ˈvɑʁtn̩] | [[erwartete]], haben [[erwartet]]
 
 ---
+----
+
+*[[112-LEGO#^7|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] `mit` [[verbreiterten]] [[Gehweg]]- und [[Radweg]]en, ist es [[wenig]] [[sinnvoll]], `von` den Bürger:innen den [[Verzicht]] `auf` [[Auto]]s zu [[erwarten]]
+
+
+
+
+
+
+
+
+
+
+---
 
 Dieses Jahr flog Fred nach Namibia, um sich endlich einen großen [[Wunsch]] zu [[erfüllen]]: exotische Tiere in freier [[Wildbahn]] beobachten. Und [[tatsächlich]] wurden seine [[Erwartungen]] erfüllt. In den weiten Landschaften Namibias konnte Fred Zebras, Giraffen und Elefanten aus nächster [[Nähe]] [[bewundern]].
 
-_[[102-C1-Schreiben-T1#^6|^]]_ Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
+_[[102-C1-Schreiben-T1#^6|^]]_ Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Gehweg|Geh]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]. ^6
 
 [[1 ADHD#^5|^]] steht auf, obwohl Sitzenbleiben [[erwartet]] wird. ^5
 

@@ -1,1 +1,1 @@
-, [[Straße]]
+, [[Straße]], [[Gehweg]], [[Radweg]]

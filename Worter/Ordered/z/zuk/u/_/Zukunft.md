@@ -1,7 +1,15 @@
 🔴 die [[Zukunft]], [ˈtsuːkʊnft]
-die [[Zukünfte]]
 
 ---
+---
+
+*[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
+
+
+
+----
+
+
 
 Die Frage nach dem [[Zukunft]] dieser Welt [[betrifft]] uns alle
 

@@ -1,11 +1,16 @@
 --> [[Ingredient-Add-Remove]] <--
+⚖️ die [[Regulierung]], [ʁeɡuˈliːʁʊŋ](https://youglish.com/pronounce/Regulierung/german)
 
-⚖️ 🔴 die [[Regulierung]], [ʁeɡuˈliːʁʊŋ](https://youglish.com/pronounce/Regulierung/german)
+---
+---
+
+*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]] ^8
+
+
+
 
 ---
 ❤️ [[Regulierung]] [[einführen]]                              *(Introduce)*
-
-*[[102-C1-Schreiben-T1#^7|^]]* Außerdem kann [[staatliche]] [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf [[recycelbar]]e [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreize]] unterstützen. ^7
 
 
 ---

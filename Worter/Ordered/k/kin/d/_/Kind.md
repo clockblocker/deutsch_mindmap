@@ -16,4 +16,4 @@ Translation:
 ---
 
 #Substantiv #Neuter  
-, [[Töchterlein]], [[Stiefkind]], [[Jugendliche]], [[s1 e1]], [[Grundschulkind]], [[frühkindlich]], [[Kindesalter]], [[Kindern]], [[Grammatik-Pronomen-Relativ-Selbständige]], [[Grammatik-Pronomen-Relativ-Possessiv]], [[Sprössling]], [[Säugling]], [[Kindheit]], [[Nachfahre]], [[Kinderbetreuungsangebot]], [[Kinderbetreuung]], [[Winzling]]
+, [[Töchterlein]], [[Stiefkind]], [[Jugendliche]], [[s1 e1]], [[Grundschulkind]], [[frühkindlich]], [[Kindesalter]], [[Kindern]], [[Grammatik-Pronomen-Relativ-Selbständige]], [[Grammatik-Pronomen-Relativ-Possessiv]], [[Sprössling]], [[Säugling]], [[Kindheit]], [[Nachfahre]], [[Kinderbetreuungsangebot]], [[Kinderbetreuung]], [[Winzling]], [[Kinderarzt]]

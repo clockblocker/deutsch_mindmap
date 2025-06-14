@@ -1,14 +1,10 @@
-[[Erlebnis]], [[Feier]], [[Freizeitaktivität]], [[Arbeitsauftrag]], [[Schularbeit]], [[Bindungsurlaub]], [[Studiengang]], [[Rente]][[Pension]], [[verarbeiten]], [[abarbeiten]], [[Spaziergang]], [[Arbeitsdruck]], [[Arbeitgeber]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitnehmerrecht]], [[Arbeitszeitmodell]], [[Arbeitsmodell]], [[Arbeitsumfeld]], [[Kaffeepause]], [[Kaffeepause]], [[Zusammenarbeit]]б [[Arbeitskonzept]], [[Arbeitsform]], [[Arbeitsbedingung]], [[Arbeitsprozess]], [[Bauarbeiter]], [[Arbeitsschritt]], [[ausarbeiten]], [[Ausarbeitung]], [[Spiel]], [[Bürosituation]], [[Vorarbeit]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Arbeitsraum]], [[Hauptbeschäftigung]], [[Mühe]], [[Arbeitslosengeld]][[Lehrerberuf]], [[Erdarbeit]], [[Arbeitskraft]], [[Ruhestand]], [[Arbeitszeit]], [[Arbeitsaufgabe]], [[Arbeitsalltag]], [[Arbeitsvertrag]], [[Aufklärungsarbeit]], [[Anstellung]], [[Leiharbeit]], [[Arbeitsablauf]], [[Leiharbeitsfirma]], [[Arbeitnehmerüberlassung]], [[Einarbeitung]], [[Leiharbeitsphase]], [[erarbeiten]], [[Arbeitsmarktperspektive]], [[Arbeitsatmosphäre]], [[Doktorarbeit]], [[Arbeitsamt]], [[Arbeitsplatz]], [[Arbeitnehmer]], [[arbeitsunfähig]], [[Zwangsarbeit]]
-
-
-
-
-
-
 💼 die [[Arbeit]], [ˈaɐ̯baɪ̯t]
-die [[arbeiten]]
 
 ---
+---
+
+*[[113-LEGO#^10|^]]* [[Abgesehen]] `von` [[direkt]]er [[finanziell]]er [[Unterstützung]] ist es [[aus meiner Sicht]] [[vor allem]] [[wichtig]], Eltern [[verlässlich]]e [[Zeitfenster]] `für` [[ununterbrochen]]es [[Arbeit]]en zu [[verschaffen]]
+
 
 
 ---
@@ -34,8 +30,7 @@ D: der [[Arbeit]], den [[arbeiten]]
 
 ---
 
-arbeiten, arbeitsam, arbeitslos, arbeitsfähig, Arbeitgeber, 
-
-
-
 #Feminin 
+
+[[Erlebnis]], [[Feier]], [[Freizeitaktivität]], [[Arbeitsauftrag]], [[Schularbeit]], [[Bindungsurlaub]], [[Studiengang]], [[Rente]][[Pension]], [[verarbeiten]], [[abarbeiten]], [[Spaziergang]], [[Arbeitsdruck]], [[Arbeitgeber]], [[Arbeitsstelle]], [[Erwerbstätigkeit]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitnehmerrecht]], [[Arbeitszeitmodell]], [[Arbeitsmodell]], [[Arbeitsumfeld]], [[Kaffeepause]], [[Kaffeepause]], [[Zusammenarbeit]]б [[Arbeitskonzept]], [[Arbeitsform]], [[Arbeitsbedingung]], [[Arbeitsprozess]], [[Bauarbeiter]], [[Arbeitsschritt]], [[ausarbeiten]], [[Ausarbeitung]], [[Spiel]], [[Bürosituation]], [[Vorarbeit]], [[Arbeitsumgebung]], [[Bauarbeit]], [[Arbeitsbelastung]], [[Bildungsfreistellung]], [[Bildungsurlaub]], [[Arbeitsraum]], [[Hauptbeschäftigung]], [[Mühe]], [[Arbeitslosengeld]][[Lehrerberuf]], [[Erdarbeit]], [[Arbeitskraft]], [[Ruhestand]], [[Arbeitszeit]], [[Arbeitsaufgabe]], [[Arbeitsalltag]], [[Arbeitsvertrag]], [[Aufklärungsarbeit]], [[Anstellung]], [[Leiharbeit]], [[Arbeitsablauf]], [[Leiharbeitsfirma]], [[Arbeitnehmerüberlassung]], [[Einarbeitung]], [[Leiharbeitsphase]], [[erarbeiten]], [[Arbeitsmarktperspektive]], [[Arbeitsatmosphäre]], [[Doktorarbeit]], [[Arbeitsamt]], [[Arbeitsplatz]], [[Arbeitnehmer]], [[arbeitsunfähig]], [[Zwangsarbeit]], [[Arbeitslaptop]], [[Hybridarbeitsmodell]], [[Arbeitsweg]]
+

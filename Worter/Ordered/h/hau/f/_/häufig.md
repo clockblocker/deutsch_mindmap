@@ -1,6 +1,16 @@
 --> ⏱️ [[Temporal-Frequenz]] <--
-
 🔁 [[häufig]], [ˈhɔɪ̯fɪç] ≠ [[selten]]
+
+---
+---
+
+*[[113-LEGO#^2|^]]* In Deutschland [[etwa]] arbeiten beide Partner [[häufig]] `in` [[Vollzeit]], `während` die [[Vereinbarkeit]] `durch` [[steigen]]de [[Kita]]- und [[Schulgebühr]]en `sowie` lange [[Pendelzeit]]en [[erschwert]] wird
+
+
+
+
+
+
 
 ---
 Weil die Krankheit sehr [[häufig]] [[Auftritt]], wird ein neues Medikament dagegen [[entwickelt]]

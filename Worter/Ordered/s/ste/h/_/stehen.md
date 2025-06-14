@@ -1,6 +1,12 @@
 🚶 [[stehen]], [ˈʃteːən] | [[stand]], haben [[gestanden]]
 
 ---
+---
+
+*[[113-LEGO#^1|^]]* In vielen [[Industrieländern]] [[stehen]] Eltern `vor` der [[Herausforderung]], [[Beruf]] und [[Familie]] [[miteinander]] zu [[vereinbaren]]
+
+
+---
 
 Sein Name [[steht]] [[an]] erster [[Stelle]].
 

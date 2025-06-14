@@ -73,9 +73,7 @@ _[[215-LEGO#^6|^]]_ Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]],
 
 Um ähnliche Probleme künftig zu vermeiden, schlage ich vor, Verträge mit zuverlässigen Transportunternehmen abzuschließen
 
-![[ElevenLabs_2025-06-13T06_21_50_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
+![[ElevenLabs_2025-06-14T03_25_11_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 ---

@@ -1,1 +1,3 @@
 🤖 [[Empfehlungsalgorithmus]]
+
+#Plural 

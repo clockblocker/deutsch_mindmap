@@ -1,3 +1,43 @@
+📜 🔴 die [[Regel]], [ˈʁeːɡl̩](https://youglish.com/pronounce/Regel/german)
+
+---
+---
+
+*[[111-LEGO#^10|^]]* Leider ist das [[leichter gesagt als getan]], `denn` es [[erfordert]] [[enorm]]e [[Disziplin]], [[praktikable]] [[Regel]]n zu [[etablieren]], um die Online-Zeit [[konsequent]] zu [[begrenzen]]
+
+
+*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] [[Video]]s [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]
+
+
+----
+
+
+---
+= [[Vorschrift]], [[Bestimmung]], [[Richtlinie]], [[Gesetz]]
+≈ [[Anweisung]], [[Leitsatz]], [[Prinzip]], [[Norm]]
+≠ [[Ausnahme]], [[Unregelmäßigkeit]], [[Abweichung]]
+
+---
+rule, regulation  
+правило, норма
+
+---
+[[Regelung]], [[regelmäßig]], [[Regelwidrigkeit]], [[Regelwerk]]
+
+---
+[[Regel]]
+
+
+---
+N: die [[Regel]], die [[Regeln]]
+A: die [[Regel]], die [[Regeln]]
+G: der [[Regel]], der [[Regeln]]
+D: der [[Regel]], den [[Regeln]]
+
+
+#Feminin 
+
+
 ## Schriftlicher Ausdruck
 
 #### [[Berücksichtigung]] der [[Leitpunkte]]

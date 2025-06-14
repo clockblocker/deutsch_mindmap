@@ -54,3 +54,4 @@ Zu+infinifive: [[auszudrücken]]
 
 [[bedeuten]], [[wringen]], [[auswringen]]
 , [[zutreffen]], [[ausdrücklich]], [[auslegen]], [[verkörpern]], [[Textstelle]]
+, [[Regel]]

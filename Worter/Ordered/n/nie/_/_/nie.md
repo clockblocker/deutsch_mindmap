@@ -1,9 +1,15 @@
---> ⏱️ [[Temporal-Template]] <--
---> ⏱️ [[Temporal-Zeitpunkt]] <--
-
+--> ⏱️ [[Temporal-Template]] | [[Temporal-Zeitpunkt]] <--
 🙅 [[nie]], [niː]
 
 ---
+---
+
+*[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]
+
+
+----
+
+
 
 Ich vergesse nie etwas!
 ANNA: Wir haben [[nie]] Geld!

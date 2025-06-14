@@ -3,8 +3,9 @@
 ---
 ---
 
-*[[211-LEGO#^4|^]]* `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen]] zu können, [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]. ^4
+*[[211-LEGO#^4|^]]* `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen]] zu können, [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]
 
+*[[111-LEGO#^3|^]]* Soziale Medien stehen `nicht nur` `im` [[Mittelpunkt]] [[öffentlich]]er [[Diskussion]]en – sie sind `auch` der [[Ort]], `an` dem diese [[Diskussion]]en [[stattfinden]]
 
 
 ---

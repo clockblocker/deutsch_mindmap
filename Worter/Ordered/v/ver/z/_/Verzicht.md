@@ -1,7 +1,20 @@
 🙅 🔵 der [[Verzicht]], [fɛɐ̯ˈt͡sɪçt](https://youglish.com/pronounce/Verzicht/german)
 
 ---
-26 Der [[Verzicht]] aufs [[Sparen]] ist nicht [[vertretbar]].
+---
+
+*[[112-LEGO#^7|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] `mit` [[verbreiterten]] [[Gehweg|Geh]]- und [[Radweg]]en, ist es [[wenig]] [[sinnvoll]], `von` den Bürger:innen den [[Verzicht]] `auf` Autos zu [[erwarten]]
+
+
+
+
+
+
+
+
+
+---
+26 Der [[Verzicht]] aufs [[Sparen]] ist nicht [[vertretbar]]
 
 ---
 = [[Entsagung]], [[Aufgabe]], [[Verzichtleistung]]

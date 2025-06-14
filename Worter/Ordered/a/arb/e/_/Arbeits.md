@@ -1,2 +1,2 @@
 , [[Arbeitsgericht]], [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Arbeitslosenversicherung]], [[arbeitsunfähig]]
-, [[Arbeitsauftrag]]
+, [[Arbeitsauftrag]], [[Arbeitslaptop]], [[Hybridarbeitsmodell]]

@@ -39,4 +39,4 @@ inexpensive, reasonably priced
 Adjektive: [[preiswert]], [[preiswerter]], [[preiswertest]]
 
 ---
-[[preiswerter]], [[preiswertes]], [[preiswerte]], [[preiswerten]], [[preiswertem]], [[preiswerterer]], [[preiswerteres]], [[preiswertere]], [[preiswerteren]], [[preiswerterem]], [[preiswertester]], [[preiswertestes]], [[preiswerteste]], [[preiswertesten]], [[preiswertestem]]
+[[preiswerter]], [[preiswertes]], [[preiswerte]], [[preiswerten]], [[preiswertem]], [[preiswerterer]], [[preiswerteres]], [[preiswertere]], [[preiswerteren]], [[preiswerterem]], [[preiswertester]], [[preiswertestes]], [[preiswerteste]], [[preiswertesten]], [[preiswertestem]], [[bezahlbar]]

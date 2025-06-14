@@ -1,6 +1,15 @@
 🤝 [[garantiert]], [ɡaʁanˈtiːʁt]
 
 ---
+---
+
+*[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
+
+
+
+---
+
+
 Ich [[schätze]] ich fliege erstmal nach Hause und suche die Luftbändiger. Ach du [[Heiliger]]... Ich hab mein Zimmer seit hundert Jahren nicht mehr [[aufgeräumt]]. Das wird [[garantiert]] kein [[vergnügen]]
 
 

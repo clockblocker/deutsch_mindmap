@@ -1,1 +1,1 @@
-[[Abschnitt]], [[Verknüpfung]]
+[[Abschnitt]], [[Verknüpfung]], [[Regel]]

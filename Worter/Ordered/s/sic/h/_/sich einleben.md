@@ -1,1 +1,1 @@
-, [[gewöhnen]]
+, [[gewöhnen]], [[Fuß fassen]]

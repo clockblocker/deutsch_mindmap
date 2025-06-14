@@ -38,4 +38,4 @@ G: der [[Abwesenheit]], der [[Abwesenheiten]]
 D: der [[Abwesenheit]], den [[Abwesenheiten]]
 
 #Feminin , [[Rückkehr]], [[Teilnahme]]
-, [[Aufenthalt]]
+, [[Aufenthalt]], [[Freistellung]]

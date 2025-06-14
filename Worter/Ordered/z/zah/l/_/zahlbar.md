@@ -1,2 +1,2 @@
 , [[Zahl]]
-, [[Zahlung]], [[geldlich]]
+, [[Zahlung]], [[geldlich]], [[bezahlbar]]

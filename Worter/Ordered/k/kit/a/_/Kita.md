@@ -1,9 +1,10 @@
-🔴 die [[Kita]], [ˈkiːta]
-die [[Kitas]]
+die [[Kita]], [ˈkiːta]
 
 ---
+---
 
-Julian arbeitet zwei Tage pro Woche im Homeoffice. Normalerweise klappt das problemlos, aber heute ist seine Tochter Maja erkältet und geht nicht in die [[Kita]].
+*[[113-LEGO#^2|^]]* In Deutschland [[etwa]] arbeiten beide Partner [[häufig]] `in` [[Vollzeit]], `während` die [[Vereinbarkeit]] `durch` [[steigen]]de [[Kita]]- und [[Schulgebühr]]en `sowie` lange [[Pendelzeit]]en [[erschwert]] wird
+
 
 ---
 
@@ -30,3 +31,6 @@ Dative: der [[Kita]], den [[Kitas]]
 ---
 
 [[kitapflichtig]], [[Kita-Platz]], [[Kita-Kind]], [[Kita-Träger]], [[begeistert]]
+
+
+#Feminin 

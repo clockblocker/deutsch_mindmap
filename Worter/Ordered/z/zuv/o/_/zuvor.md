@@ -2,6 +2,18 @@
 ⏪ [[zuvor]], [t͡suˈfoːɐ̯](https://youglish.com/pronounce/zuvor/german)
 
 ---
+---
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann
+
+
+
+
+
+
+
+
+---
 Der Künstler bekam 30 allerdings von diesem Geld nichts, er hatte das Bild drei Jahre [[zuvor]] für 2000 Dollar verkauft.
 
 *[[C1-Lesen-T4-103-Text#^9|^]]* Die privaten [[Ersparnis]]se sind in Deutschland so hoch wie noch nie [[zuvor]] in der Geschichte

@@ -67,4 +67,4 @@ D: dem [[Gesetz]], den [[Gesetzen]]
 [[gesetzlich]], [[Gesetzgeber]], [[Gesetzgebung]], [[ungesetzlich]], [[Gesetzentwurf]], [[volljährig]], [[Faustrecht]], [[Strafgesetz]], [[gesetzgebend]], [[verbot]]
 
 #Neuter , [[Arbeitnehmerrecht]], [[Regelung]], [[Marktgesetz]], [[Justiz]], [[Prinzip]], [[Verbraucherschutzgesetz]]
-, [[Umweltschutzgesetz]], [[Weltraumrecht]]
+, [[Umweltschutzgesetz]], [[Weltraumrecht]], [[Regel]]

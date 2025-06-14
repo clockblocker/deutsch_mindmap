@@ -1,10 +1,11 @@
 👍 🟢 das [[Empfehlungssystem]], [ɛmˈpfeːʊŋsˌzʏstəːm](https://youglish.com/pronounce/Empfehlungssystem/german)
-die [[Empfehlungssysteme]]
 
 ---
-*[[111-C1-Schreiben-Model#^11|^]]* Ohne die Entwicklung der [[Empfehlungssystem]]e auf Plattformen wie YouTube wäre der [[Begriff]] „iPad-Kind“ wahrscheinlich nie entstanden
+---
 
-*[[101-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+*[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]
+
+
 
 
 ---

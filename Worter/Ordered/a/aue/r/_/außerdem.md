@@ -1,6 +1,16 @@
 🔍 [[außerdem]], [ˈaʊ̯səɐ̯ˌdem]
 
 ---
+---
+
+*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]] ^8
+
+
+
+
+
+
+---
 *[[bro-schrieben-c1-t1-001#^6|^]]* [[Außerdem]] sei die [[positiv]]e [[Wirkung]] des Somatotropin-Hormons bekannt, weil es die [[Erholungsphase]] [[wesentlich]] [[verkürzt]]
 
 [[Außerdem]] kombinieren wir Wörter wie *gehen* mit Wörtern wie *an* oder *nach* (_angehen_, *nachgehen*).

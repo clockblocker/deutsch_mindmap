@@ -1,6 +1,12 @@
-🟢 wahrscheinlich, [vaːɐ̯ˈʃaɪ̯nlɪç]
-nicht [[unwahrscheinlich]]
 --> 🧩 [[Grad-Wahrheit]] <--
+wahrscheinlich
+
+---
+---
+
+*[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]
+
+
 
 ---
 

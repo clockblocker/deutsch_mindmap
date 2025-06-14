@@ -1,1 +1,1 @@
-, [[Internetnutzer]]
+, [[Internetnutzer]], [[Nutzer]]

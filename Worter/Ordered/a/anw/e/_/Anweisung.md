@@ -27,4 +27,4 @@ A: die [[Anweisung]], die [[Anweisungen]]
 G: der [[Anweisung]], der [[Anweisungen]]
 D: der [[Anweisung]], den [[Anweisungen]]
 
-#Feminin 
+#Feminin , [[Regel]]

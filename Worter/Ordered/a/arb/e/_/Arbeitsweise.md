@@ -1,1 +1,1 @@
-, [[Arbeitsmodell]], [[Arbeitskonzept]], [[Arbeitsform]], [[Funktionsweise]]
+, [[Arbeitsmodell]], [[Arbeitskonzept]], [[Arbeitsform]], [[Funktionsweise]], [[Hybridarbeitsmodell]]

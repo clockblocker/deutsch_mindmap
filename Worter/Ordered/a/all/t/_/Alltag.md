@@ -1,7 +1,13 @@
-🗓️ 🔵 der [[Alltag]], [ˈalˌtaːk](https://youglish.com/pronounce/Alltag/german)
+🗓️ der [[Alltag]], [ˈalˌtaːk](https://youglish.com/pronounce/Alltag/german)
 
 ---
-*[[112-C1-Schreiben-Model#^5|^]]* Auf der anderen Seite sind viele Kritiker:innen der festen [[Überzeugung]], dass die [[Umsetzung]] solcher [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] leichter gesagt als getan ist
+---
+
+*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist. ^10
+
+
+
+
 
 *[[111-C1-Schreiben-Model#^12|^]]* [[Angesichts]] dieser Risiken stellt sich die Frage, wie man einen ausgewogenen [[Lebensstil]] mit sozialen Medien im [[Alltag]] erreichen kann
 

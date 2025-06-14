@@ -27,3 +27,4 @@ G: der [[Medienberichterstattung]], der [[Medienberichterstattungen]]
 D: der [[Medienberichterstattung]], den [[Medienberichterstattungen]]
 
 #Feminin 
+, [[Medie]]

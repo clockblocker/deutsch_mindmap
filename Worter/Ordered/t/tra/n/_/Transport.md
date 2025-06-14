@@ -1,1 +1,1 @@
-, [[Bahn]], [[Lieferung]], [[Versandt]], [[Mitfahrgelegenheit]], [[Verkehrsaufkommen]], [[Mobilität]], [[Flug]], [[Lastwagenfahrer]], [[Busfahrt]], [[Transportunternehmen]]
+, [[Bahn]], [[Lieferung]], [[Versandt]], [[Mitfahrgelegenheit]], [[Verkehrsaufkommen]], [[Mobilität]], [[Flug]], [[Lastwagenfahrer]], [[Busfahrt]], [[Transportunternehmen]], [[Pendelzeit]], [[Arbeitsweg]]

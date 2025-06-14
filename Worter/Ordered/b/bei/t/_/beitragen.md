@@ -1,6 +1,18 @@
 ➕ [[beitragen]], [ˈbaɪ̯ˌtʁaːɡn̩](https://youglish.com/pronounce/beitragen/german) | [[trug bei]], hat [[beigetragen]]
 
 ---
+---
+
+*[[112-LEGO#^6|^]]* Meiner [[Meinung]] `nach` ist das [[Wichtig]]ste, was jeder [[Einzeln]]e zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] `an` [[Wahl]]en
+
+
+
+
+
+---
+
+
+
 Machen Sie einen Vorschlag, wie jeder [[Einzelne]] `zum` Klimaschutz [[beitragen]] kan
 
 *[[C1-Lesen-T2-301-Text#^14|^]]* Die [[Forschung]] [[beitragen|trägt]] zur [[Überprüfbarkeit]] von [[Umweltstandards]] bei

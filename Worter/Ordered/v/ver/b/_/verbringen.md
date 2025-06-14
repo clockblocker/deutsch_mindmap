@@ -1,6 +1,20 @@
 🕰️ [[verbringen]] | [[verbrachte]], haben [[verbracht]]
 
 ---
+---
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann
+
+
+
+---
+
+
+
+
+
+
+
 
 Unser Bekannter hofft, nächstes Jahr einen schönen [[Urlaub]] in Spanien [[zu]] [[verbringen]].
 

@@ -2,6 +2,16 @@
 🔤 [[schließlich]], [ˈʃliːslɪç]
 
 ---
+---
+
+*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] Videos [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]
+
+
+
+
+
+
+---
 
 Wir haben [[uns]] total [[verlaufen]], aber [[schließlich]] sind wir doch noch ans Ziel gekommen.
 

@@ -1,7 +1,9 @@
 💪 [[effektiv]], [ɛˈfɛktiːf](https://youglish.com/pronounce/effektiv/german)
 
 ---
-*[[111-C1-Schreiben-Model#^16|^]]* Zusätzlich hat es sich als [[effektiv]] [[erwiesen]], meinen Arbeitslaptop [[vollständig]] sozialmedienfrei zu [[halten]]
+---
+
+*[[111-LEGO#^13|^]]* [[Zusätzlich]] hat es `sich` `als` [[effektiv]] [[erwiesen]], meinen [[Arbeitslaptop]] [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
 
 
 ---
@@ -24,4 +26,4 @@ effective
 Adjektive: [[effektiv]], [[effektiver]], [[effektivst]]
 
 ---
-[[effektiver]], [[effektives]], [[effektive]], [[effektiven]], [[effektivem]], [[effektiverer]], [[effektiveres]], [[effektivere]], [[effektiveren]], [[effektiverem]], [[effektivster]], [[effektivstes]], [[effektivste]], [[effektivsten]], [[effektivstem]]
+[[effektiver]], [[effektives]], [[effektive]], [[effektiven]], [[effektivem]], [[effektiverer]], [[effektiveres]], [[effektivere]], [[effektiveren]], [[effektiverem]], [[effektivster]], [[effektivstes]], [[effektivste]], [[effektivsten]], [[effektivstem]], [[realistisch]]

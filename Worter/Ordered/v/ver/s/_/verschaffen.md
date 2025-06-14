@@ -1,9 +1,18 @@
---> [[Ingredient-Add-Remove]] <--
---> [[Management-Coordination-Allocation]] <--
+--> [[Ingredient-Add-Remove]] | [[Management-Coordination-Allocation]] <--
 💪 [[verschaffen]], [fɛɐ̯ˈʃafn̩] | [[verschaffte]], haben [[verschafft]]
 
 ---
-[[0 checklist#^1|^]] [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1 ^1
+---
+
+*[[113-LEGO#^10|^]]* [[Abgesehen]] `von` [[direkt]]er [[finanziell]]er [[Unterstützung]] ist es [[aus meiner Sicht]] [[vor allem]] [[wichtig]], Eltern [[verlässlich]]e [[Zeitfenster]] `für` [[ununterbrochen]]es [[Arbeiten]] zu [[verschaffen]]
+
+
+
+
+----
+
+
+*[[0 checklist#^1|^]]* [[Bewerbung]] für eine Wohnung: Mit diesen 7 Tipps [[verschafft]] ihr euch einen [[Vorteil]] – [[Leseverstehen]] C1
 
 ---
 = [[beschaffen]], [[besorgen]], [[erlangen]]

@@ -1,7 +1,14 @@
 📃 [[dienen]] + Dat/Akk, [ˈdiːnən]
 
+---
+---
+
+*[[111-LEGO#^5|^]]* `Über` WhatsApp [[bleiben]] Eltern auch `aus` dem [[Ausland]] [[erreichbar]], Instagram [[ermöglicht]] es, mit Freund:innen `in` [[Kontakt]] zu [[bleiben]], LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und `auf` [[Plattform]]en `wie` YouTube `oder` TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
+
+
 
 ---
+
 *[[111-C1-Schreiben-Model#^7|^]]* LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e,
 
 _[[TD#^2|^]]_ **WARNUNG:** Dieser Modus ist [[äußerst]] schwierig und [[dient]] dem [[Messen]] gegen starke [[Gegnerhorden]]

@@ -1,7 +1,11 @@
 ✅ [[konsequent]], [kɔnzɛˈkvɛnt](https://youglish.com/pronounce/konsequent/german)
 
 ---
-*[[111-C1-Schreiben-Model#^17|^]]* Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen
+---
+
+*[[111-LEGO#^10|^]]* Leider ist das [[leichter gesagt als getan]], `denn` es [[erfordert]] [[enorm]]e [[Disziplin]], [[praktikable]] [[Regel]]n zu [[etablieren]], `um` die Online-Zeit [[konsequent]] zu [[begrenzen]]
+
+
 
 ---
 = [[folgerichtig]], [[beständig]], [[entschlossen]], [[standhaft]], [[Konsequenz]]

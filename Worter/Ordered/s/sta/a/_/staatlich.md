@@ -1,7 +1,15 @@
 🏛️ [[staatlich]], [ˈʃtaːtlɪç](https://youglish.com/pronounce/staatlich/german)
 
 ---
-*[[102-C1-Schreiben-T1#^7|^]]* Außerdem kann [[staatliche]] [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf recycelbare [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreize]] unterstützen. ^7
+---
+
+*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]] ^8
+
+
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]] 
+
+
 
 
 ---

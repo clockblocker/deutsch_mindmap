@@ -30,4 +30,4 @@ G: des [[Modells]], der [[Modelle]]
 D: dem [[Modell]], den [[Modellen]]
 
 
-#Neuter , [[Version]], [[Bauplan]]--> [[🗣️ Ingredient-Meinung]] <--, [[Ausführung]], [[Theorie]], [[Lernmodell]], [[Fahrzeugtyp]], [[Gehaltsmodell]]
+#Neuter , [[Version]], [[Bauplan]]--> [[🗣️ Ingredient-Meinung]] <--, [[Ausführung]], [[Theorie]], [[Lernmodell]], [[Fahrzeugtyp]], [[Gehaltsmodell]], [[Form]], [[Hybridarbeitsmodell]]

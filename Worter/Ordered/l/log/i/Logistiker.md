@@ -1,1 +1,1 @@
-, [[Logistiksystem]]
+, [[Logistiksystem]], [[logistisch]]

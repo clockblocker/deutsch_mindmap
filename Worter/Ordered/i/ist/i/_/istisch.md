@@ -1,1 +1,1 @@
-, [[Individualistisch]], [[kollektivistisch]]
+, [[Individualistisch]], [[kollektivistisch]], [[realistisch]]

@@ -1,1 +1,1 @@
-, [[offiziell]], [[schriftsprachlich]], [[umgangssprachlich]]
+, [[offiziell]], [[schriftsprachlich]], [[umgangssprachlich]], [[Form]]

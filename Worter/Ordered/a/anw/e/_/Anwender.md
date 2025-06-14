@@ -1,1 +1,1 @@
-, [[anwenden]], [[Anwendung]], [[Internetnutzer]], [[anwendbar]], [[Entwickler]]
+, [[anwenden]], [[Anwendung]], [[Internetnutzer]], [[anwendbar]], [[Entwickler]], [[Nutzer]]

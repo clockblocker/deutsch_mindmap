@@ -2,6 +2,18 @@
 nicht [[privat]]
 
 ---
+---
+
+*[[111-LEGO#^3|^]]* Soziale Medien stehen `nicht nur` `im` [[Mittelpunkt]] [[öffentlich]]er [[Diskussion]]en – sie sind `auch` der [[Ort]], `an` dem diese [[Diskussion]]en [[stattfinden]]
+
+
+*[[112-LEGO#^2|^]]* Aus diesem Grund steht das Thema [[Klimaschutz]] im [[Mittelpunkt]] [[öffentlich]]er [[Diskussion]]en
+
+
+
+
+---
+
 Sie ist eine Person des [[öffentlichen]] Lebens.
 
 *[[102-C1-Schreiben-T1#^2|^]]* Aus diesem Grund steht das Thema [[Klimaschutz]] im [[Mittelpunkt]] [[öffentlicher]] [[Diskussion]]en. ^2

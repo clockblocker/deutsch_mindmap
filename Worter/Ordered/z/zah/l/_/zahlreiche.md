@@ -1,5 +1,19 @@
-zahlreiche, [ˈtsaːlˌʁaɪ̯çə]
-nicht [[wenige]]
+zahlreiche, [ˈtsaːlˌʁaɪ̯çə] = nicht [[wenige]]
+
+---
+---
+
+*[[111-LEGO#^6|^]]* `Auf` `der` anderen [[Seite]] sind viele `der` festen [[Überzeugung]], `dass` die [[dauerhaft]]e [[Verschmelzung]] `von` Online- und [[Realwelt]] [[zahlreiche]] [[Gefahr]]en `mit` `sich` bringt
+
+
+*[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind
+
+
+*[[112-LEGO#^3|^]]* `Auf` `der` einen [[Seite]] [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] [[persönlich]]e [[Maßnahme]]n `zum` [[Schutz]] der [[Umwelt]] gibt
+
+
+
+
 
 ---
 *[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]

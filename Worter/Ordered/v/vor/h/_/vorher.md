@@ -31,4 +31,4 @@ before, previously
 Adjektive: [[vorherig]], [[vorheriger]], [[vorherigst]]
 
 ---
-[[vorheriger]], [[vorheriges]], [[vorherige]], [[vorherigen]], [[vorherigem]], [[vorherigerer]], [[vorherigeres]], [[vorherigere]], [[vorherigeren]], [[vorherigerem]], [[vorherigster]], [[vorherigstes]], [[vorherigste]], [[vorherigsten]], [[vorherigstem]], [[bislang]], [[anschließend]]
+[[vorheriger]], [[vorheriges]], [[vorherige]], [[vorherigen]], [[vorherigem]], [[vorherigerer]], [[vorherigeres]], [[vorherigere]], [[vorherigeren]], [[vorherigerem]], [[vorherigster]], [[vorherigstes]], [[vorherigste]], [[vorherigsten]], [[vorherigstem]], [[bislang]], [[anschließend]], [[Regel]]

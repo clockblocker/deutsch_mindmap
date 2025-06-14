@@ -1,6 +1,13 @@
---> [[Management-Coordination-Allocation]] <--
---> [[Ingredient-Pflege]] <--
+--> [[Management-Coordination-Allocation]] | [[Ingredient-Pflege]] <--
 🚑 [[versorgen]], [fɛɐ̯ˈzɔʁɡn̩] | [[versorgte]], haben [[versorgt]]
+
+---
+---
+
+*[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
+
+
+
 
 ---
 

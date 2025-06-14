@@ -1,12 +1,28 @@
 --> [[Ingredinet-Action-Nomen]] <--
+📋 die [[Maßnahme]], [ˈmaːsnaːmə]
 
 ---
-🟢 📋 die [[Maßnahme]], [ˈmaːsnaːmə]
-die [[Maßnahmen]]
+---
+
+*[[112-LEGO#^3|^]]* Auf der einen Seite [[vertreten]] viele Aktivist:innen den [[Standpunkt]], dass es [[zahlreiche]] [[persönlich]]e [[Maßnahme]]n `zum` [[Schutz]] der [[Umwelt]] gibt
+
+
+*[[112-LEGO#^9|^]]* [[Abschließend]] lässt sich sagen, dass `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, `um` [[realistisch]]e [[persönlich]]e [[Maßnahme]]n `gegen` den [[Klimawandel]] [[vorzuschlagen]]
+
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]] 
+
+
+
+
+
+
+
 
 ---
-Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es [[zahlreiche]] persönliche [[Maßnahme]]n `zum` [[Schutz]] der [[Umwelt]] gibt. 
 
+
+----
 Umweltorganisationen sind allerdings der Meinung, dass die bis heute 
 [[ergriffen]]en [[Maßnahme]]n nicht [[ausreichen]]
 
@@ -35,5 +51,5 @@ D: der [[Maßnahme]], den [[Maßnahmen]]
 
 ---
 [[maßnehmen]], [[maßnahmenbezogen]], [[Maßnahmenkatalog]], [[Präventivmaßnahme]], [[verbot]], [[Autoverbot]]
-
-#Neuter , [[Eingriff]]
+#Feminin 
+Fe , [[Eingriff]]

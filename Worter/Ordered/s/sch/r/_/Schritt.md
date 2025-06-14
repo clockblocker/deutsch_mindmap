@@ -1,8 +1,12 @@
 🔵 der [[Schritt]], [ˈʃrɪt]
-die [[Schritte]]
-
 
 ---
+---
+
+*[[113-LEGO#^7|^]]* Ein [[wichtig]]er [[Schritt]] war die [[gestiegen]]e [[Popularität]] `von` [[Homeoffice]]- und [[Hybridarbeitsmodell]]en
+
+
+
 Wir müssen unseren [[Gegnern]] immer [[einen Schritt voraus sein]]
 
 *[[C1-Hoehen-T3-402-Text#^9|^]]* Sicher ein wichtiger [[Schritt]] in die richtige [[Richtung]]

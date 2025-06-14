@@ -1,7 +1,11 @@
-👗 🔴 die [[Boutique]], [buˈtiːk](https://youglish.com/pronounce/Boutique/german)
+👗 die [[Boutique]], [buˈtiːk](https://youglish.com/pronounce/Boutique/german)
 
 ---
-*[[102-C1-Schreiben-T1#^3|^]]* Man kann zum Beispiel das Fahrrad [[statt]] des Autos als [[Verkehrsmittel]] nutzen oder Kleidung in Second-Hand-[[Läden]] kaufen, anstatt [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modischen]] [[Boutiquen]] zu [[erwerben]]. ^3
+---
+
+*[[112-LEGO#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] [[statt]] des [[Auto]]s als [[Verkehrsmittel]] [[nutzen]] `oder` [[Kleidung]] in Second-Hand-[[Läden]] [[kaufen]], [[anstatt]] [[ständig]] neue [[Sache]]n `bei` Fast-Fashion-[[Anbieter]]n `oder` `in` [[modisch]]en [[Boutique]]n zu [[erwerben]]
+
+
 
 
 ---

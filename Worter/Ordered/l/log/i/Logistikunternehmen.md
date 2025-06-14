@@ -1,1 +1,1 @@
-, [[Paketzustelldienst]], [[Transportunternehmen]]
+, [[Paketzustelldienst]], [[Transportunternehmen]], [[logistisch]]

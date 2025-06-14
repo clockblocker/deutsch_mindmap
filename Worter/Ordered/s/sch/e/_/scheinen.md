@@ -1,7 +1,16 @@
 💡 [[scheinen]] + Dat, [ʃaɪ̯nən], [[schien]], [[geschienen]]
 
 ---
-*[[111-C1-Schreiben-Model#^8|^]]* und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]. ^8
+---
+
+*[[111-LEGO#^5|^]]* `Über` WhatsApp [[bleiben]] Eltern auch `aus` dem [[Ausland]] [[erreichbar]], Instagram [[ermöglicht]] es, mit Freund:innen `in` [[Kontakt]] zu [[bleiben]], LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und `auf` [[Plattform]]en `wie` YouTube `oder` TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
+
+
+
+
+
+---
+*[[111-C1-Schreiben-Model#^8|^]]* und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
 
 *[[C1-Lesen-412-Text#^1|^]]* In allen Kulturen [[scheint]] der [[Gesichtsausdruck]] `bei` elementaren Gefühlen gleich zu sein
 

@@ -1,12 +1,14 @@
 🤔 🟢 das [[Problem]], [pʁoˈbleːm](https://youglish.com/pronounce/Problem/german)
 
 ---
-
 ---
 
 _[[216-LEGO#^8|^]]_ Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n [[regelmäßig]] zu [[warten]], die WLAN-[[Stabilität]] zu [[prüfen]] und die [[Restaurantöffnungszeit]]en [[aktuell]] `auf` Ihrer [[Website]] zu kommunizieren
 
 _[[215-LEGO#^6|^]]_ Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
+
+*[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind
+
 
 ---
 

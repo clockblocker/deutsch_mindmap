@@ -1,8 +1,11 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
-
 ⛔ [[beschränken]] + Akk, [bəˈʃʁɛŋkn̩]
-[[beschränkte]]
-haben [[beschränkt]]
+
+---
+---
+
+*[[111-LEGO#^12|^]]* Ich [[persönlich]] habe es `als` [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten `pro` Tag zu [[beschränken]]
+
 
 ---
 

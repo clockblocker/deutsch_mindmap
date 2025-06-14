@@ -1,10 +1,14 @@
 ✋ [[halten]] sich
 
 ---
-
 ---
 
 _[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
+
+
+*[[111-LEGO#^13|^]]* [[Zusätzlich]] hat es `sich` `als` [[effektiv]] [[erwiesen]], meinen [[Arbeitslaptop]] [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
+
+
 
 ---
 
@@ -129,3 +133,4 @@ Konjunktiv II:
   , [[aufrechterhalten]]
   , [[durchhalten]], [[fernhalten]], [[gefangenzuhalten]], [[tragen]], [[Haltung]], [[Lebenshaltungskosten]], [[Nachhaltigkeit]], [[Zusammenhalt]]
   , [[Beibehaltung]]
+, [[effektiv]]

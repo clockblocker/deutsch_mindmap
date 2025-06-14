@@ -1,1 +1,1 @@
-, [[Bekanntheitsgrad]], [[Vertrautheit]]
+, [[Bekanntheitsgrad]], [[Vertrautheit]], [[Popularität]]

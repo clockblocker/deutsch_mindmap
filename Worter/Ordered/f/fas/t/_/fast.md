@@ -2,6 +2,20 @@
 fast, [fɑst], [[bald]]
 
 ---
+---
+
+*[[111-LEGO#^4|^]]* `Auf` `der` einen [[Seite]] ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – [[fast]] jeder [[Wunsch]] der N
+
+
+
+
+---
+
+
+
+
+
+
 Ich hätte [[fast]] den Bus verpasst.
 
 Dr. Alexander [[starb]] [[fast]] daran, dass sein Gehirn langsam [[zerstört]] wurde.

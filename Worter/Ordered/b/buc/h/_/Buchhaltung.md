@@ -1,5 +1,14 @@
-, [[verbuchen]], [[Buchhalter]]
-📒 🔴 die [[Buchhaltung]], [ˈbuːxˌhaltʊŋ](https://youglish.com/pronounce/Buchhaltung/german)
+📒 die [[Buchhaltung]], [ˈbuːxˌhaltʊŋ](https://youglish.com/pronounce/Buchhaltung/german)
+
+---
+---
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann
+
+
+
+
+
 
 ---
 - *der IT-*[[Branche]], [[Werbung]], [[Buchhaltung]] und [[Verwaltung]] *geeignet ist*
@@ -17,7 +26,7 @@ accounting
 бухгалтерия
 
 ---
-[[Buchhalter]], [[buchhalterisch]], [[Buchungsbeleg]], [[Buchungssatz]], [[Buchungsperiode]]
+[[Buchhalter]], [[buchhalterisch]], [[Buchungsbeleg]], [[Buchungssatz]], [[Buchungsperiode]], [[verbuchen]], [[Buchhalter]]
 
 ---
 [[Buch]]|[[halt]]|[[ung]]

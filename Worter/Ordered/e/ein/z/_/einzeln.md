@@ -1,6 +1,15 @@
 --> 🧮 [[Grad-Quantität]] <--
-
 🧐 [[einzeln]], [ˈaɪ̯ntsəln] | [[einzelnen]] | [[Einzelne]],
+
+---
+---
+
+*[[112-LEGO#^6|^]]* Meiner [[Meinung]] `nach` ist das [[Wichtig]]ste, was jeder [[Einzeln]]e zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] `an` [[Wahl]]en
+
+
+
+
+
 
 ---
 *[[C1-Lesen-421-Text#^36|^]]* Bundesweit werden dazu seit zwei Jahren Befragungen durchgeführt, bei denen [[ermittelt]] werden soll, ob und wie sich der Tourismus positiv oder negativ auf den Wohnort und das Leben des [[Einzelnen]] auswirkt

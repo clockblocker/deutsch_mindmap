@@ -64,3 +64,4 @@ Adjektive: [[nachvollziehbar]], [[nachvollziehbarer]], [[nachvollziehbarst]]
 ---
 [[nachvollziehbarer]], [[nachvollziehbares]], [[nachvollziehbare]], [[nachvollziehbaren]], [[nachvollziehbarem]], [[nachvollziehbarerer]], [[nachvollziehbareres]], [[nachvollziehbarere]], [[nachvollziehbareren]], [[nachvollziehbarerem]], [[nachvollziehbarster]], [[nachvollziehbarstes]], [[nachvollziehbarste]], [[nachvollziehbarsten]], [[nachvollziehbarstem]], [[Verknüpfung]]
 
+, [[Regel]]

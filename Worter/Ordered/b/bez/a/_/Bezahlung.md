@@ -29,4 +29,4 @@ G: der [[Bezahlung]], der [[Bezahlungen]]
 D: der [[Bezahlung]], den [[Bezahlungen]]
 
 
-#Feminin , [[Entgelt]], [[Gehaltsmodell]]
+#Feminin , [[Entgelt]], [[Gehaltsmodell]], [[bezahlbar]]

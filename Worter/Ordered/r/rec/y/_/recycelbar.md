@@ -1,7 +1,18 @@
 ♻️ [[recycelbar]], [ʁeˈsaɪ̯kl̩ˌbaːɐ̯](https://youglish.com/pronounce/recycelbar/german), ♻️ [[recyceln]] 
 
 ---
-*[[102-C1-Schreiben-T1#^7|^]]* Außerdem kann [[staatliche]] [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf [[recycelbar]]e [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreize]] unterstützen. ^7
+---
+
+*[[112-LEGO#^5|^]]* `Nicht nur` würde die [[alltäglich]]e [[Mobilität]] `ohne` Autos [[erheblich]] [[erschwert]], `sondern` `auch` die [[Lebenshaltungskosten]] würden `durch` [[sogenannt]]e „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in [[Form]] [[höh]]erer [[Energiepreis]]e, [[kostspielig]]er [[recycelbar]]er [[Verpackung]]en `oder` [[teurer]] Bio-[[Lebensmittel]]
+
+
+*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]] ^8
+
+
+
+
+
+
 
 
 ---

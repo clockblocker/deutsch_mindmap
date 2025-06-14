@@ -1,1 +1,1 @@
-, [[Ergebnis]], [[Auswirkung]], [[Wirkung]], [[Sog]]
+, [[Ergebnis]], [[Auswirkung]], [[Wirkung]], [[Sog]], [[effektiv]]

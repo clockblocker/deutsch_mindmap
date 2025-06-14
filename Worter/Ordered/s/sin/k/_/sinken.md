@@ -1,6 +1,18 @@
 --> [[🎯 Ingredient-Result-Verb]] <--
-
 🌊 [[sinken]]
+
+---
+---
+
+*[[111-LEGO#^15|^]]* So kann [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` [[möglich]]e [[Ursache]] `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]] werden
+
+
+*[[113-LEGO#^3|^]]* Diese [[finanziell]]en und [[logistisch]]en [[Schwierigkeit]]en können `als` [[möglich]]e [[Ursache]] `für` die [[gesunken]]e [[Geburtenrate]] [[gelten]]
+
+
+
+
+
 
 ---
 *[[111-C1-Schreiben-Model#^10|^]]* So wird [[etwa]] die [[konstant]]e Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] angesehen
@@ -11,7 +23,7 @@ Tot [[zusinken|sank]] dieser zu Boden und die restliche Herde raste in panischem
 
 _[[C1-Hoehen-T3-301-Text#^16|^]]_ Frau Ebner-Perotti [[befürchtet]] [[sinken]]de Löhne durch billige [[Arbeitskräfte]]
 
-_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+_[[101-C1-Schreiben-T1#^7|^]]_ So wird etwa die konstante [[Nutzung]] elektronischer [[Gerät]]e seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 _[[C1-Lesen-T1-000-Text#^3|^]]_ Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
 

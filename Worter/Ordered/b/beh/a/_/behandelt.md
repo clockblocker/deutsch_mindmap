@@ -1,1 +1,1 @@
-[[behandeln]]
+[[behandeln]], [[Regel]]

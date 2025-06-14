@@ -1,1 +1,1 @@
-[[zutreffen]]
+[[zutreffen]], [[Regel]]

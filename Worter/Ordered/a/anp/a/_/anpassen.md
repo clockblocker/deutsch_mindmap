@@ -3,6 +3,18 @@
 🎽 [[anpassen]], [ˈanˌpasn̩](https://youglish.com/pronounce/anpassen/german) | [[passte an]], haben [[angepasst]]
 
 ---
+---
+
+*[[113-LEGO#^6|^]]* Diese [[Einsicht]] hat [[inzwischen]] auch `in` der [[Wirtschaft]] [[Fuß gefasst]], `sodass` [[Arbeitsmodell]]e [[immer]] [[stärker]] `an` die [[Bedürfnis]]se [[berufstätig]]er [[Eltern]] [[angepasst]] werden
+
+
+
+
+
+
+
+
+---
 *[[1 lesen StadtTours#^6|^]]* Dabei werden die Interessen der Gäste [[berücksichtigt]]: Ob nun in Millionenstädten wie Berlin, Hamburg und München oder in einer der anderen 17 Städte – die Programme [[anpassen|passen]] sich den Wünschen der Gäste an, nicht 3 [[umgekehrt]]
 
 *[[C1-Hoehen-T3-401-Text#^3|^]]* Eine innovative Idee für den Transport in Megacitys ist, ihn der Nachfrage genau [[anzupassen]]

@@ -1,6 +1,15 @@
 ➡️ [[weiterhin]], [ˈvaɪ̯tɐˌhɪn](https://youglish.com/pronounce/weiterhin/german)
 
 ---
+---
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]]
+
+
+
+
+
+---
 *[[042-C1-Schreiben-T2#^2|^]]* Ihr Unternehmen hat beschlossen, aus Kostengründen ältere technische [[Gerät]]e wie Laptops und Telefone [[weiterhin]] im [[Einsatz]] zu lassen
 
 *[[C1-Hoehen-T3-401-Text#^3|^]]* Voraussichtlich werden in Afrika auch [[weiterhin]] die meisten Menschen in Dörfern [[ansässig]] sein

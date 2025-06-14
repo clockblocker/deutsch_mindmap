@@ -1,7 +1,16 @@
 ⬇️ [[herunterladen]], [hɛˈʁʊntɐˌlaːdn̩](https://youglish.com/pronounce/herunterladen/german) → [[lud herunter]] → [[heruntergeladen]]
 
 ---
-*[[111-C1-Schreiben-Model#^17|^]]* Und schließlich war die Regel, nur [[heruntergeladene]] Videos [[anzuschauen]], [[hilfreich]] im [[Kampf]] [[gegen]] [[Empfehlungsalgorithm]]en
+---
+
+*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] [[Video]]s [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]
+
+
+
+
+
+
+---
 
 *[[C1-Hoehen-T4-100-Text#^30|^]]* Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschriften]] [[gehalten]] wird
 

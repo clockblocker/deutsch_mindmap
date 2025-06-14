@@ -1,11 +1,13 @@
 [[Grammatik-Pronomen-Demonstrativ-Zusammengesetzt]]
+solche, [ˈzɔlçə] | nicht [[andere]]
 
 ---
-
-solche, [ˈzɔlçə]
-nicht [[andere]]
-
 ---
+
+*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist. ^10
+
+
+
 Wenn du [[solche]] Sätze [[locker]] [[bauen]] kannst, bist du B2. Wenn du das [[fließend]] in [[gesprächen]] nutzt, bist du fast C1
 
 *[[Text mit Reflexivpronomen#^27|^]]* Kannst du (33) ein [[solches]] Treffen vorstellen? ^27

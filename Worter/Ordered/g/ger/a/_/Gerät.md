@@ -1,11 +1,17 @@
 🟢 📱 das [[Gerät]], [ɡəˈʁɛːt] | [[raten]]
-die [[Geräte]]
 
 ---
-*[[042-C1-Schreiben-T2#^2|^]]* Ihr Unternehmen hat beschlossen, aus Kostengründen ältere technische [[Geräte]] wie Laptops und Telefone [[weiterhin]] im [[Einsatz]] zu lassen. ^2
+---
+
+*[[111-LEGO#^7|^]]* So wird [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` eine `der` [[Ursache]]n `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]
 
 
-*[[101-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+
+
+---
+
+
+*[[101-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Gerät]]e seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 
 
@@ -27,9 +33,9 @@ device, apparatus, equipment
 [[ge]]|[[Rät]]
 
 ---
-N: das [[Gerät]], die [[Geräte]]  
-A: das [[Gerät]], die [[Geräte]]  
-G: des [[Geräts]], der [[Geräte]]  
+N: das [[Gerät]], die [[Gerät]]e  
+A: das [[Gerät]], die [[Gerät]]e  
+G: des [[Geräts]], der [[Gerät]]e  
 D: dem [[Gerät]], den [[Geräten]]  
 
 ---

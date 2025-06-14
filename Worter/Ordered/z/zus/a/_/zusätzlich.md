@@ -2,14 +2,19 @@
 🔄 [[zusätzlich]], [tsuˈzɛtslɪç]
 
 ---
-
 ---
 
-_[[212-LEGO#^4|^]]_ [[Zusätzlich]] [[ermöglicht]] die Kantine allen Mitarbeitenden [[preiswert]]e warme [[Mahlzeit]]en und [[Erholungspause]]n, was `sich` positiv `auf` [[Arbeitsatmosphäre]] und Produktivität [[auswirkt]]. ^4
+_[[212-LEGO#^4|^]]_ [[Zusätzlich]] [[ermöglicht]] die Kantine allen Mitarbeitenden [[preiswert]]e warme [[Mahlzeit]]en und [[Erholungspause]]n, was `sich` positiv `auf` [[Arbeitsatmosphäre]] und Produktivität [[auswirkt]].
 
-_[[213-LEGO#^5|^]]_ Sollten [[derzeit]] keine [[zusätzlich]]en [[Steckdose]]n [[eingebaut]] werden können, schlage ich vor, die [[Nutzung]] von Powerbanks [[während]] der Umbauarbeiten zu erlauben. ^5
+
+_[[213-LEGO#^5|^]]_ Sollten [[derzeit]] keine [[zusätzlich]]en [[Steckdose]]n [[eingebaut]] werden können, schlage ich vor, die [[Nutzung]] `von` Powerbanks [[während]] der Umbauarbeiten zu [[erlauben]].
+
 
 _[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
+
+
+*[[111-LEGO#^13|^]]* [[Zusätzlich]] hat es `sich` `als` [[effektiv]] [[erwiesen]], meinen [[Arbeitslaptop]] [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
+
 
 ---
 

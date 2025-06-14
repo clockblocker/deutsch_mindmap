@@ -1,1 +1,1 @@
-, [[gültig]], [[effizient]], [[wirksam]], [[erfolglos]]
+, [[gültig]], [[effizient]], [[wirksam]], [[erfolglos]], [[effektiv]]

@@ -1,8 +1,12 @@
 🌡️ 🔵 der [[Temperaturrekord]], [tɛmpəraˈtuːɐ̯ʁɛˌkɔʁt](https://youglish.com/pronounce/Temperaturrekord/german)
-die [[Temperaturrekorde]]
 
 ---
-In den vergangenen zehn Jahren wurden nahezu jeden Sommer neue [[Temperaturrekorde]] [[verzeichnet]]; [[mittlerweile]] ist die Zahl der [[Hitzewellen]] und [[Waldbrände]] deutlich gestiegen.
+---
+
+*[[112-LEGO#^1|^]]* In den [[vergangen]]en zehn Jahren wurden in [[nahezu]] jedem Sommer neue [[Temperaturrekord]]e [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]
+
+
+
 
 ---
 = [[Hitzerekord]], [[Kälterekord]]

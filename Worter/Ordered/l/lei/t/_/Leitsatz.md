@@ -1,1 +1,1 @@
-, [[Prinzip]]
+, [[Prinzip]], [[Regel]]

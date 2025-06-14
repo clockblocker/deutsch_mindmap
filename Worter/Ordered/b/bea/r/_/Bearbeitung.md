@@ -27,4 +27,4 @@ G: der [[Bearbeitung]], der [[Bearbeitungen]]
 D: der [[Bearbeitung]], den [[Bearbeitungen]]
 , [[sowohl]], [[ausarbeiten]], [[Ausarbeitung]]
 
-#Feminin , [[Orchestrierung]]
+#Feminin , [[Orchestrierung]], [[Regel]]

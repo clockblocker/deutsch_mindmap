@@ -4,7 +4,7 @@
 ---
 ---
 
-*[[111-LEGO#^1|^]]* In den letzten fünf Jahrzehnten ist die Zahl der Internetnutzer:innen exponentiell gestiegen. ^1
+*[[111-LEGO#^1|^]]* In den letzten fünf [[Jahrzehnt]]en ist die [[Zahl]] der [[Internetnutzer]]:innen [[exponentiell]] [[gestiegen]]. ^1
 
 
 In den letzten fünf Jahrzehnten ist die Zahl der Internetnutzer:innen exponentiell gestiegen.
@@ -17,7 +17,7 @@ In den letzten fünf Jahrzehnten ist die Zahl der Internetnutzer:innen exponenti
 ---
 ---
 
-*[[111-LEGO#^2|^]]* Einer der wichtigsten Antriebsfaktoren dafür ist das enorme Angebot an sozialen Medien: Sie ermöglichen sowohl dauerhaften sozialen Kontakt als auch grenzenlose Unterhaltung. ^2
+*[[111-LEGO#^2|^]]* Einer der wichtigsten [[Antriebsfaktor]]en `dafür` ist das [[enorm]]e [[Angebot]] `an` sozialen [[Medie]]n: Sie ermöglichen [[sowohl]] [[dauerhaft]]en [[sozial]]en [[Kontakt]] `als` auch [[grenzenlos]]e [[Unterhaltung]]. ^2
 
 
 Einer der wichtigsten Antriebsfaktoren dafür ist das enorme Angebot an sozialen Medien: Sie ermöglichen sowohl dauerhaften sozialen Kontakt als auch grenzenlose Unterhaltung.
@@ -30,7 +30,7 @@ Einer der wichtigsten Antriebsfaktoren dafür ist das enorme Angebot an sozialen
 ---
 ---
 
-*[[111-LEGO#^3|^]]* Soziale Medien stehen nicht nur im Mittelpunkt öffentlicher Diskussionen – sie sind auch der Ort, an dem diese Diskussionen stattfinden. ^3
+*[[111-LEGO#^3|^]]* Soziale Medien stehen `nicht nur` `im` [[Mittelpunkt]] [[öffentlich]]er [[Diskussion]]en – sie sind `auch` der [[Ort]], `an` dem diese [[Diskussion]]en [[stattfinden]]. ^3
 
 
 Soziale Medien stehen nicht nur im Mittelpunkt öffentlicher Diskussionen – sie sind auch der Ort, an dem diese Diskussionen stattfinden.
@@ -44,7 +44,7 @@ Soziale Medien stehen nicht nur im Mittelpunkt öffentlicher Diskussionen – si
 ---
 
 
-*[[111-LEGO#^4|^]]* Auf der einen Seite ist der Nutzen sozialer Medien unbestreitbar – fast jeder Wunsch der Nutzer:innen kann erfüllt werden: ^4
+*[[111-LEGO#^4|^]]* `Auf` `der` einen [[Seite]] ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – [[fast]] jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden: ^4
 
 
 Auf der einen Seite ist der Nutzen sozialer Medien unbestreitbar – fast jeder Wunsch der Nutzer:innen kann erfüllt werden: 
@@ -53,11 +53,10 @@ Auf der einen Seite ist der Nutzen sozialer Medien unbestreitbar – fast jeder 
 
 
 
-
 ---
 ---
 
-*[[111-LEGO#^5|^]]* Über WhatsApp bleiben Eltern auch aus dem Ausland erreichbar, Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem Ausbau beruflicher Netzwerke, und auf Plattformen wie YouTube oder TikTok scheint das Unterhaltungsangebot nahezu endlos. ^5
+*[[111-LEGO#^5|^]]* `Über` WhatsApp [[bleiben]] Eltern auch `aus` dem [[Ausland]] [[erreichbar]], Instagram [[ermöglicht]] es, mit Freund:innen `in` [[Kontakt]] zu [[bleiben]], LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und `auf` [[Plattform]]en `wie` YouTube `oder` TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]. ^5
 
 
 Über WhatsApp bleiben Eltern auch aus dem Ausland erreichbar, Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem Ausbau beruflicher Netzwerke, und auf Plattformen wie YouTube oder TikTok scheint das Unterhaltungsangebot nahezu endlos.
@@ -72,7 +71,7 @@ Auf der einen Seite ist der Nutzen sozialer Medien unbestreitbar – fast jeder 
 ---
 ---
 
-*[[111-LEGO#^6|^]]* Auf der anderen Seite sind viele der festen Überzeugung, dass die dauerhafte Verschmelzung von Online- und Realwelt zahlreiche Gefahren mit sich bringt. ^6
+*[[111-LEGO#^6|^]]* `Auf` `der` anderen [[Seite]] sind viele `der` festen [[Überzeugung]], `dass` die [[dauerhaft]]e [[Verschmelzung]] `von` Online- und [[Realwelt]] [[zahlreiche]] [[Gefahr]]en `mit` `sich` bringt. ^6
 
 
 Auf der anderen Seite sind viele der festen Überzeugung, dass die dauerhafte Verschmelzung von Online- und Realwelt zahlreiche Gefahren mit sich bringt.
@@ -85,20 +84,19 @@ Auf der anderen Seite sind viele der festen Überzeugung, dass die dauerhafte Ve
 ---
 ---
 
-*[[111-LEGO#^7|^]]* So wird etwa die konstante Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das deutlich gesunkene Leseverstehen angesehen. ^7
+*[[111-LEGO#^15|^]]* So kann [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` [[möglich]]e [[Ursache]] `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]] werden. ^15
 
 
-So wird etwa die konstante Nutzung elektronischer Geräte seit der Kindheit als eine der Ursachen für das deutlich gesunkene Leseverstehen angesehen.
+So kann etwa die konstante Nutzung elektronischer Geräte seit der Kindheit als mögliche Ursache für das deutlich gesunkene Leseverstehen angesehen werden.
 
-![[ElevenLabs_2025-06-13T06_40_17_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
+![[ElevenLabs_2025-06-14T04_10_07_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 
 ---
 ---
 
-*[[111-LEGO#^8|^]]* Ohne die Entwicklung der Empfehlungssysteme auf Plattformen wie YouTube wäre der Begriff „iPad-Kind“ wahrscheinlich nie entstanden. ^8
+*[[111-LEGO#^8|^]]* `Ohne` die [[Entwicklung]] der [[Empfehlungssystem]]e `auf` [[Plattform]]en `wie` YouTube `wäre` der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] [[nie]] [[entstanden]]. ^8
 
 
 Ohne die Entwicklung der Empfehlungssysteme auf Plattformen wie YouTube wäre der Begriff „iPad-Kind“ wahrscheinlich nie entstanden.
@@ -111,7 +109,7 @@ Ohne die Entwicklung der Empfehlungssysteme auf Plattformen wie YouTube wäre de
 ---
 ---
 
-*[[111-LEGO#^9|^]]* Angesichts dieser Risiken stellt sich die Frage, wie man einen ausgewogenen Lebensstil mit sozialen Medien im Alltag erreichen kann. ^9
+*[[111-LEGO#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt `sich` die Frage, `wie` man einen [[ausgewogenen]] [[Lebensstil]] `mit` sozialen Medien `im` [[Alltag]] [[erreichen]] kann. ^9
 
 
 Angesichts dieser Risiken stellt sich die Frage, wie man einen ausgewogenen Lebensstil mit sozialen Medien im Alltag erreichen kann.
@@ -124,7 +122,7 @@ Angesichts dieser Risiken stellt sich die Frage, wie man einen ausgewogenen Lebe
 ---
 ---
 
-*[[111-LEGO#^10|^]]* Leider ist das leichter gesagt als getan, denn es erfordert enorme Disziplin, praktikable Regeln zu etablieren, um die Online-Zeit konsequent zu begrenzen. ^10
+*[[111-LEGO#^10|^]]* Leider ist das [[leichter gesagt als getan]], `denn` es [[erfordert]] [[enorm]]e [[Disziplin]], [[praktikable]] [[Regel]]n zu [[etablieren]], `um` die Online-Zeit [[konsequent]] zu [[begrenzen]]. ^10
 
 
 Leider ist das leichter gesagt als getan, denn es erfordert enorme Disziplin, praktikable Regeln zu etablieren, um die Online-Zeit konsequent zu begrenzen.
@@ -137,7 +135,7 @@ Leider ist das leichter gesagt als getan, denn es erfordert enorme Disziplin, pr
 ---
 ---
 
-*[[111-LEGO#^11|^]]* Allerdings – gerade weil dieses Problem so bekannt ist – wurden zahlreiche Methoden entwickelt, die in thematischen Foren offen zugänglich sind. ^11
+*[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind. ^11
 
 
 Allerdings – gerade weil dieses Problem so bekannt ist – wurden zahlreiche Methoden entwickelt, die in thematischen Foren offen zugänglich sind.
@@ -150,7 +148,7 @@ Allerdings – gerade weil dieses Problem so bekannt ist – wurden zahlreiche M
 ---
 ---
 
-*[[111-LEGO#^12|^]]* Ich persönlich habe es als sinnvoll empfunden, meinen Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken. ^12
+*[[111-LEGO#^12|^]]* Ich [[persönlich]] habe es `als` [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten `pro` Tag zu [[beschränken]]. ^12
 
 
 Ich persönlich habe es als sinnvoll empfunden, meinen Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken.
@@ -163,7 +161,7 @@ Ich persönlich habe es als sinnvoll empfunden, meinen Zugriff auf Twitter auf 3
 ---
 ---
 
-*[[111-LEGO#^13|^]]* Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten. ^13
+*[[111-LEGO#^13|^]]* [[Zusätzlich]] hat es `sich` `als` [[effektiv]] [[erwiesen]], meinen [[Arbeitslaptop]] [[vollständig]] [[sozialmedienfrei]] zu [[halten]]. ^13
 
 
 Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten.
@@ -175,7 +173,7 @@ Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig
 ---
 ---
 
-*[[111-LEGO#^14|^]]* Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen. ^14
+*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] Videos [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]. ^14
 
 
 Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen.

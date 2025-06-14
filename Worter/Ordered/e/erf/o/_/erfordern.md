@@ -7,6 +7,9 @@
 *[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] [[Powerbank]]s `in` der [[Bibliothek]] verboten sind, [[erschwert]] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], [[erheblich]] 
 
 
+*[[111-LEGO#^10|^]]* Leider ist das [[leichter gesagt als getan]], `denn` es [[erfordert]] [[enorm]]e [[Disziplin]], [[praktikable]] [[Regel]]n zu [[etablieren]], um die Online-Zeit [[konsequent]] zu [[begrenzen]]
+
+
 ---
 
 

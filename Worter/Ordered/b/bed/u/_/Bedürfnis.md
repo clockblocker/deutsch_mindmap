@@ -1,6 +1,11 @@
 --> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <--
-❤️ 🟢 das [[Bedürfnis]], [bəˈdʏɐ̯fnɪs](https://youglish.com/pronounce/Bedürfnis/german)
-die [[Bedürfnisse]]
+❤️ das [[Bedürfnis]], [bəˈdʏɐ̯fnɪs](https://youglish.com/pronounce/Bedürfnis/german)
+
+---
+---
+
+*[[113-LEGO#^6|^]]* Diese [[Einsicht]] hat [[inzwischen]] auch `in` der [[Wirtschaft]] [[Fuß gefasst]], `sodass` [[Arbeitsmodell]]e [[immer]] [[stärker]] `an` die [[Bedürfnis]]se [[berufstätig]]er [[Eltern]] [[angepasst]] werden
+
 
 ---
 Ich habe vollstes Verständnis dafür, dass ein [[Umzug]] unter Zeitdruck nicht alle [[Bedürfnis]]se [[berücksichtigen]] kann

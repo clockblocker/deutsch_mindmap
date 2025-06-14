@@ -10,3 +10,4 @@
 
 , [[verwirrt]], [[ordentlich]], [[wild]], [[mitteln]], [[gegliedert]]
 , [[strukturell]], [[geregelt]]
+, [[logistisch]]

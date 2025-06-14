@@ -26,4 +26,4 @@ A: die [[Bestimmung]], die [[Bestimmungen]]
 G: der [[Bestimmung]], der [[Bestimmungen]]
 D: der [[Bestimmung]], den [[Bestimmungen]]
 
-#Feminin , [[Messung]], [[Auflage]], [[Bestimmungsort]], [[mitbestimmen]], [[Kleidervorschrift]], [[Kleidungsvorschrift]]
+#Feminin , [[Messung]], [[Auflage]], [[Bestimmungsort]], [[mitbestimmen]], [[Kleidervorschrift]], [[Kleidungsvorschrift]], [[Regel]]

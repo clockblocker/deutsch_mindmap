@@ -60,4 +60,4 @@ Adjektive: [[erachtend]], [[erachtender]], [[erachtendst]]
 ---
 [[erachtender]], [[erachtendes]], [[erachtende]], [[erachtenden]], [[erachtendem]], [[erachtenderer]], [[erachtenderes]], [[erachtendere]], [[erachtenderen]], [[erachtenderem]], [[erachtendster]], [[erachtendstes]], [[erachtendste]], [[erachtendsten]], [[erachtendstem]]
 
-#Neuter 
+#Neuter , [[aus meiner Sicht]]

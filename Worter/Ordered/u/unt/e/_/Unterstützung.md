@@ -1,7 +1,17 @@
 --> 🤝 [[Ingredient-Interaktion]] <--
+die [[Unterstützung]], [ˈʊntɐˌʃtʏtsʊŋ] | [[unterstützen]]
 
-🔴 die [[Unterstützung]], [ˈʊntɐˌʃtʏtsʊŋ] | [[unterstützen]]
-die [[Unterstützungen]]
+----
+---
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]] 
+
+
+
+
+
+
+
 
 ---
 *Außerdem kann staatliche Regulierung Unternehmen beim [[Umstieg]] auf recycelbare Verpackungsmaterialien* 

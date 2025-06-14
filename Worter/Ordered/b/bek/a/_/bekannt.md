@@ -1,7 +1,16 @@
 🟨 [[bekannt]], [bəˈkant]
-nicht [[unbekannt]]
 
 ---
+---
+
+*[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die in [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind
+
+
+
+
+
+---
+
 *[[bro-schrieben-c1-t1-003#^8|^]]* Einer meiner [[Bekannt]]en hat nach einer 15-jährigen Karriere als [[Entwickler]] ein eigenes [[Logistiksystem]] entwickelt und ein Unternehmen gegründet, das seine App [[verkauft]] und Support-[[Leistung]]en anbietet
 
 _[[101-C1-Schreiben-T1#^11|^]]_ [[Allerdings]] – [[gerade]] weil dieses Problem so [[bekannt]] ist – wurden [[zahlreiche]] [[Methoden]] entwickelt, die in thematischen [[Foren]] offen [[zugänglich]] sind. ^11

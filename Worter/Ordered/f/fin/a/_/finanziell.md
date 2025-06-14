@@ -1,6 +1,14 @@
 🟢 [[finanziell]]
 
 ---
+---
+
+*[[113-LEGO#^12|^]]* So können diese [[finanziell]]en und [[logistisch]]en [[Schwierigkeit]]en `als` [[möglich]]e [[Ursache]] `für` die [[deutlich]] [[gesunkene]] [[Geburtenrate]] [[angesehen]] werden
+
+
+
+
+---
 
 „Liebe Laura“, sagte sie am Telefon, „ich weiß, wie traurig du bist wegen der Sache mit dem Haus. Ich möchte dir einen [[Vorschlag]] machen. Wie du weißt, [[ziehe]] ich bald ins [[Altersheim]]. Ich [[anbieten|biete]] dir meine kleine Wohnung in der [[Altstadt]] an. Sie ist nicht besonders groß, aber dafür bist du im schönsten Teil der Stadt, und es ist ein riesiger Park in der [[Nähe]], wo du spazieren gehen kannst. [[Finanziell]] könnten wir uns bestimmt [[einigen]].
 

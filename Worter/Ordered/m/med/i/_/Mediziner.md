@@ -1,1 +1,1 @@
-, [[medizinisch]], [[Schulmedizinerin]]
+, [[medizinisch]], [[Schulmedizinerin]], [[Kinderarzt]]

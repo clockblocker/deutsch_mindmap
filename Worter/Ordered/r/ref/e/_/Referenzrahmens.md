@@ -1,1 +1,1 @@
-[[Referenzrahmen]], [[zugrunde]]
+[[Referenzrahmen]], [[zugrunde]], [[Regel]]

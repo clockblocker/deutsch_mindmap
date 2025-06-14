@@ -1,7 +1,11 @@
---> 🧮 [[Grad-Quantität]] <--
--->[[Grad-Gewicht]] <--
-
+--> 🧮 [[Grad-Quantität]] | [[Grad-Gewicht]] <--
 ✅ [[genügend]], [ɡəˈnyːɡn̩t](https://youglish.com/pronounce/genügend/german)
+
+----
+---
+
+*[[113-LEGO#^11|^]]* Denn ohne [[bezahlbar]]e [[Kita]]s, [[genügend]] [[Schulplätz]]e und gut [[erreichbar]]e [[Kinderärzte]] bleibt ein [[ausgewogen]]er [[Lebensstil]] `mit` Kindern `für` [[Berufstätige]] [[kaum]] [[realisierbar]]
+
 
 ---
 *[[C1-Hoehen-T2-201-Text#^31|^]]* [[Vorbereiten|Bereiten]] denn die [[Bildungseinrichtung]]en [[angehende]] Mathelehrkräfte [[genügend]] auf den Beruf vor?

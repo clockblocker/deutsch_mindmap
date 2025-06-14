@@ -33,4 +33,4 @@ D: der [[Richtlinie]], den [[Richtlinien]]
 ---
 [[richten]], [[richtungsweisend]], [[richtlinienkonform]], [[Richtungslinie]], [[richtungsgebend]]
 
-#Feminin , [[Weisung]]
+#Feminin , [[Weisung]], [[Regel]]

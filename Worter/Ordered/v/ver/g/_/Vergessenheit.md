@@ -1,1 +1,1 @@
-, [[Erinnerung]], [[Stolpersteine]], [[vergessen]]
+, [[Erinnerung]], [[Stolpersteine]], [[vergessen]], [[Popularität]]

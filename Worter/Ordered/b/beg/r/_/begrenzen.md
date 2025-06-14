@@ -1,12 +1,21 @@
-
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
 🔒 [[begrenzen]], [bəˈɡʁɛntsən] | [[begrenzte]], haben [[begrenzt]]
 
 ---
+---
+
+*[[111-LEGO#^10|^]]* Leider ist das [[leichter gesagt als getan]], `denn` es [[erfordert]] [[enorm]]e [[Disziplin]], [[praktikable]] [[Regel]]n zu [[etablieren]], `um` die Online-Zeit [[konsequent]] zu [[begrenzen]]
+
+
+
+----
+
+
+
 260. In Deutschland hat ein Kind in der Schule … (86%)
 	- [ ] Recht auf [[unbegrenzte]] Freizeit
 
-41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
+261. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)
 	- [x] weil [[dadurch]] die [[unterschiedlichen]] Meinungen der Bürger und Bürgerinnen [[vertreten]] werden
 	- [ ] damit [[Bestechung]] in der Politik [[begrenzt]] wird
 

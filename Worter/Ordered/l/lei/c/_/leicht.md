@@ -3,6 +3,16 @@
 nicht [[schwer]]
 
 ---
+---
+
+*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist. ^10
+
+
+
+
+---
+
+
 *[[C1-Lesen-T3-301-Text#^5|^]]* So hat der technische [[Fortschritt]] eine [[leicht]]e [[Analyse]] von [[Konsumverhalten]] möglich gemacht
 
 Liebling, ich weiß, dass du mit dem Skeptizismus nicht [[vertraut]] bist. Es mag dir nicht klar sein, wie [[leicht]] es einem [[erfahrenen]] Magier [[fällt]], das [[scheinbar]] [[Unmögliche]] [[vorzutäuschen]]

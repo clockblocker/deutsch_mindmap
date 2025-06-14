@@ -1,10 +1,14 @@
-🌐 🟢 das [[Netzwerk]], [ˈnɛt͡svɛʁk](https://youglish.com/pronounce/Netzwerk/german)
+🌐 das [[Netzwerk]], [ˈnɛt͡svɛʁk](https://youglish.com/pronounce/Netzwerk/german)
 
 ---
-*[[111-C1-Schreiben-Model#^7|^]]* LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e,
+----
+
+*[[111-LEGO#^5|^]]* `Über` WhatsApp [[bleiben]] Eltern auch `aus` dem [[Ausland]] [[erreichbar]], Instagram [[ermöglicht]] es, mit Freund:innen `in` [[Kontakt]] zu [[bleiben]], LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und `auf` [[Plattform]]en `wie` YouTube `oder` TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
+
+---
 
 
-*[[101-C1-Schreiben-T1#^5|^]]* Über WhatsApp bleiben Eltern auch aus dem Ausland [[erreichbar]], Instagram ermöglicht es, mit Freund:innen in Kontakt zu bleiben, LinkedIn dient dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und auf Plattformen wie YouTube oder TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[unbeschränkt]]
+
 
 ---
 = [[Netz]], [[Verbindung]], [[Verbund]]

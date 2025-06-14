@@ -20,4 +20,4 @@ Morpheme:
 Einzigartige mögliche Formen: [[Preises]], [[Preise]], [[Preisen]]
 
 ---
-#Substantiv #Maskulin, [[Wett]], [[Kurs]], [[Belohnung]], [[Preisanstieg]], [[preiswert]], [[Energiepreis]], [[Immobilienpreis]], [[Mietpreisspirale]], [[Spotpreis]], [[Preisdiktat]], [[Preisgeld]], [[Prämie]], [[preisgeben]], [[Preisgestaltung]], [[Preisnachlass]], [[Preisanpassung]], [[Preissenkung]], [[Grundpreis]], [[Preissteigerung]], [[Pauschalpreis]]
+#Substantiv #Maskulin, [[Wett]], [[Kurs]], [[Belohnung]], [[Preisanstieg]], [[preiswert]], [[Energiepreis]], [[Immobilienpreis]], [[Mietpreisspirale]], [[Spotpreis]], [[Preisdiktat]], [[Preisgeld]], [[Prämie]], [[preisgeben]], [[Preisgestaltung]], [[Preisnachlass]], [[Preisanpassung]], [[Preissenkung]], [[Grundpreis]], [[Preissteigerung]], [[Pauschalpreis]], [[bezahlbar]]

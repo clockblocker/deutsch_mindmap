@@ -1,7 +1,10 @@
-💰 🟢 das [[Fördermittel]], [ˈfœʁdəˌmɪtl̩](https://youglish.com/pronounce/Fördermittel/german)
+💰 das [[Fördermittel]], [ˈfœʁdəˌmɪtl̩](https://youglish.com/pronounce/Fördermittel/german)
 
 ---
-*[[102-C1-Schreiben-T1#^7|^]]* Außerdem kann staatliche [[Regulierung]] [[Unternehmen]] beim [[Umstieg]] auf recycelbare [[Verpackungsmaterialien]] durch [[Fördermittel]] und [[steuerliche]] [[Anreize]] unterstützen. ^7
+---
+
+*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]]
+
 
 
 ---

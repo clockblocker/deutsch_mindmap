@@ -7,7 +7,7 @@ _[[033-C1-Schreiben-T2#^1|^]]_ Der Kopierer, den Sie [[inklusive]] [[Wartung]] u
 ---
 
 = [[Büroausstattung]], [[Bürogeräte]]
-≈ [[Technologie]], [[Geräte]], [[Ausrüstung]]
+≈ [[Technologie]], [[Gerät]]e, [[Ausrüstung]]
 ≠ [[Handarbeit]]
 
 ---

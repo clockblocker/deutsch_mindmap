@@ -1,7 +1,12 @@
 die [[Familie]]
-die [[Familien]]
 
 ---
+---
+
+*[[113-LEGO#^1|^]]* In vielen [[Industrieländern]] [[stehen]] Eltern `vor` der [[Herausforderung]], [[Beruf]] und [[Familie]] [[miteinander]] zu [[vereinbaren]]
+
+
+
 
 **Übersetzung**: family
 
@@ -11,4 +16,4 @@ die [[Familien]]
 #Feminin
 
 ---
-, [[Haushalt]], [[Familienministerium]], [[Verwandte]], [[Privatleben]], [[Nachwuchs]], [[Nachfahre]], [[Mutter]], [[Familienaufgabe]], [[Abstammung]], [[Fürstenfamilie]]
+, [[Haushalt]], [[Familienministerium]], [[Verwandte]], [[Privatleben]], [[Nachwuchs]], [[Nachfahre]], [[Mutter]], [[Familienaufgabe]], [[Abstammung]], [[Fürstenfamilie]], [[Elternschaft]]

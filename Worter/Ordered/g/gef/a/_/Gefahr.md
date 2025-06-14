@@ -1,7 +1,14 @@
 --> [[Ingredient-Risiko-Schutz-Nomen]] <--
 
-🔴 ⚠️ die [[Gefahr]], [ɡəˈfaːɐ̯]
-die [[Gefahren]]
+⚠️ die [[Gefahr]], [ɡəˈfaːɐ̯]
+
+---
+---
+
+*[[111-LEGO#^6|^]]* `Auf` `der` anderen [[Seite]] sind viele `der` festen [[Überzeugung]], `dass` die [[dauerhaft]]e [[Verschmelzung]] `von` Online- und [[Realwelt]] [[zahlreiche]] [[Gefahr]]en `mit` `sich` bringt
+
+
+
 
 ---
 Katara, du hättest nicht zu diesem Schiff gehen dürfen. Jetzt sind alle im Dorf in [[Gefahr]]

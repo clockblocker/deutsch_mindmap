@@ -1,1 +1,1 @@
-[[Leitpunkt]]
+[[Leitpunkt]], [[Regel]]

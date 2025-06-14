@@ -1,1 +1,1 @@
-, [[sachlich]], [[allgemeingültig]], [[nüchtern]]
+, [[sachlich]], [[allgemeingültig]], [[nüchtern]], [[aus meiner Sicht]]

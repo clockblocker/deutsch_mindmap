@@ -2,6 +2,17 @@
 nicht [[locker]], nicht [[weich]]
 
 ---
+---
+
+*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist. ^10
+
+
+
+
+
+
+---
+
 Das Haus steht auf [[festem]] Boden.
 
 *[[C1-Hoehen-T1-203-Text#^5|^]]* Als [[selbsternannt]]er [[Chauvinist]] war er der [[fest]]en [[Überzeugung]], dass ein Mann selbst in seinem Alter die Tennisspielerin schlagen könne

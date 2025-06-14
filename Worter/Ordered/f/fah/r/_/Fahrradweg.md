@@ -1,1 +1,1 @@
-, [[Radschnellweg]], [[Fahrrad]]
+, [[Radschnellweg]], [[Fahrrad]], [[Radweg]]

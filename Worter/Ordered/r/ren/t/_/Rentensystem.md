@@ -1,8 +1,12 @@
-👴 🟢 das [[Rentensystem]], [ˈʁɛntənˌzʏstɛːm](https://youglish.com/pronounce/Rentensystem/german)
-die [[Rentensysteme]]
+👴  das [[Rentensystem]], [ˈʁɛntənˌzʏstɛːm](https://youglish.com/pronounce/Rentensystem/german)
 
 ---
-Volkswirtschaft
+---
+
+*[[113-LEGO#^4|^]]* `Da` [[Rentensystem]]e und [[Volkswirtschaft]]en `auf` höhere [[Geburtenrate]]n [[angewiesen]] sind, ist es `für` [[Staat]]en [[sinnvoll]], Bürger:innen `dabei` zu [[unterstützen]], [[Berufsleben|Berufs]]- und [[Familienleben]] [[erfolgreich]] zu [[verbinden]]
+
+
+
 
 ---
 = [[Altersvorsorgesystem]], [[Pensionssystem]]

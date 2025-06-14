@@ -1,8 +1,13 @@
 🚲 🟢 das [[Fahrrad]], [ˈfaːɐ̯ˌʁaːt](https://youglish.com/pronounce/Fahrrad/german)  
-die [[Fahrräder]]
 
 ---
-*[[112-C1-Schreiben-Model#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] statt des Autos als [[Verkehrsmittel]] nutzen oder [[Kleidung]] in Second-Hand-Läden kaufen, [[anstatt]] [[ständig]] neue Sachen bei Fast-Fashion-[[Anbietern]] oder in [[modisch]]en [[Boutique]]n zu [[erwerben]]
+---
+
+*[[112-LEGO#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] [[statt]] des [[Auto]]s als [[Verkehrsmittel]] [[nutzen]] `oder` [[Kleidung]] in Second-Hand-[[Läden]] [[kaufen]], [[anstatt]] [[ständig]] neue [[Sache]]n `bei` Fast-Fashion-[[Anbieter]]n `oder` `in` [[modisch]]en [[Boutique]]n zu [[erwerben]]
+
+
+
+
 
 ---
 = [[Rad]], [[Drahtesel]], [[Boot]], [[wagen]], [[Lastenrad]], [[Fahrradmesse]], [[Laufrad]]

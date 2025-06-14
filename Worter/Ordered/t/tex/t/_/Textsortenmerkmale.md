@@ -1,1 +1,1 @@
-[[Textsortenmerkmal]]
+[[Textsortenmerkmal]], [[Regel]]

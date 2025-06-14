@@ -28,4 +28,4 @@ G: des [[Prinzips]], der [[Prinzipien]]
 D: dem [[Prinzip]], den [[Prinzipien]]
 
 #Neuter 
-, [[Grundzug]]
+, [[Grundzug]], [[Regel]]

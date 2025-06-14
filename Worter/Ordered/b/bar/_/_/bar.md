@@ -2,4 +2,4 @@
 , [[erkennbar]]
 , [[ablenkbar]]
 , [[verfügbar]], [[geldlich]], [[erneuerbar]], [[unverzichtbar]], [[bemerkbar]], [[Erreichbarkeit]], [[legal]], [[strafbar]], [[Vereinbarkeit]], [[unschätzbar]], [[tragbar]], [[recycelbar]], [[unfruchtbar]], [[fruchtbar]], [[vertretbar]], [[unbestreitbar]], [[unabdingbar]], [[greifbar]], [[sichtbar]], [[erlebbar]], [[unvorstellbar]], [[Finanzierbarkeit]], [[machbar]], [[anwendbar]], [[umsetzbar]], [[mittelbar]], [[nachvollziehbar]], [[vergleichbar]]
-, [[unfinanzierbar]], [[überschaubar]], [[Fruchtbarkeit]]
+, [[unfinanzierbar]], [[überschaubar]], [[Fruchtbarkeit]], [[bezahlbar]]

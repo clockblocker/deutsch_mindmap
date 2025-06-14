@@ -1,13 +1,20 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
-
 🏗️ [[ausbauen]], [ˈaʊ̯sˌbaʊ̯ən](https://youglish.com/pronounce/ausbauen/german) → [[baute aus]] → [[ausgebaut]]
 
+----
 ---
+
+*[[112-LEGO#^7|^]]* Denn `ohne` einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] `mit` [[verbreiterten]] [[Geh]]- und [[Radweg]]en, ist es [[wenig]] [[sinnvoll]], `von` den Bürger:innen den [[Verzicht]] `auf` [[Auto]]s zu [[erwarten]] ^7
+
+
+
+---
+
 *[[C1-Hoehen-T2-200-Text#^22|^]]* Natürlich kann man durch [[Fleiß]] und Üben seine [[Fähigkeit]]en [[ausbauen]]
 
 *[[C1-Hoehen-T2-102-Text#^42|^]]* Die öffentlichen [[Nahverkehrsmittel]] sind in Österreich, der Schweiz und Deutschland wirklich gut [[ausgebaut]], immer mehr entdecken das Fahrrad für sich
 
-*[[102-C1-Schreiben-T1#^6|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Geh|Gehweg]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]
+*[[112-LEGO#^7|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] mit [[verbreiterten]] [[Gehweg|Geh]]- und [[Radweg]]en, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu [[erwarten]]
 
 ---
 = [[erweitern]], [[vergrößern]], [[entwickeln]]

@@ -1,6 +1,13 @@
 👀 [[anschauen]], [ˈanˌʃaʊ̯ən] | [[schaute an]], haben [[angeschaut]]
 
 ---
+---
+
+*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] [[Video]]s [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]
+
+
+
+
 [[anschauen|Schauen]] wir uns nun die Verben mit den zentralen Präfixen genauer an: Was können wir mit ihnen aussagen? Welche Szenen leuchten wir aus? Und wie genau machen wir das?
 
 *[[C1-Hoehen-T3-301-Text#^45|^]]* Wenn man sich [[Bezahlung]] und [[Arbeitszeit]]en von [[Pflegepersonal]] [[anschaut]], ist es nicht [[verwunderlich]], dass immer mehr [[Stellen]] [[unbesetzt]] bleiben

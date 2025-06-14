@@ -1,6 +1,20 @@
 --> [[Ingredient-Einhaltung]] <--
 🤔 [[berücksichtigen]], [bəˈʁʏksɪçtɪgən] | [[berücksichtigte]], haben [[berücksichtigt]]
 
+
+---
+---
+
+*[[112-LEGO#^9|^]]* [[Abschließend]] lässt sich sagen, dass `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, `um` [[realistisch]]e [[persönlich]]e [[Maßnahme]]n `gegen` den [[Klimawandel]] [[vorzuschlagen]]
+
+
+
+
+
+
+
+
+
 ---
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 

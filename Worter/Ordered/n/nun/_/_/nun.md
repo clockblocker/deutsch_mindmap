@@ -1,6 +1,14 @@
+--> ⏱️ [[Temporal-Zeitpunkt]] <--
 ⏱️ [[nun]], [nʊn]
 
---> ⏱️ [[Temporal-Zeitpunkt]] <--
+---
+---
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] [[nun]] `mit` den Kindern [[verbracht]] werden kann. ^8
+
+
+
+
 
 
 ---

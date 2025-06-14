@@ -1,1 +1,1 @@
-, [[Berichterstattung]], [[Medienberichterstattung]]
+, [[Berichterstattung]], [[Medienberichterstattung]], [[Medie]]

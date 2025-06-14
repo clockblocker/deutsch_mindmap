@@ -6,7 +6,7 @@ Hat die neue Kamera [[samt]] dem [[Zubehör]] verloren?
 
 ---
 = [[Accessoires]], [[Ausstattung]], [[Zusatz]], [[Ausrüstung]]
-≈ [[Teile]], [[Komponenten]], [[Geräte]]
+≈ [[Teile]], [[Komponenten]], [[Gerät]]e
 ≠ [[Hauptteil]], [[Kernstück]], [[Grundausstattung]]
 
 ---

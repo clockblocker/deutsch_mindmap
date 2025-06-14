@@ -1,11 +1,13 @@
-🟢 das [[Auto]]
-die [[Autos]]
+das [[Auto]]
 
-Beispiele:
+---
+---
 
-- Das [[Auto]] steht in der Garage.
-- Ich habe ein neues [[Auto]] gekauft.
-- Die [[Autos]] parken auf der Straße.
+*[[112-LEGO#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] [[statt]] des [[Auto]]s `als` [[Verkehrsmittel]] [[nutzen]] `oder` [[Kleidung]] `in` Second-Hand-[[Läden]] [[kaufen]], [[anstatt]] [[ständig]] neue [[Sache]]n `bei` Fast-Fashion-[[Anbieter]]n `oder` `in` [[modisch]]en [[Boutique]]n zu [[erwerben]]
+
+
+*[[112-LEGO#^7|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] `mit` [[verbreiterten]] [[Gehweg]]- und [[Radweg]]en, ist es [[wenig]] [[sinnvoll]], `von` den Bürger:innen den [[Verzicht]] `auf` [[Auto]]s zu [[erwarten]]
+
 
 ---
 Synonyme:

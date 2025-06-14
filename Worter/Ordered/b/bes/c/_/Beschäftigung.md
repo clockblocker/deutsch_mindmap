@@ -29,4 +29,4 @@ D: der [[Beschäftigung]], den [[Beschäftigungen]]
 ---
 [[beschäftigen]], [[schäftig]], [[Beschäftigungsgrad]], [[Beschäftigungstherapie]], [[Beschäftigungsverbot]]
 
-#Feminin , [[Anstellung]], [[Festeinstellung]], [[Beschäftigungsmöglichkeit]]
+#Feminin , [[Anstellung]], [[Festeinstellung]], [[Beschäftigungsmöglichkeit]], [[Freistellung]]

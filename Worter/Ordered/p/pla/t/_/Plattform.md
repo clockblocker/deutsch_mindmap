@@ -1,8 +1,11 @@
 --> [[🗣️ Ingredient-Meinung]] <--
-💻 🔴 die [[Plattform]], [ˈplatfɔʁm](https://youglish.com/pronounce/Plattform/german)
+💻 die [[Plattform]], [ˈplatfɔʁm](https://youglish.com/pronounce/Plattform/german)
 
 ---
-*[[101-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssysteme]] auf [[Plattformen]] wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
+---
+
+*[[111-LEGO#^5|^]]* `Über` WhatsApp [[bleiben]] Eltern auch `aus` dem [[Ausland]] [[erreichbar]], Instagram [[ermöglicht]] es, mit Freund:innen `in` [[Kontakt]] zu [[bleiben]], LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und `auf` [[Plattform]]en `wie` YouTube `oder` TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
+
 
 
 ---

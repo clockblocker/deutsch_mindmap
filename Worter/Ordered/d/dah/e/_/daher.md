@@ -6,7 +6,14 @@
 
 *[[216-C1-Schreiben-Model#^5|^]]* [[Daher]] möchte ich höflich [[anfragen]], `ob` eine [[Entschädigung]] `für` die [[entstandenen]] [[Unannehmlichkeit]]en `in` Betracht gezogen werden könnte
 
+
 *[[215-LEGO#^5|^]]* [[Daher]] möchte ich [[höflich]] [[anfragen]], `ob` eine [[Entschädigung]] `für` die [[entstandenen]] [[Unannehmlichkeit]]en `in` [[Betracht]] [[gezogen]] werden könnte
+
+
+*[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]] 
+
+
+
 
 
 ---

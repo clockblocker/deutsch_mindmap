@@ -46,7 +46,7 @@ Ich persönlich habe es als sinnvoll empfunden, meinen Zugriff auf Twitter auf 3
 
 *[[101-C1-Schreiben-T1#^6|^]]* Auf der anderen Seite sind viele der [[fest]]en [[Überzeugung]], dass die [[dauerhaft]]e [[Verschmelzung]] von Online- und [[Realwelt]] [[zahlreich]]e [[Gefahr]]en mit sich [[mitbringen|bringt]]. ^6
 
-*[[101-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Geräte]] seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
+*[[101-C1-Schreiben-T1#^7|^]]* So wird etwa die konstante [[Nutzung]] elektronischer [[Gerät]]e seit der [[Kindheit]] als eine der [[Ursachen]] für das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]]. ^7
 
 *[[101-C1-Schreiben-T1#^8|^]]* Ohne die [[Entwicklung]] der [[Empfehlungssystem]]e auf [[Plattform]]en wie YouTube wäre der [[Begriff]] „iPad-Kind“ [[wahrscheinlich]] nie [[entstanden]]. ^8
 

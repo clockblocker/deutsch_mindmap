@@ -1,1 +1,1 @@
-, [[Urlaub]], [[Abwesenheit]], [[Kaffeepause]], [[Kaffeepause]], [[Urlaubstag]], [[Erholungszeit]], [[Erholungsphase]]
+, [[Urlaub]], [[Abwesenheit]], [[Kaffeepause]], [[Kaffeepause]], [[Urlaubstag]], [[Erholungszeit]], [[Erholungsphase]], [[Freistellung]]

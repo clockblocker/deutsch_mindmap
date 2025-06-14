@@ -1,6 +1,17 @@
 🧐 [[absehen]], [ˈapˌzeːən](https://youglish.com/pronounce/absehen/german) → [[sah ab]] → [[abgesehen]]
 
+----
 ---
+
+*[[113-LEGO#^10|^]]* [[Abgesehen]] `von` [[direkt]]er [[finanziell]]er [[Unterstützung]] ist es [[aus meiner Sicht]] `vor` allem [[wichtig]], Eltern [[verlässlich]]e [[Zeitfenster]] `für` [[ununterbrochen]]es [[Arbeiten]] zu [[verschaffen]]. ^10
+
+
+
+
+
+
+----
+
 *[[C1-Hoehen-T2-100-Text#^34|^]]* Ganz [[abgesehen]] `davon` werden ja durch die Digitalisierung der Arbeitswelt immer mehr unattraktive Arbeiten von Maschinen [[übernommen]] und andere Jobs werden [[entstehen]]
 
 *[[C1-Lesen-413-Text#^8|^]]* Kinder ärmerer Schichten mussten sich mit dem Einfachsten begnügen. [[Abgesehen]] `davon`, dass sie nur wenig Freizeit hatten, ^8

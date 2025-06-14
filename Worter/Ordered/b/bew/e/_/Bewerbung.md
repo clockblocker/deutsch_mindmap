@@ -32,4 +32,4 @@ D: der [[Bewerbung]], den [[Bewerbungen]]
 , [[Bewerbungsmappe]]
 , [[Wohnungsbewerbung]], [[Mitbewerber]]
 
-#Feminin , [[Berufsaspirant]], [[Anwerbung]]
+#Feminin , [[Berufsaspirant]], [[Anwerbung]], [[verschaffen]]

@@ -1,7 +1,11 @@
 😊 [[offen]], [ˈɔfn̩](https://youglish.com/pronounce/offen/german)
 
 ---
- [[Open Space]]
+---
+
+*[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die `in` [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind
+
+
 
 ---
 = [[aufrichtig]], [[ehrlich]], [[unverblümt]]

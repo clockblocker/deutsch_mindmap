@@ -27,4 +27,4 @@ G: der [[Berücksichtigung]], der [[Berücksichtigungen]]
 D: der [[Berücksichtigung]], den [[Berücksichtigungen]]
 
 
-#Feminin 
+#Feminin , [[Regel]]

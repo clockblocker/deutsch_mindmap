@@ -50,4 +50,4 @@ PI: [[verwendend]], PII: [[verwendet]], Zu+inf: [[zu verwenden]]
 
 ---
 [[Verwendung]], [[verwendbar]], [[Verwendbarkeit]], [[Anwendung]], [[Einsatz]], [[Artikelverwendung]], [[verbrauchen]]
-, [[vermeiden]], [[meiden]], [[aufwendig]], [[heranziehen]], [[weiterverwenden]], [[zurückgreifen]], [[verwerten]]
+, [[vermeiden]], [[meiden]], [[aufwendig]], [[heranziehen]], [[weiterverwenden]], [[zurückgreifen]], [[verwerten]], [[Regel]]

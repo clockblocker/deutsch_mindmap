@@ -58,4 +58,4 @@ sie, [[gedeihen]], [[gediehen]], [[gedeihen]], [[gediehen]], [[gedeihen]]
 Adjektive: [[gedeihend]], [[gedeihender]], [[gedeihendst]]
 
 ---
-[[gedeihender]], [[gedeihendes]], [[gedeihende]], [[gedeihenden]], [[gedeihendem]], [[gedeihenderer]], [[gedeihenderes]], [[gedeihendere]], [[gedeihenderen]], [[gedeihenderem]], [[gedeihendster]], [[gedeihendstes]], [[gedeihendste]], [[gedeihendsten]], [[gedeihendstem]]
+[[gedeihender]], [[gedeihendes]], [[gedeihende]], [[gedeihenden]], [[gedeihendem]], [[gedeihenderer]], [[gedeihenderes]], [[gedeihendere]], [[gedeihenderen]], [[gedeihenderem]], [[gedeihendster]], [[gedeihendstes]], [[gedeihendste]], [[gedeihendsten]], [[gedeihendstem]], [[Fuß fassen]]

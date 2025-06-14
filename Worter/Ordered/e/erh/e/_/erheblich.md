@@ -7,6 +7,22 @@
 *[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] [[Powerbank]]s `in` der [[Bibliothek]] verboten sind, [[erschwert]] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], [[erheblich]] 
 
 
+*[[112-LEGO#^5|^]]* `Nicht nur` würde die [[alltäglich]]e [[Mobilität]] `ohne` Autos [[erheblich]] [[erschwert]], `sondern` `auch` die [[Lebenshaltungskosten]] würden `durch` [[sogenannt]]e „[[Grünsteuer]]n“ [[steigen]] – [[etwa]] in [[Form]] [[höh]]erer [[Energiepreis]]e, [[kostspielig]]er [[recycelbar]]er [[Verpackung]]en `oder` [[teurer]] Bio-[[Lebensmittel]]. ^5
+
+
+
+*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
