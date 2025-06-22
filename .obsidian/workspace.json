@@ -8,17 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "052fb7d94a5438b7",
+            "id": "72b593e0a50f4126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/C1-Schreiben-Root.md",
+                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Schreiben-Root"
+              "title": "C1-Hoehen-T1-401-Text"
+            }
+          },
+          {
+            "id": "7a35fc9fb6bbcc4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worter/Lebensgefühl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lebensgefühl"
+            }
+          },
+          {
+            "id": "8bb0c4601d7568cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/v1/T2-V1/213-C1-Schreiben/213-C1-Schreiben-Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "213-C1-Schreiben-Model"
             }
           }
         ]
@@ -95,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C1 Schreiben/C1-Schreiben-Root.md",
+                "file": "Worter/Lebensgefühl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for C1-Schreiben-Root"
+              "title": "Backlinks for Lebensgefühl"
             }
           },
           {
@@ -143,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C1 Schreiben/C1-Schreiben-Root.md",
+                "file": "Worter/Lebensgefühl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C1-Schreiben-Root"
+              "title": "Outline of Lebensgefühl"
             }
           },
           {
@@ -188,44 +216,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "052fb7d94a5438b7",
+  "active": "72b593e0a50f4126",
   "lastOpenFiles": [
-    "C1 Schreiben/v1/V1-Lego/116-LEGO.md",
-    "Worter/Ordered/i/ine/r/in Erwägung ziehen.md",
-    "Worter/Ordered/e/erw/a/_/Erwägung.md",
-    "Worter/Ordered/a/abs/c/_/abschließend.md",
-    "Worter/psychologisch.md",
-    "Worter/Ordered/b/beu/r/_/beurteilen.md",
-    "Worter/Ordered/u/ube/r/_/Überwachung.md",
-    "Worter/Ordered/e/ent/s/_/Entscheidung.md",
-    "Worter/Ordered/b/bea/c/_/beachten.md",
-    "Worter/Ordered/b/bea/c/_/beachtet.md",
-    "Worter/Ordered/v/ver/t/_/vertrauen.md",
-    "Worter/Ordered/e/ent/w/_/Entwicklung.md",
-    "Worter/Ordered/p/psy/c/psychologischstem.md",
-    "Worter/Ordered/p/psy/c/psychologischsten.md",
-    "Worter/Ordered/p/psy/c/psychologischste.md",
-    "Worter/Ordered/p/psy/c/psychologischstes.md",
-    "Worter/Ordered/p/psy/c/psychologischster.md",
-    "Worter/Ordered/p/psy/c/psychologischerem.md",
-    "Worter/Ordered/p/psy/c/psychologischeren.md",
-    "Worter/Ordered/p/psy/c/psychologischere.md",
-    "Worter/Ordered/p/psy/c/psychologischeres.md",
-    "Worter/Ordered/p/psy/c/psychologischerer.md",
-    "Worter/Ordered/p/psy/c/psychologischem.md",
-    "Worter/Ordered/p/psy/c/psychologischen.md",
-    "Worter/Ordered/p/psy/c/psychologische.md",
-    "Worter/Ordered/p/psy/c/psychologisches.md",
+    "Worter/Ordered/l/lau/f/_/Lauf.md",
+    "Worter/Ordered/k/kra/f/_/Kraft.md",
+    "Worter/Lebensgefühl.md",
+    "Worter/Ordered/k/koh/l/_/Kohlekraftwerk.md",
+    "Worter/Lebensflare.md",
+    "C1 Schreiben/Cookbook/Ingredients/Grad/Grad-Gewicht.md",
+    "Worter/Ordered/e/ern/t/_/Ernte.md",
+    "Worter/Ordered/n/not/w/_/notwendig.md",
+    "Worter/Ordered/e/ern/s/_/ernst.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Text.md",
+    "Worter/Ordered/l/lau/f/_/Laufe.md",
+    "Worter/im Laufe der Jahrhunderte.md",
+    "Worter/Ordered/a/arb/e/_/Arbeit.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Unmarked-Text.md",
+    "C1 Schreiben/v1/T2-V1/213-C1-Schreiben/213-C1-Schreiben-Model.md",
+    "C1 Schreiben/v1/T2-V1/213-C1-Schreiben/213-C1-Schreiben-Drills.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Loesung.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Text.md",
+    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Loesung.md",
+    "Texte/Avatar/s1 e1.md",
+    "Worter/Ordered/z/zei/c/_/Zeichen.md",
+    "Texte/Avatar/s1 e2.md",
+    "Texte/Der Stein der Wisen/Anki Ein Junge überlebt.md",
+    "Texte/Der Stein der Wisen/1 Ein Junge überlebt.md",
+    "Texte/Skripte/extra/Extra 9.md",
+    "Texte/Skripte/extra/Extra 10.md",
+    "[[C1 Schreiben/v1/T2-V1/215-C1-Schreiben",
+    "[[C1 Schreiben/v1/T2-V1",
+    "[[C1 Schreiben/v1",
+    "[[C1 Schreiben",
+    "Anhänge/0214.mp3",
     "Worter/Ordered/2/215/c",
     "Worter/Ordered/1/114/l",
     "Worter/Ordered/1/114",
     "Worter/Ordered/1/112/l",
     "Worter/Ordered/1/112",
-    "Worter/Ordered/s/sur/f",
-    "Worter/Ordered/m/maa/n",
-    "Worter/Ordered/r/rur/a",
-    "Worter/Ordered/r/rur",
-    "Worter/Ordered/c/car/_",
     "Anhänge/Pasted image 20250611033834.png",
     "Anhänge/Pasted image 20250610161356.png",
     "Anhänge/Pasted image 20250610065146.png",

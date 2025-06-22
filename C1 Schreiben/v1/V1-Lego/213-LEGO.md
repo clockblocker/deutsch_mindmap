@@ -1,4 +1,4 @@
-[[213-C1-Schreiben-Model]]
+[[213-C1-Schreiben-Model]] | [[0-LEGO]]
 
 ---
 ---
@@ -63,3 +63,8 @@ Sollten derzeit keine zusätzlichen Steckdosen eingebaut werden können, schlage
 
 
 
+`deren` Studium den Einsatz `von` Laptops [[erfordert]]
+ 
+Mein [[Studierendenwohnheim]] bietet diese [[Voraussetzung]]en leider nicht.
+
+für die Durchführung meiner Dissertation auf einen ruhigen Arbeitsplatz mit stabilem

@@ -1,4 +1,4 @@
-🎓 🔴 die [[Schulung]], [ˈʃuːlʊŋ](https://youglish.com/pronounce/Schulung/german)
+🎓 die [[Schulung]], [ˈʃuːlʊŋ](https://youglish.com/pronounce/Schulung/german)
 
 ---
 •	Wichtige interne [[Schulungen]] werden [[kurzfristig]] [[abgesagt]]

@@ -1,10 +1,10 @@
-[[211-C1-Schreiben-Model|Text]]
+[[211-C1-Schreiben-Model|Text]] [[0-LEGO]]
 
 ---
 ---
 ---
 
-*[[211-LEGO#^1|^]]* ich wende mich an Sie, um auf mein [[zukünftig]]es MBA-Studium an der [[Technisch]]en [[Universität]] München [[einzugehen]]. ^1
+*[[211-LEGO#^1|^]]*  ich wende mich an Sie, um auf mein [[zukünftig]]es MBA-Studium an der [[Technisch]]en [[Universität]] München [[einzugehen]]. ^1
 
 
 ich wende mich an Sie, um auf mein zukünftiges MBA-Studium an der Technischen Universität München einzugehen.

@@ -14,37 +14,37 @@ Sie haben soeben eine zweiwöchige Gruppenreise mit dem Veranstalter SunTravel T
 
 ---
 
+Sehr geehre Frau
+
+zunächst möchte ich mich dafür bedanken, dass Sie unsere Gruppenreise so kompetent begleitet haben. Besonders gefielen mir die sorgfätig ausgewählten Ausflüge und die freundliche Betreuung durch Sie und Ihr Team
+
+Allerdings kam es mehrfach zu Verspätungen bei den Busfahrten. Infolgedessen haben wir drei Ausflüge verpasst und waren sogar einmal gezwungen, in einem Hostel statt im vereinbarten 5-stern-hotel zu übernachten.
+
+Daher möchte ich höfflich anfragen, ob eine ... für die enstandende ... im Betracht gezogen werden könnte
 
 
+Entschädigung für die enstandenen 
+Entschädigung für die entstandenen Unannehmlichkeiten
+Entschädigung für die entstandenen Unannehmlichkeiten
+Entschädigung für die entstandenen Unannehmlichkeiten
+Entschädigung für die entstandenen Unannehmlichkeiten
 
+künftig zu vermeiden
+Verträge mit zuverlässigen ... abzuschließen
+Verträge mit zuverlässigen .... abzuschließen 
 
+Um änliche Probleme künftig zu vermeiden schlage ich vor, Verträge mit zuverlässigen Transpoertunternehmen abzuschließen. 
 
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-Sie haben soeben eine zweiwöchige Gruppenreise mit dem Veranstalter SunTravel Tours GmbH beendet. Die Reise wurde von Frau Melanie König, Leiterin der Kundenbetreuung, begleitet.
-Schreiben Sie ein formelles Beschwerdeschreiben an Frau König.
-
-- Eröffnen Sie Ihr Schreiben, indem Sie zunächst erwähnen, was Ihnen an der Reise besonders gut gefallen hat 
-*(z. B. Ausflugsprogramm, Lage des Hotels, Engagement des Reiseleiters).*
-- Erläutern Sie anschließend, weshalb Sie trotz dieser positiven Eindrücke unzufrieden sind
-*und nennen Sie konkrete Mängel oder Probleme, die während der Reise aufgetreten sind* 
-*(z. B. Sauberkeit der Zimmer, fehlende Verpflegungsleistungen, unpünktliche Transfers).*
-- Erkundigen Sie sich, ob eine Entschädigung denkbar ist.
-- Machen Sie Vorschläge, wie man solche Mängel in Zukunft vermeiden kann.
-*(z. B. engere Qualitätskontrollen, klarere Kommunikation mit Hotelpartnern, Feedback-Bögen vor Ort).*
- 
+Zusätzlich halte ich für sinnvoll, für Ausflüge versorglich alternative Routen bei möglichen verkehrs problemmen zu plannen. 
 
 ---
+zunächst möchte ich mich dafür bedanken, dass Sie unsere Gruppenreise so kompetent begleitet haben. Besonders gefielen mir die sorgfältig ausgewählten Ausflüge und die freundliche Betreuung durch Sie und Ihr Team.
 
+Allerdings kam es mehrfach zu Verspätungen bei den Busfahrten. Infolgedessen haben wir drei Ausflüge verpasst und waren sogar einmal gezwungen, in einem Hostel statt im vereinbarten 5-Sterne-Hotel zu übernachten.
+
+Daher möchte ich höflich anfragen, ob eine Entschädigung für die entstandenen Unannehmlichkeiten in Betracht gezogen werden könnte.
+
+Um ähnliche Probleme künftig zu vermeiden, schlage ich vor, Verträge mit zuverlässigen Transportunternehmen abzuschließen. Zusätzlich halte ich es für sinnvoll, für Ausflüge vorsorglich alternative Routen bei möglichen Verkehrsproblemen zu planen.
+
+
+Um änliche Probleme künftig zu vermeiden, schlage ich vor, Verträge mit zuverlässigen T

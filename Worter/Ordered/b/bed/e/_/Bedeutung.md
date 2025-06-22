@@ -1,4 +1,4 @@
-🤔 🔴 die [[Bedeutung]], [bəˈdɔɪ̯tʊŋ](https://youglish.com/pronounce/Bedeutung/german)
+🤔 die [[Bedeutung]], [bəˈdɔɪ̯tʊŋ](https://youglish.com/pronounce/Bedeutung/german)
 
 ---
 ---

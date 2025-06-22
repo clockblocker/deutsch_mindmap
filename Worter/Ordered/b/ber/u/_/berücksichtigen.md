@@ -1,6 +1,4 @@
---> [[Ingredient-Einhaltung]] <--
 🤔 [[berücksichtigen]], [bəˈʁʏksɪçtɪgən] | [[berücksichtigte]], haben [[berücksichtigt]]
-
 
 ---
 ---
@@ -14,8 +12,8 @@
 
 
 
-
 ---
+
 Ich habe angefangen zu zählen und etwa 100 gezählt, ohne die Formen zu [[berücksichtigen]], und über 300 mit den Formen.
 
 *[[C1-Hoehen-T3-402-Text#^1|^]]* Welche Themen werden [[zunehmend]] in der [[Medienberichterstattung]] [[berücksichtigt]]?

@@ -1,6 +1,5 @@
 🏃 🔵 der [[Lauf]], die [[Läufe]] | [laʊ̯f](https://youglish.com/pronounce/Lauf/german) | 🏃‍♂️ [[laufen]]  
 
-
 ---
 *[[C1-Lesen-T1-000-Text#^3|^]]* Ein Teil davon wird im [[Laufe]] der Zeit zu Mikroplastik [[zerrieben]], gemeinsam mit größeren [[Resten]] [[absenken|sinkt]] dieser Müll [[allmählich]] in die Tiefe und lagert sich am [[Meeresboden]] ab. ^3
 
@@ -33,3 +32,6 @@ run, course
 
 
 #Maskulin , [[im Laufe]], [[Verlauf]], [[Vertragslaufzeit]], [[Wasserkreislauf]], [[Langstreckenlauf]], [[Laufrad]], [[auslaufen]], [[Vorläufigkeit]], [[Zulauf]], [[Blutkreislauf]], [[ablaufen]]
+
+
+[[Kohlekraftwerk]]

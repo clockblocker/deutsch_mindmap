@@ -77,8 +77,7 @@ Auf der einen Seite ist der Nutzen sozialer Medien unbestreitbar – fast jeder 
 Auf der anderen Seite sind viele der festen Überzeugung, dass die dauerhafte Verschmelzung von Online- und Realwelt zahlreiche Gefahren mit sich bringt.
 
 ![[ElevenLabs_2025-06-13T06_39_54_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
+ 
 
 
 ---
@@ -125,7 +124,8 @@ Angesichts dieser Risiken stellt sich die Frage, wie man einen ausgewogenen Lebe
 *[[111-LEGO#^10|^]]* Leider ist das [[leichter gesagt als getan]], `denn` es [[erfordert]] [[enorm]]e [[Disziplin]], [[praktikable]] [[Regel]]n zu [[etablieren]], `um` die Online-Zeit [[konsequent]] zu [[begrenzen]]. ^10
 
 
-Leider ist das leichter gesagt als getan, denn es erfordert enorme Disziplin, praktikable Regeln zu etablieren, um die Online-Zeit konsequent zu begrenzen.
+Leider ist das leichter gesagt als getan, denn es erfordert enorme Di 
+sziplin, praktikable Regeln zu etablieren, um die Online-Zeit konsequent zu begrenzen.
 
 ![[ElevenLabs_2025-06-13T06_41_15_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 

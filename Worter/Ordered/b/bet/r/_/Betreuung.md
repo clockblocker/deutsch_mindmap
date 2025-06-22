@@ -1,4 +1,4 @@
-🤝 🔴 die [[Betreuung]], [bəˈtʁøːʊŋ](https://youglish.com/pronounce/Betreuung/german)
+🤝 die [[Betreuung]], [bəˈtʁøːʊŋ](https://youglish.com/pronounce/Betreuung/german)
 
 ---
 ---

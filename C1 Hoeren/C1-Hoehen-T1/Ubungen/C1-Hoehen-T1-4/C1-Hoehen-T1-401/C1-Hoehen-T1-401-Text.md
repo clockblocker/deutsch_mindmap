@@ -49,7 +49,7 @@ Willkommen zu „Reise-Tester“, dem wöchentlichen Podcast, das Reiseangeboten
 
 ---
 
-*[[C1-Hoehen-T1-401-Text#^1|^]]* Unsere erste Reise führt nach Korfu, eine der grünsten Inseln Griechenlands: südliches [[Lebensflare]] – mal [[städtisch]], mal rural –, [[reizvollste]] Landschaft, [[abwechslungsreich]]e Wandermöglichkeiten und eine historische Atmosphäre, die im Laufe der Jahrhunderte von zahlreichen Völkern [[mitgeformt]] wurde. ^1
+*[[C1-Hoehen-T1-401-Text#^1|^]]* Unsere erste Reise führt nach Korfu, eine der grünsten Inseln Griechenlands: südliches [[Lebensflare]] – mal [[städtisch]], mal rural –, [[reizvollste]] Landschaft, [[abwechslungsreich]]e Wandermöglichkeiten und eine historische Atmosphäre, die im [[Lauf]]e der Jahrhunderte von zahlreichen Völkern [[mitgeformt]] wurde. ^1
 
 
 *[[C1-Hoehen-T1-401-Text#^2|^]]* Der [[Veranstalter]] hat ein sehr [[vielfältig]]es Programm zusammengestellt, das keine [[Langeweile]] [[aufkommen]] lässt. ^2

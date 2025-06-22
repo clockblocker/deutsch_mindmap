@@ -1,4 +1,4 @@
-[[215-C1-Schreiben-Model]]
+[[215-C1-Schreiben-Model]] | [[0-LEGO]]
 
 ---
 ---
@@ -29,7 +29,7 @@ Besonders gefielen mir die sorgfältig ausgewählten Ausflüge und die freundlic
 ---
 ---
 
-_[[215-LEGO#^3|^]]_ Allerdings kam es [[mehrfach]] `zu` [[Verspätung]]en `bei` den [[Busfahrte]]n ^3
+_[[215-LEGO#^3|^]]_ Allerdings kam es [[mehrfach]] `zu` [[Verspätung]]en `bei` den [[Busfahrt]]en ^3
 
 
 Allerdings kam es mehrfach zu Verspätungen bei den Busfahrten

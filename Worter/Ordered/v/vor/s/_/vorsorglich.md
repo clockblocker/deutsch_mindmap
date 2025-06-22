@@ -1,13 +1,12 @@
 🛡️ [[vorsorglich]], [ˈfoːɐ̯ˌzɔʁɡlɪç](https://youglish.com/pronounce/vorsorglich/german)
 
 ---
-
 ---
 
 _[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
 
----
 
+---
 ---
 
 = [[präventiv]], [[vorbeugend]], [[präventiv]], [[vorbeugend]]

@@ -11,7 +11,7 @@ zunächst danke ich Ihnen für den aufmerksamen Service und die ruhige Lage Ihre
 
 ![[ElevenLabs_2025-06-13T06_23_23_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
-
+zunächt danke ich für aufmerkam 
 
 
 

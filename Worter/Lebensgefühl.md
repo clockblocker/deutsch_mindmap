@@ -1,6 +1,6 @@
-😌 🟢 das [[Lebensgefühl]], [ˈleːbn̩sɡəˌfyːl](https://youglish.com/pronounce/Lebensgefühl/german)
-die [[Lebensgefühle]]
+😌 das [[Lebensgefühl]] [ˈleːbn̩sɡəˌfyːl](https://youglish.com/pronounce/Lebensgefühl/german)
 
+---
 ---
 *[[C1-Hoehen-T1-401-Text#^9|^]]* Vom Luxushotel bis hin zum [[urigen]] Bauernhaus, eine [[herrlich]]e [[Abwechslung]], ein immer wieder neues [[Lebensgefühl]] – zu dem auch die [[kulinarisch]]en Genüsse [[beitragen]], darunter selbstverständlich Austern, der ganze Stolz der lokalen Austernfischer
 
@@ -28,3 +28,9 @@ G: des [[Lebensgefühls]], der [[Lebensgefühle]]
 D: dem [[Lebensgefühl]], den [[Lebensgefühlen]]
 
 #Neuter 
+
+
+[[Arbeit]]
+
+
+[[Kohlekraftwerk]]

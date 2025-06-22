@@ -1,4 +1,4 @@
-[[0 Grad]]
+ [[0 Grad]]
 --> 🧱[[Grad-Gewicht]] <--
 #### 🧱 [[Essentiell]] – Indispensable / Foundational
 [[unverzichtbar]] *(indispensable; cannot be omitted)*
@@ -13,7 +13,7 @@
 ---
 #### 🟢 [[Wichtig]] – High Importance / Strong Value
 [[umfangreich]] *(extensive, comprehensive)*
-[[ernst]] *(serious, earnest)*
+[[eцrnst]] *(serious, earnest)*
 [[riesig]] *(huge, enormous, gigantic)*
 ✅ [[durchaus]] *(certainly, definitely)*  
 [[wesentlich]] *(essential; key component of a whole)*

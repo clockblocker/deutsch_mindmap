@@ -63,7 +63,7 @@ Wer sich für einen sogenannten „Blue-Collar“-Beruf entscheidet, profitiert 
 ---
 ---
 
-*[[115-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in ozder [[Kfz]]-[[Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]. ^5
+*[[115-LEGO#^5|^]]* [[Handwerklich]]e [[Fähigkeit]]en – sei es `als` [[Elektriker]]:in, [[Installateur]]:in oder [[Kfz]]-[[Mechatroniker]]:in – bleiben [[unverzichtbar]], `wenn` es `um` [[Reparatur]]en, [[Installation]] und [[Instandhaltung]] [[geht]]. ^5
 
 
 ---
@@ -164,7 +164,7 @@ Zukünftig werden neue Technologien wie Augmented Reality und vernetzte Diagnose
 ---
 
 Brillen mit digitaler Anleitung können komplexe Montageprozesse erleichtern, während Sensoren in Maschinen frühzeitig Verschleiß anzeigen.
-
+ч
 ![[ElevenLabs_2025-06-12T05_26_50_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 

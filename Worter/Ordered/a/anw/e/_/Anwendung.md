@@ -1,5 +1,5 @@
 --> [[Ingredinet-Action-Nomen]] <--
-💡 🔴 die [[Anwendung]], [ˈanˌvɛndʊŋ]
+💡 die [[Anwendung]], [ˈanˌvɛndʊŋ]
 
 ---
 ---
