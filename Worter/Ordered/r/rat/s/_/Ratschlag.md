@@ -1,7 +1,10 @@
 🔵 der [[Ratschlag]], [ˈʁaːtʃlaːk], 💡 [[raten]],
-die [[Ratschläge]]
 
+----
 ---
+
+*[[111-LEGO#^25|^]]* [[Besonders]] [[hilfreich]] [[empfand]] ich `den` [[Ratschlag]], `den` [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]] 
+
 
 ---
 

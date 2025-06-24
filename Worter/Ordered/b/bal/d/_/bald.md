@@ -7,6 +7,9 @@ nicht [[langsam]]
 
 ---
 
+*[[100-LEGO#^3|^]]* Ich bin selbst ein junger Mann, der [[bald]] eine Familie mit Kindern [[gründen]] will, und würde gerne meine [[Überlegung]]en [[mitteilen]]
+
+
 [[Bisher]] gab es noch keinen [[Regen]], aber bestimmt [[bald]].
 
 _[[C1-Hoehen-T4-100-Text#^30|^]]_ Der Möglichkeit, Informationen zum Thema als PDF kostenfrei [[herunterzuladen]] und auf einen [[bald]] [[erscheinenden]] Podcast, in dem auch [[überprüft]] werden soll, ob sich in der Praxis an diese neuen [[Vorschriften]] [[gehalten]] wird
@@ -136,3 +139,4 @@ Verwendung:
 
 I chose this template because "ziemlich" functions both as an adverb and an adjective modifier, indicating degree or intensity. The template highlights its usage, synonyms, and translations while providing context for how the word is typically used in German., [[Konnektivpartikeln]], [[Konjunktoren]], [[kurzfristig]], [[Sobald]], [[künftig]]
 , [[frühzeitig]]
+, [[vorzeitig]]

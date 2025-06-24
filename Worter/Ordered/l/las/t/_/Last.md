@@ -32,4 +32,4 @@ D: der [[Last]], den [[Lasten]]
 ---
 [[lasten]], [[belasten]], [[entlasten]], [[schwer]], [[bürdenartig]], [[Recht]], [[Lastenrad]], [[Umweltbelastung]]
 
-#Feminin , [[auslasten]], [[Auslastung]], [[Überlastung]], [[unbelastet]], [[Mühe]], [[Beschwernis]]
+#Feminin , [[auslasten]], [[Auslastung]], [[Überlastung]], [[unbelastet]], [[Mühe]], [[Beschwernis]], [[Päckchen]]

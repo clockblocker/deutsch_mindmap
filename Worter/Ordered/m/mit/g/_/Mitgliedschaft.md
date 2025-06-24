@@ -1,20 +1,15 @@
-🔴 die [[Mitgliedschaft]], [ˈmɪtɡlɪtˌʃaft]
-die [[Mitgliedschaften]]
+die [[Mitgliedschaft]], [ˈmɪtɡlɪtˌʃaft]
 
 ---
+---
 
-288. [[Woraus]] [[begründet]] sich [[Deutschlands]] [[besondere]] [[Verantwortung]] für Israel? (100%)
+*[[C1-Schreiben-Aufgaben#^14|^]]* Sie können Ihre [[Mitgliedschaft]] in Ihrem Fitness-Studio ab sofort nicht mehr nutzen
 
-
-    - [ ] aus der [[Mitgliedschaft]] in der Europäischen Union (EU)
-    - [x] aus den nationalsozialistischen [[Verbrechen]] gegen Juden
-    - [ ] aus dem [[Grundgesetz]] der Bundesrepublik Deutschland
-    - [ ] aus der christlichen Tradition
 
 ---
 
 = [[Zugehörigkeit]], [[Mitgliedsein]], [[Angehörigkeit]]
-≈ [[Vereinsmitgliedschaft]], [[Status]], [[Zugang]]
+≈ [[Vereinsmitgliedschaft]], [[Status]], [[Zugang]], [[Mitglied]], [[mitgliedlich]], [[Mitgliedsbeitrag]], [[Vereinsmitgliedschaft]], [[Beitritt]], [[beitreten]], [[Vereinsbeitrag]], [[angehören]], [[Abonnement]], [[Mitgliederschwund]], [[Forumsmitglied]]
 ≠ [[Ausschluss]], [[Nichtzugehörigkeit]], [[Fremdheit]]
 
 ---
@@ -34,5 +29,4 @@ D: der [[Mitgliedschaft]], den [[Mitgliedschaften]]
 
 ---
 
-[[Mitglied]], [[mitgliedlich]], [[Mitgliedsbeitrag]], [[Vereinsmitgliedschaft]], [[Beitritt]], [[beitreten]], [[Vereinsbeitrag]], [[angehören]]
-, [[Abonnement]], [[Mitgliederschwund]]
+#Feminin 

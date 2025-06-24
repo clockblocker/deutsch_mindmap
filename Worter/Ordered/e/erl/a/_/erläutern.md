@@ -48,4 +48,4 @@ sie, [[erläutern]], [[erläuterten]], [[erläutern]], [[erläuterten]], [[erlä
 Adjektive: [[erläuternd]], [[erläuternder]], [[erläuterndst]]
 
 ---
-[[erläuternder]], [[erläuterndes]], [[erläuternde]], [[erläuternden]], [[erläuterndem]], [[erläuternderer]], [[erläuternderes]], [[erläuterndere]], [[erläuternderen]], [[erläuternderem]], [[erläuterndster]], [[erläuterndstes]], [[erläuterndste]], [[erläuterndsten]], [[erläuterndstem]], [[schildern]], [[klarmachen]], [[näherbringen]], [[aufzeigen]]
+[[erläuternder]], [[erläuterndes]], [[erläuternde]], [[erläuternden]], [[erläuterndem]], [[erläuternderer]], [[erläuternderes]], [[erläuterndere]], [[erläuternderen]], [[erläuternderem]], [[erläuterndster]], [[erläuterndstes]], [[erläuterndste]], [[erläuterndsten]], [[erläuterndstem]], [[schildern]], [[klarmachen]], [[näherbringen]], [[aufzeigen]], [[darlegen]]

@@ -3,11 +3,13 @@
 ---
 ---
 
+*[[111-LEGO#^20|^]]* Über WhatsApp bleiben Eltern `auch` `aus` dem [[Ausland]] erreichbar, Instagram [[hält]] Freund:innen `in` [[Kontakt]], LinkedIn [[dient]] `dem` [[Ausbau]] beruflicher Netzwerke, TikTok und YouTube bieten endlose Unterhaltung
+
+
 _[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
 
 
-*[[111-LEGO#^13|^]]* [[Zusätzlich]] hat es `sich` `als` [[effektiv]] [[erwiesen]], meinen [[Arbeitslaptop]] [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
-
+*[[111-LEGO#^26|^]]* Zusätzlich hat `es` `sich` `als` effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
 
 
 ---

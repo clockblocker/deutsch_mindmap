@@ -5,8 +5,10 @@
 *[[C1-Hoehen-T3-400-Text#^2|^]]* Die zeitliche Dauer der Leiharbeit [[richtet]] `sich` `nach` der [[Auftragslage]] des [[Entleiher]]-Unternehmens
 *(The duration of temporary agency work [[depends]] `on` the [[order situation]] of the [[borrowing]] company)*
 
+*[[C1-Schreiben-Aufgaben#^7|^]]* Erklären Sie, nach welchen Kriterien sich die Wahl des Transportmittels [[richten]] könnte. ^7
 
-- Erklären Sie , nach welchen Kriterien sich die Wahl des [[Studienfachs]] [[richten]] sollte .
+
+Erklären Sie , nach welchen Kriterien sich die Wahl des [[Studienfachs]] [[richten]] sollte
 
 (Guckt wieder in das Fernrohr und [[richtet]] dads Fernrohr auf die Siedlung des südlichen Wasserstamms)
 

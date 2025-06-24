@@ -1,1 +1,1 @@
-, [[Treue]], [[Verlässlichkeit]]
+, [[Treue]], [[Verlässlichkeit]], [[Zuverlässigkeit]]

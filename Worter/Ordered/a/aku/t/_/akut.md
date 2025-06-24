@@ -4,6 +4,10 @@
  ❗ [[akut]], [aˈkuːt](https://youglish.com/pronounce/akut/german)
 
 ---
+---
+
+*[[100-LEGO#^5|^]]* Mit 15 Jahren hatte ich selbst ein [[akut]]es, [[lebensveränderndes]] [[orthopädisch]]es [[Trauma]] und [[infolgedessen]] musste ich in einem [[Krankenhaus]] behandelt werden, in dem ich auch [[schwerbehinderte]] Kinder [[kennengelernt]] habe
+
 *[[C1-Lesen-T1-000-Text#^4|^]]* Für viele Tiere im Ozean sind die Plastikteile eine ernste [[akut]]e [[Bedrohung]], denn oft fressen sie sie irrtümlich und sterben daran. ^4
 
 

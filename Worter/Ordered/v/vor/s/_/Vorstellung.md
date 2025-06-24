@@ -1,7 +1,9 @@
 die [[Vorstellung]], [fɔɐ̯ˈʃtɛlʊŋ], [[vorstellen]]
-die [[Vorstellungen]]
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^10|^]]* Beschreiben Sie Ihre [[Vorstellung]] von einer flexiblen Arbeitszeit
 
 Allerdings [[anstehen|steht]] die [[Vorstellung]] des Projekts [[bereits]] nächste Woche an.
 

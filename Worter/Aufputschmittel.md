@@ -1,4 +1,4 @@
-💊 🟢 das [[Aufputschmittel]], [ˈaʊ̯fˌpʊtʃmɪtl̩](https://youglish.com/pronounce/Aufputschmittel/german)
+💊 das [[Aufputschmittel]], [ˈaʊ̯fˌpʊtʃmɪtl̩](https://youglish.com/pronounce/Aufputschmittel/german)
 die [[Aufputschmittel]]
 
 ---

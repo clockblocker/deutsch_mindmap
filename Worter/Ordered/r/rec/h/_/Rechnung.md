@@ -1,10 +1,12 @@
-🔴 🧾 die [[Rechnung]], [ˈʁɛçnʊŋ]
+🧾 die [[Rechnung]], [ˈʁɛçnʊŋ]
 die [[Rechnungen]]
 
 ----
 Wir können nicht mal die [[Rechnungen]] hier [[bezahlen]] ...  
+
 ANNA: Telefon[[Rechnung]], Gas[[Rechnung]], Strom[[Rechnung]] … Oh, [[was]] ist das?  
-[[amazon.md#^10|^]] [[Rechnung]] ^10
+
+[[amazon.md#^10|^]] [[Rechnung]]
 
 
 ---

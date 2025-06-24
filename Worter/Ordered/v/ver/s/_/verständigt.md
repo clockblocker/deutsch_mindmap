@@ -1,1 +1,1 @@
-, [[verständigen]]
+, [[verständigen]], [[Verständigung]]

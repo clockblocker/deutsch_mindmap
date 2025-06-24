@@ -1,3 +1,3 @@
 
 , [[Aufmerksamkeit]]
-, [[unaufmerksam]], [[Nachlässigkeit]]
+, [[unaufmerksam]], [[Nachlässigkeit]], [[Zerstreutheit]]

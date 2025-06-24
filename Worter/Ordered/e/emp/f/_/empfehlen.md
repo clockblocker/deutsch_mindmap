@@ -42,4 +42,4 @@ PI: [[empfehlend]], PII: [[empfohlen]], Zu+inf: [[zu empfehlen]]
 
 ---
 [[Empfehlung]], [[Fehl]], [[empfehlenswert]]
-, [[befürworten]], [[Empfehlungssystem]], [[Empfehlungsalgorithmus]], [[Universitätsempfehlung]], [[vorschreiben]]
+, [[befürworten]], [[Empfehlungssystem]], [[Empfehlungsalgorithmus]], [[Universitätsempfehlung]], [[vorschreiben]], [[Empfehlungsschreiben]]

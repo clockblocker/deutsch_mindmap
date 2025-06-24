@@ -4,49 +4,100 @@
     "type": "split",
     "children": [
       {
-        "id": "ec93c7aa318b9b22",
+        "id": "d3214be780ec37ba",
         "type": "tabs",
+        "dimension": 73.00884955752213,
         "children": [
           {
-            "id": "72b593e0a50f4126",
+            "id": "1daa555d7239adf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Text.md",
+                "file": "Worter/liegt auf der Hand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C1-Hoehen-T1-401-Text"
+              "title": "liegt auf der Hand"
             }
           },
           {
-            "id": "7a35fc9fb6bbcc4e",
+            "id": "19da31127ae5066f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/Lebensgefühl.md",
+                "file": "Worter/vorgeschlagenen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lebensgefühl"
+              "title": "vorgeschlagenen"
             }
           },
           {
-            "id": "8bb0c4601d7568cc",
+            "id": "07c0aff349b1241b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1 Schreiben/v1/T2-V1/213-C1-Schreiben/213-C1-Schreiben-Model.md",
+                "file": "C1 Schreiben/C1-Schreiben-Root.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "213-C1-Schreiben-Model"
+              "title": "C1-Schreiben-Root"
+            }
+          },
+          {
+            "id": "b7b1102234458b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/C1-Schreiben-Root.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C1-Schreiben-Root"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "9f31562e74d8a9ae",
+        "type": "tabs",
+        "dimension": 26.991150442477874,
+        "children": [
+          {
+            "id": "db4e04c1c241116c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/v1/T1-V1/111-C1-Schreiben/111-C1-Schreiben-Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "111-C1-Schreiben-Model"
+            }
+          },
+          {
+            "id": "21f6fa0911bb3d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-015.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bro-schrieben-c1-t1-015"
             }
           }
         ]
@@ -102,8 +153,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,44 +266,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72b593e0a50f4126",
+  "active": "b7b1102234458b76",
   "lastOpenFiles": [
-    "Worter/Ordered/l/lau/f/_/Lauf.md",
-    "Worter/Ordered/k/kra/f/_/Kraft.md",
-    "Worter/Lebensgefühl.md",
-    "Worter/Ordered/k/koh/l/_/Kohlekraftwerk.md",
-    "Worter/Lebensflare.md",
-    "C1 Schreiben/Cookbook/Ingredients/Grad/Grad-Gewicht.md",
-    "Worter/Ordered/e/ern/t/_/Ernte.md",
-    "Worter/Ordered/n/not/w/_/notwendig.md",
-    "Worter/Ordered/e/ern/s/_/ernst.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Text.md",
-    "Worter/Ordered/l/lau/f/_/Laufe.md",
-    "Worter/im Laufe der Jahrhunderte.md",
-    "Worter/Ordered/a/arb/e/_/Arbeit.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Unmarked-Text.md",
-    "C1 Schreiben/v1/T2-V1/213-C1-Schreiben/213-C1-Schreiben-Model.md",
-    "C1 Schreiben/v1/T2-V1/213-C1-Schreiben/213-C1-Schreiben-Drills.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-401/C1-Hoehen-T1-401-Loesung.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Text.md",
-    "C1 Hoeren/C1-Hoehen-T1/Ubungen/C1-Hoehen-T1-4/C1-Hoehen-T1-400/C1-Hoehen-T1-400-Loesung.md",
-    "Texte/Avatar/s1 e1.md",
-    "Worter/Ordered/z/zei/c/_/Zeichen.md",
-    "Texte/Avatar/s1 e2.md",
-    "Texte/Der Stein der Wisen/Anki Ein Junge überlebt.md",
-    "Texte/Der Stein der Wisen/1 Ein Junge überlebt.md",
-    "Texte/Skripte/extra/Extra 9.md",
-    "Texte/Skripte/extra/Extra 10.md",
-    "[[C1 Schreiben/v1/T2-V1/215-C1-Schreiben",
-    "[[C1 Schreiben/v1/T2-V1",
-    "[[C1 Schreiben/v1",
-    "[[C1 Schreiben",
-    "Anhänge/0214.mp3",
-    "Worter/Ordered/2/215/c",
-    "Worter/Ordered/1/114/l",
-    "Worter/Ordered/1/114",
-    "Worter/Ordered/1/112/l",
-    "Worter/Ordered/1/112",
+    "C1 Schreiben/v1/T1-V1/111-C1-Schreiben/111-C1-Schreiben-Model.md",
+    "Anhänge/0111.mp3",
+    "Worter/0111.mp3.md",
+    "C1 Schreiben/C1-Schreiben-Root.md",
+    "C1 Schreiben/v1/T1-V1/112-C1-Schreiben/112-C1-Schreiben-Model.md",
+    "C1 Schreiben/v1/V1-Lego/111-LEGO.md",
+    "Worter/Ordered/e/emp/f/_/Empfehlungsalgorithmus.md",
+    "Worter/Ordered/e/emp/f/_/Empfehlungsalgorithmen.md",
+    "Worter/Ordered/h/hil/f/_/hilfreich.md",
+    "Worter/Ordered/a/ans/c/_/anschauen.md",
+    "Worter/Ordered/a/anz/u/_/anzuschauen.md",
+    "Worter/Ordered/h/her/u/_/herunterladen.md",
+    "Worter/Ordered/h/her/u/_/heruntergeladene.md",
+    "Anhänge/ElevenLabs_2025-06-24T03_23_47_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Worter/Ordered/h/hal/t/_/halten.md",
+    "Worter/vorgeschlagenen.md",
+    "Worter/sozialmedienfrei.md",
+    "Worter/Ordered/v/vol/l/_/vollständig.md",
+    "Worter/Ordered/e/erw/e/_/erweisen.md",
+    "Worter/Ordered/e/erw/i/_/erwiesen.md",
+    "Anhänge/ElevenLabs_2025-06-24T03_22_17_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Worter/Ordered/a/aus/p/_/ausprobieren.md",
+    "Worter/Ordered/a/aus/p/_/ausprobiert.md",
+    "Worter/liegt auf der Hand.md",
+    "Worter/Ordered/b/bes/c/_/beschränken.md",
+    "Worter/Ordered/r/rat/s/_/Ratschlag.md",
+    "Worter/Ordered/e/emp/f/_/empfinden.md",
+    "Worter/Ordered/e/emp/f/_/empfand.md",
+    "Anhänge/ElevenLabs_2025-06-24T03_20_09_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/ElevenLabs_2025-06-24T03_17_58_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/ElevenLabs_2025-06-24T03_12_25_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/ElevenLabs_2025-06-24T03_10_09_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/ElevenLabs_2025-06-24T03_08_53_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/ElevenLabs_2025-06-24T03_06_15_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/Pasted image 20250624014532.png",
     "Anhänge/Pasted image 20250611033834.png",
     "Anhänge/Pasted image 20250610161356.png",
     "Anhänge/Pasted image 20250610065146.png",
@@ -262,7 +311,6 @@
     "Anhänge/Pasted image 20250610040258.png",
     "Anhänge/Pasted image 20250609153802.png",
     "Anhänge/Pasted image 20250609153648.png",
-    "Anhänge/Pasted image 20250609153502.png",
-    "Anhänge/Pasted image 20250609153255.png"
+    "Anhänge/Pasted image 20250609153502.png"
   ]
 }

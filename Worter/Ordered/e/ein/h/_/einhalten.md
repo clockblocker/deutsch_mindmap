@@ -4,15 +4,12 @@
 
 🕰️ [[einhalten]], [ˈaɪ̯nˌhaltən] | [[hielt ein]], haben [[eingehalten]]
 
+----
 ---
+
+*[[C1-Schreiben-Aufgaben#^15|^]]* Schreiben Sie an den Geschäftsleiter, Herrn Fuchs, und bitten Sie darum, trotz der nicht [[eingehaltenen]] [[Kündigungsfrist]] aus dem [[Vertrag]] [[aussteigen]] zu dürfen
+
 Wirst du diese Regel immer [[einhalten]]?
-
-
-1. Was bedeutet „Rechtsstaat“ in Deutschland? (83%)
-	- [x] Der Staat muss die [[Gesetze]] [[einhalten]].
-
-2. In Deutschland dürfen Ehepaare sich scheiden lassen. [[Meistens]] müssen sie dazu das „[[Trennungsjahr]]“ [[einhalten]]. Was bedeutet das? (90%)
-	- [x] Mann und Frau führen [[mindestens]] ein Jahr getrennt ihr eigenes Leben. Danach ist die [[Scheidung]] [[möglich]].
 
 ---
 = [[befolgen]], [[beachten]], [[wahren]]

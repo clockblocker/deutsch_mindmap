@@ -1,1 +1,1 @@
-, [[Schatten]], [[dunkel]], [[Sichtverhältnis]], [[Lichtsäule]], [[Spot]], [[Aufklärung]], [[Glanz]]
+, [[Schatten]], [[dunkel]], [[Sichtverhältnis]], [[Lichtsäule]], [[Spot]], [[Aufklärung]], [[Glanz]], [[Mitternacht]]

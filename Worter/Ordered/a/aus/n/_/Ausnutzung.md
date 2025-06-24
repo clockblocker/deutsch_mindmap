@@ -1,1 +1,1 @@
-, [[Auslastung]], [[Verwertung]], [[Machtmissbrauch]]
+, [[Auslastung]], [[Verwertung]], [[Machtmissbrauch]], [[Ausbeutung]]

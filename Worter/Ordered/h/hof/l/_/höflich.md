@@ -3,11 +3,11 @@
 ---
 ---
 
+*[[C1-Schreiben-Aufgaben#^5|^]]* Eröffnen Sie Ihr Schreiben [[höflich]] und bringen Sie `sich` in [[Erinnerung]]
+
+
 *[[216-LEGO#^7|^]]* Daher möchte ich [[höflich]] [[anfragen]], `ob` eine [[Entschädigung]] für die [[entstanden]]en [[Unannehmlichkeit]]en `in` [[Betracht]] [[gezogen]] werden könnte. ^7
 
-
-
----
 
 
 ---

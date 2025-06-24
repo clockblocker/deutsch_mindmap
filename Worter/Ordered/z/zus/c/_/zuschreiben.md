@@ -55,4 +55,4 @@ sie, [[schreiben zu]], [[schrieben zu]], [[schreiben zu]], [[schrieben zu]], [[s
 Adjektive: [[zuschreibend]], [[zuschreibender]], [[zuschreibendst]]
 
 ---
-[[zuschreibender]], [[zuschreibendes]], [[zuschreibende]], [[zuschreibenden]], [[zuschreibendem]], [[zuschreibenderer]], [[zuschreibenderes]], [[zuschreibendere]], [[zuschreibenderen]], [[zuschreibenderem]], [[zuschreibendster]], [[zuschreibendstes]], [[zuschreibendste]], [[zuschreibendsten]], [[zuschreibendstem]]
+[[zuschreibender]], [[zuschreibendes]], [[zuschreibende]], [[zuschreibenden]], [[zuschreibendem]], [[zuschreibenderer]], [[zuschreibenderes]], [[zuschreibendere]], [[zuschreibenderen]], [[zuschreibenderem]], [[zuschreibendster]], [[zuschreibendstes]], [[zuschreibendste]], [[zuschreibendsten]], [[zuschreibendstem]], [[beizumessen]]

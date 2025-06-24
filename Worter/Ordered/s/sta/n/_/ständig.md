@@ -4,7 +4,13 @@
 ---
 ---
 
+*[[111-LEGO#^21|^]]* Auf der anderen Seite kann die [[ständig]]e [[Präsenz]] in der Online-Welt zahlreiche Gefahren `mit` `sich` bringen
+
+
 *[[112-LEGO#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] [[statt]] des [[Auto]]s als [[Verkehrsmittel]] [[nutzen]] `oder` [[Kleidung]] in Second-Hand-[[Läden]] [[kaufen]], [[anstatt]] [[ständig]] neue [[Sache]]n `bei` Fast-Fashion-[[Anbieter]]n `oder` `in` [[modisch]]en [[Boutique]]n zu [[erwerben]]
+
+
+*[[111-LEGO#^17|^]]* Warum soziale Medien so beliebt sind, [[liegt auf der Hand]]: Sie ermöglichen `durch` [[unmittelbar]]en [[Informationsaustausch]] [[ständig]]en [[Kontakt]] und und eine [[Vielfalt]] `an` [[Inhalt]]en `für` jede [[Gelegenheit]]
 
 
 ---

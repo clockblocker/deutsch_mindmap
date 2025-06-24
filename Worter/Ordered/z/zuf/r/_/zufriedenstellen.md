@@ -39,3 +39,4 @@ Zu+infinifive: [[zufriedenzustellen]]
 [[Zufriedenstellung]], [[Zufriedenheitsgefühl]], [[Zufriedenheitsstudie]], [[Kundenzufriedenheit]]
 
 [[zufriedenstellen]]
+, [[Zufriedenheit]]

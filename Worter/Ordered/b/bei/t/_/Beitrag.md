@@ -1,7 +1,12 @@
-➕ 🔵 der [[Beitrag]], [ˈbaɪ̯tʁaːk]
-die [[Beiträge]]
+➕ der [[Beitrag]], [ˈbaɪ̯tʁaːk]
 
 ---
+---
+
+*[[100-LEGO#^2|^]]* Soweit meine [[Überlegung]]en `zum` Thema. Ich hoffe, `dass` ihr meinen [[Beitrag]] interessant findet und freue mich `auf` eure [[Rückmeldung]]en
+
+*[[100-LEGO#^1|^]]* Liebe Forumsteilnehmer, seit langem verfolge ich eure [[Beiträge]] im Forum und das letzte Thema hat mich so sehr [[angesprochen]], dass ich mich gern an der [[Diskussion]] [[beteiligen]] möchte
+
 *[[bro-schrieben-c1-t1-002#^3|^]]* Ich [[verfolge]] schon seit [[geraum]]er [[Zeit]] eure [[Beiträge]] zu Online-[[Sprachkurs]]en und möchte nun auch [[etwas]] [[dazu]] schreiben
 
 *[[bro-schrieben-c1-t1-002#^15|^]]* Ich hoffe, dass ihr meinen [[Beitrag]] interessant findet und freue mich auf eure Rückmeldungen
@@ -12,7 +17,7 @@ die [[Beiträge]]
 
 *[[C1-Hoehen-T1-301-Text#^4|^]]* Aus vielen [[Beiträgen]] wie auch aus den Kommentaren und Beschreibungen der durch die Reportage [[führenden]] Klimaaktivistin und Meeresbiologin ergibt sich eine [[bedrohte]], fragile Welt
 
- [[verfassen]] *Sie einen Diskussions*[[Beitrag]] *zu diesem Thema*
+ [[verfassen]] Sie einen Diskussions [[Beitrag]] zu diesem Thema
 
 *[[3 Soll man Geld spenden?#^9|^]]* Ob es sich um die Teilnahme an geschlossenen Chats für Spender der Organisation, die Aufnahme des Namens des Spenders in die Liste der Personen im [[Abspann]], oder den direkten [[Zugang]] zu den Teilnehmern der Organisation, bekommt man immer etwas für seine [[Beiträge]]. ^9
 

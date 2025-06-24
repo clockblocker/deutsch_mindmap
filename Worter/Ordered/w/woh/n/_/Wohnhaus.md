@@ -1,1 +1,1 @@
-[[Haus]], [[Gebetshaus]], [[Schulgebäude]]
+[[Haus]], [[Gebetshaus]], [[Schulgebäude]], [[wohnen]]

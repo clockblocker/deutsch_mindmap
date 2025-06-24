@@ -33,4 +33,4 @@ Zu+infinitive: [[zu mitteln]]
 ---
 
 [[Mittel]], [[Vermittlung]], [[Ausgleich]], [[Management]], [[unterscheiden]]
-, [[Mittelstellung]]
+, [[Mittelstellung]], [[unmittelbar]]

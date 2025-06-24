@@ -1,1 +1,1 @@
-, [[Ansprechpartner]], [[Fremde]], [[Unbekannten]], [[Brieffreund]], [[Freund]]
+, [[Ansprechpartner]], [[Fremde]], [[Unbekannten]], [[Brieffreund]], [[Freund]], [[Nachbar]]

@@ -1,2 +1,2 @@
 --> 🧱[[Grad-Gewicht]] <--
-, [[zweitrangig]], [[untergeordnet]], [[unerheblich]]
+, [[zweitrangig]], [[untergeordnet]], [[unerheblich]], [[lebensverändern]]

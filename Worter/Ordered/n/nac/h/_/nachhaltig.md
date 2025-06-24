@@ -7,7 +7,7 @@
 
 *[[114-LEGO#^10|^]]* Auf diese [[Weise]] würde Carsharing nicht nur eine [[Notlösung]] [[darstellen]], sondern zu einem [[integral]]en [[Bestandteil]] [[nachhaltig]]er [[Verkehrssystem]]e werden
 
-
+*[[100-LEGO#^10|^]]* Ich bin selbst daran interessiert, [[nachhaltig]] zu konsumieren und würde gerne meine Einblicke mitteilen
 
 *[[1 lesen StadtTours#^9|^]]* Seine Gründer waren somit [[Wegbereiter]] für umwelt- und [[sozialverträgliches]] Reisen [[sowie]] für [[zeitgemäßen]] und [[nachhaltigen]] Tourismus
 

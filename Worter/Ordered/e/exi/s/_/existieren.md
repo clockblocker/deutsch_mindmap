@@ -40,3 +40,4 @@ PI: [[existierend]], PII: [[existiert]], Zu+inf: [[zu existieren]]
 
 [[Existenz]], [[existent]], [[Existenzialismus]], [[Existenzangst]], [[Koexistenz]]
 , [[dastehen]], [[fortleben]]
+, [[wohnen]]

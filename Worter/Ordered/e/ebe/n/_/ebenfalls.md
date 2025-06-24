@@ -1,16 +1,17 @@
 [[ebenfalls]], [ˈeːbənˌfaʊ̯ls]
 
 ---
+---
 
-Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer.
+Dieses Hotel [[bietet]] [[ebenfalls]] einen Blick aufs Meer
 
-_[[C1-Lesen-T2-102-Text#^11|^]]_ Durch regelmäßiges Joggen und Radfahren komme es [[ebenfalls]] zum [[Muskelaufbau]], auch wenn der nicht so sichtbar ist. ^11
+_[[C1-Lesen-T2-102-Text#^11|^]]_ Durch regelmäßiges Joggen und Radfahren komme es [[ebenfalls]] zum [[Muskelaufbau]], auch wenn der nicht so sichtbar ist
 
-_[[C1-Hoehen-T1-100-Text#^9|^]]_ Das zweite Buch _Der Wandel der Städte_ von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwacher]] [[Bevölkerungsgruppen]] aus ihren [[Stadtteilen]], da sie die Mieten nicht mehr [[bezahlen]] können. ^9
+_[[C1-Hoehen-T1-100-Text#^9|^]]_ Das zweite Buch _Der Wandel der Städte_ von Astrid Mahlberg [[beschäftigt]] sich [[ebenfalls]] mit dem Thema [[Gentrifizierung]], also der [[Verdrängung]] [[einkommensschwacher]] [[Bevölkerungsgruppen]] aus ihren [[Stadtteilen]], da sie die Mieten nicht mehr [[bezahlen]] können
 
-_[[C1-Lesen-T1-000-Loesung#^7|^]]_ „[[Früher]]“ bezieht sich [[ebenfalls]] auf eine vergangene Zeit. Die Bedrohung besteht [[weiterhin]]. ^7
+_[[C1-Lesen-T1-000-Loesung#^7|^]]_ „[[Früher]]“ bezieht sich [[ebenfalls]] auf eine vergangene Zeit. Die Bedrohung besteht [[weiterhin]]
 
-_[[3  Ein Selbstversuch als Hobbybäuerin#^49|^]]_ Superman hatte [[ebenfalls]] einen Bürojob, und er rettete die Welt schließlich auch nicht in eineinhalb Stunden. ^49
+_[[3  Ein Selbstversuch als Hobbybäuerin#^49|^]]_ Superman hatte [[ebenfalls]] einen Bürojob, und er rettete die Welt schließlich auch nicht in eineinhalb Stunden
 
 | **Zuko**   | [[Ungläubig]]. Du sollst der Luftbändiger sein? Du bist der Avatar? |
 | ---------- | ------------------------------------------------------------------- |
@@ -41,3 +42,14 @@ Morpheme: [[eben]], [[fall]], [[s]]
 #Adverb
 , [[seinerseits]], [[zudem]], [[Konnektivpartikeln]], [[ferner]], [[sichtbar]]
 , [[zugleich]]
+
+Красивая кудра быдлануда
+
+Красивая кудра быдлануда
+
+Глокая кудра быдлануда
+
+ыфвф фывфв фывфыв
+
+ыфвффывфвфывфыв
+

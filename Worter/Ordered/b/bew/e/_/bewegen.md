@@ -48,3 +48,4 @@ Partizip I: [[bewegend]], Partizip II: [[bewegt]]
 
 [[fahren]], [[schieben]]
 , [[treiben]], [[schütteln]], [[wälzen]], [[Freizügigkeit]], [[rücken]], [[Bewegung]], [[wurzeln]], [[begeben]], [[unter die Haut gehen]], [[Strampeln]], [[schwenken]], [[verleiten]], [[veranlassen]]
+, [[Scrollen]]

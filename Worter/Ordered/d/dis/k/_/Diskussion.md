@@ -1,7 +1,11 @@
-🔴 die [[Diskussion]], [dɪsˈkuːsɪoːn]
+die [[Diskussion]], [dɪsˈkuːsɪoːn]
 
 ---
 ---
+
+*[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
+`seit` einiger Zeit verfolge ich eure Beiträge `im` Forum `mit` großem Interesse. Das letzte Thema hat mich besonders [[angesprochen]], `sodass` ich `mich` gern `an` der [[Diskussion]] [[beteiligen]] möchte
+
 
 *[[111-LEGO#^3|^]]* Soziale Medien stehen `nicht nur` `im` [[Mittelpunkt]] [[öffentlich]]er [[Diskussion]]en – sie sind `auch` der [[Ort]], `an` dem diese [[Diskussion]]en [[stattfinden]]
 
@@ -49,3 +53,4 @@ Dative: der [[Diskussion]], den [[Diskussionen]]
 
 #Feminin
 , [[Denkverbot]]
+, [[Informationsaustausch]]

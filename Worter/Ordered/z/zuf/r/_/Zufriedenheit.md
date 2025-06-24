@@ -1,13 +1,14 @@
-
- [[Zufriedenheitsumfrage]]
-
-😊 🔴 die [[Zufriedenheit]], [t͡suˈfʁiːdn̩haɪ̯t](https://youglish.com/pronounce/Zufriedenheit/german)
+😊 die [[Zufriedenheit]], [t͡suˈfʁiːdn̩haɪ̯t](https://youglish.com/pronounce/Zufriedenheit/german)
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^16|^]]* Eröffnen Sie Ihr Schreiben höflich, indem Sie Ihre [[Zufriedenheit]] mit dem Fitness-Studio zum [[Ausdruck]] bringen
+
 *[[C1-Hoehen-T1-102-Text#^9|^]]* In "Wirtschaftsethik leicht gemacht" vergleicht der künftige [[Wirtschaftswissenschaftler]] [[verschieden]]e [[Universität]]en, an denen er [[bspw.]] [[Zufriedenheitsumfrage]]n mit den [[Studierend]]en [[durchgeführt]] hat und spricht auf dieser Basis auch Studien- und [[Universitätsempfehlungen]] aus
 
 ---
-= [[Glück]], [[Wohlbefinden]], [[Genugtuung]], [[Freude]],  [[Wohlbefinden]], [[Wohlergehen]]
+= [[Glück]], [[Wohlbefinden]], [[Genugtuung]], [[Freude]],  [[Wohlbefinden]], [[Wohlergehen]],  [[Zufriedenheitsumfrage]]
 ≈ [[Freude]], [[Erfüllung]], [[Zufriedenstellung]]
 ≠ [[Unzufriedenheit]], [[Ärger]], [[Enttäuschung]], [[Herzeleid]],  [[Unmut]], [[Verdrossenheit]],
 

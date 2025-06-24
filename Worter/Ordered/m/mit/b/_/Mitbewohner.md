@@ -30,3 +30,4 @@ Einzigartige mögliche Formen: [[Mitbewohners]], [[Mitbewohner]], [[Mitbewohners
 ---
 
 #Substantiv #Maskulin, [[Extra 8]]
+, [[Nachbar]]

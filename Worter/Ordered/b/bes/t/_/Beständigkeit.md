@@ -1,2 +1,2 @@
 , [[Erhaltung]], [[Wende]]
-, [[Stimmungsschwankung]], [[bestehen]], [[Dauer]], [[Nachhaltigkeit]], [[Vorläufigkeit]], [[Lebensdauer]], [[stets]], [[Verlässlichkeit]], [[Beibehaltung]], [[Stabilität]]
+, [[Stimmungsschwankung]], [[bestehen]], [[Dauer]], [[Nachhaltigkeit]], [[Vorläufigkeit]], [[Lebensdauer]], [[stets]], [[Verlässlichkeit]], [[Beibehaltung]], [[Stabilität]], [[Zuverlässigkeit]]

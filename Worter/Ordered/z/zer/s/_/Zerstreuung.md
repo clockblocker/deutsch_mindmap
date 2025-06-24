@@ -1,1 +1,1 @@
-, [[Dichte]], [[Ablenkung]], [[Konzentration]], [[Ballung]]
+, [[Dichte]], [[Ablenkung]], [[Konzentration]], [[Ballung]], [[Zerstreutheit]]

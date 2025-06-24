@@ -34,4 +34,4 @@ G: des [[Nutzers]], der [[Nutzer]]
 D: dem [[Nutzer]], den [[Nutzern]]
 
 
-#Maskulin , [[Internetnutzung]]
+#Maskulin , [[Internetnutzung]], [[Forumsmitglied]]

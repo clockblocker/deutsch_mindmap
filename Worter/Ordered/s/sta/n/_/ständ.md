@@ -1,1 +1,1 @@
-, [[zuständig]], [[Einverständnis]]
+, [[zuständig]], [[Einverständnis]], [[Verständigung]]

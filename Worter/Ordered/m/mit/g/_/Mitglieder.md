@@ -1,1 +1,1 @@
-, [[Mitglied]], [[Mitgliederschwund]]
+, [[Mitglied]], [[Mitgliederschwund]], [[Forumsmitglied]]

@@ -3,8 +3,7 @@
 ---
 ---
 
-*[[111-LEGO#^13|^]]* [[Zusätzlich]] hat es `sich` `als` [[effektiv]] [[erwiesen]], meinen [[Arbeitslaptop]] [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
-
+*[[111-LEGO#^26|^]]* Zusätzlich hat `es` `sich` `als` effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] [[sozialmedienfrei]] zu [[halten]] 
 
 
 

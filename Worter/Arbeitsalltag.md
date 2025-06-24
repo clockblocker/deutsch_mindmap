@@ -1,7 +1,10 @@
-🏢 🔵 der [[Arbeitsalltag]], [ˈaʁbaɪ̯t͡sˌʔalˌtaːk](https://youglish.com/pronounce/Arbeitsalltag/german)
+🏢 der [[Arbeitsalltag]], [ˈaʁbaɪ̯t͡sˌʔalˌtaːk](https://youglish.com/pronounce/Arbeitsalltag/german)
 
 ---
 ---
+
+*[[111-LEGO#^23|^]]* Zudem [[auswirken|wirkt]] `sich` diese [[allgemein]]e [[Zerstreutheit]] auch `auf` meinen [[Arbeitsalltag]] [[aus]], `da` sie aufmerksames, tiefes Arbeiten erheblich erschwert
+
 
 *[[115-LEGO#^13|^]]* [[Zukünftig]] werden neue Technologien wie Augmented Reality und [[vernetzt]]e [[Diagnosegerät]]e den [[Arbeitsalltag]] `im` Handwerk [[verändern]]
 

@@ -1,1 +1,1 @@
-, [[Nachbarschaft]]
+, [[Nachbarschaft]], [[Nachbar]]

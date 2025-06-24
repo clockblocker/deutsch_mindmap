@@ -1,3 +1,3 @@
 --> [[Ingredient-Add-Remove]] <--
 
-, [[Absammeln]], [[entziehen]], [[anvertrauen]], [[abwerben]], [[ansetzen]], [[zuweisen]]
+, [[Absammeln]], [[entziehen]], [[anvertrauen]], [[abwerben]], [[ansetzen]], [[zuweisen]], [[beizumessen]]

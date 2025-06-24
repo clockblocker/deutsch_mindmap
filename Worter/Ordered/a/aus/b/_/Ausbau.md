@@ -4,7 +4,7 @@
 ---
 ---
 
-*[[111-LEGO#^5|^]]* `Über` WhatsApp [[bleiben]] Eltern auch `aus` dem [[Ausland]] [[erreichbar]], Instagram [[ermöglicht]] es, mit Freund:innen `in` [[Kontakt]] zu [[bleiben]], LinkedIn [[dient]] dem [[Ausbau]] [[beruflich]]er [[Netzwerk]]e, und `auf` [[Plattform]]en `wie` YouTube `oder` TikTok [[scheint]] das [[Unterhaltungsangebot]] [[nahezu]] [[endlos]]
+*[[111-LEGO#^20|^]]* Über WhatsApp bleiben Eltern `auch` `aus` dem [[Ausland]] erreichbar, Instagram [[hält]] Freund:innen `in` [[Kontakt]], LinkedIn [[dient]] `dem` [[Ausbau]] beruflicher Netzwerke, TikTok und YouTube bieten endlose Unterhaltung
 
 
 ---

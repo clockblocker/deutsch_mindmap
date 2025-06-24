@@ -1,1 +1,1 @@
-, [[berichten]], [[melden]], [[anzeigen]], [[Berufsinformationszentrum]], [[beraten]], [[Benachrichtigung]], [[hinweisen]], [[Verbraucherzentrale]], [[Informationswert]], [[erkundigen]], [[verständigen]], [[Information]], [[warnen]], [[alarmieren]], [[gehirnwaschen]]
+, [[berichten]], [[melden]], [[anzeigen]], [[Berufsinformationszentrum]], [[beraten]], [[Benachrichtigung]], [[hinweisen]], [[Verbraucherzentrale]], [[Informationswert]], [[erkundigen]], [[verständigen]], [[Information]], [[warnen]], [[alarmieren]], [[gehirnwaschen]], [[benachrichtigen]]

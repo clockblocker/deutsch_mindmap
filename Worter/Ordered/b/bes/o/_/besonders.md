@@ -7,6 +7,11 @@
 *[[115-LEGO#^7|^]]* Ein [[konkret]]es Beispiel [[liefert]] Deutschland: Hier sind [[derzeit]] [[besonders]] [[Maurer]]:innen und [[Anlagenmechaniker]]:innen für [[Sanitär]]-, [[Heizung]]s- und [[Klimatechnik]] [[gefragt]]
 
 
+*[[111-LEGO#^25|^]]* [[Besonders]] [[hilfreich]] [[empfand]] ich `den` [[Ratschlag]], `den` [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]] 
+
+
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, interessiert `mich` [[besonders]], `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]], und welchen [[Umgang]] wir [[damit]] finden sollten
+
 
 
 ---

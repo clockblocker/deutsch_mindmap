@@ -5,6 +5,8 @@
 
 *[[114-LEGO#^1|^]]* In den letzten Jahren hat [[Carsharing]] `als` [[flexible]]s [[Mobilitätskonzept]] [[zunehmend]] an [[Bedeutung]] [[gewonnen]]
 
+*[[C1-Schreiben-Aufgaben#^3|^]]* Nennen Sie Gründe, die dagegen sprechen könnten, der Arbeit große [[Bedeutung]] im Leben [[beizumessen]]
+
 
 
 ---

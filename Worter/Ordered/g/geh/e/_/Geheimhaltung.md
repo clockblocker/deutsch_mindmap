@@ -1,1 +1,1 @@
-, [[Geheimnis]], [[Schweigepflicht]], [[Verheimlichen]], [[Angabe]], [[Anzeige]], [[Benachrichtigung]], [[geheimnisvolle]], [[Vortrag]], [[Vertraulichkeit]], [[Ausschreibung]]
+, [[Geheimnis]], [[Schweigepflicht]], [[Verheimlichen]], [[Angabe]], [[Anzeige]], [[Benachrichtigung]], [[geheimnisvolle]], [[Vortrag]], [[Vertraulichkeit]], [[Ausschreibung]], [[Informationsaustausch]]

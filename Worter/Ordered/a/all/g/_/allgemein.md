@@ -1,8 +1,14 @@
 🌐 [[allgemein]], [ˈalɡəˌmaɪ̯n]
 
 ---
+---
 
-_[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^10|^]]_ Ohne diese persönlichen [[Interaktion]]en kann es zu einem [[Rückgang]] der kreativen [[Zusammenarbeit]] und einer [[allgemeinen]] [[Entfremdung]] unter Kollegen kommen. ^10
+*[[111-LEGO#^23|^]]* Zudem [[auswirken|wirkt]] `sich` diese [[allgemein]]e [[Zerstreutheit]] auch `auf` meinen Arbeitsalltag [[aus]], `da` sie aufmerksames, tiefes Arbeiten erheblich erschwert
+
+
+---
+
+_[[GPT 2 Digitale Meetings statt Geschäftsreisen – effizient oder entmenschlichend?#^10|^]]_ Ohne diese persönlichen [[Interaktion]]en kann es zu einem [[Rückgang]] der kreativen [[Zusammenarbeit]] und einer [[allgemeinen]] [[Entfremdung]] unter Kollegen kommen
 
 _[[C1-Lesen-T4-100-Text#^3|^]]_ Moderne Kunst [[erzielt]] trotz [[allgemeiner]] [[Geringschätzung]] enorme Preise. ^3
 

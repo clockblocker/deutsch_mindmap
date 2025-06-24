@@ -61,3 +61,4 @@ Superlativ: [[am ehesten]]
 
 [[nachher]], [[zuvor]], [[Besteck]], [[Bestecken]]
 , [[als-zu]],  [[vielmehr]], [[tendenziell]]
+, [[vorzeitig]]

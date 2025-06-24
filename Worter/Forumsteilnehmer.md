@@ -1,8 +1,11 @@
-🗣️ 🔵 der [[Forumsteilnehmer]], [ˈfoːʁʊmˌtaɪ̯lneːmɐ](https://youglish.com/pronounce/Forumsteilnehmer/german)
-die [[Forumsteilnehmer]]
+🗣️ der [[Forumsteilnehmer]], [ˈfoːʁʊmˌtaɪ̯lneːmɐ](https://youglish.com/pronounce/Forumsteilnehmer/german)
 
 ---
-*[[bro-schrieben-c1-t1-002#^2|^]]* Liebe [[Forumsteilnehmer]], seit langem [[verfolge]] ich eure [[Beiträge]] im Forum und das neue Thema hat mich so [[angesprochen]], dass ich mich [[gerne]] `an` der Diskussion [[beteiligen]] möchte
+---
+
+*[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
+`seit` einiger Zeit verfolge ich eure Beiträge `im` Forum `mit` großem Interesse. Das letzte Thema hat mich besonders [[angesprochen]], `sodass` ich `mich` gern an der [[Diskussion]] [[beteiligen]] möchte
+
 
 ---
 = [[Diskussionsteilnehmer]], [[Teilnehmer]]

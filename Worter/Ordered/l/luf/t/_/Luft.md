@@ -1,4 +1,4 @@
-🌬️ 🔴 die [[Luft]], [lʊft](https://youglish.com/pronounce/Luft/german)
+🌬️ die [[Luft]], [lʊft](https://youglish.com/pronounce/Luft/german)
 
 ---
 *[[C1-Hoehen-T2-102-Text#^1|^]]* Beim Thema [[Feinstaubbelastung]] muss so [[mancher]] [[aufpassen]], dass ihm nicht die [[Luft]] [[wegbleibt]]

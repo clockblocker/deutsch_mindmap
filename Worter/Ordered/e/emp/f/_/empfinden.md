@@ -3,7 +3,8 @@
 ---
 ---
 
-*[[111-LEGO#^12|^]]* Ich [[persönlich]] habe es `als` [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten `pro` Tag zu [[beschränken]]
+*[[111-LEGO#^25|^]]* [[Besonders]] [[hilfreich]] [[empfand]] ich `den` [[Ratschlag]], `den` [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]] 
+
 
 
 ---

@@ -1,9 +1,14 @@
 --> [[⛪ Ingredient-Plazt]] <--
-
 der [[Raum]], [ʁaʊ̯m]
-die [[Räume]]
 
 ---
+---
+
+*[[111-LEGO#^18|^]]* Sie stehen `deshalb` `im` [[Zentrum]] öffentlicher Diskussionen – und sind [[zugleich]] der [[Raum]], in dem `diese` [[geführt]] werden
+
+
+----
+
 Der [[vorhandene]] [[Raum]] ist sehr [[begrenzt]], was die Konzentration aller erheblich [[beeinträchtigt]]. ^5
 
 

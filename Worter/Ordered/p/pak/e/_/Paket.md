@@ -1,1 +1,1 @@
-, [[packen]], [[Schuldenpaket]], [[Bündel]], [[Paketzustelldienst]]
+, [[packen]], [[Schuldenpaket]], [[Bündel]], [[Paketzustelldienst]], [[Päckchen]]

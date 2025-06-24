@@ -1,8 +1,23 @@
-#pronomen #Personalpronomen
-[[Pronomen/Pronomen]]
+🙋‍♀️ [[sie]], [ziː](https://youglish.com/pronounce/sie/german)
 
-she
+---
+[[Sie]] [[wohnen]] [[zusammen]] in Berlin
+*[[They]] [[live]] [[together]] in Berlin.*
 
-они
 
-вы, [[Du]]
+---
+= [[ihr]]
+≈ [[er]], [[es]], [[wir]], [[du]]
+≠ [[er]], [[es]]
+
+---
+she, her, they, them  
+она, ее, они, им
+
+---
+[[ihr]], [[ihre]], [[ihrer]], [[ihnen]], [[sie selbst]]
+
+---
+[[sie]]
+
+

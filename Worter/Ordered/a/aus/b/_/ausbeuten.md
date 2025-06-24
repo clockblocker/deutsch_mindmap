@@ -1,1 +1,1 @@
-, [[schonen]]
+, [[schonen]], [[Ausbeutung]]

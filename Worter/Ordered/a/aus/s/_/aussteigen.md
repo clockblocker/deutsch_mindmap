@@ -1,8 +1,15 @@
---> [[Ingredient-Add-Remove]] <--
---> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
+--> [[Ingredient-Add-Remove]] | [[Ingredient-Verb-Beginn-Ende]] <--
 ⬇️ [[aussteigen]], [ˈaʊ̯sˌʃtaɪ̯ɡn̩] | [[stieg aus]], sind [[ausgestiegen]]
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^15|^]]* Schreiben Sie an den Geschäftsleiter, Herrn Fuchs, und bitten Sie darum, trotz der nicht [[eingehaltenen]] [[Kündigungsfrist]] aus dem [[Vertrag]] [[aussteigen]] zu dürfen
+
+
+*[[C1-Schreiben-Aufgaben#^17|^]]* [[darlegen|Legen]] Sie möglichst [[überzeugend]] dar, warum Sie [[vorzeitig]] aus dem [[Vertrag]] [[aussteigen]] wollen
+
+
 
 ---
 

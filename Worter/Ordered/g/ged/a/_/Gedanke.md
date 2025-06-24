@@ -5,6 +5,7 @@
 
 *[[114-LEGO#^8|^]]* In vielen [[Städten]] [[existieren]] [[bereits]] Fahrrad- und E-Scooter-Sharing–[[Angebot]]e, die den Sharing-[[Gedanke]]n [[erfolgreich]] [[ausgeweitet]] haben
 
+*[[100-LEGO#^4|^]]* Ich bin [[nämlich]] selbst im [[Finanzbereich]] [[tätig]] und würde gerne meine [[Gedanke]]n zur heutigen [[Lage]] äußern
 
 
 

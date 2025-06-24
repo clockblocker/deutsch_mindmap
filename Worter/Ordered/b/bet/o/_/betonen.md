@@ -1,6 +1,10 @@
 🎵 [[betonen]], [bəˈtoːnən] | [[betonte]], haben [[betont]]
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^6|^]]* [[Betonen]] Sie die [[Dringlichkeit]] Ihres [[Anliegen]]s und den Zeitdruck, unter dem Sie stehen
+
 • **‘weil’** [[betont]] die **kausale [[Begründung]]** stärker → **Antwort auf ‘warum?’**
 • **‘da’** klingt etwas neutraler und wird oft für **[[Bekannte]] Gründe** benutzt → **mehr [[schriftsprachlich]]**
 

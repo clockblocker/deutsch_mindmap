@@ -1,7 +1,16 @@
-🤝 🔵 der [[Umgang]], [ˈʊmɡaŋ](https://youglish.com/pronounce/Umgang/german)
-die [[Umgänge]]
+🔵 der [[Umgang]], [ˈʊmɡaŋ](https://youglish.com/pronounce/Umgang/german)
 
 ---
+---
+
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, interessiert `mich` besonders, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]], und welchen [[Umgang]] wir [[damit]] finden sollten
+
+
+
+
+----
+
+
 6 Der [[Umgang]] `mit` dem Thema wird an [[Einzelschicksal]]en demonstriert
 
 *[[C1-Lesen-T4-103-Text#^13|^]]* Aber auch `im` [[Umgang]] `mit` Umwelt und Ressourcen fehlt es uns am [[Wille]]n zu sparen.

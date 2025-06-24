@@ -1,1 +1,1 @@
-, [[behindern]]
+, [[behindern]], [[schwerbehindert]]

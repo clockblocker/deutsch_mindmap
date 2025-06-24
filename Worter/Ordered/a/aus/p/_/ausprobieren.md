@@ -1,6 +1,11 @@
 🧪 [[ausprobieren]], [ˈaʊ̯spʁoˌbiːʁən] | [[probierte aus]], haben [[ausprobiert]]
 
 ---
+---
+
+*[[111-LEGO#^24|^]]* [[Angesichts]] dieser Risiken habe ich einige `der` `in` [[Foren]] [[vorgeschlagenen]] [[Strategie]]n [[ausprobiert]] 
+
+
 Super! Dann kannst du [[am besten]] zwei [[verschiedene]] Gruppen [[ausprobieren]] [[emails.md#^1|(Quelle: emails)]]
 
 ---

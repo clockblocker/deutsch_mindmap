@@ -1,4 +1,3 @@
-[[aufstehen]], [[steilen]], [[legen]]
 🚀 [[erheben]], [ɛɐ̯ˈheːbən] | [[erhob]], haben [[erhoben]]
 
 ---
@@ -10,7 +9,7 @@
 
 ---
 = [[aufstehen]], [[aufrichten]], [[hochheben]]
-≈ [[aufsteigen]], [[emporheben]], [[hervorheben]]
+≈ [[aufsteigen]], [[emporheben]], [[hervorheben]], [[aufstehen]], [[steilen]], [[legen]]
 ≠ [[senken]], [[niederlegen]], [[niederdrücken]]
 
 ---

@@ -1,10 +1,9 @@
-💬 🟢 das [[Forum]], [ˈfoːʁʊm](https://youglish.com/pronounce/Forum/german)
+💬 das [[Forum]], [ˈfoːʁʊm](https://youglish.com/pronounce/Forum/german)
 
 ---
 ---
 
-*[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die `in` [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind
-
+*[[111-LEGO#^24|^]]* [[Angesichts]] dieser Risiken habe ich einige `der` `in` [[Foren]] [[vorgeschlagenen]] Strategien [[ausprobiert]] 
 
 
 
@@ -32,4 +31,4 @@ G: des [[Forums]], der [[Foren]]
 D: dem [[Forum]], den [[Foren]]
 
 
-#Neuter , [[Forumsteilnehmer]]
+#Neuter , [[Forumsteilnehmer]], [[Forumsmitglied]]

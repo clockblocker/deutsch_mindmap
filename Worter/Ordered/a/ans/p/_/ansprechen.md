@@ -3,8 +3,11 @@
 ---
 ---
 
-*[[216-LEGO#^2|^]]* Besonders [[gefiel]] mir das [[ansprechend]]e [[Ambiente]] der [[Lobby]]
+*[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
+`seit` einiger Zeit verfolge ich eure Beiträge `im` Forum `mit` großem Interesse. Das letzte Thema hat mich besonders [[angesprochen]], `sodass` ich `mich` gern `an` der [[Diskussion]] [[beteiligen]] möchte
 
+
+*[[216-LEGO#^2|^]]* Besonders [[gefiel]] mir das [[ansprechend]]e [[Ambiente]] der [[Lobby]]
 
 
 

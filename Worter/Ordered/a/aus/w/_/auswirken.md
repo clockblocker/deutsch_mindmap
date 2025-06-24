@@ -6,6 +6,10 @@
 *[[212-LEGO#^4|^]]* [[Zusätzlich]] [[ermöglicht]] die Kantine allen Mitarbeitenden [[preiswert]]e warme [[Mahlzeit]]en und [[Erholungspause]]n, was `sich` positiv `auf` [[Arbeitsatmosphäre]] und Produktivität [[auswirkt]]
 
 
+*[[111-LEGO#^23|^]]* Zudem [[auswirken|wirkt]] `sich` diese [[allgemein]]e [[Zerstreutheit]] auch `auf` meinen Arbeitsalltag [[aus]], `da` sie aufmerksames, tiefes Arbeiten erheblich erschwert. ^23
+
+
+
 
 ---
 

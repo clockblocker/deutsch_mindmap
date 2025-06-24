@@ -3,7 +3,9 @@
 ---
 ---
 
-*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] [[Video]]s [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]
+*[[111-LEGO#^27|^]]* Und schließlich war die Regel, nur [[heruntergeladene]] Videos [[anzuschauen]], [[hilfreich]] `im` Kampf `gegen` [[Empfehlungsalgorithmen]]
+
+*[[111-LEGO#^25|^]]* [[Besonders]] [[hilfreich]] [[empfand]] ich `den` [[Ratschlag]], `den` [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]] 
 
 
 [[Hilfreiche]] Tipps finden Sie unter "Zustellung vorbereiten".

@@ -56,3 +56,4 @@ Adjektive: [[bewertend]], [[bewertender]], [[bewertendst]]
 ---
 [[bewertender]], [[bewertendes]], [[bewertende]], [[bewertenden]], [[bewertendem]], [[bewertenderer]], [[bewertenderes]], [[bewertendere]], [[bewertenderen]], [[bewertenderem]], [[bewertendster]], [[bewertendstes]], [[bewertendste]], [[bewertendsten]], [[bewertendstem]], [[einzuschätzen]], [[pathologisieren]], [[urteilen]]
 
+, [[beizumessen]]

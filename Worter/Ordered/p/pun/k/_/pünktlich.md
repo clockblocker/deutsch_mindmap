@@ -71,3 +71,4 @@ Adjektive: [[pünktlich]], [[pünktlicher]], [[pünktlichst]]
 
 [[aufpassen]]
 , [[terminlich]], [[zeitlich]]
+, [[vorzeitig]]

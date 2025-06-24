@@ -37,4 +37,4 @@ D: der [[Aufmerksamkeit]], den [[Aufmerksamkeiten]]
 [[aufmerksam]], [[merken]], [[Aufmerksamkeitsdefizit]], [[Aufmerksamkeitsstörung]]
 , [[unaufmerksam]], [[umsetzen]], [[Blickkontakt]]
 
-#Feminin , [[bro-schrieben-c1-t1-002]], [[Hinwendung]], [[Aufmerksamkeitsökonomie]]
+#Feminin , [[bro-schrieben-c1-t1-002]], [[Hinwendung]], [[Aufmerksamkeitsökonomie]], [[Zerstreutheit]]

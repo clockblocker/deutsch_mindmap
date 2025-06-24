@@ -1,7 +1,10 @@
-🔴 die [[Erfahrung]], [ɛʁˈfaːʁʊŋ]
-die [[Erfahrung]]en
+die [[Erfahrung]], [ɛʁˈfaːʁʊŋ]
 
 ---
+---
+
+*[[100-LEGO#^7|^]]* Ich bin selbst vor 3 Jahren nach Deutschland [[ausgewandert]] und würde einige [[Einblick]]e aus meiner eigenen [[Erfahrung]] und [[Beobachtung]]en mitteilen
+
 *[[bro-schrieben-c1-t1-002#^9|^]]* Hierzu möchte ich ein [[Beispiel]] `aus` meiner eigenen [[Erfahrung]] [[anführen]]
 
 *[[C1-Lesen-T2-201-Text#^6|^]]* Die Fakultät für Wahrnehmungsstudien haben Dr. Alexanders [[Erfahrung]]en [[überrascht]]

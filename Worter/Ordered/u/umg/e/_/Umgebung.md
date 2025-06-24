@@ -1,11 +1,12 @@
 --> [[⛪ Ingredient-Plazt]] <--
 
----
-
-🔴 die [[Umgebung]], [ˈʊmɡəbʊŋ]
-die [[Umgebungen]]
+die [[Umgebung]], [ˈʊmɡəbʊŋ]
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^12|^]]* Argumentieren Sie anhand eines Beispiels für eine [[Umgebung]], in der Nutztiere sich wohlfühlen
+
 
 *[[C1-Lesen-412-Text#^5|^]]* Schon kleine Kinder benutzen ihre Hände, noch [[bevor]] sie sprechen können, um mit ihrer [[Umgebung]] zu interagieren
 

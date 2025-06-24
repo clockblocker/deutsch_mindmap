@@ -45,4 +45,4 @@ G: des [[Verständnisses]], der [[Verständnisse]]
 D: dem [[Verständnis]], den [[Verständnissen]]
 
 
-#Neuter , [[verständnisvoll]], [[Rücksicht]], [[Auffassung]], [[Wahrnehmung]]--> [[🗣️ Ingredient-Meinung]] <--, [[Interpretation]], [[Akzeptanz]]
+#Neuter , [[verständnisvoll]], [[Rücksicht]], [[Auffassung]], [[Wahrnehmung]]--> [[🗣️ Ingredient-Meinung]] <--, [[Interpretation]], [[Akzeptanz]], [[Verständigung]]

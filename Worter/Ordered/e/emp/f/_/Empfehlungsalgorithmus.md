@@ -3,11 +3,10 @@
 ---
 ---
 
+*[[111-LEGO#^27|^]]* Und schließlich war die Regel, nur [[heruntergeladene]] Videos [[anzuschauen]], [[hilfreich]] `im` Kampf `gegen` [[Empfehlungsalgorithmen]]
+
+
 *[[116-LEGO#^2|^]]* `Auf` `der` einen [[Seite]] [[vertreten]] viele Wissenschaftler den [[Standpunkt]], dass die [[Entwicklung]] der [[Empfehlungsalgorithmen]] in sozialen [[Netzwerk]]en das [[natürlich]]e [[Aufwachsen]] `von` Kindern [[zerstört]]
-
-
-
-
 
 
 

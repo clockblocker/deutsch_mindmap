@@ -7,7 +7,10 @@
 *[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine [[längere]] [[Freistellung]] möglich sein, schlage ich vor, mein Studium [[vollständig]] `im` Homeoffice [[absolvieren]] zu dürfen.
 
 
-*[[111-LEGO#^13|^]]* [[Zusätzlich]] hat es `sich` `als` [[effektiv]] [[erwiesen]], meinen [[Arbeitslaptop]] [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
+*[[111-LEGO#^22|^]]* Ich merke zum Beispiel, dass ich `seit` [[Langem]] kein Buch mehr [[vollständig]] gelesen habe – meine [[Konzentration]] [[bricht ab|bricht]] oft schon nach wenigen Seiten ab
+
+
+*[[111-LEGO#^26|^]]* Zusätzlich hat `es` `sich` `als` effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
 
 
 ---

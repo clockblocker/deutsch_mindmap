@@ -6,6 +6,10 @@
 *[[216-LEGO#^5|^]]* Das [[WLAN]] war [[unzuverlässig]] und [[abbrechen|brach]] [[mehrfach]] ab
 
 
+*[[111-LEGO#^22|^]]* Ich merke zum Beispiel, dass ich `seit` [[Langem]] kein Buch mehr vollständig gelesen habe – meine [[Konzentration]] [[bricht ab|bricht]] oft schon nach wenigen Seiten ab
+
+
+
 ---
 = [[beenden]], [[unterbrechen]], [[aufgeben]]
 ≈ [[stornieren]], [[einstellen]], [[annullieren]]

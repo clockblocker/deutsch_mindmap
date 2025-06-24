@@ -26,9 +26,9 @@ Auch die Art, wie man sich kleidet und schmückt, darf nicht unterschätzt werde
 
 0. 
     - [ ] a weil
-    - [ ] b weswegen
+    - [x] b weswegen
     - [ ] c da
-    - [ ] d denn
+    - [x] d denn
 
 1. 
     - [ ] a wie

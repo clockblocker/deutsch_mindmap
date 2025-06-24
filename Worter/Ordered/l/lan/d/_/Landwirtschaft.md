@@ -1,6 +1,10 @@
-🧑‍🌾 🔴 die [[Landwirtschaft]], [ˈlantvɪʁtʃaft]
+🧑‍🌾 die [[Landwirtschaft]], [ˈlantvɪʁtʃaft]
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^11|^]]* Nennen Sie einen Grund, der gegen [[Nutztier]]e in der [[Landwirtschaft]] sprechen könnte
+
 
 Dieser Titel verbindet Erkenntnisse aus der [[Landwirtschaft]] mit der Medizin.
 

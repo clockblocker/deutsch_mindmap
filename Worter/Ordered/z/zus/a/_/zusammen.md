@@ -1,34 +1,21 @@
-🤝 [[zusammen]], [t͡suˈzamən](https://youglish.com/pronounce/zusammen/german)
+🤝 [[zusammen]], [ʦuˈzamən](https://youglish.com/pronounce/zusammen/german)
 
 ---
+*[[Extra 1#^5|^]]* [[Sie]] [[wohnen]] [[zusammen]] in Berlin
 
 ---
-
-= [[gemeinsam]], [[miteinander]], [[vereint]]
-≈ [[kooperativ]], [[kollektiv]], [[verbunden]], [[integriert]]
-≠ [[getrennt]], [[allein]], [[isoliert]], [[einzeln]]
-
-[[miteinander]]
-[[getrennt]], [[vereint]], [[beide]], [[einzeln]], [[aneinander]], [[zu zweit]], [[einsam]], [[zusammenrechnen]], [[rechnen]], [[zusammenbrechen]], [[gemeinsam]], [[zusammenstellen]], [[auseinander]], [[entzwei]], [[wider]], [[zusammenschrauben]], [[zusammenschrumpfen]], [[Zusammenschluss]], [[Einzelne]], [[insgesamt]], [[Zusammenhang]], [[Zusammenfassung]], [[zusammenfassen]]
-, [[bekommen]], [[samt]]
+= [[gemeinsam]], [[miteinander]]
+≈ [[vereint]], [[verbunden]], [[kollektiv]]
+≠ [[getrennt]], [[allein]], [[isoliert]]
 
 ---
-
-together
+together  
 вместе
 
 ---
-
-[[zusammen]]
-
----
-
-[[Zusammenarbeit]], [[zusammenarbeiten]], [[Zusammenhang]], [[zusammenfassen]], [[zusammengesetzt]], [[Zusammenschluss]]
+[[Zusammenarbeit]], [[Zusammenhang]], [[zusammenfassen]], [[Zusammensein]], [[Zusammenkunft]]
 
 ---
-
-[[zu|sammen]]
+[[zu]]|[[sammen]]
 [[zusammen]]
 
-, [[gegenseitig]], [[separat]], [[Zusammenbau]], [[gemeinschaftlich]], [[zusammensetzen]], [[Zusammenspiel]], [[Zusammenhalt]], [[reihenweise]]
-, [[voneinander]]

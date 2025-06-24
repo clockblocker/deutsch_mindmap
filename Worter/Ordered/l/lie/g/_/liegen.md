@@ -6,6 +6,7 @@
 *[[114-LEGO#^5|^]]* `Auf` `der` anderen [[Seite]] kann [[Carsharing]] `mit` [[Unannehmlichkeit]]en [[verbunden]] sein: [[Manchmal]] sind [[verfügbar]]e [[Fahrzeug]]e nicht [[rechtzeitig]] [[buchbar]], die [[Rückgabeort]]e [[liegen]] [[ungünstig]] und [[kurzfristig]]e [[Preisspitze]]n machen das [[System]] [[unübersichtlich]]
 
 
+*[[111-LEGO#^17|^]]* Warum soziale Medien so beliebt sind, [[liegt auf der Hand]]: Sie ermöglichen `durch` [[unmittelbar]]en [[Informationsaustausch]] [[ständig]]en [[Kontakt]] und und eine [[Vielfalt]] `an` [[Inhalt]]en `für` jede [[Gelegenheit]] ^17
 
 
 

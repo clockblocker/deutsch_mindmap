@@ -1,11 +1,13 @@
 --> ✅ [[Ingredient-erlauben-verbieten]] <--
 
 🤝 [[beteiligen]] + an + Dat, [bəˈtaɪ̯lɪɡən]
-[[beteiligte]]
-haben [[beteiligt]]
 
 ---
-*[[bro-schrieben-c1-t1-002#^2|^]]* Liebe [[Forumsteilnehmer]], seit langem [[verfolge]] ich eure [[Beiträge]] im Forum und das neue Thema hat mich so [[angesprochen]], dass ich mich [[gerne]] `an` der Diskussion [[beteiligen]] möchte
+---
+
+*[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
+`seit` einiger Zeit verfolge ich eure Beiträge `im` Forum `mit` großem Interesse. Das letzte Thema hat mich besonders [[angesprochen]], `sodass` ich `mich` gern `an` der [[Diskussion]] [[beteiligen]] möchte
+
 
 *[[bro-schrieben-c1-t1-002#^13|^]]* Ich stehe auf dem [[Standpunkt]], dass ein [[sinnvoll]]es [[Lernmodell]] wäre, Kinder an Präsenzkursen zu [[beteiligen]], da sie dabei nicht nur die Sprache lernen können, sondern auch kommunikative [[Fähigkeit]]en [[entwickeln]] können
 
@@ -13,15 +15,21 @@ haben [[beteiligt]]
 Das Schiff hat mein Stamm schon [[verfolgt]], als GranGran noch ein kleines Mädchen war.
 Es war an den ersten [[Angriff]]en der Feuernation [[beteiligt]].
 
+
 _[[C1-Hoehen-T1-101-Text#^9|^]]_ [[Ausgehend]] davon, dass Aminosäuren, Vitamine und [[Mineralstoffe]] das [[Gerüst]] unseres Körpers [[ausmachen]] und an den [[Stoffwechselprozess]]en [[beteiligt]] sind, wirft die Ökotrophologin Alev Bükey-Schneider in ihrem Ratgeber einen Blick auf den [[Nährstoffgehalt]] von Obst und Gemüse in unseren Supermärkten
+
 
 _[[C1-Hoehen-T2-202-Text#^20|^]]_ Wir müssen den [[Politikverdrossenen]] zeigen, dass es [[durchaus]] Sinn macht, sich an den Wahlen zu [[beteiligen]]
 
-_[[3  Ein Selbstversuch als Hobbybäuerin#^14|^]]_ Eine Freundin, die sich an einem [[Nachmittag]] als [[Erntehelferin]] [[beteiligt]] hatte, wurde von einer [[Wespe]] ins Ohr [[gestochen]] und musste sich in ärztliche [[Behandlung]] [[begeben]]. ^14
+
+_[[3  Ein Selbstversuch als Hobbybäuerin#^14|^]]_ Eine Freundin, die sich an einem [[Nachmittag]] als [[Erntehelferin]] [[beteiligt]] hatte, wurde von einer [[Wespe]] ins Ohr [[gestochen]] und musste sich in ärztliche [[Behandlung]] [[begeben]]
+
 
 _[[3 Soll man Geld spenden?#^11|^]]_ Und alles [[hinausläuft|läuft]] darauf [[hinaus]], ob der [[jeweilige]] Mensch es nützlich findet, sich - mit Geld, Zeit oder [[Aufmerksamkeit]] - an der [[Tätigkeit]] der einen oder anderen Organisation oder des einen oder anderen Content-Creators zu [[beteiligen]]
 
+
 Man will die Buslinie [[abschaffen]], mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu [[erhalten]]? (84%)
+
 
 - [x] Ich [[beteilige]] mich an einer Bürgerinitiative für die [[Erhaltung]] der Buslinie oder gründe [[selber]] eine Initiative.
 

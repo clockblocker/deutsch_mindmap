@@ -1,3 +1,3 @@
 , [[Esel]]
 , [[Kaninchen]]
-, [[Igel]], [[Kleintier]]
+, [[Igel]], [[Kleintier]], [[Nutztier]]

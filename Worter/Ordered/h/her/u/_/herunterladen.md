@@ -3,8 +3,7 @@
 ---
 ---
 
-*[[111-LEGO#^14|^]]* Und [[schließlich]] war die [[Regel]]n, nur [[heruntergeladene]] [[Video]]s [[anzuschauen]], [[hilfreich]] `im` [[Kampf]] `gegen` [[Empfehlungsalgorithmen]]
-
+*[[111-LEGO#^27|^]]* Und schließlich war die Regel, nur [[heruntergeladene]] Videos [[anzuschauen]], hilfreich `im` Kampf `gegen` Empfehlungsalgorithmen ^27
 
 
 

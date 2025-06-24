@@ -1,1 +1,1 @@
-[[fahren]], [[bedienen]], [[steuere]], [[zusteuern]]
+[[fahren]], [[bedienen]], [[steuere]], [[zusteuern]], [[Scrollen]]

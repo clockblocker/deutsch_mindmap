@@ -13,7 +13,9 @@
 
 Liebe Forumsteilnehmer,
 
-seit langem verfolge ich eure Beiträge im Forum und das letzte Thema hat mich so sehr angesprochen, dass ich mich an der Diskussion beteiligen möchte. Ich bin selbst ein junger Mann, der bald eine Familie mit Kindern gründen will, und würde gerne meine Überlegungen mitteilen.
+seit langem verfolge ich eure Beiträge im Forum und das letzte Thema hat mich so sehr angesprochen, dass ich mich an der Diskussion beteiligen möchte. 
+
+Ich bin selbst ein junger Mann, der bald eine Familie mit Kindern gründen will, und würde gerne meine Überlegungen mitteilen.
 
 Eltern zu sein, ist eine wichtige und besonders komplizierte Aufgabe. Fast alle Menschen versuchen, Kinder gelungen zu erziehen. Die Forscher aus Großbritannien behaupten, es bestehen einige Kriterien, laut denen sich das Erziehungsergebnis als geglückt betrachten ließe. Das wichtigste sei, dass ehemalige Kinder selbstständig sein müssen, damit sie in der Welt ohne Hilfe der Eltern leben können. Außerdem sollten sie eine hohe emotionale Intelligenz besitzen und die Fähigkeit, mit Menschen mitzuleiden und selbstbewusst zu sein.
 

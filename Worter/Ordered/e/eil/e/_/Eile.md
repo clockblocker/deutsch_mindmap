@@ -29,3 +29,4 @@ G: der [[Eile]], -
 D: der [[Eile]], -
 
 #Feminin
+, [[Dringlichkeit]]

@@ -12,4 +12,4 @@ die Kinder essen [[bei]] Freunden.
 
 Ich [[beim]] [[Frühstück]]
 , [[dabei]], [[Herbei]], [[nebenbei]], [[vorbeikommen]], [[beibringen]], [[bringen]], [[da]], [[Beitritt]], [[beitreten]], [[Vereinsbeitrag]], [[beistehen]], [[beibehalten]], [[stehen]], [[wobei]], [[Arbeitsbedingungen]], [[beitragen]], [[hierbei]], [[Beihilfe]], [[Beiseitelegen]]
-, [[Beibehaltung]]
+, [[Beibehaltung]], [[beizumessen]]

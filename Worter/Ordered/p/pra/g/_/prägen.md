@@ -1,6 +1,11 @@
 🏺 [[prägen]], [ˈpʁɛːɡən] | [[prägte]], haben [[geprägt]]
 
 ---
+----
+
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` selbst `schon` oft `bis` `nach` [[Mitternacht]] `im` [[Scrollen]] verloren habe, interessiert `mich` besonders, wie soziale Medien unseren Alltag [[prägen]] – und was das `für` uns bedeutet
+
+---
 
 [[Politikverdrossenheit]] ist ein `von` [[Wissenschaftler]]n [[geprägter]] [[Ausdruck]]
 

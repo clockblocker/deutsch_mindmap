@@ -1,6 +1,10 @@
 🚶 [[versetzen]], [fɛɐ̯ˈzɛtsn̩](https://youglish.com/pronounce/versetzen/german) → [[versetzte]] → [[versetzt]]
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^8|^]]* Sie wurden [[nun]] [[benachrichtigt]], dass Sie ab sofort ins Homeoffice [[versetzt]] werden
+
 Jedoch [[versetzt]] es nicht wenige in [[Erstaunen]] , wenn sie erfahren, dass Armstrong & Co bei der bemannten Mondlandung 1969 auch die Liechtensteiner Nationalflagge bei sich trugen.
 
 ---

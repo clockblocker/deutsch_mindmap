@@ -32,4 +32,4 @@ A: die [[Empfehlung]], die [[Empfehlungen]]
 G: der [[Empfehlung]], der [[Empfehlungen]]
 D: der [[Empfehlung]], den [[Empfehlungen]]
 
-#Feminin , [[Beratung]], [[Universitätsempfehlung]]
+#Feminin , [[Beratung]], [[Universitätsempfehlung]], [[Empfehlungsschreiben]]

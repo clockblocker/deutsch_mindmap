@@ -1,6 +1,9 @@
 🤩 [[begeistert]], [bəˈɡaɪ̯stɐt] ≠ [[unbegeistert]]
 
 ---
+---
+
+*[[100-LEGO#^8|^]]* Ich habe selbst einen Freund, der sehr [[begeistert]] von seiner Arbeit ist und würde gern meine Beobachtungen mitteilen
 
 Julian arbeitet zwei Tage pro Woche im Homeoffice. Normalerweise klappt das problemlos, aber heute ist seine Tochter Maja erkältet und geht nicht in die [[Kita]]. Zum Glück hat er noch ein [[Malbuch]] gefunden, mit dem sie sich [[begeistert]] [[beschäftigt]]. So kann er seinem Team in Ruhe das neue Projekt vorstellen.
 

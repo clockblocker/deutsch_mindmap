@@ -1,1 +1,1 @@
-, [[Wert]], [[Bedeutungslosigkeit]]
+, [[Wert]], [[Bedeutungslosigkeit]], [[Dringlichkeit]]

@@ -1,8 +1,11 @@
 --> 💸 [[Grad-Preis]] <--
-
 👍 [[günstig]], [ˈɡʏnstɪç](https://youglish.com/pronounce/günstig/german) | [[günstiger]], [[am günstigsten]]
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^9|^]]* Nennen Sie Gründe, warum das Homeoffice für Sie keine [[günstig]]e Lösung ist
+
 die günstiger sind und eine gute Ausbildung bieten
 
 *[[C1-Lesen-T4-102-Text#^9|^]]* So kann ich [[kurzfristig]] zu einem [[günstigeren]] Anbieter wechseln. ^9

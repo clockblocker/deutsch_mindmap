@@ -1,17 +1,31 @@
 https://readlang.com/shelf/571aec12f654850e459a4f11
 
-1 мп
-2 бП
-
 ---
 
-3 ма
-4 ба
+Гетте С1
 
-время
-воля
-силы
+- слушаю:  маленьки и пассивный
+- говорю:  маленьки и активный
 
+- читаю: большой и пассивный
+- пишу: большой и активный
+
+
+---
+---
+
+
+ Steve Kaufmann 
+ Илья Франк
+
+0) опрееделяешь контект который парсится как "глокая кудра быдланла"
+1) смотришь контект без субитров
+2) открываешь сценарий и разбирашеь каждле слово и каждуюу фразу
+3) переслушиваешь серию, читая с разобранного текста, повторя интонации актеров. если какое-то слово тебе не понятно, ставь на паузу и сомтр его перевод 
+
+
+
+---
 ---
 
 глокая кудра быдлануа
@@ -26,14 +40,17 @@ https://readlang.com/shelf/571aec12f654850e459a4f11
 
 Episode One: Sams [[Ankunft]]
 
-[[Extra 1#^2|^]] Das ist die [[Geschichte]] von *Sascha* und Anna. ^2
+*[[Extra 1#^4|^]]* Das ist die [[Geschichte]] von *Sascha* und Anna ^4
 
-Sie [[wohnen]] [[zusammen]] in Berlin.  
-[[Extra 1.md#^1|^]] Sie haben einen [[Nachbarn]]: Nic. ^1
 
-_[[Extra 1#^3|^]]_ Nic ist in Sascha [[verliebt]]. ^3
+*[[Extra 1#^5|^]]* [[Sie]] [[wohnen]] [[zusammen]] in Berlin ^5x
 
-Und Anna ist in Nic [[verliebt]].  
+
+*[[Extra 1.md#^1|^]]* Sie haben einen [[Nachbarn]]: Nic
+
+_[[Extra 1#^3|^]]_ Nic ist in Sascha [[verliebt]] 
+
+Und Anna ist in Nic [[verliebt]] 
 Aber [[dann]] [[bekommt]] Sascha [[Post]] aus Amerika ...
 
 Jo, ich hab dir [[doch]] [[gesagt]]: – Es ist [[vorbei]]!!!  
@@ -41,14 +58,15 @@ Jo, ich hab dir [[doch]] [[gesagt]]: – Es ist [[vorbei]]!!!
 
 [[Brieffreundes]]
 
-Hallo Jo.
+-- Hallo Jo.
 
-Ja – das Kissen hab’ ich auch [[bekommen]].  
-Aber es ist vorbei! [[vorbei]]! Und [[jetzt]] [[heul]] bitte nicht!  
-Tschüs.  
+-- Ja – das Kissen hab’ ich auch [[bekommen]].  
+-- Aber es ist vorbei! [[vorbei]]! Und [[jetzt]] [[heul]] bitte nicht! Tschüs.  
 Männer!
 
-ANNA: Louis [[komm]] schon. Sascha! Die Post! Louis und ich haben die Post!  
+ANNA: 
+Louis [[komm]] schon. 
+Sascha! Die Post! Louis und ich haben die Post!  
 [[Gib]] mir die Post Louis!
 
 SASCHA: Gib mir sofort die Post Louis!

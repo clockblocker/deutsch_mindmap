@@ -33,4 +33,4 @@ sie, [[sprechen ab]], [[sprachen ab]], [[sprechen ab]], [[sprächen ab]], [[spre
 Adjektive: [[absprechend]], [[absprechender]], [[absprechendst]]
 
 ---
-[[absprechender]], [[absprechendes]], [[absprechende]], [[absprechenden]], [[absprechendem]], [[absprechenderer]], [[absprechenderes]], [[absprechendere]], [[absprechenderen]], [[absprechenderem]], [[absprechendster]], [[absprechendstes]], [[absprechendste]], [[absprechendsten]], [[absprechendstem]]
+[[absprechender]], [[absprechendes]], [[absprechende]], [[absprechenden]], [[absprechendem]], [[absprechenderer]], [[absprechenderes]], [[absprechendere]], [[absprechenderen]], [[absprechenderem]], [[absprechendster]], [[absprechendstes]], [[absprechendste]], [[absprechendsten]], [[absprechendstem]], [[beizumessen]]

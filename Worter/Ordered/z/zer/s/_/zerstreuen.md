@@ -36,3 +36,4 @@ Partizip I: [[zerstreuend]], Partizip II: [[zerstreut]]
 
 , [[versammeln]], [[stapeln]]
 , [[ablenken]], [[ablagern]]
+, [[Zerstreutheit]]

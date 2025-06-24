@@ -1,1 +1,1 @@
-, [[Vereinbarung]], [[Abkommen]], [[Vertrag]], [[Betriebsvereinbarung]]
+, [[Vereinbarung]], [[Abkommen]], [[Vertrag]], [[Betriebsvereinbarung]], [[Verständigung]]

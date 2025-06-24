@@ -5,6 +5,7 @@
 
 *[[112-LEGO#^6|^]]* Meiner [[Meinung]] `nach` ist das [[Wichtig]]ste, was jeder [[Einzeln]]e zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] `an` [[Wahl]]en
 
+*[[C1-Schreiben-Aufgaben#^2|^]]* Argumentieren Sie anhand eines Beispiels, was die Arbeit zur Lebensqualität [[beitragen]] kann. ^2
 
 
 

@@ -1,3 +1,3 @@
 --> 🧩 [[Grad-Wahrheit]] <--
 
-, [[wahr]], [[digen]], [[echten]], [[echt]], [[Ehrlich]], [[naturgetreu]]
+, [[wahr]], [[digen]], [[echten]], [[echt]], [[Ehrlich]], [[naturgetreu]], [[überzeugend]]

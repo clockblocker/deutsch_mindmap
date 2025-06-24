@@ -1,1 +1,1 @@
-, [[friedlich]]
+, [[friedlich]], [[Zufriedenheit]]

@@ -1,7 +1,13 @@
 🧠 der [[Inhalt]], [ˈɪnhalt]
-die [[Inhalte]]
 
 ---
+---
+
+*[[111-LEGO#^17|^]]* Warum soziale Medien so beliebt sind, [[liegt auf der Hand]]: Sie ermöglichen `durch` [[unmittelbar]]en [[Informationsaustausch]] [[ständig]]en [[Kontakt]] und und eine [[Vielfalt]] `an` [[Inhalt]]en `für` jede [[Gelegenheit]]
+
+
+---
+
 *[[C1-Lesen-411-Text#^8|^]]* Alte [[Synapse]]n werden neu [[geordnet]], neu [[gefestigte]] [[Inhalt]]e in [[vorhanden]]es [[Wissen]] [[integriert]]
 
 Der [[Inhalt]] der [[Aussage]] steht im [[Widerspruch]] zu konkreten [[Aussage]]n im Hörtext

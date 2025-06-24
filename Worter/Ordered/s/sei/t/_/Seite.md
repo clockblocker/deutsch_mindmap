@@ -4,7 +4,7 @@
 ---
 ---
 
-*[[111-LEGO#^4|^]]* `Auf` `der` einen [[Seite]] ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – [[fast]] jeder [[Wunsch]] der Nutzer:innen kann [[erfüllt]] werden:
+*[[111-LEGO#^19|^]]* `Auf` `der` einen [[Seite]] ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – [[fast]] jeder [[Wunsch]]  der Nutzer:innen kann erfüllt werden:
 
 
 *[[111-LEGO#^6|^]]* `Auf` `der` anderen [[Seite]] sind viele `der` festen [[Überzeugung]], dass die dauerhafte [[Verschmelzung]] `von` Online- und [[Realwelt]] [[zahlreiche]] [[Gefahr]]en `mit` `sich` bringt. ^6

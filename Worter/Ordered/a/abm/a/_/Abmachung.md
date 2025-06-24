@@ -1,2 +1,2 @@
 , [[Vereinbarung]]
-, [[Verabredung]], [[Regelung]], [[Vertrag]]
+, [[Verabredung]], [[Regelung]], [[Vertrag]], [[Verständigung]]

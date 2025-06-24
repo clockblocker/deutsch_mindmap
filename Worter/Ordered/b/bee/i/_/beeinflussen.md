@@ -1,6 +1,15 @@
 🤔 [[beeinflussen]], [bəˈʔaɪ̯nflʊsn̩](https://youglish.com/pronounce/beeinflussen/german) → [[beeinflusste]] → [[beeinflusst]]
 
 ---
+---
+
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, interessiert `mich` besonders, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]], und welchen [[Umgang]] wir [[damit]] finden sollten
+
+
+
+---
+
+
 Erklären Sie, wie soziale [[Herkunft]] den [[Bildungserfolg]] [[beeinflussen]] kann
 
 Dazu kommt auch, dass manche [[Art]]en von [[Doping]] die [[Erholungszeit]] [[positiv]] [[beeinflussen]] können

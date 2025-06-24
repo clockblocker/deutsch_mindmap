@@ -1,12 +1,8 @@
-🟢 📝 die [[Kündigungsfrist]], [ˈkʏndɪɡʊŋsfʁɪst]
-die [[Kündigungsfristen]]
+ 📝 die [[Kündigungsfrist]], [ˈkʏndɪɡʊŋsfʁɪst]
 
 ---
-286. Sie möchten bei einer Firma in Deutschland Ihr [[Arbeitsverhältnis]] beenden. Was müssen Sie [[beachten]]? (95%)
-	- [ ] die [[Gehaltszahlungen]]
-	- [ ] die [[Arbeitszeit]]
-	- [x] die [[Kündigungsfrist]]
-	- [ ] die [[Versicherungspflicht]]
+
+*[[C1-Schreiben-Aufgaben#^15|^]]* Schreiben Sie an den Geschäftsleiter, Herrn Fuchs, und bitten Sie darum, trotz der nicht [[eingehaltenen]] [[Kündigungsfrist]] aus dem [[Vertrag]] [[aussteigen]] zu dürfen
 
 [[Kündigung]]
 
@@ -30,3 +26,5 @@ D: der [[Kündigungsfrist]], den [[Kündigungsfristen]]
 
 ---
 [[kündigen]], [[Kündigung]], [[fristgerecht]], [[Arbeitsrecht]], [[Vertragsbedingungen]]
+
+#Feminin 

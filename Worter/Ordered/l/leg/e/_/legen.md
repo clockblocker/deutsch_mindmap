@@ -49,4 +49,4 @@ PI: [[legend]], PII: [[gelegt]], Zu+inf: [[zu legen]]
 
 [[Lage]], [[Lagerung]], [[Ablage]], [[Legung]], [[Verlegung]], [[Vorlage]], [[festlegen]], [[angelegen]]
 , [[Gelegenheit]], [[auflegen]], [[grundlegend]], [[erlegen]], [[gelegentlich]], [[auslegen]], [[zulegen]], [[Beiseitelegen]], [[offenlegen]]
-, [[zurücklegen]], [[Hand ins Feuer legen]]
+, [[zurücklegen]], [[Hand ins Feuer legen]], [[darlegen]]

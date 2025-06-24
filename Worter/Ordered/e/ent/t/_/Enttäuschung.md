@@ -1,1 +1,1 @@
-, [[enttäuscht]], [[frustriert]], [[desillusionieren]], [[enttäuschen]]
+, [[enttäuscht]], [[frustriert]], [[desillusionieren]], [[enttäuschen]], [[Zufriedenheit]]

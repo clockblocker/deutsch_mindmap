@@ -61,4 +61,4 @@ sie, [[dringen]], [[drangen]], [[dringen]], [[drängen]], [[dringen]]
 Adjektive: [[dringend]], [[dringender]], [[dringendst]]
 
 ---
-[[dringender]], [[dringendes]], [[dringende]], [[dringenden]], [[dringendem]], [[dringenderer]], [[dringenderes]], [[dringendere]], [[dringenderen]], [[dringenderem]], [[dringendster]], [[dringendstes]], [[dringendste]], [[dringendsten]], [[dringendstem]]
+[[dringender]], [[dringendes]], [[dringende]], [[dringenden]], [[dringendem]], [[dringenderer]], [[dringenderes]], [[dringendere]], [[dringenderen]], [[dringenderem]], [[dringendster]], [[dringendstes]], [[dringendste]], [[dringendsten]], [[dringendstem]], [[Dringlichkeit]]

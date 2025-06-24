@@ -1,1 +1,1 @@
-, [[Benachrichtigung]]
+[[benachrichtigen]]

@@ -11,8 +11,9 @@
 Nonverbale Kommunikation  
 Wenn unser Körper Bände spricht
 
-Zwischenmenschliche Verständigung basiert vornehmlich auf sprachlicher Kommunikation. 
-Aber auch durch Gestik, Stimmlage und Berührungen, ja sogar durch Kleidung kommunizieren wir mit unseren Mitmenschen, nur eben nonverbal. 
+*[[C1-Lesen-412-Text#^4|^]]* [[Zwischenmenschlich]]e [[Verständigung]] basiert vornehmlich auf sprachlicher Kommunikation. 
+Aber auch durch Gestik, Stimmlage und Berührungen, ja sogar durch Kleidung kommunizieren wir mit unseren Mitmenschen, nur eben nonverbal. ^4
+
 
 *[[C1-Lesen-412-Text#^1|^]]* Vielleicht sogar [[aufrichtiger]], `0 ...` die Körpersprache `hat` ein [[Eigenleben]], das [[unbewusst]] [[abläuft]]. ^1
 

@@ -34,4 +34,4 @@ early, timely
 Adjektive: [[frühzeitig]], [[frühzeitiger]], [[frühzeitigst]]
 
 ---
-[[frühzeitiger]], [[frühzeitiges]], [[frühzeitige]], [[frühzeitigen]], [[frühzeitigem]], [[frühzeitigerer]], [[frühzeitigeres]], [[frühzeitigere]], [[frühzeitigeren]], [[frühzeitigerem]], [[frühzeitigster]], [[frühzeitigstes]], [[frühzeitigste]], [[frühzeitigsten]], [[frühzeitigstem]]
+[[frühzeitiger]], [[frühzeitiges]], [[frühzeitige]], [[frühzeitigen]], [[frühzeitigem]], [[frühzeitigerer]], [[frühzeitigeres]], [[frühzeitigere]], [[frühzeitigeren]], [[frühzeitigerem]], [[frühzeitigster]], [[frühzeitigstes]], [[frühzeitigste]], [[frühzeitigsten]], [[frühzeitigstem]], [[vorzeitig]]

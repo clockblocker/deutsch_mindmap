@@ -1,7 +1,9 @@
-🔴 die [[Erinnerung]], [ˌeʁɪnˈʁʊŋ]
-die [[Erinnerungen]]
+die [[Erinnerung]], [ˌeʁɪnˈʁʊŋ]
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^5|^]]* Eröffnen Sie Ihr Schreiben [[höflich]] und bringen Sie `sich` in [[Erinnerung]]
 
 Ein Schiff der Feuermarine und eine sehr schlimme [[Erinnerung]] für mein Volk.
 

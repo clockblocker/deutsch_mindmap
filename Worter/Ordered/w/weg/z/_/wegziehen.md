@@ -1,1 +1,1 @@
-, [[verschwinden]], [[losziehen]], [[einziehen]], [[abschleppen]]
+, [[verschwinden]], [[losziehen]], [[einziehen]], [[abschleppen]], [[wohnen]]

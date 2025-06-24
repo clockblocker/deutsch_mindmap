@@ -1,1 +1,1 @@
-, [[Konzentration]]
+, [[Konzentration]], [[Zerstreutheit]]

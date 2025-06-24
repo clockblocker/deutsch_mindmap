@@ -1,1 +1,1 @@
-, [[Bewohner]], [[Publikumsverkehr]], [[Besucherzahl]], [[Zuschauer]], [[Besuchermasse]]
+, [[Bewohner]], [[Publikumsverkehr]], [[Besucherzahl]], [[Zuschauer]], [[Besuchermasse]], [[Forumsmitglied]]

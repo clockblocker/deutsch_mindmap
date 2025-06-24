@@ -1,6 +1,10 @@
 🤝 [[kennenlernen]], [ˈkɛnənˌlɛɐ̯nən] | [[lernte kennen]], haben [[kennengelernt]]
 
 ---
+---
+
+*[[100-LEGO#^5|^]]* Mit 15 Jahren hatte ich selbst ein [[akut]]es, [[lebensveränderndes]] [[orthopädisch]]es [[Trauma]] und [[infolgedessen]] musste ich in einem [[Krankenhaus]] behandelt werden, in dem ich auch [[schwerbehindert]]e Kinder [[kennengelernt]] habe
+
 1. Ты хочешь с ней познакомиться?  Möchtest du sie [[kennenlernen]]?  
 
 ---

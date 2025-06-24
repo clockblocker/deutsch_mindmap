@@ -1,2 +1,2 @@
 , [[anschauliche]], [[klar]], [[deutlich]], [[laut]]
-, [[erkennbar]], [[aussagekräftig]], [[verständigen]], [[Verständnis]], [[Zahlenverständnis]], [[einleuchtend]], [[transparent]], [[nachvollziehbar]], [[überschaubar]], [[unleserlich]]
+, [[erkennbar]], [[aussagekräftig]], [[verständigen]], [[Verständnis]], [[Zahlenverständnis]], [[einleuchtend]], [[transparent]], [[nachvollziehbar]], [[überschaubar]], [[unleserlich]], [[Verständigung]]

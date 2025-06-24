@@ -1,6 +1,10 @@
 🔗 [[nämlich]], [ˈnɛːmlɪç]
 
 ---
+---
+
+*[[100-LEGO#^4|^]]* Ich bin [[nämlich]] selbst im [[Finanzbereich]] [[tätig]] und würde gerne meine [[Gedanke]]n zur heutigen [[Lage]] äußern
+
 Ich habe [[nämlich]] doch Recht!
 
 [[17 zu inf#^3|^]] Kannst du mir meinen hellgrauen [[Frühjahrsmantel]] nachschicken? Ich kann ihn [[nämlich]] brauchen, weil es hier oft kalt ist, vor allem nachts

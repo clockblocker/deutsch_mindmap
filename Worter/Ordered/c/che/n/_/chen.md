@@ -4,4 +4,4 @@ das [[Täubchen]]
 
 
 , [[Hölzchen]], [[Fähnchen]], [[Brünnchen]], [[Fädchen]], [[Recherchen]], [[Märchen]], [[rauchen]], [[Veilchen]], [[lachen]], [[Herrchen]]
-, [[aussuchen]], [[Radieschen]], [[Händchen]], [[Schnäppchen]], [[Teilchen]]
+, [[aussuchen]], [[Radieschen]], [[Händchen]], [[Schnäppchen]], [[Teilchen]], [[Päckchen]]

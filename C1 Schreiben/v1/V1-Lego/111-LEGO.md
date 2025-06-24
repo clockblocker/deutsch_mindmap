@@ -1,8 +1,147 @@
-[[C1-Schreiben-Root]]
+[[C1-Schreiben-Root]] | [[111-C1-Schreiben-Model]]
 
 ---
 ---
+
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, interessiert `mich` besonders, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]], und welchen [[Umgang]] wir [[damit]] finden sollten ^16
+
+
+Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, interessiert mich besonders, wie soziale Medien unseren Lebensstil beeinflussen, und welchen Umgang wir damit finden sollten.
+
+![[ElevenLabs_2025-06-24T02_44_03_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
 ---
+
+*[[111-LEGO#^17|^]]* Warum soziale Medien so beliebt sind, [[liegt auf der Hand]]: Sie ermöglichen `durch` [[unmittelbar]]en [[Informationsaustausch]] `sowohl` [[ständig]]en [[Kontakt]] `als auch` eine [[Vielfalt]] `an` [[Inhalt]]en `für` jede [[Gelegenheit]] ^17
+
+
+Warum soziale Medien so beliebt sind, liegt auf der Hand: Sie ermöglichen durch unmittelbaren Informationsaustausch sowohl ständigen Kontakt als auch eine Vielfalt an Inhalten für jede Gelegenheit.
+
+![[ElevenLabs_2025-06-24T02_56_06_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+
+*[[111-LEGO#^18|^]]* Sie stehen `deshalb` `im` [[Zentrum]] öffentlicher Diskussionen – und sind [[zugleich]] der [[Raum]], in dem `diese` [[geführt]] werden ^18
+
+
+Sie stehen deshalb im Zentrum öffentlicher Diskussionen – und sind zugleich der Raum, in dem diese geführt werden.
+
+![[ElevenLabs_2025-06-24T03_00_24_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+----
+
+*[[111-LEGO#^19|^]]* `Auf` `der` einen [[Seite]] ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – [[fast]] jeder [[Wunsch]]  der Nutzer:innen kann erfüllt werden: ^19
+
+
+Auf der einen Seite ist der Nutzen sozialer Medien unbestreitbar – fast jeder Wunsch der Nutzer:innen kann erfüllt werden: 
+
+![[ElevenLabs_2025-06-24T03_04_31_Mila_pvc_sp100_s50_sb75_v3 (2).mp3]]
+
+---
+
+*[[111-LEGO#^20|^]]* `Über` WhatsApp bleiben Eltern `auch` `aus` dem [[Ausland]] erreichbar, Instagram [[hält]] Freund:innen `in` [[Kontakt]], LinkedIn [[dient]] `dem` [[Ausbau]] beruflicher Netzwerke, TikTok und YouTube bieten endlose Unterhaltung ^20
+
+
+Über WhatsApp bleiben Eltern auch aus dem Ausland erreichbar, Instagram hält Freund:innen in Kontakt, LinkedIn dient dem Ausbau beruflicher Netzwerke, TikTok und YouTube bieten endlose Unterhaltung.
+
+![[ElevenLabs_2025-06-24T03_06_15_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
+---
+
+
+*[[111-LEGO#^21|^]]* Auf der anderen Seite kann die [[ständig]]e [[Präsenz]] in der Online-Welt zahlreiche Gefahren `mit` `sich` bringen. ^21
+
+
+Auf der anderen Seite kann die ständige Präsenz in der Online-Welt zahlreiche Gefahren mit sich bringen. 
+
+![[ElevenLabs_2025-06-24T03_08_53_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+
+*[[111-LEGO#^22|^]]* Ich merke zum Beispiel, dass ich `seit` [[Langem]] kein Buch mehr [[vollständig]] gelesen habe – meine [[Konzentration]] [[bricht ab|bricht]] oft schon nach wenigen Seiten ab. ^22
+
+
+Ich merke zum Beispiel, dass ich seit Langem kein Buch mehr vollständig gelesen habe – meine Konzentration bricht oft schon nach wenigen Seiten ab. 
+
+![[ElevenLabs_2025-06-24T03_10_09_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+
+
+*[[111-LEGO#^23|^]]* Zudem [[auswirken|wirkt]] `sich` diese [[allgemein]]e [[Zerstreutheit]] auch `auf` meinen Arbeitsalltag [[aus]], `da` sie aufmerksames, tiefes Arbeiten erheblich erschwert. ^23
+
+
+Zudem wirkt sich diese allgemeine Zerstreutheit auch auf meinen Arbeitsalltag aus, da sie aufmerksames, tiefes Arbeiten erheblich erschwert.
+
+![[ElevenLabs_2025-06-24T03_12_25_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+
+*[[111-LEGO#^24|^]]* [[Angesichts]] dieser Risiken habe ich einige `der` `in` [[Foren]] [[vorgeschlagenen]] Strategien [[ausprobiert]]. ^24
+
+
+Angesichts dieser Risiken habe ich einige der in Foren vorgeschlagenen Strategien ausprobiert. 
+
+![[ElevenLabs_2025-06-24T03_17_58_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+
+*[[111-LEGO#^25|^]]* [[Besonders]] [[hilfreich]] [[empfand]] ich `den` [[Ratschlag]], `den` [[Zugriff]] `auf` Twitter `auf` 30 Minuten pro Tag zu [[beschränken]] ^25
+
+
+Besonders hilfreich empfand ich den Ratschlag, den Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken. 
+
+![[ElevenLabs_2025-06-24T03_20_09_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+
+*[[111-LEGO#^26|^]]* Zusätzlich hat `es` `sich` `als` effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] [[sozialmedienfrei]] zu [[halten]] ^26
+
+
+Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten. 
+
+![[ElevenLabs_2025-06-24T03_22_17_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+
+*[[111-LEGO#^27|^]]* Und schließlich war die Regel, nur [[heruntergeladene]] Videos [[anzuschauen]], hilfreich `im` Kampf `gegen` Empfehlungsalgorithmen ^27
+
+
+Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen.
+
+![[ElevenLabs_2025-06-24T03_23_47_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Legacy 
 
 *[[111-LEGO#^1|^]]* In den letzten fünf [[Jahrzehnt]]en ist die [[Zahl]] der [[Internetnutzer]]:innen [[exponentiell]] [[gestiegen]]. ^1
 

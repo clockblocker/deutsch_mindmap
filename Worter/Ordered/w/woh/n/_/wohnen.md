@@ -1,38 +1,47 @@
-🏡 [[wohnen]]  
-[[wohnte]]  
-haben [[gewohnt]]
+🏠 [[wohnen]], [ˈvoːnən](https://youglish.com/pronounce/wohnen/german) → [[wohnte]] → [[gewohnt]]
 
 ---
-
-SASCHA: Du [[wohnst]] in einem Museum!
-Er geht in die Bücherei und wohnt in einem Museum! Wirklich! Hihi!
+*[[Extra 1#^5|^]]* [[Sie]] [[wohnen]] [[zusammen]] in Berlin
 
 ---
-
-[[bewohnen]] - [[be]] = [[wohnen]]
-
----
-
-Synonyme: [[Leben]], [[residieren]], [[sich aufhalten]], [[bleiben]], [[einquartieren]]
-Antonyme: [[ausziehen]], [[verlassen]], [[umziehen]]
+= [[leben]], [[residieren]], [[beheimatet sein]]
+≈ [[existieren]], [[aufhalten]], [[verweilen]]
+≠ [[ausziehen]], [[wegziehen]]
 
 ---
-
-Übersetzung: to live (in a place), to reside
+to live, to reside  
+жить, проживать
 
 ---
+[[Wohnung]], [[Bewohner]], [[Wohnort]], [[Wohnhaus]], [[bewohnbar]], [[Wohnzimmer]]
 
-Morpheme: [[wohn]], [[en]]
-#Verb #Untrennbar
+---
+[[wohn]]|[[en]]
+[[wohnen]]
 
-| Person    | Präsens    | Präteritum   | Imperativ      | Konjunktiv I | Konjunktiv II |
-| --------- | ---------- | ------------ | -------------- | ------------ | ------------- |
-| Ich       | [[wohne]]  | [[wohnte]]   | -              | [[wohne]]    | [[wohnte]]    |
-| Du        | [[wohnst]] | [[wohntest]] | [[wohne]]      | [[wohnest]]  | [[wohntest]]  |
-| Er/sie/es | [[wohnt]]  | [[wohnte]]   | -              | [[wohne]]    | [[wohnte]]    |
-| Wir       | [[wohnen]] | [[wohnten]]  | -              | [[wohnen]]   | [[wohnten]]   |
-| Ihr       | [[wohnt]]  | [[wohntet]]  | [[wohnt]]      | [[wohnet]]   | [[wohntet]]   |
-| Sie       | [[wohnen]] | [[wohnten]]  | [[wohnen Sie]] | [[wohnen]]   | [[wohnten]]   |
 
-Partizip I: [[wohnend]], Partizip II: [[gewohnt]]
-, [[Wohnort]], [[einziehen]], [[beziehen]], [[s1 e1]], [[ungewöhnlich]], [[Wohnzimmer]], [[Studierendenwohnheim]], [[Wohnraum]]
+---
+###### [[wohnen]]
+- Wo [[wohnst]] du?
+- In Berlin.
+
+- Mit wem [[wohnen]] wir?
+- Mit unseren Freunden.
+
+- Wie lange [[hast]] du schon [[gewohnt]]?
+- Seit meiner Geburt.
+
+---
+Person, Präsens, Präteritum, Imperativ, Konjunktiv I, Konjunktiv II
+ich, [[wohn]] / [[wohne]], [[wohnte]], [[wohne]], [[wohnte]], -
+du, [[wohnst]], [[wohntest]], [[wohnest]], [[wohntest]], [[wohn]] / [[wohne]]
+er, [[wohnt]], [[wohnte]], [[wohne]], [[wohnte]], -
+wir, [[wohnen]], [[wohnten]], [[wohnen]], [[wohnten]], [[wohnen]]
+ihr, [[wohnt]], [[wohntet]], [[wohnet]], [[wohntet]], [[wohnt]]
+sie, [[wohnen]], [[wohnten]], [[wohnen]], [[wohnten]], [[wohnen]]
+
+*Zu + Inf*: zu [[wohnen]], *P2*: [[gewohnt]]
+Adjektive: [[wohnend]], [[wohnender]], [[wohnendst]]
+
+---
+[[wohnender]], [[wohnendes]], [[wohnende]], [[wohnenden]], [[wohnendem]], [[wohnenderer]], [[wohnenderes]], [[wohnendere]], [[wohnenderen]], [[wohnenderem]], [[wohnendster]], [[wohnendstes]], [[wohnendste]], [[wohnendsten]], [[wohnendstem]]

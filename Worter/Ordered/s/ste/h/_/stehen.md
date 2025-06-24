@@ -5,12 +5,14 @@
 
 *[[113-LEGO#^1|^]]* In vielen [[Industrieländern]] [[stehen]] Eltern `vor` der [[Herausforderung]], [[Beruf]] und [[Familie]] [[miteinander]] zu [[vereinbaren]]
 
+SASCHA: Mmh ... hier [[steht]] ...am 7. Juli ...
+
 
 ---
 
 Sein Name [[steht]] [[an]] erster [[Stelle]].
 
-_[[Einen Korb bekommen#^8|^]]_ Damals wusste er noch nicht, dass sie [[auf]] Frauen [[steht]]. ^8
+_[[Einen Korb bekommen#^8|^]]_ Damals wusste er noch nicht, dass sie [[auf]] Frauen [[steht]]
 
 ---
 

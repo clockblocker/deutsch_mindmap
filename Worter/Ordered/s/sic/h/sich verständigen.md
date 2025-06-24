@@ -1,1 +1,1 @@
-, [[kommunizieren]]
+, [[kommunizieren]], [[Verständigung]]

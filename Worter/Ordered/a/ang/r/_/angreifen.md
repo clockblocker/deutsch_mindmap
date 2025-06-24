@@ -1,8 +1,10 @@
 🗡️ [[angreifen]] + Akk, [ˈanˌɡraɪ̯fn̩]
-[[griff an|griff an]]
-haben [[angegriffen]]
 
 ---
+---
+
+*[[100-LEGO#^9|^]]* Ich wurde selbst von einigen [[Forumsmitglied]]ern [[angegriffen]] und würde gerne meine [[Einblick]]e mitteilen
+
 *[[C1-Hoehen-T3-402-Text#^2|^]]* Satelliten sind in der Lage, bestimmte Ziele [[anzugreifen]]
 
 Miete! Oder ich [[greife an]]!

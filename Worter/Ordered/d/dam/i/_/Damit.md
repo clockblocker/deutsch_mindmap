@@ -3,6 +3,13 @@
 🟡 [[Damit]], [daˈmɪt]
 
 ---
+---
+
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, interessiert `mich` besonders, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]], und welchen [[Umgang]] wir [[damit]] finden sollten ^16
+
+
+
+---
 
 Kannst du bitte kommen, [[damit]] wir schnell gehen können?
 

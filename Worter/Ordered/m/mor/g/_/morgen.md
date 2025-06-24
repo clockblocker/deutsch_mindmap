@@ -12,4 +12,4 @@ denn ohne [[ausreichend]]e [[Sprachkenntnis]]se funktioniert das nicht
 , [[heut]], [[bald]], [[Nachmittag]]
 
 
-Allerdings ist das eine langfristines Aufgabe, die sich nicjt von heute auf morgen erledigen läst, [[Abend]]
+Allerdings ist das eine langfristines Aufgabe, die sich nicjt von heute auf morgen erledigen läst, [[Abend]], [[Mitternacht]]

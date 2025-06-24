@@ -55,4 +55,4 @@ sie, [[beunruhigen]], [[beunruhigten]], [[beunruhigen]], [[beunruhigten]], [[beu
 Adjektive: [[beunruhigend]], [[beunruhigender]], [[beunruhigendst]]
 
 ---
-[[beunruhigender]], [[beunruhigendes]], [[beunruhigende]], [[beunruhigenden]], [[beunruhigendem]], [[beunruhigenderer]], [[beunruhigenderes]], [[beunruhigendere]], [[beunruhigenderen]], [[beunruhigenderem]], [[beunruhigendster]], [[beunruhigendstes]], [[beunruhigendste]], [[beunruhigendsten]], [[beunruhigendstem]]
+[[beunruhigender]], [[beunruhigendes]], [[beunruhigende]], [[beunruhigenden]], [[beunruhigendem]], [[beunruhigenderer]], [[beunruhigenderes]], [[beunruhigendere]], [[beunruhigenderen]], [[beunruhigenderem]], [[beunruhigendster]], [[beunruhigendstes]], [[beunruhigendste]], [[beunruhigendsten]], [[beunruhigendstem]], [[irritieren]]

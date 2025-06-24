@@ -4,17 +4,12 @@
 
 ---
 
-_[[07-C1-Schreiben-T2-M#^4|^]]_ \* Zeigen Sie Verständnis dafür, dass aus finanziellen/personellen [[Gründen]] eine [[längere]] [[Einführung]] in neue [[Softwareprogramme]] schwierig sein kann. ^4
+*[[100-LEGO#^3|^]]* Ich bin selbst ein junger Mann, der [[bald]] eine Familie mit Kindern [[gründen]] will, und würde gerne meine [[Überlegung]]en [[mitteilen]]
 
-_[[C1-Hoehen-T1-100-Text#^11|^]]_ [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte. ^11
+_[[07-C1-Schreiben-T2-M#^4|^]]_ Zeigen Sie Verständnis dafür, dass aus finanziellen/personellen [[Gründen]] eine [[längere]] [[Einführung]] in neue [[Softwareprogramme]] schwierig sein kann
 
-184. Auf welcher [[rechtlichen]] Grundlage wurde der Staat Israel [[gegründet]]? (100%)
+_[[C1-Hoehen-T1-100-Text#^11|^]]_ [[Trotz]] [[aller]] Probleme, die mit der Gentrifizierung [[verbunden]] sind, [[anzeigen|zeigt]] sie an Beispielen, wie sich durch die [[zunehmende]] Attraktivität in Stadtteilen neue Firmen [[gegründet]] haben, neue gut [[bezahlte]] Arbeitsplätze [[entstanden]] und es erneut zu einem [[Zuzug]] [[vorher]] an den [[Rand]] [[gedrängter]] [[Bevölkerungsgruppen]] kommen konnte
 
-
-    - [x] eine Resolution der [[Vereinten]] Nationen
-    - [ ] ein [[Beschluss]] des Zionistenkongresses
-    - [ ] ein [[Vorschlag]] der Bundesregierung
-    - [ ] ein Vorschlag der UdSSR
 
 ---
 

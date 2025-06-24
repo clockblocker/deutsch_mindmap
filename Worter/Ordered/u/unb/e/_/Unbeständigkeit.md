@@ -1,1 +1,1 @@
-, [[Lebensform]], [[Verlässlichkeit]], [[Stabilität]]
+, [[Lebensform]], [[Verlässlichkeit]], [[Stabilität]], [[Zuverlässigkeit]]

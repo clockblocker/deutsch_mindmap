@@ -3,6 +3,8 @@
 ---
 ---
 
+*[[C1-Schreiben-Aufgaben#^1|^]]* Erklären Sie, nach welchen Kriterien man einen Job [[beurteilen]] sollte
+
 *[[116-LEGO#^10|^]]* [[Abschließend]] lässt sich sagen, dass `neben` der [[Sicherheit]] des Kindes auch die [[Aspekt]]e seiner [[psychologisch]]en [[Entwicklung]] und des [[Vertrauen]]s in die Familie [[beachtet]] werden müssen, `um` die [[Entscheidung]] `über` die [[Überwachung]] zu [[beurteilen]]
 
 

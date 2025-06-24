@@ -59,4 +59,4 @@ sie, [[verwundern]], [[verwunderten]], [[verwundern]], [[verwunderten]], [[verwu
 Adjektive: [[verwundernd]], [[verwundernder]], [[verwunderndst]]
 
 ---
-[[verwundernder]], [[verwunderndes]], [[verwundernde]], [[verwundernden]], [[verwunderndem]], [[verwundernderer]], [[verwundernderes]], [[verwunderndere]], [[verwundernderen]], [[verwundernderem]], [[verwunderndster]], [[verwunderndstes]], [[verwunderndste]], [[verwunderndsten]], [[verwunderndstem]], [[voraussehen]]
+[[verwundernder]], [[verwunderndes]], [[verwundernde]], [[verwundernden]], [[verwunderndem]], [[verwundernderer]], [[verwundernderes]], [[verwunderndere]], [[verwundernderen]], [[verwundernderem]], [[verwunderndster]], [[verwunderndstes]], [[verwunderndste]], [[verwunderndsten]], [[verwunderndstem]], [[voraussehen]], [[irritieren]]

@@ -27,4 +27,4 @@ Alle Formen:
 
 
 , [[einziehen]], [[Haus]], [[Geburtsort]]
-, [[Wohnungsbewerbung]], [[Bauernhof]], [[Grundstück]], [[Schrebergarten]], [[Wohnzimmer]], [[Studierendenwohnheim]], [[Wohnungsmarkt]], [[Wohnungsknappheit]], [[Wohnungspolitik]], [[Wohnraum]], [[Wohnungsverkauf]], [[Eigentumswohnung]]
+, [[Wohnungsbewerbung]], [[Bauernhof]], [[Grundstück]], [[Schrebergarten]], [[Wohnzimmer]], [[Studierendenwohnheim]], [[Wohnungsmarkt]], [[Wohnungsknappheit]], [[Wohnungspolitik]], [[Wohnraum]], [[Wohnungsverkauf]], [[Eigentumswohnung]], [[wohnen]]

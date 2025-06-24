@@ -1,6 +1,10 @@
 🗣️ | 🎭 der [[Ausdruck]], die [[Ausdrücke]]  [ˈaʊ̯sdʁʊk](https://youglish.com/pronounce/Ausdruck/german) 
 
 ---
+---
+
+*[[C1-Schreiben-Aufgaben#^16|^]]* Eröffnen Sie Ihr Schreiben höflich, indem Sie Ihre [[Zufriedenheit]] mit dem Fitness-Studio zum [[Ausdruck]] bringen
+
 Wird richtig sauer, macht einen bösen [[Gesichtsausdruck]] und fuchtelt mit den Armen
 
 8 [[Politikverdrossenheit]] ist ein `von` [[Wissenschaftler]]n [[geprägter]] [[Ausdruck]]

@@ -1,6 +1,9 @@
 🌟 [[überzeugen]] von + Dat, [ˌyːbɐˈtsɔʏ̯gn̩] | [[überzeugte]], haben [[überzeugt]]
 
 ---
+---
+
+*[[100-LEGO#^6|^]]* Ich halte mich selbst momentan an eine [[gesund]]e und ausgewogene Diät und bin immer von verschiedenen [[Werbung]]en im Fernsehen [[irritiert]], die mich [[überzeugen]] wollen, ein [[Päckchen]] Chips zu kaufen und zu sich zu nehmen
 
 _[[C1-Hoehen-T2-202-Text#^10|^]]_ Nur fünf Prozent vom [[Gegenteil]] [[überzeugt]]
 

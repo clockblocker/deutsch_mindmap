@@ -77,3 +77,4 @@ Morphems of only infinitive:
 ---
 
 Let me know if you need any more help!, [[Extra 8]], [[wiegen]], [[messbar]], [[Gegnerhorde]], [[Messung]], [[Widerstandsmessung]]
+, [[beizumessen]]

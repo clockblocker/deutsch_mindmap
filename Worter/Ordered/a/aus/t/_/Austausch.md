@@ -38,4 +38,4 @@ G: des [[Austausches]], der [[Austausche]]
 D: dem [[Austausch]], den [[Austauschen]]
 
 
-#Maskulin , [[Feedbackgespräch]], [[Interaktion]], [[Kommunikation]], [[Wechselwirkung]], [[Umtausch]]
+#Maskulin , [[Feedbackgespräch]], [[Interaktion]], [[Kommunikation]], [[Wechselwirkung]], [[Umtausch]], [[Verständigung]], [[Informationsaustausch]]

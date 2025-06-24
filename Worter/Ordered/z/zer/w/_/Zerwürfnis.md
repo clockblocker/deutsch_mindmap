@@ -1,1 +1,1 @@
-, [[Vertrag]], [[Versöhnung]]
+, [[Vertrag]], [[Versöhnung]], [[Verständigung]]

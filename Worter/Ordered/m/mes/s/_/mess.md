@@ -1,1 +1,1 @@
-, [[abmessen]], [[messbar]], [[Messer]], [[messe]], [[gemessen]], [[vermessen]], [[Messung]], [[Widerstandsmessung]]
+, [[abmessen]], [[messbar]], [[Messer]], [[messe]], [[gemessen]], [[vermessen]], [[Messung]], [[Widerstandsmessung]], [[beizumessen]]

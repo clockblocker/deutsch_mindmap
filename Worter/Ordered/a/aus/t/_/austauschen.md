@@ -53,4 +53,4 @@ PI: [[austauschend]], PII: [[ausgetauscht]], Zu+inf: [[auszutauschen]]
 ---
 
 [[Austausch]], [[austauschbar]], [[Austauschprogramm]], [[tauschen]], [[Tauschlager]]
-, [[kommunizieren]]
+, [[kommunizieren]], [[Informationsaustausch]]

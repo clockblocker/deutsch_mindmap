@@ -1,2 +1,2 @@
 , [[anfügen]], [[hinzufügen]]
-, [[einfügen]], [[zufügen]], [[mitliefern]]
+, [[einfügen]], [[zufügen]], [[mitliefern]], [[beizumessen]]

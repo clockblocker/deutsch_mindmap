@@ -6,9 +6,7 @@
 *[[112-LEGO#^9|^]]* [[Abschließend]] lässt sich sagen, dass `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, `um` [[realistisch]]e [[persönlich]]e [[Maßnahme]]n `gegen` den [[Klimawandel]] [[vorzuschlagen]]
 
 
-
-
-
+*[[111-LEGO#^24|^]]* [[Angesichts]] dieser Risiken habe ich einige `der` `in` [[Foren]] [[vorgeschlagenen]] [[Strategie]]n [[ausprobiert]] 
 
 
 

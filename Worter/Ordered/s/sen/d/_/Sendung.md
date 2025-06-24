@@ -25,3 +25,4 @@ Morphems:
 ---
 
 #Substantiv #Feminin, [[Lieferung]], [[Bestellung]], [[Sender]]
+, [[Päckchen]]

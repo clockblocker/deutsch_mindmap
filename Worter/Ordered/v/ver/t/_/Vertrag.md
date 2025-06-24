@@ -6,9 +6,9 @@
 *[[215-LEGO#^6|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
 
 
+----
 
-
----
+*[[C1-Schreiben-Aufgaben#^15|^]]* Schreiben Sie an den Geschäftsleiter, Herrn Fuchs, und bitten Sie darum, trotz der nicht [[eingehaltenen]] [[Kündigungsfrist]] aus dem [[Vertrag]] [[aussteigen]] zu dürfen
 
 *[[C1-Hoehen-T2-203-Text#^18|^]]* Und da [[belohnt]], egal ob man spielt oder [[chattet]], die sogenannten Cookies spionieren genau unsere Interessen und unser [[Kaufverhalten]] aus, denn die [[Betreiber]] der Websites haben mit der Verbindung einen [[Vertrag]] zum [[Schnüffelgeschäft]]:
 

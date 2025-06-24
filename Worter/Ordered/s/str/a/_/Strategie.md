@@ -25,3 +25,5 @@ A: die [[Strategie]], die [[Strategien]]
 G: der [[Strategie]], der [[Strategien]]
 D: der [[Strategie]], den [[Strategien]]
 , [[Lösungsansatz]], [[Arbeitskonzept]], [[Spielweise]], [[Königsweg]], [[Führungsstil]], [[Mobilitätskonzept]]
+
+#Feminin 

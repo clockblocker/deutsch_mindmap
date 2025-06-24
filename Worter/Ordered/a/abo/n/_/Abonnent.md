@@ -1,2 +1,2 @@
 
-, [[Abonnement]], [[Nutzer]]
+, [[Abonnement]], [[Nutzer]], [[Forumsmitglied]]

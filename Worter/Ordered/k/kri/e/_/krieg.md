@@ -1,4 +1,4 @@
-💣 🔵 der [[Krieg]], [kʁiːk](https://youglish.com/pronounce/Krieg/german)
+💣 der [[Krieg]], [kʁiːk](https://youglish.com/pronounce/Krieg/german)
 die [[Kriege]]
 
 ---
