@@ -29,4 +29,4 @@ G: der [[Situation]], der [[Situationen]]
 D: der [[Situation]], den [[Situationen]]
 
 
-#Feminin , [[Bürosituation]], [[Ereignis]], [[Lebenslage]], [[Vorfall]]
+#Feminin , [[Bürosituation]], [[Ereignis]], [[Lebenslage]], [[Vorfall]], [[Verkehrssituation]]

@@ -3,17 +3,19 @@
 ---
 
 **Sprachen lernen – aber wie? Sollten Online-Sprachkurse die Präsenzkurse ersetzen?**
-- Diskutieren Sie, wann Online-Sprachkurse sinnvoll sein könnten.  
-- Erläutern Sie anhand eines Beispiels.  
-- Nennen Sie Gründe, die gegen Online-Sprachkurse und für Präsenzkurse sprechen.  
-- Erläutern Sie, wie Sie sich ein sinnvolles Lernmodell vorstellen.  
+
+- Diskutieren Sie, wann Online-Sprachkurse sinnvoll sein könnten.
+- Erläutern Sie anhand eines Beispiels.
+- Nennen Sie Gründe, die gegen Online-Sprachkurse und für Präsenzkurse sprechen.
+- Erläutern Sie, wie Sie sich ein sinnvolles Lernmodell vorstellen.
 
 ---
+
 ---
 
 Liebe Forumsteilnehmer,
 
-seit langem verfolge ich eure Beiträge im Forum und das neue Thema hat mich so angesprochen, dass ich mich gerne an der Diskussion beteiligen möchte.
+seit langem verfolge ich eure Beiträge im Forum und das neue Thema hat mich so angesprochen, sodass ich mich gerne an der Diskussion beteiligen möchte.
 
 Ich verfolge schon seit geraumer Zeit eure Beiträge zu Online-Sprachkursen und möchte nun auch etwas dazu schreiben. Seit dem Anfang dieses Jahrtausends steht Internet in allen weit entfernten Städten zur Verfügung, was dazu geführt hat, dass Menschen aus verschiedenen Ländern bei internationalen Firmen zusammenarbeiten können. Demzufolge entstand die Notwendigkeit, mehrere Sprachen zu beherrschen. Eine große Menge von Beschäftigten überwindet die sprachlichen Herausforderungen mittels der Online-Sprachkurse. Meiner Einschätzung nach sind solche Kurse sinnvoll, wenn man wenige Möglichkeiten besitzt, persönlich zu lernen. Dazu kommt, dass man beim Online-Lernen Zeit sparen kann, um Familienaufgaben zu erfüllen.
 

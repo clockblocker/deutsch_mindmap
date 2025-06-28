@@ -3,9 +3,7 @@
 ---
 ---
 
-*[[114-LEGO#^5|^]]* `Auf` `der` anderen [[Seite]] kann [[Carsharing]] `mit` [[Unannehmlichkeit]]en [[verbunden]] sein: [[Manchmal]] sind [[verfügbar]]e [[Fahrzeug]]e nicht [[rechtzeitig]] [[buchbar]], die [[Rückgabeort]]e [[liegen]] [[ungünstig]] und [[kurzfristig]]e [[Preisspitze]]n machen das [[System]] [[unübersichtlich]]
-
-
+*[[114-LEGO#^16|^]]* Zum Glück funktioniert das Sharing-Modell [[inzwischen]] nicht nur `für` Autos: Die [[Zahl]] der `zum` Teilen [[verfügbar]]en Fahrräder und E-Scooter hat in den letzten Jahren deutlich [[zugenommen]] ^16
 
 
 

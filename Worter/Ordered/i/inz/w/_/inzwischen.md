@@ -4,8 +4,7 @@
 ---
 ---
 
-*[[113-LEGO#^6|^]]* Diese [[Einsicht]] hat [[inzwischen]] auch in der [[Wirtschaft]] [[Fuß gefasst]], `sodass` [[Arbeitsmodell]]e [[immer]] [[stärker]] `an` die [[Bedürfnis]]se [[berufstätig]]er [[Eltern]] [[angepasst]] werden
-
+*[[114-LEGO#^16|^]]* Zum Glück funktioniert das Sharing-Modell [[inzwischen]] nicht nur `für` Autos: Die [[Zahl]] der `zum` Teilen [[verfügbar]]en Fahrräder und E-Scooter hat in den letzten Jahren deutlich [[zugenommen]] ^16
 
 
 

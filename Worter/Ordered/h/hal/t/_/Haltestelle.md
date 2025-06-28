@@ -1,5 +1,10 @@
-🔵 🚏 die [[Haltestelle]], [ˈhaltəʃtɛlə]
-die [[Haltestellen]]
+🚏 die [[Haltestelle]], [ˈhaltəʃtɛlə]
+
+---
+---
+
+*[[114-LEGO#^19|^]]* Carsharing wird Bürger:innen eine [[echt]]e Alternative `zum` eigenen [[Pkw]] [[bieten]], [[während]] [[Radsharing]] den Weg `zur` [[nächst]]en [[Haltestelle]] des öffentlichen Verkehrs [[deutlich]] [[erleichtern]] wird 
+
 
 ---
 Alles ging schnell, und bald stand er schon wieder auf der Straße. Er ging langsam zur [[Haltestelle]].  [[14 perfekt#^11|^]]
@@ -24,3 +29,6 @@ D: der [[Haltestelle]], den [[Haltestellen]]
 
 ---
 [[Haltestellenname]]
+
+
+#Feminin 

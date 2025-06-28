@@ -6,18 +6,17 @@
 ---
 ---
 
-*[[114-LEGO#^3|^]]* `Auf` `der` einen [[Seite]] [[entscheiden]] `sich` viele Nutzer:innen `für` [[Carsharing]], weil es ihnen [[ermöglicht]], genau dann ein [[Fahrzeug]] zu [[buchen]], wenn sie es [[brauchen]], ohne `sich` `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen
-
+*[[114-LEGO#^12|^]]* Auf der einen Seite ist der [[Nutzen]] `von` Carsharing [[unbestreitbar]] – es ermöglicht seinen Kund:innen, genau dann ein [[Fahrzeug]] zu [[buchen]], wenn sie es brauchen, `ohne` `sich` `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen
 
 
 ---
 
 
-_[[Lektionen/Bekker/verben/2#^7|^]]_ Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken. ^7
+_[[Lektionen/Bekker/verben/2#^7|^]]_ Das heißt, die Schüler [[kümmern]] sich um die Bäume und [[melden]] es, wenn sie Schäden bemerken
 
-_[[04-C1-Schreiben-T2-M#^13|^]]_ Ich möchte Sie daher noch einmal [[höflich]] bitten, sich darum zu [[kümmern]], dass Ihr Hund uns nicht weiter mit seinem Bellen [[belästigt]], da ich mich [[ansonsten]] leider [[gezwungen]] sehe, mich direkt beim [[Hausverwalter]] über Sie zu [[beschweren]]. ^13
+_[[04-C1-Schreiben-T2-M#^13|^]]_ Ich möchte Sie daher noch einmal [[höflich]] bitten, sich darum zu [[kümmern]], dass Ihr Hund uns nicht weiter mit seinem Bellen [[belästigt]], da ich mich [[ansonsten]] leider [[gezwungen]] sehe, mich direkt beim [[Hausverwalter]] über Sie zu [[beschweren]]
 
-_[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]_ [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]. ^10
+_[[GPT 1 Burnout verhindern – Was können Arbeitgebende tun?#^10|^]]_ [[Führungskräfte]] müssen dabei als [[Vorbild]] dienen und aktiv auf die [[Bedürfnis]]se der Mitarbeitenden [[kümmern]], um ein [[Arbeitsumfeld]] zu schaffen, in dem sich jeder [[wohl]] und [[wertgeschätzt]] [[fühlt]]
 
 | **Aang** | [[Kümmer]] dich um Appa bis ich wieder zurück bin, ja?      |
 | -------- | ----------------------------------------------------------- |

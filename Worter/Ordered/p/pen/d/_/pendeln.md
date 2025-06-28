@@ -1,7 +1,10 @@
 🚗 [[pendeln]], [ˈpɛndl̩n](https://youglish.com/pronounce/pendeln/german)
 
 ---
-*[[bro-schrieben-c1-t1-002#^10|^]]* Wenn ich selbst nur online lerne und keine [[Zeit]] beim [[Pendeln]] [[verliere]], benutze ich innere Kräfte, um mehr [[Lernaufgabe]]n [[erfolgreich]] zu [[bewältigen]] und am [[selben]] Tag [[einkaufen]] zu gehen. ^10
+----
+
+*[[114-LEGO#^11|^]]* Weil ich selbst `schon` oft lieber `mit` einem Carsharing-Auto `als` `mit` der S-Bahn `zur` Arbeit [[pendle]], frage ich mich [[häufig]], wie dieses [[Modell]] unseren [[Lebensstil]] [[beeinflusst]] – und welche Chancen und [[Herausforderung]]en `damit` [[verbunden]] sind ^11
+
 
 
 ---

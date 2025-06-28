@@ -3,7 +3,12 @@
 ---
 ---
 
-*[[111-LEGO#^19|^]]* `Auf` `der` einen [[Seite]] ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – [[fast]] jeder [[Wunsch]]  der Nutzer:innen kann erfüllt werden: ^19
+*[[111-LEGO#^19|^]]* `Auf` `der` einen [[Seite]] ist der [[Nutzen]] sozialer Medien [[unbestreitbar]] – [[fast]] jeder [[Wunsch]]  der Nutzer:innen kann erfüllt werden: 
+
+
+
+*[[114-LEGO#^12|^]]* Auf der einen Seite ist der [[Nutzen]] `von` Carsharing [[unbestreitbar]] – es ermöglicht seinen Kund:innen, genau dann ein [[Fahrzeug]] zu [[buchen]], wenn sie es brauchen, `ohne` `sich` `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen
+
 
 
 

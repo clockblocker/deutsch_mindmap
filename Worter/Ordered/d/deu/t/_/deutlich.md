@@ -4,6 +4,9 @@
 ---
 ---
 
+*[[114-LEGO#^19|^]]* Carsharing wird Bürger:innen eine [[echt]]e Alternative `zum` eigenen [[Pkw]] [[bieten]], [[während]] [[Radsharing]] den Weg `zur` [[nächst]]en [[Haltestelle]] des öffentlichen Verkehrs [[deutlich]] [[erleichtern]] wird 
+
+
 *[[111-LEGO#^15|^]]* So kann [[etwa]] die [[konstant]]e [[Nutzung]] [[elektronisch]]er [[Gerät]]e `seit` der [[Kindheit]] `als` [[möglich]]e [[Ursache]] `für` das [[deutlich]] [[gesunkene]] [[Leseverstehen]] [[angesehen]] werden
 
 

@@ -1,1 +1,1 @@
-, [[Straße]], [[Straßenunfall]], [[Straßenfest]], [[Straßenverkehr]], [[Straßenbelag]]
+, [[Straße]], [[Straßenunfall]], [[Straßenfest]], [[Straßenverkehr]], [[Straßenbelag]], [[Straßeninfrastruktur]]

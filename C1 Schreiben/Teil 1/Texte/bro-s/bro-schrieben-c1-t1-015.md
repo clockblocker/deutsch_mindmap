@@ -2,19 +2,21 @@
 
 ---
 
-**Studienfinanzierung – aber wie? Wie kann das gelingen?**  
-- Erklären Sie, welche Kriterien man berücksichtigen muss, um sich zwischen verschiedenen Finanzierungsmöglichkeiten für sein Studium zu entscheiden.  
-- Argumentieren Sie anhand eines Beispiels für eine konkrete Finanzierungsmöglichkeit.  
-- Nennen Sie Gründe, die dagegen sprechen, dass staatliche Hochschulen Studiengebühren erheben.  
-- Erläutern Sie eine Alternative für Einnahmen seitens staatlicher Universitäten.  
+**Studienfinanzierung – aber wie? Wie kann das gelingen?**
+
+- Erklären Sie, welche Kriterien man berücksichtigen muss, um sich zwischen verschiedenen Finanzierungsmöglichkeiten für sein Studium zu entscheiden.
+- Argumentieren Sie anhand eines Beispiels für eine konkrete Finanzierungsmöglichkeit.
+- Nennen Sie Gründe, die dagegen sprechen, dass staatliche Hochschulen Studiengebühren erheben.
+- Erläutern Sie eine Alternative für Einnahmen seitens staatlicher Universitäten.
 
 ---
+
 ---
 
-*Liebe Forumsteilnehmer,*
+_Liebe Forumsteilnehmer,_
 
-*seit langem verfolge ich eure Beiträge im Forum und das letzte Thema hat mich so sehr angesprochen, dass ich mich gern an der Diskussion beteiligen möchte. 
-Da mein Cousin dieses Jahr immatrikulieren will, habe ich über die Studienfinanzierung recherchiert und würde gerne meine Einblicke mitteilen.*
+_seit langem verfolge ich eure Beiträge im Forum und das letzte Thema hat mich so sehr angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte.
+Da mein Cousin dieses Jahr immatrikulieren will, habe ich über die Studienfinanzierung recherchiert und würde gerne meine Einblicke mitteilen._
 
 Es bestehen heute verschiedene Möglichkeiten, wie man sein Studium finanzieren kann. Aber man sollte sich zunächst überlegen, wie stark eine Finanzierung belasten kann. Die Forscher aus dem Bundesministerium für Bildung behaupten, das wichtigste zu berücksichtigende Kriterium bei dieser Wahl sei, dass diese Finanzierung bezahlbar sei und die Zinsen niedrig seien. Auf dem zweiten Platz stehe die Wahrscheinlichkeit einer schnellen vorzeitigen Rückzahlung eines Studienkredits.
 
@@ -24,5 +26,4 @@ Leider lässt sich ein negativer Trend beobachten, dass staatliche Hochschulen S
 
 Es gibt alternative Einnahmemöglichkeiten für staatliche Universitäten. Eine Möglichkeit wäre, eine Zusammenarbeit an mehreren Projekten mit Unternehmen oder mit Ämtern zu organisieren. Davon würden sowohl Unternehmen oder Ämter als auch Lernende und Universitäten profitieren.
 
-*Soweit meine Überlegungen zum Thema. Ich hoffe, dass ihr meinen Beitrag interessant findet und freue mich auf eure Rückmeldungen.*
-
+_Soweit meine Überlegungen zum Thema. Ich hoffe, dass ihr meinen Beitrag interessant findet und freue mich auf eure Rückmeldungen._

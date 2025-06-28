@@ -1,5 +1,11 @@
 💥 [[geraten]], [ɡəˈʁaːtn̩] | [[geriet]], sind [[geraten]]
 
+----
+----
+
+*[[114-LEGO#^15|^]]* Würden Carsharing-Fahrzeuge [[zunehmend]] `als` Alternative `zum` ÖPNV [[wahrgenommen]] werden, [[gerieten]] Busse und Straßenbahnen [[wirtschaftlich]] `unter` [[Druck]] – [[während]] [[zugleich]] die [[Straßeninfrastruktur]] stärker [[belastet]] würde 
+
+
 ---
 *[[3  Ein Selbstversuch als Hobbybäuerin#^13|^]]* Wir [[gerieten]] über die Frage, wie weit man Salat von [[Radieschen]] [[fernhalten]] sollte, in einen [[lächerlichen]] [[Streit]]. ^13
 

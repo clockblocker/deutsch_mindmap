@@ -54,4 +54,4 @@ Morpheme: Teil]], [[en]]
 Partizip I: [[teilend]], Partizip II: [[geteilt]]
 
 [[teilen]] - Teil]] = [[en]], [[beteiligen]], [[Eiserner Vorhang]], [[gliedern]], [[durchtrennen]], [[spalten]], [[teilweise]], [[einteilen]]
-, [[Carsharing]]
+, [[Carsharing]], [[Radsharing]]

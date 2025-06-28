@@ -49,4 +49,4 @@ G: des [[Alltags]], der [[Alltage]]
 D: dem [[Alltag]], den [[Alltagen]]
 
 
-#Maskulin , [[Straßenfest]], [[Alltagsverhaltensweise]], [[Lebenswandel]], [[Tanzritual]], [[Wunder]], [[Alltagsgeschichte]], [[Alltagsgeschichte]], [[Arbeitsalltag]], [[Reiseerlebnis]]
+#Maskulin , [[Straßenfest]], [[Alltagsverhaltensweise]], [[Lebenswandel]], [[Tanzritual]], [[Wunder]], [[Alltagsgeschichte]], [[Alltagsgeschichte]], [[Arbeitsalltag]], [[Reiseerlebnis]], [[Alltagsverkehr]]

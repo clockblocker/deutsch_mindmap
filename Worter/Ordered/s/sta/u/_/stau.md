@@ -27,4 +27,4 @@ G: des [[Staus]], der [[Staus]]
 D: dem [[Stau]], den [[Staus]]
 , [[stau]]
 
-, [[Papierstau]], [[Verkehrsproblem]]
+, [[Papierstau]], [[Verkehrsproblem]], [[Verkehrssituation]]

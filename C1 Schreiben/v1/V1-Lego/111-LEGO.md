@@ -18,18 +18,15 @@ seit einiger Zeit verfolge ich eure Beiträge im Forum mit großem Interesse. Da
 ---
 
 
-*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, frage ich mich häufig, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]] und welchen [[Umgang]] wir [[damit]] finden sollten ^16
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` regelmäßig `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, frage ich mich häufig, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]] und welche [[Chance]]n und [[Herausforderung]]en `damit` [[verbunden]] sind ^16
 
 
-Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, frage ich mich häufig, wie soziale Medien unseren Lebensstil beeinflussen und welchen Umgang wir damit finden sollten.
-
-
-![[ElevenLabs_2025-06-25T06_42_49_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, frage ich mich häufig, wie soziale Medien unseren Lebensstil beeinflussen und welche Chancen und Herausforderungen damit verbunden sind.
 
 
 
 
-
+regelmäßig
 
 ---
 

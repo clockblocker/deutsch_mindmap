@@ -3,10 +3,7 @@
 ---
 ---
 
-*[[114-LEGO#^3|^]]* `Auf` `der` einen [[Seite]] [[entscheiden]] `sich` viele Nutzer:innen `für` [[Carsharing]], weil es ihnen [[ermöglicht]], genau dann ein [[Fahrzeug]] zu [[buchen]], wenn sie es [[brauchen]], ohne sich `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen
-
-
-
+*[[114-LEGO#^12|^]]* Auf der einen Seite ist der [[Nutzen]] `von` Carsharing [[unbestreitbar]] – es ermöglicht seinen Kund:innen, genau dann ein [[Fahrzeug]] zu [[buchen]], wenn sie es brauchen, `ohne` `sich` `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen
 
 
 

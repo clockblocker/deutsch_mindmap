@@ -1,2 +1,2 @@
 , [[Privatgrundstück]]
-, [[Miete]], [[Ausleihsystem]], [[Eigenschaft]], [[Grundstück]], [[Erwerb]], [[Eigentumswohnung]]
+, [[Miete]], [[Ausleihsystem]], [[Eigenschaft]], [[Grundstück]], [[Erwerb]], [[Eigentumswohnung]], [[Radsharing]]

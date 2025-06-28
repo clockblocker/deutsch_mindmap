@@ -1,6 +1,10 @@
 🤝 [[bieten]] + Dat, Akk, [ˈbiːtn̩]
-[[bot]]
-haben [[geboten]]
+
+---
+----
+
+*[[114-LEGO#^19|^]]* Carsharing wird Bürger:innen eine [[echt]]e Alternative `zum` eigenen [[Pkw]] [[bieten]], [[während]] [[Radsharing]] den Weg `zur` [[nächst]]en [[Haltestelle]] des öffentlichen Verkehrs [[deutlich]] [[erleichtern]] wird 
+
 
 ---
 *[[bro-schrieben-c1-t1-003#^3|^]]* Einen großen [[Vorteil]] des [[Arbeiten]]s in einem anderen Land sehe ich darin, dass es [[abwechslungsreich]]e [[Gelegenheit]]en [[bietet]], neue [[Erfahrung]]en zu [[erleben]], [[Kontakt]]e mit ausländischen Menschen zu [[knüpfen]] und eine ganz neue [[Perspektive]] `auf` die Welt zu [[entwickeln]]

@@ -10,6 +10,8 @@
 *[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]
 
 
+*[[114-LEGO#^17|^]]* Diese [[darstellen|stellen]] eine ideale [[Transportlösung]] `für` die sogenannte letzte Meile dar und [[verstärken]] die [[Nachfrage]] `nach` gut [[ausgebauten]] und [[sicher]]en Geh- und Radwegen 
+
 
 
 

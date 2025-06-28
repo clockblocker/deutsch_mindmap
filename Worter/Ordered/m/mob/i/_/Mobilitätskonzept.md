@@ -7,6 +7,13 @@
 
 
 
+*[[114-LEGO#^18|^]]* Aus diesem Grund [[halte]] ich es persönlich `für` [[wahrscheinlich]], dass flexible [[Mobilitätskonzept]]e in [[Zukunft]] [[integral]]er [[Bestandteil]] des städtischen [[Alltagsverkehr]]s werden
+
+
+
+
+
+
 ---
 = [[Verkehrskonzept]], [[Mobilitätsplan]]
 ≈ [[Planung]], [[Verkehr]], [[Transport]], [[Strategie]]

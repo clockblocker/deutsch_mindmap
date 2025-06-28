@@ -1,14 +1,17 @@
-🙋 🔴 die [[Nachfrage]], [ˈnaːxˌfʁaːɡə](https://youglish.com/pronounce/Nachfrage/german)  
+🙋 die [[Nachfrage]], [ˈnaːxˌfʁaːɡə](https://youglish.com/pronounce/Nachfrage/german)  
 
 ---
 ---
 
 *[[115-LEGO#^4|^]]* Wer sich für einen [[sogenannt]]en „Blue-Collar“-Beruf [[entscheidet]], profitiert von einer [[konstant]] hohen [[Nachfrage]] und [[gering]]erer [[Automatisierungsgefahr]]
 
+
 *[[115-LEGO#^9|^]]* `Vor` allem die [[Energiewende]] und das [[politisch]] [[forcierte]] Ziel, Millionen [[Wärmepumpe]]n in [[Altbau]]ten zu [[installieren]], [[befeuern]] die [[Nachfrage]] nach [[entsprechend]] [[geschulten]] [[Fachkräften]]
 
 
-[[See]]
+*[[114-LEGO#^17|^]]* Diese [[darstellen|stellen]] eine ideale [[Transportlösung]] `für` die sogenannte letzte Meile dar und [[verstärken]] die [[Nachfrage]] `nach` gut [[ausgebauten]] und [[sicher]]en Geh- und Radwegen 
+
+
 
 ---
 

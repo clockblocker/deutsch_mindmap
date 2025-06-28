@@ -1,11 +1,12 @@
 [[bro-s-t1-root]]
 
 ---
+
 ###### Hohlkiestingssporte und Doping
 
 Liebe Forumsteilnehmer,
 
-seit langem verfolge ich eure Beiträge im Forum und das neue Thema hat mich so sehr angesprochen, dass ich mich gerne an der Diskussion beteiligen möchte. Ich war selbst während meiner Schulzeit Teilnehmer an einem sportlichen Wettbewerb und habe gegen die Sportler gekämpft, die hormonelle Aufputschmittel eingenommen haben und dafür disqualifiziert wurden.
+seit langem verfolge ich eure Beiträge im Forum und das neue Thema hat mich so sehr angesprochen, sodass ich mich gerne an der Diskussion beteiligen möchte. Ich war selbst während meiner Schulzeit Teilnehmer an einem sportlichen Wettbewerb und habe gegen die Sportler gekämpft, die hormonelle Aufputschmittel eingenommen haben und dafür disqualifiziert wurden.
 
 Der wichtigste Grund für die Einnahme eines Dopingmittels ist, die Leistungsfähigkeit zu erhöhen und die Grenze des menschlichen Organismus zu erweitern. Dazu kommt auch, dass manche Arten von Doping die Erholungszeit positiv beeinflussen können.
 

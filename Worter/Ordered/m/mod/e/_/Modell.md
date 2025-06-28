@@ -1,11 +1,11 @@
-, [[Vorlage]]
-, [[Vorbild]], [[Bauart]], [[Modellrechnung]], [[Modellierung]], [[Arbeitszeitmodell]], [[Arbeitsmodell]]
-
-📐 🟢 das [[Modell]], [moˈdɛl](https://youglish.com/pronounce/Modell/german)
-die [[Modelle]]
+--> [[🗣️ Ingredient-Meinung]] <--
+📐 das [[Modell]], [moˈdɛl](https://youglish.com/pronounce/Modell/german)
 
 ---
-Beschäftigte
+---
+
+*[[114-LEGO#^11|^]]* Weil ich selbst `schon` oft lieber `mit` einem Carsharing-Auto `als` `mit` der S-Bahn `zur` Arbeit [[pendle]], frage ich mich [[häufig]], wie dieses [[Modell]] unseren [[Lebensstil]] [[beeinflusst]] – und welche Chancen und [[Herausforderung]]en `damit` [[verbunden]] sind
+
 
 ---
 = [[Vorbild]], [[Muster]], [[Entwurf]]
@@ -29,5 +29,6 @@ A: das [[Modell]], die [[Modelle]]
 G: des [[Modells]], der [[Modelle]]
 D: dem [[Modell]], den [[Modellen]]
 
+#Neuter 
 
-#Neuter , [[Version]], [[Bauplan]]--> [[🗣️ Ingredient-Meinung]] <--, [[Ausführung]], [[Theorie]], [[Lernmodell]], [[Fahrzeugtyp]], [[Gehaltsmodell]], [[Form]], [[Hybridarbeitsmodell]], [[Fahrzeugmodell]], [[Unterstützungsmodell]]
+[[Version]], [[Bauplan]], [[Ausführung]], [[Theorie]], [[Lernmodell]], [[Fahrzeugtyp]], [[Gehaltsmodell]], [[Form]], [[Hybridarbeitsmodell]], [[Fahrzeugmodell]], [[Unterstützungsmodell]], [[Vorlage]], [[Vorbild]], [[Bauart]], [[Modellrechnung]], [[Modellierung]], [[Arbeitszeitmodell]], [[Arbeitsmodell]]

@@ -8,6 +8,10 @@
 *[[113-LEGO#^6|^]]* Allerdings kann die [[Gesellschaft]] nicht allein `auf` [[Entscheidung]]en privater Unternehmen – und das `nur` `in` [[ausgewählten]] Branchen – [[setzen]]
 
 
+ *[[112-LEGO#^11|^]]* Man kann zum Beispiel `statt` `mit` dem Auto [[lieber]] `mit` dem Fahrrad `zur` Arbeit [[pendeln]], oder die [[eigene]] [[Ernährung]] `auf` [[regional]]e und [[saisonal]]e Obst- und Gemüsesorten [[ausrichten]], `anstatt` `auf` [[verpackt]]e [[Fertigprodukt]]e zu [[setzen]] ^11
+
+
+
 ---
 Unter dem Motto *Zu gut für die Tonne* hat sich das deutsche Landwirtschaftsministerium zusammen mit Organisationen und Initiativen der Lebensmittel- und Gastronomiebranche das [[Ziel]] [[gesetzt]], [[hiergegen]] etwas zu unternehmen.  
 

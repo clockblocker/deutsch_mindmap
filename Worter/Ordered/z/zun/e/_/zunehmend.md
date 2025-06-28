@@ -6,8 +6,7 @@
 
 *[[115-LEGO#^1|^]]* In einer [[zunehmend]] [[digitalisierten]] [[Arbeitswelt]] [[entscheiden]] `sich` viele Menschen [[bewusst]] `für` [[handwerklich]]e oder praktische Berufe, `da` diese `nach` [[wie]] `vor` [[stabil]]e [[Beschäftigungsmöglichkeit]]en bieten
 
-
-*[[114-LEGO#^1|^]]* In den letzten Jahren hat [[Carsharing]] als [[flexible]]s [[Mobilitätskonzept]] [[zunehmend]] an [[Bedeutung]] [[gewonnen]]
+*[[114-LEGO#^15|^]]* Würden Carsharing-Fahrzeuge [[zunehmend]] `als` Alternative `zum` ÖPNV [[wahrgenommen]] werden, [[gerieten]] Busse und Straßenbahnen [[wirtschaftlich]] `unter` [[Druck]] – [[während]] [[zugleich]] die [[Straßeninfrastruktur]] stärker [[belastet]] würde
 
 
 

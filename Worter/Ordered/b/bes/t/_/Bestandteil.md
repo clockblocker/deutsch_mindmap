@@ -1,4 +1,4 @@
-🧩 🔵 der [[Bestandteil]], [bəˈʃtantˌtaɪ̯l](https://youglish.com/pronounce/Bestandteil/german)
+🧩 der [[Bestandteil]], [bəˈʃtantˌtaɪ̯l](https://youglish.com/pronounce/Bestandteil/german)
 
 ----
 ---
@@ -6,6 +6,7 @@
 *[[114-LEGO#^10|^]]* Auf diese [[Weise]] würde Carsharing nicht nur eine [[Notlösung]] [[darstellen]], sondern zu einem [[integral]]en [[Bestandteil]] [[nachhaltig]]er [[Verkehrssystem]]e werden
 
 
+*[[114-LEGO#^18|^]]* Aus diesem Grund [[halte]] ich es persönlich `für` [[wahrscheinlich]], dass flexible [[Mobilitätskonzept]]e in [[Zukunft]] [[integral]]er [[Bestandteil]] des städtischen [[Alltagsverkehr]]s werden
 
 
 

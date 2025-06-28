@@ -3,7 +3,7 @@
 ---
 ---
 
-*[[114-LEGO#^2|^]]* Viele Menschen sehen [[darin]] eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigen]]en [[Auto]], die [[zugleich]] [[Kost]]en [[senkt]] und [[städtisch]]en [[Platzbedarf]] [[reduziert]]
+*[[114-LEGO#^13|^]]* Zudem sehen viele `darin` eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigene]]n Auto, die [[zugleich]] Kosten senkt und den städtischen [[Platzbedarf]] reduziert
 
 
 *[[116-LEGO#^9|^]]* `Als` [[Alternative]] `zur` [[digital]]en [[Beobachtung]] würde ich ein [[Handyverbot]] `bis` `zur` zehnten Klasse [[in Erwägung ziehen]]

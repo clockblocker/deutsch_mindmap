@@ -40,4 +40,4 @@ G: der [[Mobilität]], der [[Mobilitäten]]
 D: der [[Mobilität]], den [[Mobilitäten]]
 , [[Grünsteuer]]
 
-#Feminin , [[Arbeitsweg]], [[Carsharing]], [[Verkehrssystem]], [[abschließen]]
+#Feminin , [[Arbeitsweg]], [[Carsharing]], [[Verkehrssystem]], [[abschließen]], [[Alltagsverkehr]], [[Radsharing]]

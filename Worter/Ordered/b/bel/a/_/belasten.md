@@ -1,5 +1,11 @@
-
 🏋️ [[belasten]], [bəˈlastn̩](https://youglish.com/pronounce/belasten/german) → [[belastete]] → [[belastet]]
+
+---
+---
+
+*[[114-LEGO#^15|^]]* Würden Carsharing-Fahrzeuge [[zunehmend]] `als` Alternative `zum` ÖPNV [[wahrgenommen]] werden, [[gerieten]] Busse und Straßenbahnen [[wirtschaftlich]] `unter` [[Druck]] – [[während]] [[zugleich]] die [[Straßeninfrastruktur]] stärker [[belastet]] würde
+
+
 
 ---
 *[[C1-Hoehen-T3-402-Text#^4|^]]* Private [[Weltraumreise]]n [[belasten]] die Atmosphäre [[maßgeblich]]

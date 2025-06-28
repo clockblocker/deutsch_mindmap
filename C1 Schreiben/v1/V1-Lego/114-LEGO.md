@@ -4,6 +4,121 @@
 ---
 ---
 
+*[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
+
+`seit` einiger Zeit verfolge ich eure Beiträge `im` Forum `mit` großem Interesse. Das letzte Thema hat `mich` besonders [[angesprochen]], `sodass` ich `mich` [[gern]] `an` der [[Diskussion]] [[beteiligen]] möchte.^1
+
+
+Liebe Forumsteilnehmende,
+
+seit einiger Zeit verfolge ich eure Beiträge im Forum mit großem Interesse. Das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte.
+
+![[ElevenLabs_2025-06-24T00_24_47_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+---
+
+*[[114-LEGO#^11|^]]* Weil ich selbst `schon` oft lieber `mit` einem Carsharing-Auto `als` `mit` der S-Bahn `zur` Arbeit [[pendle]], frage ich mich [[häufig]], wie dieses [[Modell]] unseren [[Lebensstil]] [[beeinflusst]] – und welche Chancen und [[Herausforderung]]en `damit` [[verbunden]] sind ^11
+
+
+
+Weil ich selbst schon oft lieber mit einem Carsharing-Auto als mit der S-Bahn zur Arbeit pendle, frage ich mich häufig, wie dieses Modell unseren Lebensstil beeinflusst – und welche Chancen und Herausforderungen damit verbunden sind.
+
+
+---
+---
+
+
+*[[114-LEGO#^12|^]]* Auf der einen Seite ist der [[Nutzen]] `von` Carsharing [[unbestreitbar]] – es ermöglicht seinen Kund:innen, genau dann ein [[Fahrzeug]] zu [[buchen]], wenn sie es brauchen, `ohne` `sich` `um` [[Wartung]], [[Versicherung]] oder [[Parkplatzsuche]] [[kümmern]] zu müssen ^12
+
+
+Auf der einen Seite ist der Nutzen von Carsharing unbestreitbar – es ermöglicht seinen Kund:innen, genau dann ein Fahrzeug zu buchen, wenn sie es brauchen, ohne sich um Wartung, Versicherung oder Parkplatzsuche kümmern zu müssen. 
+
+---
+----
+
+
+
+*[[114-LEGO#^13|^]]* Zudem sehen viele `darin` eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigene]]n Auto, die [[zugleich]] Kosten senkt und den städtischen [[Platzbedarf]] reduziert ^13
+
+
+Zudem sehen viele darin eine umweltfreundliche Alternative zum eigenen Auto, die zugleich Kosten senkt und den städtischen Platzbedarf reduziert.
+
+
+---
+---
+
+*[[114-LEGO#^14|^]]* Auf der anderen Seite kann eine [[Ausweitung]] des Carsharing-Angebots zahlreiche Gefahren `für` die städtische [[Verkehrssituation]] `mit` `sich` bringen ^14
+
+
+Auf der anderen Seite kann eine Ausweitung des Carsharing-Angebots zahlreiche Gefahren für die städtische Verkehrssituation mit sich bringen
+
+
+---
+---
+
+
+*[[114-LEGO#^15|^]]* Würden Carsharing-Fahrzeuge [[zunehmend]] `als` Alternative `zum` ÖPNV [[wahrgenommen]] werden, [[gerieten]] Busse und Straßenbahnen [[wirtschaftlich]] `unter` [[Druck]] – [[während]] [[zugleich]] die [[Straßeninfrastruktur]] stärker [[belastet]] würde ^15
+
+
+Würden Carsharing-Fahrzeuge zunehmend als Alternative zum ÖPNV wahrgenommen werden, gerieten Busse und Straßenbahnen wirtschaftlich unter Druck – während zugleich die Straßeninfrastruktur stärker belastet würde.
+
+
+
+----
+---
+
+
+*[[114-LEGO#^16|^]]* Zum Glück funktioniert das Sharing-Modell [[inzwischen]] nicht nur `für` Autos: Die [[Zahl]] der `zum` Teilen [[verfügbar]]en Fahrräder und E-Scooter hat in den letzten Jahren deutlich [[zugenommen]] ^16
+
+
+Zum Glück funktioniert das Sharing-Modell inzwischen nicht nur für Autos: Die Zahl der zum Teilen verfügbaren Fahrräder und E-Scooter hat in den letzten Jahren deutlich zugenommen
+
+
+
+----
+----
+
+
+*[[114-LEGO#^17|^]]* Diese [[darstellen|stellen]] eine ideale [[Transportlösung]] `für` die sogenannte letzte Meile dar und [[verstärken]] die [[Nachfrage]] `nach` gut ausgebauten und [[sicher]]en Geh- und Radwegen ^17
+
+
+Diese stellen eine ideale Transportlösung für die sogenannte letzte Meile dar und verstärken die Nachfrage nach gut ausgebauten und sicheren Geh- und Radwegen
+
+
+
+---
+---
+
+*[[114-LEGO#^18|^]]* Aus diesem Grund [[halte]] ich es persönlich `für` [[wahrscheinlich]], dass flexible [[Mobilitätskonzept]]e in [[Zukunft]] [[integral]]er [[Bestandteil]] des städtischen [[Alltagsverkehr]]s werden. ^18
+
+
+Aus diesem Grund halte ich es persönlich für wahrscheinlich, dass flexible Mobilitätskonzepte in Zukunft integraler Bestandteil des städtischen Alltagsverkehrs werden.
+
+
+
+---
+---
+
+
+*[[114-LEGO#^19|^]]* Carsharing wird Bürger:innen eine [[echt]]e Alternative `zum` eigenen [[Pkw]] [[bieten]], [[während]] [[Radsharing]] den Weg `zur` [[nächst]]en [[Haltestelle]] des öffentlichen Verkehrs [[deutlich]] [[erleichtern]] wird ^19
+
+
+Carsharing wird Bürger:innen eine echte Alternative zum eigenen Pkw bieten, während Radsharing den Weg zur nächsten Haltestelle des öffentlichen Verkehrs deutlich erleichtern wird
+
+
+
+
+
+
+
+
+
+---
+---
+---
+#### Legacy 
+
 *[[114-LEGO#^1|^]]* In den letzten Jahren hat [[Carsharing]] als [[flexible]]s [[Mobilitätskonzept]] [[zunehmend]] `an` [[Bedeutung]] [[gewonnen]]. ^1
 
 

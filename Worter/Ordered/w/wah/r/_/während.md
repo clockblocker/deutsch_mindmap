@@ -1,13 +1,17 @@
 [[Grammatik-Konjunktoren-Subordinating-Temporale|Temporale Subordinating Konjunktor]]
-
----
-
 🔗 während, [ˈveːʀʌnt]
 
 ---
 ---
 
+*[[114-LEGO#^15|^]]* Würden Carsharing-Fahrzeuge [[zunehmend]] `als` Alternative `zum` ÖPNV [[wahrgenommen]] werden, [[gerieten]] Busse und Straßenbahnen [[wirtschaftlich]] `unter` [[Druck]] – [[während]] [[zugleich]] die [[Straßeninfrastruktur]] stärker [[belastet]] würde 
+
+
+*[[114-LEGO#^19|^]]* Carsharing wird Bürger:innen eine [[echt]]e Alternative `zum` eigenen [[Pkw]] [[bieten]], [[während]] [[Radsharing]] den Weg `zur` [[nächst]]en [[Haltestelle]] des öffentlichen Verkehrs [[deutlich]] [[erleichtern]] wird 
+
+
 *[[213-LEGO#^5|^]]* Sollten [[derzeit]] keine [[zusätzlich]]en [[Steckdose]]n [[eingebaut]] werden können, schlage ich vor, die [[Nutzung]] von Powerbanks [[während]] der Umbauarbeiten zu erlauben
+
 
 *[[115-LEGO#^11|^]]* Brillen mit digitaler [[Anleitung]] können [[komplex]]e [[Montageprozess]]e [[erleichtern]], [[während]] [[Sensor]]en in [[Maschine]]n [[frühzeitig]] [[Verschleiß]] [[anzeigen]]
 

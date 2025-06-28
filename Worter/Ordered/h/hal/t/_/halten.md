@@ -6,6 +6,10 @@
 *[[111-LEGO#^20|^]]* Über WhatsApp bleiben Eltern `auch` `aus` dem [[Ausland]] erreichbar, Instagram [[hält]] Freund:innen `in` [[Kontakt]], LinkedIn [[dient]] `dem` [[Ausbau]] beruflicher Netzwerke, TikTok und YouTube bieten endlose Unterhaltung
 
 
+*[[114-LEGO#^18|^]]* Aus diesem Grund [[halte]] ich es persönlich `für` [[wahrscheinlich]], dass flexible [[Mobilitätskonzept]]e in [[Zukunft]] [[integral]]er [[Bestandteil]] des städtischen [[Alltagsverkehr]]s werden
+
+
+
 _[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
 
 

@@ -9,6 +9,10 @@
 *[[211-LEGO#^2|^]]* Ich habe vollstes Verständnis `dafür`, dass jede [[Abwesenheit]] `unter` `den` [[aktuell]]en [[Bedingung]]en `des` [[Personalmangel]]s und `des` hohen [[Arbeitsdruck]]s eine [[Herausforderung]] [[darstellt]]
 
 
+*[[114-LEGO#^17|^]]* Diese [[darstellen|stellen]] eine ideale [[Transportlösung]] `für` die sogenannte letzte Meile dar und [[verstärken]] die [[Nachfrage]] `nach` gut ausgebauten und [[sicher]]en Geh- und Radwegen ^17
+
+
+
 
 ---
 *[[4 Soll Englisch zweite Behördensprache in Deutschland werden?#^1|^]]* _Deutschland ist schon lange ein_ [[Einwanderungsland]] _und für viele Migrantinnen und Migranten_ [[darstellen|stellt]] _die deutsche Sprache eine besondere_ [[Hürde]] _dar. ^1

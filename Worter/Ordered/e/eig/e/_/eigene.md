@@ -4,7 +4,11 @@ nicht [[fremd]]
 ---
 ---
 
- *[[112-LEGO#^11|^]]* Man kann zum Beispiel `statt` `mit` dem Auto [[lieber]] `mit` dem Fahrrad fahren nutzen, oder die [[eigene]] [[Ernährung]] `auf` [[regional]]e und [[saisonal]]e Obst- und Gemüsesorten [[ausrichten]], `anstatt` `auf` [[verpackt]]e [[Fertigprodukt]]e zu setzen ^11
+ *[[112-LEGO#^11|^]]* Man kann zum Beispiel `statt` `mit` dem Auto [[lieber]] `mit` dem Fahrrad fahren nutzen, oder die [[eigene]] [[Ernährung]] `auf` [[regional]]e und [[saisonal]]e Obst- und Gemüsesorten [[ausrichten]], `anstatt` `auf` [[verpackt]]e [[Fertigprodukt]]e zu setzen 
+
+
+*[[114-LEGO#^13|^]]* Zudem sehen viele `darin` eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigene]]n Auto, die [[zugleich]] Kosten senkt und den städtischen [[Platzbedarf]] reduziert
+
 
 
 

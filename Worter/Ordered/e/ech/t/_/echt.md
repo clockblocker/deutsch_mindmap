@@ -6,6 +6,13 @@
 *[[112-LEGO#^14|^]]* Nur wenn der [[ÖPNV]] und [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]]
 
 
+*[[114-LEGO#^19|^]]* Carsharing wird Bürger:innen eine [[echt]]e Alternative `zum` eigenen [[Pkw]] [[bieten]], [[während]] [[Radsharing]] den Weg `zur` [[nächst]]en [[Haltestelle]] des öffentlichen Verkehrs [[deutlich]] [[erleichtern]] wird 
+
+
+
+---
+---
+
 NIC: Hey Sam, du bist ein [[echter]] Freund 
 SAM: Klar! Ich wollte dir [[echt]] amerikanisches Popcorn machen!  
 

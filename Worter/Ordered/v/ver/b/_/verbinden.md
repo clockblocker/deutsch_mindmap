@@ -12,6 +12,13 @@
 *[[114-LEGO#^5|^]]* `Auf` `der` anderen [[Seite]] kann [[Carsharing]] `mit` [[Unannehmlichkeit]]en [[verbunden]] sein: [[Manchmal]] sind [[verfügbar]]e [[Fahrzeug]]e nicht [[rechtzeitig]] [[buchbar]], die [[Rückgabeort]]e [[liegen]] [[ungünstig]] und [[kurzfristig]]e [[Preisspitze]]n machen das [[System]] [[unübersichtlich]]
 
 
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` regelmäßig `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, frage ich mich häufig, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]] und welche [[Chance]]n und [[Herausforderung]]en `damit` [[verbunden]] sind
+
+
+*[[114-LEGO#^11|^]]* Weil ich selbst `schon` oft lieber `mit` einem Carsharing-Auto `als` `mit` der S-Bahn `zur` Arbeit [[pendle]], frage ich mich [[häufig]], wie dieses [[Modell]] unseren [[Lebensstil]] [[beeinflusst]] – und welche Chancen und [[Herausforderung]]en `damit` [[verbunden]] sind ^11
+
+
+
 
 
 ----

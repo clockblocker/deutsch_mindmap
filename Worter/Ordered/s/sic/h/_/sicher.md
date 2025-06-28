@@ -7,6 +7,7 @@
 *[[114-LEGO#^6|^]]* [[Außerdem]] [[fühlen]] `sich` [[manche]] [[Nutzer]] [[angesichts]] [[wechsel]]nder [[Fahrzeugmodell]]e und [[fehlen]]der [[Personalisierung]] [[wenig]]er [[sicher]] `als` `mit` dem [[eigen]]en [[Pkw]]
 
 
+*[[114-LEGO#^17|^]]* Diese [[darstellen|stellen]] eine ideale [[Transportlösung]] `für` die sogenannte letzte Meile dar und [[verstärken]] die [[Nachfrage]] `nach` gut [[ausgebauten]] und [[sicher]]en Geh- und Radwegen 
 
 
 

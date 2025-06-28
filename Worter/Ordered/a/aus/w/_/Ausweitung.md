@@ -8,6 +8,9 @@
 *[[113-LEGO#^11|^]]* Aus diesem Grund halte ich `es` persönlich `für` sinnvoll, dass `sich` der [[Staat]] `auf` die [[Ausweitung]] des [[Angebot]]s `im` [[Bereich]] `von` [[Kindertagesbetreuung]] und Schule [[konzentriert]]
 
 
+*[[114-LEGO#^14|^]]* Auf der anderen Seite kann eine [[Ausweitung]] des Carsharing-Angebots zahlreiche Gefahren `für` die städtische [[Verkehrssituation]] `mit` `sich` bringen ^14
+
+
 
 ---
 = [[Erweiterung]], [[Verbreiterung]], [[Expansion]]

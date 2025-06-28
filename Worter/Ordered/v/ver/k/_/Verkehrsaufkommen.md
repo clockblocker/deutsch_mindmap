@@ -32,3 +32,4 @@ G: des [[Verkehrsaufkommens]], -
 D: dem [[Verkehrsaufkommen]], -
 
 #Neuter , [[Straßenverkehr]]
+, [[Verkehrssituation]]

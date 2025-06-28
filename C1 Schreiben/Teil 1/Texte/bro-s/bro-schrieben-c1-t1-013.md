@@ -4,18 +4,20 @@
 
 Here is the extracted and corrected content from the image in your preferred format:
 
-**Nachhaltig konsumieren – aber wie? Wie oder was soll ich kaufen?**  
-- Erklären Sie, welche Kriterien dem Erwerb von Gebrauchsgegenständen zugrunde liegen könnten.  
-- Argumentieren Sie anhand eines Beispiels, welche Vorteile nachhaltiges Einkaufen bringen kann.  
-- Nennen Sie Gründe, die gegen den Kauf neuer Dinge sprechen könnten.  
-- Erläutern Sie anhand von Beispielen Alternativen zum Neukauf.  
+**Nachhaltig konsumieren – aber wie? Wie oder was soll ich kaufen?**
+
+- Erklären Sie, welche Kriterien dem Erwerb von Gebrauchsgegenständen zugrunde liegen könnten.
+- Argumentieren Sie anhand eines Beispiels, welche Vorteile nachhaltiges Einkaufen bringen kann.
+- Nennen Sie Gründe, die gegen den Kauf neuer Dinge sprechen könnten.
+- Erläutern Sie anhand von Beispielen Alternativen zum Neukauf.
 
 ---
+
 ---
 
 Liebe Forumsteilnehmer,
 
-seit langem verfolge ich eure Beiträge im Forum und das letzte Thema hat mich so sehr angesprochen, dass ich mich gerne an der Diskussion beteiligen möchte. Ich bin selbst daran interessiert, nachhaltig zu konsumieren und würde gerne meine Einblicke mitteilen.
+seit langem verfolge ich eure Beiträge im Forum und das letzte Thema hat mich so sehr angesprochen, sodass ich mich gerne an der Diskussion beteiligen möchte. Ich bin selbst daran interessiert, nachhaltig zu konsumieren und würde gerne meine Einblicke mitteilen.
 
 Es bestehen viele Kriterien, die beim Erwerb eines Gebrauchsgegenstands zugrunde liegen. Die Forscher aus dem Beratungsunternehmen KPMG behaupten, der wichtigste von diesen Kriterien sei, den Verbrauch von Naturressourcen zu reduzieren, indem der Konsum eines Menschen niedriger sei. Auf dem zweiten Platz stehe der Wunsch, die Menge an Müll und Abfall zu verkleinern.
 

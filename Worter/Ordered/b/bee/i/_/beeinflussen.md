@@ -6,6 +6,9 @@
 *[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, interessiert `mich` besonders, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]], und welchen [[Umgang]] wir [[damit]] finden sollten
 
 
+*[[114-LEGO#^11|^]]* Weil ich selbst `schon` oft lieber `mit` einem Carsharing-Auto `als` `mit` der S-Bahn `zur` Arbeit [[pendle]], frage ich mich [[häufig]], wie dieses [[Modell]] unseren [[Lebensstil]] [[beeinflusst]] – und welche Chancen und [[Herausforderung]]en `damit` [[verbunden]] sind
+
+
 
 ---
 

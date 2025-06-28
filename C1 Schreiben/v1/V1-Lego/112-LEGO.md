@@ -57,14 +57,13 @@ Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es zahlr
 ---
 ---
 
- *[[112-LEGO#^11|^]]* Man kann zum Beispiel `statt` `mit` dem Auto [[lieber]] `mit` dem Fahrrad fahren nutzen, oder die [[eigene]] [[Ernährung]] `auf` [[regional]]e und [[saisonal]]e Obst- und Gemüsesorten [[ausrichten]], `anstatt` `auf` [[verpackt]]e [[Fertigprodukt]]e zu setzen ^11
+ *[[112-LEGO#^11|^]]* Man kann zum Beispiel `statt` `mit` dem Auto [[lieber]] `mit` dem Fahrrad `zur` Arbeit [[pendeln]], oder die [[eigene]] [[Ernährung]] `auf` [[regional]]e und [[saisonal]]e Obst- und Gemüsesorten [[ausrichten]], `anstatt` `auf` [[verpackt]]e [[Fertigprodukt]]e zu [[setzen]] ^11
 
 
- Man kann zum Beispiel statt mit dem Auto lieber mit dem Fahrrad fahren nutzen, oder die eigene Ernährung auf regionale und saisonale Obst- und Gemüsesorten ausrichten, anstatt auf verpackte Fertigprodukte zu setzen
+ Man kann zum Beispiel statt mit dem Auto lieber mit dem Fahrrad zur Arbeit pendeln, oder die eigene Ernährung auf regionale und saisonale Obst- und Gemüsesorten ausrichten, anstatt auf verpackte Fertigprodukte zu setzen
+
+![[ElevenLabs_2025-06-28T03_28_26_Mila_pvc_sp100_s50_sb75_v3.mp3]]
  
-![[ElevenLabs_2025-06-24T04_30_20_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
 ---
 ---
 

@@ -1,6 +1,13 @@
 --> 💸 [[Grad-Preis]] <--
 🏢 [[wirtschaftlich]], [ˈvɪʁtʃaftsˌlɪç]
-nicht [[unwirtschaftlich]]
+
+---
+---
+
+*[[114-LEGO#^15|^]]* Würden Carsharing-Fahrzeuge [[zunehmend]] `als` Alternative `zum` ÖPNV [[wahrgenommen]] werden, [[gerieten]] Busse und Straßenbahnen [[wirtschaftlich]] `unter` [[Druck]] – [[während]] [[zugleich]] die [[Straßeninfrastruktur]] stärker [[belastet]] würde 
+
+
+
 
 ---
 *[[4 Autofrei#^4|^]]* Die Punkte, die Pro-Autofreiheit-Gruppen normalerweise [[öffentlich]] präsentieren, lassen sich in zwei Teilen [[gliedern]]: "Die Gesundheit der Burger" und "Die [[wirtschaftlichen]] [[Vorteile]] für die Stadt"

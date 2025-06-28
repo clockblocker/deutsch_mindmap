@@ -9,7 +9,7 @@
 *[[112-LEGO#^1|^]]* In den [[vergangen]]en zehn Jahren wurden in [[nahezu]] jedem Sommer neue [[Temperaturrekord]]e [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]
 
 
-
+*[[114-LEGO#^16|^]]* Zum Glück funktioniert das Sharing-Modell [[inzwischen]] nicht nur `für` Autos: Die [[Zahl]] der `zum` Teilen [[verfügbar]]en Fahrräder und E-Scooter hat in den letzten Jahren deutlich [[zugenommen]] 
 
 
 
