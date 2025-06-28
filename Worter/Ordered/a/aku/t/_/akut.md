@@ -1,10 +1,11 @@
---> ⏱️ [[Temporal-Perspektive]] <--
---> 💥 [[Grad-Intensität]] <--
-
+--> ⏱️ [[Temporal-Perspektive]] <----> 💥 [[Grad-Intensität]] <--
  ❗ [[akut]], [aˈkuːt](https://youglish.com/pronounce/akut/german)
 
 ---
 ---
+
+*[[113-LEGO#^7|^]]* Ohne staatliche [[Unterstützung]] [[berufstätig]]er Eltern würden die Unternehmen `von` heute `unter` [[akut]]em [[Fachkräftemangel]] [[leiden]], und [[zudem]] wäre die demografische [[Zukunft]] des Landes [[ernsthaft]] [[gefährdet]]
+
 
 *[[100-LEGO#^5|^]]* Mit 15 Jahren hatte ich selbst ein [[akut]]es, [[lebensveränderndes]] [[orthopädisch]]es [[Trauma]] und [[infolgedessen]] musste ich in einem [[Krankenhaus]] behandelt werden, in dem ich auch [[schwerbehinderte]] Kinder [[kennengelernt]] habe
 

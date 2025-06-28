@@ -1,5 +1,14 @@
 💡 [[anregen]], [ˈanʦuˈʁeːɡən] | [[regte an]], haben [[angeregt]]
 
+----
+----
+
+*[[100-LEGO#^2|^]]* [[Soweit]] meine [[Überlegung]]en `zu` diesem Thema. Ich bin gespannt `auf` eure Meinungen und freue mich `auf` eure [[anregen]]de Diskussion
+
+
+
+
+
 ---
 *[[C1-Lesen-T2-102-Text#^9|^]]* [[Vorweg]]: Sport sollte so intensiv sein, dass das Muskelwachstum [[angeregt]] wird.
 

@@ -9,6 +9,9 @@
 *[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]
 
 
+*[[113-LEGO#^7|^]]* Ohne staatliche [[Unterstützung]] [[berufstätig]]er Eltern würden die Unternehmen `von` heute `unter` [[akut]]em [[Fachkräftemangel]] [[leiden]], und [[zudem]] wäre die demografische [[Zukunft]] des Landes [[ernsthaft]] [[gefährdet]]
+
+
 
 ----
 

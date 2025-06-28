@@ -1,6 +1,18 @@
 🏗️ [[umbauen]] | [[umbau|umbau]], haben [[umgebaut]]
 
 ---
+---
+
+*[[212-LEGO#^2|^]]* Die Kantine, die `zu` neuen Funktionsräumen [[umgebaut]] `werden` `würde`, [[halte]] ich [[jedoch]] `für` [[unverzichtbar]], da `sich` unser Büro in einem [[Industriegebiet]] befindet, in dem es `weder` Restaurants `noch` Supermärkte gibt
+
+
+
+
+
+
+
+
+---
 
 Doch fast alle haben vor kurzer Zeit viel Geld [[ausgegeben]]. Einer hat sich ein neues Auto gekauft. Ein anderer hat den Garten [[umbauen]] lassen. Ein Dritter hat sich einen [[riesigen]] Fernseher gekauft.
 

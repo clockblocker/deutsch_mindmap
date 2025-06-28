@@ -36,3 +36,4 @@ G: der [[Landwirtschaft]], der [[Landwirtschaften]]
 D: der [[Landwirtschaft]], den [[Landwirtschaften]]
 
 #Feminin , [[Bewirtschaftung]]
+, [[Lebensmittelproduktion]]

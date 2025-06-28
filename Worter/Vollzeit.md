@@ -3,7 +3,7 @@
 ---
 ---
 
-*[[113-LEGO#^2|^]]* In Deutschland [[etwa]] arbeiten beide Partner [[häufig]] `in` [[Vollzeit]], `während` die [[Vereinbarkeit]] `durch` [[steigen]]de [[Kita]]- und [[Schulgebühr]]en `sowie` lange [[Pendelzeit]]en [[erschwert]] wird
+*[[113-LEGO#^3|^]]* Weil meine Frau und ich beide `in` [[Vollzeit]] arbeiten, fragen wir uns oft, `wie` `sich` [[Elternschaft]] `mit` unserer Karriere [[vereinbaren]] `lässt`. ^3
 
 
 

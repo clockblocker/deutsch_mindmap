@@ -1,6 +1,13 @@
 🌟[[erscheinen]] über dem, [ɛɐ̯ˈʃaɪ̯nən] != [[verschwinden]]
-[[erschien]]
-sein [[erschienen]]
+
+---
+---
+
+*[[113-LEGO#^5|^]]* Dadurch haben wir – wie viele Kolleg:innen in IT, Werbung oder [[Buchhaltung]] – deutlich mehr Zeit, zu Hause mit unseren Kindern zu [[verbringen]]. Infolgedessen [[erscheint]] die [[Verbindung]] von Beruf und Familie tatsächlich [[greifbar]]
+
+
+
+
 
 ---
 *[[C1-Lesen-432-Text#^10|^]]* Sie dürfen nicht im Sportdress [[erscheinen]], da sie ihre Firma repräsentieren müssen

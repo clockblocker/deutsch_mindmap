@@ -1,6 +1,11 @@
 --> 🛡️ [[Ingredient-Risiko-Schutz-Verben]] <--
-
 ⚠️ [[gefährden]], [ɡəˈfɛːɐ̯dn̩](https://youglish.com/pronounce/gefährden/german) → [[gefährdete]] → haben [[gefährdet]]
+
+---
+---
+
+*[[113-LEGO#^7|^]]* Ohne staatliche [[Unterstützung]] [[berufstätig]]er Eltern würden die Unternehmen `von` heute `unter` [[akut]]em [[Fachkräftemangel]] [[leiden]], und [[zudem]] wäre die demografische [[Zukunft]] des Landes [[ernsthaft]] [[gefährdet]]
+
 
 ---
 *[[C1-Lesen-431-Text#^3|^]]* Neben dem Smartphone können sich auch Lärm, Musik oder die Präsenz anderer Menschen in unser [[Bewusstsein]] [[schleichen]] und die Lesekonzentration [[gefährden]]

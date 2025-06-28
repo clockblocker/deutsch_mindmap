@@ -3,7 +3,14 @@ gesamt, [gəˈzamt]
 nicht [[teilweise]]
 
 ---
+---
 
+*[[212-LEGO#^5|^]]* Sollte `sich` kein alternativer [[Ort]] `für` die [[geplant]]en Funktionsräume finden `lassen`, schlage ich vor, ein [[Firmenangebot]] `mit` einem [[Lieferdienst]] zu arrangieren, `um` der [[gesamt]]en [[Belegschaft]] eine [[vergünstig]]te [[Essensversorgung]] zu ermöglichen
+
+
+
+
+----
 Aang, das hier ist unser [[gesamtes]] Dorf. Gesamtes Dorf, Aang.
 
 _[[C1-Hoehen-T1-202-Text#^12|^]]_ Wir können nämlich leider nicht den [[gesamt]]en [[Herstellungsprozess]] eines Produktes [[verfolgen]] und kontrollieren

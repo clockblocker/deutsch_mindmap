@@ -3,11 +3,14 @@
 ---
 ---
 
-*[[112-LEGO#^6|^]]* Meiner [[Meinung]] `nach` ist das [[Wichtig]]ste, was jeder [[Einzeln]]e zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] `an` [[Wahl]]en
+*[[112-LEGO#^13|^]]* Deshalb [[halte]] ich die [[Teilnahme]] `an` Wahlen `für` die [[wirkungsvoll]]ste [[Möglichkeit]], wie [[Einzelne]] `zum` Klimaschutz [[beitragen]] können
+
 
 *[[C1-Schreiben-Aufgaben#^2|^]]* Argumentieren Sie anhand eines Beispiels, was die Arbeit zur Lebensqualität [[beitragen]] kann. ^2
 
 
+
+*[[113-LEGO#^9|^]]* Zusätzlich [[erhalten]] sie `für` jedes [[neugeboren]]e Kind einen staatlichen [[Förderbetrag]], der `zur` [[Entlastung]] `vom` finanziellen [[Druck]] [[beiträgt]]
 
 
 ---

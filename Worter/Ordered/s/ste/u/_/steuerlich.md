@@ -3,8 +3,7 @@
 ---
 ---
 
-*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]]
-
+*[[112-LEGO#^15|^]]* Und `nur` `wenn` Unternehmen `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützt]] werden, sind `sowohl` der [[Umstieg]] `auf` [[recycelbar]]e [[Verpackung]]en `als auch` eine [[preiswert]]e [[nachhaltig]]e [[Lebensmittelproduktion]] praktisch [[umsetzbar]] ^15
 
 
 ---

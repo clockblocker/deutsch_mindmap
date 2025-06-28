@@ -1,1 +1,1 @@
-, [[Wirkungsweise]]
+, [[Wirkungsweise]], [[wirkungsvoll]]

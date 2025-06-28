@@ -38,7 +38,7 @@ Mein Studierendenwohnheim bietet diese Voraussetzungen leider nicht.
 ---
 ---
 
-*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] Powerbanks `in` der Bibliothek verboten sind, [erschwert] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den Einsatz `von` Laptops [[erfordert]], [[erheblich]] ^4
+*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] Powerbanks `in` der Bibliothek verboten sind, [erschwert] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], [[erheblich]] ^4
 
 
 Der Mangel an Steckdosen, zumal Powerbanks in der Bibliothek verboten sind, erschwert das Arbeiten für mich und alle Studierenden, deren Studium den Einsatz von Laptops erfordert, erheblich.

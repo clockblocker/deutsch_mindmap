@@ -38,4 +38,4 @@ G: der [[Betreuung]], der [[Betreuungen]]
 D: der [[Betreuung]], den [[Betreuungen]]
 
 
-#Feminin , [[Kinderbetreuungsangebot]], [[Kinderbetreuung]], [[Service]]
+#Feminin , [[Kinderbetreuungsangebot]], [[Kinderbetreuung]], [[Service]], [[Kindertagesbetreuung]]

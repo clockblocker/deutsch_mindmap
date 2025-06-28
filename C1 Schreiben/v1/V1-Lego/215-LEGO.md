@@ -4,10 +4,10 @@
 ---
 ---
 
-_[[215-LEGO#^1|^]]_ [[zunächst]] möchte ich `mich` `dafür` [[bedanken]], dass Sie unsere [[Gruppenreise]] so [[kompetent]] [[begleitet]] haben ^1
+_[[215-LEGO#^1|^]]_ [[zunächst]] möchte ich `mich` [[herzlich]] `dafür` [[bedanken]], dass Sie unsere [[Gruppenreise]] so [[kompetent]] [[begleitet]] haben ^1
 
 
-zunächst möchte ich mich dafür bedanken, dass Sie unsere Gruppenreise so kompetent begleitet haben
+zunächst möchte ich mich herzlich dafür bedanken, dass Sie unsere Gruppenreise so kompetent begleitet haben
 
 ![[ElevenLabs_2025-06-13T06_20_11_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
@@ -29,26 +29,12 @@ Besonders gefielen mir die sorgfältig ausgewählten Ausflüge und die freundlic
 ---
 ---
 
-_[[215-LEGO#^3|^]]_ Allerdings kam es [[mehrfach]] `zu` [[Verspätung]]en `bei` den [[Busfahrt]]en ^3
+_[[215-LEGO#^4|^]]_ Leider kam es [[jedoch]] [[mehrfach]] zu [[Verspätung]]en `bei` `den` [[Busfahrt]]en. [[Infolgedessen]] konnten wir drei [[Ausflüge]] nicht [[wahrnehmen]] und waren [[sogar]] einmal [[gezwungen]], statt `im` [[vereinbarten]] Fünf-Sterne-Hotel in einem Hostel zu [[übernachten]]. ^4
 
 
-Allerdings kam es mehrfach zu Verspätungen bei den Busfahrten
+Leider kam es jedoch mehrfach zu Verspätungen bei den Busfahrten. Infolgedessen konnten wir drei Ausflüge nicht wahrnehmen und waren sogar einmal gezwungen, statt im vereinbarten Fünf-Sterne-Hotel in einem Hostel zu übernachten.
 
-![[ElevenLabs_2025-06-13T06_20_59_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
-
-
----
----
-
-_[[215-LEGO#^4|^]]_ [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren [[sogar]] einmal [[gezwungen]], in einem [[Hostel]] [[statt]] `im` [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]] ^4
-
-
-Infolgedessen haben wir drei Ausflüge verpasst und waren sogar einmal gezwungen, in einem Hostel statt im vereinbarten 5-Sterne-Hotel zu übernachten
-
-![[ElevenLabs_2025-06-13T06_21_17_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
+![[ElevenLabs_2025-06-27T05_21_51_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 
@@ -68,25 +54,15 @@ Daher möchte ich höflich anfragen, ob eine Entschädigung für die entstandene
 ---
 ---
 
-_[[215-LEGO#^6|^]]_ Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]] ^6
+*[[215-LEGO#^6|^]]* `Um` [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] `mit` [[zuverlässig]]eren [[Transportunternehmen]] [[abzuschließen]]. [[Darüber hinaus]] wäre es [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] alternative Routen `bei` möglichen [[Verkehrsproblem]]en [[einzuplanen]] ^6
 
 
-Um ähnliche Probleme künftig zu vermeiden, schlage ich vor, Verträge mit zuverlässigen Transportunternehmen abzuschließen
-
-![[ElevenLabs_2025-06-14T03_25_11_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+Um ähnliche Probleme künftig zu vermeiden, schlage ich vor, Verträge mit zuverlässigeren Transportunternehmen abzuschließen. Darüber hinaus wäre es sinnvoll, für Ausflüge vorsorglich alternative Routen bei möglichen Verkehrsproblemen einzuplanen.
 
 
----
----
-
-_[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen ^7
-
-
-Zusätzlich halte ich es für sinnvoll, für Ausflüge vorsorglich alternative Routen bei möglichen Verkehrsproblemen zu planen
-
-![[ElevenLabs_2025-06-13T06_22_43_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
+![[ElevenLabs_2025-06-27T05_22_24_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 ---
 ---
+
+[[Abel]]

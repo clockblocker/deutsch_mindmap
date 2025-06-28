@@ -1,1 +1,1 @@
-, [[verbilligen]], [[rabattieren]]
+, [[verbilligen]], [[rabattieren]], [[vergünstigen]]

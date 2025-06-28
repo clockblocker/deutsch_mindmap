@@ -7,8 +7,11 @@
 
 *[[114-LEGO#^8|^]]* In vielen [[Städten]] [[existieren]] [[bereits]] Fahrrad- und E-Scooter-Sharing–[[Angebot]]e, die den Sharing-[[Gedanke]]n [[erfolgreich]] [[ausgeweitet]] haben
 
-*[[111-LEGO#^2|^]]* Einer der wichtigsten [[Antriebsfaktor]]en `dafür` ist das [[enorm]]e [[Angebot]] `an` sozialen [[Medie]]n: Sie ermöglichen [[sowohl]] [[dauerhaft]]en [[sozial]]en [[Kontakt]] `als` auch [[grenzenlos]]e [[Unterhaltung]]. ^2
 
+*[[111-LEGO#^2|^]]* Einer der wichtigsten [[Antriebsfaktor]]en `dafür` ist das [[enorm]]e [[Angebot]] `an` sozialen [[Medie]]n: Sie ermöglichen [[sowohl]] [[dauerhaft]]en [[sozial]]en [[Kontakt]] `als` auch [[grenzenlos]]e [[Unterhaltung]]
+
+
+*[[113-LEGO#^11|^]]* Aus diesem Grund halte ich `es` persönlich `für` sinnvoll, dass `sich` der [[Staat]] `auf` die [[Ausweitung]] des [[Angebot]]s `im` [[Bereich]] `von` [[Kindertagesbetreuung]] und Schule [[konzentriert]]
 
 
 ---

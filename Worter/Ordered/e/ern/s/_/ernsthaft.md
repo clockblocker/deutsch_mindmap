@@ -3,6 +3,10 @@
 🧐 [[ernsthaft]], [ˈʔɛʁnstˌhaft]
 nicht [[oberflächlich]]
 
+---
+---
+
+*[[113-LEGO#^7|^]]* Ohne staatliche [[Unterstützung]] [[berufstätig]]er Eltern würden die Unternehmen `von` heute `unter` [[akut]]em [[Fachkräftemangel]] [[leiden]], und [[zudem]] wäre die demografische [[Zukunft]] des Landes [[ernsthaft]] [[gefährdet]]
 
 
 ---

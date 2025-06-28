@@ -49,4 +49,4 @@ Einzigartige mögliche Formen:
 
 ---
 
-, [[Tal]], [[tiefgründig]], [[zutiefst]]
+, [[Tal]], [[tiefgründig]], [[zutiefst]], [[vertiefen]]

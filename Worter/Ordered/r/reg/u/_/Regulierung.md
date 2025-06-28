@@ -4,9 +4,7 @@
 ---
 ---
 
-*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]] ^8
-
-
+*[[112-LEGO#^16|^]]* `Ob` solche [[Regulierung]]en [[eingeführt]] werden, [[hängt ab|hängt]] [[letztlich]] `von` den politischen [[Entscheidung]]en der Wähler:innen ab
 
 
 ---

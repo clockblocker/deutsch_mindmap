@@ -21,4 +21,4 @@ Synonyme:
 ---
 
 #Adverb, [[erst]], [[zunächst]], [[mittlerweile]]
-, [[allererst]], [[wiederum]], [[von vornherein]], [[zuallererst]]
+, [[allererst]], [[wiederum]], [[von vornherein]], [[zuallererst]], [[letztlich]]

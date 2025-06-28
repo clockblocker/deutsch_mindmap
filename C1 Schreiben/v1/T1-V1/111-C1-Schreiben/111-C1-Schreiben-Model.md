@@ -18,7 +18,7 @@ Schreiben Sie circa 230 Wörter.
 
 *Liebe Forumsteilnehmende,*
 
-*seit Langem verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich so sehr angesprochen, dass ich mich gern an der Diskussion beteiligen möchte.* Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, interessiert mich besonders, wie soziale Medien unseren Lebensstil beeinflussen, und welchen Umgang wir damit finden sollten.
+*seit einiger Zeit verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich besonders angesprochen, dass ich mich gern an der Diskussion beteiligen möchte.* Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, frage ich mich häufig, wie soziale Medien unseren Lebensstil beeinflussen und welchen Umgang wir damit finden sollten.
 
 Warum soziale Medien so beliebt sind, liegt auf der Hand: Sie ermöglichen durch unmittelbaren Informationsaustausch sowohl ständigen Kontakt als auch eine Vielfalt an Inhalten für jede Gelegenheit. Sie stehen deshalb im Zentrum öffentlicher Diskussionen – und sind zugleich der Raum, in dem diese geführt werden.
 
@@ -26,7 +26,7 @@ Auf der einen Seite ist der Nutzen sozialer Medien unbestreitbar – fast jeder 
 
 Auf der anderen Seite kann die ständige Präsenz in der Online-Welt zahlreiche Gefahren mit sich bringen. Ich merke zum Beispiel, dass ich seit Langem kein Buch mehr vollständig gelesen habe – meine Konzentration bricht oft schon nach wenigen Seiten ab. Zudem wirkt sich diese allgemeine Zerstreutheit auch auf meinen Arbeitsalltag aus, da sie aufmerksames, tiefes Arbeiten erheblich erschwert.
 
-Angesichts dieser Risiken habe ich einige der in Foren vorgeschlagenen Strategien ausprobiert. Besonders hilfreich empfand ich den Ratschlag, den Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken. Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten. Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen.
+Angesichts dieser Risiken habe ich einige der hier im Forum vorgeschlagenen Strategien ausprobiert. Besonders hilfreich empfand ich den Ratschlag, den Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken. Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten. Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen.
 
 *Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eure anregende Diskussion*
 

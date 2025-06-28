@@ -1,10 +1,10 @@
-🔴 ⌛ die [[Verspätung]], [fɛɐ̯ˈʃpɛːtʊŋ]
+⌛ die [[Verspätung]], [fɛɐ̯ˈʃpɛːtʊŋ]
 
 ---
-
 ---
 
-_[[215-LEGO#^3|^]]_ Allerdings kam es [[mehrfach]] `zu` [[Verspätung]]en `bei` den [[Busfahrt]]en
+_[[215-LEGO#^4|^]]_ Leider kam es [[jedoch]] [[mehrfach]] zu [[Verspätung]]en `bei` `den` [[Busfahrt]]en. [[Infolgedessen]] konnten wir drei [[Ausflüge]] nicht [[wahrnehmen]] und waren [[sogar]] einmal [[gezwungen]], statt `im` [[vereinbarten]] Fünf-Sterne-Hotel in einem Hostel zu [[übernachten]]. ^4
+
 
 ---
 

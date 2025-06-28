@@ -10,6 +10,10 @@
 *[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
 
 
+*[[211-LEGO#^2|^]]* Ich habe vollstes Verständnis `dafür`, dass jede [[Abwesenheit]] `unter` `den` [[aktuell]]en [[Bedingung|Bedingungen]] `des` [[Personalmangel]]s und `des` hohen [[Arbeitsdruck]]s eine [[Herausforderung]] `für` das [[Unternehmen]] [[darstellt]]
+
+
+
 
 ---
 

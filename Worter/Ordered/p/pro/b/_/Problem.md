@@ -42,4 +42,4 @@ D: dem [[Problem]], den [[Problemen]]
 
 #Neuter
 , [[Verkehrsproblem]]
-, [[Entwicklungsproblem]], [[abschließen]]
+, [[Entwicklungsproblem]], [[abschließen]], [[Unterstützungsmodell]]

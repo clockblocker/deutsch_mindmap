@@ -36,4 +36,4 @@ Zu+infinitive: [[zu studieren]]
 ---
 
 [[Student]], [[Studentin]], [[Studium]], [[Studiengang]], [[Studierende]], [[Studiengebühren]], [[Studienzeit]], [[betrachten]], [[Universität]], [[lehren]], [[Studie]], [[Erkunden]], [[Studienfach]], [[MBA-Studium]], [[Studienvisum]], [[erforschen]], [[beobachten]], [[aneignen]], [[Lehramtsstudium]], [[erlernen]]
-, [[weiterbilden]], [[erarbeiten]]
+, [[weiterbilden]], [[erarbeiten]], [[vertiefen]]

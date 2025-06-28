@@ -43,4 +43,4 @@ Morpheme: [[ziel]], [[en]]
 
 Partizip I: [[zielend]], Partizip II: [[gezielt]]
 , [[abfeuern]], [[anstreben]], [[Zielgruppe]]
-, [[ansteuern]]
+, [[ansteuern]], [[hinarbeiten]]

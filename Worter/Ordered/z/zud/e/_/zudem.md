@@ -9,6 +9,8 @@
 *[[116-LEGO#^6|^]]* Auf der anderen Seite sind [[zahlreiche]] Psychologen der festen [[Überzeugung]], dass [[Überwachungssoftware]] nicht nur das [[Recht]] auf [[Privatsphäre]] des Kindes [[verletzt]], sondern [[zudem]] das [[Vertrauen]] `zwischen` Kindern und Eltern [[zerstört]]
 
 
+*[[113-LEGO#^7|^]]* Ohne staatliche [[Unterstützung]] [[berufstätig]]er Eltern würden die Unternehmen `von` heute `unter` [[akut]]em [[Fachkräftemangel]] [[leiden]], und [[zudem]] wäre die demografische [[Zukunft]] des Landes [[ernsthaft]] [[gefährdet]]
+
 
 ---
 

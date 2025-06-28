@@ -6,6 +6,7 @@
 *[[114-LEGO#^10|^]]* Auf diese [[Weise]] würde Carsharing nicht nur eine [[Notlösung]] [[darstellen]], sondern zu einem [[integral]]en [[Bestandteil]] [[nachhaltig]]er [[Verkehrssystem]]e werden
 
 
+*[[211-LEGO#^2|^]]* Ich habe vollstes Verständnis `dafür`, dass jede [[Abwesenheit]] `unter` `den` [[aktuell]]en [[Bedingung]]en `des` [[Personalmangel]]s und `des` hohen [[Arbeitsdruck]]s eine [[Herausforderung]] [[darstellt]]
 
 
 

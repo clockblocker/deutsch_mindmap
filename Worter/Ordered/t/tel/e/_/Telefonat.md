@@ -3,10 +3,8 @@
 ----
 ---
 
-*[[214-LEGO#^6|^]]* Sollten Sie [[Interesse]] haben, schlage ich vor, dass wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]]
+*[[214-LEGO#^6|^]]* Sollten Sie Interesse haben, schlage ich gern ein kurzes [[Telefonat]] vor, dem ein persönliches [[Gespräch]] [[folgen]] kann
 
-
----
 
 
 ---

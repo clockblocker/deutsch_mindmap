@@ -6,6 +6,7 @@
 *[[111-LEGO#^11|^]]* Allerdings – [[gerade]] `weil` dieses [[Problem]] so [[bekannt]] ist – wurden [[zahlreiche]] [[Methode]]n [[entwickelt]], die `in` [[thematisch]]en [[Foren]] [[offen]] [[zugänglich]] sind
 
 
+*[[211-LEGO#^5|^]]* `Am` Ende des [[Programm]]s könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], `sondern` `auch` ein [[wertvoll]]es [[Alumni]]-Netzwerk [[mitbringen]] – [[wodurch]] dem Unternehmen neue [[potenziell]]e Kunden und Partner [[zugänglich]] wären
 
 
 

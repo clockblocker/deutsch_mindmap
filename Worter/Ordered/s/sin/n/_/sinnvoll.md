@@ -3,7 +3,7 @@
 ---
 ---
 
-_[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
+*[[215-LEGO#^6|^]]* `Um` [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] `mit` [[zuverlässig]]eren [[Transportunternehmen]] [[abzuschließen]]. [[Darüber hinaus]] wäre es [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] alternative Routen `bei` möglichen [[Verkehrsproblemen]] [[einzuplanen]]
 
 
 *[[111-LEGO#^12|^]]* Ich [[persönlich]] habe es `als` [[sinnvoll]] [[empfunden]], meinen [[Zugriff]] `auf` Twitter `auf` 30 Minuten `pro` Tag zu [[beschränken]]

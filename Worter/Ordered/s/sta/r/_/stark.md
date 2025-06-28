@@ -46,4 +46,4 @@ Adjektive: [[stark]], [[stärker]], [[stärkst]]
 - _Die_ [[stärkste.md|stärkste]] _Mutter und ein_ [[stärkster.md|stärkster]] _Sohn gaben_ [[stärkstem.md|stärkstem]] _Vater ein_ [[stärkstes.md|stärkstes]] _Geschenk_ [[stärksten.md|stärksten]] _Onkels_
 
 [[schmal]], [[erheblich]], [[beträchtlich]], [[heftig]], [[männlich]], [[muskelbepackt]], [[machtlos]], [[überwältigend]], [[drastisch]], [[stark ins Gewicht fallen]]
-, [[überzeugend]]
+, [[überzeugend]], [[wirkungsvoll]]

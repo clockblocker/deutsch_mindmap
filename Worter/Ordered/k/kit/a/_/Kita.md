@@ -33,4 +33,4 @@ Dative: der [[Kita]], den [[Kitas]]
 [[kitapflichtig]], [[Kita-Platz]], [[Kita-Kind]], [[Kita-Träger]], [[begeistert]]
 
 
-#Feminin 
+#Feminin , [[Kindertagesbetreuung]]

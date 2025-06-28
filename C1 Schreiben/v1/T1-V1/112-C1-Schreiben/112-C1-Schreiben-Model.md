@@ -1,4 +1,4 @@
-  [[C1-Schreiben-Root|Back to Root]]
+  [[C1-Schreiben-Root|Back to Root]] | [[112-LEGO]] 
 
 [[112-C1-Schreiben-Drills|Drills]]
 [[112-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
@@ -20,18 +20,37 @@ Schreiben Sie circa 230 Wörter.
 
 ![[0112.mp3]]
 
+*Liebe Forumsteilnehmende,*
+
+*seit Langem verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich so sehr angesprochen, dass ich mich gern an der Diskussion beteiligen möchte.* 
+
 In den vergangenen zehn Jahren wurden in nahezu jedem Sommer neue Temperaturrekorde verzeichnet; mittlerweile ist die Zahl der Hitzewellen und Waldbrände deutlich gestiegen. Aus diesem Grund steht das Thema Klimaschutz im Mittelpunkt öffentlicher Diskussionen.
 
-Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es zahlreiche persönliche Maßnahmen zum Schutz der Umwelt gibt. Man kann zum Beispiel das Fahrrad statt des Autos als Verkehrsmittel nutzen oder Kleidung in Second-Hand-Läden kaufen, anstatt ständig neue Sachen bei Fast-Fashion-Anbietern oder in modischen Boutiquen zu erwerben.
+Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es zahlreiche persönliche Maßnahmen zum Schutz der Umwelt gibt. Man kann zum Beispiel statt mit dem Auto lieber mit dem Fahrrad fahren nutzen, oder die eigene Ernährung auf regionale und saisonale Obst- und Gemüsesorten ausrichten, anstatt auf verpackte Fertigprodukte zu setzen.
 
 Auf der anderen Seite sind viele Kritiker:innen der festen Überzeugung, dass die Umsetzung solcher klimafreundlichen Handlungen im Alltag leichter gesagt als getan ist. Nicht nur würde die alltägliche Mobilität ohne Autos erheblich erschwert, sondern auch die Lebenshaltungskosten würden durch sogenannte „Grünsteuern“ steigen – etwa in Form höherer Energiepreise, kostspieliger recycelbarer Verpackungen oder teurer Bio-Lebensmittel.
 
-Meiner Meinung nach ist das Wichtigste, was jeder Einzelne zum Klimaschutz beitragen kann, die Teilnahme an Wahlen. Denn ohne einen gut ausgebauten ÖPNV, gepaart mit verbreiterten Geh- und Radwegen, ist es wenig sinnvoll, von den Bürger:innen den [[Verzicht]] auf Autos zu erwarten. Außerdem kann staatliche Regulierung Unternehmen beim Umstieg auf recycelbare Verpackungsmaterialien durch Fördermittel und steuerliche Anreize unterstützen. 
+Meiner Meinung nach muss neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen. Deshalb halte ich die Teilnahme an Wahlen für die wirkungsvollste Möglichkeit, wie Einzelne zum Klimaschutz beitragen können. 
 
-Abschließend lässt sich sagen, dass neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden muss, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen.
+Nur wenn der ÖPNV und Radwege gut ausgebaut sind, haben Bürger:innen überhaupt eine echte Alternative zum Pkw. Und nur wenn Unternehmen durch Fördermittel und steuerliche Anreize unterstützt werden, sind sowohl der Umstieg auf recycelbare Verpackungen als auch eine preiswerte nachhaltige Lebensmittelproduktion praktisch umsetzbar. Ob solche Regulierungen eingeführt werden, hängt letztlich von den politischen Entscheidungen der Wähler:innen ab.
+
+*Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eure anregende Diskussion*
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+#### Legacy 
 
 
 ----

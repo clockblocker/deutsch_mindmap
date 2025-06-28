@@ -6,6 +6,9 @@
 *[[215-LEGO#^2|^]]* Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] `durch` Sie und Ihr Team
 
 
+*[[113-LEGO#^6|^]]* Allerdings kann die [[Gesellschaft]] nicht allein `auf` [[Entscheidung]]en privater Unternehmen – und das `nur` `in` [[ausgewählten]] Branchen – [[setzen]]
+
+
 ---
 
 

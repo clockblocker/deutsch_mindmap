@@ -1,14 +1,16 @@
 🌞 [[Ausflug]], [ˈaʊ̯sfluːk]
 
 ---
-
 ---
 
 _[[215-LEGO#^2|^]]_ Besonders [[gefielen]] mir die [[sorgfältig]] [[ausgewählten]] [[Ausflüge]] und die freundliche [[Betreuung]] `durch` Sie und Ihr Team
 
+
 _[[215-LEGO#^4|^]]_ [[Infolgedessen]] haben wir drei [[Ausflüge]] [[verpasst]] und waren [[sogar]] einmal [[gezwungen]], in einem [[Hostel]] [[statt]] `im` [[vereinbarten]] 5-Sterne-Hotel zu [[übernachten]]
 
-_[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
+
+*[[215-LEGO#^6|^]]* `Um` [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] `mit` [[zuverlässig]]eren [[Transportunternehmen]] [[abzuschließen]]. [[Darüber hinaus]] wäre es [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] alternative Routen `bei` möglichen [[Verkehrsproblemen]] [[einzuplanen]]
+
 
 ---
 

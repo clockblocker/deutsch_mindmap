@@ -22,10 +22,10 @@ seit einiger Zeit verfolge ich eure Beiträge im Forum mit großem Interesse. Da
 ---
 
 
-*[[100-LEGO#^2|^]]* Soweit meine [[Überlegung]]en `zu` diesem Thema. Ich bin gespannt `auf` eure Meinungen und freue mich `auf` eure [[anregend]]e Diskussion^2
+*[[100-LEGO#^2|^]]* Soweit meine [[Überlegung]]en `zu` diesem Thema. Ich bin gespannt `auf` eure Meinungen und freue mich `auf` eine [[anregen]]de Diskussion ^2
 
 
-Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eure anregende Diskussion
+Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eine anregende Diskussion
 
 ![[ElevenLabs_2025-06-24T02_31_13_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 

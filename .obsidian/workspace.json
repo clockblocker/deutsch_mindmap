@@ -6,52 +6,38 @@
       {
         "id": "d3214be780ec37ba",
         "type": "tabs",
-        "dimension": 73.00884955752213,
+        "dimension": 58.25049701789264,
         "children": [
           {
-            "id": "1daa555d7239adf0",
+            "id": "1ce3bddb8629faee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/liegt auf der Hand.md",
+                "file": "C1 Schreiben/v1/T1-V1/114-C1-Schreiben/114-C1-Schreiben-Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "liegt auf der Hand"
+              "title": "114-C1-Schreiben-Model"
             }
           },
           {
-            "id": "19da31127ae5066f",
+            "id": "feb236e983bd551d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worter/vorgeschlagenen.md",
+                "file": "C1 Schreiben/Teil 1/Texte/103-C1-Schreiben-T1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vorgeschlagenen"
+              "title": "103-C1-Schreiben-T1"
             }
           },
           {
-            "id": "07c0aff349b1241b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/C1-Schreiben-Root.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "C1-Schreiben-Root"
-            }
-          },
-          {
-            "id": "b7b1102234458b76",
+            "id": "165adc9216f9e4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,16 +50,43 @@
               "title": "C1-Schreiben-Root"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "9f31562e74d8a9ae",
+        "id": "df1b1ccef985eac8",
         "type": "tabs",
-        "dimension": 26.991150442477874,
+        "dimension": 41.74950298210736,
         "children": [
           {
-            "id": "db4e04c1c241116c",
+            "id": "73ab330492f59682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/v1/T1-V1/112-C1-Schreiben/112-C1-Schreiben-Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "112-C1-Schreiben-Model"
+            }
+          },
+          {
+            "id": "aea702b585efac6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-010.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bro-schrieben-c1-t1-010"
+            }
+          },
+          {
+            "id": "57d4478f14370c5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,20 +97,6 @@
               },
               "icon": "lucide-file",
               "title": "111-C1-Schreiben-Model"
-            }
-          },
-          {
-            "id": "21f6fa0911bb3d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C1 Schreiben/Teil 1/Texte/bro-s/bro-schrieben-c1-t1-015.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bro-schrieben-c1-t1-015"
             }
           }
         ]
@@ -153,7 +152,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,42 +266,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7b1102234458b76",
+  "active": "1ce3bddb8629faee",
   "lastOpenFiles": [
-    "C1 Schreiben/v1/T1-V1/111-C1-Schreiben/111-C1-Schreiben-Model.md",
-    "Anhänge/0111.mp3",
-    "Worter/0111.mp3.md",
-    "C1 Schreiben/C1-Schreiben-Root.md",
     "C1 Schreiben/v1/T1-V1/112-C1-Schreiben/112-C1-Schreiben-Model.md",
+    "C1 Schreiben/v1/T1-V1/114-C1-Schreiben/114-C1-Schreiben-Model.md",
+    "C1 Schreiben/C1-Schreiben-Root.md",
+    "C1 Schreiben/v1/T1-V1/111-C1-Schreiben/111-C1-Schreiben-Model.md",
+    "C1 Schreiben/v1/T1-V1/113-C1-Schreiben/113-C1-Schreiben-Model.md",
+    "C1 Schreiben/v1/V1-Lego/113-LEGO.md",
     "C1 Schreiben/v1/V1-Lego/111-LEGO.md",
-    "Worter/Ordered/e/emp/f/_/Empfehlungsalgorithmus.md",
-    "Worter/Ordered/e/emp/f/_/Empfehlungsalgorithmen.md",
-    "Worter/Ordered/h/hil/f/_/hilfreich.md",
-    "Worter/Ordered/a/ans/c/_/anschauen.md",
-    "Worter/Ordered/a/anz/u/_/anzuschauen.md",
-    "Worter/Ordered/h/her/u/_/herunterladen.md",
-    "Worter/Ordered/h/her/u/_/heruntergeladene.md",
-    "Anhänge/ElevenLabs_2025-06-24T03_23_47_Mila_pvc_sp100_s50_sb75_v3.mp3",
-    "Worter/Ordered/h/hal/t/_/halten.md",
-    "Worter/vorgeschlagenen.md",
-    "Worter/sozialmedienfrei.md",
-    "Worter/Ordered/v/vol/l/_/vollständig.md",
-    "Worter/Ordered/e/erw/e/_/erweisen.md",
-    "Worter/Ordered/e/erw/i/_/erwiesen.md",
-    "Anhänge/ElevenLabs_2025-06-24T03_22_17_Mila_pvc_sp100_s50_sb75_v3.mp3",
-    "Worter/Ordered/a/aus/p/_/ausprobieren.md",
-    "Worter/Ordered/a/aus/p/_/ausprobiert.md",
-    "Worter/liegt auf der Hand.md",
-    "Worter/Ordered/b/bes/c/_/beschränken.md",
-    "Worter/Ordered/r/rat/s/_/Ratschlag.md",
-    "Worter/Ordered/e/emp/f/_/empfinden.md",
-    "Worter/Ordered/e/emp/f/_/empfand.md",
-    "Anhänge/ElevenLabs_2025-06-24T03_20_09_Mila_pvc_sp100_s50_sb75_v3.mp3",
-    "Anhänge/ElevenLabs_2025-06-24T03_17_58_Mila_pvc_sp100_s50_sb75_v3.mp3",
-    "Anhänge/ElevenLabs_2025-06-24T03_12_25_Mila_pvc_sp100_s50_sb75_v3.mp3",
-    "Anhänge/ElevenLabs_2025-06-24T03_10_09_Mila_pvc_sp100_s50_sb75_v3.mp3",
-    "Anhänge/ElevenLabs_2025-06-24T03_08_53_Mila_pvc_sp100_s50_sb75_v3.mp3",
-    "Anhänge/ElevenLabs_2025-06-24T03_06_15_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/0113.mp3",
+    "Worter/Ordered/b/ber/u/_/berufstätig.md",
+    "Worter/Ordered/a/aus/g/_/ausgewogen.md",
+    "Worter/Ordered/u/unu/n/_/ununterbrochen.md",
+    "Worter/Ordered/u/unu/n/_/ununterbrochene.md",
+    "Worter/Ordered/d/dad/u/_/dadurch.md",
+    "Worter/Ordered/d/dru/c/_/Druck.md",
+    "Worter/beiträgt.md",
+    "Worter/Ordered/b/bei/t/_/beitragen.md",
+    "Worter/Ordered/k/kon/z/_/konzentriert.md",
+    "Worter/Kindertagesbetreuung.md",
+    "Worter/Ordered/k/kin/d/Kindertagesbetreuungen.md",
+    "Worter/Ordered/t/tag/e/Tagesbetreuung.md",
+    "Worter/Ordered/b/ber/e/_/Bereich.md",
+    "Worter/Ordered/a/ang/e/_/Angebot.md",
+    "Worter/Ordered/a/aus/w/_/Ausweitung.md",
+    "Worter/Ordered/s/sta/a/_/Staat.md",
+    "Worter/Ordered/e/ein/h/_/Einheitspartei.md",
+    "Worter/Ordered/e/ent/s/_/entscheiden.md",
+    "Worter/Ordered/e/elt/e/_/Elternschaft.md",
+    "Anhänge/0215.mp3",
+    "Worter/Ordered/e/eva/_",
+    "Worter/Ordered/a/ada/m",
+    "Worter/Ordered/k/kai/n",
+    "Anhänge/ElevenLabs_2025-06-27T05_22_24_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/ElevenLabs_2025-06-27T05_21_51_Mila_pvc_sp100_s50_sb75_v3.mp3",
+    "Anhänge/0214.mp3",
+    "Anhänge/ElevenLabs_2025-06-27T04_50_45_Mila_pvc_sp100_s50_sb75_v3.mp3",
     "Anhänge/Pasted image 20250624014532.png",
     "Anhänge/Pasted image 20250611033834.png",
     "Anhänge/Pasted image 20250610161356.png",

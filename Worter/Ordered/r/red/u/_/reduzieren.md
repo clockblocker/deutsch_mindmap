@@ -50,4 +50,4 @@ sie, [[reduzieren]], [[reduzierten]], [[reduzieren]], [[reduzierten]], [[reduzie
 Adjektive: [[reduzierend]], [[reduzierender]], [[reduzierendst]]
 
 ---
-[[reduzierender]], [[reduzierendes]], [[reduzierende]], [[reduzierenden]], [[reduzierendem]], [[reduzierenderer]], [[reduzierenderes]], [[reduzierendere]], [[reduzierenderen]], [[reduzierenderem]], [[reduzierendster]], [[reduzierendstes]], [[reduzierendste]], [[reduzierendsten]], [[reduzierendstem]], [[verlangsamen]], [[verstärken]], [[vermehren]], [[ausbauen]], [[hochtreiben]], [[Abspecken]], [[rabattieren]], [[nachlassen]], [[vereinfachen]]
+[[reduzierender]], [[reduzierendes]], [[reduzierende]], [[reduzierenden]], [[reduzierendem]], [[reduzierenderer]], [[reduzierenderes]], [[reduzierendere]], [[reduzierenderen]], [[reduzierenderem]], [[reduzierendster]], [[reduzierendstes]], [[reduzierendste]], [[reduzierendsten]], [[reduzierendstem]], [[verlangsamen]], [[verstärken]], [[vermehren]], [[ausbauen]], [[hochtreiben]], [[Abspecken]], [[rabattieren]], [[nachlassen]], [[vereinfachen]], [[vergünstigen]]

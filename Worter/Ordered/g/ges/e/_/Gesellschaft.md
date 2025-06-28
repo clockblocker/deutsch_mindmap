@@ -1,5 +1,12 @@
 die [[Gesellschaft]], [gəˈzɛlʃaft]
-die [[Gesellschaften]]
+
+---
+---
+
+*[[113-LEGO#^6|^]]* Allerdings kann die [[Gesellschaft]] nicht allein `auf` [[Entscheidung]]en privater Unternehmen – und das `nur` `in` [[ausgewählten]] Branchen – [[setzen]]
+
+
+
 
 ---
 *[[bro-schrieben-c1-t1-004#^8|^]]* Ein wichtiges Argument gegen eine immer älter [[werdende]] [[Gesellschaft]] ist, dass [[infolge]] [[steigen]]der [[Bevölkerungszahlen]] ein [[Mangel]] an [[Naturressourcen]] wie Wasser und Lebensmitteln entstehen könnte

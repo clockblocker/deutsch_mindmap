@@ -11,7 +11,7 @@
 
 *[[bro-schrieben-c1-t1-001#^2|^]]* Der wichtigste Grund für die [[Einnahme]] eines [[Dopingmittel]]s ist, die [[Leistungsfähigkeit]] zu erhöhen und die [[Grenze]] des menschlichen Organismus zu [[erweitern]]. ^2
 
-Dazu kommt auch, dass manche [[Art]]en von Doping die [[Erholungszeit]] [[positiv]] [[beeinflussen]] können.
+Dazu kommt auch, dass [[manche]] [[Art]]en von Doping die [[Erholungszeit]] [[positiv]] [[beeinflussen]] können.
 
 *[[bro-schrieben-c1-t1-001#^3|^]]* Es [[bestehen]] [[zahlreiche]] [[Beispiel]]e, die [[Vorteil]]e der [[Einnahme]] [[künstlicher]] [[Wirkstoff]]e [[beweisen]]. ^3
 

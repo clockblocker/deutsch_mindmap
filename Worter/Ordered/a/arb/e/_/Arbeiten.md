@@ -72,4 +72,4 @@ Adjektive: [[arbeitend]], [[arbeitender]], [[arbeitendst]]
 [[lauben]], [[Arbeitsgericht]], [[Arbeitsplatz]], [[Arbeitsverhältnis]], [[Arbeitswelt]], [[Schwarzarbeiter]], [[Schichtarbeiter]], [[arbeitsunfähig]], [[Zwangsarbeit]], [[schlafen]], [[Arbeit]], [[Arbeitsbedingungen]]
 , [[erholen]], [[bemüht]], [[bestreben]], [[verarbeiten]], [[ticken]], [[abarbeiten]], [[Arbeitsdruck]], [[Arbeitsstelle]], [[Wochenendarbeit]], [[Berufstätigkeit]], [[Arbeitszeitmodell]], [[Arbeitsprozess]], [[Bauarbeiter]], [[ausarbeiten]], [[Ausarbeitung]], [[Außendienstmitarbeiter]], [[Arbeitsbelastung]], [[Arbeitsraum]], [[spicken]], [[Erdarbeit]], [[Arbeitskraft]], [[Arbeitszeit]]
 
-#Neuter , [[Arbeitsaufgabe]], [[Arbeitsweg]]
+#Neuter , [[Arbeitsaufgabe]], [[Arbeitsweg]], [[hinarbeiten]]

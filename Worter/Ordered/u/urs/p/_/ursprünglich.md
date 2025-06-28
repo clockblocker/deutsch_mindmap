@@ -30,4 +30,4 @@ P: [[ursprünglichen]], [[ursprünglicheren]], [[ursprünglichsten]]
 
 ---
 [[Ursprung]], [[ursprünglich]], [[Urkunde]], [[Urtext]], [[Urschrift]]
-, [[allererst]], [[vorher]], [[angeboren]], [[von vornherein]], [[roh]], [[urig]]
+, [[allererst]], [[vorher]], [[angeboren]], [[von vornherein]], [[roh]], [[urig]], [[letztlich]]

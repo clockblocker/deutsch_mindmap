@@ -1,9 +1,10 @@
-🔴 die [[Herausforderung]]
+die [[Herausforderung]]
 
 ---
 ---
 
-*[[113-LEGO#^1|^]]* In vielen [[Industrieländern]] [[stehen]] Eltern `vor` der [[Herausforderung]], [[Beruf]] und [[Familie]] [[miteinander]] zu [[vereinbaren]]
+*[[211-LEGO#^2|^]]* Ich habe vollstes Verständnis `dafür`, dass jede [[Abwesenheit]] `unter` `den` [[aktuell]]en [[Bedingung]]en `des` [[Personalmangel]]s und `des` hohen [[Arbeitsdruck]]s eine [[Herausforderung]] [[darstellt]] 
+
 
 
 ---

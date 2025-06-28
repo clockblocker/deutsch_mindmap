@@ -1,6 +1,19 @@
 📬[[erhalten]] + Akk, [ɛɐ̯ˈhaltən] | [[Erhaltung]]
 
 ---
+---
+
+*[[211-LEGO#^3|^]]* Allerdings habe ich zwei Jahre `darauf` [[hingearbeitet]], einen Platz `im` [[Programm]] zu [[erhalten]]
+
+
+*[[113-LEGO#^8|^]]* Ein solches [[Unterstützungsmodell]] bietet mein Heimatland Russland: Dort [[erhalten]] [[erwerbstätig]]e Mütter [[einjährig]]en bezahlten [[Mutterschaftsurlaub]] [[sowie]] eine dreijährige [[Arbeitsplatzgarantie]]
+
+
+*[[113-LEGO#^9|^]]* Zusätzlich [[erhalten]] sie `für` jedes [[neugeboren]]e Kind einen staatlichen [[Förderbetrag]], der `zur` [[Entlastung]] `vom` finanziellen [[Druck]] [[beiträgt]]
+
+
+
+---
 Du [[erhältst]] morgen ein Geschenk.
 
 Beethovens Zehnte Symphonie ist in weitgehend unleserlichen Manuskripten des Komponisten [[erhalten]]

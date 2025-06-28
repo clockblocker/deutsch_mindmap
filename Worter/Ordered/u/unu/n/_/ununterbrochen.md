@@ -4,8 +4,7 @@
 ---
 ---
 
-*[[113-LEGO#^10|^]]* [[Abgesehen]] `von` [[direkt]]er [[finanziell]]er [[Unterstützung]] ist es [[aus meiner Sicht]] [[vor allem]] [[wichtig]], Eltern [[verlässlich]]e [[Zeitfenster]] `für` [[ununterbrochen]]es [[Arbeiten]] zu [[verschaffen]]
-
+*[[113-LEGO#^12|^]]* [[Dadurch]] hätten Eltern die Zeit `für` [[ununterbrochene]] Arbeit – `ohne` die ein [[ausgewogen]]er [[Lebensstil]] `mit` Kindern `für` [[Berufstätig]]e kaum realisierbar ist
 
 
 

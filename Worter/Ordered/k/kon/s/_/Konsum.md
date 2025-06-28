@@ -26,4 +26,4 @@ G: des [[Konsums]], der [[Konsume]]
 D: dem [[Konsum]], den [[Konsumen]]
 
 #Maskulin 
-, [[Verschwendungsgesellschaft]], [[Kaufverhalten]], [[Konsumwelt]], [[Konsumforschung]], [[Konsumartikel]], [[Konsummarkt]], [[Aufmerksamkeitsökonomie]]
+, [[Verschwendungsgesellschaft]], [[Kaufverhalten]], [[Konsumwelt]], [[Konsumforschung]], [[Konsumartikel]], [[Konsummarkt]], [[Aufmerksamkeitsökonomie]], [[Lebensmittelproduktion]]

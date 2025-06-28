@@ -42,3 +42,19 @@ G: der [[Stadt]], der [[Städte]]
 D: der [[Stadt]], den [[Städten]]
 
 #Feminin , [[Bingen]], [[Ballungszentrum]], [[Durchschnittsgemeinde]], [[Verstädterung]]
+
+vielen Dank für Ihre Anfrage vom 23.06.25.  
+  
+Wir können Ihnen eine Prüfungseinsicht anbieten.  
+Bei der Einsicht werden Sie über die Bewertungen und Punktzahlen bei den verschiedenen Aufgaben informiert, die Aufgabenblätter und Musterlösungen werden nicht gezeigt. Es werden auch nicht alle Fehler besprochen. Das Gespräch wird ca. 10-15 Minuten dauern. Bitte geben Sie Bescheid, ob Sie eine Prüfungseinsicht wünschen. Wir melden uns dann mit Terminvorschlägen bei Ihnen.  
+  
+Bei weiteren Fragen können Sie uns gerne jederzeit kontaktieren.
+
+Thank you for your inquiry from June 23, 2025.
+
+We can offer you an inspection of your exam.
+
+During the inspection, you will be informed about the assessments and scores for the various tasks; the task sheets and sample solutions will not be shown. Not all errors will be discussed either. The conversation will last approximately 10-15 minutes. Please let us know if you would like to inspect your exam. We will then contact you with appointment suggestions.
+
+If you have any further questions, please do not hesitate to contact us.
+

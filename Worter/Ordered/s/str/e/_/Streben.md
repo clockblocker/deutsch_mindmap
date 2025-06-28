@@ -70,4 +70,4 @@ G: des [[Strebens]], der [[Streben]]
 D: dem [[Streben]], den [[Streben]]
 
 
-#Neuter , [[gieren]], [[ansterben]]
+#Neuter , [[gieren]], [[ansterben]], [[hinarbeiten]]

@@ -2,7 +2,16 @@
 ⚖️ [[ausgewogen]], [ˈaʊ̯sɡəˌvoːɡn̩](https://youglish.com/pronounce/ausgewogen/german)
 
 ---
+---
+
+*[[113-LEGO#^12|^]]* [[Dadurch]] hätten Eltern die Zeit `für` [[ununterbrochene]] Arbeit – `ohne` die ein [[ausgewogen]]er [[Lebensstil]] `mit` Kindern `für` [[Berufstätig]]e kaum realisierbar ist
+
+
 *[[101-C1-Schreiben-T1#^9|^]]* [[Angesichts]] dieser [[Risiken]] stellt sich die [[Frage]], wie man einen [[ausgewogenen]] [[Lebensstil]] mit sozialen Medien im [[Alltag]] [[erreichen]] kann
+
+
+
+---
 
 Die Autorin ist um eine [[ausgewogene]] Darstellung ihres Themas [[bemüht]]
 

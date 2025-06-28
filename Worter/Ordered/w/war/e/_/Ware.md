@@ -38,4 +38,4 @@ G: der [[Ware]], der [[Waren]]
 D: der [[Ware]], den [[Waren]]
 
 
-#Feminin , [[Billigprodukt]], [[Warenkorb]], [[Konsumartikel]], [[Päckchen]]
+#Feminin , [[Billigprodukt]], [[Warenkorb]], [[Konsumartikel]], [[Päckchen]], [[Fertigprodukt]]

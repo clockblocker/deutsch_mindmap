@@ -1,6 +1,14 @@
 👌 [[ausreichen]], [ˈaʊ̯sˌʁaɪ̯çən] | [[reichte aus]], haben [[ausgereicht]]
 
 ---
+---
+
+*[[113-LEGO#^10|^]]* Doch selbst das [[reicht aus|reicht]] oft nicht aus: Der [[Mangel]] `an` Kitaplätzen, gepaart `mit` [[weit]] [[entfernt]]en Schulen, [[zwingt]] viele russische Eltern `dazu`, `sich` zwischen Karriere und Elternschaft [[entscheiden]] zu müssen
+
+
+
+
+---
 Doch selbst das [[reicht aus|reicht]] nicht aus. Die Bücher [[überquellen|quellen]] über, belegen Tische, Sofas und bilden kleine [[Stapel]] unter den Fenstern
 
 Umweltorganisationen sind allerdings der Meinung, dass die bis heute 

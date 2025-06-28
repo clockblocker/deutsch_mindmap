@@ -20,3 +20,24 @@ Die Katze überlegte [[noch]], wie sie das anstellen sollte
 Habt ihr das verstanden [[oder noch einmal]]?
 
 #adverb “still” or “yet,”, [[11 08]], [[durch]], [[bald]], [[selbst]], [[dennoch]], [[weder]], [[sowohl]], [[weiterhin]]
+
+⏳ [[noch]], [nɔx](https://youglish.com/pronounce/noch/german)
+
+---
+SASCHA: Mmh … „Hallo! [[Kennst]] du mich [[noch]]?“
+
+---
+= [[weiterhin]], [[immer noch]], [[zusätzlich]]
+≈ [[außerdem]], [[ferner]], [[darüber hinaus]]
+≠ [[nicht mehr]], [[nie]]
+
+---
+still, yet, more  
+ещё
+
+---
+[[nochmals]], [[noch dazu]], [[noch immer]]
+
+---
+[[noch]]
+

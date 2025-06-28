@@ -18,13 +18,13 @@ Sie haben soeben eine zweiwöchige Gruppenreise mit dem Veranstalter SunTravel T
 
 Sehr geehrte Frau König,
 
-zunächst möchte ich mich dafür bedanken, dass Sie unsere Gruppenreise so kompetent begleitet haben. Besonders gefielen mir die sorgfältig ausgewählten Ausflüge und die freundliche Betreuung durch Sie und Ihr Team.
+zunächst möchte ich mich herzlich dafür bedanken, dass Sie unsere Gruppenreise so kompetent begleitet haben. Besonders gefielen mir die sorgfältig ausgewählten Ausflüge und die freundliche Betreuung durch Sie und Ihr Team.
 
-Allerdings kam es mehrfach zu Verspätungen bei den Busfahrten. Infolgedessen haben wir drei Ausflüge verpasst und waren sogar einmal gezwungen, in einem Hostel statt im vereinbarten 5-Sterne-Hotel zu übernachten.
+Leider kam es jedoch mehrfach zu Verspätungen bei den Busfahrten. Infolgedessen konnten wir drei Ausflüge nicht wahrnehmen und waren sogar einmal gezwungen, statt im vereinbarten Fünf-Sterne-Hotel in einem Hostel zu übernachten.
 
 Daher möchte ich höflich anfragen, ob eine Entschädigung für die entstandenen Unannehmlichkeiten in Betracht gezogen werden könnte.
 
-Um ähnliche Probleme künftig zu vermeiden, schlage ich vor, Verträge mit zuverlässigen Transportunternehmen abzuschließen. Zusätzlich halte ich es für sinnvoll, für Ausflüge vorsorglich alternative Routen bei möglichen Verkehrsproblemen zu planen.
+Um ähnliche Probleme künftig zu vermeiden, schlage ich vor, Verträge mit zuverlässigeren Transportunternehmen abzuschließen. Darüber hinaus wäre es sinnvoll, für Ausflüge vorsorglich alternative Routen bei möglichen Verkehrsproblemen einzuplanen.
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 

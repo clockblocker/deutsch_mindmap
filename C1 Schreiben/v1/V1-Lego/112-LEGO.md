@@ -1,8 +1,23 @@
-[[C1-Schreiben-Root]]
+ [[C1-Schreiben-Root]] |  [[112-C1-Schreiben-Model|112-Text]]  
 
 ---
 ---
 ---
+
+
+*[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
+`seit` einiger Zeit verfolge ich eure Beiträge `im` Forum `mit` großem Interesse. Das letzte Thema hat mich besonders [[angesprochen]], `sodass` ich `mich` gern an der [[Diskussion]] [[beteiligen]] möchte.^1
+
+
+Liebe Forumsteilnehmende,
+
+seit einiger Zeit verfolge ich eure Beiträge im Forum mit großem Interesse. Das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte.
+
+![[ElevenLabs_2025-06-24T00_24_47_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+---
+
 
 *[[112-LEGO#^1|^]]* In den [[vergangen]]en zehn Jahren wurden in [[nahezu]] jedem Sommer neue [[Temperaturrekord]]e [[verzeichnet]]; [[mittlerweile]] ist die [[Zahl]] der [[Hitzewelle]]n und [[Waldbrände]] [[deutlich]] [[gestiegen]]. ^1
 
@@ -10,7 +25,6 @@
 In den vergangenen zehn Jahren wurden in nahezu jedem Sommer neue Temperaturrekorde verzeichnet; mittlerweile ist die Zahl der Hitzewellen und Waldbrände deutlich gestiegen.
 
 ![[ElevenLabs_2025-06-13T06_45_15_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
 
 
 
@@ -40,21 +54,15 @@ Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es zahlr
 ![[ElevenLabs_2025-06-13T06_45_58_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
-
-
-
 ---
 ---
 
-*[[112-LEGO#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] [[statt]] des [[Auto]]s als [[Verkehrsmittel]] [[nutzen]] `oder` [[Kleidung]] in Second-Hand-[[Läden]] [[kaufen]], [[anstatt]] [[ständig]] neue [[Sache]]n `bei` Fast-Fashion-[[Anbieter]]n `oder` `in` [[modisch]]en [[Boutique]]n zu [[erwerben]]. ^4
+ *[[112-LEGO#^11|^]]* Man kann zum Beispiel `statt` `mit` dem Auto [[lieber]] `mit` dem Fahrrad fahren nutzen, oder die [[eigene]] [[Ernährung]] `auf` [[regional]]e und [[saisonal]]e Obst- und Gemüsesorten [[ausrichten]], `anstatt` `auf` [[verpackt]]e [[Fertigprodukt]]e zu setzen ^11
 
 
-Man kann zum Beispiel das Fahrrad statt des Autos als Verkehrsmittel nutzen oder Kleidung in Second-Hand-Läden kaufen, anstatt ständig neue Sachen bei Fast-Fashion-Anbietern oder in modischen Boutiquen zu erwerben.
-
-![[ElevenLabs_2025-06-13T06_46_28_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
-
+ Man kann zum Beispiel statt mit dem Auto lieber mit dem Fahrrad fahren nutzen, oder die eigene Ernährung auf regionale und saisonale Obst- und Gemüsesorten ausrichten, anstatt auf verpackte Fertigprodukte zu setzen
+ 
+![[ElevenLabs_2025-06-24T04_30_20_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 ---
@@ -83,10 +91,86 @@ Nicht nur würde die alltägliche Mobilität ohne Autos erheblich erschwert, son
 
 
 
+---
+---
+
+*[[112-LEGO#^12|^]]* Meiner Meinung nach muss `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] `auch` die Frage der [[Praktikabilität]] [[berücksichtigt]] werden, `um` [[realistisch]]e persönliche Maßnahmen gegen den Klimawandel vorzuschlagen ^12
+ 
+
+Meiner Meinung nach muss neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen
+
+![[ElevenLabs_2025-06-24T04_34_04_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 ---
 ---
+
+
+*[[112-LEGO#^13|^]]* Deshalb [[halte]] ich die [[Teilnahme]] `an` Wahlen `für` die [[wirkungsvoll]]ste [[Möglichkeit]], wie [[Einzelne]] `zum` Klimaschutz [[beitragen]] können ^13
+
+
+Deshalb halte ich die Teilnahme an Wahlen für die wirkungsvollste Möglichkeit, wie Einzelne zum Klimaschutz beitragen können. 
+
+![[ElevenLabs_2025-06-24T04_36_01_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
+
+---
+---
+
+*[[112-LEGO#^14|^]]* `Nur` `wenn` der [[ÖPNV]] und [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]] ^14
+
+
+Nur wenn der ÖPNV und Radwege gut ausgebaut sind, haben Bürger:innen überhaupt eine echte Alternative zum Pkw
+
+![[ElevenLabs_2025-06-24T04_41_26_Mila_pvc_sp100_s50_sb75_v3 copy.mp3]]
+
+
+---
+---
+
+*[[112-LEGO#^15|^]]* Und `nur` `wenn` Unternehmen `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützt]] werden, sind `sowohl` der [[Umstieg]] `auf` [[recycelbar]]e [[Verpackung]]en `als auch` eine [[preiswert]]e [[nachhaltig]]e [[Lebensmittelproduktion]] praktisch [[umsetzbar]] ^15
+
+
+Und nur wenn Unternehmen durch Fördermittel und steuerliche Anreize unterstützt werden, sind sowohl der Umstieg auf recycelbare Verpackungen als auch eine preiswerte nachhaltige Lebensmittelproduktion praktisch umsetzbar. 
+
+![[ElevenLabs_2025-06-24T04_45_02_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+---
+
+*[[112-LEGO#^16|^]]* Ob solche [[Regulierung]]en [[eingeführt]] werden, [[hängt ab|hängt]] letztlich von den politischen Entscheidungen der Wähler:innen ab ^16
+
+
+Ob solche Regulierungen eingeführt werden, hängt letztlich von den politischen Entscheidungen der Wähler:innen ab.
+
+
+![[ElevenLabs_2025-06-24T04_45_50_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
+---
+---
+
+
+*[[100-LEGO#^2|^]]* Soweit meine [[Überlegung]]en `zu` diesem Thema. Ich bin gespannt `auf` eure Meinungen und freue mich `auf` eine [[anregend]]e Diskussion ^2
+
+
+Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eine anregende Diskussion
+
+![[ElevenLabs_2025-06-24T02_31_13_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
+
+
+
+
+
+
+
+
+
+
+#### Legacy
 
 *[[112-LEGO#^6|^]]* Meiner [[Meinung]] `nach` ist das [[Wichtig]]ste, was jeder [[Einzeln]]e zum [[Klimaschutz]] [[beitragen]] kann, die [[Teilnahme]] `an` [[Wahl]]en. ^6
 
@@ -146,3 +230,19 @@ Abschließend lässt sich sagen, dass neben den Auswirkungen auf die Umwelt auch
 
 
 
+
+
+
+---
+---
+
+*[[112-LEGO#^4|^]]* Man kann zum Beispiel das [[Fahrrad]] [[statt]] des [[Auto]]s als [[Verkehrsmittel]] [[nutzen]] `oder` [[Kleidung]] in Second-Hand-[[Läden]] [[kaufen]], [[anstatt]] [[ständig]] neue [[Sache]]n `bei` Fast-Fashion-[[Anbieter]]n `oder` `in` [[modisch]]en [[Boutique]]n zu [[erwerben]]. ^4
+
+
+Man kann zum Beispiel das Fahrrad statt des Autos als Verkehrsmittel nutzen oder Kleidung in Second-Hand-Läden kaufen, anstatt ständig neue Sachen bei Fast-Fashion-Anbietern oder in modischen Boutiquen zu erwerben.
+
+![[ElevenLabs_2025-06-13T06_46_28_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
+
+[[Stadt]]

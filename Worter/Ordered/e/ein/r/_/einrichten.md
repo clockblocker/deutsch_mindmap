@@ -4,6 +4,13 @@
 🛠️ [[einrichten]], [ˈaɪ̯nˌʁɪçtn̩] | [[richtete ein]], haben [[eingerichtet]]
 
 ---
+---
+
+*[[212-LEGO#^2|^]]* Die Kantine, `an` `deren` [[Stelle]] neue Funktionsräume [[eingerichtet]] werden würden, halte ich [[jedoch]] `für` [[unverzichtbar]], da `sich` unser Büro in einem [[Industriegebiet]] befindet, in dem es `weder` Restaurants `noch` Supermärkte gibt
+
+
+
+---
 [[Abrechnung]] [[einrichten]] 
 
 ---

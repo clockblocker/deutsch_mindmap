@@ -3,10 +3,11 @@
 ---
 ----
 
-*[[214-LEGO#^6|^]]* Sollten Sie [[Interesse]] haben, schlage ich vor, dass wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]]
+_[[215-LEGO#^4|^]]_ [[Infolgedessen]] konnten wir drei [[Ausflüge]] nicht [[wahrnehmen]] und waren [[sogar]] einmal [[gezwungen]], statt `im` [[vereinbarten]] Fünf-Sterne-Hotel in einem Hostel zu [[übernachten]]
 
 
-*[[113-LEGO#^1|^]]* In vielen [[Industrieländern]] [[stehen]] Eltern `vor` der [[Herausforderung]], [[Beruf]] und [[Familie]] [[miteinander]] zu [[vereinbaren]]
+*[[113-LEGO#^3|^]]* Weil meine Frau und ich beide `in` [[Vollzeit]] arbeiten, fragen wir uns oft, `wie` `sich` [[Elternschaft]] `mit` unserer Karriere [[vereinbaren]] `lässt` 
+
 
 
 ---
@@ -25,7 +26,7 @@
 
 „Mann, du wolltest doch [[aufräumen]]! Du das Wohnzimmer, ich die Küche – das war die [[Vereinbarung]].“
 
-_[[Text mit Reflexivpronomen#^2|^]]_ Wir treffen uns wie [[vereinbart]] in zwei Tagen in Frankfurt und fahren dann weiter nach Italien. ^2
+_[[Text mit Reflexivpronomen#^2|^]]_ Wir treffen uns wie [[vereinbart]] in zwei Tagen in Frankfurt und fahren dann weiter nach Italien
 
 ---
 

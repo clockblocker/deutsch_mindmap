@@ -1,6 +1,13 @@
 🤔 [[überhaupt]], [ˌyːbɐˈhaʊ̯pt]
 
 ---
+---
+
+*[[112-LEGO#^14|^]]* Nur wenn der [[ÖPNV]] und [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]]
+
+
+
+---
 
 Er versteht Russisch [[überhaupt]] nicht, er ist schon klein.
 

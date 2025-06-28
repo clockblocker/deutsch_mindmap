@@ -7,8 +7,10 @@
 *[[212-LEGO#^2|^]]* [[Allerdings]] finde ich die [[Kantine]], `an` deren [[Stelle]] [[künftig]] Funktionsräume [[geplant]] sind, [[unverzichtbar]], da unser Büro sich in einem [[Industriegebiet]] [[befindet]], in dem es weder Restaurants noch Supermärkte gibt
 
 
+*[[212-LEGO#^5|^]]* Sollte sich kein alternativer [[Ort]] `für` die [[geplant]]en Funktionsräume finden `lassen`, schlage ich vor, ein [[Firmenangebot]] `mit` einem [[Lieferdienst]] zu arrangieren, `um` allen [[Mitarbeitende]]n [[vergünstig]]te [[Essenslieferung]]en zu ermöglichen
 
----
+
+
 
 
 
@@ -76,4 +78,4 @@ sie, [[planen]], [[planten]], [[planen]], [[planten]], [[planen]]
 Adjektive: [[planend]], [[planender]], [[planendst]]
 
 ---
-[[planender]], [[planendes]], [[planende]], [[planenden]], [[planendem]], [[planenderer]], [[planenderes]], [[planendere]], [[planenderen]], [[planenderem]], [[planendster]], [[planendstes]], [[planendste]], [[planendsten]], [[planendstem]], [[anstreben]], [[ausdenken]], [[Bauplan]], [[voraussehen]], [[vorsehen]], [[arrangieren]]
+[[planender]], [[planendes]], [[planende]], [[planenden]], [[planendem]], [[planenderer]], [[planenderes]], [[planendere]], [[planenderen]], [[planenderem]], [[planendster]], [[planendstes]], [[planendste]], [[planendsten]], [[planendstem]], [[anstreben]], [[ausdenken]], [[Bauplan]], [[voraussehen]], [[vorsehen]], [[arrangieren]], [[einplanen]]

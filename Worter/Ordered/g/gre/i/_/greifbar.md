@@ -1,6 +1,14 @@
 🖐️ [[greifbar]], [ˈɡʁaɪ̯fbaːɐ̯](https://youglish.com/pronounce/greifbar/german)
 
 ---
+---
+
+*[[113-LEGO#^5|^]]* Dadurch haben wir – wie viele Kolleg:innen in IT, Werbung oder [[Buchhaltung]] – deutlich mehr Zeit, zu Hause mit unseren Kindern zu [[verbringen]]. Infolgedessen [[erscheint]] die [[Verbindung]] von Beruf und Familie tatsächlich [[greifbar]]
+
+
+
+
+---
 *[[C1-Lesen-T2-102-Text#^8|^]]* Sie [[auslösen|lösen]] einen [[Stoffwechselmechanismus]] aus, der auf eine andere Art und [[Weise]] das [[Traumgewicht]] in [[greifbare]] Nähe [[rücken]] kann.
 
 ---

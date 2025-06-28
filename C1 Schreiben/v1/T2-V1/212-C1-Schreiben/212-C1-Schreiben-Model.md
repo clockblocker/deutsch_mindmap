@@ -21,13 +21,13 @@ Sehr geehrte Frau Ebert,
 
 ich habe vollstes Verständnis dafür, dass geplante Funktionsräume die interne Kommunikation fördern – ein Aspekt, der im Arbeitsalltag unabdingbar ist.
 
-Allerdings finde ich die Kantine, an deren Stelle künftig Funktionsräume geplant sind, unverzichtbar, da unser Büro sich in einem Industriegebiet befindet, in dem es weder Restaurants noch Supermärkte gibt.
+Die Kantine, die zu neuen Funktionsräumen umgebaut werden würde, halte ich jedoch für unverzichtbar, da sich unser Büro in einem Industriegebiet befindet, in dem es weder Restaurants noch Supermärkte gibt.
 
 Ohne sie wäre ich persönlich gezwungen, mein Mittagessen täglich selbst zu Hause vorzubereiten – wofür mir leider die Zeit fehlt.
 
-Zusätzlich ermöglicht die Kantine allen Mitarbeitenden preiswerte warme Mahlzeiten und Erholungspausen, was sich positiv auf Arbeitsatmosphäre und Produktivität auswirkt.
+Zusätzlich ermöglicht die Kantine allen Mitarbeitenden preiswerte warme Mahlzeiten, was sich positiv auf die Arbeitsatmosphäre und die Produktivität auswirkt.
 
-Sollte die Entscheidung zur Schließung der Kantine nicht rückgängig gemacht werden können, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren. 
+Sollte sich kein alternativer Ort für die geplanten Funktionsräume finden lassen, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren, um der gesamten Belegschaft eine vergünstigte Essensversorgung zu ermöglichen. 
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 

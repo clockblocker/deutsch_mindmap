@@ -1,8 +1,16 @@
 --> [[Ingredient-Add-Remove]] <--
-
 😤 [[entfernen]], [ɛntˈfɛʁnən] | [[entfernte]], haben [[entfernt]]
 
 ---
+---
+
+*[[113-LEGO#^10|^]]* Doch selbst das [[reicht aus|reicht]] oft nicht aus: Der [[Mangel]] `an` Kitaplätzen, gepaart `mit` [[weit]] [[entfernt]]en Schulen, [[zwingt]] viele russische Eltern `dazu`, `sich` zwischen Karriere und Elternschaft [[entscheiden]] zu müssen
+
+
+
+
+
+
 *[[bro-schrieben-c1-t1-002#^4|^]]* Seit dem [[Anfang]] dieses [[Jahrtausend]]s steht Internet in allen [[weit]] [[entfernten]] [[Städten]] `zur` [[Verfügung]], was [[dazu]] [[geführt]] hat, dass Menschen aus [[verschiedenen]] Ländern bei internationalen Firmen zusammenarbeiten können
 
 *[[bro-schrieben-c1-t1-003#^5|^]]* Ein wichtiges Argument gegen den [[Umzug]] ins Ausland ist, dass ein Migrant [[weit]] [[entfernt]] von seiner Familie ist

@@ -1,2 +1,2 @@
 
-, [[Rabatt]], [[günstig]], [[Schnäppchen]], [[Steuererleichterung]]
+, [[Rabatt]], [[günstig]], [[Schnäppchen]], [[Steuererleichterung]], [[vergünstigen]]

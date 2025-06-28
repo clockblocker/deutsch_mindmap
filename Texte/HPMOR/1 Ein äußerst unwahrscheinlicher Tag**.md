@@ -36,6 +36,11 @@ Petunia biss sich auf die Lippen. „Ich kann es dir nicht einfach erzählen. Du
 
 Und ich habe sie [[angefleht]], ein bisschen Magie auf mich [[anzuwenden]], damit ich auch [[hübsch]] wäre, selbst wenn ich nicht zaubern konnte, so könnte ich wenigstens hübsch sein.“ Tränen [[sammelten]] sich in Petunias Augen.
 
+
+Sagrasa will be shmert by demter
+
+
+
 „Und Lily weigerte sich immer und dachte sich die lächerlichsten Ausreden aus; dass die Welt untergehen würde, wenn sie nett zu ihrer Schwester wäre oder dass ein Zentaur es ihr verboten hatte — die lächerlichsten Dinge und dafür hasste ich sie. Und als ich gerade meinen Abschluss hatte, ging ich mit diesem Jungen aus, Vernon Dursley, er war dick und der einzige Junge, der auf dem College mit mir sprach. Er sagte, er wolle Kinder haben und sein erster Sohn würde Dudley heißen. Und ich dachte mir, _was für Eltern nennen ihr Kind Dudley Dursley?_ Es war, als ob ich meine ganze Zukunft klar vor mir sehen würde und ich konnte es nicht ertragen. Und ich schrieb meiner Schwester und teilte ihr mit, wenn sie mir nicht helfen würde, dann würde ich einfach …“
 
 Petunia brach ab.

@@ -3,7 +3,14 @@
 ---
 ---
 
-🚨 🔵 der [[Einsatz]], [ˈaɪ̯nzats](https://youglish.com/pronounce/Einsatz/german)
+🚨 der [[Einsatz]], [ˈaɪ̯nzats](https://youglish.com/pronounce/Einsatz/german)
+
+---
+---
+
+*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] Powerbanks `in` der Bibliothek verboten sind, [erschwert] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], [[erheblich]]
+
+
 
 ---
 *[[C1-Lesen-T1-001-Text#^34|^]]* Die Metastudie [[belegt]] den [[weltweit]] (6) [[verbreiteten]] [[Einsatz]] von medizinischen Spürhunden

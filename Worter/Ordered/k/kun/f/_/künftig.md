@@ -4,11 +4,9 @@
 ---
 ---
 
-*[[216-LEGO#^8|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, die [[Klimaanlage]]n [[regelmäßig]] zu [[warten]], die WLAN-[[Stabilität]] zu [[prüfen]] und die [[Restaurantöffnungszeit]]en [[aktuell]] `auf` Ihrer [[Website]] zu [[kommunizieren]]
+*[[215-LEGO#^6|^]]* `Um` [[ähnlich]]e Probleme [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] `mit` [[zuverlässig]]eren [[Transportunternehmen]] [[abzuschließen]]. [[Darüber hinaus]] wäre es [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] alternative Routen `bei` möglichen [[Verkehrsproblemen]] [[einzuplanen]]
 
-*[[212-LEGO#^2|^]]* [[Allerdings]] finde ich die [[Kantine]], `an` `deren` [[Stelle]] [[künftig]] Funktionsräume geplant sind, [[unverzichtbar]], `da` unser Büro `sich` `in` einem [[Industriegebiet]] [[befindet]], `in` dem es `weder` Restaurants `noch` Supermärkte gibt
 
-*[[215-LEGO#^6|^]]* Um [[ähnlich]]e [[Problem]]e [[künftig]] zu [[vermeiden]], schlage ich vor, [[Verträge]] mit [[zuverlässig]]en [[Transportunternehmen]] [[abzuschließen]]
 
 
 ---

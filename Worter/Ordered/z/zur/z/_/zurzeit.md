@@ -4,7 +4,7 @@
 ---
 ---
 
-*[[214-LEGO#^3|^]]* [[Zurzeit]] studiere ich `im` zweiten [[Semester]] der Technischen Universität München
+*[[214-LEGO#^7|^]]* [[Zurzeit]] studiere ich `im` zweiten [[Semester]] Informatik `an` der Technischen Universität München. In meiner Freizeit nehme ich an Hackathons `im` [[Bereich]] KI und [[Datenanalyse]] teil. `Deshalb` hoffe ich, `in` kurzer Zeit Ihr Team `mit` meinen [[Fähigkeit]]en [[bereichern]] zu können
 
 
 

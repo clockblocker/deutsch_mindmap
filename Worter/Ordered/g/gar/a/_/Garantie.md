@@ -30,4 +30,4 @@ G: der [[Garantie]], der [[Garantien]]
 D: der [[Garantie]], den [[Garantien]]
 
 #Feminin 
-, [[Sicherung]]
+, [[Sicherung]], [[Arbeitsplatzgarantie]]

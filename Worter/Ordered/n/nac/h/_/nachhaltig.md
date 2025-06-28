@@ -5,6 +5,14 @@
 ----
 ---
 
+*[[112-LEGO#^15|^]]* Und `nur` `wenn` Unternehmen `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützt]] werden, sind `sowohl` der [[Umstieg]] `auf` [[recycelbar]]e [[Verpackung]]en `als auch` eine [[preiswert]]e [[nachhaltig]]e [[Lebensmittelproduktion]] praktisch [[umsetzbar]] 
+
+
+
+
+---
+
+
 *[[114-LEGO#^10|^]]* Auf diese [[Weise]] würde Carsharing nicht nur eine [[Notlösung]] [[darstellen]], sondern zu einem [[integral]]en [[Bestandteil]] [[nachhaltig]]er [[Verkehrssystem]]e werden
 
 *[[100-LEGO#^10|^]]* Ich bin selbst daran interessiert, [[nachhaltig]] zu konsumieren und würde gerne meine Einblicke mitteilen

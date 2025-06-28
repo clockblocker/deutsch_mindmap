@@ -1,7 +1,10 @@
-😓 🔵 der [[Arbeitsdruck]], [ˈaʁbaɪ̯tsˌdʁʊk](https://youglish.com/pronounce/Arbeitsdruck/german)
+😓 der [[Arbeitsdruck]], [ˈaʁbaɪ̯tsˌdʁʊk](https://youglish.com/pronounce/Arbeitsdruck/german)
 
 ---
-* Erklären Sie, welche Folgen ein zu hoher [[Arbeitsdruck]] haben kann.
+---
+
+*[[211-LEGO#^2|^]]* Ich habe vollstes Verständnis `dafür`, dass jede [[Abwesenheit]] `unter` `den` [[aktuell]]en [[Bedingung]]en `des` [[Personalmangel]]s und `des` hohen [[Arbeitsdruck]]s eine [[Herausforderung]] [[darstellt]]
+
 
 ---
 = [[Stress]], [[Leistungsdruck]], [[Zeitdruck]]

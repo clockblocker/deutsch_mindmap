@@ -1,7 +1,15 @@
 🧑‍💼 [[erwerbstätig]], [ˈʔɛʁvɛʁpstaːtɪç] ≠ [[arbeitslos]]
 
+
+---
 ---
 
+*[[113-LEGO#^8|^]]* Ein solches [[Unterstützungsmodell]] bietet mein Heimatland Russland: Dort [[erhalten]] [[erwerbstätig]]e Mütter [[einjährig]]en bezahlten [[Mutterschaftsurlaub]] [[sowie]] eine dreijährige [[Arbeitsplatzgarantie]]
+
+
+
+
+---
 _[[C1-Hoehen-T2-100-Text#^26|^]]_ Besteht nicht die Möglichkeit, dass Menschen, die aus verschiedenen Gründen nicht [[erwerbstätig]] sind oder sein können, durch das [[bedingungslos]]e Grundeinkommen dazu [[verleitet]] werden, in ihrer [[derzeitig]]en Situation zu [[verbleiben]] und dadurch möglicherweise von anderen [[abhängig]]er zu werden?
 
 In Deutschland sind die [[meisten]] [[Erwerbstätigen]] … (97%)

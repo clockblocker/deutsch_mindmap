@@ -35,3 +35,4 @@ Morpheme: [[be]], [[müh]], [[en]]
 
 Partizip I: [[sich bemühend]], Partizip II: [[bemüht]]
 [[bemühen]] - [[be]] = [[mühen]], [[kümmern]], [[Bemühung]], [[anstrengen]], [[bestreben]], [[Streben]], [[Mühe]], [[schwertun]]
+, [[hinarbeiten]]

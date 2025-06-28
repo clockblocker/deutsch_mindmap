@@ -6,6 +6,10 @@
 
 *[[213-LEGO#^4|^]]* Der [[Mangel]] `an` Steckdosen, [[zumal]] Powerbanks `in` der Bibliothek verboten sind, [erschwert] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den Einsatz `von` Laptops [[erfordert]], [[erheblich]]
 
+
+*[[113-LEGO#^10|^]]* Doch selbst das [[reicht aus|reicht]] oft nicht aus: Der [[Mangel]] `an` Kitaplätzen, gepaart `mit` [[weit]] [[entfernt]]en Schulen, [[zwingt]] viele russische Eltern `dazu`, `sich` zwischen Karriere und Elternschaft [[entscheiden]] zu müssen
+
+
 *[[216-LEGO#^3|^]]* Leider wurde mein [[dreitägig]]er [[Aufenthalt]] von [[mehr]]eren [[Mängeln]] [[beeinträchtigt]]:
 
 

@@ -1,12 +1,11 @@
-💼 🟢 das [[Firmenangebot]], [ˈfɪʁmənʔaːnɡəˌbɔt](https://youglish.com/pronounce/Firmenangebot/german)
+💼 das [[Firmenangebot]], [ˈfɪʁmənʔaːnɡəˌbɔt](https://youglish.com/pronounce/Firmenangebot/german)
 
 ---
 ---
 
-*[[212-LEGO#^5|^]]* Sollte die [[Entscheidung]] zur [[Schließung]] der [[Kantine]] nicht [[rückgängig]] gemacht werden können, schlage ich vor, ein [[Firmenangebot]] mit einem [[Lieferdienst]] zu [[arrangieren]]
+*[[212-LEGO#^5|^]]* Sollte sich kein alternativer [[Ort]] `für` die [[geplant]]en Funktionsräume finden `lassen`, schlage ich vor, ein [[Firmenangebot]] `mit` einem [[Lieferdienst]] zu arrangieren, `um` allen [[Mitarbeitende]]n [[vergünstig]]te [[Essenslieferung]]en zu ermöglichen
 
 
----
 
 
 ---

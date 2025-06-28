@@ -1,9 +1,9 @@
-🚲 🔵 der [[Radweg]], [ˈʁaːtˌveːk](https://youglish.com/pronounce/Radweg/german)
+🚲 der [[Radweg]], [ˈʁaːtˌveːk](https://youglish.com/pronounce/Radweg/german)
 
 ---
 ---
 
-*[[112-LEGO#^7|^]]* Denn ohne einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] `mit` [[verbreiterten]] [[Gehweg|Geh]]- und [[Radweg]]en, ist es [[wenig]] [[sinnvoll]], `von` den Bürger:innen den [[Verzicht]] `auf` Autos zu [[erwarten]]
+*[[112-LEGO#^14|^]]* Nur wenn der [[ÖPNV]] und [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]]
 
 
 ---

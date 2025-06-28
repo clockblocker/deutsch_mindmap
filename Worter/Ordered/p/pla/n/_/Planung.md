@@ -1,1 +1,1 @@
-, [[vorhaben]], [[planenden]], [[Grobplanung]], [[Vorarbeit]], [[Vorbereitung]], [[Umsetzung]], [[Städteplanung]], [[Bauplan]], [[Vorausberechnung]], [[planen]], [[Vollzug]], [[Durchführung]], [[Mobilitätskonzept]]
+, [[vorhaben]], [[planenden]], [[Grobplanung]], [[Vorarbeit]], [[Vorbereitung]], [[Umsetzung]], [[Städteplanung]], [[Bauplan]], [[Vorausberechnung]], [[planen]], [[Vollzug]], [[Durchführung]], [[Mobilitätskonzept]], [[einplanen]]

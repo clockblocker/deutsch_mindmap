@@ -1,1 +1,1 @@
-, [[nutzlos]], [[wirksam]], [[effektiv]]
+, [[nutzlos]], [[wirksam]], [[effektiv]], [[wirkungsvoll]]

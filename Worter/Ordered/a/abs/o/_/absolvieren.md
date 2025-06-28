@@ -5,6 +5,8 @@
 ---
 ---
 
+*[[214-LEGO#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` mich `durch` seine [[Pionierrolle]] im Bereich KI-[[Anwendung]]en [[hervor]] – genau das [[Umfeld]], in dem ich meine praktischen [[Kenntnis]]se [[vertiefen]] und mein [[Praxissemester]] [[absolvieren]] möchte
+
 *[[C1-Schreiben-Aufgaben#^4|^]]* Sie müssen im Rahmen ihres Studiums ein Praktikum [[absolvieren]] und benötigen für die Bewerbung ein [[Empfehlungsschreiben]] von Ihrer Professorin
 
 *[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine [[längere]] [[Freistellung]] möglich sein, schlage ich vor, mein Studium [[vollständig]] `im` Homeoffice [[absolvieren]] zu dürfen.

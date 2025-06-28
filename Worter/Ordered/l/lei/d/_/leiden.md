@@ -1,6 +1,14 @@
 🤕 [[leiden]], [ˈlaɪ̯dn̩] | [[litt]], haben [[gelitten]]
 
 ---
+---
+
+*[[113-LEGO#^7|^]]* Ohne staatliche [[Unterstützung]] [[berufstätig]]er Eltern würden die Unternehmen `von` heute `unter` [[akut]]em [[Fachkräftemangel]] [[leiden]], und [[zudem]] wäre die demografische [[Zukunft]] des Landes [[ernsthaft]] [[gefährdet]]
+
+
+---
+
+
 Er schlug den Stuhl und Vogel tot,
 die Katzen 😥 [[leiden|litten]] große Not.
 

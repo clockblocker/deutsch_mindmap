@@ -2,6 +2,13 @@
 🔗 [[zwingen]], [ˈtsvɪŋən] | [[zwang]], haben [[gezwungen]]
 
 ---
+---
+
+*[[113-LEGO#^10|^]]* Doch selbst das [[reicht aus|reicht]] oft nicht aus: Der [[Mangel]] `an` Kitaplätzen, gepaart `mit` [[weit]] [[entfernt]]en Schulen, [[zwingt]] viele russische Eltern `dazu`, `sich` `zwischen` Karriere und [[Elternschaft]] [[entscheiden]] zu müssen
+
+
+
+---
 *[[1 Wer bin ich und was mache ich hier?#^11|^]]* Dies und die Schwierigkeiten beim [[Erhalt]] konsularischer Dienstleistungen vom russischen Staat im Zusammenhang mit dem politischen Engagement [[zwingen]] mich, mich ausschließlich dem Erlernen der Sprache zu [[widmen]]
 
 *[[C1-Hoehen-T3-301-Text#^34|^]]* Sie sind eine [[zwingende]] [[Voraussetzung]] für das Land, in dem man eine Ausbildung machen und arbeiten möchte, und das ist selbst mit [[Vorkenntnis]]sen ein recht langwieriger Prozess. ^34

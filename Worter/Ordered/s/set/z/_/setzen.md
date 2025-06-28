@@ -1,8 +1,12 @@
 --> [[Ingredient-Add-Remove]] <--
 
 📝 [[setzen]] + Akk/Dat, [ˈzɛt͡sn̩]
-[[setzte]]
-haben [[gesetzt]]
+
+---
+---
+
+*[[113-LEGO#^6|^]]* Allerdings kann die [[Gesellschaft]] nicht allein `auf` [[Entscheidung]]en privater Unternehmen – und das `nur` `in` [[ausgewählten]] Branchen – [[setzen]]
+
 
 ---
 Unter dem Motto *Zu gut für die Tonne* hat sich das deutsche Landwirtschaftsministerium zusammen mit Organisationen und Initiativen der Lebensmittel- und Gastronomiebranche das [[Ziel]] [[gesetzt]], [[hiergegen]] etwas zu unternehmen.  

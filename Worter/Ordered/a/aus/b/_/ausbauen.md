@@ -4,8 +4,7 @@
 ----
 ---
 
-*[[112-LEGO#^7|^]]* Denn `ohne` einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] `mit` [[verbreiterten]] [[Geh]]- und [[Radweg]]en, ist es [[wenig]] [[sinnvoll]], `von` den Bürger:innen den [[Verzicht]] `auf` [[Auto]]s zu [[erwarten]] ^7
-
+*[[112-LEGO#^14|^]]* Nur wenn der [[ÖPNV]] und [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]]
 
 
 *[[114-LEGO#^9|^]]* [[Abschließend]] könnte Carsharing in der [[Mobilität]] der [[Zukunft]] eine [[zentral]]e [[Rolle]] spielen, wenn es [[gelingt]], [[Netze]] besser zu [[verknüpfen]], [[Ladesäuleninfrastruktur]] für E-[[Fahrzeug]]e [[auszubauen]] und [[Buchungsprozess]]e zu [[vereinfachen]]

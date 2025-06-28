@@ -1,1 +1,1 @@
-, [[Kita]], [[Kinderbetreuungsangebot]], [[Kinderbetreuung]]
+, [[Kita]], [[Kinderbetreuungsangebot]], [[Kinderbetreuung]], [[Kindertagesbetreuung]]

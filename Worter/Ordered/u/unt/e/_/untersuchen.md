@@ -51,3 +51,4 @@ PI: [[untersuchend]], PII: [[untersucht]], Zu+inf: [[zu untersuchend]]
 
 
 Mein Gott! Wie schwach bin ich! Ich soll unbedingt zum Arzt. Er [[untersucht]] mich und gibt mir Tabletten.
+, [[vertiefen]]

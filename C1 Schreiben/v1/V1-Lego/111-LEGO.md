@@ -1,14 +1,34 @@
-[[C1-Schreiben-Root]] | [[111-C1-Schreiben-Model]]
+ [[C1-Schreiben-Root]] | [[111-C1-Schreiben-Model]] 
 
 ---
 ---
 
-*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, interessiert `mich` besonders, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]], und welchen [[Umgang]] wir [[damit]] finden sollten ^16
+*[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
+
+`seit` einiger Zeit verfolge ich eure Beiträge `im` Forum `mit` großem Interesse. Das letzte Thema hat `mich` besonders [[angesprochen]], `sodass` ich `mich` [[gern]] `an` der [[Diskussion]] [[beteiligen]] möchte.^1
 
 
-Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, interessiert mich besonders, wie soziale Medien unseren Lebensstil beeinflussen, und welchen Umgang wir damit finden sollten.
+Liebe Forumsteilnehmende,
 
-![[ElevenLabs_2025-06-24T02_44_03_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+seit einiger Zeit verfolge ich eure Beiträge im Forum mit großem Interesse. Das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte.
+
+![[ElevenLabs_2025-06-24T00_24_47_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+---
+---
+
+
+*[[111-LEGO#^16|^]]* `Weil` ich `mich` `selbst` schon oft `bis` `nach` [[Mitternacht]] im [[Scrollen]] verloren habe, frage ich mich häufig, `wie` soziale Medien unseren [[Lebensstil]] [[beeinflussen]] und welchen [[Umgang]] wir [[damit]] finden sollten ^16
+
+
+Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, frage ich mich häufig, wie soziale Medien unseren Lebensstil beeinflussen und welchen Umgang wir damit finden sollten.
+
+
+![[ElevenLabs_2025-06-25T06_42_49_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
+
+
 
 
 ---
@@ -60,7 +80,7 @@ Auf der anderen Seite kann die ständige Präsenz in der Online-Welt zahlreiche 
 
 ---
 
-*[[111-LEGO#^22|^]]* Ich merke zum Beispiel, dass ich `seit` [[Langem]] kein Buch mehr [[vollständig]] gelesen habe – meine [[Konzentration]] [[bricht ab|bricht]] oft schon nach wenigen Seiten ab. ^22
+*[[111-LEGO#^22|^]]* Ich merke zum Beispiel, dass ich `seit` [[Langem]] kein Buch mehr [[vollständig]] gelesen habe – meine [[Konzentration]] [[bricht ab|bricht]] oft [[schon]] `nach` wenigen Seiten ab. ^22
 
 
 Ich merke zum Beispiel, dass ich seit Langem kein Buch mehr vollständig gelesen habe – meine Konzentration bricht oft schon nach wenigen Seiten ab. 
@@ -79,10 +99,10 @@ Zudem wirkt sich diese allgemeine Zerstreutheit auch auf meinen Arbeitsalltag au
 
 ---
 
-*[[111-LEGO#^24|^]]* [[Angesichts]] dieser Risiken habe ich einige `der` `in` [[Foren]] [[vorgeschlagenen]] Strategien [[ausprobiert]]. ^24
+*[[111-LEGO#^24|^]]* [[Angesichts]] dieser Risiken habe ich einige `der` hier `im` [[Forum]] [[vorgeschlagenen]] Strategien [[ausprobiert]]. ^24
 
 
-Angesichts dieser Risiken habe ich einige der in Foren vorgeschlagenen Strategien ausprobiert. 
+Angesichts dieser Risiken habe ich einige der hier im Forum vorgeschlagenen Strategien ausprobiert. 
 
 ![[ElevenLabs_2025-06-24T03_17_58_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
@@ -113,6 +133,22 @@ Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfrei
 
 ![[ElevenLabs_2025-06-24T03_23_47_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
+
+
+---
+---
+
+
+*[[100-LEGO#^2|^]]* [[Soweit]] meine [[Überlegung]]en `zu` diesem Thema. Ich bin gespannt `auf` eure Meinungen und freue mich `auf` eine [[anregen]]de Diskussion^2
+
+
+Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eine anregende Diskussion
+
+![[ElevenLabs_2025-06-24T02_31_13_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+
+---
+----
 
 
 

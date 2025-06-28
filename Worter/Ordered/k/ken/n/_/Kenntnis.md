@@ -1,7 +1,15 @@
 --> [[🗣️ Ingredient-Meinung]] <--
 
-🧠 🔴 die [[Kenntnis]], [ˈkɛntnɪs](https://youglish.com/pronounce/Kenntnis/german)
-die [[Kenntnisse]]
+🧠 die [[Kenntnis]], [ˈkɛntnɪs](https://youglish.com/pronounce/Kenntnis/german)
+
+---
+---
+
+*[[214-LEGO#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` mich `durch` seine [[Pionierrolle]] im Bereich KI-[[Anwendung]]en [[hervor]] – genau das [[Umfeld]], in dem ich meine praktischen [[Kenntnis]]se [[vertiefen]] und mein [[Praxissemester]] [[absolvieren]] möchte ^2
+
+
+
+
 
 ---
 *[[bro-schrieben-c1-t1-004#^5|^]]* Einen großen [[Vorteil]] der [[ansteigend]]en Lebensdauer sehe ich darin, dass es der [[Gesellschaft]] ermöglicht, von den [[Kenntnis]]sen [[berufserfahrener]] Menschen länger zu profitieren

@@ -7,6 +7,8 @@ die [[Unterstützung]], [ˈʊntɐˌʃtʏtsʊŋ] | [[unterstützen]]
 *[[113-LEGO#^9|^]]* [[Allerdings]] ist die [[Mehrheit]] der [[Beruf]]e [[weiterhin]] `auf` [[physisch]]e [[Präsenz]] [[angewiesen]]; `für` eine [[breit]]ere [[Unterstützung]] sind [[daher]] [[staatlich]]e [[Maßnahme]]n [[erforderlich]] 
 
 
+*[[113-LEGO#^7|^]]* Ohne staatliche [[Unterstützung]] [[berufstätig]]er Eltern würden die Unternehmen `von` heute `unter` [[akut]]em [[Fachkräftemangel]] [[leiden]], und [[zudem]] wäre die demografische [[Zukunft]] des Landes [[ernsthaft]] [[gefährdet]]. ^7
+
 
 
 
@@ -59,4 +61,4 @@ D: der [[Unterstützung]], den [[Unterstützungen]]
 [[unterstützen]], [[unterstützend]], [[Unterstützer]], [[Unterstützerin]], [[Unterstützung­sanspruch]], [[beistehen]], [[Versorgung]], [[unter]], [[Gegenwind]]
 , [[Spende]], [[Mittelzuweisung]], [[Beitrag]], [[Wohltätigkeit]], [[Patenschaft]], [[Pflege]], [[mithilfe]], [[Hindernis]], [[Unterstützungsangebot]], [[Notbetreuung]], [[Fördermittel]]
 
-#Feminin , [[mieterunterstützend]], [[Grundeinkommen]], [[Basiseinkommen]], [[Sozialleistung]], [[Arbeitslosengeld]], [[Beratung]], [[Überbrückung]], [[Sozialdienst]], [[Freiwilligendienst]], [[Consulting]], [[Service]], [[Betreuung]]
+#Feminin , [[mieterunterstützend]], [[Grundeinkommen]], [[Basiseinkommen]], [[Sozialleistung]], [[Arbeitslosengeld]], [[Beratung]], [[Überbrückung]], [[Sozialdienst]], [[Freiwilligendienst]], [[Consulting]], [[Service]], [[Betreuung]], [[Unterstützungsmodell]]

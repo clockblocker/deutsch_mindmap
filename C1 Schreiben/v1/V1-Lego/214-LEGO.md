@@ -16,61 +16,32 @@ ich wende mich an Sie, um mein Interesse an der Position als Praktikant in Ihrem
 ---
 ---
 
-*[[214-LEGO#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` mich `durch` seine [[Pionierrolle]] im Bereich KI-[[Anwendung]]en [[hervor]] – genau das [[Umfeld]], in dem ich mein [[Praxissemester]] [[ideal]] [[absolvieren]] kann. ^2
+*[[214-LEGO#^2|^]]* Blauhimmel [[hervorheben|hebt]] `sich` `für` mich `durch` seine [[Pionierrolle]] im Bereich KI-[[Anwendung]]en [[hervor]] – genau das [[Umfeld]], in dem ich meine praktischen [[Kenntnis]]se [[vertiefen]] und mein [[Praxissemester]] [[absolvieren]] möchte ^2
 
 
-Blauhimmel hebt sich für mich durch seine Pionierrolle im Bereich KI-Anwendungen hervor – genau das Umfeld, in dem ich mein Praxissemester ideal absolvieren kann.
+Blauhimmel hebt sich für mich durch seine Pionierrolle im Bereich KI-Anwendungen hervor – genau das Umfeld, in dem ich meine praktischen Kenntnisse vertiefen und mein Praxissemester absolvieren möchte.
 
-![[ElevenLabs_2025-06-13T06_18_20_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
-
-
----
----
-
-*[[214-LEGO#^3|^]]* [[Zurzeit]] studiere ich `im` zweiten [[Semester]] der Technischen Universität München. ^3
-
-
-Zurzeit studiere ich im zweiten Semester der Technischen Universität München.
-
-![[ElevenLabs_2025-06-13T06_18_41_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
+![[ElevenLabs_2025-06-27T04_49_14_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 ---
 ---
 
-*[[214-LEGO#^4|^]]* In meiner [[Freizeit]] [[teilnehmen|nehme]] ich `an` [[Hackathon]]s im [[Bereich]] KI und [[Datenanalyse]] teil. ^4
+*[[214-LEGO#^7|^]]* [[Zurzeit]] studiere ich `im` zweiten [[Semester]] Informatik `an` der Technischen Universität München. In meiner Freizeit nehme ich an Hackathons `im` [[Bereich]] KI und [[Datenanalyse]] teil. `Deshalb` hoffe ich, `in` kurzer Zeit Ihr Team `mit` meinen [[Fähigkeit]]en [[bereichern]] zu können. ^7
 
 
-In meiner Freizeit nehme ich an Hackathons im Bereich KI und Datenanalyse teil.
+Zurzeit studiere ich im zweiten Semester Informatik an der Technischen Universität München. In meiner Freizeit nehme ich an Hackathons im Bereich KI und Datenanalyse teil. Deshalb hoffe ich, in kurzer Zeit Ihr Team mit meinen Fähigkeiten bereichern zu können. 
 
-![[ElevenLabs_2025-06-13T06_19_00_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
-
----
----
-
-*[[214-LEGO#^5|^]]* Deshalb hoffe ich, in kurzer Zeit Ihr Team `mit` meinen [[Fähigkeit]]en [[bereichern]] zu können. ^5
-
-
-Deshalb hoffe ich, in kurzer Zeit Ihr Team mit meinen Fähigkeiten bereichern zu können.
-
-![[ElevenLabs_2025-06-13T06_19_23_Mila_pvc_sp100_s50_sb75_v3.mp3]]
-
-
-
+![[ElevenLabs_2025-06-27T04_50_01_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 ---
 ---
 
-*[[214-LEGO#^6|^]]* Sollten Sie [[Interesse]] haben, schlage ich vor, dass wir ein kurzes [[Telefonat]] [[vereinbaren]] und uns [[anschließend]] persönlich [[austauschen]]. ^6
+*[[214-LEGO#^6|^]]* Sollten Sie Interesse haben, schlage ich gern ein kurzes [[Telefonat]] vor, `dem` ein persönliches [[Gespräch]] [[folgen]] kann ^6
 
 
-Sollten Sie Interesse haben, schlage ich vor, dass wir ein kurzes Telefonat vereinbaren und uns anschließend persönlich austauschen.
+Sollten Sie Interesse haben, schlage ich gern ein kurzes Telefonat vor, dem ein persönliches Gespräch folgen kann.
 
-![[ElevenLabs_2025-06-13T06_19_41_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+![[ElevenLabs_2025-06-27T04_50_45_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 

@@ -1,2 +1,2 @@
 --> [[Ingredient-Einhaltung]] <--
-, [[beteiligen]], [[berücksichtigen]], [[miteinbeziehen]]
+, [[beteiligen]], [[berücksichtigen]], [[miteinbeziehen]], [[einplanen]]

@@ -55,4 +55,4 @@ sie, [[rabattieren]], [[rabattierten]], [[rabattieren]], [[rabattierten]], [[rab
 Adjektive: [[rabattierend]], [[rabattierender]], [[rabattierendst]]
 
 ---
-[[rabattierender]], [[rabattierendes]], [[rabattierende]], [[rabattierenden]], [[rabattierendem]], [[rabattierenderer]], [[rabattierenderes]], [[rabattierendere]], [[rabattierenderen]], [[rabattierenderem]], [[rabattierendster]], [[rabattierendstes]], [[rabattierendste]], [[rabattierendsten]], [[rabattierendstem]]
+[[rabattierender]], [[rabattierendes]], [[rabattierende]], [[rabattierenden]], [[rabattierendem]], [[rabattierenderer]], [[rabattierenderes]], [[rabattierendere]], [[rabattierenderen]], [[rabattierenderem]], [[rabattierendster]], [[rabattierendstes]], [[rabattierendste]], [[rabattierendsten]], [[rabattierendstem]], [[vergünstigen]]

@@ -59,4 +59,4 @@ sie, [[vereinfachen]], [[vereinfachten]], [[vereinfachen]], [[vereinfachten]], [
 Adjektive: [[vereinfachend]], [[vereinfachender]], [[vereinfachendst]]
 
 ---
-[[vereinfachender]], [[vereinfachendes]], [[vereinfachende]], [[vereinfachenden]], [[vereinfachendem]], [[vereinfachenderer]], [[vereinfachenderes]], [[vereinfachendere]], [[vereinfachenderen]], [[vereinfachenderem]], [[vereinfachendster]], [[vereinfachendstes]], [[vereinfachendste]], [[vereinfachendsten]], [[vereinfachendstem]], [[abschließen]]
+[[vereinfachender]], [[vereinfachendes]], [[vereinfachende]], [[vereinfachenden]], [[vereinfachendem]], [[vereinfachenderer]], [[vereinfachenderes]], [[vereinfachendere]], [[vereinfachenderen]], [[vereinfachenderem]], [[vereinfachendster]], [[vereinfachendstes]], [[vereinfachendste]], [[vereinfachendsten]], [[vereinfachendstem]], [[abschließen]], [[vertiefen]]

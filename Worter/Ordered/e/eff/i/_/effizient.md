@@ -48,4 +48,4 @@ P: [[effizienten]], [[effizienteren]], [[effizientesten]]
 ---
 📊 **Konjugierte Indefinitzahlen**  *(if applicable)*  
 (none for effizient)
-, [[zeitsparend]], [[reibungslos]], [[effektiv]], [[logistisch]]
+, [[zeitsparend]], [[reibungslos]], [[effektiv]], [[logistisch]], [[wirkungsvoll]]

@@ -1,9 +1,17 @@
 --> [[Ingredient-erlauben-verbieten]] <--
 
 die [[Möglichkeit]], [ˈmøːklɪçkaɪ̯t]
-die [[Möglichkeiten]]
 
 ---
+---
+
+*[[112-LEGO#^13|^]]* Deshalb [[halte]] ich die [[Teilnahme]] `an` Wahlen `für` die [[wirkungsvoll]]ste [[Möglichkeit]], wie [[Einzelne]] `zum` Klimaschutz [[beitragen]] können
+
+
+
+
+----
+
 Es [[besteht]] die [[Möglichkeit]], dass ich krank bin.
   
 

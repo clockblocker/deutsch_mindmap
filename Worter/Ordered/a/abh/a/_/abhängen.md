@@ -1,6 +1,17 @@
 🤔 [[abhängen]], [ˈapˌhɛŋən](https://youglish.com/pronounce/abhängen/german) → [[hing ab]] → [[abgehangen]]
 
 ---
+---
+
+*[[112-LEGO#^16|^]]* `Ob` solche [[Regulierung]]en [[eingeführt]] werden, [[hängt ab|hängt]] [[letztlich]] `von` den politischen Entscheidungen der Wähler:innen ab
+
+
+
+
+
+
+
+---
 „Zugang zu Hochschulen darf nicht `vom` [[Einkommen]] [[abhängen]].“
 
 *[[C1-Lesen-414-Text#^16|^]]* In `7 welcher` Farbe sie [[leuchten]], [[abhängt]] `von` der [[Entfernung]] [[ab]], in der die Atome [[wechselwirken]]

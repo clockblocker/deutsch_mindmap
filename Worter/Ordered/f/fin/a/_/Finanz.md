@@ -27,4 +27,4 @@ A: die [[Finanz]], die [[Finanzen]]
 G: der [[Finanz]], der [[Finanzen]]
 D: der [[Finanz]], den [[Finanzen]]
 
-#Feminin 
+#Feminin , [[Finanzbranche]]

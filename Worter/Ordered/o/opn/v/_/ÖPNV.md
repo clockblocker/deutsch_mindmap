@@ -1,8 +1,10 @@
 🚌 der [[ÖPNV]], [øːpeːʔɛfˈfaʊ̯](https://youglish.com/pronounce/ÖPNV/german)
 
 ---
+---
 
-*[[112-LEGO#^7|^]]* Denn `ohne` einen gut [[ausgebauten]] [[ÖPNV]], [[gepaart]] `mit` [[verbreiterten]] [[Geh]]- und [[Radweg]]en, ist es [[wenig]] [[sinnvoll]], `von` den Bürger:innen den [[Verzicht]] `auf` [[Auto]]s zu [[erwarten]] ^7
+*[[112-LEGO#^14|^]]* Nur wenn der [[ÖPNV]] und [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]]
+
 
 
 

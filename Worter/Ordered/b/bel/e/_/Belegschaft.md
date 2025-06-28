@@ -6,6 +6,7 @@
 *[[113-LEGO#^5|^]]* So würden `sowohl` die [[Unternehmen]] `von heute` `mit` der [[nötig]]en [[Belegschaft]] [[versorgt]] `als` `auch` die [[demografisch]]e [[Zukunft]] des [[Land]]es [[gesichert]]
 
 
+*[[212-LEGO#^5|^]]* Sollte `sich` kein alternativer [[Ort]] `für` die [[geplant]]en Funktionsräume finden `lassen`, schlage ich vor, ein [[Firmenangebot]] `mit` einem [[Lieferdienst]] zu arrangieren, `um` der [[gesamt]]en [[Belegschaft]] eine [[vergünstig]]te [[Essensversorgung]] zu ermöglichen
 
 
 

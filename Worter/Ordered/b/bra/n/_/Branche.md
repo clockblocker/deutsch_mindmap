@@ -38,4 +38,4 @@ Dative: der [[Branche]], den [[Branchen]]
 [[branchenspezifisch]], [[branchenüblich]], [[branchenführend]], [[Berufsgruppe]]
 
 #Feminin, [[Berufsfeld]], [[Baubranche]], [[Wirtschaftsbranche]]
-, [[Berufssparte]], [[Berufsstand]]
+, [[Berufssparte]], [[Berufsstand]], [[Finanzbranche]]

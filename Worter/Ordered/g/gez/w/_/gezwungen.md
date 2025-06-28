@@ -7,6 +7,11 @@
 *[[212-LEGO#^3|^]]* Ohne sie wäre ich persönlich [[gezwungen]], mein [[Mittagessen]] [[täglich]] selbst zu Hause [[vorzubereiten]] – [[wofür]] mir leider die Zeit [[fehlt]]
 
 
+_[[215-LEGO#^4|^]]_ [[Infolgedessen]] konnten wir drei [[Ausflüge]] nicht [[wahrnehmen]] und waren [[sogar]] einmal [[gezwungen]], statt `im` [[vereinbarten]] Fünf-Sterne-Hotel in einem Hostel zu [[übernachten]]. ^4
+
+
+
+
 ---
 
 

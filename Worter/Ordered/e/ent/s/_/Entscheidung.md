@@ -1,4 +1,4 @@
-🔴 die [[Entscheidung]], [ˈɛntʃaɪ̯dʊŋ]
+die [[Entscheidung]], [ˈɛntʃaɪ̯dʊŋ]
 
 ---
 ---
@@ -8,6 +8,10 @@
 
 
 *[[116-LEGO#^10|^]]* [[Abschließend]] lässt sich sagen, dass `neben` der [[Sicherheit]] des Kindes auch die [[Aspekt]]e seiner [[psychologisch]]en [[Entwicklung]] und des [[Vertrauen]]s in die Familie [[beachtet]] werden müssen, `um` die [[Entscheidung]] `über` die [[Überwachung]] zu [[beurteilen]]
+
+
+*[[112-LEGO#^16|^]]* `Ob` solche [[Regulierung]]en [[eingeführt]] werden, [[hängt ab|hängt]] [[letztlich]] `von` den politischen [[Entscheidung]]en der Wähler:innen ab
+
 
 
 ---

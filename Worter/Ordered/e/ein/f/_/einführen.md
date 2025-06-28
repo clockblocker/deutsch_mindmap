@@ -2,6 +2,12 @@
 --> ⏯️ [[Ingredient-Verb-Beginn-Ende]] <--
 🚶‍♀️ [[einführen]], [ˈaɪ̯nˌfyːʁən] | [[führte ein]], haben [[eingeführt]]
 
+----
+---
+
+*[[112-LEGO#^16|^]]* `Ob` solche [[Regulierung]]en [[eingeführt]] werden, [[hängt ab|hängt]] [[letztlich]] `von` den politischen [[Entscheidung]]en der Wähler:innen ab
+
+
 ---
 ❤️ [[Regulierung]] [[einführen]]                              *(Introduce)*
 

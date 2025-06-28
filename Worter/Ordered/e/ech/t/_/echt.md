@@ -1,8 +1,11 @@
-[[echt]]
-
---> 🧩 [[Grad-Wahrheit]] <--
+[[echt]] | 🧩 [[Grad-Wahrheit]] 
 
 ---
+---
+
+*[[112-LEGO#^14|^]]* Nur wenn der [[ÖPNV]] und [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]]
+
+
 NIC: Hey Sam, du bist ein [[echter]] Freund 
 SAM: Klar! Ich wollte dir [[echt]] amerikanisches Popcorn machen!  
 

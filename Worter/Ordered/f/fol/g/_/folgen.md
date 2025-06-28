@@ -1,6 +1,12 @@
-👣 [[folgen]] + Dat, [ˈfɔlɡn̩]
-[[folgte]]
-haben [[gefolgt]]
+👣 [[folgen]] [ˈfɔlɡn̩]
+
+----
+---
+
+*[[214-LEGO#^6|^]]* Sollten Sie Interesse haben, schlage ich gern ein kurzes [[Telefonat]] vor, `dem` ein persönliches [[Gespräch]] [[folgen]] kann
+
+
+
 
 ---
 

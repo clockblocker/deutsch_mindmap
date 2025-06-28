@@ -1,1 +1,1 @@
-, [[Skizze]]
+, [[Skizze]], [[Fertigprodukt]]

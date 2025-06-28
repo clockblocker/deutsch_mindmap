@@ -46,4 +46,4 @@ D: dem [[Schutz]], den [[Schutzen]]
 , [[Versicherung]], [[Asyl]], [[Folter]], [[Kündigungsschutzklage]], [[Erhaltung]], [[Überfall]], [[Verfolgung]], [[Unantastbarkeit]], [[Vorbeugung]], [[Erhalt]], [[Stadtmauer]], [[Notfallschutz]]
 
 
-#Maskulin , [[Datenschutz]], [[Geborgenheit]], [[Klimaschutz]], [[Mieterschutz]], [[Schonung]], [[Existenzsicherung]], [[Sicherung]], [[Festung]], [[Verbraucherschutz]], [[Verbraucherschutzgesetz]], [[Gewährleistung]], [[Landesverteidigung]], [[Unfallverhütung]], [[Umweltschutzgesetz]]
+#Maskulin , [[Datenschutz]], [[Geborgenheit]], [[Klimaschutz]], [[Mieterschutz]], [[Schonung]], [[Existenzsicherung]], [[Sicherung]], [[Festung]], [[Verbraucherschutz]], [[Verbraucherschutzgesetz]], [[Gewährleistung]], [[Landesverteidigung]], [[Unfallverhütung]], [[Umweltschutzgesetz]], [[Arbeitsplatzgarantie]]

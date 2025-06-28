@@ -5,7 +5,7 @@
 
 *[[115-LEGO#^12|^]]* [[Auf diese Weise]] [[verbinden]] `sich` [[tradiert]]e [[handwerklich]]e [[Fertigkeit]]en `mit` [[modern]]er [[Technik]], [[wodurch]] die [[Effizienz]] [[steigt]] und die Arbeit [[zugleich]] [[attraktiv]]er wird
 
-*[[211-LEGO#^5|^]]* `Am` Ende des [[Programm]]s könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], `sondern` `auch` ein [[wertvoll]]es [[Alumni]]-Netzwerk [[mitbringen]] – [[wodurch]] das Unternehmen neue Kunden und Partner [[gewinnen]] könnte
+*[[211-LEGO#^5|^]]* `Am` Ende des [[Programm]]s könnte ich nicht nur meinen aktuellen [[Aufgabenbereich]] [[erweitern]], `sondern` `auch` ein [[wertvoll]]es [[Alumni]]-Netzwerk [[mitbringen]] – [[wodurch]] dem Unternehmen neue [[potenziell]]e Kunden und Partner [[zugänglich]] wären
 
 *[[216-LEGO#^4|^]]* Die [[Klimaanlage]] im Zimmer funktionierte nur [[sporadisch]], [[wodurch]] es [[nachts]] sehr heiß war
 

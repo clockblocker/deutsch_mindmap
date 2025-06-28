@@ -1,6 +1,12 @@
---> ⏱️ [[Temporal-Status]] <--
+[[schon]], [ʃoːn] --> ⏱️ [[Temporal-Status]] <--
 
-[[schon]], [ʃoːn]
+---
+---
+
+*[[111-LEGO#^22|^]]* Ich merke zum Beispiel, dass ich `seit` [[Langem]] kein Buch mehr [[vollständig]] gelesen habe – meine [[Konzentration]] [[bricht ab|bricht]] oft [[schon]] `nach` wenigen Seiten ab. ^22
+
+
+
 
 ---
 Aber [[irgendwie]] macht der Rechner nicht das, was er tun soll. [[Schon]] das [[Hochfahren]] [[klappt]] nicht immer, ein neuer Browser lässt sich nicht installieren, und dann ist da immer wieder diese [[seltsame]] [[Fehlermeldung]]

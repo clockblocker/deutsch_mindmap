@@ -3,9 +3,7 @@
 ---
 ---
 
-*[[112-LEGO#^9|^]]* [[Abschließend]] lässt sich sagen, dass `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] auch die Frage der [[Praktikabilität]] [[berücksichtigt]] werden muss, `um` [[realistisch]]e [[persönlich]]e [[Maßnahme]]n `gegen` den [[Klimawandel]] [[vorzuschlagen]]
-
-
+*[[112-LEGO#^12|^]]* Meiner Meinung nach muss `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] `auch` die Frage der [[Praktikabilität]] [[berücksichtigt]] werden, `um` [[realistisch]]e persönliche Maßnahmen gegen den Klimawandel vorzuschlagen
 
 
 

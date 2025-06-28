@@ -56,4 +56,4 @@ favorable, cheap
 Adjektive: [[günstig]], [[günstiger]], [[günstigst]]
 
 ---
-[[günstiger]], [[günstiges]], [[günstige]], [[günstigen]], [[günstigem]], [[günstigerer]], [[günstigeres]], [[günstigere]], [[günstigeren]], [[günstigerem]], [[günstigster]], [[günstigstes]], [[günstigste]], [[günstigsten]], [[günstigstem]], [[erschwinglich]], [[positiv]], [[abträglich]], [[bezahlbar]]
+[[günstiger]], [[günstiges]], [[günstige]], [[günstigen]], [[günstigem]], [[günstigerer]], [[günstigeres]], [[günstigere]], [[günstigeren]], [[günstigerem]], [[günstigster]], [[günstigstes]], [[günstigste]], [[günstigsten]], [[günstigstem]], [[erschwinglich]], [[positiv]], [[abträglich]], [[bezahlbar]], [[vergünstigen]]

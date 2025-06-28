@@ -1,6 +1,12 @@
 --> [[📈 Ingredient-Verb-Wachstum-Steigerung]] <--
-
 📈 [[zunehmen]], [ˈtsuːˌneːmən] | [[nahm zu]], haben [[zugenommen]]
+
+---
+---
+
+*[[113-LEGO#^4|^]]* Wir arbeiten beide `in` der [[Finanzbranche]], wo Homeoffice- und Hybridmodelle stark [[zugenommen]] haben
+
+
 
 ---
 *[[Sprechen-T1#^4|^]]* Heute wird kontrovers darüber diskutiert, wie Städte mit dem [[zunehmenden]] [[Verkehrsaufkommen]] umgehen sollen, insbesondere im [[Hinblick]] auf Umwelt- und Lebensqualitätsfragen

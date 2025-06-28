@@ -4,6 +4,14 @@
 🔗 [[dadurch]], [daˈdʊʁç]
 
 ---
+---
+
+*[[113-LEGO#^12|^]]* [[Dadurch]] hätten Eltern die Zeit `für` [[ununterbrochene]] Arbeit – `ohne` die ein [[ausgewogen]]er [[Lebensstil]] `mit` Kindern `für` [[Berufstätig]]e kaum realisierbar ist
+
+
+
+
+---
 Toni raucht nicht mehr und lebt [[dadurch]] [[gesünder]].
 
 41. Warum gibt es in einer Demokratie mehr als eine Partei? (92%)

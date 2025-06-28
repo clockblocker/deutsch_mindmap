@@ -1,6 +1,13 @@
 --> [[C1 Schreiben/Cookbook/Ingredients/Nomen/Ingredient-Bedürfnis]] <--
-🤝 🔴 die [[Bedingung]], [bəˈdɪŋʊŋ](https://youglish.com/pronounce/Bedingung/german)
-die [[Bedingungen]]
+🤝 die [[Bedingung]], [bəˈdɪŋʊŋ](https://youglish.com/pronounce/Bedingung/german)
+
+---
+---
+
+*[[211-LEGO#^2|^]]* Ich habe vollstes Verständnis `dafür`, dass jede [[Abwesenheit]] `unter` `den` [[aktuell]]en [[Bedingung]]en `des` [[Personalmangel]]s und `des` hohen [[Arbeitsdruck]]s eine [[Herausforderung]] [[darstellt]]
+
+
+
 
 ---
 •	Erklären Sie, unter welchen [[Bedingungen]] sich ein Arbeitgeber für Home-Office aussprechen sollte.

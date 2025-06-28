@@ -4,7 +4,8 @@
 ---
 ---
 
-*[[112-LEGO#^8|^]]* [[Außerdem]] kann [[staatlich]]e [[Regulierung]] [[Unternehmen]] `beim` [[Umstieg]] `auf` [[recycelbar]]e [[Verpackungsmaterial]]ien `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützen]]
+*[[112-LEGO#^15|^]]* Und `nur` `wenn` Unternehmen `durch` [[Fördermittel]] und [[steuerlich]]e [[Anreiz]]e [[unterstützt]] werden, sind `sowohl` der [[Umstieg]] `auf` [[recycelbar]]e [[Verpackung]]en `als auch` eine [[preiswert]]e [[nachhaltig]]e [[Lebensmittelproduktion]] praktisch [[umsetzbar]] ^15
+
 
 
 *[[113-LEGO#^4|^]]* `Da` [[Rentensystem]]e und [[Volkswirtschaft]]en `auf` höhere [[Geburtenrate]]n [[angewiesen]] sind, ist es `für` [[Staat]]en [[sinnvoll]], Bürger:innen `dabei` zu [[unterstützen]], [[Berufsleben|Berufs]]- und [[Familienleben]] [[erfolgreich]] zu [[verbinden]]
@@ -54,4 +55,4 @@ PI: [[unterstützend]], PII: [[unterstützt]], Zu+inf: [[zu unterstützen]]
 [[unterstützen]] - [[unter]] = [[stützen]] / to support, to help, to assist
 
 ---
-[[Unterstützung]], [[Unterstützer]], [[Unterstützerin]], [[unterstützend]], [[Beistand]], [[versorgen]], [[beraten]], [[intervenieren]], [[stärken]], [[befürworten]], [[unterhalten]], [[beeinträchtigen]], [[entlasten]], [[zustimmen]], [[betreuen]], [[beitragen]], [[verstärken]], [[voranbringen]], [[eingreifen]], [[forcieren]], [[mieterunterstützend]], [[entgegenwirken]], [[plädieren]], [[weiterhelfen]], [[beschleunigen]], [[befeueren]], [[zur Seite stehen]], [[Hilfe leisten]], [[mobben]], [[zugutekommen]], [[verhelfen]], [[befeuern]], [[regelmäßig]]
+[[Unterstützung]], [[Unterstützer]], [[Unterstützerin]], [[unterstützend]], [[Beistand]], [[versorgen]], [[beraten]], [[intervenieren]], [[stärken]], [[befürworten]], [[unterhalten]], [[beeinträchtigen]], [[entlasten]], [[zustimmen]], [[betreuen]], [[beitragen]], [[verstärken]], [[voranbringen]], [[eingreifen]], [[forcieren]], [[mieterunterstützend]], [[entgegenwirken]], [[plädieren]], [[weiterhelfen]], [[beschleunigen]], [[befeueren]], [[zur Seite stehen]], [[Hilfe leisten]], [[mobben]], [[zugutekommen]], [[verhelfen]], [[befeuern]], [[regelmäßig]], [[Unterstützungsmodell]]

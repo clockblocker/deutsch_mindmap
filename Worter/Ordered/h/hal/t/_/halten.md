@@ -9,6 +9,9 @@
 _[[215-LEGO#^7|^]]_ [[Zusätzlich]] [[halte]] ich es `für` [[sinnvoll]], `für` [[Ausflüge]] [[vorsorglich]] [[alternativ]]e [[Route]]n `bei` [[möglich]]en [[Verkehrsproblem]]en zu planen
 
 
+*[[112-LEGO#^13|^]]* Deshalb [[halte]] ich die [[Teilnahme]] `an` Wahlen `für` die [[wirkungsvoll]]ste [[Möglichkeit]], wie [[Einzelne]] `zum` Klimaschutz [[beitragen]] können
+
+
 *[[111-LEGO#^26|^]]* Zusätzlich hat `es` `sich` `als` effektiv [[erwiesen]], meinen Arbeitslaptop [[vollständig]] [[sozialmedienfrei]] zu [[halten]]
 
 

@@ -1,13 +1,11 @@
-❌ 🔴 die [[Abwesenheit]], [ˈapˌveːzn̩haɪ̯t](https://youglish.com/pronounce/Abwesenheit/german)
+❌ die [[Abwesenheit]], [ˈapˌveːzn̩haɪ̯t](https://youglish.com/pronounce/Abwesenheit/german)
 
 ---
 ---
 
-*[[211-LEGO#^2|^]]* Ich habe [[voll]]stes [[Verständnis]] `dafür`, dass die Firma `unter` [[Personalmangel]] jede [[Abwesenheit]] [[sorgfältig]] [[geprüft]] werden muss
+*[[211-LEGO#^2|^]]* Ich habe vollstes Verständnis `dafür`, dass jede [[Abwesenheit]] `unter` `den` [[aktuell]]en [[Bedingung]]en `des` [[Personalmangel]]s und `des` hohen [[Arbeitsdruck]]s eine [[Herausforderung]] [[darstellt]] ^2
 
 
-
----
 
 
 ---

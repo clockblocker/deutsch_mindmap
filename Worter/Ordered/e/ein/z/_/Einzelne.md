@@ -1,7 +1,15 @@
 --> 🧮 [[Grad-Quantität]] <--
 
-🔵 🔢 der [[Einzelne]], [ˈaɪ̯ntsəlnə]
-die [[einzelnen]]
+🔢 der [[Einzelne]], [ˈaɪ̯ntsəlnə]
+
+----
+---
+
+*[[112-LEGO#^13|^]]* Deshalb [[halte]] ich die [[Teilnahme]] `an` Wahlen `für` die [[wirkungsvoll]]ste [[Möglichkeit]], wie [[Einzelne]] `zum` Klimaschutz [[beitragen]] können
+
+
+
+
 
 ---
 Machen Sie einen Vorschlag, wie jeder [[Einzelne]] zum Klimaschutz [[beitragen]] kann.

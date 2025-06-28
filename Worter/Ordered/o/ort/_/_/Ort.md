@@ -1,5 +1,5 @@
 --> [[⛪ Ingredient-Plazt]] <--
-📍 🔵 der [[Ort]], [ɔʁt](https://youglish.com/pronounce/Ort/german)
+📍 der [[Ort]], [ɔʁt](https://youglish.com/pronounce/Ort/german)
 
 ---
 ---
@@ -7,8 +7,13 @@
 *[[211-LEGO#^4|^]]* `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen]] zu können, [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]
 
 
+*[[212-LEGO#^5|^]]* Sollte sich kein alternativer [[Ort]] `für` die [[geplant]]en Funktionsräume finden `lassen`, schlage ich vor, ein [[Firmenangebot]] `mit` einem [[Lieferdienst]] zu arrangieren, `um` allen [[Mitarbeitende]]n [[vergünstig]]te [[Essenslieferung]]en zu ermöglichen. ^5
 
----
+
+
+
+
+
 
 
 ---

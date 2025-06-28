@@ -35,4 +35,4 @@ Zusätzliche Bedeutungen:
 Beispielsätze:
 - Der Rahmen des Bildes ist aus Holz.
 - Ein Fahrradrahmen muss stabil sein.
-- Der Rahmen der Veranstaltung war sehr professionell gestaltet., [[aufhängen]], [[Satzklammer]], [[Rahmenbedingung]], [[Plattform]], [[Gerüst]], [[Ambiente]]
+- Der Rahmen der Veranstaltung war sehr professionell gestaltet., [[aufhängen]], [[Satzklammer]], [[Rahmenbedingung]], [[Plattform]], [[Gerüst]], [[Ambiente]], [[Unterstützungsmodell]]
