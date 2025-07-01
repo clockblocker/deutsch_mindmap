@@ -4,6 +4,63 @@
 ---
 ---
 
+
+Liebe Forumsteilnehmende,
+
+seit einiger Zeit verfolge ich eure `  ` im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte. 
+
+Weil ich selbst `  ` `  ` `  ` mit einem Carsharing-Auto `  ` `  ` `  ` S-Bahn `  ` Arbeit `  `, frage ich mich `  `, welche Chancen und Herausforderungen `  ` `  ` `  ` `  ` `  ` `  ` `  `.
+
+Auf der einen Seite ist der Nutzen von Carsharing `  ` – es ermöglicht sein`  ` Kund:innen, genau dann ein Fahrzeug zu buchen, wenn sie es brauchen, ohne `  ` `  ` `  `, `  ` oder `  ` `  ` zu `  ` . 
+ `  `  sehen viele  `  `  eine umweltfreundliche Alternative  `  `   `  `   `  ` , die  `  `  `  `  `  `  und  `  `   `  `   `  `   `  `  .
+
+Auf der anderen Seite kann eine  `  `   `  `   `  ` -Angebots zahlreiche Gefahren  `  `  die  `  `   `  `  mit sich bringen.  `  `  Carsharing- `  `   `  `  als Alternative  `  `  ÖPNV wahrgenommen werden,  `  `  Busse und Straßenbahnen wirtschaftlich unter Druck –  `  `   `  `  die Straßeninfrastruktur  `  `   `  `   `  `  .
+
+Zum Glück funktioniert  `  `   `  `   `  `  `  `  nicht nur `  `  Autos: Die Zahl `  `  `  `  `  `  `  `  Fahrr`  `  und E-Scooter hat in `  `  letzten Jahren deutlich gestiegen. Diese stellen eine ideale Transportlösung `  `  die sogenannte letzte Meile `  `  und `  `  `  `  `  `  `  `  gut ausgebauten und sicheren Geh- und Radwegen.
+
+Aus diesem Grund halte ich es persönlich für sinnvoll, `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  ` . Carsharing `  ` Bürger:innen `  ` `  ` Alternative `  ` `  ` `  ` bieten, `  ` Radsharing `  ` Weg `  ` `  ` `  ` des öffentlichen Verkehrs deutlich `  ` wird.
+
+Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eine anregende Diskussion
+
+
+---
+---
+
+
+
+Liebe Forumsteilnehmende,
+
+seit einiger Zeit verfolge ich eure `  ` im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte. 
+
+Weil ich selbst `  ` `  ` `  ` mit einem Carsharing-Auto `  ` `  ` `  ` S-Bahn `  ` Arbeit `  `, frage ich mich `  `, welche Chancen und Herausforderungen `  ` `  ` `  ` `  ` `  ` `  ` `  `.
+
+Auf der einen Seite ist der Nutzen von Carsharing `  ` – es ermöglicht sein`  ` Kund:innen, genau dann ein Fahrzeug zu buchen, wenn sie es brauchen, ohne `  ` `  ` `  `, `  ` oder `  ` `  ` zu `  ` . 
+ `  `  sehen viele  `  `  eine umweltfreundliche Alternative  `  `   `  `   `  ` , die  `  `  `  `  `  `  und  `  `   `  `   `  `   `  `  .
+
+Auf der anderen Seite kann eine  `  `   `  `   `  ` -Angebots zahlreiche Gefahren  `  `  die  `  `   `  `  mit sich bringen.  `  `  Carsharing- `  `   `  `  als Alternative  `  `  ÖPNV wahrgenommen werden,  `  `  Busse und Straßenbahnen wirtschaftlich unter Druck –  `  `   `  `  die Straßeninfrastruktur  `  `   `  `   `  `  .
+
+Zum Glück funktioniert  `  `   `  `   `  `  `  `  nicht nur `  `  Autos: Die Zahl `  `  `  `  `  `  `  `  Fahrr`  `  und E-Scooter hat in `  `  letzten Jahren deutlich gestiegen. Diese stellen eine ideale Transportlösung `  `  die sogenannte letzte Meile `  `  und `  `  `  `  `  `  `  `  gut ausgebauten und sicheren Geh- und Radwegen.
+
+Aus diesem Grund halte ich es persönlich für sinnvoll, `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  `  ` . Carsharing `  ` Bürger:innen `  ` `  ` Alternative `  ` `  ` `  ` bieten, `  ` Radsharing `  ` Weg `  ` `  ` `  ` des öffentlichen Verkehrs deutlich `  ` wird.
+
+Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eine anregende Diskussion
+
+
+
+
+
+
+
+
+
+
+
+---
+---
+---
+
+
+
 *[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
 
 `seit` einiger Zeit verfolge ich eure Beiträge `im` Forum `mit` großem Interesse. Das letzte Thema hat `mich` besonders [[angesprochen]], `sodass` ich `mich` [[gern]] `an` der [[Diskussion]] [[beteiligen]] möchte.^1
@@ -36,7 +93,6 @@ Auf der einen Seite ist der Nutzen von Carsharing unbestreitbar – es ermöglic
 
 ---
 ----
-
 
 
 *[[114-LEGO#^13|^]]* Zudem sehen viele `darin` eine [[umweltfreundlich]]e [[Alternative]] `zum` [[eigene]]n Auto, die [[zugleich]] Kosten senkt und den städtischen [[Platzbedarf]] reduziert ^13
@@ -90,10 +146,10 @@ Diese stellen eine ideale Transportlösung für die sogenannte letzte Meile dar 
 ---
 ---
 
-*[[114-LEGO#^18|^]]* Aus diesem Grund [[halte]] ich es persönlich `für` [[wahrscheinlich]], dass flexible [[Mobilitätskonzept]]e in [[Zukunft]] [[integral]]er [[Bestandteil]] des städtischen [[Alltagsverkehr]]s werden. ^18
+*[[114-LEGO#^18|^]]* Aus diesem Grund [[halte]] ich es persönlich `für` [[sinnvoll]], dass flexible [[Mobilitätskonzept]]e in [[Zukunft]] [[integral]]er [[Bestandteil]] des städtischen [[Alltagsverkehr]]s werden. ^18
 
 
-Aus diesem Grund halte ich es persönlich für wahrscheinlich, dass flexible Mobilitätskonzepte in Zukunft integraler Bestandteil des städtischen Alltagsverkehrs werden.
+Aus diesem Grund halte ich es persönlich für sinnvoll, dass flexible Mobilitätskonzepte in Zukunft integraler Bestandteil des städtischen Alltagsverkehrs werden.
 
 
 

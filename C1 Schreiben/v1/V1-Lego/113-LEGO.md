@@ -4,6 +4,58 @@
 ---
 ---
 
+Liebe Forumsteilnehmende,
+
+seit einiger Zeit verfolge ich eure `  ` im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte. 
+
+Weil meine Frau und ich beide `  `  `  `  arbeiten, fragen wir uns oft, wie `  `  `  `  mit unser`  `  Karrieren `  `  `  ` .
+
+`  `  sind wir beide in der Finanzbranche `  ` , in der seit der Pandemie die Popularität `  `  Homeoffice- und Hybridmodellen stark zugenommen hat. `  `  haben wir – wie viele Angestellte in IT, Werbung oder Buchhaltung – deutlich mehr Zeit, zu Hause mit unser`  `  Kindern zu `  ` . Infolgedessen `  `  die `  `  `  `  Beruf und Familie `  `  `  ` .
+
+Allerdings kann die `  `  `  `  `  `  der demografischen Probleme nicht allein auf Entscheidungen privater Unternehmen setzen. Ohne `  `  Unterstützung `  `  `  `  `  `  die Unternehmen von heute unter `  `  `  `  `  ` , und `  `  `  `  die demografische Zukunft des Landes `  `  `  ` .
+
+Ein solches Unterstützungsmodell bietet mein Heimatland Russland: Dort erhalten `  `  Mütter einjährig`  `  bezahlt`  `  `  `  `  `  eine dreijährige Arbeitsplatzgarantie. `  `  erhalten sie `  `  jed`  `  neugeboren`  `  Kind ein`  `  staatlich`  `  `  ` , der `  `  `  `  `  `  finanziell`  `  Druck `  ` . Doch `  `  `  `  reicht `  `  nicht aus: Der Mangel an Kitaplätzen, gepaart mit `  `  `  `  Schulen, `  `  viele russische Eltern `  ` , `  `  zwischen Karriere und `  `  `  `  `  `  `  ` .
+
+Aus diesem Grund `  `  ich es persönlich `  `  sinnvoll, dass `  `  `  `  Staat `  `  die `  `  des `  `  `  `  `  `  `  `  `  `  und Schule konzentriert. Dadurch `  `  Eltern die Zeit `  `  ununterbrochen`  `  Arbeit – ohne die ein ausgewogen`  `  Lebensstil `  `  `  `  `  `  `  `  kaum realisierbar ist.
+
+`  `  meine `  `  zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eine anregende Diskussion.
+
+
+---
+---
+
+Liebe Forumsteilnehmende,
+
+seit einiger Zeit verfolge ich eure `  ` im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte. 
+
+Weil meine Frau und ich beide `  `  `  `  arbeiten, fragen wir uns oft, wie `  `  `  `  mit unser`  `  Karrieren `  `  `  ` .
+
+`  `  sind wir beide in der Finanzbranche `  ` , in der seit der Pandemie die Popularität `  `  Homeoffice- und Hybridmodellen stark zugenommen hat. `  `  haben wir – wie viele Angestellte in IT, Werbung oder Buchhaltung – deutlich mehr Zeit, zu Hause mit unser`  `  Kindern zu `  ` . Infolgedessen `  `  die `  `  `  `  Beruf und Familie `  `  `  ` .
+
+Allerdings kann die `  `  `  `  `  `  der demografischen Probleme nicht allein auf Entscheidungen privater Unternehmen setzen. Ohne `  `  Unterstützung `  `  `  `  `  `  die Unternehmen von heute unter `  `  `  `  `  ` , und `  `  `  `  die demografische Zukunft des Landes `  `  `  ` .
+
+Ein solches Unterstützungsmodell bietet mein Heimatland Russland: Dort erhalten `  `  Mütter einjährig`  `  bezahlt`  `  `  `  `  `  eine dreijährige Arbeitsplatzgarantie. `  `  erhalten sie `  `  jed`  `  neugeboren`  `  Kind ein`  `  staatlich`  `  `  ` , der `  `  `  `  `  `  finanziell`  `  Druck `  ` . Doch `  `  `  `  reicht `  `  nicht aus: Der Mangel an Kitaplätzen, gepaart mit `  `  `  `  Schulen, `  `  viele russische Eltern `  ` , `  `  zwischen Karriere und `  `  `  `  `  `  `  ` .
+
+Aus diesem Grund `  `  ich es persönlich `  `  sinnvoll, dass `  `  `  `  Staat `  `  die `  `  des `  `  `  `  `  `  `  `  `  `  und Schule konzentriert. Dadurch `  `  Eltern die Zeit `  `  ununterbrochen`  `  Arbeit – ohne die ein ausgewogen`  `  Lebensstil `  `  `  `  `  `  `  `  kaum realisierbar ist.
+
+`  `  meine `  `  zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eine anregende Diskussion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+----
+----
 
 *[[100-LEGO#^1|^]]* Liebe [[Forumsteilnehmende]],
 
@@ -30,31 +82,33 @@ Weil meine Frau und ich beide in Vollzeit arbeiten, fragen wir uns oft, wie sich
 ---
 
 
-*[[113-LEGO#^4|^]]* Wir arbeiten beide `in` der [[Finanzbranche]], wo Homeoffice- und Hybridmodelle stark [[zugenommen]] haben. ^4
+*[[113-LEGO#^4|^]]* [[Derzeit]] sind wir beide `in` `der` [[Finanzbranche]] [[tätig]], in der seit der Pandemie die [[Popularität]] `von` [[Homeoffice]]- und [[Hybridmodell]]en stark [[zugenommen]] hat.^4
 
 
-Wir arbeiten beide in der Finanzbranche, wo Homeoffice- und Hybridmodelle stark zugenommen haben. 
-
-
----
----
-
-
-*[[113-LEGO#^5|^]]* Dadurch haben wir – wie viele Kolleg:innen in IT, Werbung oder [[Buchhaltung]] – deutlich mehr Zeit, zu Hause mit unseren Kindern zu [[verbringen]]. Infolgedessen [[erscheint]] die [[Verbindung]] von Beruf und Familie tatsächlich [[greifbar]]. ^5
-
-
-
-Dadurch haben wir – wie viele Kolleg:innen in IT, Werbung oder Buchhaltung – deutlich mehr Zeit, zu Hause mit unseren Kindern zu verbringen. Infolgedessen erscheint die Verbindung von Beruf und Familie tatsächlich greifbar.
+Derzeit sind wir beide in der Finanzbranche tätig, in der seit der Pandemie die Popularität von Homeoffice- und Hybridmodellen stark zugenommen hat.
 
 
 ---
 ---
 
 
-*[[113-LEGO#^6|^]]* Allerdings kann die [[Gesellschaft]] nicht allein `auf` [[Entscheidung]]en privater Unternehmen – und das `nur` `in` [[ausgewählten]] Branchen – [[setzen]]. ^6
+*[[113-LEGO#^5|^]]* Dadurch haben wir – wie viele [[Angestellte]] in IT, [[Werbung]] oder [[Buchhaltung]] – deutlich mehr Zeit, zu Hause mit unseren Kindern zu [[verbringen]]. Infolgedessen erscheint die Verbindung von Beruf und Familie tatsächlich greifbar  ^5
 
 
-Allerdings kann die Gesellschaft nicht allein auf Entscheidungen privater Unternehmen – und das nur in ausgewählten Branchen – setzen. 
+
+Dadurch haben wir – wie viele Angestellte in IT, Werbung oder Buchhaltung – deutlich mehr Zeit, zu Hause mit unseren Kindern zu verbringen. Infolgedessen erscheint die Verbindung von Beruf und Familie tatsächlich greifbar.
+
+
+
+
+---
+---
+
+
+*[[113-LEGO#^6|^]]* Allerdings kann die Gesellschaft zur Lösung der demografischen Probleme nicht allein auf Entscheidungen privater Unternehmen setzen ^6
+
+
+Allerdings kann die Gesellschaft zur Lösung der demografischen Probleme nicht allein auf Entscheidungen privater Unternehmen setzen
 
 
 ---

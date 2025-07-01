@@ -28,4 +28,4 @@ G: der [[Anpassung]], der [[Anpassungen]]
 D: der [[Anpassung]], den [[Anpassungen]]
 
 #Feminin 
-, [[unangepasst]], [[Personalisierung]]
+, [[unangepasst]], [[Personalisierung]], [[Lebensstilumstellung]]

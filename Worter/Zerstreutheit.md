@@ -31,3 +31,5 @@ D: der [[Zerstreutheit]], den [[Zerstreutheiten]]
 
 #Feminin 
 
+
+[[Zer]] streutheit

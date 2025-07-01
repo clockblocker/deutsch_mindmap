@@ -34,7 +34,7 @@ to observe, to regard, to consider
 
 ---
 ich: [[betrachte]], [[betrachtete]], –, [[betrachte]], [[betrachtete]]
-du: [[betrachtest]], [[betrachtetetest]], [[betrachte]] | [[betracht]] | [[betrachte]], [[betrachtest]], [[betrachtetetest]]
+du: [[betrachtest]], [[betrachtetetest]], [[betrachte]] | [[Betracht]] | [[betrachte]], [[betrachtest]], [[betrachtetetest]]
 er/sie/es: [[betrachtet]], [[betrachtete]], –, [[betrachte]], [[betrachtete]]
 wir: [[betrachten]], [[betrachteten]], [[betrachten wir|betrachten]], [[betrachten]], [[betrachteten]]
 ihr: [[betrachtet]], [[betrachtetet]], [[betrachtet]], [[betrachtet]], [[betrachtetet]]

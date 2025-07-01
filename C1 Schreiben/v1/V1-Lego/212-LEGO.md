@@ -15,12 +15,10 @@ ich habe vollstes Verständnis dafür, dass geplante Funktionsräume die interne
 ---
 ---
 
-*[[212-LEGO#^2|^]]* Die Kantine, die `zu` neuen Funktionsräumen [[umgebaut]] `werden` `würde`, [[halte]] ich [[jedoch]] `für` [[unverzichtbar]], da `sich` unser Büro in einem [[Industriegebiet]] befindet, in dem es `weder` Restaurants `noch` Supermärkte gibt.^2
+*[[212-LEGO#^2|^]]* Allerdings [[halte]] ich die Kantine, die `zu` neuen Funktionsräumen [[umgebaut]] `werden` `würde`, `für` [[unverzichtbar]], da `sich` unser Büro in einem [[Industriegebiet]] befindet, in dem es `weder` Restaurants `noch` Supermärkte gibt.^2
 
 
-Die Kantine, die zu neuen Funktionsräumen umgebaut werden würde, halte ich jedoch für unverzichtbar, da sich unser Büro in einem Industriegebiet befindet, in dem es weder Restaurants noch Supermärkte gibt.
-
-![[ElevenLabs_2025-06-25T06_00_04_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+Allerdings halte ich die Kantine, die zu neuen Funktionsräumen umgebaut werden würde, für unverzichtbar, da sich unser Büro in einem Industriegebiet befindet, in dem es weder Restaurants noch Supermärkte gibt.
 
 
 ---

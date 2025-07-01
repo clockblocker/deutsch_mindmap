@@ -1,4 +1,4 @@
-[[211-C1-Schreiben-Model|Text]] [[0-LEGO]]
+ [[211-C1-Schreiben-Model|Text]] [[0-LEGO]]
 
 ---
 ---
@@ -36,7 +36,7 @@ Allerdings habe ich zwei Jahre darauf hingearbeitet, einen Platz im Programm zu 
 ---
 ---
 
-*[[211-LEGO#^4|^]]* `Um` `an` dem `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen|teilzunehmen]], [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]. ^4
+*[[211-LEGO#^4|^]]* `Um` `an` de`m` `vor` [[Ort]] [[stattfindend]]en [[Studium]] [[teilnehmen|teilzunehmen]], [[benötige]] ich eine sechsmonatige [[Bildungsfreistellung]]. ^4
 
 
 Um an dem vor Ort stattfindenden Studium teilzunehmen, benötige ich eine sechsmonatige Bildungsfreistellung.
@@ -57,10 +57,10 @@ Am Ende des Programms würde ich nicht nur meinen aktuellen Aufgabenbereich erwe
 ---
 ---
 
-*[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine [[längere]] [[Freistellung]] möglich sein, schlage ich vor, mein Studium [[vollständig]] `im` Homeoffice [[absolvieren]] zu dürfen. ^6
+*[[211-LEGO#^6|^]]* Sollte [[derzeit]] kein`e` länger`e` [[Freistellung]] [[ermöglicht]] werden können, schlage ich vor, [[während]] mein`es` Studium`s` [[vollständig]] `im` Homeoffice arbeiten zu dürfen. ^6
 
 
-Sollte derzeit keine längere Freistellung möglich sein, schlage ich vor, mein Studium vollständig im Homeoffice absolvieren zu dürfen.
+Sollte derzeit keine längere Freistellung ermöglicht werden können, schlage ich vor, während meines Studiums vollständig im Homeoffice arbeiten zu dürfen.
 
 ![[ElevenLabs_2025-06-13T06_09_01_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 

@@ -11,6 +11,9 @@ _[[C1-Hoehen-T2-101-Text#^1|^]]_ Willkommen zu unserem Wissenschaftspodcast „N
 
 _[[1 Wer bin ich und was mache ich hier?#^5|^]]_ In der Partei beschäftigte ich mich mit dem Design von Werbematerialien, half bei der Entwicklung der IT-Infrastruktur, [[anwerben|warb]] Menschen und Geld an und war öffentlich [[tätig]]
 
+*[[113-LEGO#^4|^]]* [[Derzeit]] sind wir beide `in` `der` [[Finanzbranche]] [[tätig]], wo die [[Popularität]] `von` [[Homeoffice]]- und [[Hybridmodell]]en stark [[zugenommen]] hat
+
+
 ---
 
 = [[aktiv]], [[beschäftigt]], [[arbeitend]]

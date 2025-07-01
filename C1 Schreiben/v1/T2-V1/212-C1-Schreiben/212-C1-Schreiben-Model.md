@@ -21,13 +21,32 @@ Sehr geehrte Frau Ebert,
 
 ich habe vollstes Verständnis dafür, dass geplante Funktionsräume die interne Kommunikation fördern – ein Aspekt, der im Arbeitsalltag unabdingbar ist.
 
-Die Kantine, die zu neuen Funktionsräumen umgebaut werden würde, halte ich jedoch für unverzichtbar, da sich unser Büro in einem Industriegebiet befindet, in dem es weder Restaurants noch Supermärkte gibt.
+Allerdings halte ich die Kantine, die zu neuen Funktionsräumen umgebaut werden würde, für unverzichtbar, da sich unser Büro in einem Industriegebiet befindet, in dem es weder Restaurants noch Supermärkte gibt.
 
 Ohne sie wäre ich persönlich gezwungen, mein Mittagessen täglich selbst zu Hause vorzubereiten – wofür mir leider die Zeit fehlt.
 
 Zusätzlich ermöglicht die Kantine allen Mitarbeitenden preiswerte warme Mahlzeiten, was sich positiv auf die Arbeitsatmosphäre und die Produktivität auswirkt.
 
 Sollte sich kein alternativer Ort für die geplanten Funktionsräume finden lassen, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren, um der gesamten Belegschaft eine vergünstigte Essensversorgung zu ermöglichen. 
+
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
+
+Mit freundlichen Grüßen  
+Denis Popov
+
+---
+
+Sehr geehrte Frau Ebert,
+
+ich habe vollstes Verständnis dafür, dass geplante Funktionsräume die interne Kommunikation fördern – ein Aspekt, der im Arbeitsalltag unabdingbar ist.
+
+Allerdings ==halte== ich die Kantine, ==die zu== neu==en== Funktionsräumen umgebaut werden würde, für ==unverzichtbar==, da sich unser Büro in einem Industriegebiet befindet, in dem es weder Restaurants noch Supermärkte gibt.
+
+Ohne sie ==wäre== ich persönlich gezwungen, mein Mittagessen täglich selbst zu Hause vorzubereiten – wofür mir leider die Zeit fehlt.
+
+Zusätzlich ermöglicht die Kantine allen Mitarbeitenden preiswerte warme Mahlzeiten, was sich positiv auf ==die== Arbeitsatmosphäre und ==die== Produktivität auswirkt.
+
+Sollte ==sich== kein alternativer Ort für die geplant==en== Funktionsräume ==finden lassen==, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren, um ==der== gesamten ==Be==legschaft eine vergünstigte Essensversorgung zu ermöglichen. 
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 

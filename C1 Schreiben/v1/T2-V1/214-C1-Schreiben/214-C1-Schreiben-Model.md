@@ -18,9 +18,9 @@ Sie studieren derzeit an der Hochschule Ihrer Stadt und möchten Ihr obligatoris
 
 Sehr geehrte Frau Dr. Weber,  
 
-ich wende mich an Sie, um mein Interesse an der Position als Praktikant in Ihrem KI R&D-Team zu bekunden, deren Ausschreibung ich auf Ihrer Unternehmenswebsite gelesen habe.
+ich wende mich an Sie, um mein Interesse an der Position als Praktikant in Ihrem KI R&D-Team zu bekunden.
 
-Blauhimmel hebt sich für mich durch seine Pionierrolle im Bereich KI-Anwendungen hervor – genau das Umfeld, in dem ich meine praktischen Kenntnisse vertiefen und mein Praxissemester absolvieren möchte.
+Blauhimmel hebt sich für mich durch seine Pionierrolle im Bereich KI-Anwendungen hervor – genau das Umfeld, in dem ich *meine praktischen Kenntnisse vertiefen und* mein Praxissemester absolvieren möchte.
 
 Zurzeit studiere ich im zweiten Semester Informatik an der Technischen Universität München. In meiner Freizeit nehme ich an Hackathons im Bereich KI und Datenanalyse teil. Deshalb hoffe ich, in kurzer Zeit Ihr Team mit meinen Fähigkeiten bereichern zu können. 
 
@@ -32,6 +32,24 @@ Mit freundlichen Grüßen
 Denis Popov
 
 [[215-C1-Schreiben-Model|215]]
+
+
+---
+
+Sehr geehrte Frau Dr. Weber,  
+
+ich wende mich an Sie, um mein Interesse an der Position als Praktikant in Ihrem KI R&D-Team zu bekunden.
+
+Blauhimmel hebt sich für mich durch seine Pionierrolle im Bereich KI-Anwendungen hervor – genau ==das== Umfeld, in ==dem== ich *meine praktischen Kenntnisse vertiefen und* mein Praxissemester absolvieren möchte.
+
+Zurzeit studiere ich ==im== zweit==en== Semester Informatik an der Technischen Universität München. In meiner Freizeit nehme ich an Hackathons im Bereich KI und Datenanalyse teil. Deshalb hoffe ich==,== in kurzer Zeit Ihr Team mit mein==en== Fähigkeiten bereichern zu können. 
+
+Sollten Sie Interesse haben, schlage ich gern ein kurzes Telefonat vor, ==dem== ein persönliches Gespräch folgen kann.
+
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
+
+Mit freundlichen Grüßen  
+Denis Popov
 
 ---
 

@@ -3,7 +3,7 @@
 ---
 ---
 
-*[[113-LEGO#^4|^]]* Wir arbeiten beide `in` der [[Finanzbranche]], wo Homeoffice- und Hybridmodelle stark [[zugenommen]] haben
+*[[113-LEGO#^4|^]]* [[Derzeit]] sind wir beide `in` `der` [[Finanzbranche]] [[tätig]], wo die [[Popularität]] `von` [[Homeoffice]]- und [[Hybridmodell]]en stark [[zugenommen]] hat
 
 
 ---

@@ -26,7 +26,7 @@ ja, genau! die [[Vergangenheit]] ändert nichts daran, dass es eine [[Bewegung]]
 
 ---
 
-= Tat]], [[Aktion]], [[Vorgang]]
+= [[Tat]], [[Aktion]], [[Vorgang]]
 ≈ [[Aktivität]], [[Verrichtung]], [[geschehen]], [[Ereignis]]
 ≠ [[Untätigkeit]], [[Stillstand]], [[Passivität]]
 

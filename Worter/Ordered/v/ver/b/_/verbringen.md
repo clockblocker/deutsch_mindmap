@@ -3,8 +3,7 @@
 ---
 ---
 
-*[[113-LEGO#^5|^]]* Dadurch haben wir – wie viele Kolleg:innen in IT, Werbung oder [[Buchhaltung]] – deutlich mehr Zeit, zu Hause mit unseren Kindern zu [[verbringen]]. Infolgedessen [[erscheint]] die [[Verbindung]] von Beruf und Familie tatsächlich [[greifbar]]
-
+*[[113-LEGO#^5|^]]* Dadurch haben wir – wie viele [[Angestellte]] in IT, [[Werbung]] oder [[Buchhaltung]] – deutlich mehr Zeit, zu Hause mit unseren Kindern zu [[verbringen]]. Infolgedessen erscheint die Verbindung von Beruf und Familie tatsächlich greifbar  ^5
 
 
 ---

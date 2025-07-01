@@ -1,4 +1,4 @@
- [[C1-Schreiben-Root|Back to Root]]
+  [[C1-Schreiben-Root|Back to Root]]
 
   [[211-C1-Schreiben-Drills|Drills]] | [[211-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]] | [[211-LEGO]] 
 
@@ -18,6 +18,7 @@ Schreiben Sie circa 120 Wörter.
 
 ![[0211.mp3]]
 
+
 Sehr geehrte Frau Keller,
 
 ich wende mich an Sie, um auf mein geplantes MBA-Studium an der Technischen Universität München einzugehen.
@@ -28,12 +29,37 @@ Allerdings habe ich zwei Jahre darauf hingearbeitet, einen Platz im Programm zu 
 
 Am Ende des Programms würde ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch ein wertvolles Alumni-Netzwerk mitbringen – wodurch dem Unternehmen neue potenzielle Kunden und Partner zugänglich wären.
 
-Sollte derzeit keine längere Freistellung möglich sein, schlage ich vor, mein Studium vollständig im Homeoffice absolvieren zu dürfen.
+Sollte derzeit keine längere Freistellung ermöglicht werden können, schlage ich vor, während meines Studiums vollständig im Homeoffice arbeiten zu dürfen.
 
 Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
 
 Mit freundlichen Grüßen  
 Denis Popov
+
+---
+
+8:22
+Sehr geehrte Frau Keller,
+
+ich wende mich an Sie, um auf mein geplantes MBA-Studium *an der Technischen Universität München* einzugehen.
+
+Ich habe vollstes Verständnis dafür, dass jede Abwesenheit unter ==den== derzeitigen Bedingungen des Personalmangels und des hohen Arbeitsdrucks eine Herausforderung ==für== das Unternehmen darstellt.
+
+Allerdings habe ich zwei Jahr==e== darauf hingearbeitet, einen Platz im Programm zu erhalten. 
+Um an dem vor Ort stattfin==denden== Studium teilzunehmen, benötige ich eine sechsmonatige Bildungsfreistellung.
+
+Am Ende des Programms würde ich nicht nur meinen aktuellen Aufgabenbereich erweitern, sondern auch ein wertvolles Alumni-Netzwerk mitbringen – wodurch dem Unternehmen neue potenzielle Kunden und Partner zugänglich wären.
+
+Sollte derzeit keine längere Freistellung ermöglicht werden ==können==, schlage ich vor, während `meines` Studiums vollständig im Homeoffice arbeiten zu dürfen.
+
+Ich freue mich auf Ihre Rückmeldung und danke Ihnen im Voraus.
+
+Mit freundlichen Grüßen  
+Denis Popov
+
+
+----
+
 
 [[212-C1-Schreiben-Model|212]]
 

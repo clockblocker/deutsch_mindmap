@@ -4,6 +4,50 @@
 ---
 ---
 
+Besonders gefiel==en== mir die sorgfältig ausgewählt==en== Ausflüge und die ==freundliche Betreuung== durch Sie und Ihr Team.
+
+
+==Daher== ==möchte== ich höflich anfragen, ==ob== ==eine Entschädigung== ==für== ==die== entstan==denen== Unannehmlichkeiten in Betracht gezogen werden könnte.
+
+
+Um ähnliche Probleme künftig zu vermeiden, schlage ich vor, ==Verträge== mit ==zuverlässigeren== Transportunternehmen abzuschließen. Darüber hinaus wäre es sinnvoll, ==für Ausflüge== ==vorsorglich== alternative Routen ==bei== möglichen Verkehrsproblemen einzuplanen.
+
+
+----
+
+
+Sollten Sie Interesse haben, schlage ich gern ein kurzes Telefonat vor, ==dem== ein persönliches Gespräch folgen kann.
+
+
+---
+
+Allerdings ==halte== ich die Kantine, ==die zu== neu==en== Funktionsräumen umgebaut werden würde, für ==unverzichtbar==, da sich unser Büro in einem Industriegebiet befindet, in dem es weder Restaurants noch Supermärkte gibt.
+
+Sollte ==sich== kein alternativer Ort für die geplant==en== Funktionsräume ==finden lassen==, schlage ich vor, ein Firmenangebot mit einem Lieferdienst zu arrangieren, um ==der== gesamten ==Be==legschaft eine vergünstigte Essensversorgung zu ermöglichen. 
+
+
+---
+
+Der Mangel an Steckdosen – zumal Powerbanks verboten sind – ==schränkt== die Zahl nutzbarer Arbeitsplätze in der Bibliothek ==für== die Studierenden, deren Studium ==den== Einsatz ==von== Laptops erfordert, erheblich ein.
+
+
+----
+
+
+
+
+
+
+
+
+
+
+
+
+----
+---
+---
+
 Um an dem vor Ort stattfindenden
 
 vergünstigte Essensversorgung

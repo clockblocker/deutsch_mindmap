@@ -1,4 +1,4 @@
-[[213-C1-Schreiben-Model]] | [[0-LEGO]]
+ [[213-C1-Schreiben-Model]] | [[0-LEGO]] 
 
 ---
 ---
@@ -38,10 +38,10 @@ Mein Studierendenwohnheim bietet diese Voraussetzungen leider nicht.
 ---
 ---
 
-*[[213-LEGO#^4|^]]* Der [[Mangel]] `an` [[Steckdose]]n, [[zumal]] Powerbanks `in` der Bibliothek verboten sind, [erschwert] das Arbeiten `für` mich und alle [[Studierend]]en, `deren` Studium den [[Einsatz]] `von` Laptops [[erfordert]], [[erheblich]] ^4
+*[[213-LEGO#^4|^]]* Der Mangel an Steckdosen – zumal Powerbanks verboten sind – schränkt die Zahl der nutzbaren Arbeitsplätze in der Bibliothek für mich und alle Studierenden, deren Studium den Einsatz von Laptops erfordert, erheblich ein.  ^4
 
 
-Der Mangel an Steckdosen, zumal Powerbanks in der Bibliothek verboten sind, erschwert das Arbeiten für mich und alle Studierenden, deren Studium den Einsatz von Laptops erfordert, erheblich.
+Der Mangel an Steckdosen – zumal Powerbanks verboten sind – schränkt die Zahl nutzbarer Arbeitsplätze in der Bibliothek für die Studierenden, deren Studium den Einsatz von Laptops erfordert, erheblich ein.
 
 ![[ElevenLabs_2025-06-13T06_14_33_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 

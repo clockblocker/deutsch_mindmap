@@ -4,7 +4,7 @@
 ---
 ---
 
-*[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine [[längere]] [[Freistellung]] möglich sein, schlage ich vor, mein Studium [[vollständig]] `im` Homeoffice [[absolvieren]] zu dürfen.
+*[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine längere [[Freistellung]] [[ermöglicht]] werden können, schlage ich vor, [[während]] meines Studiums [[vollständig]] im Homeoffice arbeiten zu dürfen
 
 
 *[[111-LEGO#^22|^]]* Ich merke zum Beispiel, dass ich `seit` [[Langem]] kein Buch mehr [[vollständig]] gelesen habe – meine [[Konzentration]] [[bricht ab|bricht]] oft schon nach wenigen Seiten ab

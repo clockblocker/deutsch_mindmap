@@ -32,3 +32,4 @@ D: dem [[Modell]], den [[Modellen]]
 #Neuter 
 
 [[Version]], [[Bauplan]], [[Ausführung]], [[Theorie]], [[Lernmodell]], [[Fahrzeugtyp]], [[Gehaltsmodell]], [[Form]], [[Hybridarbeitsmodell]], [[Fahrzeugmodell]], [[Unterstützungsmodell]], [[Vorlage]], [[Vorbild]], [[Bauart]], [[Modellrechnung]], [[Modellierung]], [[Arbeitszeitmodell]], [[Arbeitsmodell]]
+, [[Hybridmodell]]

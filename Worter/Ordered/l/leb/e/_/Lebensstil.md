@@ -42,4 +42,4 @@ G: des [[Lebensstils]], der [[Lebensstile]]
 D: dem [[Lebensstil]], den [[Lebensstilen]]
 
 #Maskulin 
-, [[Lebenswandel]], [[Ernährungsweise]]
+, [[Lebenswandel]], [[Ernährungsweise]], [[Lebensstilumstellung]]

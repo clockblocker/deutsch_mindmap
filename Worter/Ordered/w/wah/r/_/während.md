@@ -10,6 +10,9 @@
 *[[114-LEGO#^19|^]]* Carsharing wird Bürger:innen eine [[echt]]e Alternative `zum` eigenen [[Pkw]] [[bieten]], [[während]] [[Radsharing]] den Weg `zur` [[nächst]]en [[Haltestelle]] des öffentlichen Verkehrs [[deutlich]] [[erleichtern]] wird 
 
 
+*[[211-LEGO#^6|^]]* Sollte [[derzeit]] keine längere [[Freistellung]] [[ermöglicht]] werden können, schlage ich vor, [[während]] meines Studiums [[vollständig]] im Homeoffice arbeiten zu dürfen
+
+
 *[[213-LEGO#^5|^]]* Sollten [[derzeit]] keine [[zusätzlich]]en [[Steckdose]]n [[eingebaut]] werden können, schlage ich vor, die [[Nutzung]] von Powerbanks [[während]] der Umbauarbeiten zu erlauben
 
 

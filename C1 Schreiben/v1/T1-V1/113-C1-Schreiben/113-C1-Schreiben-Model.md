@@ -1,7 +1,4 @@
-[[C1-Schreiben-Root]]
-
-[[113-C1-Schreiben-Drills|Drills]]
-[[113-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
+ [[C1-Schreiben-Root]]  |  [[113-LEGO]] 
 
 ----
 ---
@@ -16,16 +13,19 @@ Nehmen Sie Stellung zu folgenden Punkten:
 ----
 ----
 
-![[0113.mp3]]
+![[000113.mp3]]
+
+---
+---
 #### Aktuell
 
 *Liebe Forumsteilnehmende,*
 
-*seit einiger Zeit verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte.* Weil meine Frau und ich beide in Vollzeit arbeiten, fragen wir uns oft, wie sich Elternschaft mit unserer Karriere vereinbaren lässt.
+*seit einiger Zeit verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte.* Weil meine Frau und ich beide in Vollzeit arbeiten, fragen wir uns oft, wie sich Elternschaft mit unseren Karrieren vereinbaren lässt.
 
-Wir arbeiten beide in der Finanzbranche, wo Homeoffice- und Hybridmodelle stark zugenommen haben. Dadurch haben wir – wie viele Kolleg:innen in IT, Werbung oder Buchhaltung – deutlich mehr Zeit, zu Hause mit unseren Kindern zu verbringen. Infolgedessen erscheint die Verbindung von Beruf und Familie tatsächlich greifbar.
+Derzeit sind wir beide in der Finanzbranche tätig, in der seit der Pandemie die Popularität von Homeoffice- und Hybridmodellen stark zugenommen hat. Dadurch haben wir – wie viele Angestellte in IT, Werbung oder Buchhaltung – deutlich mehr Zeit, zu Hause mit unseren Kindern zu verbringen. Infolgedessen erscheint die Verbindung von Beruf und Familie tatsächlich greifbar.
 
-Allerdings kann die Gesellschaft nicht allein auf Entscheidungen privater Unternehmen – und das nur in ausgewählten Branchen – setzen. Ohne staatliche Unterstützung berufstätiger Eltern würden die Unternehmen von heute unter akutem Fachkräftemangel leiden, und zudem wäre die demografische Zukunft des Landes ernsthaft gefährdet.
+Allerdings kann die Gesellschaft zur Lösung der demografischen Probleme nicht allein auf Entscheidungen privater Unternehmen setzen. Ohne staatliche Unterstützung berufstätiger Eltern würden die Unternehmen von heute unter akutem Fachkräftemangel leiden, und zudem wäre die demografische Zukunft des Landes ernsthaft gefährdet.
 
 Ein solches Unterstützungsmodell bietet mein Heimatland Russland: Dort erhalten erwerbstätige Mütter einjährigen bezahlten Mutterschaftsurlaub sowie eine dreijährige Arbeitsplatzgarantie. Zusätzlich erhalten sie für jedes neugeborene Kind einen staatlichen Förderbetrag, der zur Entlastung vom finanziellen Druck beiträgt. Doch selbst das reicht oft nicht aus: Der Mangel an Kitaplätzen, gepaart mit weit entfernten Schulen, zwingt viele russische Eltern dazu, sich zwischen Karriere und Elternschaft entscheiden zu müssen.
 

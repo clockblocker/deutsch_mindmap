@@ -18,7 +18,10 @@ Schreiben Sie circa 230 Wörter.
 ---
 ---
 
-![[0112.mp3]]
+![[000112.mp3]]
+
+----
+----
 
 _Liebe Forumsteilnehmende,_
 
@@ -28,9 +31,9 @@ In den vergangenen zehn Jahren wurden in nahezu jedem Sommer neue Temperaturreko
 
 Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es zahlreiche persönliche Maßnahmen zum Schutz der Umwelt gibt. Man kann zum Beispiel statt mit dem Auto lieber mit dem Fahrrad zur Arbeit pendeln, oder die eigene Ernährung auf regionale und saisonale Obst- und Gemüsesorten ausrichten, anstatt auf verpackte Fertigprodukte zu setzen.
 
-Auf der anderen Seite sind viele Kritiker:innen der festen Überzeugung, dass die Umsetzung solcher klimafreundlichen Handlungen im Alltag leichter gesagt als getan ist. Nicht nur würde die alltägliche Mobilität ohne Autos erheblich erschwert, sondern auch die Lebenshaltungskosten würden durch sogenannte „Grünsteuern“ steigen – etwa in Form höherer Energiepreise, kostspieliger recycelbarer Verpackungen oder teurer Bio-Lebensmittel.
+Auf der anderen Seite sind viele Kritiker:innen der festen Überzeugung, dass die Umsetzung solcher klimafreundlichen Lebensstilumstellung in der Praxis leichter gesagt als getan ist. leichter gesagt als getan ist. Nicht nur würde die alltägliche Mobilität ohne Autos erheblich erschwert, sondern auch die Lebenshaltungskosten würden durch sogenannte „Grünsteuern“ steigen – etwa in Form höherer Energiepreise, kostspieliger recycelbarer Verpackungen oder teurer Bio-Lebensmittel.
 
-Meiner Meinung nach muss neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen. Deshalb halte ich die Teilnahme an Wahlen für die wirkungsvollste Möglichkeit, wie Einzelne zum Klimaschutz beitragen können.
+Meiner Meinung nach muss, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen, neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden. Deshalb halte ich die Teilnahme an Wahlen für die wirkungsvollste Möglichkeit, wie Einzelne zum Klimaschutz beitragen können.
 
 Nur wenn der ÖPNV und Radwege gut ausgebaut sind, haben Bürger:innen überhaupt eine echte Alternative zum Pkw. Und nur wenn Unternehmen durch Fördermittel und steuerliche Anreize unterstützt werden, sind sowohl der Umstieg auf recycelbare Verpackungen als auch eine preiswerte nachhaltige Lebensmittelproduktion praktisch umsetzbar. Ob solche Regulierungen eingeführt werden, hängt letztlich von den politischen Entscheidungen der Wähler:innen ab.
 

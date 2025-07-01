@@ -1,14 +1,9 @@
-🔴 👩‍💼 die [[Angestellte]], [ˈanɡəʃtɛltə]
+👩‍💼 die [[Angestellte]], [ˈanɡəʃtɛltə]
 
 ----
 ---
 
-*[[113-LEGO#^8|^]]* Diese [[erleichtern]] [[Angestellte]]n in remote-freundlichen Branchen – [[etwa]] IT, [[Werbung]] oder [[Buchhaltung]] – die [[Vereinbarkeit]] `von` Beruf und [[Elternschaft]] [[erheblich]], `da` die [[zuvor]] `im` [[Arbeitsweg]] [[verlorene]] [[Zeit]] nun mit den Kindern [[verbracht]] werden kann. ^8
-
-
-
-
-
+*[[113-LEGO#^5|^]]* Dadurch haben wir – wie viele [[Angestellte]] in IT, [[Werbung]] oder [[Buchhaltung]] – deutlich mehr Zeit, zu Hause mit unseren Kindern zu [[verbringen]]. Infolgedessen erscheint die Verbindung von Beruf und Familie tatsächlich greifbar  ^5
 
 
 

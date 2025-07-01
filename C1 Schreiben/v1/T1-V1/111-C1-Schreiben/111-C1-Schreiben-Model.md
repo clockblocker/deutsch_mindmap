@@ -12,22 +12,57 @@ Immer mehr Menschen verbringen täglich mehrere Stunden auf Plattformen wie Inst
 Schreiben Sie circa 230 Wörter.
 
 ---
+---
 
-![[0111.mp3]]
+![[000111.mp3]]
+
+----
+---
 
 _Liebe Forumsteilnehmende,_
 
-_seit einiger Zeit verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte._ Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, frage ich mich häufig, wie soziale Medien unseren Lebensstil beeinflussen und welchen Umgang wir damit finden sollten.
+_seit einiger Zeit verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte._ Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, frage ich mich häufig, wie soziale Medien unseren Lebensstil beeinflussen und welche Chancen und Herausforderungen damit verbunden sind.
 
-Warum soziale Medien so beliebt sind, liegt auf der Hand: Sie ermöglichen durch unmittelbaren Informationsaustausch sowohl ständigen Kontakt als auch eine Vielfalt an Inhalten für jede Gelegenheit. Sie stehen deshalb im Zentrum öffentlicher Diskussionen – und sind zugleich der Raum, in dem diese geführt werden.
+Warum soziale Medien so beliebt sind, liegt auf der Hand: Sie ermöglichen durch unmittelbaren Informationsaustausch sowohl ständigen Kontakt als auch eine Vielfalt an Inhalten für jede Gelegenheit. Deshalb stehen sie im Mittelpunkt öffentlicher Diskussionen – und sind zugleich der Ort, in dem diese geführt werden.
 
 Auf der einen Seite ist der Nutzen sozialer Medien unbestreitbar – fast jeder Wunsch der Nutzer:innen kann erfüllt werden: Über WhatsApp bleiben Eltern auch aus dem Ausland erreichbar, Instagram hält Freund:innen in Kontakt, LinkedIn dient dem Ausbau beruflicher Netzwerke, TikTok und YouTube bieten endlose Unterhaltung.
 
-Auf der anderen Seite kann die ständige Präsenz in der Online-Welt zahlreiche Gefahren mit sich bringen. Ich merke zum Beispiel, dass ich seit Langem kein Buch mehr vollständig gelesen habe – meine Konzentration bricht oft schon nach wenigen Seiten ab. Zudem wirkt sich diese allgemeine Zerstreutheit auch auf meinen Arbeitsalltag aus, da sie aufmerksames, tiefes Arbeiten erheblich erschwert.
+Auf der anderen Seite bringt die ständige Präsenz in der Online-Welt zahlreiche Gefahren mit sich. Ich merke zum Beispiel, dass ich seit Langem kein Buch mehr vollständig gelesen habe – meine Konzentration bricht oft schon nach wenigen Seiten ab. Zudem wirkt sich diese allgemeine Zerstreutheit auch auf meinen Arbeitsalltag aus, da sie aufmerksames, tiefes Arbeiten erheblich erschwert.
 
 Angesichts dieser Risiken habe ich einige der hier im Forum vorgeschlagenen Strategien ausprobiert. Besonders hilfreich empfand ich den Ratschlag, den Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken. Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten. Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen.
 
 _Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eure anregende Diskussion_
+
+
+---
+---
+
+Liebe Forumsteilnehmende,
+
+02:10
+seit einiger Zeit verfolge ich eure Beitr==ä==ge im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen m==ö==chte. 
+
+02:44
+Weil ich mich selbst schon oft bis nach Mitternacht im Scrollen verloren habe, frage ich mich ==häufig==, wie so==z==ia==l==e Medien unser==en== Lebensstil b==eei==nflu==ss==en und welche Chancen und Herausforderungen damit ==verbunden sind==.
+
+
+---
+
+3:17
+Warum so==z==iale Medien so beliebt sind, liegt auf der Hand: Sie ermöglichen durch unmittelba==ren== Informationsaustausch sowohl ständig==en== Kontakt als auch eine Vielfalt an Inhalten für jede Gelegenheit. Deshalb stehen sie im Mittelpunkt öffentlicher Diskussion==en== – und sind zugleich der Ort, ==in dem== diese gef==ü==hrt werden.
+
+4:00
+Auf der einen Seite ist der Nutzen sozialer Medien ==unbestreitbar== – fast jeder Wunsch der Nutzer:innen kann erfüllt werden: Über WhatsApp ==bleiben== Eltern auch ==aus dem== Ausland erreichbar, Instagram ==hält== Freund:innen ==in== Kontakt, LinkedIn dient dem Ausbau beruflicher Netzwerke, TikTok und YouTube bieten endlose Unterhaltung.
+
+4:26
+Auf der anderen Seite bringt die ständige Präsenz in der Online-Welt zahlreiche Gefahren mit sich. Ich merke zum Beispiel, dass ich seit ==Langem== kein Buch mehr vollständig gelesen habe ==–== meine Konzentration bricht ==oft== ==schon== ==nach== ==wenigen== Seiten ab. ==Zudem== wirkt sich ==diese== ==allgemeine== ==Zerstreutheit== auch auf meinen Arbeitsalltag aus, da sie aufmerksam==es==, tief==es== Arbeiten erheblich erschwert.
+
+Angesichts dieser Risiken habe ich einige der hier im Forum vorgeschlagenen Strategien ausprobiert. Besonders hilfreich empfand ich den Ratschlag, den Zugriff auf Twitter auf 30 Minuten pro Tag zu beschränken. Zusätzlich hat es sich als effektiv erwiesen, meinen Arbeitslaptop vollständig sozialmedienfrei zu halten. Und schließlich war die Regel, nur heruntergeladene Videos anzuschauen, hilfreich im Kampf gegen Empfehlungsalgorithmen.
+
+---
+
+Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eure anregende Diskussion
+
 
 ---
 ---
@@ -77,3 +112,8 @@ Ich bin
   und würde gerne meine Überlegungen mitteilen
 
 Solche Veränderungen lassen sich immer häufiger beobachten, was sich unter anderem in deutlich gesunkenen Leseverstehensraten zeigt.
+
+
+
+
+[[Zerstreutheit]]

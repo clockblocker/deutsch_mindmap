@@ -1,7 +1,6 @@
-[[C1-Schreiben-Root|Back to Root]]
+ [[C1-Schreiben-Root|Back to Root]] 
 
-[[114-C1-Schreiben-Drills|Drills]]
-[[114-C1-Schreiben-Full-Text-Versuch|Full Text Attempt]]
+ [[114-C1-Schreiben-Drills|Drills]] 
 
 ---
 ---
@@ -19,22 +18,24 @@ Schreiben Sie circa 230 Wörter.
 ---
 ---
 
-![[ElevenLabs_2025-06-28T04_57_55_Mila_pvc_sp100_s50_sb75_v3.mp3]]
+
+![[000114.mp3]]
+
 
 ---
 ---
 
 _Liebe Forumsteilnehmende,_
 
-_seit einiger Zeit verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte._ Weil ich selbst schon oft lieber mit einem Carsharing-Auto als mit der S-Bahn zur Arbeit pendle, frage ich mich häufig, wie dieses Modell unseren Lebensstil beeinflusst – und welche Chancen und Herausforderungen damit verbunden sind.
+_seit einiger Zeit verfolge ich eure Beiträge im Forum, und das letzte Thema hat mich besonders angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte._ Weil ich selbst schon oft lieber mit einem Carsharing-Auto als mit der S-Bahn zur Arbeit pendle, frage ich mich häufig, welche Chancen und Herausforderungen mit dem Modell der Autoteilung verbunden sind.
 
 Auf der einen Seite ist der Nutzen von Carsharing unbestreitbar – es ermöglicht seinen Kund:innen, genau dann ein Fahrzeug zu buchen, wenn sie es brauchen, ohne sich um Wartung, Versicherung oder Parkplatzsuche kümmern zu müssen. Zudem sehen viele darin eine umweltfreundliche Alternative zum eigenen Auto, die zugleich Kosten senkt und den städtischen Platzbedarf reduziert.
 
 Auf der anderen Seite kann eine Ausweitung des Carsharing-Angebots zahlreiche Gefahren für die städtische Verkehrssituation mit sich bringen. Würden Carsharing-Fahrzeuge zunehmend als Alternative zum ÖPNV wahrgenommen werden, gerieten Busse und Straßenbahnen wirtschaftlich unter Druck – während zugleich die Straßeninfrastruktur stärker belastet würde.
 
-Zum Glück funktioniert das Sharing-Modell inzwischen nicht nur für Autos: Die Zahl der zum Teilen verfügbaren Fahrräder und E-Scooter hat in den letzten Jahren deutlich zugenommen. Diese stellen eine ideale Transportlösung für die sogenannte letzte Meile dar und verstärken die Nachfrage nach gut ausgebauten und sicheren Geh- und Radwegen.
+Zum Glück funktioniert das Sharing-Modell inzwischen nicht nur für Autos: Die Zahl der zum Teilen verfügbaren Fahrräder und E-Scooter hat in den letzten Jahren deutlich gestiegen. Diese stellen eine ideale Transportlösung für die sogenannte letzte Meile dar und verstärken die Nachfrage nach gut ausgebauten und sicheren Geh- und Radwegen.
 
-Aus diesem Grund halte ich es persönlich für wahrscheinlich, dass flexible Mobilitätskonzepte in Zukunft integraler Bestandteil des städtischen Alltagsverkehrs werden. Carsharing wird Bürger:innen eine echte Alternative zum eigenen Pkw bieten, während Radsharing den Weg zur nächsten Haltestelle des öffentlichen Verkehrs deutlich erleichtern wird.
+Aus diesem Grund halte ich es persönlich für sinnvoll, dass flexible Mobilitätskonzepte in Zukunft integraler Bestandteil des städtischen Alltagsverkehrs werden. Carsharing wird Bürger:innen eine echte Alternative zum eigenen Pkw bieten, während Radsharing den Weg zur nächsten Haltestelle des öffentlichen Verkehrs deutlich erleichtern wird.
 
 _Soweit meine Überlegungen zu diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eine anregende Diskussion_
 

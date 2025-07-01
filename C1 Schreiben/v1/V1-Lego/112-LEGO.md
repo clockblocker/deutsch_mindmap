@@ -1,6 +1,80 @@
- [[C1-Schreiben-Root]] |  [[112-C1-Schreiben-Model|112-Text]]  
+   [[C1-Schreiben-Root]] |  [[112-C1-Schreiben-Model|112-Text]]  
 
 ---
+---
+---
+
+Liebe Forumsteilnehmende,
+
+seit Langem verfolge ich eure `  `  im Forum, und das letzte Thema hat mich so sehr angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte.
+
+In den vergangenen zehn Jahren `  ` in nahezu jed`  `  Sommer neue Temperaturrekorde verzeichnet; `  ` ist die Zahl `  ` Hitzewellen und `  ` deutlich gestiegen. Aus diesem Grund steht das Thema Klimaschutz im Mittelpunkt öffentlicher Diskussionen.
+
+Auf der einen Seite `  ` viele Aktivist:innen `  ` Standpunkt, dass es zahlreiche persönliche Maßnahmen `  ` `  ` `  ` `  ` gibt. Man kann zum Beispiel `  ` `  ` `  ` Auto `  ` `  ` `  ` Fahrrad `  ` Arbeit `  `, oder die `  ` `  ` auf regionale und saisonale Obst- und Gemüsesorten `  `, anstatt auf verpackte `  ` zu setzen.
+
+Auf der anderen Seite sind viele Kritiker:innen der festen Überzeugung, dass die `  ` solcher klimafreundlichen `  ` in der Praxis leichter gesagt als getan ist. Nicht nur `  ` die `  ` Mobilität ohne Autos erheblich erschwert, sondern auch die Lebenshaltungskosten `  ` durch sogenannte „Grünsteuern“ steigen – etwa `  ` Form `  ` Energiepreise, `  ` `  ` `  ` oder teurer Bio-Lebensmittel.
+
+Meiner Meinung nach muss, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen, `  ` `  ` `  ` `  ` `  ` Umwelt auch die Frage der Praktikabilität `  ` `  `. Deshalb `  ` ich die Teilnahme an Wahlen `  ` die `  ` `  `, `  ` `  ` zum Klimaschutz beitragen können.
+
+Nur wenn `  ` ÖPNV und Radwege gut ausgebaut sind, haben Bürger:innen `  ` eine `  ` Alternative `  ` Pkw. Und nur wenn Unternehmen `  ` `  `  und `  `  `  `  `  `  `  ` , sind `  `  der `  `  `  `  recycelbar`  `  Verpackung`  `  als auch eine `  `  `  `  `  `  praktisch umsetzbar. Ob solche Regulierungen `  `  werden, `  `  `  `  `  `  `  `  politischen Entscheidungen der Wähler:innen `  ` .
+
+`  `  meine `  `  `  `  diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eure anregende Diskussion
+
+
+
+---
+----
+
+
+Liebe Forumsteilnehmende,
+
+seit Langem verfolge ich eure `  `  im Forum, und das letzte Thema hat mich so sehr angesprochen, sodass ich mich gern an der Diskussion beteiligen möchte.
+
+In den vergangenen zehn Jahren `  ` in nahezu jed`  `  Sommer neue Temperaturrekorde verzeichnet; `  ` ist die Zahl `  ` Hitzewellen und `  ` deutlich gestiegen. Aus diesem Grund steht das Thema Klimaschutz im Mittelpunkt öffentlicher Diskussionen.
+
+Auf der einen Seite `  ` viele Aktivist:innen `  ` Standpunkt, dass es zahlreiche persönliche Maßnahmen `  ` `  ` `  ` `  ` gibt. Man kann zum Beispiel `  ` `  ` `  ` Auto `  ` `  ` `  ` Fahrrad `  ` Arbeit `  `, oder die `  ` `  ` auf regionale und saisonale Obst- und Gemüsesorten `  `, anstatt auf verpackte `  ` zu setzen.
+
+Auf der anderen Seite sind viele Kritiker:innen der festen Überzeugung, dass die `  ` solcher klimafreundlichen `  ` in der Praxis leichter gesagt als getan ist. Nicht nur `  ` die `  ` Mobilität ohne Autos erheblich erschwert, sondern auch die Lebenshaltungskosten `  ` durch sogenannte „Grünsteuern“ steigen – etwa `  ` Form `  ` Energiepreise, `  ` `  ` `  ` oder teurer Bio-Lebensmittel.
+
+Meiner Meinung nach muss, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen, `  ` `  ` `  ` `  ` `  ` Umwelt auch die Frage der Praktikabilität `  ` `  `. Deshalb `  ` ich die Teilnahme an Wahlen `  ` die `  ` `  `, `  ` `  ` zum Klimaschutz beitragen können.
+
+Nur wenn `  ` ÖPNV und Radwege gut ausgebaut sind, haben Bürger:innen `  ` eine `  ` Alternative `  ` Pkw. Und nur wenn Unternehmen `  ` `  `  und `  `  `  `  `  `  `  ` , sind `  `  der `  `  `  `  recycelbar`  `  Verpackung`  `  als auch eine `  `  `  `  `  `  praktisch umsetzbar. Ob solche Regulierungen `  `  werden, `  `  `  `  `  `  `  `  politischen Entscheidungen der Wähler:innen `  ` .
+
+`  `  meine `  `  `  `  diesem Thema. Ich bin gespannt auf eure Meinungen und freue mich auf eure anregende Diskussion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
 ---
 ---
 
@@ -67,12 +141,11 @@ Auf der einen Seite vertreten viele Aktivist:innen den Standpunkt, dass es zahlr
 ---
 ---
 
-*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Handlung]]en im [[Alltag]] [[leicht]]er gesagt als getan ist. ^10
+*[[112-LEGO#^10|^]]* Auf der anderen [[Seite]] sind viele Kritiker:innen der [[fest]]en [[Überzeugung]], dass die [[Umsetzung]] [[solche]]r [[klimafreundlich]]en [[Lebensstilumstellung]]en in der [[Praxis]] [[leicht]]er gesagt als getan ist. ^10
 
 
-Auf der anderen Seite sind viele Kritiker:innen der festen Überzeugung, dass die Umsetzung solcher klimafreundlichen Handlungen im Alltag leichter gesagt als getan ist.
+Auf der anderen Seite sind viele Kritiker:innen der festen Überzeugung, dass die Umsetzung solcher klimafreundlichen Lebensstilumstellung in der Praxis leichter gesagt als getan ist.
 
-![[ElevenLabs_2025-06-13T06_46_50_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
 
 
@@ -93,10 +166,10 @@ Nicht nur würde die alltägliche Mobilität ohne Autos erheblich erschwert, son
 ---
 ---
 
-*[[112-LEGO#^12|^]]* Meiner Meinung nach muss `neben` den [[Auswirkung]]en `auf` die [[Umwelt]] `auch` die Frage der [[Praktikabilität]] [[berücksichtigt]] werden, `um` [[realistisch]]e persönliche Maßnahmen gegen den Klimawandel vorzuschlagen ^12
+*[[112-LEGO#^12|^]]* Meiner Meinung nach muss, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen, neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden.^12
  
 
-Meiner Meinung nach muss neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen
+Meiner Meinung nach muss, um realistische persönliche Maßnahmen gegen den Klimawandel vorzuschlagen, neben den Auswirkungen auf die Umwelt auch die Frage der Praktikabilität berücksichtigt werden.
 
 ![[ElevenLabs_2025-06-24T04_34_04_Mila_pvc_sp100_s50_sb75_v3.mp3]]
 
@@ -117,10 +190,12 @@ Deshalb halte ich die Teilnahme an Wahlen für die wirkungsvollste Möglichkeit,
 ---
 ---
 
-*[[112-LEGO#^14|^]]* `Nur` `wenn` der [[ÖPNV]] und [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]] ^14
+*[[112-LEGO#^14|^]]* `Nur` `wenn` der [[ÖPNV]] und die [[Radweg]]e gut [[ausgebaut]] sind, haben Bürger:innen [[überhaupt]] eine [[echt]]e Alternative `zum` [[Pkw]] ^14
 
 
-Nur wenn der ÖPNV und Radwege gut ausgebaut sind, haben Bürger:innen überhaupt eine echte Alternative zum Pkw
+Nur wenn der ÖPNV und die Radwege gut ausgebaut sind, haben Bürger:innen überhaupt eine echte Alternative zum Pkw
+
+
 
 ![[ElevenLabs_2025-06-24T04_41_26_Mila_pvc_sp100_s50_sb75_v3 copy.mp3]]
 
@@ -138,10 +213,10 @@ Und nur wenn Unternehmen durch Fördermittel und steuerliche Anreize unterstütz
 ---
 ---
 
-*[[112-LEGO#^16|^]]* Ob solche [[Regulierung]]en [[eingeführt]] werden, [[hängt ab|hängt]] letztlich von den politischen Entscheidungen der Wähler:innen ab ^16
+*[[112-LEGO#^16|^]]* Ob solche [[Regulierung]]en [[eingeführt]] werden, [[hängt ab|hängt]] letztlich von den politischen Entscheidungen der einzelnen Wähler:innen ab ^16
 
 
-Ob solche Regulierungen eingeführt werden, hängt letztlich von den politischen Entscheidungen der Wähler:innen ab.
+Ob solche Regulierungen eingeführt werden, hängt letztlich von den politischen Entscheidungen der einzelnen Wähler:innen ab.
 
 
 ![[ElevenLabs_2025-06-24T04_45_50_Mila_pvc_sp100_s50_sb75_v3.mp3]]
@@ -244,4 +319,4 @@ Man kann zum Beispiel das Fahrrad statt des Autos als Verkehrsmittel nutzen oder
 
 
 
-[[Stadt]]
+[[Stadt]][[LEGO]]

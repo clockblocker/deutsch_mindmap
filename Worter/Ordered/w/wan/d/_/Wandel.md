@@ -32,4 +32,4 @@ A: den [[Wandel]], die [[Wandel]]
 G: des [[Wandels]], der [[Wandel]]
 D: dem [[Wandel]], den [[Wandeln]]
 
-#Maskulin , [[Klimawandel]], [[Umwandlung]], [[Lebenswandel]], [[Reform]], [[Demokratisierung]]
+#Maskulin , [[Klimawandel]], [[Umwandlung]], [[Lebenswandel]], [[Reform]], [[Demokratisierung]], [[Lebensstilumstellung]]

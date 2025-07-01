@@ -4,7 +4,7 @@
 ---
 ---
 
-*[[113-LEGO#^4|^]]* Wir arbeiten beide `in` der [[Finanzbranche]], wo Homeoffice- und Hybridmodelle stark [[zugenommen]] haben
+*[[113-LEGO#^4|^]]* [[Derzeit]] sind wir beide `in` `der` [[Finanzbranche]] [[tätig]], wo die [[Popularität]] `von` [[Homeoffice]]- und [[Hybridmodell]]en stark [[zugenommen]] hat
 
 
 *[[114-LEGO#^16|^]]* Zum Glück funktioniert das Sharing-Modell [[inzwischen]] nicht nur `für` Autos: Die [[Zahl]] der `zum` Teilen [[verfügbar]]en Fahrräder und E-Scooter hat in den letzten Jahren deutlich [[zugenommen]] 
