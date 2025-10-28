@@ -7,3 +7,5 @@ The central piece of the project is the _Textfresser_ Obsidian plugin. You can c
 The plugin itself is avaliable in Obsidian's community plugin store. The sorce code for it is [here](https://github.com/clockblocker/filler-de)
 
 For questions, reach out to me in [Telegram](t.me/clockblocker) or by [email](asde3211q@gmail.com)
+
+<img width="1108" height="1142" alt="image" src="https://github.com/user-attachments/assets/e1b1602a-66b6-452e-acb4-91f753ead7db" />
